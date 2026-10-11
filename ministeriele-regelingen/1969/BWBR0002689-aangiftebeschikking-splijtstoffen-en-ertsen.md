@@ -29,21 +29,10 @@ Besluit:
 
 Deze beschikking verstaat onder:
 
-Besluit:
-
-het Besluit registratie splijtstoffen en ertsen (Stb. 1969, 471);
-
-Commissie:
-
-de Commissie van de Europese Gemeenschap voor Atoomenergie;
-
-formulier AKO:
-
-een formulier tot aangifte betreffende het ontvangen van splijtstoffen of ertsen, overeenkomstig het model dat als bijlage I bij deze beschikking is gevoegd;
-
-formulier AKV:
-
-een formulier tot aangifte betreffende het voorhanden hebben van splijtstoffen of ertsen, overeenkomstig het model dat als bijlage II bij deze beschikking is gevoegd.
+- Besluit: het Besluit registratie splijtstoffen en ertsen (Stb. 1969, 471);
+- Commissie: de Commissie van de Europese Gemeenschap voor Atoomenergie;
+- formulier AKO: een formulier tot aangifte betreffende het ontvangen van splijtstoffen of ertsen, overeenkomstig het model dat als bijlage I bij deze beschikking is gevoegd;
+- formulier AKV: een formulier tot aangifte betreffende het voorhanden hebben van splijtstoffen of ertsen, overeenkomstig het model dat als bijlage II bij deze beschikking is gevoegd.
 
 ## Artikel 2
 

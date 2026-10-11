@@ -1,0 +1,54 @@
+---
+title: "Besluit vaststelling bestemming radio-frequenties voor DCS 1800 en GSM"
+identifier: "BWBR0009041"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 1997-11-26
+last_amended: 1997-12-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0009041/1997-12-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0009041/1997-12-01_0/xml/BWBR0009041_1997-12-01_0.xml"
+authority: "Infrastructuur en Milieu"
+rechtsgebied: ["Informatierecht", "Telecomrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit vaststelling bestemming radio-frequenties voor DCS 1800 en GSM
+
+De minister van Verkeer en Waterstaat
+
+Gelet op artikel 13a, eerste lid, van de Wet op de telecommunicatievoorzieningen;
+
+Besluit:
+
+## Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- GSM: het systeem, bedoeld in artikel 1, onder e, van het Besluit vergunningen mobiele telecommunicatie;
+- DCS 1800: het systeem, bedoeld in artikel 1, onder g, van het Besluit vergunningen mobiele telecommunicatie.
+
+## Artikel 2
+
+Voor DCS 1800 zijn, overeenkomstig Recommandatie T/R 22/07 van de Conférence Européenne des Postes et des Télécommunications, de frequentiebanden 1710–1785 MHz en 1805–1880 MHz bestemd.
+
+## Artikel 3
+
+Voor GSM zijn, overeenkomstig richtlijn nr. 87/372/EEG (PbEG L 196) en ERC Decision ERC/DEC (94) 01, onderscheidenlijk ERC Decision ERC/DEC (97) 02, de frequentiebanden 890–915 MHz en 935–960 MHz, onderscheidenlijk 880–890 MHz en 925–935 MHz bestemd.
+
+## Artikel 4
+
+Dit besluit treedt in werking met ingang van 1 december 1997.
+
+## Artikel 5
+
+Dit besluit wordt aangehaald als: Besluit vaststelling bestemming radio-frequenties voor DCS 1800 en GSM.
+
+Dit besluit zal in de Staatscourant worden geplaatst. Tegen dit besluit kunnen belanghebbenden, binnen zes weken nadat dit op de voorgeschreven wijze is bekendgemaakt, een bezwaarschrift indienen bij de Minister van Verkeer en Waterstaat.
+
+De\
+minister\
+Verkeer en Waterstaat\
+A.Jorritsma-Lebbink

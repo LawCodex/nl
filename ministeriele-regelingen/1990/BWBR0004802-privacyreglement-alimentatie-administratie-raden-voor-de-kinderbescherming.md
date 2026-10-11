@@ -29,25 +29,11 @@ Besluit het volgende reglement vast te stellen:
 
 In dit reglement wordt verstaan onder:
 
-de registratie:
-
-de geautomatiseerde alimentatie-administratie bij een raad voor de kinderbescherming;
-
-houder:
-
-de raad voor de kinderbescherming
-
-beheerder:
-
-het hoofd van administratie bij de raad voor de kinderbescherming;
-
-bewerker:
-
-het Rijkscomputercentrum;
-
-jeugdige:
-
-een persoon die de leeftijd van 21 jaren nog niet heeft bereikt.
+- de registratie: de geautomatiseerde alimentatie-administratie bij een raad voor de kinderbescherming;
+- houder: de raad voor de kinderbescherming
+- beheerder: het hoofd van administratie bij de raad voor de kinderbescherming;
+- bewerker: het Rijkscomputercentrum;
+- jeugdige: een persoon die de leeftijd van 21 jaren nog niet heeft bereikt.
 
 ### Artikel 2 — Doelstelling
 

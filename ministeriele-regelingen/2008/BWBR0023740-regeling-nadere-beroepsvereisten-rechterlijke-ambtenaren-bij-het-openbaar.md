@@ -1,0 +1,52 @@
+---
+title: "Regeling nadere beroepsvereisten rechterlijke ambtenaren bij het openbaar ministerie"
+identifier: "BWBR0023740"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2008-04-15
+last_amended: 2011-09-24
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0023740/2011-09-24"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0023740/2011-09-24_0/xml/BWBR0023740_2011-09-24_0.xml"
+authority: "Veiligheid en Justitie"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Ambtenarenrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling nadere beroepsvereisten rechterlijke ambtenaren bij het openbaar ministerie
+
+*Regeling van de Minister van Justitie van 15 april 2008, nr. 5526399/08, houdende nadere regels betreffende de eisen met betrekking tot de kennis van en het inzicht in het strafrecht waaraan moet worden voldaan voor benoeming als rechterlijk ambtenaar bij het openbaar ministerie in geval van toepasselijkheid van artikel 38c, vierde lid, van het Besluit rechtspositie rechterlijke ambtenaren (Regeling nadere beroepsvereisten rechterlijke ambtenaren bij het openbaar ministerie)*
+
+De Minister van Justitie,
+
+Gelet op artikel 38c, vijfde lid, van Besluit rechtspositie rechterlijke ambtenaren;
+
+Besluit:
+
+## Artikel 1
+
+In geval van toepasselijkheid van artikel 2a, vierde lid, van het Besluit rechtspositie rechterlijke ambtenaren dient voor een benoeming als rechterlijk ambtenaar, bedoeld in artikel 1, onderdeel b, onder 5° tot en met 7°, van de Wet op de rechterlijke organisatie, kennis van en inzicht in het strafrecht, met inbegrip van het strafprocesrecht, te zijn verkregen door het met goed gevolg afgelegd hebben van tentamens voor de volgende door een universiteit als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, aangeboden:
+
+- a. onderwijseenheden op het gebied van het strafrecht met een studielast van in totaal tenminste 10 studiepunten als bedoeld in artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, en
+- b. onderwijseenheden op het gebied van het strafprocesrecht met een studielast van in totaal tenminste 10 studiepunten als bedoeld in artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+
+## Artikel 1a
+
+Deze regeling berust op artikel 2a, vijfde lid, van het Besluit rechtspositie rechterlijke ambtenaren.
+
+## Artikel 2
+
+Deze regeling treedt in werking met ingang van 15 april 2008.
+
+## Artikel 3
+
+Deze regeling wordt aangehaald als: Regeling nadere beroepsvereisten rechterlijke ambtenaren bij het openbaar ministerie.
+
+Deze regeling zal met de toelichting in de Staatscourant geplaatst worden.
+
+De\
+Minister\
+Justitie\
+E.M.H.Hirsch Ballin

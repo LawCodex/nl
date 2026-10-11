@@ -36,21 +36,12 @@ De instelling, taak en samenstelling van de Commissie Centraal Overleg Verkeersv
   - d. het bevorderen van een efficiënte en effectieve informatievoorziening met betrekking tot het scheepvaartverkeer.
 - II. In het onder I bedoelde Overleg te benoemen:
 
-  tot voorzitter:
+  - tot voorzitter: mr. R.H.J. de Vries,
+  - tot secretaris: ir. A. J. Veraart;
 
-  mr. R.H.J. de Vries,
-
-  tot secretaris:
-
-  ir. A. J. Veraart; tot adjunct-secretaris: (vacature);
-
-  tot leden:
-
-  namens het Openbaar Ministerie: mr. W.P.H. Hendriks; namens de Directie Politie van het MInisterie van Justitie: drs. A. Molenaar; namens de Rijkspolitie te Water: J. G. W. Bär; namens de Rijkswaterstaat: jhr. mr. H. R. van Doorn, ir. W.H. Barentsen; namens het Directoraat-Generaal voor het Vervoer: (vacature); namens het Directoraat-Generaal Scheepvaart en Maritieme Zaken: mr. K. Polderman, mr. B.G. Hofman; namens het Ministerie van Binnenlandse Zaken: A. de Bruin, J.R. Hes,
-
-  tot plaatsvervangend leden:
-
-  namens het Openbaar Ministerie: mr. H.W. Overbosch, mr. J. Riemersma; namens de Directie Politie van het Ministerie van Justitie: mr. A.W. Jansonius; namens de Rijkspolitie te Water: (vacature); nemens de Rijkswaterstaat: ir. G.J. Schiereck, (vacature); namens het Directoraat-Generaal voor het Vervoer: H. Kapel; namens het Directoraat-Generaal Scheepvaart en Maritieme Zaken: ing. P.A. Veenenbos; namens het Ministerie van Binnenlandse Zaken: M.V. Kösters.
+    tot adjunct-secretaris: (vacature);
+  - tot leden: namens het Openbaar Ministerie: mr. W.P.H. Hendriks; namens de Directie Politie van het MInisterie van Justitie: drs. A. Molenaar; namens de Rijkspolitie te Water: J. G. W. Bär; namens de Rijkswaterstaat: jhr. mr. H. R. van Doorn, ir. W.H. Barentsen; namens het Directoraat-Generaal voor het Vervoer: (vacature); namens het Directoraat-Generaal Scheepvaart en Maritieme Zaken: mr. K. Polderman, mr. B.G. Hofman; namens het Ministerie van Binnenlandse Zaken: A. de Bruin, J.R. Hes,
+  - tot plaatsvervangend leden: namens het Openbaar Ministerie: mr. H.W. Overbosch, mr. J. Riemersma; namens de Directie Politie van het Ministerie van Justitie: mr. A.W. Jansonius; namens de Rijkspolitie te Water: (vacature); nemens de Rijkswaterstaat: ir. G.J. Schiereck, (vacature); namens het Directoraat-Generaal voor het Vervoer: H. Kapel; namens het Directoraat-Generaal Scheepvaart en Maritieme Zaken: ing. P.A. Veenenbos; namens het Ministerie van Binnenlandse Zaken: M.V. Kösters.
 
 ## Artikel 2
 

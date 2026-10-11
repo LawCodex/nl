@@ -27,13 +27,8 @@ Besluit:
 
 Deze beschikking verstaat onder:
 
-Verdrag:
-
-het op 5 september 1952 tussen Nederland België en Luxemburg gesloten Verdrag nopens wederkerige bijstand inzake de invordering van belastingschulden (*Trb.* 1952, 137);
-
-goedkeuringswet:
-
-de wet van 8 juli 1953 (*Stb.* 332), houdende goedkeuring van het Verdrag.
+- Verdrag: het op 5 september 1952 tussen Nederland België en Luxemburg gesloten Verdrag nopens wederkerige bijstand inzake de invordering van belastingschulden (*Trb.* 1952, 137);
+- goedkeuringswet: de wet van 8 juli 1953 (*Stb.* 332), houdende goedkeuring van het Verdrag.
 
 ## Artikel 2
 

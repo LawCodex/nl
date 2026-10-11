@@ -1060,25 +1060,11 @@ Degene die artikel 2.61, achtste lid, overtreedt, pleegt een verzuim ter zake wa
 
 In deze afdeling wordt verstaan onder:
 
-de minister:
-
-de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
-
-besluit:
-
-het Uitvoeringsbesluit Douane- en Accijnswet BES;
-
-beschikkingsbevoegde:
-
-een exporteur als bedoeld in artikel 2, derde lid, van Verordening 428/2009 met dien verstande dat voor een bestemming buiten het douanegebied van de Unie een bestemming buiten de BES eilanden wordt gelezen;
-
-Verordening 428/2009:
-
-Verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134);
-
-N.A.V.O.-strijdkrachten:
-
-de krijgsmacht van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 355).
+- de minister: de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
+- besluit: het Uitvoeringsbesluit Douane- en Accijnswet BES;
+- beschikkingsbevoegde: een exporteur als bedoeld in artikel 2, derde lid, van Verordening 428/2009 met dien verstande dat voor een bestemming buiten het douanegebied van de Unie een bestemming buiten de BES eilanden wordt gelezen;
+- Verordening 428/2009: Verordening (EG) nr. 428/2009 van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134);
+- N.A.V.O.-strijdkrachten: de krijgsmacht van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 355).
 
 #### Artikel 2.82
 

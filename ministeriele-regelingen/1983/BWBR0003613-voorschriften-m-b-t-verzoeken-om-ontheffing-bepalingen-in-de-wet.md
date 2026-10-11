@@ -102,17 +102,9 @@ N.Smit-Kroes
 
 ## Bijlage I — Vorm, samenstelling en eigenschappen van stoffen
 
-Vorm:
-
-De vorm ten tijde van het lozen; het gehalte aan vaste stoffen; de deeltjesgrootte-verdeling van de vaste stoffen.
-
-Samenstelling:
-
-De gehalten van de bestanddelen uitgesplitst naar vaste en vloeibare fase.
-
-Eigenschappen:
-
-De fysische, chemische, biochemische en biologische eigenschappen van de te lozen stoffen. Op grond van de samenstelling en of hoeveelheid van de te lozen stoffen dienen gegevens te worden verstrekt betreffende de giftigheid, de afbreekbaarheid, de carcinogeniteit, de genotoxiciteit, de pathogeniteit en het accumulatiegedrag. Op grond van de samenstelling en of hoeveelheid van de te verbranden stoffen dienen bij verbranding tevens gegevens te worden verstrekt betreffende het vernietigingsrendement en de eventuele resterende onverbrande verbindingen of tijdens de verbranding nieuw gevormde verbindingen.
+- Vorm: De vorm ten tijde van het lozen; het gehalte aan vaste stoffen; de deeltjesgrootte-verdeling van de vaste stoffen.
+- Samenstelling: De gehalten van de bestanddelen uitgesplitst naar vaste en vloeibare fase.
+- Eigenschappen: De fysische, chemische, biochemische en biologische eigenschappen van de te lozen stoffen. Op grond van de samenstelling en of hoeveelheid van de te lozen stoffen dienen gegevens te worden verstrekt betreffende de giftigheid, de afbreekbaarheid, de carcinogeniteit, de genotoxiciteit, de pathogeniteit en het accumulatiegedrag. Op grond van de samenstelling en of hoeveelheid van de te verbranden stoffen dienen bij verbranding tevens gegevens te worden verstrekt betreffende het vernietigingsrendement en de eventuele resterende onverbrande verbindingen of tijdens de verbranding nieuw gevormde verbindingen.
 
 ## Bijlage II — Formulier A
 

@@ -27,13 +27,8 @@ Besluit:
 
 Deze beschikking verstaat onder:
 
-wet:
-
-Wet op de omzetbelasting 1968;
-
-belasting:
-
-omzetbelasting geheven krachtens de Wet op de Omzetbelasting 1954 (*Stb.* 558).
+- wet: Wet op de omzetbelasting 1968;
+- belasting: omzetbelasting geheven krachtens de Wet op de Omzetbelasting 1954 (*Stb.* 558).
 
 ## Artikel 2
 

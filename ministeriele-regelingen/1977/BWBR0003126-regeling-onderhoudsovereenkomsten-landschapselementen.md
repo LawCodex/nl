@@ -33,21 +33,10 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-‘de Minister’:
-
-de Minister van Landbouw, Natuurbeheer en Visserij;
-
-‘de gebruiksgerechtigden’:
-
-de natuurlijke persoon of rechtspersoon, niet zijnde een provincie, een gemeente of enig ander rechtspersoonlijkheid bezittend lichaam met openbaar gezag bekleed, die als eigenaar of anderszins zakelijk gerechtigde dan wel als persoonlijk gerechtigde het gebruik heeft van de grond.
-
-‘landschapselement’:
-
-een door de Minister, overeenkomstig nader gestelde regelen, als zodanig aangemerkt element van grote landschappelijke, natuurwetenschappelijke of cultuurhistorische betekenis;
-
-‘onderhoudsovereenkomst’:
-
-een overeenkomst waarbij de gebruiksgerechtigde zich tegen een geldelijke vergoeding jegens de Staat verbindt tot het onderhouden van een of meer landschapselementen.
+- ‘de Minister’: de Minister van Landbouw, Natuurbeheer en Visserij;
+- ‘de gebruiksgerechtigden’: de natuurlijke persoon of rechtspersoon, niet zijnde een provincie, een gemeente of enig ander rechtspersoonlijkheid bezittend lichaam met openbaar gezag bekleed, die als eigenaar of anderszins zakelijk gerechtigde dan wel als persoonlijk gerechtigde het gebruik heeft van de grond.
+- ‘landschapselement’: een door de Minister, overeenkomstig nader gestelde regelen, als zodanig aangemerkt element van grote landschappelijke, natuurwetenschappelijke of cultuurhistorische betekenis;
+- ‘onderhoudsovereenkomst’: een overeenkomst waarbij de gebruiksgerechtigde zich tegen een geldelijke vergoeding jegens de Staat verbindt tot het onderhouden van een of meer landschapselementen.
 
 ### Artikel 2
 

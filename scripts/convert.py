@@ -25,7 +25,7 @@ SKIP = {
 INLINE = {
     "nadruk", "intref", "extref", "redactie", "sup", "inf", "noot", "nootref", "tekstcorrectie",
     "naam", "voornaam", "achternaam", "functie", "datum", "plaats", "dossierref", "label", "nr",
-    "titel", "subtitel", "br", "omissie", "unl", "ovl", "term", "definitie",
+    "titel", "subtitel", "br", "omissie", "unl", "ovl", "afk",
 }
 PARA = {
     "al", "considerans.al", "noot.al", "slotformulering", "afkondiging", "wij", "tussenkop",
@@ -184,6 +184,8 @@ class Doc:
             return [self.lijst(c, 0)]
         if t == "table":
             return [self.table(c)]
+        if t in ("definitielijst", "specificatielijst"):
+            return [self.pairlist(c)]
         if t == "plaatje":
             res = []
             for x in c:
@@ -282,14 +284,44 @@ class Doc:
                     lines.append(f"{ind}  {body}")
         return "\n".join(lines)
 
+    def pairlist(self, el):
+        """definitielijst (term/definitie) and specificatielijst (specificatie/waarde)."""
+        lines = []
+        for item in el:
+            if not isinstance(item.tag, str) or item.tag in SKIP:
+                continue
+            parts = []
+            for x in item:
+                if not isinstance(x.tag, str) or x.tag in SKIP:
+                    continue
+                bl = self.block(x, 0) if len(x) and x.find("al") is not None else [self.inner(x).strip()]
+                parts.extend(b for b in bl if b.strip())
+            if not parts:
+                continue
+            first = parts[0].lstrip("\\") if re.match(r"^\\[#>+=\-|]", parts[0]) else parts[0]
+            line = "- " + first
+            if len(parts) > 1 and not parts[1].startswith(("- ", "|", "<table")):
+                line += " " + parts[1]
+                rest = parts[2:]
+            else:
+                rest = parts[1:]
+            lines.append(line)
+            for b in rest:
+                lines.append("")
+                lines.append("  " + re.sub(r"\n(?=.)", "\n  ", b))
+        return "\n".join(lines)
+
     # ---- tables -------------------------------------------------------
     def table(self, tbl):
         out = []
         title = tbl.find("title")
         if title is not None and clean(title.text).strip():
             out.append(f"**{self.inline(title).strip()}**")
-        for tg in tbl.findall("tgroup"):
-            out.append(self.tgroup(tg))
+        for x in tbl:
+            if x.tag == "tgroup":
+                out.append(self.tgroup(x))
+            elif isinstance(x.tag, str) and x.tag not in SKIP and x.tag != "title":
+                out.extend(self.block(x, 0))
         return "\n\n".join(out)
 
     def cell(self, entry):

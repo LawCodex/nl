@@ -60,25 +60,13 @@ Tot de kosten genoemd sub 1 behoren:
 
 De sub 2 genoemde kosten worden als volgt bepaald
 
-*salarissen plus sociale lasten*
+- *salarissen plus sociale lasten* Voor de berekening van het uurloon wordt uitgegaan van het door de betrokken medewerker(s) genoten bruto maandsalaris verhoogd met toelagen, vakantietoeslag en sociale lasten. Voor de bepaling van het aantal nuttige werkuren per maand wordt een op de ervaring gebaseerd aantal niet gewerkte uren wegens verlof, ziekte of anderszins in aanmerking genomen:
+- *materiaalkosten* In rekening orden gebracht alle materiaalkosten die specifiek ten behoeve van de uitvoering van de opdracht zijn gemaakt;
+- *kosten computer en andere apparatuur* Doorberekend worden de kosten per tijdseenheid van voor de uitvoering van de opdracht ingezette apparatuur naar rato van het aantal aan de opdracht bestede tijdseenheden; voor de toerekening van de kosten per tijdseenheid wordt uitgegaan van het normale aantal produktieve draai-uren per jaar en worden de kosten van afschrijving, renteverlies, onderhoud en revisie, huisvesting en energieverbruik in aanmerking genomen;
+- *personele overheadkosten* Tot personele overheadkosten worden gerekend de bruto-salarissen plus sociale lasten van directie-en stafleden, secretaresses en personeel van beheersorganen;
+- *materiële overheadkosten* Dat deel van de materiële overheadkosten wordt aan afnemers in rekening gebracht dat geacht kan worden gerelateerd te zijn aan de voor verstrekkingen aan derden beschikbaar gehouden werkcapaciteit. Deze overhead wordt berekend tot een bedrag per gewerkt uur. In aanmerking worden genomen renteverlies en afschrijving op gebouwen en renteverlies op terreinen op basis van vervangingswaarde van het gedeelte dat voor algemeen gebruik is bestemd, huisvestingskosten, algemene inrichtingskosten, bureaukosten, e.d.
 
-Voor de berekening van het uurloon wordt uitgegaan van het door de betrokken medewerker(s) genoten bruto maandsalaris verhoogd met toelagen, vakantietoeslag en sociale lasten. Voor de bepaling van het aantal nuttige werkuren per maand wordt een op de ervaring gebaseerd aantal niet gewerkte uren wegens verlof, ziekte of anderszins in aanmerking genomen:
-
-*materiaalkosten*
-
-In rekening orden gebracht alle materiaalkosten die specifiek ten behoeve van de uitvoering van de opdracht zijn gemaakt;
-
-*kosten computer en andere apparatuur*
-
-Doorberekend worden de kosten per tijdseenheid van voor de uitvoering van de opdracht ingezette apparatuur naar rato van het aantal aan de opdracht bestede tijdseenheden; voor de toerekening van de kosten per tijdseenheid wordt uitgegaan van het normale aantal produktieve draai-uren per jaar en worden de kosten van afschrijving, renteverlies, onderhoud en revisie, huisvesting en energieverbruik in aanmerking genomen;
-
-*personele overheadkosten*
-
-Tot personele overheadkosten worden gerekend de bruto-salarissen plus sociale lasten van directie-en stafleden, secretaresses en personeel van beheersorganen;
-
-*materiële overheadkosten*
-
-Dat deel van de materiële overheadkosten wordt aan afnemers in rekening gebracht dat geacht kan worden gerelateerd te zijn aan de voor verstrekkingen aan derden beschikbaar gehouden werkcapaciteit. Deze overhead wordt berekend tot een bedrag per gewerkt uur. In aanmerking worden genomen renteverlies en afschrijving op gebouwen en renteverlies op terreinen op basis van vervangingswaarde van het gedeelte dat voor algemeen gebruik is bestemd, huisvestingskosten, algemene inrichtingskosten, bureaukosten, e.d. Een en ander op basis van de meest recente begrotingsgegevens.
+  Een en ander op basis van de meest recente begrotingsgegevens.
 
 ### 4
 

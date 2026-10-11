@@ -1,0 +1,67 @@
+---
+title: "Regeling vaststelling L-bord"
+identifier: "BWBR0008048"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 1996-05-14
+last_amended: 1996-06-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0008048/1996-06-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0008048/1996-06-01_0/xml/BWBR0008048_1996-06-01_0.xml"
+authority: "Infrastructuur en Milieu"
+rechtsgebied: ["Vervoersrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling vaststelling L-bord
+
+De Minister van Verkeer en Waterstaat,
+
+Gelet op artikel 108,tweede lid, van de Wegenverkeerswet 1994 en op de artikelen 7, onderdeel d, 8, onderdeel c, 9, eerste lid, onderdeel c, 79, 80, onderdeel c, en 81, onderdeel c, van het Reglement rijbewijzen;
+
+Besluit:
+
+## Artikel 1
+
+De aanduiding, bedoeld in de artikelen 7, onderdeel d, 8, onderdeel c, 9, eerste lid, onderdeel c, 79, 80, onderdeel c, en 81, onderdeel c, van het Reglement rijbewijzen, bestaat uit een witte hoofdletter ’L’ op een lichtblauwe, vierkante achtergrond, die niet retroreflecterend is.
+
+## Artikel 2
+
+1\. Voor motorrijtuigen op meer dan twee wielen moet de in artikel 1 bedoelde aanduiding zodanig zijn aangebracht dat deze zowel voor het tegemoetkomende als voor het achteropkomende verkeer duidelijk en goed zichtbaar is.
+
+2\. Bij motorrijtuigen op twee wielen moet de in artikel 1 bedoelde aanduiding zodanig zijn aangebracht dat deze voor het achteropkomende verkeer duidelijk en goed zichtbaar is.
+
+## Artikel 3
+
+De afmetingen van achtergrond en letter worden als volgt vastgesteld:
+
+| | | |
+| --- | --- | --- |
+| | Motorrijtuigen op twee wielen | Overige motorrijtuigen |
+| Buitenzijde van de lichtblauwe achtergrond | 12 cm | 16 cm |
+| Hoogte van de letter ’L’ | 8 cm | 10 cm |
+| Dikte van de stam van de letter | 1,5 cm | 2 cm |
+
+## Artikel 4
+
+De regeling van de Minister van Verkeer en Waterstaat van 1 oktober 1991, nr. R 104330 Hoofddirectie van de Waterstaat (Stcrt. 202), houdende vaststelling lesbord, wordt ingetrokken.
+
+## Artikel 5
+
+Deze regeling treedt in werking met ingang van 1 juni 1996.
+
+## Artikel 6
+
+Deze regeling wordt aangehaald als: Regeling vaststelling L-bord.
+
+Deze regeling zal worden geplaatst in de Staatscourant.
+
+’s-Gravenhage 14 mei 1996
+
+De\
+Minister\
+Verkeer en Waterstaat
+
+A. Jorritsma-Lebbink

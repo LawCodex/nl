@@ -1,0 +1,242 @@
+---
+title: "Regeling inhoudelijk verslag nieuwkomers 2007 (niet-G31) en 2008 (G31 en niet-G31)"
+identifier: "BWBR0025345"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2009-02-17
+last_amended: 2013-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0025345/2013-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0025345/2013-01-01_0/xml/BWBR0025345_2013-01-01_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Migratierecht", "Vreemdelingenrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling inhoudelijk verslag nieuwkomers 2007 (niet-G31) en 2008 (G31 en niet-G31)
+
+*Regeling van de Minister voor Wonen, Wijken en Integratie van 17 februari 2009, nr. BJZ2009008145, houdende vaststelling van nadere regels voor de inrichting van het verslag, bedoeld in artikel 15, vierde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid, en in artikel 9.6, tiende lid, van het Besluit inburgering (Regeling inhoudelijk verslag nieuwkomers 2007 (niet G31)en 2008 (G31 en niet-G31))*
+
+De Minister voor Wonen, Wijken en Integratie,
+
+Gelet op artikel 15, vierde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid, en artikel 9.6, tiende lid, van het Besluit inburgering;
+
+Besluit:
+
+## Artikel 1
+
+Het verslag, bedoeld in artikel 15, vierde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid, wordt ingericht overeenkomstig de vragenlijst in de bij deze regeling behorende bijlage 1.
+
+## Artikel 2
+
+Vervallen
+
+## Artikel 3
+
+De Regeling inhoudelijk verslag nieuwkomers G31 2007 wordt ingetrokken.
+
+## Artikel 4
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+## Artikel 5
+
+Deze regeling wordt aangehaald als: Regeling inhoudelijk verslag nieuwkomers 2007 (niet-G31) en 2008 (G31 en niet-G31).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Den Haag 17 februari 2009
+
+De\
+Minister\
+Wonen, Wijken en Integratie\
+E.E. van derLaan
+
+## Bijlage 1
+
+### Inhoudelijk verslag nieuwkomers 2008 (G31 gemeenten)
+
+Het inhoudelijk verslag nieuwkomers bestaat uit 2 delen:
+
+- 1. Afronding en uitval
+- 2. Toetsresultaten
+
+#### 1 — Afronding en uitval
+
+##### 1a — Afgeronde trajecten
+
+Aantal afgeronde trajecten in 2008, verdeeld naar startjaar (= jaar van de overeenkomst).
+
+| Startjaar | Nieuwkomer | Totaal |
+| --- | --- | --- |
+| 2007 | | |
+| 2006 | | |
+| 2005 | | |
+| 2004 of eerder | | |
+| Totaal | | |
+
+##### 1b — Blijft in traject
+
+Aantal nieuwkomers dat na 31 december 2008 nog in het traject blijft, verdeeld naar startjaar (= jaar van de overeenkomst).
+
+| Startjaar | Nieuwkomer | Totaal |
+| --- | --- | --- |
+| 2007 | | |
+| 2006 | | |
+| 2005 | | |
+| 2004 of eerder | | |
+| Totaal | | |
+
+##### 1c — Uitval
+
+Aantal nieuwkomers dat in 2008 is uitgevallen, verdeeld naar startjaar (= jaar van de overeenkomst).
+
+| Startjaar | Nieuwkomer | Totaal |
+| --- | --- | --- |
+| 2007 | | |
+| 2006 | | |
+| 2005 | | |
+| 2004 of eerder | | |
+| Totaal | | |
+
+##### 1d — Reden van uitval
+
+Aantal nieuwkomers, dat in 2008 is uitgevallen, verdeeld naar reden.
+
+| Reden uitval | Nieuwkomer | Totaal |
+| --- | --- | --- |
+| Werk | | |
+| Zwangerschap | | |
+| Geen motivatie | | |
+| Geen kinderopvang | | |
+| Langdurig ziek/overlijden | | |
+| Intergemeentelijke verhuizing | | |
+| Verhuizing naar het buitenland | | |
+| Geen passend aanbod | | |
+| Overig | | |
+| Onbekend | | |
+| Totaal | | |
+
+#### 2 — Toetsresultaten
+
+##### 2a — Verklaringen van de onderwijsinstelling
+
+Aantal verklaringen van de onderwijsinstelling dat in 2008 aan nieuwkomers is uitgereikt.
+
+| Startjaar | Aantal |
+| --- | --- |
+| 2007 | |
+| 2006 | |
+| 2005 | |
+| 2004 of eerder | |
+| Totaal | |
+
+##### 2b — Lezen
+
+Toename van de beheersing van de vaardigheid lezen van de nieuwkomers die hun traject hebben afgerond in 2008.
+
+| Van startniveau naar eindniveau | Nieuwkomer | Totaal |
+| --- | --- | --- |
+| Van 0 naar | | |
+| 0 | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 1 naar | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 2 naar | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 3 naar | | |
+| 3 | | |
+| Hoger | | |
+| Totaal | | |
+
+##### 2c — Schrijven
+
+Toename van de beheersing van de vaardigheid schrijven van de nieuwkomers die hun traject hebben afgerond in 2008.
+
+| Van startniveau naar eindniveau | Nieuwkomer | Totaal |
+| --- | --- | --- |
+| Van 0 naar | | |
+| 0 | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 1 naar | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 2 naar | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 3 naar | | |
+| 3 | | |
+| Hoger | | |
+| Totaal | | |
+
+##### 2d — Spreken
+
+Toename van de beheersing van de vaardigheid spreken van de nieuwkomers die hun traject hebben afgerond in 2008.
+
+| Van startniveau naar eindniveau | Nieuwkomer | Totaal |
+| --- | --- | --- |
+| Van 0 naar | | |
+| 0 | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 1 naar | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 2 naar | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 3 naar | | |
+| 3 | | |
+| Hoger | | |
+| Totaal | | |
+
+##### 2e — Luisteren
+
+Toename van de beheersing van de vaardigheid luisteren van de nieuwkomers die hun traject hebben afgerond in 2008.
+
+| Van startniveau naar eindniveau | Nieuwkomer | Totaal |
+| --- | --- | --- |
+| Van 0 naar | | |
+| 0 | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 1 naar | | |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 2 naar | | |
+| 2 | | |
+| 3 | | |
+| Hoger | | |
+| Van 3 naar | | |
+| 3 | | |
+| Hoger | | |
+| Totaal | | |
+
+## Bijlage 2
+
+Vervallen

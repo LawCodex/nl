@@ -31,13 +31,8 @@ Deze regeling geeft uitvoering aan de artikelen XVIII, derde lid, XIX, tiende li
 
 Deze regeling verstaat onder:
 
-wet:
-
-Wet op de accijns (Stb. 1991, 561);
-
-invoeringswet:
-
-Invoeringswet Wet op de accijns.
+- wet: Wet op de accijns (Stb. 1991, 561);
+- invoeringswet: Invoeringswet Wet op de accijns.
 
 ## Artikel 3
 

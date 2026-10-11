@@ -31,17 +31,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-*waren*:
-
-de waren waarop de in artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet (Stb. 358) bedoelde besluiten van toepassing zijn;
-
-*uitvoer*:
-
-het buiten Nederlands grondgebied brengen van waren;
-
-*samenstelling*:
-
-het geheel van kenmerkende ingrediënten, onderscheidenlijk het geheel van kenmerkende onderdelen van waren.
+- *waren*: de waren waarop de in artikel II, eerste lid, van de Wijzigingswet 1988 Warenwet (Stb. 358) bedoelde besluiten van toepassing zijn;
+- *uitvoer*: het buiten Nederlands grondgebied brengen van waren;
+- *samenstelling*: het geheel van kenmerkende ingrediënten, onderscheidenlijk het geheel van kenmerkende onderdelen van waren.
 
 ## Artikel 2
 

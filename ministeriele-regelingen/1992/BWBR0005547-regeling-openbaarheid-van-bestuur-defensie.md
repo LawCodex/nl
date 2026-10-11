@@ -29,21 +29,10 @@ Besluit: Vast te stellen de volgende regeling ter uitvoering van de Wet openbaar
 
 In deze regeling wordt verstaan onder:
 
-de wet:
-
-de Wet openbaarheid van bestuur (Stb. 1991, 703);
-
-gemachtigd ambtenaar:
-
-een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;
-
-informatiepunt:
-
-een persoon of een plaats binnen het ministerie en binnen de daaronder ressorterende instellingen, diensten of bedrijven waar informatie kan worden verkregen;
-
-de minister:
-
-de Minister van Defensie.
+- de wet: de Wet openbaarheid van bestuur (Stb. 1991, 703);
+- gemachtigd ambtenaar: een ambtenaar die door de minister tot het beslissen over verzoeken om informatie is gemachtigd;
+- informatiepunt: een persoon of een plaats binnen het ministerie en binnen de daaronder ressorterende instellingen, diensten of bedrijven waar informatie kan worden verkregen;
+- de minister: de Minister van Defensie.
 
 ### Artikel 2 — Register
 

@@ -1,0 +1,54 @@
+---
+title: "Aanwijzing inzake korting 1998 op de aanvaardbare kosten van de FB-ziekenhuizen"
+identifier: "BWBR0009058"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 1997-11-28
+last_amended: 1997-12-05
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0009058/1997-12-05"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0009058/1997-12-05_0/xml/BWBR0009058_1997-12-05_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Gezondheidsrecht en farmaceutisch recht"]
+retrieved: 2026-10-11
+---
+
+# Aanwijzing inzake korting 1998 op de aanvaardbare kosten van de FB-ziekenhuizen
+
+*Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake korting 1998 op de aanvaardbare kosten van de FB-ziekenhuizen*
+
+De Minister van Volksgezondheid, Welzijn en Sport en de Minister van Economische Zaken,
+
+Gelet op artikel 14 van de Wet tarieven gezondheidszorg;
+
+Gehoord het Centraal orgaan tarieven gezondheidszorg, (brief van 23 oktober 1997, kenmerk HO/tbk/A/97/124, vastgesteld in de vergadering van 20 oktober 1997);
+
+Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (brief 6 november 1997, kenmerk VPZ/P-974000)
+
+Besluiten:
+
+## Artikel 1
+
+Het Centraal orgaan tarieven gezondheidszorg (Cotg) wijzigt voor de prestaties van instellingen, die in artikel 1, onder A, nummer 1 (ziekenhuizen), van het Besluit werkingssfeer Wet tarieven gezondheidszorg 1992 als organen voor gezondheidszorg zijn aangewezen, en voorzover het organen betreft waarop de FB-richtlijnen van toepassing zijn, de richtlijnen zodanig dat vanaf 1 januari 1998 de richtlijnen, die door het Cotg zijn vastgesteld ter uitvoering van de aanwijzing van 6 december 1996 (brief VPZ/P-962924) voor zover het betreft de in artikel 1, lid 1 van die aanwijzing vastgelegde incidentele verlaging met f 100 mln, worden omgezet in richtlijnen, die bewerkstelligen dat genoemde incidentele verlaging een structureel karakter krijgt.
+
+## Artikel 2
+
+In de bedoelde richtlijnen ter uitvoering van de onderhavige aanwijzing wordt bepaald dat het Cotg, bij het ontbreken van een verzoek tot goedkeuring of vaststelling van tarieven, ambsthalve gewijzigde tarieven vaststelt.
+
+## Artikel 3
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
+
+De\
+Minister\
+Volksgezondheid, Welzijn en Sport\
+E.Borst-Eilers
+
+De\
+Minister\
+Economische Zaken\
+G.J.Wijers

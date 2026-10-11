@@ -31,13 +31,8 @@ Besluit:
 
 In deze regeling wordt verstaan onder
 
-fonds:
-
-het Invaliditeits- en Ouderdomsfonds, bedoeld en de Invaliditeitswet (Stb. 1913, 205), en het
-
-Ouderdomsfonds B,
-
-bedoeld in de Ouderdomswet 1919 (Stb. 1919, 628).
+- fonds: het Invaliditeits- en Ouderdomsfonds, bedoeld en de Invaliditeitswet (Stb. 1913, 205), en het
+- Ouderdomsfonds B, bedoeld in de Ouderdomswet 1919 (Stb. 1919, 628).
 
 ### Artikel 2
 

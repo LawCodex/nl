@@ -29,13 +29,8 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-de wet:
-
-de Wet uitkeringen vervolgingsslachtoffers 1940–1945 (Stb. 1972, 669);
-
-grondslag:
-
-de grondslag, bedoeld in artikel 8, zesde lid, van de wet.
+- de wet: de Wet uitkeringen vervolgingsslachtoffers 1940–1945 (Stb. 1972, 669);
+- grondslag: de grondslag, bedoeld in artikel 8, zesde lid, van de wet.
 
 ## Artikel 2
 

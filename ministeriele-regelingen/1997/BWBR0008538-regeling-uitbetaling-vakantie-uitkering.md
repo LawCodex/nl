@@ -1,0 +1,67 @@
+---
+title: "Regeling uitbetaling vakantie-uitkering"
+identifier: "BWBR0008538"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 1997-02-06
+last_amended: 2013-07-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0008538/2013-07-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0008538/2013-07-01_0/xml/BWBR0008538_2013-07-01_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Pensioenrecht", "Arbeidsrecht en sociaal-zekerheidsrecht", "Sociaal zekerheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling uitbetaling vakantie-uitkering
+
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,
+
+Gelet op de artikelen 33 van de Algemene Ouderdomswet en 50, tweede lid, van de Algemene nabestaandenwet;
+
+Besluit:
+
+## Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+- *pensioen:* het ouderdomspensioen op grond van de Algemene Ouderdomswet;
+- *uitkering:* de nabestaandenuitkering en de wezenuitkering op grond van de Algemene nabestaandenwet.
+
+## Artikel 2
+
+Indien een pensioen wordt beëindigd vindt de uitbetaling van de vakantie-uitkering, waarop op grond van dat pensioen recht bestaat, gelijktijdig plaats met de uitbetaling van de laatste termijn van dat pensioen of zo spoedig mogelijk daarna.
+
+## Artikel 3
+
+Indien in een periode van twaalf maanden als bedoeld in de artikelen 31, tweede lid, van de Algemene Ouderdomswet en 50, eerste lid, van de Algemene nabestaandenwet, het recht op pensioen dan wel uitkering is beëindigd en nadien in dezelfde periode opnieuw een recht op pensioen dan wel uitkering is ontstaan, wordt voor de berekening van de vakantie-uitkering rekening gehouden met hetgeen over die periode reeds aan vakantie-uitkering op grond van pensioen dan wel uitkering is uitbetaald.
+
+## Artikel 4
+
+De uitbetaling van vakantie-uitkering over de maanden dat de uitbetaling van pensioen dan wel uitkering is opgeschort of geschorst, vindt niet eerder plaats dan nadat die opschorting of schorsing is opgeheven. Indien de uitbetaling van een pensioen dan wel uitkering gedeeltelijk is opgeschort, is de eerste zin van overeenkomstige toepassing op de vakantie-uitkering die betrekking heeft op dat gedeelte van het pensioen dan wel uitkering dat door opschorting of schorsing niet is uitbetaald.
+
+## Artikel 5
+
+De uitbetaling van de vakantie-uitkering vindt na overlijden tegelijkertijd plaats met de overlijdensuitkering bedoeld in artikel 18, eerste lid, van de Algemene Ouderdomswet en artikel 51, eerste lid, van de Algemene nabestaandenwet.
+
+## Artikel 6
+
+De regeling van de Minister van Sociale Zaken en Werkgelegenheid van 30 juli 1985, nr. SZ/SV/VV/85/1382 (Stcrt. 151) wordt ingetrokken.
+
+## Artikel 7
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 1996.
+
+## Artikel 8
+
+Deze regeling wordt aangehaald als: Regeling uitbetaling vakantie-uitkering.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+’s-Gravenhage 6 februari 1997
+
+De\
+Staatssecretaris\
+F.H.G. deGrave

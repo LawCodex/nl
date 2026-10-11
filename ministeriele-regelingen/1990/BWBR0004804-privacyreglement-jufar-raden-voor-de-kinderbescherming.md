@@ -29,25 +29,11 @@ Besluit het volgende reglement vast te stellen:
 
 In dit reglement wordt verstaan onder:
 
-de registratie:
-
-de geautomatiseerde comptabele-administratie bij een raad voor de kinderbescherming;
-
-houder:
-
-de raad voor de kinderbescherming;
-
-beheerder:
-
-het hoofd van de afdeling boekhouding;
-
-autorisatiebeschikking:
-
-de beschikking van de houder van de registratie waarin is opgenomen welke functionarissen bevoegd zijn handelingen met betrekking tot de registratie te verrichten, op welk deel van de registratie die handelingen betrekking hebben, alsmede aard en het doel van die handelingen;
-
-de raad:
-
-de raad voor de kinderbescherming.
+- de registratie: de geautomatiseerde comptabele-administratie bij een raad voor de kinderbescherming;
+- houder: de raad voor de kinderbescherming;
+- beheerder: het hoofd van de afdeling boekhouding;
+- autorisatiebeschikking: de beschikking van de houder van de registratie waarin is opgenomen welke functionarissen bevoegd zijn handelingen met betrekking tot de registratie te verrichten, op welk deel van de registratie die handelingen betrekking hebben, alsmede aard en het doel van die handelingen;
+- de raad: de raad voor de kinderbescherming.
 
 ### Artikel 2 — Doelstelling
 

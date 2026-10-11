@@ -25,21 +25,10 @@ Besluit:
 
 ## Artikel 1 — *Begripsbepalingen*
 
-*registratie:*
-
-de geautomatiseerde administratie bij de Directie Dienstplichtzaken van ingeschrevenen voor de dienstplicht;
-
-*houder:*
-
-de directeur Dienstplichtzaken;
-
-*geregistreerde:*
-
-degene over wie de registratie gegevens bevat;
-
-*uitvoerders:*
-
-de staffunctionaris Automatisering bij de Directie Dienstplichtzaken, het hoofd van het Defensie-computercentrum.
+- *registratie:* de geautomatiseerde administratie bij de Directie Dienstplichtzaken van ingeschrevenen voor de dienstplicht;
+- *houder:* de directeur Dienstplichtzaken;
+- *geregistreerde:* degene over wie de registratie gegevens bevat;
+- *uitvoerders:* de staffunctionaris Automatisering bij de Directie Dienstplichtzaken, het hoofd van het Defensie-computercentrum.
 
 ## Artikel 2 — Doelstelling van de registratie
 

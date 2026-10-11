@@ -33,47 +33,18 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-‘de wet’:
-
-de Wet gewetensbezwaren militaire dienst (Stb. 1980, 6);
-
-‘het besluit’:
-
-het Besluit gewetensbezwaren militaire dienst (Stb. 1980, 5);
-
-‘de minister’:
-
-de minister van Sociale Zaken en Werkgelegenheid;
-
-‘de Directie TEGMD’:
-
-de Directie Tewerkstelling Erkende Gewetensbezwaarden Militaire Dienst van het ministerie van Sociale Zaken en Werkgelegenheid;
-
-‘de tewerkgestelde’:
-
-de tewerkgestelde in de zin van artikel 1, eerste lid, van de wet;
-
-‘de dienst’:
-
-de overheidsdienst dan wel de instelling, waarbij de tewerkstelling plaatsvindt;
-
-‘werkelijke militaire dienst’:
-
-werkelijke dienst verricht als militair, waaronder begrepen justitieel voorlopig arrest ondergaan in afwachting van een beslissing op een beroep op de wet;
-
-‘tewerkstelling’:
-
-de gewone vervangende dienst in de zin van artikel 1, eerste lid, van de wet;
-
-‘levenspartner’:
-
-de echtgenote; de persoon met wie de niet-gehuwde tewerkgestelde als levenspartner op één adres samenwoont en aldaar een gezamenlijke huishouding voert; ten bewijze waarvan aan de Directie TEGMD zijn overgelegd: - een door de tewerkgestelde en zijn levenspartner ondertekende verklaring, ingericht overeenkomstig de bijlage bij deze regeling;
+- ‘de wet’: de Wet gewetensbezwaren militaire dienst (Stb. 1980, 6);
+- ‘het besluit’: het Besluit gewetensbezwaren militaire dienst (Stb. 1980, 5);
+- ‘de minister’: de minister van Sociale Zaken en Werkgelegenheid;
+- ‘de Directie TEGMD’: de Directie Tewerkstelling Erkende Gewetensbezwaarden Militaire Dienst van het ministerie van Sociale Zaken en Werkgelegenheid;
+- ‘de tewerkgestelde’: de tewerkgestelde in de zin van artikel 1, eerste lid, van de wet;
+- ‘de dienst’: de overheidsdienst dan wel de instelling, waarbij de tewerkstelling plaatsvindt;
+- ‘werkelijke militaire dienst’: werkelijke dienst verricht als militair, waaronder begrepen justitieel voorlopig arrest ondergaan in afwachting van een beslissing op een beroep op de wet;
+- ‘tewerkstelling’: de gewone vervangende dienst in de zin van artikel 1, eerste lid, van de wet;
+- ‘levenspartner’: de echtgenote; de persoon met wie de niet-gehuwde tewerkgestelde als levenspartner op één adres samenwoont en aldaar een gezamenlijke huishouding voert; ten bewijze waarvan aan de Directie TEGMD zijn overgelegd: - een door de tewerkgestelde en zijn levenspartner ondertekende verklaring, ingericht overeenkomstig de bijlage bij deze regeling;
 - een bewijsstuk van het bestaan van een notarieel verleden samenlevingscontract bevattende een regeling van wederzijdse rechten en plichten;
 - een uittreksel uit het bevolkingsregister van de tewerkgestelde en zijn levenspartner van gelijke datum;
-
-‘werknemer’:
-
-de krachtens ambtelijke aanstelling dan wel arbeidsovereenkomst werkzame persoon.
+- ‘werknemer’: de krachtens ambtelijke aanstelling dan wel arbeidsovereenkomst werkzame persoon.
 
 ### Artikel 2 — Administratieve gegevens
 
@@ -158,13 +129,8 @@ De voorschriften, die bij de dienst voor werknemers bestaan, gelden, voor zover 
 
 In deze paragraaf wordt verstaan onder:
 
-DOV-kaart:
-
-Defensiekaart openbaar vervoer;
-
-kosten voor het reizen:
-
-de werkelijk gemaakte kosten voor het reizen met een openbaar middel van vervoer, op de minst kostbare wijze.
+- DOV-kaart: Defensiekaart openbaar vervoer;
+- kosten voor het reizen: de werkelijk gemaakte kosten voor het reizen met een openbaar middel van vervoer, op de minst kostbare wijze.
 
 #### Artikel 11 — Verstrekking DOV-kaart/legitimatiebewijs
 
@@ -402,29 +368,12 @@ De minister kan in zeer bijzondere gevallen aan de tewerkgestelde ook buiten de 
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
-‘arbeidsuur’:
-
-een klokuur gedurende welke de tewerkgestelde de aan hem door het hoofd van dienst opgedragen werkzaamheden verricht;
-
-‘arbeidsduur’:
-
-het totaal aantal arbeidsuren per dag of per week;
-
-‘pauze’:
-
-een toegestane onderbreking van de werkzaamheden van 15 minuten of langer;
-
-‘overwerk’:
-
-het verrichten van door het hoofd van dienst opgedragen werkzaamheden boven de voor een dag gebruikelijke arbeidsduur, dan wel op een dag waarop de tewerkgestelde normaliter geen werkzaamheden behoeft te verrichten;
-
-‘onregelmatige diensten’:
-
-het verrichten van werkzaamheden volgens dienstrooster als gevolg waarvan de tewerkgestelde op wisselende tijdstippen de dagelijkse dienst aanvangt en/of beëindigt;
-
-‘buiten de normale werktijd vallende arbeidsuren’:
-
-de arbeidsuren buiten die op maandag tot en met vrijdag van 7.00 uur tot 18.00 uur.
+- ‘arbeidsuur’: een klokuur gedurende welke de tewerkgestelde de aan hem door het hoofd van dienst opgedragen werkzaamheden verricht;
+- ‘arbeidsduur’: het totaal aantal arbeidsuren per dag of per week;
+- ‘pauze’: een toegestane onderbreking van de werkzaamheden van 15 minuten of langer;
+- ‘overwerk’: het verrichten van door het hoofd van dienst opgedragen werkzaamheden boven de voor een dag gebruikelijke arbeidsduur, dan wel op een dag waarop de tewerkgestelde normaliter geen werkzaamheden behoeft te verrichten;
+- ‘onregelmatige diensten’: het verrichten van werkzaamheden volgens dienstrooster als gevolg waarvan de tewerkgestelde op wisselende tijdstippen de dagelijkse dienst aanvangt en/of beëindigt;
+- ‘buiten de normale werktijd vallende arbeidsuren’: de arbeidsuren buiten die op maandag tot en met vrijdag van 7.00 uur tot 18.00 uur.
 
 #### Artikel 33 — Arbeidsduur
 
@@ -554,21 +503,10 @@ Aan de tewerkgestelde wordt, op verzoek, buitengewoon verlof verleend in de volg
 
 1\. Voor de toepassing van dit artikel wordt verstaan onder:
 
-‘jeugd en jongeren’:
-
-personen tot de leeftijd van 22 jaar dan wel, indien het gehandicapte personen betreft, personen tot de leeftijd van 26 jaar;
-
-‘vrijwilliger’:
-
-hij die gedurende het hele jaar zonder vaste vergoeding, onkostenvergoeding uitgezonderd, in zijn vrije tijd, in enig organisatorisch verband leiding of mede-leiding geeft aan een groep of groepen jeugd en jongeren;
-
-‘jeugdkamp’:
-
-het kamperen van jeugd en jongeren in groepsverband. Het kamp moet ten minste 10 deelnemers hebben en ten minste 4 aaneengesloten dagen duren. De leiding moet geheel of voornamelijk uit vrijwilligers bestaan;
-
-‘kindervakantie-activiteit’:
-
-een vakantie-activiteit voor jeugd en jongeren. De vakantie-activiteit moet ten minste 10 deelnemers hebben en ten-minste 3 aaneengesloten dagen duren. Onder jeugdkamp of kindervakantie-activiteit wordt niet begrepen: schoolkampen of -activiteiten georganiseerd vanuit onderwijs- of aanverwante instellingen: recreatie-activiteiten op campings of stranden; weekendkampen; gezinskampen; evangelisatiekampen of -activiteiten: jeugd en jongeren-uitwisselingen en jeugd en jongeren sportuitwisselingen, waarbij de deelnemers worden ondergebracht bij pleegouders; wedstrijd-, sportwervingsof selectiekampen en sporttoernooien.
+- ‘jeugd en jongeren’: personen tot de leeftijd van 22 jaar dan wel, indien het gehandicapte personen betreft, personen tot de leeftijd van 26 jaar;
+- ‘vrijwilliger’: hij die gedurende het hele jaar zonder vaste vergoeding, onkostenvergoeding uitgezonderd, in zijn vrije tijd, in enig organisatorisch verband leiding of mede-leiding geeft aan een groep of groepen jeugd en jongeren;
+- ‘jeugdkamp’: het kamperen van jeugd en jongeren in groepsverband. Het kamp moet ten minste 10 deelnemers hebben en ten minste 4 aaneengesloten dagen duren. De leiding moet geheel of voornamelijk uit vrijwilligers bestaan;
+- ‘kindervakantie-activiteit’: een vakantie-activiteit voor jeugd en jongeren. De vakantie-activiteit moet ten minste 10 deelnemers hebben en ten-minste 3 aaneengesloten dagen duren. Onder jeugdkamp of kindervakantie-activiteit wordt niet begrepen: schoolkampen of -activiteiten georganiseerd vanuit onderwijs- of aanverwante instellingen: recreatie-activiteiten op campings of stranden; weekendkampen; gezinskampen; evangelisatiekampen of -activiteiten: jeugd en jongeren-uitwisselingen en jeugd en jongeren sportuitwisselingen, waarbij de deelnemers worden ondergebracht bij pleegouders; wedstrijd-, sportwervingsof selectiekampen en sporttoernooien.
 
 2\. Aan de tewerkgestelde kan, op verzoek, door de minister buitengewoon verlof worden verleend voor:
 
@@ -696,13 +634,8 @@ De minister ontvangt zo spoedig mogelijk schriftelijk mededeling van het oordeel
 
 Voor de toepassing van deze paragraaf wordt verstaan onder:
 
-‘betrekkingen van de tewerkgestelde’:
-
-levenspartner, verloofde, voogd(en), alsmede kinderen, stief- of pleegkinderen, ouders, stief- of pleegouders van hemzelf en van zijn levenspartner, zijn broers en zusters, stiefbroers en -zusters en pleegbroers en -zusters; indien de hiervoor genoemde betrekkingen ontbreken, het naaste familielid.
-
-‘buurland’:
-
-België, Luxemburg, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk.
+- ‘betrekkingen van de tewerkgestelde’: levenspartner, verloofde, voogd(en), alsmede kinderen, stief- of pleegkinderen, ouders, stief- of pleegouders van hemzelf en van zijn levenspartner, zijn broers en zusters, stiefbroers en -zusters en pleegbroers en -zusters; indien de hiervoor genoemde betrekkingen ontbreken, het naaste familielid.
+- ‘buurland’: België, Luxemburg, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk.
 
 #### Artikel 52 — Tegemoetkoming in reis- en verblijfkosten bij ziekte tewerkgestelde
 

@@ -1,0 +1,45 @@
+---
+title: "Regeling vaststelling standaardpremie 2011"
+identifier: "BWBR0029048"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2010-12-01
+last_amended: 2011-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0029048/2011-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0029048/2011-01-01_0/xml/BWBR0029048_2011-01-01_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Gezondheidsrecht en farmaceutisch recht"]
+retrieved: 2026-10-11
+---
+
+# Regeling vaststelling standaardpremie 2011
+
+*Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 1 december 2010, nr. Z/F- 3036511, houdende vaststelling van de standaardpremie 2011 (Regeling vaststelling standaardpremie 2011)*
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+
+Gelet op artikel 4 van de Wet op de zorgtoeslag;
+
+Besluit:
+
+## Artikel 1
+
+De standaardpremie wordt voor het jaar 2011 vastgesteld op € 1375,–.
+
+## Artikel 2
+
+Deze regeling treedt in werking met ingang van 1 januari 2011.
+
+## Artikel 3
+
+Deze regeling wordt aangehaald als: Regeling vaststelling standaardpremie 2011.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De\
+Minister\
+Volksgezondheid, Welzijn en Sport,\
+E.I.Schippers

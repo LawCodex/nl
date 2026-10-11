@@ -47,17 +47,9 @@ IV de Commissie Huurders-Verhuurders op te dragen hem voor 1 april 1993 te rappo
 
 V in de Commissie Huurders-Verhuurders te benoemen:
 
-tot *voorzitter, tevens lid:*
-
-mr. L. H. Kokhuis, Directeur-Generaal van de Volkshuisvesting;
-
-tot *leden:*
-
-drs. I. Broos-Jennekens, Hoofd Dienst Ontwikkeling en Onderzoek van NCIV koepel voor woningcorporaties; A. Duivestijn, Voorzitter van de Nederlandse Woonbond; drs. D. Hamersma, Sectordirecteur beleidsontwikkeling en voorlichting van de Nationale Woningraad; mr. W. D. van Leeuwen, Directeur beleidsontwikkeling, belangenhartiging en verenigingszaken van NCIV koepel voor woningcorporaties; M. G. M. Rottier, Directeur van de Nederlandse Woonbond; drs. M. J. van Rijn, Directeur Huurwoningen en Eigen Woningbezit bij het Directoraat-Generaal van de Volkshuisvesting; drs. P. W. A. Veld, Directeur Bewonerszaken en Individuele Huursubsidie bij het Directoraat-Generaal van de Volkshuisvesting; N. van Velzen, Directeur Nationale Woningraad.
-
-tot *secretaris:*
-
-drs. A. H. J. Moerkamp, Plaatsvervangend directeur Huurwoningen en Eigen woningbezit bij het Directoraat-Generaal van de Volkshuisvesting;
+- tot *voorzitter, tevens lid:* mr. L. H. Kokhuis, Directeur-Generaal van de Volkshuisvesting;
+- tot *leden:* drs. I. Broos-Jennekens, Hoofd Dienst Ontwikkeling en Onderzoek van NCIV koepel voor woningcorporaties; A. Duivestijn, Voorzitter van de Nederlandse Woonbond; drs. D. Hamersma, Sectordirecteur beleidsontwikkeling en voorlichting van de Nationale Woningraad; mr. W. D. van Leeuwen, Directeur beleidsontwikkeling, belangenhartiging en verenigingszaken van NCIV koepel voor woningcorporaties; M. G. M. Rottier, Directeur van de Nederlandse Woonbond; drs. M. J. van Rijn, Directeur Huurwoningen en Eigen Woningbezit bij het Directoraat-Generaal van de Volkshuisvesting; drs. P. W. A. Veld, Directeur Bewonerszaken en Individuele Huursubsidie bij het Directoraat-Generaal van de Volkshuisvesting; N. van Velzen, Directeur Nationale Woningraad.
+- tot *secretaris:* drs. A. H. J. Moerkamp, Plaatsvervangend directeur Huurwoningen en Eigen woningbezit bij het Directoraat-Generaal van de Volkshuisvesting;
 
 VI deze beschikking in de Nederlandse Staatscourant te plaatsen en in afschrift toe te zenden aan de Minister van Financiën, de Minister van Binnenlandse Zaken, de Minister van Justitie, aan de Voorzitter, de leden en de secretaris van de Commissie Huurders en Verhuurders en aan de Algemene Rekenkamer.
 

@@ -1,0 +1,49 @@
+---
+title: "Wijzigingsregeling Subsidieregeling maatschappelijke organisaties en milieu"
+identifier: "BWBR0018107"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2005-03-14
+last_amended: 2005-03-23
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0018107/2005-03-23"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0018107/2005-03-23_0/xml/BWBR0018107_2005-03-23_0.xml"
+authority: "Infrastructuur en Milieu"
+rechtsgebied: ["Ruimtelijke ordening en milieu", "Milieurecht", "Ruimtelijke ordening en milieu", "Omgevingsrecht"]
+retrieved: 2026-10-11
+---
+
+# Wijzigingsregeling Subsidieregeling maatschappelijke organisaties en milieu
+
+*Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 14 maart 2005, nr. DGM/SB/BM 2005031074, Directoraat-Generaal Milieubeheer, Directie Strategie en Bestuur/Afdeling Bestuur en Maatschappij, houdende wijziging van de Subsidieregeling maatschappelijke organisaties en milieu (Criteria projectsubsidies en subsidieplafonds voor 2005)*
+
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
+
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
+
+Besluit:
+
+## Artikel I
+
+Wijzigt de Subsidieregeling maatschappelijke organisaties en milieu.
+
+## Artikel II
+
+1\. De Regeling Subsidieplafonds 2004 SMOM wordt ingetrokken.
+
+2\. De regeling, genoemd in het eerste lid, blijft van toepassing op subsidies die in het jaar 2004 zijn aangevraagd.
+
+## Artikel III
+
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Den Haag 14 maart 2005
+
+De\
+Staatssecretaris\
+Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+P.L.B.A. vanGeel

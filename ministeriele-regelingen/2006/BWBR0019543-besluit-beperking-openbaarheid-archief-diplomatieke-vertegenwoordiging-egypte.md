@@ -1,0 +1,68 @@
+---
+title: "Besluit beperking openbaarheid archief diplomatieke vertegenwoordiging Egypte"
+identifier: "BWBR0019543"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2006-02-07
+last_amended: 2006-02-15
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0019543/2006-02-15"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0019543/2006-02-15_0/xml/BWBR0019543_2006-02-15_0.xml"
+authority: "Buitenlandse Zaken"
+rechtsgebied: ["Cultureel recht"]
+retrieved: 2026-10-11
+---
+
+# Besluit beperking openbaarheid archief diplomatieke vertegenwoordiging Egypte
+
+*Besluit van de Minister van Buitenlandse Zaken van 7 februari 2006, nr. DDI/ST/reg 007/2004, houdende beperking van de openbaarheid van het archief van het consulaat/consulaat-generaal/diplomatiek agentschap Caïro 1850–1949, gezantschap te Egypte (Caïro) (1881) 1921–1954 (1961) en het consulaat te Alexandrië 1895–1954*
+
+De Minister van Buitenlandse Zaken,
+
+Gelet op artikel 15, eerste lid, onder a, van de Archiefwet 1995;
+
+Besluit:
+
+## Artikel 1
+
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn van het archief van het consulaat/consulaat-generaal/diplomatiek agentschap Caïro 1850–1949, het gezantschap te Egypte (Caïro) (1881) 1921–1954 (1961) en het consulaat te Alexandrië 1895–1954, de in de eerste kolom van onderstaande tabel genoemde inventarisnummers pas geheel openbaar met ingang van 1 januari van het in de tweede kolom van deze tabel genoemde jaartal:
+
+<table>
+<tr><th>Inventarisnummer</th><th>Geheel openbaar met ingang van 1 januari:</th></tr>
+<tr><td colspan="2">consulaat/consulaat-generaal/diplomatiek agentschap Caïro 1850–1949</td></tr>
+<tr><td>166</td><td>2013</td></tr>
+<tr><td>176</td><td>2012</td></tr>
+<tr><td>208</td><td>2020</td></tr>
+<tr><td colspan="2">consulaat te Alexandrië 1895–1954</td></tr>
+<tr><td>6</td><td>2011</td></tr>
+<tr><td>13</td><td>2007</td></tr>
+<tr><td>15</td><td>2012</td></tr>
+<tr><td>21</td><td>2012</td></tr>
+<tr><td colspan="2">gezantschap te Egypte (Caïro) (1881) 1921–1954 (1961)</td></tr>
+<tr><td>785</td><td>2029</td></tr>
+</table>
+
+## Artikel 2
+
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de Directeur van het Nationaal Archief met een verzoek tot inzage. Indiening van een verzoek tot inzage geschiedt door ondertekening door de verzoeker van het ‘Formulier voor toestemming tot raadpleging van niet openbare archieven’; een exemplaar van dit formulier is als bijlage bij dit besluit gevoegd. De Directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
+
+## Artikel 3
+
+Het vervaardigen van reproducties van documenten uit, danwel het publiceren van gegevens uit de archiefbescheiden geborgen onder de in de tabel bij artikel 1 genoemde inventarisnummers, is slechts mogelijk na voorafgaande schriftelijke toestemming van de Directeur van het Nationaal Archief. De Directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.
+
+## Artikel 4
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van het consulaat/consulaat-generaal/diplomatiek agentschap Caïro 1850–1949, het gezantschap te Egypte (Caïro) (1881) 1921–1954 (1961) en het consulaat te Alexandrië 1895–1954’.
+
+De\
+Minister\
+Buitenlandse Zaken\
+B.R.Bot
+
+## Bijlage
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0019543/2006-02-15_0/xml/213036.png)

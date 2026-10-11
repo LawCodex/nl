@@ -29,25 +29,11 @@ Besluit:
 
 1\. Voor de toepassing van deze regeling wordt verstaan onder:
 
-de minister:
-
-de Minister van Justitie;
-
-asielaanvraag:
-
-een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Vreemdelingenwet 2000;
-
-asielzoeker:
-
-een vreemdeling aan wie de toegang tot Nederland niet is geweigerd en door wie of ten behoeve van wie een asielaanvraag is ingediend;
-
-kind:
-
-een persoon, jonger dan 21 jaar, die niet samenwoont met een (huwelijks)partner en die een (stief)kind is van de asielzoeker dan wel met de asielzoeker in gezinsverband leeft en te zijnen laste komt;
-
-woonruimte:
-
-een besloten ruimte die bestemd en geschikt is voor bewoning en voorzien is van een eigen toegang alsmede van alle noodzakelijke woonfuncties; een kamer in een ruimte als beschreven onder 1° van dit onderdeel.
+- de minister: de Minister van Justitie;
+- asielaanvraag: een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28 van de Vreemdelingenwet 2000;
+- asielzoeker: een vreemdeling aan wie de toegang tot Nederland niet is geweigerd en door wie of ten behoeve van wie een asielaanvraag is ingediend;
+- kind: een persoon, jonger dan 21 jaar, die niet samenwoont met een (huwelijks)partner en die een (stief)kind is van de asielzoeker dan wel met de asielzoeker in gezinsverband leeft en te zijnen laste komt;
+- woonruimte: een besloten ruimte die bestemd en geschikt is voor bewoning en voorzien is van een eigen toegang alsmede van alle noodzakelijke woonfuncties; een kamer in een ruimte als beschreven onder 1° van dit onderdeel.
 
 2\. Voor de toepassing van deze regeling wordt onder asielzoeker tevens verstaan een vreemdeling aan wie de toegang tot Nederland niet is geweigerd en die een verzoek heeft ingediend tot verlening van een vergunning om in Nederland te verblijven ten behoeve van de gezinshereniging met een asielzoeker aan wie met toepassing van deze regeling opvang wordt geboden.
 

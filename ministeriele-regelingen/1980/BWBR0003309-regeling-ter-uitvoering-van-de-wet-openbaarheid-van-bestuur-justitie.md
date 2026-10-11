@@ -29,17 +29,9 @@ Besluit: voor het Ministerie van Justitie vast te stellen de navolgende regeling
 
 In deze beschikking wordt verstaan onder:
 
-de wet:
-
-de Wet openbaarheid van bestuur, Stb. 1978, 581;
-
-het besluit:
-
-het Besluit openbaarheid van bestuur, Stb. 1979, 590;
-
-aanwijzing:
-
-het desbetreffende onderdeel van de Aanwijzingen inzake de openbaarheid van bestuur, vastgesteld bij besluit van de Minister-President van 21 december 1979, nr. 292146, Stcrt. 1980, 6.
+- de wet: de Wet openbaarheid van bestuur, Stb. 1978, 581;
+- het besluit: het Besluit openbaarheid van bestuur, Stb. 1979, 590;
+- aanwijzing: het desbetreffende onderdeel van de Aanwijzingen inzake de openbaarheid van bestuur, vastgesteld bij besluit van de Minister-President van 21 december 1979, nr. 292146, Stcrt. 1980, 6.
 
 ## Registers
 

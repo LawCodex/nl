@@ -29,13 +29,8 @@ Besluit:
 
 In deze beschikking wordt verstaan onder:
 
-*de Minister:*
-
-de Minister van Verkeer en Waterstaat;
-
-*de Hoofddirectie Telecommunicatie en Post:*
-
-de Hoofddirectie Telecommunicatie en Post van het Ministerie van Verkeer en Waterstaat.
+- *de Minister:* de Minister van Verkeer en Waterstaat;
+- *de Hoofddirectie Telecommunicatie en Post:* de Hoofddirectie Telecommunicatie en Post van het Ministerie van Verkeer en Waterstaat.
 
 ## 2 — Voorschriften met betrekking tot het etherbeheer en -gebruik
 

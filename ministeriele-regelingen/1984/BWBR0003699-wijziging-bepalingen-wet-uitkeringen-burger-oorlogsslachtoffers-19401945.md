@@ -27,17 +27,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-*wet:*
-
-de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 (Stb. 1984, 94);
-
-*grondslag:*
-
-de grondslag, bedoeld in artikel 10, zesde lid, van de wet;
-
-*burger-oorlogsslachtoffer:*
-
-de persoon, bedoeld in artikel 7, onder b, van de wet.
+- *wet:* de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 (Stb. 1984, 94);
+- *grondslag:* de grondslag, bedoeld in artikel 10, zesde lid, van de wet;
+- *burger-oorlogsslachtoffer:* de persoon, bedoeld in artikel 7, onder b, van de wet.
 
 ## Artikel 2
 

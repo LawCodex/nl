@@ -29,13 +29,8 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-*minister:*
-
-Minister van Economische Zaken;
-
-*eigenaar:*
-
-natuurlijke persoon of rechtspersoon die krachtens eigendom of enig ander zakelijk recht dan wel krachtens enig duurzaam persoonlijk recht het genot heeft van de grond.
+- *minister:* Minister van Economische Zaken;
+- *eigenaar:* natuurlijke persoon of rechtspersoon die krachtens eigendom of enig ander zakelijk recht dan wel krachtens enig duurzaam persoonlijk recht het genot heeft van de grond.
 
 ## Artikel 2
 

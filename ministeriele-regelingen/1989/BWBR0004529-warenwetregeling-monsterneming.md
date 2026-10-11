@@ -129,13 +129,8 @@ Vervallen
 
 In deze paragraaf wordt verstaan onder:
 
-diepvriezen:
-
-het bevriezingsproces waardoor zo snel als nodig is de maximale kristallisatiezone wordt overschreden, met het gevolg dat na thermische stabilisatie de temperatuur overal in de waar zonder onderbreking gehandhaafd blijft op –18°C of lager;
-
-diepgevroren levensmiddelen:
-
-diepgevroren eet- of drinkwaren, andere dan consumptie-ijs, die verhandeld worden op een wijze waaruit blijkt dat zij dat kenmerk bezitten.
+- diepvriezen: het bevriezingsproces waardoor zo snel als nodig is de maximale kristallisatiezone wordt overschreden, met het gevolg dat na thermische stabilisatie de temperatuur overal in de waar zonder onderbreking gehandhaafd blijft op –18°C of lager;
+- diepgevroren levensmiddelen: diepgevroren eet- of drinkwaren, andere dan consumptie-ijs, die verhandeld worden op een wijze waaruit blijkt dat zij dat kenmerk bezitten.
 
 ### Artikel 5c
 

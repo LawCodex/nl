@@ -29,17 +29,9 @@ Besluit:
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-de minister:
-
-de Minister van Volksgezondheid, Welzijn en sport;
-
-de ova:
-
-de overheidsbijdrage in de arbeidskostenontwikkeling waarvan de bepaling is vastgelegd in het convenant ’nieuwe aanpak voor de ova’;
-
-de commissie:
-
-de commissie, genoemd in artikel 2.
+- de minister: de Minister van Volksgezondheid, Welzijn en sport;
+- de ova: de overheidsbijdrage in de arbeidskostenontwikkeling waarvan de bepaling is vastgelegd in het convenant ’nieuwe aanpak voor de ova’;
+- de commissie: de commissie, genoemd in artikel 2.
 
 ## Taak en samenstelling van de commissie
 

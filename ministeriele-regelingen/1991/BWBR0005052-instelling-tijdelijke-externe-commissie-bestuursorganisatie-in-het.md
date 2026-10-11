@@ -27,13 +27,8 @@ Besluit:
 
 In deze beschikking wordt verstaan onder:
 
-minister:
-
-de Minister van Onderwijs en Wetenschappen
-
-commissie:
-
-de tijdelijke externe commissie ‘bestuursorganisatie in het wetenschappelijk onderwijs’, bedoeld in artikel 2.
+- minister: de Minister van Onderwijs en Wetenschappen
+- commissie: de tijdelijke externe commissie ‘bestuursorganisatie in het wetenschappelijk onderwijs’, bedoeld in artikel 2.
 
 ## Artikel 2
 

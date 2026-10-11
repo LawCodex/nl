@@ -1,0 +1,2613 @@
+---
+title: "Regeling vaststelling invaliditeit met dienstverband"
+identifier: "BWBR0026218"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2008-06-27
+last_amended: 2026-07-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0026218/2026-07-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026218/2026-07-01_0/xml/BWBR0026218_2026-07-01_0.xml"
+authority: "Defensie"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Militaire ambtenarenrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling vaststelling invaliditeit met dienstverband
+
+*Ministeriële regeling van 27 juni 2008, Afdeling Pensioenen, Sociale Zekerheid en Zorg, nr. P/2008011730*
+
+De Staatssecretaris van Defensie,
+
+Gelet op artikel 2, zesde lid, van de Kaderwet militaire pensioenen en op artikel 13, tweede lid van het Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen;
+
+Besluit:
+
+## Artikel 1
+
+Bij de vaststelling van de mate van invaliditeit met dienstverband als bedoeld in de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen worden ter nadere invulling van de War Pensions Committee-schaal (WPC-schaal) de volgende protocollen en richtlijn gehanteerd:
+
+- a. het protocol voor de beoordeling van arbeidsongeschiktheid, dienstverband en invaliditeit bij militairen (WIA/IP Protocol) gevoegd als bijlage 1;
+- b. het protocol voor psychische aandoeningen waaronder PTSS (PTSS Protocol), gevoegd als bijlage 2;
+- c. het protocol voor de beoordeling van arbeidsongeschiktheid, dienstverband en invaliditeit bij militairen met medical unexplained physical symptoms/lichamelijk onverklaarde chronische klachten na uitzending (MUPS/LOK Protocol), gevoegd als bijlage 3;
+- d. de richtlijn Duurzame functionele invaliditeit, gevoegd als bijlage 4.
+
+## Artikel 2
+
+1\. De vaststelling van de mate van invaliditeit bij verzoeken ingediend voor de inwerkingtreding van deze regeling geschiedt aan de hand van de WPC-schaal.
+
+2\. Indien de toepassing van de in artikel 1 genoemde protocollen bij een herkeuring na de datum van inwerkingtreding van deze regeling leidt tot een lager invaliditeitspercentage blijft het oorspronkelijk vastgestelde invaliditeitspercentage van kracht.
+
+3\. Het gestelde in het tweede lid blijft buiten toepassing indien het een herkeuring betreft van een voorlopig vastgesteld invaliditeitspercentage.
+
+## Artikel 3
+
+Deze regeling treedt op 1 juli 2008 in werking.
+
+## Artikel 3a — Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling vaststelling invaliditeit met dienstverband.
+
+Deze regeling wordt gepubliceerd in de serie Ministeriele Publicaties (MP 32-500). Deze regeling wordt met toelichting gepubliceerd in de Staatscourant.
+
+De\
+Staatssecretaris\
+Defensie\
+J.G. deVries
+
+## Bijlage 1
+
+### WIA en IP protocol©
+
+Dit protocol is opgebouwd uit twee delen:
+
+- 1. de globale omschrijving van de basiselementen van het protocol
+- 2. de bijlagen met specifieke toelichtingen op deze basis elementen.
+
+Beide delen zijn onlosmakelijk met elkaar verbonden
+
+Dit protocol beschrijft de beoordelingssystematiek bij de gecombineerde WIA-IP beoordeling en bij de WIA, de IP (militair invaliditeitspensioen) en/of Dienstverband (DV) beoordeling sec.
+
+Dit protocol is auteursrechtelijk beschermd. Het is niet toegestaan dit werk zonder toestemming van het Ministerie van Defensie openbaar te maken of te verveelvoudigen.
+
+Dit protocol vormt de basis voor de in ontwikkeling zijnde PTSS en LOK protocollen van Defensie. Tevens kent dit protocol een samenhang met het protocol ‘dossiervorming en gegevens overdracht’ van Defensie.
+
+Den Haag, April 2007
+
+#### Voorwoord, opdracht en aanpak
+
+De Staatssecretaris heeft de Kamer toegezegd de zorg aan de veteraan met een dienstverband aandoening verbeteren. De projectgroep WIA ZORGWET heeft de opdracht gekregen deze toezeggingen te concretiseren en verder uit te werken.
+
+Een van de verbeterpunten hierbij is het samenvoegen van de verschillende beoordelingstrajecten voor de WIA en het Militaire Invaliditeitspensioen (IP) tot één geheel: de WIA-IP beoordeling. Tijdens deze keuring vindt claimbeoordeling plaats: een uitspraak moet worden gedaan over het recht op en de hoogte van een WIA uitkering, respectievelijk een invaliditeitspensioen. Bij de beoordeling dient tevens de toegepaste behandeling en begeleiding te worden getoetst.
+
+*Opdracht*
+
+De Medische Werkgroep binnen de projectgroep WIAZORGWET heeft de opdracht gekregen deze medische beoordeling te protocolleren.
+
+*Doel*
+
+Uniforme, transparante toetsbare beoordelingswijze van twee beoordelingen tijdens één spreekuurcontact door één verzekeringsarts.
+
+Samenstelling medische werkgroep:
+
+- 1. Voorzitter en Secretaris: J.H. Paulusma-de Waal, internist n.p. RGA®, Medisch Adviseur Sociaal medisch beleid Ministerie van Defensie
+- 2. Lid: Kolonel Dr. J. de Raad, verzekeringsarts, hoofd Defensie organisatie voor bijzondere medische beoordelingen (BMB)
+- 3. Lid: Kapitein ter Zee M.J.W. Neuteboom, arts, Hoofd afdeling Algemeen Gezondheidszorgbeleid Directie Militaire gezondheidszorg Ministerie van Defensie
+- 4. Lid: M.E. van Liere, Regionaal Stafverzekeringsarts UWV
+- 5. Lid: H.M. de Boer, verzekeringsarts BMB
+- 6. Lid: C.J. van Burik, verzekeringsarts UWV
+
+Externe adviseurs:
+
+- ○ Prof dr. JHBM Willems, bijzonder hoogleraar Sociale Verzekeringsgeneeskunde AMC
+- ○ B.J. Starink, Regionaal Stafverzekeringsarts UWV
+- ○ S. Knepper, verzekeringsarts, RGA ®, medisch adviseur UWV
+
+*Aanpak*
+
+De WIA en IP beoordeling kennen veel raakvlakken. Beide zijn gebaseerd op de standaard verzekeringsgeneeskundige beoordeling. Deze standaard en de hierbij behorende reeds ontwikkelde protocollen zijn als basis gebruikt voor zowel de WIA, de IP als de WIA-IP beoordeling. Zo kon aangaande dit basisdeel worden volstaan met een toelichting op het verzekeringsgeneeskundig beoordelingsproces.
+
+Bij de IP beoordeling en dus ook bij de WIA-IP beoordeling dient naast het verzekeringsgeneeskundig basisdeel het Dienstverband, de Medische causaliteit en de Invaliditeit te worden beoordeeld. Protocollen dit aangaande zijn niet voorhanden. Op basis van literatuur, ervaring, wet en regelgeving en gezond verstand heeft de werkgroep een eerste poging gewaagd deze moeilijke aanvullende begrippen te omschrijven en te protocolleren.
+
+Het huidig protocol moet worden gezien als een eerste aanzet van een groeidocument.
+
+Dit protocol is afgestemd met de verzekeringsartsen van het ABP.
+
+Doorontwikkeling van het protocol dient plaats te vinden aan de hand van intercollegiale toetsing, intervisie en voorbeeld casuïstiek.
+
+Voorzien van deze kanttekening biedt de werkgroep dit protocol met genoegen aan.
+
+J.H. Paulusma-de Waal, voorzitter werkgroep.
+
+#### **Protocol WIA en IP beoordeling**
+
+##### Inleiding
+
+Om de zorg aan de veteraan met een dienstverband aandoening te verbeteren worden de verschillende beoordelingstrajecten voor de WIA, het dienstverband en het Militaire Invaliditeitspensioen (IP) samengevoegd tot één geheel: de WIA-IP beoordeling. Tijdens deze medische beoordeling vindt beoordeling van de claim plaats: een uitspraak moet worden gedaan over het recht op een WIA uitkering, respectievelijk een invaliditeitspensioen en de aanwezigheid van een dienstverband (DV). Bij de beoordeling dient tevens aandacht te worden gegeven aan de toegepaste behandeling en begeleiding. Zonodig moeten deze alsnog worden geïnitieerd of verbeterd. Voorafgaand aan de WIA-IP beoordeling vindt eerst een toetsing plaats van het Reïntegratieverslag. De WIA -Arbeidsdeskundige verricht deze toets in samenspraak met de WIA-verzekeringsarts. Deze toets is wettelijk verplicht in het kader van de Wet Verbetering Poortwachter (WVP).
+
+Ervaring met de gecombineerde beoordeling is nog niet aanwezig. Met nadruk wordt gewezen op het feit dat dit protocol moet worden gezien als een start/groei document. Vanuit de praktijk zal nadere invulling moeten worden gegeven. Voorbeeld-casuïstiek, praktijkervaringen en consensus voorkomend uit intercollegiale toetsing (ICT) en uit diverse professionele werkgroepen zullen bij de doorontwikkeling een belangrijke rol moeten spelen. Deze elementen worden in dit protocol vooralsnog slechts summier aangegeven.
+
+##### De WIA-IP (DV) beoordeling
+
+De WIA-IP keuring bestaat uit diverse componenten:
+
+- 1 Toetsing van het reïntegratie verslag
+- 2 De WIA beoordeling
+- 3 De Invaliditeitsbeoordeling/de dienstverbandbeoordeling
+- 4 De toets op behandeling en begeleiding (deze wordt op termijn ingevoerd)
+
+De WIA en de IP beoordeling hebben zowel verschillen als overeenkomsten. De verschillen zitten enerzijds in een finale versus causale benadering en anderzijds in het eindadvies. Bij de WIA gaat het om een finale benadering en ‘beperkt’ de arts zich in de rapportage tot een onderbouwd advies over het al dan niet bestaan van functionele mogelijkheden, inclusief een omschrijving daarvan. Bij de IP beoordeling dient de arts in zijn rapport tevens een uitspraak te doen over een causaal verband met de dienstverrichtingen onder buitengewone omstandigheden. Tevens dient hij bij bevestiging daarvan de beperkingen/functionele mogelijkheden te converteren naar een invaliditeitspercentage volgens een barema.
+
+Bij de dienstverbandbeoordelingen in het kader van bedrijfsongevallen en ‘arbeid gerelateerde aandoeningen’ onder reguliere omstandigheden (‘arbeidsongeschiktheid met dienstverband’) wordt volstaan met een beoordeling van het dienstverband/causaal verband. Een schatting van het invaliditeitspercentage is hierbij niet aan de orde. Feitelijk moet dan gesproken worden over een WIA/DV beoordeling. De karakteristieken van deze beoordeling worden meegenomen in het WIA-IP protocol in bijlage 3.
+
+De overeenkomst tussen de WIA en IP beoordeling zit onder andere in het verzamelen van de medische gegevens, die voor beide noodzakelijk zijn. Verder wordt bij beide beoordelingen het functioneren in het dagelijks leven uitgevraagd (het zgn. dagverhaal) en wordt een vertaalslag gemaakt van eventuele medische beperkingen naar nog aanwezige functionele mogelijkheden in het dagelijks leven. Door deze overeenkomsten tussen beide beoordelingen is het mogelijk de standaard verzekeringsgeneeskundige beoordeling als basis voor beide te nemen (zie stroomdiagram). De in dit vakgebied al ontwikkelde en in ontwikkeling zijnde standaarden zullen/kunnen hierbij merendeels worden gebruikt. Hierbij wordt de aantekening gemaakt dat de verzekeringsgeneeskundige standaarden, die enkel en alleen betrekking hebben op de WIA (bijvoorbeeld de toets op duurzaamheid in het kader van de IVA) alleen voor de WIA beoordeling van toepassing zijn en niet bij de IP beoordeling sec worden gebruikt.
+
+Voor de IP/DV beoordeling wordt deze basis beoordeling uitgebreid met een aanvullend (IP) protocol voor het vaststellen van de causaliteit/het dienstverband en de vaststelling van het invaliditeitspercentage. Tevens moeten voor de IP beoordeling de functionele mogelijkheden op ADL/BDL (zie paragraaf 3.4: definitie invaliditeit) niveau worden geconverteerd naar beperkingen op dit niveau. Voor alle duidelijkheid wordt gesteld dat het IP protocol geldt voor alle IP/DV beoordelingen. Dit ongeacht het feit of er nu wel of niet sprake is van een samenloop met de WIA beoordeling.
+
+Voor de vierde component (de toets op behandeling en begeleiding) zal aansluiting worden gezocht bij de zogenaamde ‘3b richtlijnen’, zodra deze beschikbaar zijn. Deze zijn (2007) onder auspiciën van de Gezondheidsraad in ontwikkeling. Onderstaand worden de componenten nader toegelicht en in bijbehorende bijlagen verder uitgewerkt.
+
+In aanvulling op bovenstaande wordt gewezen op de in ontwikkeling zijnde PTSS (Posttraumatische stressstoornis) en LOK (Lichamelijk onbegrepen klachten)-protocollen. Deze protocollen zullen voor PTSS en LOK richtinggevend worden bij de WIA-IP (DV) beoordeling.
+
+##### Stroomdiagram WIA, IP en WIA-IP(DV) beoordeling
+
+In onderstaand stroomdiagram is weergegeven in hoeverre de beoordelingen overlap en verschillen vertonen. De WIA beoordeling dient hier te worden gelezen als de standaard verzekeringsgeneeskundige (VG) beoordeling: De marginale verschillen tussen WIA en VG beoordeling worden in bijlage 1 benoemd.
+
+- – de stappen 1 t/m 6 worden bij elke beoordeling doorlopen
+- – stap 7a bij de WIA-IP beoordeling en de WIA beoordeling
+- – stap 7b bij de WIA-IP beoordeling en bij de IP beoordeling (bij DV sec geen %)
+- – stap 1a t/m 3a bij de WIA-IP/DV beoordeling en de IP/DV beoordeling
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026218/2026-07-01_0/xml/245028.png)
+
+**Ad 2: Basis Verzekeringsgeneeskundige (en WIA) beoordeling**
+
+De verzekeringsarts doet een claimbeoordeling en stelt de functionele mogelijkheden van cliënt vast binnen het daarvoor geldend wettelijk kader. Voorafgaande aan de claim beoordeling worden bij de WIA beoordeling de reïntegratie inspanningen van de werkgever en werknemer getoetst. Van belang hierbij zijn de Wet Verbetering Poortwachter; het aangepaste Schattingsbesluit en de WIA.
+
+De algemeen aanvaarde verzekeringsgeneeskundige standaarden dienen bij de algemene verzekeringsgeneeskundige beoordeling als basis richtlijnen te worden gebruikt. De volgende standaarden worden hierbij in het bijzonder genoemd:
+
+- – Het Medisch Arbeidsongeschiktheidscriterium
+- – Het rapportageprotocol verzekeringsgeneeskunde
+- – De standaard ‘onderzoeksmethoden’
+- – De standaard ‘ psychische beoordeling’
+- – De standaard urenbeperking
+- – Verzekeringsgeneeskundige protocollen
+- – Richtlijnen NVVG; NVAB; STECR
+- – Beleidskader toets op de duurzaamheid van de arbeidsbeperkingen in het kader van IVA (Alleen bij de WIA beoordeling, niet bij de IP beoordeling).
+
+Naast het gebruik van de standaarden dienen rapportage, de beoordeling van de functionele mogelijkheden, het herstelgedrag, de toetsen op consistentie/plausibiliteit en de probleemanalyse aan bepaalde kwaliteitseisen te voldoen.
+
+Voor een nadere uitwerking van deze begrippen en eisen wordt verwezen naar bijlage 1 ‘Toelichting Verzekeringsgeneeskundige beoordeling algemeen’ en naar bijlage 2 ‘ Format medisch onderzoek verslag’.
+
+**Ad 3: Basis Invaliditeitsbeoordeling**
+
+Aanvullend op het bovengenoemde standaard Verzekeringsgeneeskundig onderzoek, met extra gegevens over medische causaliteit, beoordeelt de verzekeringsarts of er sprake is van een dienstverbandaandoening. Hij inventariseert daarbij vervolgens tevens de aanwezigheid van beperkingen en bepaalt het invaliditeitspercentage binnen het daarvoor geldend wettelijk kader. De militaire Pensioenvoorschriften zijn hierbij richtinggevend.
+
+De volgende aspecten komen bij de invaliditeitsbeoordeling aan de orde:
+
+- 1 De Dienstverband beoordeling in het kader van een IP recht: er moet sprake zijn van ‘invaliditeit met dienstverband’. Deze aandoening moet zijn ontstaan tijdens en door de uitoefening van de militaire dienst onder buitengewone omstandigheden (uitzending, oefeningen e.a) en bij actieve militairen hebben geleid tot blijvende dienstongeschiktheid op medische gronden.
+
+  PM: De Dienstverband beoordeling in het kader van bedrijfsongevallen en ‘arbeid gerelateerde aandoeningen’ onder reguliere omstandigheden (arbeidsongeschiktheid met dienstverband) wordt nu niet separaat benoemd, want hierbij bestaat geen IP recht. In bijlage 3 wordt deze vorm van dienstverband wel nader toegelicht.
+- 2 De Juridische causaliteit beoordeling: de juridische causaliteitscriteria van de militaire pensioenwetgeving zijn bepalend en richtinggevend. Juridisch moet allereerst worden voldaan aan het begrip dienstverband. Vervolgens moet dit dienstverband nader worden ingevuld met de begrippen ‘oorzakelijk’ of ‘verergerend’. Deze begrippen worden wettelijk als volgt omschreven:
+
+  Oorzakelijk:
+  - – aanwezigheid van een invaliditeit van tenminste 10% tengevolge van verwonding, ziekten of gebreken, welke zijn veroorzaakt door de uitoefening van de militaire dienst in geval van buitengewone of daarmede vergelijkbare omstandigheden.
+  - – aanwezigheid van een invaliditeit van tenminste 10%, tengevolge van ziekten of gebreken welke het gevolg zijn van verrichtingen of vermoeienissen aan de uitoefening van de militaire dienst in geval van buitengewone of daarmede vergelijkbare omstandigheden verbonden, dan wel welke tot uiting zijn gekomen onder overwegende invloed van die verrichtingen of vermoeienissen.
+
+  Verergerend:
+  - – aanwezigheid van een invaliditeit van tenminste 10%, tengevolge van ziekten of gebreken, welke zijn ontstaan, tot uiting gekomen of verergerd mede door inwerking van bijzondere, zeer nadelige invloeden, waaraan de beroepsmilitair in verband met de uitoefening van de militaire dienst in geval van buitengewone of daarmede vergelijkbare omstandigheden is blootgesteld geweest.
+- 3 De medische causaliteit beoordeling: In dit kader dienen de volgende vragen te worden beantwoord:
+  - – is er sprake van een verwonding, ziekte of gebrek
+  - – is er sprake van een verband tussen deze verwonding, ziekte of gebrek en de buitengewone omstandigheden?
+  - – Is er sprake van een verband tussen de geconstateerde beperkingen en de door de bijzondere omstandigheden ontstane verwonding, ziekte of gebrek? Of te wel: is er medisch een causaal verband tussen het letsel en het geclaimde onvermogen?
+
+  De beantwoording van de medische causaliteitsvragen is primair een professionele verantwoordelijkheid van de verzekeringsarts.
+
+  Het is van belang dat de medische causaliteit kan worden getoetst aan nog op te bouwen mediprudentie. Ook Intervisie en intercollegiale toetsing onderling en met derden spelen hierbij een belangrijke rol.
+- 4 De definitie van invaliditeit: In de Militaire pensioenwetgeving is deze als volgt weergegeven: ‘de in een percentage uit te drukken mate van lichamelijke en geestelijke tekortkomingen en beperkingen, welke belanghebbende in verhouding tot een geheel valide persoon van gelijke leeftijd in het dagelijkse leven in het algemeen ondervindt’: Onder ‘tekortkomingen’ wordt méér verstaan dan alleen beperkingen in de ADL (activiteiten dagelijks leven, c.q. het kunnen verrichten van de basale levensbehoeften). Beperkingen in de BDL (bijzondere activiteiten dagelijks leven, zoals communiceren, reizen, verrichten basale huishoudelijke activiteiten) worden ook meegewogen. Arbeid dient buiten beschouwing te blijven. Klachten, lijdensdruk en gederfde levensvreugde mogen niet worden meegewogen
+- 5 De invaliditeitsschatting dient (theoretisch) te gebeuren aan de hand van ADL en BDL-eperkingen. De ernst van de beperkingen dient hierbij te worden weergegeven en vervolgens naar een percentage te worden geconverteerd. De mate van invaliditeit dient te worden vastgesteld aan de hand van een barèma, tot heden de WPC-schaal. Het duiden van de beperkingen en een percentage behoren tot de professionaliteit van de verzekeringsarts. Zonodig kan, met argumenten gemotiveerd, advies aan een extern deskundige worden gevraagd. Deze deskundige moet voldoen aan bepaalde kwaliteitseisen en werken volgens de door Defensie nog op te stellen richtlijnen, aan de hand van gestandaardiseerde vraagstellingen en standaard rapportages.
+
+In Bijlage 3 wordt nader ingegaan op alle bovengenoemde aspecten van de IP beoordeling, inclusief de schattingsmethodiek en de WPC schaal. Tevens komen de dienstverbandbegrippen daar aan de orde.
+
+**Ad 4: De toets op behandeling en begeleiding**
+
+De (in ontwikkeling zijnde) 3B protocollen (Gezondheidsraad en Ministerie van SZW) worden hierbij richting gevend. De komende jaren zullen deze echter nog niet ter beschikking komen. In afwachting hiervan zullen de toetsen op behandeling en begeleiding globaal worden verwoord in de desbetreffende protocollen voor Lichamelijk Onbegrepen Klachten (LOK) en voor de Posttraumatische Stress Stoornis (PTSS). Bij signalering van inadequate behandeling/begeleiding/reïntegratie dient de beoordelende arts dit te signaleren en actie te ondernemen. Deze aanvullende acties betreffen voor de dienstslachtoffers concrete doorverwijzingen naar de Maatschappelijke Dienst Defensie (DC -BMW), de Militaire Geestelijke Gezondheidszorg (MGGZ), de Diensten Centrum Reïntegratie Defensie (DCR) of een case manager. Met deze instanties zijn/worden hierover vaste afspraken gemaakt. Ook kan via actieve terugverwijzing naar de huisarts of bedrijfsarts aanvullende reguliere specialistische behandeling worden geïnitieerd. De dienstslachtoffers dienen hierbij actief te worden gemonitoord door de zorgcoördinator van het loket.
+
+#### Bijlage 1: — Deze bijlage is onlosmakelijk verbonden met het protocol WIA en IP beoordeling
+
+##### Toelichting Verzekeringsgeneeskundige beoordeling
+
+###### Inleiding
+
+Deze bijlage maakt deel uit van het protocol WIA en IP beoordeling. In deze toelichting wordt beschreven aan welke karakteristieken een zorgvuldige verzekeringsgeneeskundige beoordeling moet voldoen. Begrippen als Rapportage, Functionele Mogelijkhedenlijst, consistentie, plausibiliteit, herstelgedrag en probleemanalyse komen aan de orde. Tevens wordt aandacht gegeven aan het wetgevende kader en de vigerende standaarden/richtlijnen.
+
+###### Verzekeringsgeneeskundige (en WIA) beoordeling Algemeen
+
+De verzekeringsarts doet een claimbeoordeling en stelt daarbij de functionele mogelijkheden vast van de cliënt binnen het wettelijk kader, onder toepassing van de vigerende standaarden.
+
+Na onderzoek komt de verzekeringsarts tot een beargumenteerde uitspraak over de mogelijkheden tot functioneren van een cliënt, de duurzaamheid daarvan, de adequaatheid van het herstelgedrag en maatregelen ter behoud en herstel van dit functioneren.
+
+Specifiek voor de WIA beoordeling geldt daarnaast het volgende: voorafgaand aan de claim beoordeling dienen de reïntegratie inspanningen van de werkgever en de werknemer te worden getoetst. Tijdens of na de periode van VLZ (verlengde loondoorbetaling bij ziekte) kan de verzekeringsarts (UWV) op verzoek van de werkgever of werknemer een Deskundigen Oordeel verrichten.
+
+###### 1 — Wetgevend kader, standaarden en richtlijnen
+
+De professionele verzekeringsgeneeskundige standaarden dienen bij de algemene verzekeringsgeneeskundige beoordeling als basis richtlijn te worden gebruikt. De volgende standaarden worden hierbij in het bijzonder genoemd:
+
+- – Het Medisch Arbeidsongeschiktheidscriterium
+- – Het rapportageprotocol verzekeringsgeneeskunde
+- – De standaard ‘onderzoeksmethoden’
+- – De standaard ‘ psychische beoordeling’.
+- – De Standaard urenbeperking
+- – De verzekeringsgeneeskundige protocollen
+- – De richtlijnen NVVG; NVAB; STECR.
+- – Alleen voor de WIA: beleidskader beoordeling duurzaamheid van de arbeidsbeperkingen in het kader van de IVA
+
+Bovenstaande opsomming is niet limitatief. Diverse ontwikkelingen, leidend tot aanvullende protocollering zijn gaande. Toekomstige officiële nieuwe standaarden dienen aan deze lijst te worden toegevoegd.
+
+Voor de WIA beoordeling geldt daarnaast dat de beoordeling plaats moet vinden binnen onderstaande wettelijke kaders:
+
+- – De Wet inkomen naar arbeidsvermogen (WIA)
+- – De Wet Verbetering Poortwachter (WVP)
+- – Het Aangepast Schattingsbesluit
+
+###### 2 — Rapportage
+
+De verzekeringsgeneeskundige beoordeling is opgebouwd uit diverse onderdelen. De beoordeling wordt weergegeven in een Functionele Mogelijkheden Lijst (FML) en een Rapportage. De FML bevat een schematische conclusie met zonodig een toelichting van de verzekeringsgeneeskundige claimbeoordeling. ( Hierbij toetst de verzekeringsgeneeskundige de arbeidsongeschiktheidsclaim van de cliënt en de daarbij behorende geclaimde beperkingen voor arbeid) In het Rapport behoort de verzekeringsarts de onderliggende motivering en argumentatie (reproduceerbaarheid, transparantie) van de conclusies vast te leggen. Dit Rapport is van veel groter belang dan de FML. Ook dienen bij elke beoordeling herstelgedrag, consistentie en plausibiliteit te worden meegenomen. Deze onderwerpen moeten in het Rapport duidelijk zijn weergegeven in combinatie met een probleemanalyse. Een volledig Rapport beschrijft – naast de relevante klachten en aandoeningen – minimaal de relevante arbeid en daarbij ervaren belemmeringen (claimklacht) en de beoordeling van die belemmeringen door de onderzoeker. Daarbij behoort een probleemanalyse, resulterend in overwegingen en argumenten. Zeker in langlopende complexe gevallen zal de onderzoeker vrijwel steeds dieper moeten ingaan op de arbeidssituatie, het herstelgedrag, de levensomstandigheden, het dagelijks functioneren en het arbeidsperspectief van de cliënt.
+
+De verzekeringsarts beoordeelt de functionele mogelijkheden en legt deze beargumenteerd vast in de beschouwing en conclusie in termen van de beperkingen lijst, vooral wanneer die minder voor de hand liggen en/of afwijken van wat de cliënt claimt. De beperkingen kunnen in een Rapportage veel genuanceerder vastgelegd worden dan ooit in een schematische beperkingenlijst mogelijk is en bovendien ook veel beter in hun onderlinge samenhang. Om die redenen is een beschrijving van voornamelijk alléén het medische beeld en de therapie gevolgd door een verwijzing naar de FML (‘het verhaal van de cliënt is “plausibel & consistent”’) volstrekt onvoldoende.
+
+Bij de claimbeoordeling spelen vaak aanzienlijke (im)materiële belangen; de cliënt heeft recht op een transparante argumentatie en het professionele belang is gediend met controleerbaarheid en reproduceerbaarheid. Daarom verplicht de onderzoeker zich zijn boordeling vast te leggen in een Rapport. Dat Rapport omvat steeds alle onderstaande onderwerpen. Een aantal hiervan wordt in deze paragraaf zonodig nader toegelicht. De overige worden apart, in de volgende paragrafen verwoord. Voor een stroomdiagram wordt verwezen naar het WIA-IP protocol.
+
+- 2.1 Een vraagstelling geformuleerd in termen van (beperkingen) van mogelijkheden om te functioneren.
+- 2.2 Een volledige bronvermelding en eigen onderzoeksactiviteiten (inclusief Reïntegratie verslag en medische bijlagen).
+- 2.3 Onderzoeksbevindingen:
+  - 2.3.1 beoordelingsgesprek gericht op het functioneren van betrokkene
+    - – medische en functionele voorgeschiedenis
+    - – activiteiten in werk (aard, zwaarte, omvang) en dagelijks leven (zie voorbeeld vragen bij toelichting 2.3.1)
+    - – huidige klachten, behandeling en functioneren
+    - – arbeidssituatie en ervaren belemmeringen
+    - – thuissituatie en ervaren belemmeringen
+    - – dagverhaal
+  - 2.3.2 visie en toekomstverwachting cliënt ten aanzien van gezondheid; belastbaarheid en werken.
+  - 2.3.3 eigen onderzoek en observaties.
+  - 2.3.4 informatie van derden.
+- 2.4 Diagnose en oorzaak (met alleen voor de WIA: CAS-code).
+- 2.5 Argumentatie:
+  - 2.5.1 eerdere beoordelingen
+  - 2.5.2 samenvatting van de claim
+  - 2.5.3 probleemanalyse
+  - 2.5.4 motivering beperkingen
+  - 2.5.5 prognose en duurzaamheid
+  - 2.5.6 reactie cliënt op de directe terugkoppeling van de arts.
+- 2.6 Conclusie waarin beantwoording vraagstelling.
+
+**Toelichtingen bij rapportage onderwerpen**
+
+In deze toelichting worden een aantal rapportage onderdelen nader omschreven en uitgelegd
+
+**Ad 2.3.1: Beoordelingsgesprek gericht op het functioneren van betrokkene**
+
+De verzekeringsarts richt zich in het gesprek op de beoordeling conform het biopsychosociaal model (naast medische aspecten ook meewegen van de sociale context en relevante omgevingsfactoren).
+
+Het is onvoldoende om vrijwel alleen naar klachten en behandeling te vragen. Met de meeste klachten kunnen de mensen nog werken. Daarom moeten de specifieke eisen van het werk (of de in het geding zijnde andere sociale rol) en de aspecten daarvan die de cliënt als belemmering beleeft concreet aan bod komen. Een in de alledaagse geneeskunde gebruikelijke ‘anamnese’ volstaat niet. Met de cliënt moet een meer op de beoordeling van het functioneren gericht gesprek gevoerd worden. Het (weer) beginnen met klachten en aandoeningen versterkt ook het misverstand dat men een uitkering krijgt vanwege ziekten, diagnosen of klachten. Het is in verband daarmee in veel gevallen aan te raden het beoordelingsgesprek juist met het werk of met de activiteiten van het dagelijkse leven te beginnen. Laat de cliënt eerst vertellen wat zijn activiteiten/werk inhoudt, wat hem motiveert het te doen, wat de plezierige en wat de minder plezierige aspecten zijn, welke aspecten hij denkt niet meer te kunnen doen, wat hij denkt dat daarvan de oorzaak is en wat hij eraan heeft gedaan dat probleem op te lossen. Dat laatste vooral in sociale zin.
+
+Belangrijke vragen die in de klassieke medische anamnese niet vóórkomen maar die hier van groot belang worden geacht, zijn bijvoorbeeld:
+
+- – wat verstaat een cliënt die op het spreekuur kan komen onder de mededeling dat hij zich ‘arbeidsongeschikt’ vindt?
+- – waarom kan een cliënt bijvoorbeeld wel op maandag werken maar niet op dinsdag als het menselijke bioritme zich elke 24 uur herhaalt?
+- – zijn het dagverhaal en het functioneren in alle sociale rollen consistent met een aanmerkelijke claim?
+- – welke prioriteiten stelt de cliënt in zijn dagelijks leven?
+- – hoe wordt de cliënt op zijn werk vervangen?
+- – wat ziet de cliënt als oplossing van zijn probleem en wat heeft hij er concreet aan gedaan anders dan medische hulp zoeken?
+- – wat zijn de plezierige en wat de minder plezierige aspecten van het werk en welk (arbeid) perspectief ziet de cliënt voor zichzelf?
+- – wat er zou gebeuren wanneer de cliënt morgen zijn werk/activiteiten helemaal zou hervatten?
+- – wat ziet de cliënt als de oorzaak van het voortduren van zijn klachten en eventueel de (gedeeltelijke) werkloosheid?
+- – is er sprake van rolverwisseling met of voorbeeldgedrag van de partner?
+
+Wanneer een cliënt geen referentie in ‘zijn arbeid’ heeft (bijvoorbeeld claims bij al langdurig werkloze arbeidsongeschikten,) verplaatst het zwaartepunt zich naar het dagelijks functioneren. Of naar het functioneren op school, in stages en naar wat de cliënt denkt dat hem in arbeid zou beperken.
+
+Het een en ander impliceert dat een claimbeoordeling in principe steeds plaatsvindt op grond van een persoonlijke confrontatie met de cliënt. De standaard ‘onderzoeksmethoden’ geeft daarbij aan dat de onderzoeker zich baseert op binnen de beroepsgroep algemeen aanvaarde reguliere (sociaal-)medische onderzoeksmethoden.
+
+**Ad 2.3.2: Visie en toekomstverwachting cliënt ten aanzien van gezondheid, belastbaarheid en werken**
+
+De verzekeringsarts geeft hier een beschrijving van de claim en de claimklachten ten aanzien van cliënt’s eigen of van ander werk.
+
+Welke perceptie heeft de cliënt van zijn gezondheid en herstel? Welke activiteiten onderneemt cliënt om het herstel te bevorderen? Welk effect hebben de klachten op het functioneren in het dagelijks leven? Waarin wordt cliënt gehinderd? Wat betekent dit voor werk? (eigen werk en ander werk?). Hoe ziet de cliënt de toekomst?
+
+**Ad 2.3.3: Eigen onderzoek en observaties**
+
+Het onderzoek bestaat uit observatie en onderzoek van de fysieke en psychische gesteldheid.
+
+Bij onderzoek in het kader van de claimbeoordeling is observatie een essentieel onderdeel.
+
+Lichamelijk onderzoek dient in principe te worden verricht indien de claim fysieke klachten betreft en op basis daarvan beperkingen worden aangenomen door de verzekeringsarts. Hetzelfde geldt voor onderzoek van de psychische gesteldheid. Indien wordt afgezien van onderzoek van de fysieke of psychische gesteldheid dient de reden daarvan te worden vermeld in de rapportage.
+
+Mogelijke observaties zijn vastgelegd in de standaard ‘onderzoekmethoden’: Heeft de vermoeide cliënt kringen onder zijn ogen en reageert hij traag of oogt hij kerngezond en reageert hij alert. Bezorgt de cliënt de onderzoeker wellicht een gevoel van moeheid door de energiek gebrachte klachten? Is de depressieve cliënte onverzorgd en mat of juist gebruind, piekfijn gekleed en opgemaakt en bovendien levendig? Beweegt de cliënte met de whiplash de nek nauwelijks of juist onbelemmerd als de onderzoeker de aandacht even afleidt? Klimt de cliënt met rugklachten zonder enige moeite op de onderzoeksbank? Loopt de cliënt met ernstige knieklachten vlot door de gang? Blijkt er iets van de zo veelvuldig geclaimde ‘concentratiestoornissen’ of ‘geheugenstoornissen’ tijdens het intensieve gesprek? Overspoelt de ‘perfectionistische’ cliënte haar gesprekspartner met gedetailleerde wijdlopigheid of komt zij eerder over als pragmatisch, slagvaardig en behoorlijk autonoom? Is het huilen bij psychische klachten een uiting van depressie of juist van boosheid en behoefte aan wraak wegens een ervaren krenking? Bestaat er een discrepantie tussen inhoud en presentatie doordat een cliënt de ernstigste zaken lachend vertelt?
+
+Het is van belang dat een onderzoeker zijn waarnemingen zoveel mogelijk spiegelt. De cliënt is daardoor in staat eventuele misverstanden te corrigeren. Bovendien kan de cliënt door het spiegelen aan het denken gezet worden. Veel cliënten externaliseren en zijn ambivalent over hun mogelijkheden. De cliënt behoort duidelijk uitgelegd te krijgen dat het enkele feit van een klacht, aandoening, verwijzing of het onder behandeling zijn, niet rechtvaardigt dat hij na een jaar nog afwacht of hij zal genezen. Dit is geen legitimatie om weinig tot niets ondernemen om de (arbeid/sociale) rol weer op te pakken.
+
+**Ad 2.3.4: Informatie van derden**
+
+De verzekeringsarts kan besluiten informatie op te vragen bij de behandelende sector. Van belang is dat de verzekeringsarts eigen onderzoek heeft gedaan en zich een eigen beeld heeft gevormd van de medische situatie. Er is altijd een gerichte schriftelijke machtiging nodig van cliënt, waarbij de vraagstelling helder is.
+
+Indicaties voor het opvragen van gegevens bij de curatieve sector staan beschreven in de ‘standaard gegevensuitwisseling met de behandelende sector’. De meest voorkomende zijn:
+
+- – indien de verzekeringsarts op basis van eigen onderzoek twijfelt aan de consistentie van de klachten en beperkingen van cliënt.
+- – indien er na eigen onderzoek onduidelijkheid bestaat over de medische aandoening.
+- – indien de behandelaar een afwijkende visie heeft op de ernst van de aandoening.
+- – indien cliënt erop staat dat informatie bij de behandelaar wordt opgevraagd.
+- – Indien de huidige behandeling van cliënt het vermoeden doet ontstaan dat op korte termijn een verandering in de belastbaarheid is te verwachten.
+
+**Ad 2.5.3: Probleemanalyse**
+
+Zie paragraaf 4 (Herstel gedrag), 5 (toets op consistentie en plausibiliteit) en 6 (Hervatting sociale rol) voor een nadere omschrijving en toelichting.
+
+**Ad 2.5.4: Motivering beperkingen**
+
+Claimbeoordeling heeft betrekking op ziektegedrag. Naast de stoornis zijn vele, per individu verschillende en onderling sterk verweven factoren betrokken: constitutie, aanpassingsvermogen, psychologische achtergronden en omgevingsfactoren. De claimbeoordeling heeft daarom een ambachtelijk en onvermijdelijk subjectief karakter. Juist daarom is het van belang dat de argumentatie transparant en feitelijk controleerbaar is. De professionele aard van een dergelijke beoordeling vereist dat deze zoveel mogelijk gebaseerd is op interpretatie van toetsbare feiten. Plausibiliteit is hierbij een sleutelwoord.
+
+De verzekeringsarts toetst de claim binnen het vigerend wettelijk kader en toetst zijn eigen hypothese. Hij onderzoekt de functionele mogelijkheden en de herstelactiviteiten. Hij toetst de aangeleverde gegevens door derden ( bv de bedrijfsarts) kritisch en weegt deze. Hij indiceert wanneer aanvullend onderzoek door derden noodzakelijk is om zelf tot een zorgvuldige beoordeling te komen, en voert dit uit. Hij komt tot een multifactoriële probleemanalyse. Het betrekt daarin biopsychosociale aspecten, arbeidsbelasting en risico’s en context- en systeemaspecten.
+
+Het accent van het verzekeringsgeneeskundig onderzoek ligt zoals eerder gesteld, niet op de klassieke medische anamnese, maar op het beoordelingsgesprek waarin het functioneren in arbeid (of de relevante sociale rol) centraal staat. Daarbij brengt de verzekeringsarts zorgvuldig in kaart welke belemmeringen in functioneren de cliënt ervaart – ook wel claimklacht genoemd. Deze inventarisatie betreft zowel de belemmeringen die de cliënt spontaan naar voren brengt als die waarnaar de verzekeringsarts vraagt, gelet op het medische beeld. De rubrieken en items van de FML kunnen daarbij als leidraad dienen.
+
+Aan de hand van medische of gedragskundige gegevens, observaties en eventueel ook arbeidskundig onderzoek beoordeelt de onderzoeker vervolgens in hoeverre de belemmeringen ook aanleiding geven beperkingen vast te stellen. In veel gevallen zullen beperkingen betrekking hebben op gedragsmogelijkheden in verband met een vorm van ervaren pijn of moeheid. Voorzover de onderzoeker de ervaren belemmeringen als beperkingen wil beoordelen, zullen deze daarom een per definitie globaal karakter hebben.
+
+**Ad 2.5.5: Prognose en duurzaamheid**
+
+De verzekeringsarts vermeldt de prognose ten aanzien van de kans op herstel van de klachten en de kans op herstel van de functionele mogelijkheden.
+
+In het kader van een IVA (Inkomensregeling Volledig Arbeidsongeschikten) beoordeling beargumenteert de verzekeringsarts de duurzaamheid van de arbeidsbeperkingen. (zie beoordelingskader ‘duurzaamheid’)
+
+**Ad 2.5.6: Reactie cliënt: spreekt voor zich. Bij voorkeur geen standaard zin.**
+
+###### 3 — De functionele mogelijkheden lijst ( FML).
+
+De FML is ontworpen om de mogelijkheden tot functioneren in kaart te brengen, met het normaal dagelijks functioneren als maatstaf voor ‘beperking’.
+
+Als illustratie van het begrip ‘normaal’ is zoveel mogelijk aansluiting gezocht bij voorbeelden uit het dagelijkse leven buiten de werksfeer. ‘Normaal’ is wat de meeste werknemers tussen 18–65 jaar kunnen. Voor de communicatie met cliënt is dit specifieke gebruik van het begrip normaal ook van belang. Het maakt de beoordeling voor hem herkenbaar. Als het 'normale functioneren' in het contact met cliënt ter sprake komt moet verduidelijkt worden dat dit niet altijd hetzelfde is als wat voor cliënt persoonlijk als normaal geldt. Daarmee kan de cliënt ook duidelijk worden, dat zijn excessieve inspanning – bijvoorbeeld – helemaal niet ‘normaal’ was. In de praktijk blijkt dat dit kan leiden tot lastige – maar ook verhelderende – discussies omdat cliënten vaak geneigd zijn hun vroegere functioneren als ‘normaal’ te zien.
+
+Het FML bestaat uit 6 rubrieken nl: I: persoonlijk functioneren; II: Sociaal functioneren; III: Aanpassing aan fysieke omgevingseisen; IV: dynamische handelingen; V: Statische houdingen; VI: werktijden. Bij iedere beoordeling worden alle rubrieken ingevuld.
+
+###### 4 — Herstelgedrag
+
+Dit komt in essentie neer op de vraag of betrokkene al het mogelijke doet, niet alleen om van zijn klachten af te komen, maar vooral om met zijn klachten te (blijven) functioneren. Welke aanpassingen van zijn taken heeft betrokkene gevonden of proberen te vinden om zijn sociale rol of andere rollen te behouden? De beoordeling van herstelgedrag omvat vragen naar de sociale situatie, arbeidssituatie, een eventuele beroepskeus, arbeidsperspectief en plezier in het werk. Vaak wordt herstelgedrag voornamelijk ‘medisch’ opgevat, namelijk als het zoeken van (para)medische diagnostiek en behandeling. Dat is onjuist omdat het meestal goed mogelijk is onder behandeling – of op een wachtlijst voor behandeling – te blijven functioneren, al dan niet volledig, al dan niet met werkaanpassingen of met hulpmiddelen. Anderzijds mag inderdaad van een cliënt die zo ernstige gezondheidsproblemen ervaart dat hij meent niet naar behoren te kunnen werken, verwacht worden dat hij of zij (para)medische hulp zoekt. Als dat niet is gebeurd, maakt dat de claim van belemmeringen minder aannemelijk. Langdurige behandeling of ‘shoppen’ wijst regelmatig juist op het ontbreken van herstelgedrag. Berucht zijn de eindeloze (fysio/psycho)therapeutische ‘behandelingen en controles’. In die gevallen heeft de behandeling een legitimerende en vaak een afhankelijk makende betekenis gekregen.
+
+Talloze werkenden hebben ernstige aandoeningen en zijn jaren onder behandeling. De verzekeringsarts houdt cliënten voor wat er kan gebeuren als zij passief blijven. Hun reacties geven vaak een aardig beeld van hun gedragspatroon en aanpassingsstrategie.
+
+Wanneer er vrijwel geen functioneel herstelgedrag bestaat, roept dat vragen op over de ernst van de belemmeringen en dus of er wel beperkingen (in die mate) bestaan.
+
+Indien het herstelgedrag niet adequaat is toetst de verzekeringsarts in hoeverre dit verwijtbaar, c.q. aan te rekenen is aan de cliënt. Bij bepaalde ziektebeelden (denk bijvoorbeeld aan psychoses, ernstige verslaving) kan het zijn dat dit niet verwijtbaar is aan cliënt. Daarnaast hangt een en ander ook samen met de aard van de behandeling en eventuele risico’s die daaruit voortkomen. Een cliënt kan bijvoorbeeld niet gedwongen worden om zich te laten opereren in het kader van het herstelproces.
+
+###### 5 — Toets op consistentie/plausibiliteit
+
+De inventarisatie van de claimklacht behoort altijd gepaard te gaan met de volgende toetsing:
+
+- 5.1 een toets op de consistentie tussen stoornis, ervaren belemmering en handicap
+- 5.2 een toets op de interne en externe consistentie van die belemmeringen zelf
+- 5.3 een toets op plausibiliteit
+
+**Ad 5.1: Consistentie tussen stoornis, ervaren belemmering en handicap**
+
+In de praktijk blijkt dit een zeer lastig uitvoerbaar criterium. Dit omdat het begrip ‘stoornis’ zo rekbaar is geworden. Veel ‘stoornissen’ zijn in wezen niet meer dan een beschrijving van de klacht. Dat geldt met name menige ‘stoornis’ uit de psychiatrie maar ook bij LOK en menig syndroom in de neurologie, orthopedie of interne geneeskunde. Bij oppervlakkig onderzoek bestaat er snel ‘consistentie’ zonder dat kritisch is nagegaan of de cliënt met de betreffende stoornis zou kunnen functioneren. Bijvoorbeeld omdat het vermijden van klachten meer te maken heeft met excuusgedrag, ambivalentie en verlies van motivatie dan met reële beperkingen. Of omdat inactiviteit vanuit medisch perspectief hoe dan ook schadelijk is vanwege ‘operante conditionering’.
+
+Het bestaan van een stoornis impliceert allerminst dat ervaren belemmeringen en handicap daarmee vanzelfsprekend consistent zijn. Naarmate een stoornis minder duidelijk valt te benoemen in de betekenis van de oorspronkelijke definitie – een aanwijsbare gestoorde lichamelijke of geestelijke functie – zal de onderzoeker een dergelijke consistentie moeilijker kunnen vaststellen en in elk geval pas na een volledig onderzoek op alle levensterreinen en met de nodige nieuwsgierigheid en soms zelfs met scepsis.
+
+Zogenaamd ‘moeilijk te objectiveren aandoeningen’ nodigen derhalve uit tot een grondig, volledig en kritisch onderzoek met terughoudendheid ten aanzien van het vaststellen van beperkingen. Dit geldt eens temeer waar nogal eens blijkt dat uitgesproken sociale problematiek door een reducerende benadering in de klinische geneeskunde geëtiketteerd wordt als een ‘stoornis’ die uiteraard therapieresistent blijkt omdat de achterliggende problematiek in wezen niet medisch van aard is.
+
+Datzelfde geldt voor de situatie waarbij de stoornis onmiskenbaar aanwijsbaar is in de klassieke zin van de definitie, maar de ervaren belemmeringen buiten proportie zijn (‘discrepantie’). In feite bestaat er dan geen consistentie.
+
+**Ad 5.2: Interne en externe consistentie**
+
+Consistentie heeft niet alleen betrekking op de samenhang tussen stoornis en handicap, maar ook op de mededelingen van de cliënt. De waarneming door de buitenwereld behoort overeen te komen met wat de cliënt vertelt. Dit heet wel ‘externe consistentie’. Observaties zijn een middel om de mededelingen van de cliënt op consistentie te toetsen. Andere middelen zijn gericht psychiatrisch of lichamelijk onderzoek, informatie van behandelaars of rapporten van deskundigen. Deze bronnen zijn min of meer uitwisselbaar. Waar de beoordeling in wezen ziektegedrag betreft ligt er vaak een te groot accent op alleen medische gegevens. Daarom kan het van belang zijn gegevens over het werk en de daar spelende problemen in te winnen, bijvoorbeeld door arbeidskundig onderzoek. Ook kan een partner, een collega of werkgever voor de consistentie van de beeldvorming belangrijke informatie aandragen, in wezen de klassieke heteroanamnese.
+
+Men spreekt wel van ‘interne consistentie’ wanneer de gepercipieerde belemmeringen die de cliënt aangeeft ten aanzien van zijn of haar werk, overeenkomen met die in andere sociale rollen. Dit is tevens de legitimatie die de onderzoeker heeft om naar aspecten van het dagelijks leven buiten het werk – of in het geding zijnde andere sociale rol – te vragen.
+
+Wanneer er geen consistentie is, is dat een reden de cliënt daar primair mee te confronteren. Blijft ook dan inconsistentie bestaan, dan is dat een indicatie om de aangegeven belemmeringen als basis voor het accepteren van beperkingen te wantrouwen. In dat geval zal het medische beeld – de feitelijk aanwijsbare stoornis – de doorslag geven.
+
+**Ad 5.3: Plausibiliteit**
+
+De ervaren belemmeringen moeten plausibel zijn, wat wil zeggen dat zij redelijkerwijs passen (komt dit naar de ervaring van de onderzoeker vaker voor?) bij het medische beeld en/of de arbeidssituatie.
+
+Net als bij inconsistentie geldt dat aangegeven belemmeringen die ook bij doorvragen niet plausibel blijken tot terughoudendheid ten aanzien van het aannemen van beperkingen horen te leiden. De kwaliteit van de claimbeoordeling is in belangrijke mate afhankelijk van de bereidheid van de cliënt om relevante informatie te verstrekken. Blijft die informatie ook bij vakkundig en volledig doorvragen tegenstrijdig of vaag, dan is dat een gerede aanleiding zeer terughoudend te zijn met het vaststellen van beperkingen.
+
+###### 6 — Probleemanalyse/Hervatting Sociale rol
+
+Wanneer belemmeringen consistent en plausibel blijken en de cliënt er het mogelijke aan doet ermee te blijven functioneren resteert nog de vraag of de cliënt zich ook ánders zou kunnen gedragen. Om dat te kunnen beoordelen moet het probleem dat de cliënt zegt te ervaren in zijn sociale context geplaatst worden. Op grond van dat onderzoek formuleert de onderzoeker een probleemanalyse. Die hoeft niet noodzakelijkerwijs overeen te komen met de percepties van betrokkene.
+
+Leidraad voor de beoordeling kan zijn dat inactiviteit vanwege pijn en moeheid – verreweg de meest vóórkomende reden – meestal schadelijk is voor de gezondheid. Belangrijke relevante vragen kunnen zijn in hoeverre:
+
+- – concreet aanwijsbare gezondheidsschade te verwachten zijn bij het oppakken van ADL/BDL activiteiten of bij werkhervatting.
+- – het vanuit medisch oogpunt noodzakelijk is dat de cliënt klachten vermijdt – meestal geldt – immers dat ‘rust roest’ (Donner).
+- – er sprake is van beperkingen als uiting van ziekte dan wel van een keuze omwille van eigen welzijn of gezondheid met vermijding van financiële of andere nadelen.
+- – er sprake is van relevante arbeid of activiteiten die ook voor de gezonde soortgelijke (leeftijdsgenoot!) ongezond zouden zijn.
+- – inactiviteit iets oplost, bijvoorbeeld wanneer cliënten juist thuis problemen of dezelfde
+- – klachten hebben.
+- – verlies van conditie, motivatie, zelfbeeld, discipline en ervaring een rol spelen; Daar kan de cliënt immers zelf iets aan doen.
+- – een door ernstige ziekte gewijzigd levensperspectief de arbeidsrol relativeert zonder dat de cliënt daarvan de materiele consequenties neemt.
+- – boosheid, verongelijktheid of wrok – en dus niet de klachten – de cliënt verhinderen in beweging te komen.
+- – voorbeeldgedrag (gebruikelijkheid, beroep, thuiszittende partner) in de nabije omgeving een rol speelt.
+
+Door de claimklacht op deze manier in zijn sociale context te plaatsen is het doorgaans goed mogelijk tot een redelijke argumentatie over de beperkingen te komen. Die argumentatie mag best aanvechtbaar zijn. En professionele motivering vereist juist controleerbaarheid.
+
+In hoeverre kan een duurbeperking aan de orde zijn bij cliënten met functionele syndromen, ‘aanpassingsstoornissen, somatoforme beelden, neurasthenie, pijnsyndromen’ en dergelijke? Een overweging kan zijn dat een normale dagelijkse werkweek van 40 uur de gezondheid in zulke situaties doorgaans niet zal schaden. Uitgaande van de veronderstelling dat er doorgaans toch sprake is van een inadequate coping en verminderde stressbestendigheid is het vaak redelijk wel beperkingen aan te nemen ten aanzien van excessieve mogelijkheden zoals lange werkdagen of nachtdiensten. Wanneer er sprake is van een evident gestoorde slaap met bijvoorbeeld middelenafhankelijkheid en sterk afwijkend algemeen dagelijks functioneren in gefixeerde situaties kan de onderzoeker soms meer beperkingen aannemen. Daarbij zal hij zich kunnen laten leiden door de slaapanamnese, het dagverhaal en de overweging dat chronische pijn moe maakt. Uiteraard moet daarbij ook overwogen worden in hoeverre er vermijdingsgedrag en gewenning is opgetreden. Bij cliënten die geen multifactorieël/multidisciplinair onderzoek en training hebben ondergaan of dat niet willen, zal er weinig reden zijn dergelijke beperkingen aan te nemen.
+
+Over het algemeen zal een méér dan lichte beperking van arbeidsduur niet aan de orde komen.
+
+###### 7 — Samenwerking met de arbeidsdeskundige
+
+In het kader van de arbeidsongeschiktheidsbeoordeling is er een intensieve samenwerking tussen de verzekeringsarts en de arbeidsdeskundige.
+
+Bij de WIA aanvraag toetst de arbeidsdeskundige als eerste het reïntegratieverslag en laat zich hiervoor zonodig bijstaan door de verzekeringsarts. Indien het reïntegratieverslag akkoord is bevonden wordt de WIA aanvraag opgestart. Nadat de verzekeringsarts de functionele mogelijkheden (FML) in kaart heeft gebracht, zie 7a in stroomdiagram, wordt door de arbeidsdeskundige de resterende verdiencapaciteit vastgesteld en wordt een reïntegratie visie gemaakt, die als leidraad geldt bij de verdere reïntegratie van cliënt.
+
+Indien uit de toetsing blijkt dat het reïntegratie traject onvoldoende optimaal is doorlopen, wordt de WIA aanvraag niet in behandeling genomen. Deze wordt opgeschort ( maximaal 52 weken) tot het moment dat werkgever en werknemer aantonen de tekortkomingen hersteld te hebben en verzoeken de WIA aanvraag alsnog in behandeling te nemen. Over de tussenliggende periode dient de werkgever het loon door te betalen.
+
+###### 8 — Coaching en kwaliteit bevordering
+
+Bij het UWV/de WIA beoordelingen coacht de stafverzekeringsarts (lees hier ook de stafarbeidsdeskundige voor de arbeidsdeskundigen) de verzekeringsartsen in het uitoefenen van hun functie. Tevens beoordeelt hij/zij de vakinhoudelijke kwaliteit van de verzekeringsarts. De stafverzekeringsarts (stafva) heeft daarnaast een adviserende taak richting management.
+
+De coachende taak bestaat uit het (mede )opleiden, begeleiden en ‘empoweren’ van de verzekeringsartsen en het bevorderen van team- en resultaat gericht werken. De stafva geeft feedback op de diverse onderdelen in het verzekeringsgeneeskundig handelen waaronder ook de attitude van de verzekeringsarts. De stafva benoemt dominante fouten en stelt van daaruit verbetermaatregelen voor op individueel- en groepsniveau. Daarnaast heeft de stafva natuurlijk een consult- en vraagbaakfunctie voor de verzekeringsarts.
+
+De stafva verzorgt inhoudelijke instructies bij nieuw beleid en wet- en regelgeving en heeft maandelijks een vakinhoudelijk overleg met de verzekeringsartsen. Daarnaast vindt maandelijks een casuïstiek bespreking plaats met de verzekeringsartsen en bevordert de stafva dat de verzekeringsarts deelneemt aan onderlinge toetsing.
+
+De kwaliteit van het handelen van de verzekeringsarts wordt getoetst door de stafverzekeringsarts door middel van dossier onderzoek, geaggregeerde gegevens omtrent de uitkomsten van de beoordeling, terugkoppeling van bezwaar- en beroepszaken, klachten, en sinds kort ook bijwonen van het spreekuur . Door deze gegevens kan de stafverzekeringsarts gerichte feedback geven op het handelen van de verzekeringsarts, ook in de spreekkamer.
+
+UWV ontwikkelt een notitie na- en bijscholing van de verzekeringsarts. Hierin worden termen geformuleerd waaraan een verzekeringsarts moet voldoen. Dit houdt onder andere in het bijhouden van een portfolio met gevolgde na- en bijscholingen; onderlinge toetsing, casuïstiekbesprekingen, visitatie etc.
+
+De stafva heeft een adviserende rol richting management als het gaat om opleiding van de verzekeringsarts.
+
+De stafva heeft regelmatig overleg met het management en adviseert het management over te nemen verbeter maatregelen of bijvoorbeeld over consequenties voor de praktijk van nieuw beleid of wet- en regelgeving.
+
+Daarnaast heeft de stafva ook overleg met collega stafmedewerkers van andere disciplines zoals bijvoorbeeld bij inhoudelijke problemen in de gevalsbehandeling.
+
+###### 9 — Toetsing
+
+De kwaliteit van het handelen van de verzekeringsarts, aangaande de Algemene Verzekeringsgeneeskundige en WIA beoordeling wordt getoetst door de stafva door middel van dossier onderzoek, geaggregeerde gegevens omtrent de uitkomsten van de beoordeling, terugkoppeling van bezwaar- en beroepszaken, klachten, en sinds kort ook bijwonen van het spreekuur. Door deze gegevens kan de stafva gerichte feedback/terugkoppeling geven op het handelen en de attitude van de verzekeringsarts, ook in de spreekkamer op individueel niveau.
+
+Er wordt maandelijks een aselecte steekproef voor iedere regio getrokken die wordt beoordeeld door de stafva. Dit levert iedere maand een rapportage op. Daarnaast vindt nog
+
+een landelijke controle plaats door de medisch adviseur UWV van de afdeling interne controle en kwaliteit.
+
+De stafva benoemt op geaggregeerd niveau de dominante fouten en bepaalt welke verbeteracties nodig zijn op individueel- en groeps niveau.
+
+Hierover informeert de stafva ook het management. De managerclaim is eindverantwoordelijk voor de kwaliteit van de verzekeringsarts en moet daartoe ook door de stafva geadviseerd worden.
+
+Bij de gecombineerde WIA-IP beoordeling zal de kwaliteit van de algemene verzekeringsgeneeskundige/WIA beoordeling worden getoetst door de stafva. De coaching en de toets op dienstverband, causaliteit en invaliditeitspercentage zijn belegd bij de Pensioenverzekeringsautoriteit.
+
+#### Bijlage 2 bij WIA-IP protocol
+
+##### MEDISCH ONDERZOEKSVERSLAGWIA
+
+| | | | |
+| --- | --- | --- | --- |
+| Naam cliënt | : () | Registratienummer | : |
+| Woonplaats | : | Burgerservicenummer | : |
+| Naam rapporteur | : | Datum rapportage | : Afdeling |
+| | : AG | Team | : geen |
+
+BETREFT:
+
+Het betreft een beoordeling in het kader van de wet WIA.
+
+VRAAGSTELLING
+
+Komt de identiteit van cliënt overeen met die op het geldige identiteitsbewijs?
+
+Is er bij cliënt sprake van een vermindering van de benutbare mogelijkheden ten aanzien van het kunnen verrichten van arbeid, als rechtstreeks en objectiveerbaar gevolg van ziekte en/of gebrek en zo ja, hoe zijn de benutbare mogelijkheden? Kan cliënt de huidige mogelijkheden duurzaam benutten?
+
+ONDERZOEK
+
+Onderzoeksactiviteiten:
+
+\[DUBBELKLIK\]
+
+Cliënt werd door mij geïnformeerd over doel en werkwijze van het verzekeringsgeneeskundig onderzoek.
+
+Onderzoeksgegevens:
+
+Dossiergegevens
+
+Cliënt is een 50-jarige vrouw werkzaam in de functie van # sedert #, uitgevallen per 03-09-1998 met #.
+
+Arbeidspatroon: 0 u/w, # d/w, # u/d.
+
+Fysieke belasting: #
+
+Psychische belasting: #
+
+Samenvattend is er sprake van #.
+
+Anamnese
+
+Actuele situatie:
+
+Cliënt werkt #
+
+Huidig werk: #
+
+Huidige claimklachten, ervaren beperkingen en klachtenverloop: #
+
+Herstelgedrag: #
+
+Tractus anamnese: bijkomende ziektes/aandoeningen: #
+
+Persoonlijk en sociaal functioneren (waaronder het dagverhaal):
+
+Cliënt geeft aan dat er sprake is van bijzondere persoonlijke leefomstandigheden of privé-problemen.
+
+\#
+
+Visie en toekomstverwachting van cliënt ten aanzien van haar belastbaarheid:
+
+- • Gezondheid: \[DUBBELKLIK\]
+- • Belastbaarheid:
+- • Werken:
+
+Onderzoeksbevindingen:
+
+Algemene indruk:
+
+Cliënt is een # verzorgde vrouw die conform haar leeftijd overkomt, maakt een gezonde indruk.
+
+Cliënt is # verzorgd gekleed.
+
+De mimiek vertoont een # expressie.
+
+Cliënt zit tijdens het gesprek # op de stoel; de gestiek is #.
+
+Aan het uiterlijk zijn geen # tekenen van # pijn of moeheid te ontwaren.
+
+Zij ontziet zich niet in bewegingen.
+
+Er zijn # geen vegetatieve kenmerken aanwezig.
+
+Het contact wordt op # gelegd. Cliënt maakt een # indruk. Het oogcontact is #.
+
+De spraak is #. Cliënt brengt het verhaal op een # wijze.
+
+De houding maakt een coöperatieve indruk.
+
+Onderzoek psyche:
+
+Aan het bewustzijn, aandacht, oriëntatie en waarnemen zijn geen afwijkingen op te merken. Het intellect ligt naar schatting rond de norm. Het denken is qua vorm normaal en qua inhoud normaal.
+
+Het geheugen maakt een normale indruk. De concentratie is tijdens het gesprek normaal. De stemming komt # over. Er zijn geen wanen of hallucinaties. Het affect is stabiel en moduleert # mee met het verhaal. Het gevoelsleven is # in balans. In de karakterstructuur zijn # kenmerken aan te geven.
+
+\[DUBBELKLIK\]
+
+Lichamelijk onderzoek status localis:
+
+\[DUBBELKLIK\]
+
+Informatie van de behandelende sector:
+
+\[DUBBELKLIK\]
+
+DIAGNOSE:
+
+\[DUBBELKLIK\]
+
+BESCHOUWING
+
+Overwegingen en belastbaarheid:
+
+De uiteindelijke reden van het aangeven van een verminderde belastbaarheid is #.
+
+\[DUBBELKLIK\]
+
+Prognose beperkingen t.a.v. de aangegeven belastbaarheid:
+
+\[DUBBELKLIK\]
+
+Reactie cliënt:
+
+De relevante onderdelen van de beschouwing, conclusie en planning werden besproken.
+
+\[DUBBELKLIK\]
+
+CONCLUSIE:
+
+\[DUBBELKLIK\]
+
+PLANNING:
+
+\[DUBBELKLIK\]
+
+\[DUBBELKLIK=VASTLEGGEN\]
+
+#### Bijlage 3: — Deze bijlage is onlosmakelijk verbonden met het protocol WIA en IP beoordeling
+
+##### Toelichting Militaire Invaliditeitsbeoordeling
+
+###### Woord vooraf
+
+Deze bijlage maakt deel uit van het protocol WIA en IP beoordeling. In dit document wordt ingegaan op de bijzondere karakteristieken van de Militaire Invaliditeitsbeoordeling (IP) en de beoordeling zelf. Deze karakteristieken betreffen de begrippen dienstverband, causaliteit en invaliditeit. Deze worden besproken en nader toegelicht. Daarna wordt de IP beoordeling verwoord, met de toetsingskaders. Met nadruk wordt gewezen op het feit dat deze bijlage evenals het hele protocol moet worden gezien als een start/groei document. Vanuit de praktijk zal nadere invulling moeten worden gegeven. Voorbeeld casuïstiek (mediprudentie), praktijkervaringen en consensus voorkomend uit Intercollegiale Toetsing (ICT) zullen bij de doorontwikkeling een belangrijke rol moeten spelen. Deze elementen worden in dit protocol voor als nog slechts summier aangegeven. Tevens dienen te zijner tijd en voor zover van toepassing, gegevens in deze bijlage te worden verwerkt uit: a) De Interdisciplinaire Werkgroep Medisch deskundigen (IWMD onder leiding van prof mr. A.J. Akkermans VU) en uit: b) de werkgroep medisch Specialistische Rapportages.
+
+###### Inleiding
+
+De Militaire Pensioenvoorschriften kennen een onderscheid in pensioenberekening en pensioenhoogte, al naar gelang de invaliditeit van de militair verband houdt met de uitoefening van de militaire dienst ( zogenaamde ‘dienstverband aandoeningen’). De achterliggende gedachte hierbij is dat de militair die door uitoefening van de militaire dienst verwondingen, ziekte of gebreken heeft opgelopen een betere verzorging c.q. schadevergoeding verdient dan wanneer er geen verband bestaat met de dienst. De mate van invaliditeit wordt financieel vertaald in een ‘invaliditeitspensioen’ en een ‘bijzondere invaliditeitsverhoging’. Het invaliditeitspensioen moet worden gezien als een schade vergoeding voor de opgelopen invaliditeit. De bijzondere invaliditeitsverhoging moet worden gezien als een smartengeld vergoeding. Het ‘invaliditeitspensioen’ wordt verrekend met de eventueel onderliggende WIA-uitkering en het aanvullende arbeidsongeschiktheidspensioen. De bijzondere invaliditeitsverhoging wordt niet met andere uitkeringen verrekend. Voor een aanvullende toelichting op bovenstaande wordt verwezen naar het rapport ‘Schade in Schalen’. Een invaliditeitspensioen wordt slechts toegekend als aan bepaalde voorwaarden is voldaan: Zo moet sprake zijn van een Dienstverband – causaliteit – en buitengewone omstandigheden. Tijdens de zogenaamde IP beoordeling worden deze voorwaarden getoetst en de mate van invaliditeit vastgesteld aan de hand van een barema. Beroepsactiviteiten/Arbeidsongeschiktheid blijven buiten beschouwing.
+
+Bij een dienstverband aandoening, niet opgelopen tijdens de buitengewone omstandigheden (zoals de bedrijfsongevallen/‘arbeid gerelateerde aandoeningen’ in vredestijd) heeft men alleen recht op een verhoogd arbeidsongeschiktheidspensioen.
+
+###### De IP-beoordeling
+
+Voor de IP beoordeling is het van essentieel belang inzicht te hebben in en/of een uitspraak te krijgen over de volgende begrippen:
+
+- A. Dienstverband aandoening
+- B. Proces verbaal van ongeval (PvO) en rapport medische aangelegenheden (RMA).
+- C. Causaliteitsbeoordeling: Juridische en medische causaliteit. Oorzakelijk en Verergerend Verband
+- D. Het invaliditeitsbegrip
+- E. De invaliditeitsschatting en de WPC schaal
+
+Deze onderwerpen worden onderstaand kortheidshalve besproken en toegelicht, evenals de daarbij geldende toetsingskaders. Voor een meer gedetailleerde toelichting wordt verwezen naar de desbetreffende wet en regelgeving. In een aparte bijlage is deze gebundeld. Dit betreft onder meer:
+
+- 1. MP 32-500/1400; Besluit AO/IV aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen 2001
+- 2. MP 31-109/1150; Regeling proces-verbaal van ongeval en rapportage medische aangelegenheden
+- 3. MP 31-101; Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen.
+- 4. Brief HDP Defensie dd.26 oktober 2006; P/2006034896: Sociale rechtspositie bij deelname aan vredesmissies. Toelichting: In de brief van 26 oktober 2006 van HDP, nr. P/2006034896, wordt aangegeven dat voor elk incident tijdens een uitzending in het kader van een vredesmissie, verband met de uitoefening van de militaire dienst onder bijzondere omstandigheden wordt aangenomen. Met ‘incident’ wordt een ongeval bedoeld. Onder een ongeval wordt verstaan: een van buitenaf intredende geweldsinwerking welke direct letsel tot gevolg heeft. Ingevolge de militaire pensioenvoorschriften dient voor de toekenning van een invaliditeitspensioen wel altijd sprake te zijn van een oorzakelijk of verergerend verband tussen het incident en de gebreken. Voor ziekten, waaronder psychische aandoeningen, geldt eveneens dat sprake moet zijn van een oorzakelijk of verergerend verband met de uitzending. Wanneer een militair ten tijde van de buitengewone omstandigheden komt te overlijden zal altijd worden uitgegaan van dienstverband.
+- 5. Rapport ‘Schade in Schalen, commissie WPC – Schaal juni 2004.
+
+**A: — Dienstverband aandoening**
+
+Om in aanmerking te komen voor een verhoogd pensioen moet er sprake zijn van een verband tussen de aandoening en de uitoefening van de militaire dienst.
+
+Defensie onderscheidt twee soorten dienstverband:
+
+- 1. ‘Arbeidsongeschiktheid met Dienstverband’ (Artikel 2 lid 1 besluit AO/IV, grondslag Kaderwet militaire pensioenen): relatie met bedrijfsongevallen en ‘arbeid gerelateerde aandoeningen’. Letterlijk wordt in de regelgeving gewag gemaakt van ‘aandoeningen ten gevolge van ziekten of gebreken, die in overwegende mate hun oorzaak vinden in de aard van de aan de militair opgedragen werkzaamheden of in de bijzondere omstandigheden, waaronder zij moesten worden verricht, en niet aan zijn schuld of onvoorzichtigheid zijn te wijten.’
+- 2. ‘ Invaliditeit met Dienstverband’ (Artikel 2 lid 3 tot en met 8 besluit AO/IV, grondslag Kaderwet militaire pensioenen): relatie met buitengewone of daarmee vergelijkbare omstandigheden (oorlog, uitzendingen, oefeningen etc). Bij een invaliditeit met dienstverband dient vervolgens nog onderscheid te worden gemaakt tussen: ‘oorzakelijk dienstverband’ en‘ verergerend dienstverband’.
+
+In 1998 heeft een wetwijziging plaatsgevonden. Sindsdien is voor een nieuwe toekenning van het invaliditeitspensioen alleen de ‘invaliditeit met dienstverband’ van belang (welke een relatie heeft met de buitengewone omstandigheden). Daarom wordt voornamelijk ingegaan op dit begrip en de daarbij behorende voorwaarden.
+
+*A 1: Arbeidsongeschiktheid met Dienstverband*
+
+Onder arbeidsongeschiktheid met dienstverband vallen de bedrijfsongevallen en de arbeid gerelateerde aandoeningen. Een rechtstreekse relatie moet kunnen worden gelegd tussen de uitoefening van de militaire dienst en het letsel/de aandoening. Indien de uitoefening van de militaire dienst in overwegende mate bepalend is geweest voor het ontstaan van het letsel/de aandoening heeft betrokkene, ongeacht de schuldvraag, recht op een verhoogd Arbeidsongeschiktheidspensioen. Het begrip ‘in overwegende mate’ is hierbij het sleutelbegrip. Met nadruk wordt gesteld dat het vaststellen van een dienstverband niet automatisch inhoud dat er sprake is van onzorgvuldig handelen van de werkgever c.q. dat de werkgever aansprakelijk is. De werkgever neemt zijn zorgplicht serieus. Daarom wordt aan de causaliteit bij dienstverband geen al te hoge eisen gesteld. De medische causaliteit wordt wel verder uitgediept bij aanvullende civiele letselschadeclaims van betrokkene. In dit soort situaties kan het voorkomen dat de causaliteit, gemotiveerd met verdiept medisch inzicht, wordt herroepen. Dit kan leiden tot verwarring en onbegrip.
+
+Voor de mate van Arbeidsongeschiktheid geldt de WIA-beoordeling.
+
+*A 2: Invaliditeit met Dienstverband*
+
+Om in aanmerking te komen voor een militair invaliditeitspensioen moet sprake zijn van een ‘invaliditeit met dienstverband’: De aandoening/invaliditeit moet zijn ontstaan **tijdens** en door de uitoefening van de militaire dienst onder buitengewone omstandigheden (uitzending, oefeningen e.a) en bij actieve militairen hebben geleid tot blijvende militaire dienstongeschiktheid op medische gronden. Overigens wordt bij ziekten/gebreken die **tijdens** uitzendingen ontstaan, juridisch in principe uitgegaan van invaliditeit met dienstverband, tenzij medisch duidelijk is dat het niet door de buitengewone omstandigheden komt/kan komen. Begrippen als predispositie en pre-existentie spelen hierbij een rol.
+
+Bij ongevallen tijdens uitzendingen wordt juridisch altijd uitgegaan van invaliditeit met dienstverband, zie bijlage 4. (Overigens volgt binnenkort nog een nadere toelichting op deze bijlage)
+
+De begrippen oorzakelijk en verergerend dienstverband komen in de paragraaf causaliteit beoordeling nader ter sprake. Ook zullen deze begrippen daar aan de hand van in ontwikkeling zijnde voorbeeld casuïstiek te zijner tijd worden verduidelijkt.
+
+**Toekenning Dienstverband**
+
+Actief dienende Militairen kunnen op verschillende manieren erkenning van eventuele dienstverbandaanspraken vragen:
+
+- – door de commandant te verzoeken een proces-verbaal van ongeval te laten opstellen, zie B1.
+- – door een Rapportage van Medische Aangelegenheden (RMA) aan te vragen, zie B2.
+- – na vaststelling van militaire dienstongeschiktheid op medische gronden ( Militair Geneeskundig Onderzoek, zie bijlage 3 )
+
+Postactieve militairen kunnen zonder voorbehoud een aanspraak bij het ABP neerleggen.
+
+*B 1: Procesverbaal van ongeval*
+
+Volgens artikel 147 AMAR is iedere militair verplicht, zodra hij hiertoe redelijkerwijs in staat is aan zijn commandant kennis te geven van een hem tijdens de dienst overkomen ongeval. Hiervan dient dan zo spoedig mogelijk een proces verbaal te worden opgemaakt.
+
+Voor een omschrijving van deze procedure wordt verwezen naar de Regeling Proces Verbaal van ongeval en rapportage medische aangelegenheden. Kort samengevat komt het op het volgende neer:
+
+Een door de commandant aangewezen functionaris maakt een rapport op. Hierin staan vermeld de omstandigheden, de aard van de dienstverrichtingen, de dienstbevelen en de bevindingen van de functionaris. Tevens is een verklaring van betrokkene bijgevoegd, vergezeld van zo mogelijk twee getuigenverklaringen. Ook een verklaring van de behandelende arts over de aard van het letsel dient in het rapport aanwezig te zijn. De commandant geeft gemotiveerd aan of naar zijn menig sprake is van een dienstverband. Dit rapport wordt opgestuurd naar ABP-BRD (Algemeen Burgerlijk Pensioenfonds – Bijzondere regelingen Defensie), Postbus 4490, 6401 CZ Heerlen. ABP-BRD is door de minister gemandateerd tot het nemen van een besluit op het proces verbaal van ongeval.
+
+Elk Proces-verbaal van ongeval (PvO) wordt door het ABP beoordeeld op de vraag of sprake is van een dienstongeval. Hierbij wordt een lijst met casusposities als richtlijn gehanteerd, zie bijlage 2. Het ABP kan de volgende uitspraken doen in geval van een Proces-verbaal:
+
+- – er is geen sprake van een dienstongeval
+- – er is sprake van dienstongeval artikel 2 lid 1 besluit AO/IV (= artikel 5 van de regeling proces verbaal)
+- – er is sprake van dienstongeval artikel 2 lid 3 tot en met 8 besluit AO/IV (=artikel 4 van de regeling proces verbaal)
+
+Pas nadat de medische causaliteit met het ongeval is vastgesteld, wordt het vermoeden op dienstverband uitgesproken. Dit vermoeden wordt bij de actieve militairen bevestigd door de Pensioenverzekeringsautoriteit. De toekenning van dienstverband onder artikel 5 leidt, zoals al eerder gesteld niet tot invaliditeitsaanspraken. Als er geen sprake is van een dienstongeval, maar betrokkene meent toch schade te hebben opgelopen door de uitoefening van de dienst dan dient hij een RMA te laten opmaken, zie B2.
+
+Toekenning van dienstverband vindt bij de actieve militairen alleen plaats nadat dienstongeschiktheid voor de militaire dienst is vastgesteld. Gelijk alle andere keuringen geldt de uitslag ‘dienstongeschikt’ als een advies. Dienstongeschiktheid, al dan niet met dienstverband, hoeft niet te persé leiden tot ontslag. De beoordeling van de dienstgeschiktheid wordt verricht door de interne, onder CDC/Bedrijfsgroep Gezondheidszorg ressorterende Defensie organisatie voor Bijzondere Medische Beoordelingen (BMB). Deze beoordeling staat bekend als het Militair Geneeskundig Onderzoek 105 AMAR (MGO).Door de één loket dienst worden de gegevens van het PvO, het RMA en/of van het MGO gebruikt voor de artikel 4 en 5 beoordeling. De BMB is tevens de instantie waar actief dienende militairen een RMA kunnen laten opmaken, zie B2. Postactieve militairen kunnen zich direct tot de één loket dienst loket wenden. In deze gevallen kan het ABP de staat van dienst, het medische dossier en een eventuele commandantenmelding OPCO gebruiken voor de beoordeling. Deze gegevens kan het ABP in de nabije toekomst verkrijgen volgens een ‘patient tracking’systeem via de BMB. Hierbij gaat de BMB, met machtiging van betrokkene na of bovengenoemde gegevens bij Defensie voorhanden zijn en zo ja, dat deze gegevens dan ter beschikking komen voor de Dienstverband beoordeling bij het loket/ABP.
+
+*B 2: Rapport Medische aangelegenheden (artikel 10 regeling)*
+
+Anders dan het PvO wordt het RMA door een arts beoordeeld zonder tussenkomst van het ABP. Het RMA is speciaal bedoeld voor het vastleggen van mogelijke aandoeningen ten gevolge van de uitoefening van de dienst, waarbij geen sprake is geweest van een ongeval. Dit rapport kan dan worden gebruikt, ten behoeve van eventuele aanspraken later. Als voorbeelden worden genoemd opgelopen gehoorverlies door blootstelling aan lawaai en mogelijke gevolgen na astbest blootstelling.
+
+De militair die meent (mogelijk) schade te hebben opgelopen door de uitoefening van de dienst of meent dit in de toekomst alsnog te krijgen, verzoekt de BMB, door een arts een RMA te laten opmaken. Deze arts is lid van een geneeskundige commissie als bedoeld in artikel 3 van het besluit ‘procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioen keuringen militairen’. Voor een omschrijving van deze procedure wordt eveneens verwezen naar de Regeling Proces Verbaal van ongeval en rapportage medische aangelegenheden.
+
+Dit RMA kan inhoudelijk globaal en algemeen van karakter zijn. Relevante medische gegevens worden genoteerd, naast verklaringen van betrokkene en eventuele derden. Over een mogelijke medische causaliteit wordt de mening van de arts gevraagd, echter niet staat omschreven waarop deze mening moet zijn gebaseerd. Menigmaal beperkt de rapportage zich tot een verklaring dat betrokkene meent klachten/beperkingen te hebben opgelopen door de dienst, zonder dat een causale relatie verder wordt uitgediept of wordt uitgesproken. Het aanwezig zijn van een RMA impliceert niet dat een medisch causaal verband al aangenomen is. Het beschrijft dat betrokkene toentertijd klachten had of blootgesteld is geweest. Dit rapport gaat niet naar het ABP. De betrokken militair krijgt een afschrift. Een kopie gaat in het geneeskundig dossier en in het geneeskundig archief van de geneeskundige commissie. Aan het rapport kunnen geen rechten worden ontleend. Wel kan het rapport later worden gebruikt om een dienstverband te onderbouwen.
+
+*Lijst casus posities*
+
+In bovengenoemde regeling is, ten behoeve van de beoordeling van PvO’s door het ABP, een lijst met casusposities opgesteld. Hierin staat aangegeven wanneer sprake kan zijn van een ongeval tijdens buitengewone of daarmee vergelijkbare omstandigheden in de zin van artikel 4 van deze regeling, dan wel een ongeval tijdens vredesomstandigheden in de zin van artikel 5 van deze regeling. Voor uitgebreidere informatie wordt verwezen naar bijlage 2.
+
+**C: — Causaliteit beoordeling**
+
+Bij de causaliteit dient onderscheid te worden gemaakt tussen:
+
+- 1. De Juridische causaliteit
+- 2. De Medische causaliteit
+
+Beide vormen van causaliteit moeten los van elkaar worden beoordeeld, ook al kennen ze diverse raakvlakken en is scheiding van beiden soms kunstmatig. Zo kan een jurist bijvoorbeeld (bijna) nooit concluderen tot juridische causaliteit bij letsel, als medisch geen verband met het ongeval/de blootstelling wordt aangenomen c.q. de causaliteit wordt toegeschreven aan andere factoren. Anderzijds is het wel zo dat als de medicus geen uitspraak wil of kan doen, de jurist toch causaliteit kan aannemen. Bekend is het voorbeeld van de Whiplash: medisch vindt men geen causaal verband, noch worden andere omstandigheden gevonden welke de klachten kunnen verklaren. Onder het adagium ‘voor het ongeval geen klachten, na het ongeval wel klachten’ neemt de jurist dan soms toch juridische causaliteit aan. Overigens mag dit adagium voor een arts nooit de reden zijn om medische causaliteit aan te nemen. Onderstaand worden beide begrippen nader gespecificeerd
+
+*C1: Juridische causaliteit*
+
+De juridische causaliteitscriteria van de militaire pensioenwetgeving zijn bepalend en richtinggevend. Hierbij speelt de medische causaliteit een zeer belangrijke rol. Daarom is het onderscheid tussen juridische en medische causaliteit enigszins fictief. De scheiding wordt aangehouden omwille van diverse (wettelijke) begripsomschrijvingen en juridische uitspraken. Juridisch moet allereerst worden voldaan aan het begrip dienstverband. Bij ‘invaliditeit met dienstverband’ moet dit dienstverband nader worden ingevuld met de begrippen ‘oorzakelijk of verergerend ’. Voor uitleg over het begrip ‘dienstverband’ wordt verwezen naar paragraaf A. De begrippen ‘oorzakelijk en verergerend’ worden wettelijk als volgt omschreven:
+
+Oorzakelijk:
+
+- – Aanwezigheid van een invaliditeit van tenminste 10%[^n1] tengevolge van verwonding, ziekten of gebreken, welke zijn veroorzaakt door de uitoefening van de militaire dienst in geval van buitengewone of daarmede vergelijkbare omstandigheden.
+- – Aanwezigheid van een invaliditeit van tenminste 10%, tengevolge van ziekten of gebreken welke het gevolg zijn van verrichtingen of vermoeienissen aan de uitoefening van de militaire dienst in geval van buitengewone of daarmede vergelijkbare omstandigheden verbonden, dan wel welke tot uiting zijn gekomen onder overwegende invloed van die verrichtingen of vermoeienissen.
+
+*Toelichting Oorzakelijk dienstverband*
+
+Nadat een invaliditeit met dienstverband is vastgesteld moet worden beoordeeld of er sprake is van een oorzakelijk of verergerend dienstverband. Het vermoeden op oorzakelijk dienstverband wordt uitgesproken indien de aandoening rechtstreeks verband houdt met het ongeval of de blootstelling tijdens de bijzondere omstandigheden. Bij een oorzakelijk verband wordt de volledige invaliditeit, inclusief alle verergeringen in de toekomst toegerekend aan Defensie. Dit geldt ook voor verergeringen veroorzaakt door omstandigheden waarvoor Defensie niet verantwoordelijk is. De vervolguitkeringen kunnen dus (extreem) toenemen.
+
+Voorbeeld: iemand loopt ten gevolge van de uitzending een lichte PTSS op waarvoor 10% invaliditeit is toegekend. 5 Jaar later maakt hij als burger een overval mee in een supermarkt en houdt hier een zeer ernstige PTSS aan over met ernstige beperkingen, oplopend naar 70% invaliditeit. Defensie moet dan 70% van de pensioengrondslag uit gaan keren.
+
+Verergerend:
+
+- – aanwezigheid van een invaliditeit van tenminste 10%[^n2], tengevolge van ziekten of gebreken, welke zijn ontstaan, tot uiting gekomen of verergerd mede door inwerking van bijzondere, zeer nadelige invloeden, waaraan de beroepsmilitair in verband met de uitoefening van de militaire dienst in geval van buitengewone of daarmede vergelijkbare omstandigheden is blootgesteld geweest.
+
+*Toelichting Verergerend dienstverband*
+
+Het vermoeden op een verergerend dienstverband wordt uitgesproken indien de aandoening in overwegende mate verband houdt met het ongeval of de blootstelling tijdens de buitengewone omstandigheden. Van verergering mag alleen worden gesproken indien deze als blijvend (langer dan twee jaar op een stabiel hoger niveau) wordt gezien.
+
+Aandoeningen welke multicausaal zijn bepaald en dus door meer factoren worden veroorzaakt dan alleen de bijzondere omstandigheid vallen normaliter in de categorie ‘verergerend dienstverband’.
+
+Bij een verergerend verband wordt de volledige invaliditeit toegerekend aan Defensie, echter, verergeringen in de toekomst niet of nauwelijks.
+
+Voorbeeld als bovenstaand, maar dan met verergerend dienstverband (lichte PTSS maar daarnaast nog andere psychische problematiek): de gevolgen van de overval en de hierdoor veroorzaakte verhoogde invaliditeit vallen buiten het Militaire invaliditeitspensioen.
+
+Strikt genomen dient de jurist, aan de hand van alle voorliggende informatie, zijnde het PvO, het RMA, de medische causaliteit en overige een beslissing te nemen over het juridisch causale verband en de aard van het verband. In de praktijk heeft de arts een belangrijke stem in het geheel. Dit geldt voornamelijk voor de vaststelling van verergerend dienstverband. De interpretatie hiervan leidt in de praktijk regelmatig tot verwarring. Aanvankelijk werd het begrip ‘mede’ geduid als ‘in overwegende mate’. De rechter heeft vervolgens over de interpretatie van ‘overwegende mate’ diverse uitspraken gedaan: dit leidt tot de volgende omschrijving: de militaire dienst moet een overwegende/belangrijke/duidelijk aanwezige factor zijn geweest bij het ontstaan van de blijvende verergering. Tevens dient de verergering blijvend te zijn en tot duidelijk extra gezondheidsschade aanleiding hebben gegeven. Anders gezegd: de invaliditeit wordt blijvend op een hoger percentage vastgesteld dan het geval zou zijn geweest indien betrokkene niet onder de wapenen zou zijn geweest.
+
+*C 2: De medische causaliteit*
+
+Naast de juridische causaliteit speelt de medische causaliteit een belangrijke rol. In dit kader dient de arts de volgende vragen te beantwoorden:
+
+- – is er sprake van een verwonding, ziekte of gebrek
+- – is er sprake van een verband tussen deze verwonding, ziekte of gebrek en de uitoefening van de militaire dienst (art 2 lid 1 besluit AO/IV ) of de uitoefening van de militaire dienst onder buitengewone omstandigheden (artikel 2 lid 3 tot en met 8 besluit AO/IV)
+- – Is er sprake van een verband tussen de geconstateerde beperkingen en de door de uitoefening van de militaire dienst ontstane verwonding, ziekte of gebrek? (causaliteitsvraag in engere zin)
+
+Deze vragen kunnen min of meer in één vraag worden samengevat en luidt dan als volgt: ‘Zou betrokkene dezelfde beperkingen ook hebben ontwikkeld als hij niet blootgesteld was geweest aan de (buitengewone) omstandigheden en zo ja, binnen welke globaal geschatte termijn na de blootstelling en in welke mate’.
+
+De beantwoording van de medische causaliteitsvragen is primair een professionele verantwoordelijkheid van de verzekeringsarts. De beoordelende arts dient actuele inhoudelijke kennis en kunde te hebben van oorzaken, beloop, prognose, behandelingsmethoden en gevolgen van ziekten/gebreken.
+
+Voor het beantwoorden van bovenstaande vragen c.q. het vaststellen van de medische causaliteit moeten gegevens uit het dossier, uit de anamnese, uit het onderzoek, uit de professionele kennis en ervaring, uit de organisatie en anderszins worden gewogen. De volgende vragen/feiten kunnen hierbij ondersteunend zijn:
+
+- – Toedracht ongeval: ernst/omstandigheden/hoe vaak/hoe intensief blootstelling.
+- – Ziekte/klachten en beperkingen **medisch** verklaarbaar vanuit het ongeval?
+- – Klachten en beperkingen objectiveerbaar? Plausibel? Consistent
+- – 1<sup>e</sup> ziektedag
+- – Preëxistente factoren aanwezig: was de aandoening al latent aanwezig?/medische voorgeschiedenis
+- – Predispositie aanwezig ( aanleg/bepaalde gevoeligheid/)
+- – Tegelijkertijd voorkomen andere aandoeningen die dezelfde klachten/beperkingen kunnen geven. (co-morbiditeit)/leeftijdgebonden problemen, fysiologische veroudering
+- – Doorgemaakte (andere) life-events/levensfase problematiek/sociale problematiek
+- – Medische consumptie vlak vóór en rond het ongeval/de claim
+- – Algemeen functioneren vóór en na het ongeval/de claim
+- – Levensloop (beroeps en privé) zowel vóór als na het trauma/de blootstelling
+- – Beleving dienstperiode
+- – Hobby’s, vrije tijd, vakantie, sport: in aanvulling op levensloop
+- – Gezin, relaties: sociale/privé ondersteuning
+- – Intoxicaties vroeger en nu.
+- – Vroegere/latere letsels/ziekten.
+- – Zonodig familie anamnese/omstandigheden.
+- – Tijdsinterval tussen ongeval/blootstelling en ontstaan letsel of ziekte: hoe langer deze tijdsinterval hoe moeilijker het wordt een causale relatie te leggen en des te beter de motivatie moet zijn om tot erkenning van causaliteit over te gaan.
+- – Mediprudentie bekend?
+- – Ziekte inzicht aanwezig?
+- – Herstelbelemmerende/ziektebestendigende factoren aanwezig?/rigide copingsstijl?
+
+De beoordeling van de medische causaliteit kent enkele discussie punten:
+
+- 1 Bij een verergerend dienstverband betreft dit de toekenning van een volledige vergoeding van de invaliditeit, ook al zijn er (veel) pre-existente, predisponerende en andere belastende factoren aanwezig. Deze factoren zijn medisch gezien vaak meer bepalend voor de ernst van de beperkingen dan de dienst.
+
+  Vooralsnog zal toch op basis van jurisprudentie: ‘de militaire dienst moet een overwegende/belangrijke/duidelijk aanwezige factor zijn geweest bij het ontstaan van de blijvende verergering’ tot een uitspraak moeten worden gekomen. Indien verergerend verband wordt erkend zal de volledige invaliditeit wordt toegerekend aan de dienst.
+- 2 Het is soms lastig een eenduidig antwoord te krijgen op de vraag of de vastgestelde beperkingen alle door de dienstverband aandoening zijn veroorzaakt. Beperkingen zijn soms niet per aandoening/fysiologische veroudering/persoonlijkheidsproblematiek/sociale omstandigheden te onderscheiden. Voorbeeld: heeft een 60 jarige, bekend met een lichte PTSS, na een herseninfarct concentratiestoornissen en beperkingen gekregen door dit infarct of door een toename van de PTSS?
+
+In de toekomst kan in bovengenoemde omstandigheden mogelijk tot een oplossing worden gekomen door op basis van weging van bovenstaande uitgevraagde en onderzochte gegevens tot een partiele toerekening van de causaliteit en/of de beperkingen te komen. Voor de causaliteitsvraag is dit momenteel, zoals bovenstaand al gememoreerd, nog geen optie. Voor de differentiatie van de beperkingen en partiele toerekening kan aan het volgende worden gedacht: Deze toerekening kan op 3(4) niveaus worden gegeven:
+
+- 1. Grotendeels wel causaal verband met de dienst aannemelijk/aanwezig; c.q. grotendeels verband tussen de beperkingen en de dienstverbandaandoening aannemelijk
+- 2. in gelijke mate causaal verband en niet causaal verband aannemelijk/aanwezig; c.q. in gelijke mate wel en geen verband tussen de beperkingen en de dienstverbandaandoening aannemelijk. Als deze uitspraak wordt gedaan dient voor de juristen nog een nadere specificatie plaats te vinden: Men dient aan te geven of de beperkingen voor meer of minder dan 50% door de dienstverbandaandoening worden veroorzaakt.
+- 3. Grotendeels geen causaal verband aannemelijk/aanwezig; c.q. grotendeels geen verband tussen de beperkingen en de dienstverbandaandoening aannemelijk
+- 4. (geen causaal verband aannemelijk/aanwezig, c.q. geen verband tussen de beperkingen en de dienstverbandaandoening aannemelijk).
+
+Ernst van het trauma/tijdsduur tussen blootstelling en claim/knik in de levensloop/aanwezigheid van (andere) life-events, duidelijke preëxistente/predispositie/co-morbiditeit/plausibiliteit etc. zijn hierbij vooral richtinggevend. Dit moet de beoordelaar bij de toerekening expliciet benoemen en motiveren. Toerekening in groep 2 vereist het minst een duidelijke stelling name van de beoordelaar. Om te voorkomen dat groep 2 oververtegenwoordigd raakt of te gemakkelijk wordt gebruikt, zal de motivatie in deze groep extra kritisch worden getoetst. Deze toetsing kan geschieden aan de hand van bovengenoemde onderwerpen (C2 ), weergegeven in de ‘checklist causaliteit’.
+
+Het is een utopie te veronderstellen dat de beantwoording van de causaliteitsvraag, in deze specifieke gevallen altijd kan worden beantwoord op basis van een protocol. Zeker bij dit causaliteitsonderwerp, maar feitelijk altijd dient een protocol te worden gezien als richtlijn en hulpmiddel. De professionaliteit van de arts is altijd bepalend, aangevuld met mediprudentie: Van een protocol mag altijd worden afgeweken, mits dit gemotiveerd gebeurd. Tevens dient de arts bij twijfel ruimhartig met het toekennen van de causaliteit om te gaan, gezien de bijzondere zorgplicht van Defensie. Overigens houdt deze ruimhartige toekenning niet automatisch in, zie paragraaf A1 dat sprake is geweest van onzorgvuldig handelen, c.q. Defensie aansprakelijk is.
+
+Bij de zogenaamde ‘grijze gebieden’ van de dienstverbandbeoordelingen (‘zachte’ diagnoses, groot tijdsinterval, minimale traumata e,a,) kan tevens gebruik worden gemaakt van de dubbele beoordelingssystematiek (door 2 dokters separaat onafhankelijk van elkaar dezelfde beoordeling doen).
+
+Het is, zoals eerder aangegeven van groot belang dat bij de causaliteitsvraag gebruik kan worden gemaakt van voorbeelden. Daarom zal in de komende jaren een lijst met mediprudentie worden opgebouwd Ook Intervisie onderling en met de Militaire Unit BMB is hierbij van groot nut en dient in een vaste frequentie plaats te vinden.
+
+**D: — Invaliditeit**
+
+In de Militaire pensioenwetgeving is deze als volgt weergegeven: ‘de in een percentage uit te drukken mate van lichamelijke en/of geestelijke tekortkomingen en beperkingen, welke belanghebbende in verhouding tot een geheel valide persoon van gelijke leeftijd in het dagelijks leven in het algemeen ondervindt’: Onder ‘tekortkomingen’ wordt méér verstaan dan alleen beperkingen in de ADL (activiteiten dagelijks leven, c.q. het kunnen verrichten van de basale levensbehoeften). Beperkingen in de BDL (bijzondere activiteiten dagelijks leven, zoals communiceren, reizen, verrichten basale huishoudelijke activiteiten) worden ook meegewogen. Arbeid dient buiten beschouwing te blijven. Klachten, lijdensdruk en gederfde levensvreugde mogen niet worden meegewogen, zie rapport ‘Schade in Schalen’
+
+**E: — De invaliditeitsschatting**
+
+Deze dient theoretisch te gebeuren aan de hand van de ADL en BDL (Activiteiten en Bijzondere activiteiten Dagelijks Leven)-beperkingen. De ernst van de beperkingen dient hierbij te worden weergegeven en vervolgens naar een percentage te worden geconverteerd. In de praktijk wordt de mate van invaliditeit vastgesteld aan de hand van een barèma, tot heden de WPC-schaal (zie bijlage 3, besluit geneeskundig onderzoek artikel 13). De bij de WPC-schaal behorende richtlijnen zijn zeer globaal en laten veel interpretatie ruimte. Men moet grotendeels varen op de diagnose en het individueel professioneel inzicht van de beoordelend arts. Het duiden van de beperkingen en een percentage behoort tot de professionaliteit van de verzekeringsarts. Bij uitzondering kan, met argumenten gemotiveerd, advies aan een extern deskundige worden gevraagd. Deze deskundige moet voldoen aan bepaalde kwaliteitseisen en werken volgens de bij Defensie gebruikelijke richtlijnen, aan de hand van nog te ontwikkelen gestandaardiseerde vraagstellingen en standaard rapportages.
+
+Voor de schatting van het percentage invaliditeit bij de Posttraumatische Stresstoornis (PTSS) en Lichamelijk Onbegrepen Klachten (LOK) wordt een apart protocol opgesteld waarbij gebruik van aanvullende richtlijnen wordt voorgeschreven.
+
+*De WPC schaal*
+
+In het rapport ‘Schade in Schalen’ van de commissie WPC schaal juni 2004 (bijlage 5) wordt deze schaal uitvoerig beschreven. De WPC schaal is aan veel kritiek onderhevig. Zo is hij sterk verouderd en scoort de schaal vaak op basis van een diagnose. De schaal moet echter tot nader order wettelijk worden gebruikt.
+
+Het is feitelijk onmogelijk het gebruik van de WPC-schaal toetsbaar en reproduceerbaar te protocolleren. Toch kunnen, op grond van de omschrijving wel enige richtlijnen, aanvullend op de algemene handleiding worden gegeven:
+
+- – Daar waar slechts op basis van een diagnose een minimum en maximum percentage wordt gegeven, kan dit percentage naar beneden worden bijgesteld aan de hand van objectieve beperkingen. Zo geeft de WPC schaal bijvoorbeeld voor een traag hartritme (code 1307) een percentage tussen 10–50%. In de jaren 50 kende men nog geen pacemakers, nu wel. Op basis van een goed werkende pacemaker en het afwezig zijn van beperkingen in het algemeen dagelijks leven kan dan 10% invaliditeit worden gegeven. De discussie dat het volgens de huidige inzichten eigenlijk 0% zou moeten zijn wordt hier niet gevoerd.
+- – Bij het gebruik van de WPC schaal wordt regelmatig de term ten dele en/of vergelijkender wijs toegepast. Met name wordt dit gebruikt als de betreffende ziekte of gebrek niet in de WPC schaal is benoemd en of naar huidig medisch inzicht te zwaar wordt gewaardeerd in de WPC schaal. Zaken die duidelijk obsoleet zijn of door de huidige behandel methoden weinig of geen beperkingen opleveren worden genuanceerd gewaardeerd b.v. hart en vaatziekten (zie bovenstaand voorbeeld), aandoeningen van de luchtwegen en infectieziekten. Bij het gehoor wordt niet de spraakverstaanbaarheid beoordeeld, maar middels een audiogram en toepassing van de gemodificeerde Fletcher methodiek wordt het invaliditeitspercentage berekend. Tevens wordt bij oudere patienten de presbyacusis meegewogen. Het komt er op neer dat bij iedere beoordeling volgens de WPC schaal een individuele afweging moet worden gemaakt. Bij afwezigheid van beperkingen komt men bij de beoordeling meestal tot zeer lage percentages.
+- – Voor de invaliditeitschatting van psychische aandoeningen wordt verwezen naar de nog in ontwikkeling zijnde specifieke WIA en IP protocollen PTSS en LOK.
+
+*Voorbeeld casuïstiek/mediprudentie fysieke aandoeningen*
+
+Het is, zoals eerder aangegeven van groot belang dat bij de causaliteitsvraag gebruik kan worden gemaakt van voorbeelden. Daarom zal in de komende jaren een lijst met mediprudentie worden opgebouwd.
+
+Mediprudentie dient meerdere doelen:
+
+- 1. het creëren van een referentiekader voor de beroepsgroep
+- 2. het geven van feedback aan artsen met daardoor een eenduidig beoordelingskader en betere borging van een uniform beoordelingsproces.
+- 3. het geven van bescherming/ruggesteun aan de beoordelend arts bij eventuele procedures
+- 4. voorkomen van willekeur richting cliënt
+- 5. vergroten van de transparantie in het beoordelingsproces
+- 6. vergroten en uitwisselen kennis met daardoor kwaliteitsverhoging
+- 7. ontwikkelen van een kennis-infrastructuur
+
+Door Intercollegiale toetsing (ICT), intervisie, richtlijnen en uitspraken kan deze mediprudentie vorm worden gegeven.
+
+*Concretisering IP beoordeling*
+
+Zoals reeds verwoord in het algemene WIA-IP protocol, hebben de WIA en IP beoordeling overeenkomsten met elkaar.
+
+De overeenkomst zit in het verzamelen van de medische gegevens die bij beide beoordelingen grotendeels hetzelfde zijn. Verder wordt bij beide beoordelingen het functioneren in het dagelijks leven uitgevraagd (het zgn. dagverhaal) en wordt een vertaalslag gemaakt van de medische gegevens naar beperkingen/functionele mogelijkheden in het dagelijks leven (en bij de WIA tevens naar beroep). Door deze overeenkomsten tussen beide beoordelingen is het mogelijk de standaard verzekeringsgeneeskundige beoordeling als basis voor de IP beoordeling te nemen. Deze basis beoordeling moet voor de IP beoordeling worden uitgebreid met een aanvullende Dienstverband/causaliteit beoordeling, zoals in deze bijlage beschreven. Tevens dienen de medische bevindingen te worden omschreven in ADL/BDL beperkingen in plaats van in functionele mogelijkheden. Tot slot dient de arts een invaliditeitspercentage te schatten aan de hand van de WPC schaal en dit percentage te beargumenteren.
+
+*Schematische voorstelling IP beoordeling/Rapportage*
+
+De IP beoordeling kan schematisch als onderstaand worden weergegeven. De rechte tekst betreft de ‘basis’ onderwerpen welke zowel bij de basis verzekeringsgeneeskundige beoordeling als bij de IP beoordeling moeten worden toegepast. De vette tekst geeft de specifieke onderwerpen aan welke bij de IP beoordeling aanvullend moeten worden meegenomen. Voor een toelichting van de ‘basis’ wordt verwezen naar bijlage 1 WIA en IP protocol. Voor een toelichting van de specifieke onderwerpen naar bovenliggende tekst en paragraaf C2.
+
+- 1. een vraagstelling ( bijlage 1 WIA-IP protocol: paragraaf 2.1) geformuleerd in termen van mogelijkheden en beperkingen om te functioneren, een invaliditeitspercentage, causaliteit en dienstverband. Concreet dienen de volgende 6 vragen te worden beantwoord:
+  - a) Zijn er verwondingen ziekten of gebreken?
+  - b) Zo ja, zijn deze veroorzaakt door de uitoefening van de militaire dienst in geval van buitengewone of daarmee vergelijkbare omstandigheden?
+  - c) Dan wel, zijn deze het gevolg van verrichtingen of vermoeienissen aan de uitoefening van de militaire dienst in buitengewone of daarmee vergelijkbare omstandigheden verbonden, dan wel welke tot uiting zijn gekomen onder overwegende invloed van die verrichtingen of vermoeienissen?
+  - d) Dan wel welke zijn ontstaan, tot uiting zijn gekomen of verergerd mede door inwerking van bijzondere zeer nadelige invloeden waaraan de militair in verband met de uitoefening van de militaire dienst in geval van buitengewone of daarmee vergelijkbare omstandigheden is blootgesteld geweest. (art 2 Besluit Aanvullende AO/IV, artikel 1 Besluit Bijzondere Militaire Pensioenen 65+)
+  - e) Indien er sprake is van invaliditeit met dienstverband, wat is dan de mate van invaliditeit ten gevolge van de betreffende verwondingen ziekten of gebreken volgens de WPC-schaal en aanvullende richtlijnen zoals omschreven in het WIA-IP protocol en de hiermee, samenhangende (nog in ontwikkeling zijnde) PTSS en LOK protocollen (Deze nadere protocollen zullen hun basis gaan vinden in artikel 13 2<sup>e</sup> lid Besluit Procedure Geneeskundig Onderzoek Blijvende Dienstongeschiktheid en Pensioenkeuring Militairen)
+  - f) Is in voornoemd geval artikel 8 van Besluit AO/IV of artikel 3 BMP van toepassing?
+- 2. een volledige bronvermelding en eigen onderzoeksactiviteiten (bijlage 1WIA-IP protocol: 2.2) Met name dient de aandacht gevestigd te worden op: PvO ( B1)/RMA (B2)/GO 99, MGO ( besluit procedure geneeskundig onderzoek) en bronnen die meer inzicht kunnen geven in de causaliteitsvraag ( medische consumptie/functioneren vóór, tijdens en, periode tussen ongeval en aanvraag IP, staat van dienst, commandantenmelding etc)
+- 3. onderzoeksbevindingen (bijlage 1 WIA-IP protocol: paragraaf 2.3)
+  - a. Beoordelingsgesprek gericht op het functioneren van betrokkene
+    - i. medische en functionele voorgeschiedenis
+    - ii. Activiteiten in werk (aard, zwaarte, omvang) en dagelijks leven
+    - iii. huidige klachten, behandeling en functioneren
+    - iv. arbeidssituatie en ervaren belemmeringen
+    - v. thuissituatie en ervaren belemmeringen
+    - vi. dagverhaal
+    - vii. status (medisch, sociaal, beroep) voor, ten tijde en eerste maanden na ongeval, de tijdspanne tussen ongeval en melding van letsel/gezondheidsklachten, predispositie, pre-existentie, aanwezigheid andere factoren welke het geclaimde onvermogen van betrokkene kunnen verklaren. Zie paragraaf C2
+  - b. Visie en toekomstverwachting cliënt ten aanzien van gezondheid; belastbaarheid en werken
+  - c. eigen onderzoek en observaties
+  - d. informatie van derden
+- 4. diagnose, oorzaak (bijlage 1 WIA-IP protocol: paragraaf 2.4) met interne SMO code. In verband met internationale uitwisseling van gegevens is tevens zo spoedig mogelijk een ICD code gewenst) en een uitspraak over causaliteit (C2).
+- 5. argumentatie (bijlage 1 WIA-IP protocol: paragraaf 2.5)
+  - a. eerdere beoordelingen
+  - b. samenvatting van de claim
+  - c. probleemanalyse
+  - d. motivering beperkingen
+  - e. prognose en duurzaamheid
+  - f. reactie cliënt
+- 6. Conclusie waarin beantwoording vraagstelling (bijlage 1 WIA-IP protocol: paragraaf 2.6)
+- 7. Schatting invaliditeitspercentage met onderbouwing en motivering
+
+*Aanvullende opmerkingen*
+
+FML versus beperkingen ADL/BDL in relatie tot de WPC schaal
+
+De FML duidt, zoals de naam zegt, de functionele mogelijkheden. Of te wel: tot wat is betrokkene nog in staat in het algemeen dagelijks leven en in het beroepsmatig functioneren.
+
+Als bekend is wat de mogelijkheden zijn in het dagelijks functioneren, is hieruit te destilleren wat de onmogelijkheden of te wel de beperkingen zijn. Hieruit kan worden geconcludeerd dat de FML gegevens indirect grotendeels gebruikt kunnen worden om de ADL/BDL beperkingen te duiden. Deze beperkingen worden in het stroomdiagram weergegeven in figuur 7b. In tegenstelling tot bij de WIA/Arbeidsongeschiktheidsbeoordeling bepaalt de arts zelf, aan de hand van de beperkingen het invaliditeitspercentage. Een Arbeidsdeskundige heeft hierbij geen rol.
+
+WIA toekenning versus IP toekenning:
+
+De WIA kent een strikte beoordeling: bij twijfel dient geen toekenning plaats te vinden. De Militaire pensioenwetgeving is echter ruimhartig: bij twijfel dient toegekend te worden. Deze verschillende benaderingen kunnen leiden tot onbegrip bij betrokkene. Dit is grotendeels te vermijden door goede scholing van de beoordelende arts en door goede voorlichting aan betrokkene Aan de cliënt dient te worden uitgelegd dat een eventueel vastgesteld invaliditeitspercentage niet automatisch inhoudt dat ook sprake is van arbeidsongeschiktheid krachtens de WIA, die immers op een heel ander uitgangspunt berust. Deze voorlichting dient vóór de beoordeling te worden gegeven. Op de verschillende uitgangsprincipes en daardoor mogelijk verschillende uitkomsten van de percentages voor WIA versus IP moet worden gewezen.
+
+*Stroom diagram*
+
+Zie protocol WIA en IP beoordeling
+
+*Coaching, kwaliteitsbevordering en toetsing IP beoordeling*
+
+Grotendeels worden de instrumenten hiervoor overgenomen van de UWV/WIA. De IP beoordeling kent immers een aanzienlijke overlap met de algemene verzekeringsgeneeskundige beoordeling. Deze coachings en toetsingsinstrumenten staan beschreven in bijlage 1 en zijn grotendeels geprotocolleerd. De Pensioenverzekeringsautoriteit (PvA) dient hierbij een centrale rol te vervullen. Naast kennis over de toetsing van de verzekeringsgeneeskundige beoordeling dient de PvA kennis te hebben van dienstverband, causaliteit en de invaliditeitschatting. De PvA dient onafhankelijk te zijn van zowel het UWV, het ABP als de Defensie Organisatie. De PvA dient terug te koppelen naar het ministerie. Voor een commissoriale toetsing van de IP beoordeling bestaat geen noodzaak, noch voor de WIA-IP beoordeling.
+
+Daarnaast dient de kwaliteit en coaching te worden bevorderd door frequent intercollegiaal overleg tussen ABP en UWV artsen en twee maandelijks ICT overleg met eerdergenoemde en de BMB. De PvA dient deze bijeenkomsten te bewaken en actief te leiden namens het Ministerie. Mediprudentie dient tijdens deze bijeenkomsten te worden opgebouwd. Het protocol WIA IP dient op initiatief en onder begeleiding van de PvA jaarlijks te worden herzien en verder te worden uitgebouwd. De eindverantwoordelijkheid voor de protocollering, aangaande het IP gedeelte blijft bij Defensie. In ICT verband nemen zowel de medisch adviseur juridische aangelegenheden als de medisch adviseur sociaal medisch beleid van het ministerie van Defensie deel aan deze tweemaandelijkse bijeenkomsten.
+
+**Checklist causaliteit**
+
+| | ja | nee | Toelichting indien ‘ja’ |
+| --- | --- | --- | --- |
+| 1\. klachten/beperkingen niet objectiveerbaar | | | |
+| 2\. klachten/beperkingen niet plausibel/consistent | | | |
+| 3\. 1<sup>e</sup> ziektedag ≠ ongevalsdatum/blootstelling | | | |
+| 4\. aanwezigheid pre existentie | | | |
+| 5\. aanwezigheid pre-dispositie | | | |
+| 6\. aanwezigheid co-morbiditeit | | | |
+| 7\. optreden andere aandoeningen sinds ongeval | | | |
+| 8\. optreden andere aandoeningen sinds/rond claim | | | |
+| 9\. medische consumptie vlak vóór en rond het ongeval | | | |
+| 10\. medische consumptie vlak vóór en rond de claimdatum | | | |
+| 11\. Intoxicaties voor blootstelling? | | | |
+| 12\. Intoxicaties na blootstelling | | | |
+| 13\. mediprudentie bekend | | | |
+| 14\. doorgemaakte (andere) life events | | | |
+| 15\. levensfase problematiek? | | | |
+| 16\. sociale/relatie problematiek | | | |
+| 17\. Knik in levensloop beroep vóór of na het trauma/de blootstelling? | | | |
+| 18\. Knik in levensloop privé vóór of na het trauma/de blootstelling | | | |
+| 19\. knik in levensloop hobby sport vóór of na het trauma/de blootstelling | | | |
+| 20\. negatieve beleving dienstperiode? | | | |
+| 21\. bijzonderheden gezin/familie | | | |
+| 22\. Tijdsinterval tussen letsel/blootstelling en claim langer dan 1/2 jaar? | | | |
+
+## Bijlage 2 — – Protocol voor psychische aandoeningen waaronder PTSS
+
+### Dienstverband en Invaliditeit beoordeling bij militairen en post-actieve militairen met psychische aandoeningen waaronder posttraumatische stressstoornis (PTSS)
+
+Dit protocol is opgebouwd uit twee delen:
+
+- 1. een beschrijvend deel, waarin de verzekeringsgeneeskundige beoordeling van psychische aandoeningen met dienstverband[^n3] wordt verwoord.
+- 2. een bijlage met de beoordelingsmethodiek voor het vastleggen van het invaliditeitspercentage van de beperkingen op ADL en BDL.
+
+Beide delen zijn onlosmakelijk met elkaar verbonden.
+
+Dit protocol is exclusief bedoeld voor artsen werkzaam bij de afdeling Sociaal Medisch Onderzoek (SMO) van het ABP/APG en het bedrijf Bijzondere Medische Beoordelingen (BMB) van Defensie. Artsen die met dit protocol gaan werken, zullen geïnstrueerd worden in het gebruik van de nieuwe beoordelingsmethodiek. Deze instructie zal intern gegeven worden door ervaren artsen van de genoemde afdelingen.
+
+Dit nu voorliggende protocol is een herziening van het voorgaande PTSS-protocol van 2007. Na evaluaties, uitgevoerd door de afdeling toegepast gezondheidsonderzoek van de universiteit van Groningen en na uitgebreid overleg tussen de vakcentrales en Defensie, is afgesproken om het oude protocol aan te passen en zo te komen tot een beoordelingssystematiek die rekening houdt met recente medische en maatschappelijke ontwikkelingen en inzichten en recht doet aan de beperkingen van de militair of ex-militair met een psychische dienstverbandaandoening. Het is geen vervanging maar een aanpassing van een bestaand en getoetst protocol naar een protocol dat voldoet aan de huidige medisch-wetenschappelijk richtlijnen.
+
+Om te komen tot dit nu voorliggende protocol, is door de Hoofddirecteur Personeel de opdracht gegeven voor de instelling van een werkgroep. De werkgroep is als volgt samengesteld: verzekeringsartsen met ervaring in het werken met het voorgaande PTSS-protocol, een psychiater met kennis van psychiatrische aandoeningen met dienstverband, een methodoloog en de pensioenverzekeringsautoriteit.
+
+De werkgroep is als volgt samengesteld:
+
+- − A.J.M. Liefting, bedrijfsarts en verzekeringsarts, KTZ(AR) bd, adviseur van Defensie en projectleider,
+- − KTZ(AR) A.J. van der Sluis, verzekeringsarts en commandant BMB,
+- − Dhr. M. Bourier, verzekeringsarts BMB (tevens bedrijfsarts),
+- − KTZ(AR) P.F. Eland, psychiater BMB,
+- − Dhr. P.G. Verkerk, verzekeringsarts SMO (tevens jurist),
+- − Mw. K. Baal, verzekeringsarts SMO,
+- − Dhr. P. Pliva, verzekeringsarts en pensioenverzekeringsautoriteit,
+- − Mw. dr. J.A. Wilschut, methodoloog, werkzaam bij de Bestuursstaf Defensie.
+
+Bij de totstandkoming van dit protocol zijn de volgende externe adviseurs betrokken:
+
+- − Mw. Prof. Dr. S. J. van der Burg- Vermeulen, bijzonder hoogleraar sociale verzekeringsgeneeskunde en verzekeringsarts,
+- − Dhr. A.J. Maas, verzekeringsarts en voormalig kwaliteitsfunctionaris medisch bureau SVB,
+- − Dhr. J.J. Meulenkamp, medisch adviseur RGA.
+
+#### Inhoud
+
+<table>
+<tr><td>1.</td><td colspan="2">INLEIDING</td></tr>
+<tr><td></td><td>1.1</td><td>Leeswijzer</td></tr>
+<tr><td>2.</td><td colspan="2">KORT OVERZICHT VAN PSYCHISCHE AANDOENINGEN DIE KUNNEN VOORKOMEN BIJ ONDERZOEK NAAR DIENSTVERBAND</td></tr>
+<tr><td></td><td>2.1.</td><td>PTSS</td></tr>
+<tr><td>3.</td><td colspan="2">VERZEKERINGSGENEESKUNDIG ONDERZOEK</td></tr>
+<tr><td></td><td>3.1</td><td>Diagnose</td></tr>
+<tr><td></td><td>3.2</td><td>Psychiatrische expertise</td></tr>
+<tr><td></td><td>3.3</td><td>Behandeling</td></tr>
+<tr><td>4.</td><td colspan="2">COMORBIDITEIT</td></tr>
+<tr><td>5.</td><td colspan="2">CAUSALITEIT</td></tr>
+<tr><td></td><td>5.1</td><td>Verergerend en oorzakelijk dienstverband</td></tr>
+<tr><td>6.</td><td colspan="2">VERZEKERINGSGENEESKUNDIGE RAPPORTAGE</td></tr>
+<tr><td></td><td>6.1</td><td>Inzagerecht, correctierecht en blokkeringsrecht</td></tr>
+<tr><td>7.</td><td colspan="2">BEOORDELINGSMETHODIEK OM HET INVALIDITEITSPRECENTAGE VAST TE STELLEN</td></tr>
+<tr><td></td><td>7.1</td><td>Het invaliditeitspercentage.</td></tr>
+</table>
+
+### 1 — Inleiding
+
+Bij militairen en ex-militairen met een dienstverbandaandoening, wordt de mate van invaliditeit als gevolg van deze dienstverbandaandoeningen vastgesteld aan de hand van de War Pensions Committee-schaal, de WPC-schaal. Dit is beschreven in artikel 13, eerste lid van het Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen. De WPC-schaal dateert van 1953 en kent geen bruikbare tabel voor het vaststellen van de mate van invaliditeit als gevolg van PTSS. In de WPC-schaal staat bij psychische stoornissen: ‘Het is niet mogelijk of raadzaam gebleken een schaal op te maken waarnaar de invaliditeit vastgesteld kan worden. Ieder geval is met zijn individuele factoren als afzonderlijk probleem te beschouwen en moet daarnaar beoordeeld worden.’ Mede daarom heeft de commissie ‘WPC-Psychische invaliditeit militairen (PIM)’ in 2005 in opdracht van het Ministerie van Defensie een schattingsmethodiek voor de beoordeling van de psychische invaliditeit ontwikkeld. Deze methodiek staat beschreven in het rapport ‘Schade in schalen, de psyche in beeld’ ook genoemd het ‘PIM-rapport’. De methodiek werd positief beoordeeld door leden van de Gezondheidsraad. Het Ministerie van Defensie heeft, per ministeriële regeling d.d. 27 juni 2008, nr. P/2008011730, drie medische protocollen ingevoerd voor de invaliditeitsbeoordeling bij militairen. Het voorgaande PTSS-protocol was er een van. In dit protocol werd de nieuwe methodiek geïntroduceerd om de mate van invaliditeit bij PTSS vast te stellen.
+
+De WPC-schaal was echter ook niet toereikend voor andere psychische aandoeningen dan PTSS, zoals chronische depressie en angststoornissen. In de afgelopen jaren is het PTSS-protocol daarom ook gebruikt voor de berekening van invaliditeit voor alle psychische aandoeningen die het gevolg waren van gebeurtenissen tijdens de uitoefening van de militaire dienst in buitengewone of bijzondere omstandigheden. Diverse rechtelijke uitspraken ondersteunen deze praktijk.[^n4]
+
+De beoordelingsmethodiek beschreven in het voorgaande en het voorliggende protocol, beschrijft de beperkingen die mensen ondervinden bij algemeen dagelijkse (ADL) en bijzondere dagelijkse levensverrichtingen (BDL) in verhouding tot een geheel valide persoon van gelijke leeftijd. Verlies van vermogen tot verkrijgen van inkomen uit arbeid, valt hier niet onder. Het maakt hierbij dus niet uit welke psychische aandoening aan de klachten en dientengevolge de beperkingen ten grondslag ligt. De naam van het protocol is daarom aangepast. Omdat PTSS een van de meest voorkomende psychische aandoeningen met dienstverband is en om recht te doen aan deze groep (ex-) militairen, is gekozen voor de naam ‘Protocol voor psychische aandoeningen waaronder PTSS’.
+
+In de jaren na invoering van het PTSS-protocol, zijn door Universiteit van Groningen diverse onderzoeken uitgevoerd betreffende de betrouwbaarheid van de schattingsmethodiek. Evaluaties van de toepasbaarheid van het protocol hebben in 2011, 2012 en 2016 plaats gevonden. Belangrijke conclusies van deze evaluaties waren dat het protocol tot een structurele wijze van beoordelen leidt en grote uniformiteit kent[^n5], dat het een betrouwbaar instrument is en dat het invaliditeitspercentage met het PTSS-protocol gemiddeld hoger uitkomt dan met de AMA-guides[^n6] waarmee maximaal 50% invaliditeit bereikt kan worden[^n7]. Door gebruik van het protocol is de beoordeling theoretisch beter onderbouwd. Daarnaast is een aantal verbeterpunten geformuleerd[^n8]. Bij de evaluatie van 2016 is een begeleidingscommissie ingesteld door Defensie. De begeleidingscommissie, onder voorzitterschap van Luitenant-generaal b.d. J.G.A. Leijh, is gedurende het onderzoek van de Universiteit van Groningen nauw betrokken geweest en heeft een appreciatie geschreven met daarin veertien adviezen voor de herziening van het protocol[^n9]. In de jaren erna is uitgebreid overleg geweest over deze adviezen. In december 2022 is overeenstemming bereikt over de wijzigingen, genoteerd in een plan van aanpak[^n10]. Hierin staat de afspraak om het protocol te herschrijven.
+
+In dit herziene protocol voor psychische aandoeningen waaronder PTSS worden de wijzigingen ten opzichte van het voorgaande protocol waar mogelijk aangegeven. Er wordt ingegaan op psychische aandoeningen algemeen en PTSS in het bijzonder. Vervolgens worden diagnostiek en behandeling in relatie tot de verzekeringsgeneeskundige beoordeling beschreven. Aandacht wordt gegeven aan psychiatrische ziektebeelden die tegelijkertijd kunnen voorkomen (comorbiditeit). De herziene beoordelingsmethodiek, ten slotte, is de methode voor de vertaling van met psychische aandoeningen samenhangende klachten, naar hierdoor veroorzaakte beperkingen in ADL en BDL en geeft richtlijnen voor het vaststellen van het invaliditeitspercentage. Alle wijzigingen zijn verder genoteerd in de toelichting bij dit protocol.
+
+Dit protocol moet worden gezien als een groeidocument. Voortschrijdend inzicht, mediprudentie (praktijkvoorbeelden), jurisprudentie en evaluatie van de met dit protocol verkregen invaliditeitspercentages, kunnen aanleiding zijn om dit op enig moment in het protocol te verwerken. Daarom zal uiterlijk binnen twee jaar na invoering van het aangepaste protocol een evaluatie moeten starten op initiatief van Defensie, die binnen twaalf maanden tot een definitief eindrapport moet leiden. Daarnaast wordt zes maanden na de invoering van het herziene protocol een tussentijdse indicatieve rapportage opgesteld, of, indien dan nog niet voldoende personen aan de hand van dit protocol zijn beoordeeld, zo kort mogelijk na die periode van zes maanden. In deze evaluatie wordt in ieder geval ook gekeken naar de met dit protocol verkregen invaliditeitspercentages.
+
+#### 1.1 — Leeswijzer
+
+Dit protocol is de exclusieve competentie van artsen werkzaam bij de afdeling Sociaal Medisch Onderzoek (SMO) van het ABP/APG en het bedrijf Bijzondere Medische Beoordelingen (BMB) van Defensie. Het protocol beschrijft het verzekeringsgeneeskundig onderzoek bij militairen en ex-militairen naar de mogelijke aanwezigheid van een psychische dienstverbandaandoening. Hiervoor is verzekeringsgeneeskundige expertise en ervaring nodig. Diagnostiek, behandeling, comorbiditeit en het beoordelen van een causaliteit worden beschreven vanuit het oogpunt van de verzekeringsgeneeskundige beoordeling en zijn in dit protocol aparte hoofdstukken, toepasbaar voor alle psychische aandoeningen, al dan niet met dienstverband.
+
+Het protocol gaat na de inleiding verder in hoofdstuk 2 met een kort overzicht van psychische aandoeningen. Het is niet mogelijk alle psychische aandoeningen waarvoor een dienstverband mogelijk is, uitgebreid te beschrijven in een protocol. PTSS is de psychische aandoening waarmee cliënten zich het meest melden voor onderzoek naar dienstverband en invaliditeit.
+
+In hoofdstuk 2 worden ook enkele epidemiologische gegevens vermeld zoals die gelden op moment van verschijnen van het protocol. Deze gegevens kunnen in de loop der tijd veranderen waarmee het protocol niet zijn geldigheid verliest.
+
+In hoofdstuk 3 wordt ingegaan op het verzekeringsgeneeskundig onderzoek. Het belang van informatie van partners of naasten wordt aangegeven, het verzekeringsgeneeskundig onderzoek wordt toegelicht, net als de samenhang van alle onderdelen van het onderzoek om te komen tot een beoordeling. In dit hoofdstuk wordt verder ingegaan op het vaststellen van correctheid van de gestelde diagnose, de mogelijkheden voor psychiatrische expertise en de beoordeling van de gevolgde behandeling.
+
+In hoofdstuk 4 wordt kort ingegaan op het voorkomen van meerdere aandoeningen tegelijkertijd, de comorbiditeit en hoe deze beoordeeld dient te worden in het kader van een mogelijk dienstverband.
+
+Hoofdstuk 5 gaat over de causaliteit; het vaststellen of er een oorzakelijk of verergerend verband is tussen de aandoening en een incident, trauma, gebeurtenissen of blootstelling tijdens de dienstverrichting.
+
+Hoofdstuk 6 beschrijft de verzekeringsgeneeskundige rapportage en het recht van de cliënt op inzage, correctie of blokkering.
+
+Hoofdstuk 7 beschrijft de herziene beoordelingsmethodiek en de wijze waarop een invaliditeitspercentage bij psychische aandoeningen berekend moet worden.
+
+Tot slot
+
+Voor de leesbaarheid is dit protocol geschreven in de hij-vorm. Met de cliënt wordt bedoeld de militair of ex-militair waarbij een verzekeringsgeneeskundig onderzoek wordt verricht in het kader van een pensioenkeuring.
+
+In dit protocol wordt gebruikt gemaakt van de term verzekeringsarts. Dit kan ook zijn de arts in opleiding tot verzekeringsarts of de (algemeen militair) arts die onder supervisie van een verzekeringsarts werkt.
+
+Waar geschreven wordt in enkelvoud, zoals een trauma, een diagnose of een dienstverbandaandoening, kan ook sprake zijn van meervoud
+
+### 2 — Kort overzicht van relatief vaak voorkomende psychische aandoeningen bij onderzoek naar dienstverband
+
+Militairen kunnen door hun werkzaamheden, of gebeurtenissen tijdens de werkzaamheden, een psychische aandoening krijgen PTSS is een van de vaker voorkomende psychische aandoeningen en wordt in dit protocol apart benoemd omdat dit protocol een herziening is van het voorgaande PTSS-protocol. Er is een selectie gemaakt om enkele andere veel voorkomende psychische aandoeningen hier kort te benoemen. De beschrijving is zeker niet volledig en zoals eerder gesteld, kunnen criteria in de toekomst veranderen en aandoeningen verdwijnen of nieuwe aandoeningen worden geclassificeerd.
+
+Onder de verzamelnaam psychische aandoeningen kan een scala aan aandoeningen geschaard worden. Psychische aandoeningen kunnen aangeboren zijn of verworven, op de kinderleeftijd tot uiting komen of ontstaan op latere leeftijd. Ze kunnen ontstaan door invloeden van buitenaf zoals PTSS of van binnenuit door een somatische aandoening. Voorbeelden van dat laatste zijn depressie als gevolg van endocrinologische ziekten bijvoorbeeld suikerziekte of als gevolg van neurologische aandoeningen zoals de ziekte van Parkinson.
+
+Het voorkomen van psychische aandoeningen is ook afhankelijk van de maatschappelijke context. Enkele voorbeelden hiervan: (1) Freud verklaarde eind van de 19<sup>e</sup> eeuw elke neurose vanuit onverwerkte, naar het onbewuste verdrongen belevingen en hysterie was destijds een veel voorkomende erkende ziekte. Mensen met psychische aandoeningen werden geesteszieken genoemd en ooit als onbehandelbaar en gevaarlijk in gevangenissen opgeborgen of vastgeketend in instellingen. Vanaf 1841 verbeterde de zorg door inwerkingtreding van de krankzinnigenwet en kwam er gaandeweg ruimte voor behandeling gericht op genezing; (2) Tijdens de eerste wereldoorlog waren er veel soldaten die lichamelijk niets leken te mankeren, maar vanwege voornamelijk psychische klachten niet meer konden functioneren. Gedacht werd dat de soldaten onder de militaire plicht uit wilden komen en velen werden ter dood veroordeeld voor verraad of desertie. In 1915 werd gedacht dat luchtverplaatsing van ontploffende granaten de oorzaak was, vandaar de naam shellshock. Militaire ‘zenuwgestoorden’ werden vanaf september 1915 in daarvoor bestemde ziekenhuizen opgenomen waarmee de aandoening medisch behandelbaar werd geacht
+
+De maatschappelijke context is dus relevant. In de huidige maatschappij komen steeds vaker psychische aandoeningen voor waarbij de stijging het grootst is bij studenten en jongvolwassenen[^n11]. Ondanks het vaker voorkomen van psychische aandoeningen, bestaat er een stigma voor psychische aandoeningen. In het algemeen lijken er in onze maatschappij negatieve vooroordelen te bestaan over psychische aandoeningen en personen met psychische aandoeningen kunnen deze vooroordelen internaliseren. Hierdoor praten zij niet met anderen over hun klachten en aandoening en zoeken zij minder snel hulp. Dit geldt ook voor militairen. Uit een studie uit 2023 blijkt dat 60% van actieve militairen met een psychische aandoening hiervoor geen hulp zocht terwijl ze wel baat zouden hebben bij professionele hulp. Militairen hebben in het algemeen een duidelijke voorkeur om problemen zelf op te lossen.[^n12]
+
+Om een diagnose van psychische aandoeningen waaronder PTSS te kunnen stellen, wordt gebruik gemaakt van de op dat moment geldende officiële psychiatrische richtlijnen. Deze staan op het moment van het opstellen van dit herziene protocol verwoord in het diagnostisch handboek, de ‘Diagnostic and Statistic Manual of Mental Disorders (DSM)’ van de American Psychiatric Association. Sinds november 2022 is er een Nederlandstalige DSM-5-TR (Tekst Revision), met voornamelijk veranderingen in de begeleidende teksten. Wanneer nieuwe richtlijnen door de betreffende beroepsgroepen in Nederland als standaard gaan gelden, dient ook de verzekeringsgeneeskundige beoordeling van psychische aandoeningen volgens deze richtlijnen te geschieden.
+
+Hieronder worden enkele psychische aandoeningen beschreven met gegevens zoals bekend op moment van schrijven van dit protocol.
+
+*Angststoornissen.* Angststoornissen worden tegenwoordig onderverdeeld in (1) de angststoornissen, waaronder paniekstoornis en fobieën, (2) de obsessieve-compulsieve en verwante stoornissen en (3) de trauma- en stressorgerelateerde stoornissen. Angststoornissen ontstaan meestal op de kinderleeftijd, maar kunnen ook ontstaan op volwassen leeftijd. Ongeveer 15% van de volwassen Nederlanders tussen 18 en 75 jaar had in de voorgaande 12 maanden een angststoornis gehad. Daarmee behoren angststoornissen tot de meest frequent voorkomende psychische stoornissen. Angststoornissen komen steeds vaker voor en komen vaker voor bij vrouwen dan bij mannen.[^n13]
+
+*Trauma- en stressorgerelateerde stoornissen.* Op basis van een schatting uit gegevens van een steekproef onder de Nederlandse bevolking heeft 7,4% van de Nederlandse bevolking tussen 18 en 80 jaar, ooit in het leven PTSS gehad. PTSS kan bij iedereen voorkomen, maar in bepaalde beroepsgroepen komt dit vaker voor. Dit geldt vooral bij beroepen waar een bedreigende situatie eerder kan voorkomen, zoals politie, brandweer, ambulance- en ziekenhuispersoneel en militairen. En er is een categorie beroepen waar ongevallen een belangrijke oorzaak van PTSS vormen, zoals bus- en vrachtwagenchauffeurs en treinmachinisten.[^n14]<sup>,</sup>[^n15]
+
+*Stemmingsstoornissen.* In Nederland heeft naar schatting 9,8% van de volwassenen tussen 18 en 75 jaar een stemmingsstoornis. Depressie vormt het grootste deel en de jaarprevalentie daarvan wordt geschat op 8,5%. Depressie komt steeds vaker voor en er wordt zelfs verwacht dat depressie in 2030 de meest voorkomende aandoening zal zijn in de ontwikkelde landen.<sup>10</sup>
+
+#### 2.1 — PTSS
+
+Ernstige schokkende gebeurtenissen laten niemand onberoerd. Na een schokkende gebeurtenis kan een acute stressreactie ontstaan. De stressreacties zijn onaangenaam, maar worden als normale reacties beschouwd. Gemiddeld maakt ongeveer 60% van de mannen en 50% van de vrouwen in hun leven eens een buitengewoon schokkende gebeurtenis mee. Zo worden in Nederland jaarlijks 5 per 100 inwoners in Nederland slachtoffer van een of meer geweldplegingen. Veel mensen zijn na een schokkende ervaring van slag, maar dat betekent nog niet dat ze aan een stoornis lijden. De meeste mensen herstellen na enkele dagen of weken en pakken de draad weer op. Slechts een klein deel ontwikkelt PTSS. Een trauma kan ook leiden tot een andere aandoening bijvoorbeeld depressie, een paniekstoornis, vermoeidheidssyndroom of een verslaving.[^n16]
+
+PTSS is sinds 1980 opgenomen in de DSM. Bij het vaststellen van de diagnose PTSS, of de beoordeling van de correctheid van die diagnose, wordt naar de criteria in het vigerende DSM gekeken.
+
+Er zijn diverse risicofactoren voor het ontwikkelen van PTSS. Dat kunnen factoren zijn die in de persoon gelegen zijn voorafgaand aan het trauma, zoals eerdere psychische problemen, eerdere traumatische ervaringen, et cetera; maar ook factoren die te maken hebben met de gebeurtenis, zoals de aard en de ernst van het trauma, of er sprake is van een waargenomen levensbedreiging, interpersoonlijk geweld, de ernst van de verwonding en of er sprake is van langdurige traumatisering, et cetera. En tenslotte zijn er factoren die na de gebeurtenis van invloed kunnen zijn op het ontstaan van PTSS, zoals een geringe mate van sociale steun, additionele stressvolle levensomstandigheden en wel of geen erkenning door de omgeving en verantwoordelijken.[^n17]<sup>,</sup>[^n18]
+
+De term complexe PTSS (cPTSS) wordt nog steeds door diverse behandelaren gehanteerd bij klachten die samenhangen met herhaalde, langdurige en vaak interpersoonlijke, schokkende gebeurtenissen. De klachten duren vaak langer en de symptomen zijn ernstiger. Complexe PTSS komt als diagnose echter niet voor in de DSM-5-TR en wordt in dit protocol niet als aparte aandoening gezien. Hetzelfde geldt voor late-onset-PTSS. Hierbij ontstaan klachten langer dan 6 maanden na de traumatische gebeurtenis. Ook deze aandoening is geen aparte diagnose in de DSM-5-TR en wordt in dit protocol niet als aparte aandoening gezien.
+
+Een deel van de militairen die op uitzending zijn, maakt tijdens die missie potentieel traumatische gebeurtenissen mee. Uit een onderzoek onder Nederlandse militairen die hebben gewerkt in Uruzgan blijkt bijvoorbeeld dat een groot deel van hen is beschoten (niet gericht ca. 62%; gericht ca. 39%), menselijk leed heeft aanschouwd (59%), gewonden (47%) of doden (37%) heeft gezien, of slachtoffers binnen de eigen eenheid heeft meegemaakt (45%). Van de militairen die tijdens een uitzending één of meer potentieel traumatische gebeurtenissen meemaken, krijgt een deel PTSS.[^n19]
+
+Kenmerkend voor een uitzending is dat militairen soms maanden weg zijn en gescheiden zijn van hun thuisfront. Het thuisfront heeft moeten accepteren dat er een risico is voor de militair en heeft de verantwoordelijk voor het gezin alleen moeten dragen. De optelsom van deze ervaringen kan leiden tot onderling onbegrip. Een op de vijf veteranen geeft na thuiskomst aan dat de partnerrelatie is veranderd. Dit hangt voornamelijk samen met het niet of nauwelijks kunnen praten over de uitzending. Na het meemaken van traumatische gebeurtenissen, kan de ontwrichtende uitwerking op het gezin uitgesprokener worden. Partners ervaren minder sociale steun, meer slaapproblemen en somatische klachten
+
+### 3 — Verzekeringsgeneeskundig onderzoek
+
+De verzekeringsarts legt bij aanvang (en later bij de afronding) van het onderzoek allereerst de procedure uit aan de cliënt.
+
+Na uitvoering van het onderzoek stelt de verzekeringsarts op basis hiervan de functionele mogelijkheden en de beperkingen van de cliënt vast. Het onderzoek bestaat uit een gesprek en observaties. Het voeren van dergelijke gesprekken valt onder de competenties van de verzekeringsarts.
+
+De wijze waarop anamnese en onderzoek worden uitgevoerd is afhankelijk van zowel de cliënt als van de verzekeringsarts. De verzekeringsarts verzamelt de informatie strak gestructureerd of meer het verhaal van betrokkene volgend, waarbij de volgorde dus niet vastligt. Het is bekend dat herinneringen minder betrouwbaar worden in de loop der tijd. Hier dient de verzekeringsarts rekening mee te houden.
+
+De cliënt ontvangt informatie over het onderzoek vooraf bij het maken van de afspraak. Informatie van partners of een andere naaste kunnen belangrijke inzichten geven en dienen zeker meegewogen te worden. Vooral bij psychische aandoeningen is dit van belang. Partners of andere naasten worden daarom uitgenodigd om, mits de cliënt daarmee instemt, bij het onderzoek aanwezig te zijn.
+
+De wijze waarop cliënten hun ervaringen en hun klachten beschrijven, kan verschillen afhankelijk van bijvoorbeeld opvoeding, voorgeschiedenis, culturele achtergrond, religieuze achtergrond en hoe ze hun aandoening hebben ervaren binnen Defensie. Hier dient de verzekeringsarts rekening mee te houden en het gesprek op aan te passen. Het is van groot belang dat cliënten hun verhaal op hun eigen wijze en in het vertrouwen op begrip voor hun persoonlijke context, kunnen vertellen.
+
+De verzekeringsarts vraagt, indien hij daartoe aanleiding ziet, medische informatie op bij behandelaren van de cliënt. Indien noodzakelijk zal de verzekeringsarts ook een psychiatrische expertise aanvragen. Lichamelijk onderzoek kan onderdeel uitmaken van het onderzoek, maar is in het algemeen slechts aan de orde wanneer er sprake is van lichamelijke beperkingen. Een huisbezoek is mogelijk, indien de verzekeringsarts dit noodzakelijk acht en de cliënt daartoe toestemming geeft.
+
+Het verzekeringsgeneeskundig onderzoek bestaat uit meerdere gegevens die allen van belang zijn voor de oordeels- en besluitvorming aangaande het vastleggen van de beperkingen in relatie tot de psychische aandoening. Het gesprek wordt weergegeven in een gespreksverslag waarin de claim van de cliënt en de reeds ontvangen medische informatie worden genoteerd evenals het verhaal van de cliënt omtrent diens functioneren voor het incident, trauma, gebeurtenissen of blootstelling en het verloop van het ontstaan van klachten en beperkingen daarna. De cliënt krijgt dit verslag toegestuurd zodat hij gebruik kan maken van het correctierecht en het verslag kan controleren op feitelijke onjuistheden (zie voor toelichting paragraaf 6.1). De verzekeringsarts kan medische informatie opvragen en een psychiatrische expertise laten uitvoeren. Deze gegevens leiden samen met bevindingen uit het onderzoek van de verzekeringsarts tot vaststelling van de diagnose; vaststelling van een eventuele comorbiditeit; een beoordeling omtrent herstelgedrag; de beoordeling van een mogelijke relatie met de werkzaamheden in bijzondere of buitengewone omstandigheden (‘dienstverband’ – zie hoofdstuk 5); beoordeling van mogelijke aanwezigheid van pre-existente of luxerende factoren en een beoordeling van de prognose.
+
+De gegevens en de wijze waarop de beoordelingen tot stand zijn gekomen, worden genoteerd in een verzekeringsgeneeskundig conceptrapport. Het conceptrapport wordt naar de cliënt gestuurd ter inzage, opdat hij gebruik kan maken van het blokkeringsrecht. De cliënt krijgt vooraf en bij toesturen van het conceptrapport informatie over deze rechten en de mogelijke gevolgen van het gebruik van het blokkeringsrecht. Wanneer de cliënt aangeeft dat hij het conceptrapport niet wil blokkeren, wordt het verzekeringsgeneeskundig rapport definitief en wordt de conclusie verstuurd naar de uitkerende instantie (zie ook paragraaf 6.1).
+
+Voor meer informatie over het verzekeringsgeneeskundig onderzoek: zie hoofdstuk 6 van dit protocol en het WIA-IP protocol.
+
+#### 3.1 — Diagnose
+
+De verzekeringsarts heeft bij de diagnostiek vooral een toetsende rol: hij toetst of de diagnose op een professionele manier tot stand is gekomen. Zo moet de diagnose gesteld zijn door een professional die gekwalificeerd en bevoegd is om de diagnose te stellen. In het algemeen is dit een BIG-geregistreerde zorgverlener zoals een psychiater of GZ-psycholoog. De diagnose wordt bovendien gesteld aan de hand van het vigerende DSM (zie ook hoofdstuk 2).
+
+De verzekeringsarts motiveert waarom hij uitgaat van een bepaalde diagnose.
+
+#### 3.2 — Psychiatrische expertise
+
+Wanneer uit het onderzoek sprake blijkt te zijn van een consistent, plausibel en inzichtelijk verhaal dat duidelijk leidt naar de conclusies omtrent diagnose, behandeling en herstel gedrag, dan is een psychiatrische expertise niet noodzakelijk. De verzekeringsarts zal dus lang niet altijd een expertise aanvragen. Indicaties voor het aanvragen van een psychiatrische expertise kunnen zijn:
+
+- − Twijfel over de door de curatieve sector gestelde diagnose, bijvoorbeeld wanneer de verzekeringsarts constateert dat de symptomen onvoldoende overeenkomen met de criteria in de DSM-classificatie,
+- − Vermoeden op comorbiditeit, welke onvoldoende lijkt te zijn onderzocht,
+- − Het bestaan van onduidelijkheid over de invloed van ziekte-onderhoudende factoren, zoals dysfunctionele persoonlijkheidstrekken en herstel belemmerende coping stijlen,
+- − Meer in het algemeen: onduidelijkheid bij de verzekeringsarts over ziekte en gebrek in relatie tot dienstverband en beperkingen.
+
+Ook wanneer er nog geen diagnose is gesteld, kan de verzekeringsarts een expertise-onderzoek laten uitvoeren.
+
+De Nederlandse Vereniging voor Psychiatrie hanteert richtlijnen aangaande rapportage en psychiatrisch onderzoek. Belangrijke aandachtspunten hierin zijn:
+
+- − Aanwezigheid van pre-existente, luxerende en ziekte-onderhoudende factoren met daarbij het duiden van deze factoren,
+- − Aanwezigheid van comorbiditeit,
+- − Eventueel aanwezige gemotiveerde relatie tussen deze comorbiditeit en de militaire dienstverrichting, naast de weging van deze relatie,
+- − Weging van comorbiditeit bij het duiden van de beperkingen, als deze comorbiditeit geen relatie heeft tot de dienstverrichting,
+- − Het geprotocolleerd duiden van de beperkingen en de ernst hiervan.
+
+Aan de geraadpleegde expert wordt expliciet niet gevraagd om een uitspraak te doen over het invaliditeitspercentage. Dit is de competentie van de verzekeringsarts. Doet hij dit toch dan hoeft aan dit oordeel geen beslissende betekenis te worden toegekend. De verzekeringsarts dient op basis van eigen argumenten en onderzoek tot een vaststelling van de beperkingen en een bepaling van het invaliditeitspercentage te komen.
+
+#### 3.3 — Behandeling
+
+Van de cliënt wordt verwacht dat hij al het mogelijke doet om van de klachten af te komen of met de klachten te kunnen blijven functioneren. De verzekeringsarts beoordeelt of de cliënt de op dat moment meest passende behandelingen heeft gevolgd. De beoordeling daarvan omvat niet alleen vragen omtrent de gevolgde (para)medische behandelingen en de effecten van de behandeling, maar ook vragen omtrent de sociale situatie, de arbeidssituatie, aanpassingen in het werk of aanpassingen in de privésituatie. Bij het vaststellen van de duurzaamheid van beperkingen, is van belang of de cliënt de meest passende behandeling heeft gevolgd. Daarnaast volgt de verzekeringsarts het gestelde in de richtlijn *Duurzame functionele invaliditeit*.
+
+Behandeling van psychische aandoeningen is niet universeel. Wat voor de ene cliënt goed werkt, hoeft dat niet te zijn bij een andere cliënt. De verzekeringsarts dient te beoordelen of deze cliënt de voor hem de meest passende behandeling, volgens de op dat moment geldende wetenschappelijke inzichten en richtlijnen, heeft gevolgd.
+
+Voor een optimale behandeling is het van belang om onderscheid te maken tussen pre-existente, luxerende en ziekte-onderhoudende factoren. Afhankelijk van de zwaarte van deze factoren, kan de zorg en behandeling anders zijn. Duurt bijvoorbeeld een posttraumatische stressstoornis langer dan gemiddeld, dan is extra aandacht noodzakelijk voor eventueel aanwezige ziekte- onderhoudende factoren.
+
+Bij de behandeling is het van groot belang dat de verzekeringsarts alle facetten in kaart heeft gebracht. Iemand zonder toekomstperspectief door schulden, zonder werk, zonder uitkering, is in de therapeutische zin niet te behandelen als er niet (ook) aan oplossingen wordt gewerkt op deze terreinen. Verder moet uitgesloten zijn dat er lichamelijke aandoeningen zijn die een rol spelen. Deze moeten dan immers vaak eerst behandeld worden, om vast te kunnen stellen welke symptomen van psychische aandoeningen dan nog resteren en voor behandeling in aanmerking komen. Het is daarom mogelijk dat de daadwerkelijke behandeling pas na verloop van de tijd kan starten
+
+### 4 — Comorbiditeit
+
+Comorbiditeit betekent dat er meerdere aandoeningen tegelijkertijd aanwezig zijn waarbij er een (1) hoofddiagnose is en er andere aandoeningen zijn die daarnaast voorkomen. Comorbiditeit bestaat zowel bij psychische als somatische aandoeningen en onderling, bijvoorbeeld depressie als comorbide aandoening bij een chronische somatische ziekte. Bij psychische aandoeningen komt comorbiditeit met een andere psychische aandoening veel voor. Zo komt bij PTSS vaak ook een depressie voor en is er bij depressie frequent sprake van een angststoornis. In het eerste geval is PTSS de hoofddiagnose en is depressie comorbiditeit. In het tweede geval is depressie de hoofddiagnose en is angststoornis de comorbiditeit. Een psychische aandoening kan dus zowel een hoofddiagnose zijn als een comorbide diagnose[^n20].
+
+Het is van belang dat de verzekeringsarts nagaat welke aandoeningen er zijn, wanneer de klachten zijn ontstaan, welke klachten of beperkingen bij de diverse aandoeningen horen en wat het verband is tussen de aandoeningen. De verzekeringsarts gaat na of er sprake is van comorbiditeit en onderbouwt dit aan de hand van medische informatie van behandelaars en aan de hand van de anamnese, meer in het bijzonder de voorgeschiedenis. Zo nodig kan psychiatrische expertise gevraagd worden. Wanneer causaliteit voor een comorbide aandoening door de verzekeringsarts is vastgesteld, worden de beperkingen die hier het gevolg van zijn meegeteld. Wanneer er geen sprake is van causaliteit, worden die beperkingen niet meegeteld.
+
+Er is bij psychische aandoeningen regelmatig sprake van een overlap van symptomen. Symptomen die bij PTSS voorkomen, komen ook voor bij mensen met ADHD, bijvoorbeeld slaapproblemen, hyperactiviteit, onrust, gebrek aan concentratie, impulsiviteit. En bij autisme komen net als bij PTSS sociale terugtrekking en sensorische gevoeligheden voor, zoals angst voor harde geluiden of zich oncomfortabel voelen bij aanrakingen. Dit maakt het lastig om beperkingen van elkaar te onderscheiden. De verzekeringsarts moet voor deze beperkingen nagaan of deze in overwegende mate toe te schrijven zijn aan de aandoening met dienstverband of aan de aandoening zonder dienstverband, zoals ADHD of autisme. Wanneer de verzekeringsarts niet kan vaststellen of beperkingen in overwegende mate bij de aandoening met dienstverband of bij de aandoening zonder dienstverband horen, dient de cliënt het voordeel van de twijfel te krijgen. De verzekeringsarts zal deze beperkingen dan meenemen in de berekening van het invaliditeitspercentage
+
+### 5 — Causaliteit
+
+De verzekeringsarts beoordeelt of er sprake is van een dienstverbandaandoening. Er is sprake van een dienstverbandaandoening wanneer er een verband is tussen het ontstaan van de aandoening en de uitvoering van de dienst onder bijzondere of buitengewone omstandigheden. De *Militaire Pensioenvoorschriften* en het *Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen Militairen* zijn hierbij leidend. Hoe de medische causaliteit beoordeeld moet worden, staat beschreven in het WIA-IP protocol.
+
+De verzekeringsarts gaat voor de beantwoording van de vraag of de klachten en beperkingen grotendeels het gevolg zijn van een incident, trauma of gebeurtenissen tijdens de uitvoering van de dienst na, of er factoren zijn die voor of tegen de causaliteit pleiten. Daarvoor vraagt de verzekeringsarts na wat de cliënt is overkomen. Dat geldt voor zowel lichamelijke als psychische aandoeningen.
+
+Een verband tussen een incident en een lichamelijk letsel kan zonder meer duidelijk zijn, maar is dat niet voor alle lichamelijke aandoeningen en is dat vaak niet voor psychische aandoeningen. Er is meestal sprake van een interval tussen een incident of blootstelling tijdens de uitoefening van de dienst en het tot uiting komen van de psychische aandoening. Voor de trauma- en stressorgerelateerde stoornissen is het van belang om na te gaan om welk trauma of stressor het gaat en wanneer en op welke wijze de aandoening tot uiting is gekomen.
+
+In het verleden werd onderscheid gemaakt tussen een type 1 en een type 2 trauma. Inmiddels zijn de medische inzichten op dit punt veranderd en is dit onderscheid niet meer relevant voor de verzekeringsgeneeskundige beoordeling.
+
+Specifiek voor psychische aandoeningen gaat de verzekeringsarts in ieder geval de volgende factoren en de invloed op de aandoening na:
+
+- − Wat is de aard en ernst van het incident, trauma of de gebeurtenissen
+- − Wat is de tijdsduur tussen blootstelling n claim?
+- − Is er sprake van een ‘knik’ in het functioneren?
+- − Zijn er (andere) life-events die van invloed kunnen zijn?
+- − Zijn er comorbide stoornissen?
+- − Zijn er pre-existente factoren?
+- − Zijn er luxerende factoren geweest?
+- − Zijn er ziektebestendigende factoren die het voortbestaan van ziekte ondersteunen of versterken zoals een schadelijke leefstijl, of zijn er herstelbelemmerende factoren die het herstel bemoeilijken of vertragen, zoals gebrek aan motivatie of angst?
+- − Zijn er stressoren in de privé of werkomgeving die van belang zijn?
+- − Zijn er lichamelijke klachten en beperkingen aanwezig?
+- − Is de meest passende behandeling volgens de op dat moment geldende medische inzichten en richtlijnen gevolgd?
+- − Waarop richtte zich de behandeling vooral? Hoe verliep het herstel en wat zijn de belangrijkste belemmeringen voor herstel geweest?
+- − Wat is het huidige niveau van functioneren?
+- − Is het verhaal plausibel; passen presentatie en beperkingen bij de aard en de ernst van het ziektebeeld?
+- − Is er sprake van consistentie; vormt het verhaal van de cliënt over zijn klachten, beperkingen en functioneren een logisch geheel?
+
+Het is bij psychische problematiek vaak moeilijk om vast te stellen of er sprake is van tegelijkertijd voorkomende aparte aandoeningen, of dat er sprake is van een oorzaak-gevolg relatie tussen de aandoeningen. Bijvoorbeeld: depressie kan een gevolg zijn van een stressorgerelateerde stoornis zoals PTSS; het kan een gevolg van een tegelijkertijd voorkomende chronische somatische aandoening; of het kan een op zichzelf staande aandoening zijn. Het is daarom moeilijk te bepalen of de comorbiditeit wél of géén causaal verband heeft met de dienst. Partiële toerekening behoort niet tot de wettelijke mogelijkheden. De verzekeringsarts moet dus een ‘alles of niets’ uitspraak doen Het komt voor dat de verzekeringsarts niet voldoende argumenten heeft om met zekerheid een dienstverband toe te kennen, maar dat er wel verschillende aanwijzingen zijn dat er sprake zou kunnen zijn van een dienstverband. Defensie heeft een zorgplicht voor haar militairen en voelt zich betrokken en verantwoordelijk voor hen. In dergelijke situaties dient de cliënt daarom het voordeel van de twijfel te krijgen en neemt de verzekeringsarts causaliteit aan.
+
+#### 5.1 — Verergerend en oorzakelijk dienstverband
+
+Voor psychische aandoeningen is het soms lastig vast te stellen of er sprake is van pre-existente psychische aandoeningen of eerdere trauma’s die hebben geleid tot een bepaalde mate van kwetsbaarheid. Een nieuw trauma kan op zichzelf leiden tot een angststoornis, PTSS of andere psychische aandoening, maar kan ook een trigger zijn voor het opvlammen van deze kwetsbaarheid.
+
+De verzekeringsarts heeft de mogelijkheid om causaliteit vast te stellen als oorzakelijk dienstverband of verergerend dienstverband. Bij oorzakelijk dienstverband is het incident de enige oorzaak van het ontwikkelen van de aandoening. Bij een verergerend dienstverband is er sprake van een bestaande aandoening die verergerd is door de uitoefening van de dienst of een bestaande kwetsbaarheid waarbij de uitoefening van de dienst een trigger is geweest voor het tot uiting komen van de aandoening. In beide gevallen is er sprake van een dienstverbandaandoening met invaliditeit in overeenstemming met de regelgeving.
+
+Het is vaak moeilijk om vast te stellen of de toename van psychische klachten en beperkingen puur het gevolg is van een incident of blootstelling tijdens de uitoefening van de dienst, zodat er feitelijk sprake is van een nieuwe psychische aandoening, of dat er sprake is van een verergering van een bestaande aandoening.
+
+Hetzelfde geldt voor incidenten of blootstellingen in de toekomst: is er sprake van een nieuwe psychische aandoening waarbij er dus geen sprake is van een dienstverband of is er sprake van een verergering van de dienstverbandaandoening door het nieuwe incident? Zoals in het WIA-IP protocol beschreven, worden toegenomen beperkingen in de toekomst alleen toegerekend aan de dienstverbandaandoening wanneer er sprake is van een oorzakelijk dienstverband en geldt dat in principe niet voor een verergerend dienstverband.
+
+Overwogen is om een verergerend dienstverband niet meer toe te kennen voor psychische aandoeningen en alleen uit te gaan van een oorzakelijk dienstverband. Op die manier zouden verergeringen in de toekomst altijd toegeschreven worden aan het dienstverband. Het is echter van belang dat de verzekeringsarts de mogelijkheid heeft om verergerend dienstverband vast te stellen. Wanneer de verzekeringsarts namelijk concludeert dat er geen sprake is van een duidelijk oorzakelijk dienstverband, zou de cliënt immers geen dienstverband toegekend kunnen krijgen.
+
+Zowel bij psychische aandoeningen met een oorzakelijk dienstverband als bij psychische aandoeningen met een verergerend dienstverband, geldt met ingang van dit protocol, dat toename van de beperkingen als gevolg van incidenten in de toekomst, altijd toegeschreven zullen worden aan het dienstverband en worden meegenomen in de verzekeringsgeneeskundige beoordeling[^n21]. Dit is een uitzondering op het gestelde in het WIA-IP protocol, waarin staat dat verergeringen in de toekomst, in geval van verergerend dienstverband, niet worden toegerekend aan Defensie tenzij de toename onderdeel is van het gebruikelijke ziekteverloop[^n22]. Deze uitzondering is nadrukkelijk niet van toepassing voor lichamelijke dienstverbandaandoeningen.
+
+Het komt voor dat de verzekeringsarts onvoldoende argumenten heeft om met zekerheid een onderscheid te kunnen maken tussen een oorzakelijk of een verergerend dienstverband. In dat geval krijgt de cliënt het voordeel van de twijfel en kent de verzekeringsarts een oorzakelijk dienstverband toe. Hoewel het onderscheid voor psychische aandoeningen niet meer van belang is voor de toekenning van verergering van de beperkingen in de toekomst, kan het onderscheid wel van belang zijn voor de erkenning van hetgeen de cliënt overkomen is.
+
+### 6 — Verzekeringsgeneeskundige rapportage
+
+Na onderzoek komt de verzekeringsarts tot een beargumenteerde uitspraak over de diagnose, de beperkingen en de mogelijkheden tot functioneren, de duurzaamheid van de beperkingen[^n23], de adequaatheid van het herstelgedrag en de maatregelen ter behoud en herstel van het functioneren. Daarbij moeten de professionele verzekeringsgeneeskundige standaarden gebruikt worden.
+
+Uit de verzekeringsgeneeskundige rapportage moet duidelijk worden dat gegevens zijn verzameld in een aantal domeinen rondom de claim. Alle gegevens zijn de basis voor de verzekeringsgeneeskundige oordeels- en besluitvorming aangaande de psychische beperkingen en de mogelijke relatie met een incident, trauma, gebeurtenis of blootstelling tijdens buitengewone of bijzondere omstandigheden. Hieronder worden de domeinen beknopt besproken.
+
+- − Aanwezige informatie: De aanvraag en de daarbij verzonden informatie, beschikbaar voor aanvang van het onderzoek.
+- − Medische voorgeschiedenis: Aandoeningen voor indiensttreding en het beloop hiervan. Van belang is vooral of er psychische aandoeningen waren in de jeugd en of er psychische hulpverlening is geweest.
+- − Psychische klachten en stoornissen en het beloop hiervan: Het gaat hier om de huidige klachten en de gestelde diagnose. Daarbij geldt de informatie van de curatieve sector als uitgangspunt. Naast het onderzoek naar de psychische aandoening, dienen comorbide ziekten apart te worden gediagnosticeerd. De behandelingen moeten bekend zijn. Somatische klachten en stoornissen moeten worden nagevraagd en worden uitgesloten als oorzaak van de psychische aandoening. Hierbij is behalve eigen onderzoek, op indicatie ook informatie van de curatieve sector van belang.
+- − Werk: De loopbaan voor indiensttreding en tijdens de dienstperiode. Het huidige werk. De aanwezigheid van chronische stressoren of loopbaanproblematiek zoals ervaren door de cliënt.
+- − Persoonlijk en sociaal functioneren: De sociale situatie, de burgerlijke staat, deelname aan sport of verenigingen. Daarbij ook de jeugd en opleiding. De aanwezigheid van chronische stressoren zoals ervaren door cliënt. Inzicht in de balans werk/privé.
+- − Dagverhaal/functioneringsniveau: Het dagverhaal c.q. het functioneringsniveau betreft het gemiddelde functioneren in de periode voor het onderzoek. De verzekeringsarts moet vooral een globaal beeld krijgen van waaruit hij consistentie kan afleiden over een bepaalde tijdspanne. Het betreft dus niet een specifiek onderzoek naar één bepaalde dag, zoals de dag vóór het onderzoek.
+- − Voorgeschiedenis: De verzekeringsarts besteedt aandacht voor de aard en de ernst van het incident, het trauma of de gebeurtenissen, het functioneren van betrokkene de jaren daarvoor en daarna en voorafgaand aan de claim.
+- − Onderzoek: Dit betreft het onderzoek van de verzekeringsarts: de algemene indruk en de eigen observaties van affect, gedrag, stemming, coherentie van het verhaal, realiteitszin, aangevuld met gegevens van het eigen psychisch onderzoek, eventueel aan de hand van vragenlijsten.
+- − Persoonlijkheidskenmerken: De verzekeringsarts brengt deze in kaart vanwege zowel het pre-existente aspect als het ziektebestendigende aspect. Copingstijlen en levensfaseproblematiek kunnen van belang zijn.
+- − Visie van betrokkene: De visie van cliënt wordt verwoord met betrekking tot de ernst van zijn beperkingen en mogelijkheden. De cliënt geeft zijn mening over de causaliteit.
+- − Opgevraagde informatie: De noodzakelijk geachte medische en overige informatie die is opgevraagd en ontvangen.
+- − Expertise aanvraag: Wanneer expertise geïndiceerd is wordt dit hier beschreven en de uitslag ervan wordt genoteerd.
+- − Beschouwing: In de beschouwing noteert de verzekeringsarts de weging van alle informatie. Op basis hiervan stelt hij de diagnose en medische causaliteit vast, net als de beperkingen ten aanzien van ADL en BDL met verwijzing naar de beoordelingsmethodiek.
+- − Conclusie: Deze volgt eenduidig uit de beschouwing en geeft antwoord op de vraag of er sprake is van een dienstverbandaandoening; of de claim gehonoreerd wordt; welk invaliditeitspercentage aan de beperkingen toegekend wordt en of er sprake is van duurzame functionele invaliditeit.
+- − Oordeel van de pensioenverzekeringsautoriteit: Conform het gestelde in het *Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen* stelt de pensioenverzekeringsautoriteit de aanspraken van de cliënt vast.
+
+#### 6.1 — Inzagerecht, correctierecht en blokkeringsrecht
+
+Op drie momenten wordt de cliënt geïnformeerd over het inzage- en blokkeringsrecht: voorafgaand aan het onderzoek, bij aanvang van het onderzoek en bij afsluiting van het onderzoek. De informatie wordt zowel mondeling als schriftelijk aangeboden.
+
+Voor zowel actief dienende als post-actieve militairen geldt dat de cliënt allereerst recht heeft op inzage en correctie van het gespreksverslag dat hem na het gesprek met de verzekeringsarts wordt toegestuurd. Het gaat bij correctie om feitelijke onjuistheden, bijvoorbeeld van een datum van een gebeurtenis. Het correctierecht strekt niet zover dat de cliënt het professionele oordeel van behandelaren en de verzekeringsarts mag wijzigen. Een cliënt heeft dus geen recht op correctie van diagnoses van behandelaren, van het onderzoek door de verzekeringsarts of van de conclusie van het rapport.
+
+De cliënt heeft blokkeringsrecht. De cliënt kan, als een psychiatrische expertise heeft plaatsgevonden, zijn blokkeringsrecht toepassen op dit expertiserapport. Dit geldt voor zowel actief dienende militairen als post-actieve militairen. Hierbij geldt dat het blokkeringsrecht alleen toegepast kan worden op het gehele expertiserapport en dus niet op delen ervan. In geval van blokkeren van het psychiatrische expertiserapport, kan de verzekeringsarts geen conclusie trekken en eindigt het onderzoek zonder verzekeringsgeneeskundig rapport.
+
+De post-actieve militair heeft recht van inzage in het verzekeringsgeneeskundig rapport en kan ook het verzekeringsgeneeskundig rapport blokkeren. Ook hier kan hij alleen het hele rapport blokkeren en niet delen ervan. In geval van blokkering geeft de verzekeringsarts de conclusie van het rapport niet door aan de pensioenuitkerende instantie en eindigt feitelijk de claim van de cliënt. Wanneer de cliënt het rapport niet blokkeert, wordt het verzekeringsgeneeskundig rapport definitief en wordt de conclusie verstuurd naar de pensioenuitkerende instantie.
+
+Actief dienende militairen hebben alleen blokkeringsrecht op een medisch expertiserapport. Dit wordt hem door de expertise-verlener ter inzage toegestuurd, voordat deze het – na toestemming van de cliënt – naar BMB zendt. Zij krijgen het verzekeringsgeneeskundig rapport toegestuurd nadat het is afgerond. Zij hebben geen recht op blokkering van het verzekeringsgeneeskundig rapport, omdat dit deel uitmaakt van het onderzoek naar de dienstgeschiktheid. De uitslag dienstgeschikt/dienstongeschikt wordt altijd meegedeeld aan de aanvragende commandant. De commandant ontvangt niet het gehele rapport, enkel de conclusie
+
+### 7 — Beoordelingsmethodiek om het invaliditeitsprecentage vast te stellen
+
+Voor het vaststellen van een invaliditeitspercentage dient de verzekeringsarts van de volgende punten uit te gaan:
+
+- − *De militaire pensioenvoorschriften*
+
+  Er moet sprake zijn van een dienstverband aandoening. Zie voor de eisen hiervoor artikel 2 van *het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen*.
+- − *Het ziektebegrip*
+
+  Bij een pensioenaanvraag voor beperkingen vanwege een psychische aandoening moet sprake zijn van een ziekte die herleidbaar is naar het vigerende DSM of de vigerende officiële psychiatrische richtlijnen die zijn overeengekomen tussen de betreffende beroepsgroepen in Nederland en als standaard gelden.
+- − *De causaliteit*
+
+  De causaliteitscriteria van de militaire pensioenwetgeving zijn bepalend: voldaan moet worden aan het begrip oorzakelijk of verergerend dienstverband.
+- − *De invaliditeitsdefinitie*
+
+  De in een percentage uit te drukken mate van lichamelijke en geestelijke tekortkomingen en beperkingen, welke de cliënt in verhouding tot een geheel valide persoon van gelijke leeftijd in het dagelijks leven in het algemeen ondervindt: bij vaststelling van het invaliditeitspercentage dient daarom uit te worden gegaan van beperkingen en niet van de ernst van symptomen. Arbeid dient buiten beschouwing te blijven. Klachten, lijdensdruk en gederfde levensvreugde worden niet meegewogen.
+- − *De invaliditeitsschatting*
+
+  Deze dient te gebeuren aan de hand van de beoordelingsmethodiek waarin de ernst van de beperkingen wordt weergegeven.
+
+De indeling in rubrieken hieronder komt overeen met andere indelingen van beperkingen zoals van de WHO. De beperkingen worden onderverdeeld in rubrieken en subrubrieken. De opbouw van de rubrieken is als volgt:
+
+<table>
+<tr><th>Rubriek</th><th></th><th>Subrubriek</th></tr>
+<tr><td rowspan="3">1 ADL</td><td>1</td><td>Zelfzorg en huishoudelijke taken</td></tr>
+<tr><td>2</td><td>Mobiliteit</td></tr>
+<tr><td>3</td><td>Slapen</td></tr>
+<tr><td>2 BDL: Cognitief functioneren</td><td>4</td><td>Structuur aanbrengen en concentratie</td></tr>
+<tr><td rowspan="2">3 BDL: Sociaal functioneren</td><td>5</td><td>Persoonlijke en intieme relaties</td></tr>
+<tr><td>6</td><td>Sociale activiteiten/ Sociaal functioneren</td></tr>
+<tr><td>4 BDL: Adaptatie stressvolle gebeurtenissen</td><td>7</td><td>Omgaan met stressvolle gebeurtenissen</td></tr>
+</table>
+
+Beperkingen in algemeen dagelijkse levensverrichtingen (ADL) worden beoordeeld in rubriek 1 en beperkingen in de bijzondere dagelijkse levensverrichtingen (BDL) staan in de rubrieken 2, 3 en 4. In de structuur is uitgegaan van een oplopende schaal van complexiteit van taken die mensen in het dagelijks leven moeten uitoefenen.
+
+Bij elke subrubriek is een beschrijving gegeven van de uitvoering van de activiteit zonder beperkingen. Een normaalwaarde is namelijk niet aan te geven. Het functioneren kan per persoon verschillen en er zijn variaties in het functioneren van een persoon in de tijd. De beschrijving is met opzet niet uitputtend opgesteld, hierdoor is er ruimte voor de verzekeringsarts om activiteiten onder een subrubriek te scharen en te scoren. De methodiek is namelijk geen vragenlijst waarbij alle items exact uitgevraagd moeten worden of die de cliënt van tevoren kan doornemen. De beoordeling is maatwerk die aansluit op hetgeen de cliënt zelf vertelt omtrent de beperkingen die hij ervaart in het dagelijks leven. Het is van belang dat de verzekeringsarts nagaat dat alle subrubrieken gescoord kunnen worden en zo nodig stelt hij aanvullende vragen.
+
+De verzekeringsarts houdt bij de beoordeling rekening met de culturele en sociale context van de cliënt en neemt de input van een partner of naaste daarbij mee. De verzekeringsarts gaat bij het beoordelen van het functioneren na hoe het functioneren was voorafgaande aan het incident, trauma, gebeurtenissen of blootstelling en daarna, en hoe het functioneren is op moment van het onderzoek. Hij gaat na of er sprake is van een knik in het functioneren in de tijd: beperkingen worden alleen gewogen als de activiteit voorheen wel mogelijk was. Alle beperkingen worden per subrubriek door de verzekeringsarts in de rapportage omschreven en gewogen. De verzekeringsarts geeft aan in welke klasse de beperkingen vallen en waarom.
+
+#### 7.1 — Het invaliditeitspercentage
+
+De beoordelingsmethodiek gaat uit van zeven subrubrieken, verdeeld over vier rubrieken. Per subrubriek wordt de ernst van de beperkingen geduid. Dit kan zijn de frequentie van het voorkomen of de mate van de beperkingen en het effect op ADL of BDL. De ernst van de beperkingen is onderverdeeld in vijf klassen, lopend van 0 (geen beperking) tot en met 4 (ernstige of dagelijks voorkomende beperkingen). De ernst of frequentie van de beperking is per klasse nader gedefinieerd. De scores van alle subrubrieken, behorend tot dezelfde rubriek, worden bij elkaar opgeteld en vervolgens gedeeld door het aantal subrubrieken. Voor rubriek 1 moet dus worden gedeeld door drie. Op deze wijze wordt de rubriekscore verkregen.
+
+Alle rubriekscores worden vervolgens bij elkaar opgeteld en daarna gedeeld door vier. Dit getal wordt lineair vertaald naar het invaliditeitspercentage.
+
+### Bijlage 1 — Beoordelingslijst vastleggen psychische beperkingen
+
+Opmerkingen vooraf
+
+Deze lijst is ontwikkeld voor het vastleggen van de psychische beperkingen in het kader van de invaliditeitsbeoordeling. De lijst is exclusief voor gebruik door een terzake deskundig arts. Het invullen van de scoringslijst is telkens het resultaat van een verzekeringsgeneeskundig onderzoek met een rapportage waarin de bevindingen en overwegingen duidelijk zijn verwoord.
+
+De activiteiten en de hierbij behorende functionele mogelijkheden of beperkingen zijn ingedeeld in rubrieken en subrubrieken. De ernst van de beperkingen is onderverdeeld in vijf klassen, lopend van 0 (geen beperking) tot en met 4 (ernstige of dagelijks voorkomende beperkingen). De ernst of frequentie van de beperking is per klasse nader gedefinieerd.
+
+In de beschrijving van de subrubriek staat beschreven wanneer gesproken kan worden van geen beperkingen. In enkele beschrijvingen is aangegeven vanaf wanneer er gesproken kan worden van beperkingen.
+
+Allereerst worden de beperkingen per subrubriek vastgesteld en genoteerd. Vervolgens wordt per rubriek de subscore bepaald door de scores van de subrubrieken bij elkaar op te tellen en de som te delen door het desbetreffende aantal subrubrieken. Daarna worden de subscores van de vier rubrieken bij elkaar opgeteld en gedeeld door vier. Dit getal is een getal tussen de 0-4 en komt lineair overeen met een percentage tussen de 0-100%. Zo wordt een gemiddelde rubriekscore van 0,25 herleid naar een invaliditeitspercentage van 6,25% en een gemiddelde rubriekscore van 1,83 naar een invaliditeitspercentage van 45,75%.
+
+Voor de subrubrieken geldt naast de specifieke beschrijving tevens het volgende:
+
+- − Beperkingen mogen alleen worden geduid als er een causaal verband is tussen de aandoening en de bijzondere of buitengewone dienstverrichtingen.
+- − Beperkingen mogen alleen worden gescoord als deze op psychische gronden verklaard kunnen worden.
+- − In het kader van dit protocol blijven activiteiten die door lichamelijke beperkingen verminderd kunnen zijn, buiten beschouwing. Deze worden beoordeeld met het protocol voor lichamelijke aandoeningen.
+- − Beperkingen dienen plausibel en consistent te zijn.
+- − Alle klassen: het gaat om verlies aan functioneren. Beperkingen mogen alleen worden gescoord indien de mogelijkheid eerder wel aanwezig is geweest.
+- − Wanneer er binnen een (1) subrubriek beperkingen zijn in verschillende klassen, wordt de hoogste klasse toegekend.
+- − Leeftijd en de hiermee gepaard gaande vermindering van het functioneren, dienen als matigende factor te worden meegewogen.
+- − Stress gerelateerde lichamelijke spanningsklachten die leiden tot beperkingen, kunnen worden meegewogen.
+
+<table>
+<tr><th colspan="5">1. Activiteiten van het dagelijks leven</th></tr>
+<tr><td colspan="5"><b>Subrubriek 1 Zelfzorg en huishoudelijke taken</b></td></tr>
+<tr><td colspan="5">Beschrijving: Deze subrubriek beschrijft de zelfredzaamheid ten aanzien van algemeen dagelijkse levensverrichtingen betreffende wassen en aankleden, eten en drinken, inname van medicatie en persoonlijke hygiëne en daarbij ook de zelfredzaamheid bij de uitvoering van de meest primaire huishoudelijke dagelijkse levensverrichtingen, handelingen noodzakelijk voor het voeren van een huishouden, koken, kleren wassen en schoonmaken van het huis. Hierbij is voldoende concentratie, initiatief en probleemoplossend vermogen nodig.</td></tr>
+<tr><td>Score</td><td colspan="2">Klasse</td><td colspan="2">Beschrijving kenmerken klasse</td></tr>
+<tr><td>0</td><td colspan="2">Klasse 0</td><td colspan="2">Er zijn geen beperkingen in de zelfzorg en het verrichten van huishoudelijke taken.</td></tr>
+<tr><td>1</td><td colspan="2">Klasse 1</td><td colspan="2">Onderkent dat zelfzorg en/of huishoudelijke taken tekortschieten, maar kan het zelf grotendeels corrigeren, zo nodig met aansporing van anderen. Geen hulp of begeleiding nodig.</td></tr>
+<tr><td>2</td><td colspan="2">Klasse 2</td><td colspan="2">Er is hulp of begeleiding nodig bij zelfzorg en/of huishoudelijke taken. De aard van de hulp of begeleiding is substantieel.</td></tr>
+<tr><td>3</td><td colspan="2">Klasse 3</td><td colspan="2">Er is professionele zorg nodig. Bijvoorbeeld met eten klaarmaken of boodschappen halen. In zijn algemeenheid is dit betaalde hulp.</td></tr>
+<tr><td>4</td><td colspan="2">Klasse 4</td><td colspan="2">Er is meerdere keren per week tot dagelijks professionele begeleiding nodig, bijvoorbeeld met PGB indicatie.</td></tr>
+<tr><td colspan="5"><b>Subrubriek 2 Mobiliteit</b></td></tr>
+<tr><td colspan="5">Beschrijving: Deze subrubriek beschrijft het vermogen om zich op normale wijze, overal naar toe te verplaatsen met behulp van één van de gebruikelijke vervoermiddelen, zoals auto, fiets en openbaar vervoer. Op normale wijze betekent op alle momenten van de dag, ook tijdens drukte zoals de spits, over bekende en onbekende routes, binnen en buiten de woonplaats.<br>Begeleiding kan bestaan uit familie of bekenden die meerijden of die besturen. Begeleiding moet substantieel zijn en voorwaardelijk. Gebruik van taxi of patiëntenvervoer tijdens intensieve behandeling wordt hier buiten beschouwing gelaten.</td></tr>
+<tr><td>Score</td><td colspan="2">Klasse</td><td colspan="2">Beschrijving kenmerken klasse</td></tr>
+<tr><td>0</td><td colspan="2">Klasse 0</td><td colspan="2">Er zijn geen beperkingen in de mobiliteit. Kan zelfstandig van A naar B reizen.</td></tr>
+<tr><td>1</td><td colspan="2">Klasse 1</td><td colspan="2">Kan niet altijd normaal van A naar B reizen. Bijvoorbeeld niet op alle uren van de dag of niet alle afstanden. Kan dit dan wel zelfstandig.</td></tr>
+<tr><td>2</td><td colspan="2">Klasse 2</td><td colspan="2">Kan wel op normale wijze van A naar B reizen, maar heeft hierbij begeleiding nodig. Begeleiding kan bestaan uit een familielid of bekende die meerijdt. Reizen met een taxi wordt hier onder gerekend wanneer de cliënt alleen kan reizen met een taxi</td></tr>
+<tr><td>3</td><td colspan="2">Klasse 3</td><td colspan="2">Kan ondanks begeleiding niet altijd op normale wijze van A naar B reizen. Bijvoorbeeld niet op alle uren van de dag of alle afstanden.</td></tr>
+<tr><td>4</td><td colspan="2">Klasse 4</td><td colspan="2">Kan ondanks begeleiding nauwelijks reizen.</td></tr>
+<tr><td colspan="5"><b>Subrubriek 3 Slapen</b></td></tr>
+<tr><td colspan="5">Beschrijving: Deze subrubriek beschrijft hoe iemand slaapt en wakker wordt. De slaap is voor elke persoon verschillend. Dat geldt voor de tijd die iemand nodig heeft om in slaap te vallen, de inslaaptijd en of iemand wel of niet tussendoor wakker wordt voor bijvoorbeeld toiletbezoek en hoeveel tijd het kost om weer in te slapen, het doorslapen. Verder varieert de lengte van de benodigde slaap voor iedereen en ook met de leeftijd.<br>De slaap is niet elke dag hetzelfde en iemand kan in het algemeen prima functioneren na een periode van minder goede slaap zonder overmatige slaperigheid of op ongelegen momenten in slaap vallen. Dromen en nachtmerries komen vaak voor en meestal worden deze weer snel vergeten en iemand slaapt snel weer in.<br>Bij het scoren van beperkingen wordt rekening gehouden met de inslaaptijd, het doorslapen en de frequentie van nachtmerries. Het gebruik van slaapmedicatie is bij de beoordeling van de beperkingen geen noodzakelijke voorwaarde. Iemand kan om diverse redenen slaapmedicatie niet kunnen of willen gebruiken, bijvoorbeeld vanwege bijwerkingen.</td></tr>
+<tr><td colspan="2">Score</td><td colspan="2">Klasse</td><td>Beschrijving kenmerken klasse</td></tr>
+<tr><td colspan="2">0</td><td colspan="2">Klasse 0</td><td>Geen in- of doorslaapproblemen als gevolg van de dienstverbandaandoening.</td></tr>
+<tr><td colspan="2">1</td><td colspan="2">Klasse 1</td><td>Heeft sporadisch, niet vaker dan eenmaal per week, moeite met inslapen, bijvoorbeeld vanwege anticipatie-angst voor nachtelijke herbelevingen en/of moeite met doorslapen, bijvoorbeeld door hyperarousal en/of nachtmerries als gevolg van de dienstverbandaandoening. Heeft geen moeite om de dagelijkse activiteiten vol te houden en heeft geen noodzaak tot slapen overdag.</td></tr>
+<tr><td colspan="2">2</td><td colspan="2">Klasse 2</td><td>Heeft soms, niet elke nacht, moeite met inslapen, bijvoorbeeld vanwege anticipatie-angst voor nachtelijke herbelevingen en/of moeite met doorslapen, bijvoorbeeld door hyperarousal en/of nachtmerries als gevolg van de dienstverbandaandoening. Slaapt soms, niet elke nacht onrustig. Heeft enige moeite om gebruikelijke dagelijkse activiteiten vol te houden, maar kan ze wel aan. Heeft geen noodzaak voor slapen overdag.</td></tr>
+<tr><td colspan="2">3</td><td colspan="2">Klasse 3</td><td>Heeft meerdere keren per week moeite met in slaap vallen Heeft meerdere keren per week moeite met doorslapen, bijvoorbeeld door hyperarousal en/of nachtmerries als gevolg van de dienstverbandaandoening. Slaapt vaak onrustig. Heeft daarom moeite om gebruikelijke dagelijkse activiteiten vol te houden maar kan ze wel aan. Heeft regelmatig tussendoor slaap nodig.</td></tr>
+<tr><td colspan="2">4</td><td colspan="2">Klasse 4</td><td>Er is sprake van een verstoord slaappatroon of dag- en nachtritme. Staat niet goed uitgerust op, waardoor dagelijks gebruikelijke activiteiten niet zonder meer uitgevoerd kunnen worden. Heeft meerdere keren per week slaap overdag nodig. Valt soms ongewild op ongelegen momenten in slaap.</td></tr>
+<tr><td colspan="5"><b>Rubriek 1 subscore: (score subrubriek 1 + subrubriek 2 + subrubriek 3) : 3 = getal A</b></td></tr>
+</table>
+
+<table>
+<tr><th colspan="3">2. Cognitief functioneren</th></tr>
+<tr><td colspan="3"><b>Subrubriek 4 Structuur aanbrengen en concentratie</b></td></tr>
+<tr><td colspan="3">Beschrijving: Deze subrubriek beschrijft de mogelijkheden die iemand heeft om meer complexe taken in het dagelijks leven uit te voeren, bijvoorbeeld planning van activiteiten, het overzicht hebben in en kunnen bijhouden van de administratie zoals financiën, het volgen van opleidingen, het doen van klussen, etc. Iemand kan dit doelmatig uitvoeren en binnen de gebruikelijke tijd. Doelmatig betekent inzicht wanneer de taak niet volbracht kan worden en zo nodig aanpassen van de acties. Hiervoor is inzicht en concentratie nodig, maar ook de mogelijkheid om zich aan te passen wanneer iets niet lukt of wanneer er tegenslagen zijn.</td></tr>
+<tr><td>Score</td><td>Klasse</td><td>Beschrijving kenmerken klasse</td></tr>
+<tr><td>0</td><td>Klasse 0</td><td>Heeft voldoende concentratie en aandacht om zelfstandig de meer complexe taken in het dagelijks leven in de daarvoor gebruikelijke tijd en doelmatig te voltooien. Kan zich concentreren op een boek, beeldscherm, krant en herinnert zich tijdig relevante zaken. Kan ook de aandacht zo nodig verdelen over meerdere informatiebronnen.</td></tr>
+<tr><td>1</td><td>Klasse 1</td><td>Heeft niet altijd voldoende concentratie en aandacht waardoor de meer complexe taken meer tijd kosten. Herkent dit en kan zelf tijdig actie nemen bijvoorbeeld uitstel vragen of taken prioriteren. Kan zich minder goed concentreren, onderkent dit en maakt gebruik van eenvoudige oplossingen bijvoorbeeld een takenlijst.</td></tr>
+<tr><td>2</td><td>Klasse 2</td><td>Kan chaotisch zijn waardoor taken worden vergeten of uitgesteld. Ondanks gebruik van hulpmiddelen bijvoorbeeld een takenlijst, worden taken soms te laat of niet gedaan. Onderkent dit maar heeft soms hulp nodig om dit te corrigeren. Kan verder zelfstandig functioneren.</td></tr>
+<tr><td>3</td><td>Klasse 3</td><td>Heeft onvoldoende concentratie en aandacht, waardoor taken niet worden uitgevoerd. Herkent dit niet altijd zelf en heeft daarom regelmatig begeleiding en aansporing nodig. Kan met deze structurele hulp nog wel zelfstandig functioneren.</td></tr>
+<tr><td>4</td><td>Klasse 4</td><td>Heeft vrijwel dagelijks moeite om taken uit te voeren, kan dit niet zelfstandig en is vrijwel volledig afhankelijk van hulp of ondersteuning.</td></tr>
+<tr><td colspan="3"><b>Rubriek 2 subscore: score subrubriek 4 = getal B</b></td></tr>
+</table>
+
+<table>
+<tr><th colspan="5">3. Sociaal functioneren</th></tr>
+<tr><td colspan="5"><b>Subrubriek 5 Persoonlijke en intieme relaties</b></td></tr>
+<tr><td colspan="5">Beschrijving: Deze subrubriek beschrijft het kunnen aangaan en onderhouden van relaties met affectie met bijvoorbeeld partner, kinderen of andere familieleden. Hierbij worden de als gebruikelijk geziene uitingen zoals knuffelen, aaien en aanraken beoordeeld ten opzichte van de periode voordat er sprake was van de dienstverbandaandoening. Seksuele intimiteit valt ook in deze subrubriek. NB Bij alle rubrieken, maar zeker bij deze rubriek, is het van belang niet alleen het verhaal van de cliënt te volgen, maar ook de input van de naaste mee te nemen.</td></tr>
+<tr><td colspan="2">Score</td><td colspan="2">Klasse</td><td>Beschrijving kenmerken klasse</td></tr>
+<tr><td colspan="2">0</td><td colspan="2">Klasse 0</td><td>Kan relaties met partner, gezin en familie onderhouden. Gaat respectvol en zorgzaam om met personen die nabij staan.<br>Heeft geen beperkingen ten aanzien intimiteit en seksualiteit.</td></tr>
+<tr><td colspan="2">1</td><td colspan="2">Klasse 1</td><td>Is incidenteel minder respectvol en zorgzaam omgaan met personen die nabij staan, bijvoorbeeld uitend in verbale agressie. Heeft enige moeite ten aanzien van affectie en intimiteit. Kan nog wel genieten van knuffelen en aanraken van personen die nabij staan, zoals partner, kinderen of huisdieren, maar minder vaak of minder intens dan voor het ontstaan van de psychische aandoening. Initieert de intimiteit ook zelf. Heeft een iets verminderde seksuele behoefte, zich uitend in verminderd initiatief, hetgeen door betrokkene als probleem wordt ervaren.</td></tr>
+<tr><td colspan="2">2</td><td colspan="2">Klasse 2</td><td>Kan regelmatig, wekelijks, minder respectvol en zorgzaam zijn, bijvoorbeeld door verbale agressie. Knuffelen of aaien komt niet uit zichzelf, maar wordt geïnitieerd door personen die nabij staan zoals partner of kinderen. Kan daarvan nog wel genieten. Heeft verminderde seksuele behoefte, zich uitend in verminderd initiatief, hetgeen door betrokkene als probleem wordt ervaren.</td></tr>
+<tr><td colspan="2">3</td><td colspan="2">Klasse 3</td><td>Is zeer regelmatig, vrijwel dagelijks, minder respectvol of zorgzaam, bijvoorbeeld door verbale agressie en soms ook fysieke agressie. Knuffelt nog wel of laat zich aanraken, maar voelt daarbij nauwelijks tot geen warmte of genegenheid. Er is sterk verminderde seksuele behoefte, zich uitend in verminderd initiatief, hetgeen door betrokkene als probleem wordt ervaren. Er zijn soms nog wel lustgevoelens.</td></tr>
+<tr><td colspan="2">4</td><td colspan="2">Klasse 4</td><td>Is dagelijks verbaal en fysiek agressief. Verdraagt nauwelijks enige aanraking en gaat dit uit de weg. Geen enkele seksuele behoefte meer.</td></tr>
+<tr><td colspan="5"><b>Subrubriek 6 Sociale activiteiten / sociaal functioneren</b></td></tr>
+<tr><td colspan="5">Beschrijving: Deze subrubriek beschrijft het geheel aan gedragingen wat sociaal functioneren mogelijk maakt, bijvoorbeeld het vermogen om contact te leggen met vrienden, kennissen, mensen uit de buurt, instanties, autoriteiten (gezag) en onbekenden. Het gaat ook om het participeren in groepsverband zoals verenigingen en maatschappelijke participatie en zingeving en het hebben van recreatieve activiteiten.<br>Bij psychische problematiek kunnen er problemen ontstaan in gedragingen die te maken hebben met eigen gevoelens uiten zoals onvoorspelbaar gedrag, zelf agressie uitlokken of moeite met het hanteren van conflicten bijvoorbeeld bij agressie van anderen of bij problemen met instanties. Ook kunnen er problemen zijn met het inlevingsvermogen naar anderen zoals meevoelen en meedenken.</td></tr>
+<tr><td>Score</td><td colspan="2">Klasse</td><td colspan="2">Beschrijving kenmerken klasse</td></tr>
+<tr><td>0</td><td colspan="2">Klasse 0</td><td colspan="2">Geen moeite in de omgang met buren, vrienden en kennissen. Kan de eigen gevoelens uiten en met anderen samenwerken. Kan met instanties communiceren. Heeft een normale conflicthantering. Kan zich op normale wijze uiten.</td></tr>
+<tr><td>1</td><td colspan="2">Klasse 1</td><td colspan="2">Heeft minder vrienden en kennissen dan voorheen, heeft nog wel goed contact met buren. Minder deelname aan sport, club of vereniging. Heeft afspraken nodig bij samenwerken. Gaat onbekenden liever uit de weg. Heeft enige moeite met de communicatie met instanties, maar dit lukt wel. Kan gedrag zelf corrigeren. Heeft geen hulp nodig.</td></tr>
+<tr><td>2</td><td colspan="2">Klasse 2</td><td colspan="2">Heeft nog weinig vrienden en kennissen over. Hoofdzakelijk solistische hobby’s. Heeft duidelijke afspraken nodig bij samenwerken. Heeft moeite met de communicatie met instanties. Raakt snel geprikkeld en blijft er in gedachten nog lang mee bezig. Kan gedrag niet altijd zelf corrigeren. Heeft bij sommige activiteiten hulp nodig.</td></tr>
+<tr><td>3</td><td colspan="2">Klasse 3</td><td colspan="2">Heeft vrijwel geen vrienden of kennissen. Kan vrijwel niet samenwerken. Heeft zelden nog recreatieve activiteiten, alleen solistische of geen hobby’s. Raakt snel in conflict en heeft daardoor ook wel contacten met politie en justitie. Kan gedrag moeilijk corrigeren. Heeft bij veel activiteiten hulp nodig.</td></tr>
+<tr><td>4</td><td colspan="2">Klasse 4</td><td colspan="2">Er is niets in groepsverband mogelijk. Geen recreatieve activiteiten. Veel conflicten, bij herhaling contacten met politie en justitie. Is in zeer geringe mate te corrigeren. Heeft dagelijks hulp nodig. Of er zijn gestoorde percepties of gestoorde zintuigelijke waarnemingen (zoals hallucinaties, wanen).</td></tr>
+<tr><td colspan="5"><b>Rubriek 3 subscore: (score subrubriek 5 + subrubriek 6) : 2 = getal C</b></td></tr>
+</table>
+
+<table>
+<tr><th colspan="3">4. Adaptatie aan stressvolle gebeurtenissen</th></tr>
+<tr><td colspan="3"><b>Subrubriek 7 Omgaan met stressvolle gebeurtenissen</b></td></tr>
+<tr><td colspan="3">Beschrijving: Deze subrubriek beschrijft het vermogen om onder spanning de gebruikelijke levensactiviteiten vol te houden en taken tot een goed einde te brengen. Het is niet ongebruikelijk om even van slag te zijn bij spanningen of life-events, maar mensen kunnen na een periode weer door met de normale levensactiviteiten zoals voorheen en hebben daar dan geen verdere hulp bij nodig. Een periode van professionele begeleiding om life-events beter te kunnen verwerken, wordt niet als beperking gezien wanneer de begeleiding tijdelijk is en leidt tot herstel en het weer kunnen oppakken van de levensactiviteiten. Het gaat hier niet om de reguliere behandeling voor de primaire psychische aandoening.</td></tr>
+<tr><td>Score</td><td>Klasse</td><td>Beschrijving kenmerken klasse</td></tr>
+<tr><td>0</td><td>Klasse 0</td><td>Heeft het vermogen om reguliere levensactiviteiten te ondernemen en de verantwoordelijkheden te dragen die bij de ontwikkeling en de leefomstandigheden van betrokkene als passend beschouwd worden (bijvoorbeeld t.a.v. werk en gezin). De spanning van alledaagse meer of minder stressvolle omstandigheden en kleine tegenslagen ontregelen betrokkene niet buitensporig en betrokkene kan zich in een dergelijk geval herpakken en activiteiten kunnen worden voortgezet.</td></tr>
+<tr><td>1</td><td>Klasse 1</td><td>Heeft soms, niet elke dag, moeite om onder de spanning van alledaagse stress bovengenoemde activiteiten vol te houden. Raakt gemakkelijk geïrriteerd bij kleine, frequent voorkomende tegenslagen en/of is meer en langer van slag bij life-events dan voorheen. Mijdt confrontaties, maar kan deze doorgaans wel aan. Onderkent het probleem en kan het zelf corrigeren/compenseren. Heeft geen hulp of begeleiding nodig.</td></tr>
+<tr><td>2</td><td>Klasse 2</td><td>Heeft vrijwel dagelijks moeite om onder de spanning van alledaagse stress reguliere activiteiten vol te houden. Is van slag bij kleine tegenslagen. Stelt taken en beslissingen uit. Onderkent dit probleem, maar kan dit niet steeds zelf compenseren. Heeft hulp of begeleiding nodig maar niet structureel. Kan verder zelfstandig functioneren.</td></tr>
+<tr><td>3</td><td>Klasse 3</td><td>Kan gestelde taken, verantwoordelijkheden en verplichtingen zonder hulp niet meer aan of verzaakt verregaand verantwoordelijkheden en verplichtingen waardoor anderen deze (ouden) moeten overnemen. Heeft moeite met het nemen van zelfstandige beslissingen maar hoeft de regie niet volledig over te geven aan een ander. Heeft voortdurend professionele hulp of begeleiding nodig.</td></tr>
+<tr><td>4</td><td>Klasse 4</td><td>Is niet meer in staat om taken te vervullen of beslissingen te nemen. Heeft voortdurend zorg en hulp nodig. Kan niet zelfstandig functioneren.</td></tr>
+<tr><td colspan="3"><b>Rubriek 4 subscore: score rubriek 7 = getal D</b></td></tr>
+</table>
+
+| |
+| --- |
+| **Gemiddelde rubriekscore: (getal A + getal B + getal C + getal D) : 4 = getal E** |
+| **Invaliditeitspercentage: (getal E x 100) : 4 = ..%** |
+
+## Bijlage 3
+
+### MUPS/LOK Protocol WIA, Dienstverband en Invaliditeit beoordeling bij militairen met ‘medical unexplained physical symptoms’ (MUPS) of lichamelijk onverklaarde chronische klachten (LOK) na uitzending
+
+Dit protocol is opgebouwd uit twee delen:
+
+- 1. een beschrijvend deel, waarin de diagnostiek, de behandeling, het dienstverband, de causaliteit en de verzekeringsgeneeskundige beoordeling van MUPS/LOK bij militairen na uitzendingen wordt verwoord.
+- 2. drie bijlagen met een beschrijving van de LOK-poli, de beoordelingslijst voor het vastleggen van de beperkingen bij militairen met MUPS/LOK na uitzending en een bureaulegger voor de verzekeringsgeneeskundige beoordeling .
+
+Beide delen zijn onlosmakelijk met elkaar verbonden.
+
+Dit protocol is auteursrechtelijk beschermd. Het is niet toegestaan dit werk zonder toestemming van het Ministerie van Defensie openbaar te maken of te vermenigvuldigen.
+
+Artsen die met dit protocol willen werken moeten hiervoor specifieke scholing hebben gevolgd.
+
+Dit protocol is opgesteld door:
+
+- – J.H. Paulusma-de Waal, arts beleid en advies, RGA, Internist n.p. Medisch adviseur sociaal medisch beleid Ministerie van Defensie.
+- – Kolonel-arts dr. E. Vermetten, psychiater, hoofd wetenschappelijk onderzoek MGGZ Defensie. Voorzitter NATO HFM (Human Factors in medicine) MUPS
+- – S. Knepper, Centraal stafverzekeringsarts kwaliteitsborging UWV, RGA, Medisch adviseur UWV, Lid commissies Donner I en II, Lid Raad van Advies Medisch Contact.
+
+Externe adviseurs:
+
+- – Prof. Dr. G.F. Koerselman, hoogleraar psychiatrie Universitair Medisch Centrum Utrecht, afdeling Psychiatrie Academisch Ziekenhuis Utrecht.
+- – Prof. Dr. J.H.B.M. Willems, bedrijfsarts, bijzonder hoogleraar sociale verzekeringsgeneeskunde Universiteit van Amsterdam.
+
+#### Aanvulling op WIA-IP protocol Defensie
+
+Dit MUPS/LOK protocol dient te worden gezien als een aanvulling op het WIA-IP protocol 2007 van Defensie. De aanvullingen betreffen voornamelijk de diagnosestelling, de causaliteit en de verzekeringsgeneeskundige onderzoeksbevindingen. Het duiden van de beperkingen in het kader van de invaliditeitsbeoordeling krijgt hierbij de bijzondere aandacht. Onderstaand wordt de aanvullingen schematisch weergegeven.
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026218/2026-07-01_0/xml/245032.png)
+
+### MUPS/LOK Protocol WIA, Dienstverband en Invaliditeit beoordeling bij militairen met ‘medical unexplained physical symptoms’(MUPS)/lichamelijk onverklaarde chronische klachten (LOK) na uitzending
+
+#### **Voorwoord**
+
+Dit protocol is een eerste aanzet om de verzekeringsgeneeskundige, de dienstverband- (DV) en de invaliditeitbeoordeling (IP) te harmoniseren. Het is ontwikkeld voor de beoordeling van militairen met lichamelijk onverklaarde chronische klachten (LOK) na uitzendingen en te beschouwen als een aanvulling op het WIA-IP protocol van Defensie.
+
+Het MUPS/LOK protocol gaat in op de relevante diagnostische criteria en behandelingen. Ook worden handvatten voor de causaliteitsvraag (wel of niet door de uitzending ontstaan?) gegeven. Het protocol beschrijft vooral een methode voor de vertaling van de klachten naar hierdoor veroorzaakte beperkingen en geeft richtlijnen voor het vaststellen van het invaliditeitspercentage.
+
+De Gezondheidsraad heeft recent (2007) het WIA protocol ‘CVS’ (chronisch vermoeidheidsyndroom) gepubliceerd, waarin ook de MUPS/LOK bij militairen na uitzending wordt genoemd. Het voorliggende MUPS/LOK protocol sluit hierbij aan maar brengt bovendien de beoordeling van de militaire invaliditeit in beeld met concrete richtlijnen voor het vastleggen van de causaliteit, de beperkingen en het schatten van het invaliditeitspercentage. Het protocol ‘CVS’ bevat elementen die tevens kunnen worden gebruikt bij de verzekeringsgeneeskundige WIA-IP beoordeling. In dit MUPS/LOK protocol wordt hiernaar in voorkomende gevallen verwezen.
+
+De wetenschappelijke kennis en bewijsvoering over MUPS/LOK bij militairen na uitzending is nog niet groot. Daarom zal in het protocol gebruik gemaakt worden van ‘good practise’ ervaringen.
+
+Dit protocol moet uitdrukkelijk worden gezien als een groeidocument. Voortschrijdend inzicht en mediprudentie (praktijk voorbeelden) van het beschreven beoordelingsinstrument dienen te zijner tijd in dit protocol te worden verwerkt.
+
+Den Haag, Oktober 2007
+
+J.H. Paulusma-de Waal, projectleider.
+
+#### 1 — **MUPS/LOK Protocol**
+
+(Medical unexplained physical symptoms (MUPS)/Lichamelijk Onverklaarde Chronische Klachten bij militairen (LOK) na uitzendingen)
+
+##### 1.1 — Inleiding
+
+Onverklaarde lichamelijke klachten komen veel voor. Op een willekeurig moment heeft ongeveer 20–35% van alle mensen die daarnaar wordt gevraagd de afgelopen twee weken last gehad van moeheid, hoofdpijn, slecht slapen, pijn in de nek, rugpijn of nervositeit (Ned. Inst. v. onderzoek van de gezondheidszorg). Deze klachten kunnen meestal niet aan een lichamelijke aandoening worden toegeschreven en verdwijnen doorgaans vanzelf. Soms is dat ook na langere tijd niet het geval. Mensen met dergelijke klachten zullen dan vaak een arts raadplegen uit ongerustheid. Een enkele keer leidt nader onderzoek tot een diagnose die moeilijk te stellen was vanwege de lage prevalentie van een betrokken aandoening. Maar een deel van de klachten blijft ook na uitgebreid onderzoek onverklaarbaar. De klachten worden dan geduid als ‘e causa ignota’, dat wil zeggen zonder bekende of aanwijsbare oorzaak.
+
+In psychologische of sociale context zijn echter frequent factoren aanwijsbaar, die begrijpelijk maken waarom deze klachten een chronisch karakter hebben gekregen.
+
+Onderzoek naar die context blijft in de gezondheidszorg (Gezondheidsraad 3-B richtlijnen juli 2005) meestal achterwege. De medische vaklitteratuur spreekt dan over een patiënt met onbegrepen koorts, mondbranden, globus gevoel, chronische vermoeidheid en/of andere niet te duiden klachten. Deze klachten leiden vaak nog wel tot symptoomdiagnoses/syndromale beelden. De medische terminologie is echter weinig eenduidig. Er wordt gesproken over ‘lichamelijk onverklaarde klachten’. Deze kwalificatie suggereert andere niet lichamelijke oorzaken, waarvan echter geen sprake hoeft te zijn. Artsen kwalificeren dergelijke klachten vaak als subjectief, functioneel, somatoform, onderdeel van alexithymie of reeël. Meestal voegen ook die kwalificaties niet veel toe.
+
+Zo heeft het begrip ‘subjectieve klachten’ geen toegevoegde waarde omdat klachten per definitie tot het domein van de patiënt behoren en dus subjectief zijn. Van ‘functionele klachten’ zou eigenlijk alleen gesproken mogen worden wanneer de onderzoeker die functionaliteit concreet benoemt. Bijvoorbeeld buikpijn bij een kind dat niet naar school wil. Dat gebeurt echter zelden. Vaak worden onverklaarde klachten geduid als ‘somatisatie’, wanneer een relatie gelegd kan worden met stress. Daar is op zichzelf niets tegen, maar wel wanneer dat gebeurt zonder dat een dergelijke relatie aannemelijk gemaakt wordt. Een verwante term in dit verband is ook alexithymie of wel: ‘gevoelens niet onder woorden kunnen brengen’. Deze gevoelens worden vervolgens dan vertaald in lichamelijke sensaties. De term ‘reële klachten’ impliceert een moreel oordeel terwijl de onderzoeker om een vakkundig oordeel is gevraagd.
+
+##### 1.2 — Begripsbepaling
+
+Meestal benoemt de geneeskunde lichamelijke onverklaarde klachten zonder ze in hun psychologische, sociale of medisch causale context te interpreteren. Doorgaans wordt dan een beschrijvende symptoomdiagnose/syndromaal beeld toegekend om de klachten in elk geval te classificeren. Daarmee brengt de arts tot uitdrukking klachten te (h)erkennen als een vaker voorkomend of bekend fenomeen. Dat wekt de suggestie dat er sprake is van een circumscripte aandoening, maar het is de vraag of daarvan daadwerkelijk sprake is (Van der Gulden JW 2006 ). De benoeming van symptoomdiagnoses/syndromale beelden is vaak sterk afhankelijk van de context, waaronder het specialisme van de betrokken arts en de zelfdiagnostiek van de patiënt. Mede daardoor bestaat een aanzienlijke overlap tussen deze verschillende, lichamelijk onverklaarde symptoomdiagnoses/syndromale beelden. Deze overlap betreft vooral klachten als vermoeidheid, verminderde inspanningstolerantie, gestoorde slaap, prikkelbaarheid, afgenomen geheugen en concentratie.
+
+In onze definitie wordt gesproken van ‘lichamelijk onverklaarde klachten’ (LOK) wanneer, na een langere periode (zes maanden), geen afdoende medische verklaring is gevonden, ook niet in psychiatrische classificatie. Daarbij ligt het accent op chronische belemmeringen bij maatschappelijke participatie (Maassen H. 2006). Doorgaans zal dat ook de aanleiding zijn geweest om in het kader van een invaliditeitsuitkering een claim in te dienen.
+
+*Hierbij wordt een belangrijke kanttekening geplaatst: Lichamelijk onverklaarde klachten kennen raakvlakken met somatoforme stoornissen. Het onderscheid tussen de aandoeningen is in strikt psychiatrische zin soms niet te maken. Bij LOK-beelden kunnen theoretisch alle DSM -IV criteria van de somatoforme stoornis aanwezig zijn zonder dat deze diagnose wordt overwogen/gesteld. In het algemeen spreekt men niet van een somatoform beeld, ondanks aanwezigheid van de desbetreffende DSM -IV criteria, als de symptomen kenmerkend zijn voor een LOK-beeld. Uiteraard mogen psychische klachten bij dit LOK beeld niet op de voorgrond staan, maar min of meer op de achtergrond. Een psychiatrische diagnose is dan niet nodig, temeer daar de behandeling en begeleiding van LOK-beelden en de somatoforme stoornissen in grote lijnen hetzelfde zijn.*
+
+*Deze kanttekening is overal in de tekst, waar vrij vertaald, gesproken wordt over ‘uitsluiten van psychiatrische diagnoses’, van toepassing.*
+
+Feitelijk moet de aanduiding lichamelijk onbegrepen klachten (LOK) worden gezien als een zogenaamd ‘container begrip’. Onder dit LOK-begrip vallen onder andere vele syndromale en/of circumscripte symptoom diagnoses (zie nadere begripsomschrijving). Al deze symptoomdiagnoses omvatten klachten die volgens de vaklitteratuur weliswaar onbegrepen zijn, maar in elk geval niet toegeschreven worden aan een militaire uitzending. Onder het begrip LOK valt ook het specifieke complex van onverklaarde aspecifieke klachten voorkomend bij militairen na uitzendingen. Slechts dit specifieke complex kan eventueel – na grondige beoordeling – als een uitzend gerelateerde aandoening gezien worden. Onderstaand, en in de operationele definitie, wordt hierop uitgebreid ingegaan.
+
+Ter verduidelijking van dit container begrip kan een parallel worden getrokken met bijvoorbeeld hartaandoeningen: onder dit begrip vallen vele diagnoses (hartinfarct, lekkende klep, verdikte hartspier, ontsteking binnenwand hart, ontsteking hartzakje etc. etc). Een verhoogd cholesterolgehalte kan een hartinfarct en dus een hartaandoening veroorzaken. Dit wil niet zeggen dat elke hartaandoening door een verhoogd cholesterol wordt veroorzaakt. Zo dient ook de LOK problematiek bij militairen na uitzendingen te worden gezien: de uitzending kan een specifiek complex aan klachten geven, benoemd als een beeld vallend onder het LOK-begrip. Dit wil niet zeggen dat elk beeld vallend onder het LOK-begrip wordt veroorzaakt door een uitzending.
+
+Ter voorkoming van misverstanden worden in dit protocol de LOK klachten bij militairen na uitzendingen aangeduid als MUPS (Medical Unexplained Physical Symptoms). Dit om duidelijk aan te geven dat deze klachten na uitzendingen weliswaar een LOK relatie hebben, maar anderzijds toch een eigen specificiteit kennen.
+
+Overigens geldt voor alle LOK beelden dat de klachten chronisch aanwezig moeten zijn. Daarom zou eigenlijk voor het acroniem LOCK moeten worden gekozen. Om begripsverwarring te voorkomen wordt in dit protocol het acroniem LOK gehandhaafd.
+
+##### 1.3 — LOK na uitzendingen
+
+Terwijl de aandacht voor de posttraumatische stress stoornis (PTSS) binnen de diverse GGZ onderdelen van Defensie de laatste jaren in wetenschappelijk onderzoek en (na)zorg is omgezet, is tegelijkertijd bezorgdheid ontstaan over een toenemend aantal militairen met andere klachten. Het betreft klachten die vallen in de categorie ‘onverklaarde lichamelijke klachten – toegeschreven aan de uitzending’. Eerder gingen deze klachten ook rond onder de term ‘post-deployment syndroom’ (PDS) (De Loos, 2000; de Vries et al., 2001). Deze naamgeving veronderstelde een relatie met operationele uitzendingen. De ‘stoornis’ kreeg in de internationale literatuur bekendheid als Gulf War Syndrome (GWS). Dit is een descriptieve diagnose. Voor een Nederlandse populatie militairen is deze stoornis beschreven als ‘post-Cambodja klachtencomplex’ of ‘junglesyndroom’. De naam LOK na uitzendingen is een betere omschrijving dan de voorgaande beschrijvingen. Immers, een oorzakelijke/verklarende factor voor de klachten is nooit aangetoond en tevens ontbreekt het syndromale karakter van de klachten. Hiermee komt ook de naam ‘Medical Unexplained Physical Symptoms’ (MUPS) overeen, die meer recent nog door onderzoekers van Walter Reed Army Medical Center is geopperd en aansluit bij de internationale literatuur. Recent is een NATO panel gestart waarin verschillende NATO landen participeren om gezamenlijk een strategie te bedenken om de klachten aan te pakken. De laatste tien jaar zijn vele tientallen artikelen gepubliceerd over dit onderwerp.
+
+##### 1.4 — Operationele definitie
+
+MUPS/LOK bij militairen na uitzendingen zijn een restcategorie van klachten, toegeschreven aan de uitzending, waarvoor ondanks algemene medische diagnostiek geen verklaring bestaat. Het zijn derhalve ‘per exclusionem’ gediagnosticeerde klachten. In de beschreven literatuur wordt MUPS/LOK bij militairen na uitzendingen gekenmerkt door een *wisselend patroon* van aspecifieke klachten als chronische vermoeidheid, pijnlijke spieren en gewrichten, rug-, hoofd- en nekpijn, duizeligheid, buikklachten, geheugen- en concentratieklachten, slaapklachten, globusgevoel, overgevoeligheid voor licht en geluid, of niet aantoonbare allergieën. Het kenmerkende aan dit patroon is dat tegelijkertijd klachten van meerdere tot vele orgaansystemen voorkomen in wisselende combinaties (zie illustratie). Dit klachtencomplex bij MUPS/LOK bij militairen na uitzendingen is niet te vangen in een circumscript symptoom of specifiek (vast omschreven) syndromaal beeld. Lichamelijk onverklaarde klachten met een circumscript organisch karakter voldoen niet aan de eis dat er sprake moet zijn van een wisselend patroon en worden daarom niet als MUPS/LOK bij militairen na uitzendingen beschouwd. Voorbeelden hiervan zijn aspecifieke lage rugpijn en bekkeninstabiliteit. Dit zelfde geldt voor klachten waarvoor geen medische oorzaak aanwijsbaar is, maar waarvoor wel een medische verklaring wordt gegeven in de vorm van een specifieke, karakteristieke syndroomdiagnose, waarbij de symptomen een vast patroon kennen. Voorbeelden hiervan zijn het pijnsyndroom, het Chronisch vermoeidheidssyndroom (CVS), de fibromyalgie en het postwhiplash syndroom. Deze beelden/syndromen vallen **niet** onder de noemer ‘MUPS/LOK bij militairen na uitzendingen’. Immers, bij deze syndromen is er een logische samenhang waarbinnen de klachten herkenbaar zijn. Het uitzend gerelateerde bij militairen met MUPS/LOK na uitzendingen is overigens een attributioneel probleem. Immers de toevoeging na uitzending is retrospectief gemaakt door de patient en is niet goed te valideren.
+
+Definitie: *er is sprake van MUPS/LOK bij militairen na uitzendingen wanneer voor dergelijke klachten een somatische nóch psychiatrische afdoende verklaring is gevonden, deze klachten gedurende ten minste zes maanden het normale dagelijkse functioneren aanzienlijk hebben belemmerd en die niet zijn te vangen in een specifiek syndroom met een vast patroon of circumscript beeld. De patiënt attribueert ontstaan of verergering van de klachten aan de uitzending, wat niet noodzakelijkerwijs inhoudt dat er een oorzakelijk verband bestaat.*
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026218/2026-07-01_0/xml/245033.png)
+
+| | | |
+| --- | --- | --- |
+| a: vermoeid na opstaan | e: vergeetachtigheid | i: pijn zonder roodheid/zwelling |
+| b: prikkelgevoeligheid | f: gewrichtspijnen | |
+| c: hoofdpijn | g: concentratiestoornissen | |
+| d: insomnia | h: flatulentie | |
+
+Vrij naar bron: Ungar et al., 1999.
+
+Toelichting bij illustratie:
+
+- II: MUPS / LOK bij militairen na uitzendingen wordt gekenmerkt door het feit dat tegelijkertijd in veel meer verschillende klachtengebieden symptomen voorkomen.
+- III: MUPS / LOK bij militairen na uitzendingen wordt gekenmerkt door het feit dat de klachten in een veel hogere frequentie voorkomen dan in de normale populatie.
+
+#### 2 — **Enige epidemiologische gegevens**
+
+##### 2.1 — Algemeen
+
+Epidemiologische studies bij militairen beschrijven een heterogene populatie, maar met overeenkomstige symptomen (Kroenke 2003; Fukuda et al. 1998; Nisenbaum et al. 2000; Chalder et al. 2001; Reid et al. 2001; Voelker et al. 2002; Hoge et al., 2006). De stoornis is niet gerelateerd aan specifieke uitzendingen maar komt na diverse soorten uitzendingen voor. Het voorkomen ervan is bekend na uitzendingen naar verschillende geografische gebieden en bij verschillende NAVO missies. Bij diverse krijgsmachten van landen als de VS, Groot-Brittannië, Canada, Frankrijk en Nederland is MUPS/LOK bij militairen na uitzendingen beschreven. Hoewel eenduidige etiologie ontbreekt, is er wel een sterke overeenkomst tussen de uitgebreidheid van de gerapporteerde klachten na diverse missies. De prevalentiecijfers, variërend tussen 5 en 20%, zijn mede afhankelijk van de vraagstelling, het moment van afname, en de mate van anonimiteit (zie Tiesinga, 2000; De Vries, Soetekouw, et al. 2001).
+
+Van de Amerikaanse OIF (operation Iraque Freedom) en OEF (Operation Enduring Freedom) militairen hebben 250.000 een beroep gedaan op gezondheidsvoorzieningen. Van hen hadden 34.8% zogenaamde ‘ill defined conditions’ .
+
+##### 2.2 — Nederlands onderzoek
+
+Ook Nederland ziet zich geconfronteerd met militairen en veteranen die na uitzending melding maken van onverklaarde lichamelijke klachten met hoge medische consumptie en werkverzuim. In de Nederlandse situatie zijn symptoomcomplexen bekend na missies als Desert Shield/Desert Storm, UNTAC (Cambodja), en UNPROFOR (Lukavac, Bosnië), en DUTCHBAT (Srebrenica). Een pathofysiologisch substraat is ook na zorgvuldige diagnostiek niet gevonden (zie o.a. Mulder & Reijneveld, 1999; Soetekouw, De Vries, et al. 1999). De klachten worden in de regel aan de bedoelde operationele uitzending(en) toegeschreven omdat zij kortere of langere tijd erna zijn ontstaan. Ze reageren niet op geruststelling of vormen van klassieke symptoombestrijding en kunnen zich tot een chronische kwaal ontwikkelen met ernstige functionele beperkingen, o.a. resulterend in arbeidsongeschiktheid. Een schatting van de incidentie is moeilijk te maken. Bij een groep van 2700 Cambodja veteranen is aan de VU Amsterdam en de KU Nijmegen uitgebreid onderzoek gedaan naar mogelijke oorzakelijke factoren van de onverklaarde gezondheidsklachten (Soetekouw, De Vries, et al. 1999, de Vries, Soetekouw, et al. 2002). Microbiologisch, immunologisch, toxicologisch en vaccinatieonderzoek leverden geen aanwijzigen op voor oorzaken die de klachten konden verklaren. Wel werd een relatie gevonden met het activiteiten niveau, de inspanningstolerantie en het psychologisch functioneren Met name tekortkomingen in deze domeinen kwamen hierbij aan het licht.
+
+Recent is ook een studie gedaan naar de gezondheid bij Libanon veteranen door middel van een schriftelijke enquête. 1835 veteranen hebben gereageerd. Deze groep bleek, 25 jaar na dato, nog boven een normgemiddelde te liggen met betrekking tot klachten in het MUPS/LOK/PTSS-spectrum (Mouthaan, 2005). Ook de gezondheidsbeleving in het algemeen was lager dan het normgemiddelde voor een vergelijkbare groep. Dit kan deels verklaard worden door een respons-bias. Tegelijkertijd kan het aangeven dat als er gezondheidsklachten zijn, deze vaker langdurig zijn.
+
+#### 3 — **Korte omschrijving aandoening**
+
+MUPS/LOK bij militairen na uitzendingen is in de voorliggende begripsbepaling op te vatten als een klachtencomplex zonder te duiden organische basis. De klachten bestaan, niet limitatief, uit chronische vermoeidheid, gewrichtspijnen, pijnklachten (m.n. het hoofd en de rug), pijnlijke spieren en gewrichten, vertigo, huidirritatie, keelpijn, klachten aan de luchtwegen of het maag-darmkanaal, hyperarousal (waakzaamheid, maar ook toegenomen transpiratie), seksuele problemen, slaapstoornissen en geheugen/concentratiestoornissen. Deze klachten resulteren in functionele beperkingen, arbeidsongeschiktheid en in verminderde kwaliteit van leven. In de fenomenologie is een sterke overeenkomst te zien met het chronische-vermoeidheidssyndroom (Aaron & Buchwald 2001; Henningsen et al. 2003). De klachten hebben een overwegend fysieke presentatie. Psychiatrisch gezien vertonen ze overeenkomsten met klachtcomplexen welke gevonden worden bij patiënten met een Posttraumatische stressstoornis, een atypische depressie, hypochondrie, een ongedifferentieerde somatoforme stoornis, een somatoforme stoornis met autonome dysfunctie en met een pijnstoornis. Differentiaal diagnostisch dienen deze aandoeningen dan ook uitgesloten te worden. Er komen ook beschrijvingen voor in de literatuur met karakteristieken zoals migraineuze hoofdpijnen, onbegrepen buikklachten en multipele chemische overgevoeligheid (Nisenbaum et al. 2000; Reid et al. 2001). Frequent wordt gewag gemaakt van cognitieve stoornissen (aandacht en geheugen) en van gemengde angst en stemmingsstoornissen (David et al. 2002).
+
+Zowel bij LOK beelden in het algemeen als bij MUPS/LOK bij militairen na uitzendingen in het bijzonder is vaak sprake van functieverlies dat disproportioneel is met de bevindingen bij fysisch-diagnostisch onderzoek en inconsistent met laboratoriumbevindingen. Hierdoor wordt vaak gedacht dat deze mensen zich aanstellen of uit zijn op secundaire winst. Een associatie met stress en psychosociale factoren wordt verondersteld (Aaron & Buchwald 2001), maar is niet systematisch onderzocht. Vele patiënten hebben een langdurige en gecompliceerde geschiedenis met diverse consulten aan eerste- als tweede lijn specialisten. Diverse onderzoeken of ingrepen hebben hierbij plaatsvonden zonder afdoend resultaat. Langere tijd deed in Nederland de term opgeld van ‘somatische fixatie’ (zie Grol, 1970). De patiënt is ervan overtuigd dat er iets met hem/haar aan de hand is en heeft vaak een specifieke attributie voor de klachten. De symptomen verwijzen vaak naar uiteenlopende orgaansystemen. Het verloop van de stoornis is chronisch en gaat gepaard met, of leidt tot stoornissen in sociale, interpersoonlijke en systeeminteracties. Gezien de fysieke presentatie wordt niet primair gedacht aan een psychologische of psychiatrische attributie voor de klachten, welke regelmatig achteraf gezien toch het geval blijkt te zijn.
+
+Belangrijk is op te merken dat deze lichamelijke klachten en rapportages meestal typisch buiten het gezichtsveld van de psychiatrie hun opgeld doen. Ze manifesteren zich in de eerste lijn, bij onderdeelsartsen, en verder bij medische specialisten als neurologie, interne geneeskunde, en orthopedie, maar ook bij cardiologie, longziekten en KNO. Soms is er bij de klager juist ook weerstand tegen een psychiatrische (descriptieve) verklaring voor de klachten.
+
+##### 3.1 — Samenvatting Tijdschriften conferentie LOK
+
+Recent (Van der Mast R. 2006) vond een Tijdschriftconferentie plaats die gewijd was aan LOK-beelden in het algemeen. Een samenvatting van de bevindingen luidde:
+
+- 1. patiënten met onverklaarde lichamelijke klachten accepteren de diagnose ‘onverklaarde lichamelijke klachten’ niet, omdat artsen naar hun mening onvoldoende kennis, ervaring en vaardigheden hebben om bij hen een geaccepteerde diagnose te stellen en hen adequaat te behandelen;
+- 2. patiënten met onverklaarde lichamelijke klachten behoren niet per definitie bij de psychiater, behalve als er sprake is van een chronische, ernstige somatoforme stoornis. Zij hebben dikwijls multipele complexe problemen en zouden het best behandeld kunnen worden door een team van samenwerkende medisch specialisten en paramedici;
+- 3. patiënten met onverklaarde lichamelijke klachten kunnen effectief worden behandeld met cognitieve gedragstherapie. Hiervoor zijn verschillende cognitieve modellen beschikbaar. Het ‘reattributiemodel’ richt de aandacht vooral op het herstel van een leefbaar leven, terwijl het ‘gevolgenmodel’ als doel heeft de gevolgen van de onverklaarde lichamelijke klachten te reduceren. Een aanpak volgens het reattributiemodel kan worden gevolgd door die van gevolgenmodel;
+- 4. de ontwikkeling van een richtlijn voor de diagnostiek en de behandeling van onverklaarde lichamelijke klachten zou ten goede komen aan de kwaliteit van patiëntenzorg, zou invaliditeit door de klachten verminderen, zou mogelijkheden voor reïntegratie bevorderen en zou wetenschappelijk onderzoek stimuleren;
+- 5. zowel in het medisch onderwijs als in de medisch-specialistische vervolgopleidingen is de theoretische en praktische training op het gebied van onverklaarde lichamelijke klachten momenteel onvoldoende. Wetenschappelijk onderzoek is hard nodig om te komen tot een evidence-based richtlijn.
+
+Naar wordt aangenomen gelden deze aanbevelingen ook voor MUPS/LOK bij militairen na uitzendingen. Daarom leeft bij Defensie de gedachte een specifieke LOK polikliniek op te zetten voor de diagnostiek en behandeling van LOK beelden bij militairen in het algemeen en voor MUPS/LOK bij militairen na uitzendingen in het bijzonder (zie bijlage 1).
+
+#### 4 — **Diagnose en behandeling**
+
+##### 4.1 — Diagnostiek
+
+Er is voor MUPS/LOK bij militairen en veteranen na uitzendingen in de literatuur geen standaarddiagnostiek noch behandeling bekend. Het ligt in de lijn der verwachting dat binnen afzienbare tijd de LOK-poli van het Centraal Militair Hospitaal (CMH) operationeel wordt en in deze lacune gaat voorzien. De diagnostiek en behandeling gaan dan verlopen zoals omschreven in bijlage 1. Kort samengevat gaat de gang van zaken als volgt:
+
+- 1. De diagnostiek vindt plaats op basis van exclusie. Indien de klachten verklaard kunnen worden vallen zij buiten dit kader. De rekbaarheid en uitgebreidheid van de diagnostiek is een kritische factor alvorens tot onverklaarbaarheid wordt geconcludeerd. De beoordeling van het medische voortraject is hierbij van belang. De somatische status van iedere patiënt moet in detail beoordeeld worden.
+- 2. Zoveel mogelijk informatie over de patiënt moet worden opgevraagd bij eerdere behandelaars en gedetailleerd worden beoordeeld op consistentie, systematiek en compleetheid van dossier. Bij deze beoordeling dient te worden gezocht naar een somatische basis/verklaring voor de aanmeldingsklachten. Immers, alleen als die basis ontbreekt, kan een patiënt worden toegelaten tot de LOK-poli. Er wordt beoordeeld of in de voorgeschiedenis al het nodige is gedaan om lichamelijke oorzaken van het ziek zijn te kunnen verwerpen
+- 3. Op basis van voorgaande twee punten wordt overwogen of aanvullend onderzoek geïndiceerd is. Procesmatig worden hierbij de volgende lijnen gevolgd: Op dossier niveau vindt allereerst overleg plaats met de desbetreffende orgaanspecialist. Bij positief advies aan de LOK-indicatiecommissie wordt dit aanvullend onderzoek door specialisten van het CMH verricht, op vooraf afgesproken condities en met terugverwijzing naar de LOK-polikliniek.
+- 4. Indien sprake is van een LOK beeld zal een uitsplitsing worden gemaakt naar MUPS/LOK bij militairen na uitzendingen en naar andere onverklaarde symptoomcomplexen/algemene LOK-beelden.
+
+##### 4.2 — Behandeling
+
+Voor MUPS/LOK bij militairen na uitzendingen bestaat noch bij actieve of postactieve militairen een algemeen aanvaarde vorm van behandeling. Echter, de literatuur vermeldt ontwikkelingen waarbij kan worden aangeknoopt. De civiele gezondheidszorg kent voor diverse lichamelijk onverklaarde klachtensyndromen wel benaderingen, maar is er geen eenduidig protocol waarbij kan worden aangesloten (King et al. 2002; Fordyce 2000). De meeste civiele studies maken hierbij gebruik van een groepsgewijze revalidatiegeneeskundige benadering, met cognitieve gedragstherapie en operante gedragsbeïnvloeding, sociale steun en voorlichting (Stulemeijer, de Jong, et al. 2005 ; Fals-Stewart & Kelley 2005; Keller et al. 2005).
+
+Met betrekking tot het chronische-vermoeidheidsyndroom (CVS), dat zoals in het voorgaande omschreven, sterke overeenkomsten vertoont met de MUPS/LOK bij militairen na uitzendingen en er behoudens de oorzakelijke attributie niet van is te onderscheiden, is dit echter wel goed onderzocht. Het is gebleken dat cognitieve gedragstherapie en klachten-discongruente oefentherapie in groepsverband effectieve behandelingen zijn (Bazelmans et al. 2005; Prins et al. 2001). Het zelfde kan gesteld worden voor de behandeling van chronische benigne pijnklachten. Cognitieve gedragstherapie viel, in vergelijking met de patiënten op de wachtlijst, ten gunste uit van de therapiegroep. Ook in vergelijking met ondersteunende therapie is gedragstherapie beter. Een kostenanalyse viel eveneens gunstiger uit (Severens et al. 2004).
+
+De enige behandelingsvorm (bij militairen) waarover voorzover bekend in de literatuur is gerapporteerd, wordt in het Walter Reed Army Medical Center te Washington DC (USA) toegepast op basis van de aannemelijkheid van haar werkzaamheid en naar analogie van de behandeling van – (onbegrepen/onverklaarde) – pijnsyndromen (Engel, Roy, et al. 1998; Engel, Adkins, et al. 2002; Richardson & Engel 2004).Deze behandeling bestaat uit deeltijd behandeling in multidisciplinaire setting met de nadruk op operante revalidatie kenmerken. Dit sluit aan bij de visie uit de revalidatiegeneeskunde. Immers deze discipline is een medisch georiënteerd specialisme dat proces georiënteerd opereert en zich niet primair richt op een pathogenetisch model bij ziekte. Het WHO-model van stoornis-beperking-handicap zoals jarenlang in gebruik is geweest geeft de gradaties aan waarbinnen op functioneel (stoornis) niveau de klachten belemmerend werken (beperking), en zij in sociale context een handicap zijn. Het SCAMP model geeft de operationele domeinen aan waarop de patiënt moet worden beoordeeld: Sociaal, Communicatief, ADL, Maatschappelijk, en Psychisch. Het vertrekpunt is steeds de functionele analyse met betrekking tot de patiënt. Er is weinig ervaring, behoudens een gunstig verlopen pilot (2002, CMH) waarbij met deze methodologie werd gewerkt (zie bijlage1).
+
+##### 4.3 — Aanbeveling commissie Tiesenga
+
+In het rapport van de commissie Tiesinga (2000), n.a.v. het Post Cambodja Klachten Onderzoek, worden aanbevelingen gedaan met betrekking tot hulpverlening. Militairen met klachten na uitzending dienen een nader op de persoon afgestemd begeleidingsplan/behandelplan( zorg op maat) te doorlopen. Niet in alle gevallen kunnen de klachten direct herleid worden naar een medische en/of psychische component. Desondanks dienen deze klachten serieus te worden onderzocht. Indien (nog) geen duidelijke oorzaak gevonden kan worden, moet een (ook voor betrokkene) duidelijk traject gevolgd worden. De door de onderzoekers beschreven cognitieve gedragstherapeutische behandeling kan hiervan naar de mening van de Begeleidingscommissie deel uitmaken. Dit begeleiding- of behandelplan zou in de optiek van de Begeleidingscommissie (Rapport Commissie Tiesinga, 2000, p 6) een ‘totaalplan’ moeten zijn waarbij de geneeskundige en psychologische hulp gesynchroniseerd worden met de hulp van het thuisfront, de fysieke rehabilitatie (conditieverhoging) en de terugkomst in het arbeidsproces (reïntegratie).
+
+#### 5 — **Beloop en herstelbelemmerende factoren**
+
+Het natuurlijk beloop van de MUPS/LOK klachten bij militairen na uitzendingen is voor een Nederlandse groep Cambodja veteranen (n=354) beschreven. Na 18 maanden rapporteerde 19% volledig herstel, 20% voelde zich al een stuk beter, 57% had dezelfde klachten en 4% gaf aan te zijn verslechterd in vergelijking met initiële fase (De Vries, Soetekouw, et al. 2001) Het zelfgerapporteerde herstel werd aldus in een grote groep gezien, terwijl er tegelijkertijd ook een grote groep is die blijft lijden aan vermoeidheid en andere gerelateerde symptomen.
+
+Het toekennen van een diagnose aan een onverklaarbaar complex van klachten geeft erkenning voor de patiënt, dat een praktische reden kan zijn voor het hanteren van een dergelijke diagnose (De Loos, 2000). Ze kan bijvoorbeeld toegang geven tot zorg, een vorm van rechtvaardiging dus, en het is daarmee een sociaal aspect van het medisch diagnostische proces (Bell, Amoroso, et al. 2001). Dit ‘medicaliseren’ heeft echter ook nadelige kanten. Het kan patiënten bevestigen in hun ziektebeleving en hun herstel belemmeren. Ook zou het kunnen leiden tot claims in de zin van letselschade en inkomensvergoedingen, waarmee er een belang zou ontstaan om patiënt te moeten blijven. Een verschijnsel dat wel als secundaire ziektewinst of renteneurose wordt betiteld. Hierover bestaat in de literatuur nogal wat discussie (Mayou, Kirmayer, et al. 2005) en het is beslist niet zeker dat dit altijd de uitkomst moet zijn; die is ook van andere factoren afhankelijk. Naar eigen klinische ervaring en in overeenstemming met prospectieve studies in de literatuur is het omgekeerd zeker niet aan de orde dat patiënten plotseling ‘genezen’ nadat zij een vergoeding hebben ontvangen (Mayou & Farmer 2002; Bairstow, Mendelson, et al. 2005; Mendelson 1995; Blanchard, Hickling, et al. 1998). Wel hebben deze overwegingen ertoe geleid dat nog lopende aanspraakprocedures een reden zijn om een patiënt nog niet in behandeling te nemen (Frueh, Gold, et al. 1997).
+
+#### 6 — **Causaliteit MUPS/LOK bij militairen na uitzendingen**
+
+##### 6.1 — Inleiding causaliteit
+
+Voor situaties van MUPS/LOK bij militairen na uitzending waarin begeleiding en behandeling niet leiden tot een volledig herstel, moet een beroep kunnen worden gedaan op een militair invaliditeitspensioen (IP). Om normaliter in aanmerking te komen voor een IP moet juridisch worden aangetoond dat de uitoefening van de dienst onder buitengewone of daarmee vergelijkbare omstandigheden de oorzaak is van de invaliditeit. Medisch dient sprake te zijn van invaliditeit door ziekte, verwonding of gebrek. Bij MUPS/LOK geldt daarbij de extra voorwaarde dat er altijd een relatie moet zijn met de uitzending.
+
+In deze context zijn de begrippen ‘juridische en medische causaliteit’, ‘oorzakelijk en verergerend dienstverband’ en ‘preëxistente en predispositie’ van toepassing. In het WIA-IP protocol staan deze begrippen beschreven en toegelicht. Het MUPS/LOK protocol moet worden gezien als een aanvulling op het WIA-IP protocol. Ter voorkoming van doublures wordt daarom voor uitleg van deze begrippen verwezen naar dit protocol.
+
+Bij MUPS/LOK is het niet goed mogelijk de causaliteit in de gebruikelijke termen te definiëren vanwege het ontbreken van een medisch pathofysiologisch substraat waarmee de klachten kunnen worden verklaard (bekende oorzaak leidt tot een aantoonbare stoornis binnen het organisme. Deze stoornis leidt tot ziekte met functievermindering en handicap als mogelijk gevolg). Als voorbeelden worden hierbij genoemd een doorbloedingsstoornis van een kransvat dat leidt tot een hartinfarct, of een slecht werkende alvleesklier welke suikerziekte veroorzaakt.
+
+Naar huidig medisch inzicht kunnen de MUPS/LOK klachten bij militairen na uitzendingen niet onder een éénduidige diagnostische benaming worden gebracht, noch kan er een wetenschappelijke verklaring voor worden gegeven. Een wetenschappelijke medische verklaring wordt doorgaans in biologische termen gedefinieerd. Daarom geeft MUPS/LOK bij militairen na uitzending aanleiding tot discussie over het al dan niet aanwezig zijn van ‘ziekte’, en over het al dan niet aanwezig zijn van objectiveerbare stoornissen en/of beperkingen. Juist deze elementen staan centraal bij de toekenning van een invaliditeitspensioen. Strikt genomen zou MUPS/LOK bij militairen na uitzendingen niet kunnen worden benoemd als een dienstverband aandoening.
+
+Echter, ondanks ontbreken van kennis over de oorzaak kan toch een verband met uitzendingen aannemelijk gemaakt worden vanuit een gemeenschappelijk voorkomen bij diverse uitzendingen, bij verschillende eenheden, en in verschillende landen (zie epidemiologische gegevens). Daarom zijn voor MUPS/LOK bij militairen na uitzendingen aanvullende causaliteitsregels opgesteld voor het vaststellen van dienstverband. Deze aanvullende regels betreffen de juridische causaliteit, de medische causaliteit, het verergerend dienstverband als enige uiting van dienstverband, de co-morbiditeit en de weging van co-morbiditeit. Onderstaand wordt dit nader uitgewerkt.
+
+##### 6.2 — Het stappenplan: nadere causaliteit regels MUPS/LOK
+
+Het Ministerie van Defensie heeft, overeenkomstig de wens van de Kamer, nadere causaliteit regels opgesteld voor MUPS/LOK bij militairen na uitzendingen. Deze regels staan bekend als het ‘stappenplan’ (brief Tweede Kamer 7 juni 2006) en zijn vergelijkbaar met de drie criteria welke ook zijn toegepast bij het Cambodja Klachten Complex.
+
+Bij MUPS/LOK wordt causaliteit aangenomen, indien aan onderstaande drie criteria is voldaan:
+
+- • De MUPS/LOK klachten mogen vóór de uitzending niet aanwezig zijn geweest.
+- • De MUPS/LOK klachten moeten zich tijdens of tot binnen 2 jaar na de uitzending hebben voorgedaan met daaraan gekoppeld een noodzaak tot medische behandeling, c.q. een medisch professionele hulpvraag moet in die periode zijn gesteld.
+- • Een medische diagnose of medische verklaring, ook in de algemene psychiatrische classificatie ontbreekt.
+
+De eerste twee stappen kunnen worden gezien als voorwaarden voor de juridische causaliteit. De medische causaliteit wordt onderstaand nader toegelicht en uitgewerkt.
+
+##### 6.3 — Medische causaliteit bij MUPS/LOK
+
+Het vaststellen van medische causaliteit kent bij MUPS/LOK twee problemen. Ten eerste betreft dit de vraag of de klachten wel kunnen worden toegeschreven aan de uitzending. Een valkuil bij de beoordeling van de medische causaliteit is het (automatisch/kritiekloos) toeschrijven van klachten door betrokkene, de omgeving en zelfs de professionals aan de uitzending. De uitzending neemt in het leven van betrokkene niet geleidelijk aan een minder dominante plek in. Dit in tegenstelling tot het merendeel van de mensen dat na verloop van tijd het normale leven weer oppakt zonder beperkende restverschijnselen.
+
+Een belangrijke vraag om te beantwoorden is dan ook waarom herstelt iemand niet van zijn MUPS/LOK. Hieraan gekoppeld is de vraag of de duurzame klachten wel grotendeels het gevolg zijn van de doorgemaakte uitzending. Het derde criterium van het stappenplan komt hierbij in beeld.
+
+Duidelijkheid moet worden gekregen over de aanwezigheid van factoren die tegen causaliteit pleiten en factoren die het beloop beïnvloeden. Weging van deze factoren is belangrijk bij de beantwoording van de causaliteitsvraag.
+
+Minimaal dienen, in aanvulling op de checklist causaliteit van het WIA-IP protocol, onderstaande factoren in beeld te worden gebracht:
+
+- – Spelen (co-morbide) stoornissen zoals stemmingsstoornissen/angststoornissen, PTSS/depressies een rol?
+- – Zijn er somatisch objectiveerbare stoornissen
+- – Zijn er preëxistente aandoeningen?
+- – Zijn er luxerende factoren geweest/sprake van predispositie?
+- – Zijn er ziektebestendigende factoren?
+- – Zijn er stressoren in de privé en/of werkomgeving die van belang zijn?
+- – Zijn lichamelijke klachten en beperkingen aanwezig?
+- – Is er sprake geweest van adequate therapie/begeleiding (niet alleen inzichtgevende therapie)
+- – Waarop richtte zich het behandelplan vooral? Wat zijn, volgens dat behandelplan, de belangrijkste belemmeringen voor herstel geweest?
+- – Zou betrokkene, vroeger of later, deze klachten mogelijk ook hebben gekregen als hij/zij niet uitgezonden was geweest?
+
+Deze vragen klemmen des te meer omdat algemeen bekend is dat MUPS/LOK klachten bij militairen na uitzendingen moeilijk zijn te onderscheiden van vele lichamelijke en psychische aandoeningen/omstandigheden, welke geen verband houden met de dienst. Naarmate de tijdsduur tussen de uitzending en het ontstaan van de klachten groter is, wordt dit onderscheid moeilijker tot onmogelijk.
+
+Daarom dient medisch tevens te worden gekeken naar dezelfde criteria als bij de juridische causaliteit: vóór de uitzending niet bekend met deze klachten, klachten binnen 2 jaar ontstaan en hiervoor in die periode medische hulp gezocht, c.q. onder reguliere geneeskundige behandeling geweest. Aanvullend hierop dient bij de medische hulpvraag de ‘LOK poli’ (zodra deze operationeel en algemeen bekend is) van het CMH een centrale rol te hebben gespeeld. Deze eis kan worden gesteld omdat de klachten binnen 2 jaar moeten zijn ontstaan en betrokkene dan meestal nog werkzaam is bij Defensie. Deze eis moet worden gesteld om in het kader van de zorgplicht optimale gespecialiseerde multidisciplinaire beoordeling/behandeling en begeleiding af te kunnen dwingen.
+
+Het tweede probleem betreft het objectiveren van subjectieve klachten en beperkingen, welke een causale relatie moeten hebben met de uitzending. Een professioneel verzekeringsgeneeskundig onderzoek met de nadruk op het beoordelingsgesprek en in het bijzonder op de plausibiliteit en de interne/externe consistentie is hierbij het gereedschap wat de beoordelaar heeft. Dit professionele onderzoek staat uitvoerig beschreven in het eerder genoemde WIA-IP protocol.
+
+Resumerend dient voor het toekennen van medische causaliteit bij MUPS/LOK bij militairen na uitzendingen aan de volgende voorwaarden te worden voldaan:
+
+- • Een afdoende medische diagnose of medische verklaring, ook in de psychiatrische classificatie ontbreekt.
+- • Beoordeling/behandeling heeft plaatsgevonden door of via de LOK poli (zodra deze operationeel is en bekend binnen Defensie).
+- • De klachten mogen vóór de uitzending niet aanwezig zijn geweest.
+- • De MUPS/LOK klachten moeten zich tijdens tot binnen 2 jaar na de uitzending hebben voorgedaan met daaraan gekoppeld een noodzaak tot medische behandeling.
+- • De MUPS/LOK klachten moeten langer dan 6 maanden aanwezig zijn.
+- • De MUPS/LOK klachten/beperkingen moeten bij de verzekeringsgeneeskundige beoordeling worden vastgesteld door toetsing op plausibiliteit en consistentie.
+
+##### 6.4 — Verergerend of oorzakelijk dienstverband bij MUPS/LOK.
+
+MUPS/LOK bij militairen na uitzendingen kent altijd predisponerende en/of luxerende factoren. De Gezondheidsraad (GR) stelt dat voor het Chronisch vermoeidheid Syndroom (CVS) alsook voor de LOK beelden in het algemeen en de MUPS/LOK bij militairen na uitzendingen in het bijzonder, het multicausale verklaringsmodel geldt (Gezondheidsraad 2007). Bij MUPS/LOK na uitzendingen dient daarom altijd, als causaliteit is vastgesteld, te worden uitgegaan van een ‘verergerend dienstverband’: alle op dat moment bestaande beperkingen veroorzaakt door de MUPS/LOK en de predispositie worden verdisconteerd in een IP percentage. Echter verergering in de toekomst door andere oorzaken worden niet gehonoreerd in een hoger IP percentage, evenmin als een verergering van de beperkingen verband houdende met de predisponerende factoren.
+
+##### 6.5 — Onderscheid aandoeningen en beperkingen met en zonder Dienstverband
+
+Als meerdere aandoeningen tegelijkertijd aanwezig zijn en niet voor alle aandoeningen bestaat een dienstverband doemen twee problemen op. Allereerst is het bij psychische en MUPS/LOK klachten lastig om vast te stellen welke aandoening wel en welke geen oorzakelijk verband houdt met de dienst. Ten tweede kan het problematisch zijn vast te stellen in hoeverre de beperkingen moeten worden toegerekend aan de dienstverband aandoening of aan een aandoening die niets met de uitzending te maken heeft. Beperkingen zijn soms niet per aandoening/fysiologische veroudering/persoonlijkheidsproblematiek/sociale omstandigheden te onderscheiden.
+
+###### 6.5.1 — *Co-morbiditeit bij MUPS/LOK en dienstverband*
+
+Onder co-morbiditeit wordt verstaan het tegelijkertijd voorkomen van diverse aandoeningen die soms wel, soms niet een relatie met elkaar hebben. Ook kan de oorzaak verschillen. MUPS/LOK gaat regelmatig gepaard met co-morbiditeit. Het is medisch vaak moeilijk, zeker bij onbegrepen of moeilijk te objectiveren beelden, om een onderscheid te maken tussen co-morbiditeit welke wél en welke géén causaal verband heeft met de uitzending. Partiële toerekening behoort (nog) niet tot de wettelijke mogelijkheden, daarom moet toch een ‘alles of niets’ uitspraak worden gedaan. De co-morbiditeit mag alleen aan de uitzending worden toegerekend als deze uitzending wordt geacht in overwegende mate deze co-morbiditeit te hebben veroorzaakt (voor meer dan 50%). In paragraaf 6.6. wordt hierop nader ingegaan.
+
+###### 6.5.2 — *Beperkingen al dan niet in relatie tot MUPS/LOK*
+
+Een zelfde toerekening wordt gevraagd bij aanwezigheid van beperkingen welke zowel door de dienstverband aandoening als door andere, niet uitzending gerelateerde aandoeningen kunnen zijn veroorzaakt: Worden bijvoorbeeld de vermoeidheidklachten veroorzaakt door de aan de uitzending gerelateerde MUPS/LOK klachten of door een hartinfarct, welke geen relatie heeft met de uitzending? Ook hier geldt het alles of niets principe.
+
+##### 6.6 — Toerekenen van co-morbiditeit en beperkingen aan de uitzending
+
+Partiele toerekening behoort zoals eerder is aangegeven nog niet tot de mogelijkheden. Een alles of niets uitspraak is nodig bij de toerekening van de co-morbiditeit en de beperkingen. Dit is een moeilijke opgave. Tot een oplossing kan worden gekomen door, op basis van weging van de uitgevraagde en onderzochte gegevens, eerst tot een classificatie te komen. Deze classificatie dient als hulpmiddel bij de toerekening van de causaliteit. Deze classificatie kent 3(4) niveaus:
+
+- 1. Grotendeels wel causaal verband tussen de beperkingen en de dienstverband aandoening aannemelijk/aanwezig
+- 2. In gelijke mate causaal verband en niet causaal verband aannemelijk/aanwezig: en zo ja, betreft deze gelijke mate dan meer of minder dan 50% causaal verband
+- 3. Grotendeels geen causaal verband aannemelijk/aanwezig
+- 4. (Geen causaal verband aannemelijk/aanwezig )
+
+Ernst van de uitzending/tijdsduur tussen uitzending en claim/knik in de levensloop/aanwezigheid van (andere) life-events, duidelijke pre-existentie/predispositie/ziektebestendigende factoren/co-morbiditeit/plausibiliteit etc. zijn hierbij vooral richtinggevend. Dit moet de beoordelaar bij de toerekening expliciet benoemen en motiveren.
+
+Uiteindelijk leidt deze wijze van toerekening momenteel nog steeds tot een alles of niets uitspraak. Immers alles wordt weer herleid naar meer of minder dan 50%. Echter door op deze wijze de causaliteitsvraag te benaderen wordt wat meer richting gegeven aan het denkproces. Dit is mede nuttig met het oog op de toekomst: De roep om proportionele toerekening wordt steeds sterker. Als deze wijze van toerekenen in de toekomst wordt ingevoerd mag wel een onderverdeling naar 75%, 50%, 25% verband worden gemaakt. Bij groep 2 hoeft dan geen uitspraak meer te worden gedaan over meer of minder dan 50%.
+
+Overigens moet men zich wel realiseren dat groep 2 in de toekomst, bij proportionele toerekening, oververtegenwoordigd kan raken of te gemakkelijk wordt gebruikt. Want deze groep vereist immers het minst een duidelijke stelling name van de beoordelaar. De motivatie voor deze groep moet tegen die tijd extra kritisch worden getoetst.
+
+Het is een utopie te veronderstellen dat de vragen over toerekening en causaliteit altijd kunnen worden beantwoord op basis van een protocol. Een protocol dient te worden gezien als hulpmiddel. De professionaliteit van de arts is altijd bepalend, aangevuld met mediprudentie. Van een protocol mag altijd worden afgeweken, mits dit gemotiveerd gebeurt.
+
+#### 7 — **Verzekeringsgeneeskundige (vg) beoordeling en rapportage**
+
+Bij de verzekeringsgeneeskundige beoordeling kan een uitspraak worden gedaan over enerzijds de WIA aanspraak en anderzijds over het bestaan van dienstverband met al dan niet een IP recht.
+
+Voor de basisprincipes van deze beide beoordelingen wordt allereerst verwezen naar het WIA-IP protocol. Enkele aspecten hieruit worden onderstaand nog eens benadrukt in relatie tot MUPS/LOK bij militairen na uitzendingen. Tevens worden aanvullende richtlijnen beschreven voor specifiek het beoordelen van de beperkingen bij MUPS/LOK bij militairen na uitzendingen in het kader van het IP recht. Een samenvatting, als bureaulegger wordt gegeven in bijlage 2.
+
+Nogmaals wordt gewezen op het verschil tussen de WIA en de IP beoordeling. Dit betreft vooral de finale versus de causale benadering. Het kan zijn dat de militair met een LOK-beeld, door derden toegeschreven aan de uitzending, wel in aanmerking komt voor een WIA recht, maar niet voor een invaliditeitspensioen. Het toepassen van de operationele definitie en de causaliteitsregels speelt hierbij een belangrijke rol. Los hiervan kent de basis verzekeringsgeneeskundige beoordeling van alle andere LOK beelden veel overeenkomsten met de MUPS/LOK bij militairen na uitzendingen. Daarom wordt bij de beschrijving van de basis beoordeling geen onderscheid gemaakt tussen deze verschillende beelden. Wel komt dit onderscheid ter sprake in de aanvullende verzekeringsgeneeskundige IP beoordeling.
+
+##### 7.1 — Medisch arbeidsongeschiktheidscriterium in de sociale verzekeringsgeneeskundige beoordeling.
+
+De geneeskunde kan lang niet alle klachten verklaren. Klachten en beperkingen zijn meestal multicausaal, resultante van een wisselwerking tussen genetische, psychologische en sociale factoren. De litteratuur (Gezondheidsraad 2007) maakt daarbij wat betreft het verloop van de klachten nog onderscheid tussen:
+
+- – *predisponerende factoren:* familie, constitutie, ‘basic trust’, persoonlijkheid, levensstijl, lichamelijke activiteit
+- – *uitlokkende factoren:* acute stress, lichamelijke ziekte
+- – *onderhoudende factoren:* inactiviteit, somatische attributie, verhoogde aandacht voor lichamelijke sensaties, gedrag van hulpverleners, aandacht, gewenning, verlies van motivatie.
+
+In de sociale *verzekeringsgeneeskunde* draait het daarbij niet zozeer om de verklaarbaarheid van klachten (causaliteit) maar om de gevolgen voor het functioneren (finaliteit). Voor die beoordeling maakt het overigens wel uit of er een evidente lichamelijke of psychiatrische ziekte is vastgesteld. Klachten en beperkingen zullen dan eerder overtuigen. Maar ook dan kan het fenomeen zich voordoen dat het maatschappelijk functioneren veel meer of juist veel minder belemmerd wordt, dan redelijkerwijs te verwachten zou zijn. Er wordt dan wel gesproken over ‘discrepantie’. De genoemde factoren spelen ook daar een rol. In zoverre verschilt de claimbeoordeling bij evidente ziekten niet wezenlijk van die bij lichamelijk onverklaarde chronische klachten.
+
+In elk geval doet de reductie van het ziektebegrip tot een fysiek of psychische verklaarbare klacht zowel de betrokkene, als de geneeskunde tekort. Daarom is in het ‘medisch arbeidsongeschiktheidscriterium’ vastgelegd dat het ontbreken van die verklaring alléén geen norm kan zijn om een claim van beperkingen af te wijzen (Tijdelijk instituut sociale verzekeringen 1995). Dit impliceert dat de verzekeringsarts voor de WIA beperkingen kan vaststellen als uiting van ziekte, ook wanneer er geen biomedische of psychische oorzaak of substraat van de klachten is vastgesteld. Daarvoor gelden wel strikte voorwaarden.
+
+Volgens het medisch arbeidsongeschiktheidscriterium moeten eventuele beperkingen een rechtstreeks en medisch objectief vaststelbaar gevolg van ziekte zijn. Dat impliceert dat:
+
+- – manifestaties van bepaalde eigenschappen of (gebrek) aan opleiding of vaardigheid geen aanleiding voor beperkingen kunnen zijn
+- – beperkingen vaststelbaar zijn, derhalve geverifieerd door observatie, onderzoek of informatie van derden
+- – die vaststelling (sociaal)-medisch is, dus met gebruik van reguliere (sociaal)geneeskundige onderzoeksmethoden
+- – er sprake is van (streven naar) objectiviteit, wat impliceert dat de beoordeling toetsbaar is, dus met niet-falsifieerbare controleerbare feiten en argumenten wordt onderbouwd en zo nodig wordt weerlegd
+- – de beoordeling reproduceerbaar is, dus schriftelijk vastgelegd waarbij het aannemelijk is dat gekwalificeerde beroepsgenoten tot een soortgelijke conclusie gekomen zouden zijn
+- – de beperkingen consistent zijn, de feiten waarop de beoordeling is gebaseerd vertonen logische samenhang
+- – fysiologische manifestaties van ongebruikelijke of overbelasting – sociaal of fysiek – niet als beperkingen opgevat worden
+
+Zoals bij ieder medisch onderzoek is de beleving van de betrokken cliënt een belangrijk uitgangspunt. Maar diens perceptie is niet doorslaggevend, aangezien het aan de onderzoeker is – los van persoonlijke belevingen en verwachtingen – tot een zo een feitelijk mogelijk oordeel te komen. Omdat sprake is van multicausaliteit heeft het daarbij passende verzekeringsgeneeskundig onderzoek betrekking op zowel somatische, psychische als sociale aspecten in brede zin.
+
+Bij het ontbreken van een evidente fysieke of psychische verklaring van de klachten zal het vaststellen van beperkingen bij lichamelijk onverklaarde chronische klachten een grotere nadruk leggen op de betekenis van ‘circumstantial evidence’. Daardoor zal het onderzoek veelal diepgaander zijn en meer tijd en inspanning vereisen.
+
+##### 7.2 — Het verzekeringsgeneeskundig onderzoek.
+
+Redelijkerwijs mag van een cliënt verwacht worden dat hij al het mogelijke heeft gedaan om te herstellen. Dit zowel in medische als in functionele zin. De medische aspecten zijn door opvallend ‘shopping’-gedrag meestal zo overdadig ingevuld, dat de verzekeringsarts zich mag afvragen of er niet eerder sprake is van legitimatiegedrag, dan van het streven naar herstel. In aanvulling op het WIA/IP protocol wordt over dit herstelgedrag nog het volgende opgemerkt. In het bijzonder bij lichamelijk onverklaarde chronische klachten mag verwacht worden dat de betrokkene:
+
+- – met compensatie- en herstelgedrag heeft geprobeerd oplossingen te vinden voor zijn verminderd functioneren
+- – aan zijn fysieke en mentale (bijhouden kennis en vaardigheid) conditie heeft gewerkt
+- – cognitieve gedragstherapie heeft gevolgd, aangezien dat de tot op heden de enig aangetoonde werkzame behandeling is
+
+Wanneer dat niet het geval is vormt dat een aanleiding de claim af te wijzen en de cliënt te adviseren het een en ander alsnog te realiseren.
+
+###### 7.2.1 — *Uitgangspunten.*
+
+Net als bij alle andere beoordelingen wordt het verzekeringsgeneeskundig onderzoek bij lichamelijk onverklaarde chronische klachten doorgaans vis-a-vis uitgevoerd. Zeker wanneer het medische beeld niet duidelijk is, is het van belang dat de cliënt persoonlijk kan vertellen wat zijn problemen zijn. Daarbij komt het de kwaliteit en de overtuigingskracht van de beoordeling ten goede wanneer de verzekeringsarts de cliënt ook dan serieus neemt, nieuwsgierig is en zich inleeft in diens probleem. Anders komt er geen goed contact – en ook geen goede beoordeling – tot stand.
+
+Daarbij is de verzekeringsarts gehouden te oordelen ‘naar objectieve maatstaven gemeten’, zo onbevooroordeeld en feitelijk mogelijk. Dit is een essentieel verschil met een onderzoek door een hulpverlener. Daarom is het vooral bij de beoordeling van lichamelijk onverklaarde klachten van belang dat de onderzoeker van meet af aan duidelijk maakt wat zijn rol is, namelijk die van beoordelaar. Die positie vereist – méér nog dan in andere situaties – een sceptische houding waaruit de verzekeringsarts feiten verifieert, kritisch doorvraagt, observaties spiegelt en de cliënt zo nodig met zijn gedrag confronteert. Dat kost vaak veel emotionele energie, vereist bewaren van distantie, geen tutoyeren of bondgenootschappen in een ‘vertrouwensrelatie’, maar een professionele taakopvatting.
+
+De verzekeringsgeneeskundige standaard ‘onderzoeksmethoden’ (Landelijk instituut sociale verzekeringen 2000) beschrijft het verzekeringsgeneeskundig onderzoek. Het kent in hoofdlijnen vijf instrumenten:
+
+- – analyse sociaal-medische informatie
+- – het beoordelingsgesprek
+- – observatie
+- – lichamelijk of psychiatrisch onderzoek
+- – overleg met derden.
+
+*Analyse sociaal-medische informatie*
+
+Doorgaans heeft een claim bij lichamelijk onverklaarde chronische klachten een lange voorgeschiedenis, minstens een half jaar maar vaak veel langer. De verzekeringsarts bestudeert de informatie die daarover verzameld is. Hij gaat na of die informatie volledig is en of er sprake is van plausibiliteit en consistentie en of het herstelgedrag adequaat is. Wanneer dat niet het geval is formuleert hij op basis daarvan nadere vragen voor het beoordelingsgesprek. Biografie, familieanamnese, sociale anamnese en eventuele vroegere klachten kunnen de lichamelijk onverklaarde klachten zo niet verklaarbaar, dan toch wel begrijpelijk maken. Voorzover daar voorinformatie over aanwezig is bestudeert de verzekeringsarts deze en formuleert aanvullende vragen.
+
+*Beoordelingsgesprek*
+
+Het belangrijkste onderzoeksinstrument is het beoordelingsgesprek. Dat is een specifieke verzekeringsgeneeskundige anamnese. De essentie draait om het inventariseren van de door de betrokkene ervaren belemmeringen in zijn maatschappelijk functioneren. Een claim kan alleen beoordeeld worden wanneer helder is wat die claim precies is – derhalve welke belemmeringen de cliënt in zijn of haar functioneren zegt te ervaren. Als dit niet duidelijk is kan het niet tot een goede claimbeoordeling komen. Zie het WIA-IP protocol. In het bijzonder bij lichamelijk onverklaarde chronische klachten en daaraan toegekende medische kwalificaties let de verzekeringsarts erop dat klachten, ziekten of diagnosen zelf geen voorwerp van de claim zijn. Vaak legt de betrokkene daar zelf namelijk een sterk accent op, als gevolg van attributie en externalisatie die zo vaak bij lichamelijk onbegrepen chronische klachten vóórkomen.
+
+Vooral bij lichamelijk onverklaarde chronische klachten is het meestal verstandig het beoordelingsgesprek niet met de klachten en behandeling te beginnen. De betrokken cliënten zijn niet zelden zó vaak bij verschillende artsen en andere hulpverleners geweest, dat hun antwoorden bijna stereotiep zijn geworden. Terwijl de sociale context juist niet of onvoldoende aan bod is gekomen (Landelijk instituut sociale verzekeringen 2000).
+
+De inventarisatie van belemmeringen vindt plaats vanuit het zogenaamde ‘biopsychosociale model’ (Tijdelijk instituut sociale verzekeringen 1995). Zie het WIA-IP protocol. Er ligt een sterker accent op kenmerken van de persoonlijkheid, cognities en emoties en de sociale context van het (dis)functioneren. Naast de al genoemde biografie, voorgeschiedenis en familieanamnese is van belang welke theorie de cliënt zelf heeft over de oorzaak van de klachten en het uitblijven van herstel. Daaruit kunnen cognities en attributies naar voren komen. Het verdient aanbeveling de anamnese van het algemeen dagelijks functioneren te completeren met een dagverhaal om een goede indruk van de ernst van de klachten en de consistentie van de ervaren belemmeringen te krijgen. Een aanvullende tractusanamnese kan nodig zijn, wanneer de onderzoekend arts toch een bepaalde aandoening vermoedt.
+
+De verzekeringsarts noteert het verhaal van de cliënt in diens eigen bewoordingen, dus bijvoorbeeld niet ‘zou niet kunnen lezen’ etc.
+
+*Observatie*
+
+Door de vlucht van de medische technologie is de observatie als onderzoeksinstrument de laatste decennia verwaarloosd. Juist als die technologie geen verklaring biedt voor de chronische klachten, is observatie van groot belang. In essentie gaat het minimaal om:
+
+- – de algemene indruk met name verzorging en uiterlijke gezondheid
+- – presentatie en wijze van contactleggen
+- – opvallende bijzonderheden
+- – aan- of juist afwezige specifieke geclaimde belemmeringen
+
+Bij lichamelijk onverklaarde chronische klachten domineren de klachten nogal eens elk gespreksonderwerp. Overdrachtsmechanismen kunnen zich manifesteren doordat de onderzoeker bij zichzelf gevoelens van boosheid, onmacht of vervreemding ontdekt. De verzekeringsarts spiegelt belangrijke observaties met de cliënt. Deze zal soms reageren dat een éénmalige observatie weinig zegt of dat hij of zij toevallig ‘een goede dag’ heeft. Dat neemt niet weg dat observaties voor de beoordeling gebruikt kunnen worden, vooral wanneer het dossier op verschillende tijdstippen soortgelijke observaties vermeldt door derden – artsen, arbeidsdeskundigen of anderen (consistentie).
+
+Verder wordt verwezen naar het WIA-IP protocol (Medische Werkgroep project WIA – Zorg).
+
+*Lichamelijk of psychiatrisch onderzoek*
+
+In principe zijn er bij lichamelijk onverklaarde chronische klachten geen afwijkingen en is lichamelijk onderzoek dus weinig zinvol. De medisch specialist is meestal beter toegerust om afwijkingen vast te stellen. Wanneer die bij dergelijk onderzoek niet zijn vastgesteld, zal de verzekeringsarts daar weinig meer aan kunnen toevoegen. Vaak zal de verzekeringsarts de zoveelste arts zijn die het verricht, wat eventuele somatische attributie kan versterken. Lichamelijk onderzoek moet daarom geen rituele handeling zijn, maar op indicatie plaatsvinden wanneer:
+
+- – er toch duidelijk sprake kan zijn van een lichamelijke aandoening, meestal bij een relatief korte duur van de klachten
+- – dat bijdraagt aan het vertrouwen in het onderzoek door de cliënt
+- – dat bijdraagt aan (verdere) observaties of verdieping van het beoordelingsgesprek
+
+De verzekeringsarts moet in het bijzonder bedacht zijn op de mogelijkheid van psychische stoornissen, die regelmatig – post aut propter – bij chronische klachten vóórkomen en dan met name depressie. Daarom zal als regel een oriënterend psychiatrisch onderzoek aangewezen zijn. Hiervoor wordt verwezen naar de richtlijn oriënterend psychiatrisch onderzoek van de Nederlandse Vereniging van Psychiatrie. Tenminste moet aandacht worden besteed aan:
+
+- – aandacht, concentratie, geheugen
+- – stemming en affect
+- – opvallend pijn- en vermijdingsgedrag
+- – preoccupatie van het denken
+- – psychomotoriek
+
+In de anamnese informeert de verzekeringsarts daarnaast naar initiatief, (eet)lust, gewicht, dagschommelingen, toekomstperspectief, prikkelbaarheid, slapen en in het bijzonder naar eerdere psychische klachten en de behandeling daarvan en naar de psychiatrische familieanamnese.
+
+*Informatie van derden*
+
+In de meeste gevallen zal de medische informatie op het moment van het onderzoek compleet zijn. Er kan aanleiding zijn alsnog meer informatie in te winnen wanneer een cliënt:
+
+- – vertelt dat er alsnog afwijkingen gevonden zijn
+- – vertelt dat hij van zijn (reguliere) behandelend arts niet zou mogen werken
+
+Dergelijke mededelingen worden – met machtiging van de cliënt – geverifieerd. Wanneer de verzekeringsarts twijfelt over de door de behandelaars gestelde diagnose en behandeling kan er aanleiding zijn een expertise te verrichten. Het verdient aanbeveling daar zeer terughoudend mee te zijn aangezien cliënten met lichamelijk onverklaarde chronische klachten vaak al vele artsen geconsulteerd hebben. Nog meer medisch onderzoek voegt meestal niets toe. Het kan processen van externalisatie en attributie verder versterken.
+
+Het verdient aanbeveling het vermoeden van een psychiatrische stoornis te laten bevestigen door een terzake deskundige inclusief behandeladvies. **De vraagstelling beperkt zich daartoe, het is aan de verzekeringsarts om te bepalen of sprake is van eventuele causaliteit en om beperkingen vast te stellen.** Een neuropsychologisch onderzoek heeft zelden toegevoegde waarde.
+
+*Hetero-anamnese*
+
+Het kan zeker bij lichamelijk onverklaarde chronische klachten bijdragen familie of vrienden het onderzoek te laten bijwonen. Bij observatie kan dit informatie opleveren over de manier waarop de cliënt met zijn omgeving omgaat. Een belangrijke maar weinig toegepaste vorm van verificatie is de arbeidsdeskundige op de werkplek te laten informeren naar het functioneren van de cliënt of eventuele achterliggende problemen op de werkplek. Hetero-anamnestische informatie is niet altijd betrouwbaar, omdat de betrokkenen vaak medebelanghebbend zijn. Wanneer de verzekeringsarts zich dat maar realiseert is dat geen reden dit na te laten of derden zelfs nadrukkelijk te weren.
+
+###### 7.2.2 — *Claimbeoordeling.*
+
+*Algemeen*
+
+De claimbeoordeling begint met een kort resumé van de claim. Daarbij geeft de verzekeringsarts een kernachtige schets wat er met de cliënt aan de hand is. De verzekeringsarts rapporteert zijn daarop volgende argumentatie over die claim in eigen bewoordingen. Een ‘belemmering’ is daarbij de kwalificatie van de perceptie door de cliënt en een ‘beperking’ de beoordeling daarvan door de verzekeringsarts. De cliënt ‘moet’ niet rusten, maar de verzekeringsarts constateert of het aannemelijk is dat hij of zij rust en gaat in op de vraag of dat medisch gezien nodig is. Of er sprake is van ‘concentratiestoornissen’ stelt de verzekeringsarts vast, evenals in hoeverre door de cliënt als feiten gepresenteerde omstandigheden daadwerkelijk aannemelijk zijn. Een modieuze en zelfgepercipieerde diagnose wordt niet zomaar overgenomen maar besproken en al of niet verworpen dan wel gemodificeerd.
+
+In het onderzoeksverslag komt de cliënt aan het woord. De beoordeling is daar in taalkundige en redactionele zin duidelijk van gescheiden, hier is de verzekeringsarts aan het woord.
+
+*Uitgangspunten claimbeoordeling*
+
+Bij de beoordeling van beperkingen wegens lichamelijke onverklaarde chronische klachten komen enkele algemene en telkens terugkerende uitgangspunten aan de orde:
+
+- – plausibiliteit en consistentie van de klachten en belemmeringen
+- – mogelijkheden prefereren zolang beperkingen niet overtuigend zijn gebleken
+- – inactiviteit is vanuit revalidatie gezichtspunt over het algemeen nadelig
+- – welke gezondheidsschade is te verwachten wanneer de klachten niet vermeden zouden worden.
+- – validiteit van argumenten die cliënt of behandelaars hebben aangereikt
+- – adequaatheid van het herstelgedrag
+- – autonomie en lijdensdruk van de cliënt
+
+De argumentatie is het moeilijkste deel van de claimbeoordeling. Het kan behulpzaam zijn daarbij deze bovengenoemde aspecten langs te lopen.
+
+*Probleemanalyse*
+
+Beperkingen van functioneren als uiting van ziekte hebben vaak een multifactoriële achtergrond. De verzekeringsarts bespreekt daarom kritische de medische, sociale en persoonlijke aspecten van de claim. Aan de hand van bovengenoemde uitgangspunten formuleert hij vervolgens conclusies ten aanzien van de mogelijkheden om te functioneren.
+
+*Medische aspecten*
+
+De verzekeringsarts bespreekt de eventuele door andere artsen gestelde diagnosen aan de hand van de litteratuur en daarvoor geldende criteria. Menige ‘fibromyalgie’ is vastgesteld zonder onderzoek naar de bekende drukpunten, menig ‘chronisch vermoeidheidsyndroom’ voldoet niet aan de criteria die de Gezondheidsraad daarvoor heeft gesteld en bij menige ‘burnout’ ontbreekt een duidelijke relatie met het werk. Als de verzekeringsarts geen diagnose kan stellen benoemt hij de klachten bij voorkeur naar hun aard (‘aspecifiek en chronisch’). Dit liever dan modieuze diagnosen te stellen die catastroferende attributies versterken.
+
+Ongeveer 20–30% van alle mensen met lichamelijk onverklaarde chronische klachten heeft een evidente psychische stoornis. De verzekeringsarts moet differentiaal diagnostisch onderstaande stoornissen overwegen en zonodig een psychiater vragen voor nadere diagnostiek.
+
+- – een *depressieve stoornis*: gekenmerkt door depressieve stemming en vermindering van interesse en plezier in bijna alle activiteiten
+- – een *angststoornis*: gekenmerkt door gespannenheid, prikkelbaarheid, slaapstoornissen
+- – een *aanpassingsstoornis of overspanning*: gekenmerkt door spanningsklachten en onmacht in duidelijke relatie met voorafgaande stressvolle omstandigheden
+- – een *somatoforme stoornis* waaronder ook de somatisatie stoornis en de hypochondrie vallen
+- – een *somatisatiestoornis*: gekenmerkt door een bont scala van telkens andere chronische klachten vanaf de adolescentie, met een grote medische consumptie
+- – *middelenafhankelijkheid*: gekenmerkt door overmatig gebruik van alcohol, slaapmiddelen of tranquillizers (vaak benzodiazepinen) en pijnstillers
+- – *hypochondrie*: gekenmerkt door irrationele angst voor ziekte
+- – *nagebootste stoornis*: gekenmerkt door een ziekelijke behoefte om aandacht te krijgen met een pathologisch doel
+- – *simulatie*: gekenmerkt door opzettelijke misleiding met een materieel doel
+
+Een psychische stoornis moet op grond van positieve indicaties vastgesteld worden. Het gaat niet aan lichamelijk onverklaarde chronische klachten in het psychiatrische spectrum (vaak als somatoforme of aanpassingstoornis) te plaatsen.
+
+*Contextuele aspecten*
+
+Bij het bespreken van de sociale of persoonlijke context zal regelmatig blijken dat veel klachten weliswaar onverklaarbaar, maar niet onbegrijpelijk zijn. In de omstandigheden of persoon gelegen factoren blijken misschien niet de oorzaak van de klachten, maar in elk geval wel te verhinderen dat de klachten overgaan en betrokkene zijn of haar normale rol weer oppakt. Met dat inzicht is meestal een aangrijpingspunt voor de beoordeling van beperkingen gevonden. Waarbij de vraag aan de orde komt in hoeverre de cliënt zijn activiteiten of ziektegedrag redelijkerwijs zou kunnen wijzigen of aanpassen waardoor hij minder of geen belemmeringen meer zou hoeven te ervaren. De verzekeringsarts overweegt dat tegenslag (zieke partner, moeilijk kind, mislukt huwelijk, schulden, verdriet, tegenvallende carrière, ontslag) bij het leven hoort. Dergelijke onderhoudende omstandigheden hebben een sociaal situatief karakter en zijn geen gevolg van ziekte. Daarbij is het van belang dat de verzekeringsarts zich een beeld heeft gevormd van de mate van autonomie van de cliënt. Daarvoor bieden biografie, herstelgedrag, medische consumptie en medicijngebruik, dagelijks functioneren en observaties op het spreekuur belangrijke aanknopingspunten. Het ligt daarbij niet voor de hand een beperkte autonomie te veronderstellen bij cliënten die uitstekend voor hun rechten blijken te kunnen opkomen.
+
+###### 7.2.3 — *Conclusie*
+
+*Mogelijkheden*
+
+In het algemeen zullen lichamelijk chronisch onverklaarde klachten geen aanleiding vormen voor het vaststellen van aanmerkelijke beperkingen. Bij een kritische beoordeling volgens bovengenoemde uitgangspunten zal de verzekeringsarts veelal lichte beperkingen vaststellen volgens de functionele mogelijkhedenlijst (Uitvoeringsorganisatie Werknemers Verzekeringen 2004).
+
+Wanneer klachten een overtuigend irreversibel karakter hebben gekregen kan het wijsheid zijn vermijdingsgedrag enigermate te faciliteren met het vaststellen van lichte fysieke beperkingen. Ernstige chronische klachten kunnen vitaliteit en stressbestendigheid zodanig verminderen, dat de cliënt alleen onder specifieke voorwaarden voor sociaal en persoonlijk functioneren in arbeid actief kan zijn. Of buiten staat geacht kan worden ’s nachts of meer dan een reguliere fulltime werkweek beroepsmatig actief te zijn.
+
+In zeldzame gevallen kunnen ernstiger beperkingen aan de orde zijn, bijvoorbeeld bij een sterk verminderde autonomie met aanmerkelijk verstoord slaap-waakritme en forse medische consumptie. Zo’n situatie zou echter direct de vraag moeten oproepen of nog wel sprake is van lichamelijk onverklaarde chronische klachten, dan wel van andere pathologie. Het gaat dan immers om situaties waarin mensen zich maatschappelijk nauwelijks meer zelfstandig kunnen handhaven. Wanneer dat aan de orde is doet de verzekeringsarts er verstandig aan een collega om een tweede mening te vragen, alvorens beperkingen vast te stellen. Dat kan dan alsnog resulteren in een indicatiestelling voor onderzoek door een psychiater.
+
+*Tenslotte*
+
+Ook na een zorgvuldig onderzoek naar alle feiten en omstandigheden, ingegeven door empathie enerzijds en scepsis anderzijds zullen elementen van subjectiviteit de claimbeoordeling parten blijven spelen. Een objectieve vaststelling bestaat niet.
+
+##### 7.3 — Aanvullende richtlijnen WIA beoordeling in relatie tot MUPS/LOK bij militairen na uitzendingen
+
+De Gezondheidsraad (GR) heeft in april 2007 het verzekeringsgeneeskundig WIA protocol Chronisch Vermoeidheid Syndroom (CVS) gepresenteerd. De GR geeft in dit protocol aan dat de MUPS/LOK bij militairen na uitzendingen gelijkenis vertonen met klachten die voorkomen bij CVS. Diverse studies tonen in de fenomenologie een sterke overeenkomst met CVS. Ook wordt gesteld dat CVS en MUPS/LOK bij militairen na uitzendingen, behoudens de oorzakelijke attributie, niet van elkaar zijn te onderscheiden. De GR meent dat bij dergelijke aan CVS verwante beelden, dus ook bij MUPS/LOK bij militairen na uitzendingen van haar protocol gebruik kan worden gemaakt bij de WIA beoordeling, ook al voldoen deze beelden niet volledig aan de definitie van CVS. De richtlijnen van de Gezondheidsraad, zoals verwoord in het nieuwe CVS-WIA protocol en voorzover bovenstaand nog niet beschreven, dienen te worden toegepast bij de MUPS/LOK-WIA beoordeling.
+
+##### 7.4 — Aanvullende richtlijnen IP beoordeling in relatie tot MUPS/LOK bij militairen na uitzendingen.
+
+###### 7.4.1 — *Vertrekpunten*
+
+Voor het vaststellen van een militair invaliditeitspensioen bij MUPS/LOK bij militairen na uitzendingen dient van de volgende vertrekpunten te worden uitgegaan:
+
+- • *De militaire pensioenvoorschriften*
+
+  Er moet sprake zijn van een ‘dienstverband aandoening’. De invaliditeit moet zijn opgelopen tijdens en door de uitzendingen en hebben geleid tot blijvende invaliditeit. De mate van invaliditeit dient te worden vastgesteld aan de hand van een barèma, tot heden de WPC-schaal.
+- • *Het ziektebegrip*
+
+  De operationele definitie zoals verwoord in dit protocol moet van toepassing zijn.
+- • *De causaliteit*
+
+  De causaliteit dient te worden aangetoond volgens het zogenaamde ‘stappenplan MUPS/LOK bij militairen na uitzendingen’ en de hieruit ontwikkelde medische causaliteitsregels.
+- • *De invaliditeitsdefinitie*
+
+  ‘de in een percentage uit te drukken mate van lichamelijke en geestelijke tekortkomingen en beperkingen, welke de belanghebbende in verhouding tot een geheel valide persoon van gelijke leeftijd in het dagelijks leven in het algemeen ondervindt’. Bij de vaststelling van het invaliditeitspercentage dient derhalve uit te worden gegaan van beperkingen en niet van de ernst van symptomen. Eventuele beperkingen in verband met arbeid dienen buiten beschouwing te blijven. Klachten, lijdensdruk en gederfde levensvreugde mogen niet worden meegewogen.
+- • *De invaliditeitsschatting*
+
+  Deze dient te gebeuren aan de hand van ADL en BDL (Activiteiten en Bijzondere activiteiten Dagelijks Leven)-beperkingen. De ernst van de beperkingen dient hierbij te worden weergegeven.
+
+Uitgaande van deze vertrekpunten staan bij de IP beoordeling van MUPS/LOK bij militairen na uitzending diverse onderwerpen ter discussie, welke extra aandacht verdienen. Dit betreffen:
+
+- – Het ziektebegrip: In hoofdstuk 1 is hierop ingegaan en is de operationele definitie verwoord.
+- – De dienstverbandbeoordeling en de causaliteitsvraag. Op deze beide onderwerpen is in hoofdstuk 6 (causaliteit) ingegaan.
+- – De schatting van het invaliditeitspercentage volgens de WPC-schaal (War Pension Committee): De schattingsmethodiek volgens de WPC-schaal voldoet niet bij MUPS/LOK bij militairen na uitzending. De WPC schaal kent de aandoening niet eens, laat staan dat de schaal richtlijnen voor de schatting geeft. Onderstaand wordt, aanvullend op de WPC-schaal een methodiek beschreven waarmee het invaliditeitspercentage op een transparante reproduceerbare wijze kan worden geduid.
+- – Het maken van een onderscheid tussen beperkingen gerelateerd aan de dienstverband aandoening en de beperkingen die hiervan los staan. Ook dit onderwerp is in het hoofdstuk causaliteit ter sprake gekomen.
+
+###### 7.4.2 — *Schattingsmethodiek invaliditeit bij MUPS/LOK bij militairen na uitzending*
+
+Voor de schatting van de invaliditeit wordt gebruik gemaakt van onderdelen uit het rapport ‘schade in schalen de psyche in beeld’. Dit rapport beschrijft een methode om de beperkingen bij psychische en moeilijk te objectiveren klachten te duiden. Tevens geeft het rapport een handvat voor de schatting van de mate van invaliditeit. Bij MUPS/LOK bij militairen na uitzending bevinden de beperkingen zich vooral op het terrein van het algemeen dagelijks leven en op het terrein van concentratie/doorzettingsvermogen en tempo. Het rapport verdeelt deze beperkingen onder in 2 rubrieken en vervolgens in 6 subrubrieken.
+
+Per subrubriek worden de beperkingen omschreven. Daarnaast moet de ernst van de beperkingen worden geclassificeerd en eveneens worden omschreven. Tot slot dienen de aldus gerubriceerde en geclassificeerde beperkingen te worden geconverteerd naar een invaliditeitspercentage. Onderstaand wordt deze operationalisering nader uitgewerkt.
+
+*Rubricering in 2 rubrieken en daarna in 6 subrubrieken*
+
+- • **Rubriek 1: Activiteiten van het dagelijkse leven,** met als 4 subrubrieken: persoonlijke hygiëne en zelfzorg, mobiliteit, slapen, seksuele functie
+- • **Rubriek 2: Concentratie doorzettingsvermogen en tempo,** met als 2 subrubrieken structuur aanbrengen en huishoudelijke activiteiten.
+
+*Omschrijving van het normale functioneren op subrubriek niveau*
+
+Voordat men beperkingen kan duiden, dient men eerst bekend te zijn met het normale functioneren op subrubriek niveau. De omschrijving van het normale functioneren is als volgt tot stand gekomen: in eerste instantie zijn de subrubrieken opgesplitst in totaal 15 clusteractiviteiten. Ieder persoon zonder beperkingen wordt geacht deze activiteiten normaliter te kunnen verrichten. Deze clusteractiviteiten zijn omschreven in tabel 1. Deze activiteiten zijn vervolgens met elkaar gecombineerd. Zo kon het normale functioneren (klasse 0) op subrubriek niveau worden beschreven (zie tabel 2 voor subrubriek 1 en bijlage 3).
+
+*Classificatie ernst van de beperkingen*
+
+De ernst van de beperkingen wordt onderverdeeld in: klasse 0 normaal; klasse 1 geringe beperkingen; klasse 2 milde beperkingen; klasse 3 matige beperkingen; klasse 4 ernstige beperkingen; klasse 5 extreme beperkingen.
+
+*Omschrijving ernst van de beperkingen op subrubriek niveau*
+
+Van elke subrubriek is, zoals bovenstaand weergegeven een omschrijving gemaakt van het normale functioneren. Met deze omschrijving als (normaal) uitgangspunt zijn vervolgens de tot deze subrubriek behorende beperkingen naar ernst beschreven. In tabel 2 staat als voorbeeld het normale functioneren en de uitgewerkte classificatie van subrubriek 1. In bijlage 3 staan alle subrubrieken per klasse verwoord.
+
+*Het duiden van een percentage invaliditeit*
+
+Per subrubriek wordt de ernst van de beperkingen geduid. De score van alle subrubrieken, behorend tot dezelfde rubriek worden bij elkaar opgeteld en vervolgens gedeeld door het aantal subrubrieken. Voor rubriek 1 moet dus worden gedeeld door 4. Op deze wijze wordt de rubriekscore verkregen. De beide rubriekscores worden vervolgens bij elkaar opgeteld en daarna gedeeld door 2. Zo ontstaat de gemiddelde rubriekscore. Deze score is een getal tussen de 0 en 5. Dit getal wordt lineair vertaald naar een percentage: zo komt een score van 1 uit op 20%, een score van 2,6 op 52% blijvende invaliditeit (zie tabel 3).
+
+Zoals eerder al gesteld bij het duiden van de mogelijkheden bij de WIA beoordeling, zullen lichamelijk chronisch onverklaarde klachten in het algemeen geen aanleiding vormen voor het vaststellen van aanmerkelijke beperkingen. Bij het zorgvuldig systematisch doornemen van de subrubrieken scores zal blijken dat de meeste cliënten belemmeringen ervaren in de klassen 0, 1 of hooguit 2. Bij een hogere classificatie dient een second opinion van een tweede arts te volgen.
+
+**Tabel 1**
+
+<table>
+<tr><td colspan="2"><b>Activiteiten van het dagelijkse leven (rubriek 1)</b></td></tr>
+<tr><td>(subrubriek 1)<br>Persoonlijke Hygiëne, Zelfzorg<br>(in staat tot):</td><td>1. Zelfstandig bord kunnen vullen en met bestek kunnen eten.<br>2. Zelfstandig zich kunnen wassen, douche of bad kunnen gebruiken.<br>3. Zelfstandig zonder bevuiling, gebruik maken van toilet en zelfredzaam zijn bij het verrichten van de persoonlijke hygiëne daarna.<br>4. Zich zelfstandig kunnen aan en uitkleden.<br>5. Zelfstandig scheren, haren kammen, gezicht opmaken.</td></tr>
+<tr><td>(subrubriek 2)<br>Mobiliteit<br>(in staat tot):</td><td>6. Zelfstandig met het openbaar vervoer kunnen reizen naar (on)bekende bestemmingen onder wisselende omstandigheden, plannen en vinden route, vervoersbewijs verzorgen en kunnen overstappen.<br>7. Zelfstandig met auto of fiets deelnemen aan het verkeer in de omgeving van betrokkene.</td></tr>
+<tr><td>(subrubriek 3)<br>Slapen<br>(in staat tot):</td><td>8. Binnen 1 uur inslapen, minimaal 5 maal per week, bij een gemiddelde (nacht)rust van 6 uur.<br>9. Minimaal 5 maal per week, al dan niet met slaapmedicatie, minstens 6 uur doorslapen en uitgerust opstaan.</td></tr>
+<tr><td>(subrubriek 4)<br>Seksuele functie<br>(in staat tot):</td><td>10. Seksueel getinte handelingen waaronder aanraken, strelen, kussen van/door anderen, zelf uitvoeren of ondergaan.<br>11. Het ondervinden van bijzondere lustgevoelens tijdens de ejaculatie/het hoogtepunt van seksuele activiteiten.<br>12. Het hebben van seksuele gedachten/voorstellingen en het hierbij optreden van erecties of afscheiden van lichaamssappen.</td></tr>
+<tr><td colspan="2"><b>Concentratie doorzettingsvermogen en tempo (rubriek 2)</b></td></tr>
+<tr><td>(subrubriek 8)<br>Structuur aanbrengen (in staat tot):</td><td>13. Het vermogen om concentratie en aandacht lang genoeg vol te houden en te verdelen om, met inzicht in eigen handelen, zelfstandig complexe taken in het algemeen dagelijks leven, in de daarvoor gestelde termijn doelmatig te voltooien. Schat eigen mogelijkheden redelijk in. Handelt doelmatig: start op tijd, in juiste volgorde, controleert zichzelf en eindigt als doel bereikt is, of niet bereikt kan worden.</td></tr>
+<tr><td>(subrubriek 9)<br>Huiselijke activiteiten<br>(in staat tot):</td><td>14. Het vermogen om huishoudelijke taken als verzorgen maaltijd, op peil houden voorraden, schoonhouden woning, activiteiten in en rond het huis, tuinonderhoud, kluswerkzaamheden, etc. op een zelfstandige doelmatige manier, in de juiste volgorde in een gebruikelijk tempo te verrichten.<br>15. Minstens ½ uur concentratie mogelijk op boek, documentaire, krant etc. Kan minstens ½ uur aandacht verdelen over meerdere informatiebronnen. Herinnert zich meestal tijdig relevante zaken.</td></tr>
+</table>
+
+**Tabel 2**
+
+| | Persoonlijke Hygiëne, Zelfzorg (subrubriek 1) |
+| --- | --- |
+| Klasse 0 (Definitie) | In staat tot zelfstandig eten, wassen, gebruik maken van toilet, kleden en toilet maken. |
+| Klasse 1 | Morst soms, echter niet elke dag met het eten en/of wast zich niet of onvoldoende en/of trekt kledingstukken niet of verkeerd aan etc. Onderkent dit en kan dit zelf corrigeren. Behoeft geen hulp. |
+| Klasse 2 | Morst vrijwel dagelijks met het eten en/of wast zich niet of onvoldoende en/of trekt kledingstukken niet of verkeerd aan etc. Onderkent dit maar kan dit niet steeds zelf corrigeren. Behoeft bij sommige activiteiten wat ondersteuning. Heeft niet gestructureerd voortdurend bij bepaalde activiteiten hulp nodig. Wel paar maal per week begeleiding gewenst. Kan verder zelfstandig functioneren. |
+| Klasse 3 | Heeft voor sommige van bovengenoemde activiteiten dagelijks hulp nodig. Kan dankzij deze hulp nog zelfstandig functioneren. |
+| Klasse 4 | Is voor vrijwel alle bovengenoemde activiteiten afhankelijk van hulp. Kan slechts enkele uren achter elkaar zonder hulp. |
+| Klasse 5 | Volledig 24 uur per dag afhankelijk van hulp. |
+
+**Tabel 3**
+
+<table>
+<tr><th>Beperkingen</th><th></th><th>Klasse 0</th><th>Klasse 1</th><th>Klasse 2</th><th>Klasse 3</th><th>Klasse 4</th><th>Klasse 5</th><th>Toelichting<sup>1</sup></th></tr>
+<tr><th></th><th></th><th>Geen</th><th>Gering</th><th>mild</th><th>matig</th><th>ernstig</th><th>extreem</th><th></th></tr>
+<tr><td>Score Rubrieken</td><td>Score Subrubrieken</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td rowspan="4">Activiteiten dagelijkse leven (1)</td><td>1. Hygiëne en zelfzorg</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2. Mobiliteit</td><td></td><td></td><td></td><td></td><td>x</td><td></td><td></td></tr>
+<tr><td>3. Slapen</td><td></td><td></td><td></td><td>x</td><td></td><td></td><td></td></tr>
+<tr><td>4. Seksuele functie</td><td></td><td></td><td></td><td></td><td>x</td><td></td><td></td></tr>
+<tr><td><b>Rubrieksubscore (1):</b><br><b>11:4 = 2,75</b></td><td colspan="8"><b>Subrubriek subscore: 11</b><br><b>(0+4+3+4 = 11)</b></td></tr>
+<tr><td rowspan="2">Concentratie, volharding en tempo (2)</td><td>5. Structuur aanbrengen</td><td></td><td></td><td></td><td>x</td><td></td><td></td><td></td></tr>
+<tr><td>6. Huiselijke activiteiten</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr>
+<tr><td><b>Rubrieksubscore (2):</b><br><b>5:2 = 2,5</b></td><td colspan="8"><b>Subrubriek subscore: 5</b><br><b>(3+2 = 5)</b></td></tr>
+<tr><td><b>(Gemiddelde) Rubriekscore:</b><br><b>5,25:2= 2,65</b></td><td colspan="8"><b>(Gemiddelde) Subrubriekscore:</b><br><b>16: 6 = 2,6</b></td></tr>
+</table>
+
+<sup>1</sup> Gemotiveerd mag hiervan van worden afgeweken.
+
+Invaliditeitspercentage berekend via rubrieken: Rubriekscore = 2,6. Op de schaal van 0–5 geeft dit 52%, dus klasse 50–55. Dit geeft 50% voor het Militair Invaliditeit Pensioen
+
+#### 8 — **Geraadpleegde litteratuur**
+
+Adviescommissie WPC-PIM Schade in schalen – de psyche in beeld. Ministerie van Defensie, Den Haag juni 2005
+
+Bass C, May S. 2002. Chronic multiple functional somatic symptoms. \[ABC of psychological medicine.\] BMJ 325: 323–326.
+
+Bale, A. J. and Lee, H. A. An observational study on diagnoses of 3,233 Gulf Veterans (Op Granby 1990–91) who attended the Ministry of Defence's Medical Assessment Programme 1993–2004. J R Nav Med Serv. 2005; 91(2):99–111.
+
+Bazelmans, E.; Prins, J. B.; Lulofs, R.; van der Meer, J. W., and Bleijenberg, G. Cognitive behaviour group therapy for chronic fatigue syndrome: a non-randomised waiting list controlled study. Psychother Psychosom. 2005; 74(4):218-24.
+
+Bazelmans, E.; Vercoulen, J. H.; Swanink, C. M.; Fennis, J. F.; Galama, J. M.; van Weel, C.; van der Meer, J. W., and Bleijenberg, G. Chronic Fatigue Syndrome and Primary Fibromyalgia Syndrome as recognized by GPs. Fam Pract. 1999 Dec; 16(6):602-4.
+
+Bazelmans, E.; Vercoulen, J. H.; Galama, J. M.; van Weel, C.; van der Meer, J. W., and Bleijenberg, G. \[Prevalence of chronic fatigue syndrome and primary fibromyalgia syndrome in The Netherlands\]. Ned Tijdschr Geneeskd. 1997 Aug 2; 141(31):1520-3.
+
+Blanchard EB, Hickling EJ, Taylor AE, Buckley TC, Loos WR, Walsh J. 1998. Effects of litigation settlement on posttraumatic stress symptoms in motor vehicle accident victims. J Traum Stress 11: 337-54.
+
+Chalder T, Hotopf M, Unwin C, Ismail K, David A, Wessely S. 2001. Prevalence of Gulf war veterans who believe they have Gulf war Syndrome: questionnaire study. BMJ 323: 473–476.
+
+Cherry N, Creed F, Silman A, Dunn G, Baxter D, Smedley J, Taylor S, Macfarlane GJ. 2001. Health and exposures of United Kingdom Gulf was Veterans. Occup Environ Med; 58: 291–298.
+
+De Loos WS. 1999. Post-Deployment Syndromen – Research en Behandeling in het Centraal Militair Hospitaal. Extern Advies uitgebracht aan de Medische Staf CMH.
+
+De Loos WS. 2000. Somatic war syndromes: no man’s land between the trenches? Eur J Clin Invest 30: 566–569.
+
+De Vries, M.; Soetekouw, P. M.; van der Meer, J. W., and Bleijenberg, G. The role of post-traumatic stress disorder symptoms in fatigued Cambodia veterans. Mil Med. 2002 Sep; 167(9):790-4.
+
+De Vries M, Soetekouw PMMB, Van der Meer JWM, Bleijenberg G. 2000. Fatigue in Cambodia veterans. Quart J Med 93: 283–289.
+
+De Vries M, Soetekouw PMMB, Van der Meer JWM, Bleijenberg G. 2001. Natural course of symptoms in Cambodia veterans: a follow-up study. Psychol Med 31: 331–333.
+
+Engel CC, Roy M, Kayanan D, Ursano R. 1998. Multidisciplinary Treatment of Persistent Symptoms after Gulf War Service. Mil Med 163: 202–208
+
+Engel, C. C. Jr; Ursano, R.; Magruder, C.; Tartaglione, R.; Jing, Z.; Labbate, L. A., and Debakey, S. Psychological conditions diagnosed among veterans seeking Department of Defense Care for Gulf War-related health concerns. J Occup Environ Med. 1999 May; 41(5):384-92.
+
+Engel, C. C. Jr; Adkins, J. A., and Cowan, D. N. Caring for medically unexplained physical symptoms after toxic environmental exposures: effects of contested causation. Environ Health Perspect. 2002 Aug; 110 Suppl 4:641-7.
+
+Engel, C. C.; Hyams, K. C., and Scott, K. Managing future Gulf War Syndromes: international lessons and new models of care. Philos Trans R Soc Lond B Biol Sci. 2006 Apr 29; 361(1468):707-20.
+
+Frueh BC, Gold PB, Arellano MA de. 1997. Symptom overreporting in combat veterans evaluated for PTSD: differentiation on the basis of compensation seeking status. J Person Assess 68: 369–384.
+
+Fukuda K, Nisenbaum R, Stewart G, Thompson WW, Robin L, Washko RM, Noah DL, Barrett DH, Randall b,
+
+Ford, J. D.; Campbell, K. A.; Storzbach, D.; Binder, L. M.; Anger, W. K., and Rohlman, D. S. Posttraumatic stress symptomatology is associated with unexplained illness attributed to Persian Gulf War military service. Psychosom Med. 2001 Sep-2001 Oct 31; 63(5):842-9.
+
+Fordyce, W. E. A behavioural perspective on chronic pain. Br J Clin Psychol. 1982 Nov; 21 (Pt 4):313-20.
+
+Gronseth, G. S. Gulf war syndrome: a toxic exposure? A systematic review. Neurol Clin. 2005 May; 23(2):523-40.
+
+Herwaldt BL, Mawle AC, Reeves WC. 1998. Chronic multisymptom illness affecting Air Force veterans of the Gulf War JAMA 280: 981-8.
+
+Higgins, E. M.; Ismail, K.; Kant, K.; Harman, K.; Mellerio, J.; Du Vivier, A. W., and Wessely, S. Skin disease in Gulf war veterans. QJM. 2002 Oct; 95(10):671-6.
+
+Gray GC, Coate BD, Anderson CM, Kang HK, Berg SW, Wignall FS, Knoke JD, Barrett-Connor E. 1996. The postwar hospitalization experience of U.S. veterans of the Persian Gulf War. NEJM 335: 1505–1513.
+
+Haley RW, 1997. Is there a Gulf War syndrome? Searching for syndromes by factor analysis of symptoms. JAMA; 277: 215-22.
+
+Huibers, M. J.; Beurskens, A. J.; Van Schayck, C. P.; Bazelmans, E.; Metsemakers, J. F.; Knottnerus, J. A., and Bleijenberg, G. Efficacy of cognitive-behavioural therapy by general practitioners for unexplained fatigue among employees: Randomised controlled trial. Br J Psychiatry. 2004 Mar; 184:240-6.
+
+Gezondheidsraad verzekeringsgeneeskundig protocol chronisch vermoeidheidssyndroom, GR, Den Haag 2007
+
+Gezondheidsraad 3B richtlijnen juli 2005
+
+Hyams KC, Riddle J, Trump DH, Wallace MR. 2002. Protecting the Health of United States Military Forces in Afghanistan: Applying Lessons Learned since the Gulf War. Clin Infect Dis 34 (Suppl 5): S208-14.
+
+Ismail K, Everitt B, Blatchley N, Hull L, Unwin C, David A, Wessely S. 1999. Is there a Gulf War syndrome? Lancet; 353: 179-82.
+
+Jones, E. Historical approaches to post-combat disorders. Philos Trans R Soc Lond B Biol Sci. 2006 Apr 29; 361(1468):533-42.
+
+Jones, E.; Hodgins-Vermaas, R.; McCartney, H.; Everitt, B.; Beech, C.; Poynter, D.; Palmer, I.; Hyams, K., and Wessely, S. Post-combat syndromes from the Boer war to the Gulf war: a cluster analysis of their nature and attribution. BMJ. 2002 Feb 9; 324(7333):321-4.
+
+Kang HK, Bullman TA. 1996. Mortality among U.S. veterans of the Persian Gulf War. NEJM 335: 1498–1504.
+
+Kroenke K. 1998. Symptoms in 18,495 Persian Gulf War veterans. Latency of onset and lack of association with self-reported exposures. J Occup Environ Med; 40: 520-8.
+
+Kelsall, H.; Sim, M.; McKenzie, D.; Forbes, A.; Leder, K.; Glass, D.; Ikin, J., and McFarlane, A. Medically evaluated psychological and physical health of Australian Gulf War veterans with chronic fatigue. J Psychosom Res. 2006 Jun; 60(6):575-84.
+
+Landelijk instituut sociale verzekeringen standaard onderzoeksmethoden Lisv, Amsterdam 2000.
+
+Lincoln, A. E.; Helmer, D. A.; Schneiderman, A. I.; Li, M.; Copeland, H. L.; Prisco, M. K.; Wallin, M. T.; Kang, H. K., and Natelson, B. H. The war-related illness and injury study centers: a resource for deployment-related health concerns. Mil Med. 2006 Jul; 171(7):577-85.
+
+Liu, X.; Engel, C. C. Jr; Cowan, D., and McCarroll, J. E. Using general population data to project idiopathic physical symptoms in the U.S. Army. Mil Med. 2002 Jul; 167(7):576-80.
+
+Maassen, H. Fysiek is altijd psychisch. Medisch Contact 61 (2006) 40:1568-70
+
+Mayou R. 1995. Medico-legal aspects of road traffic accidents. J Psychosom Res 39: 789–798.
+
+Mayou R. 1996. Accident neurosis revisited. \[Editorial\]. Brit J Psychiatry 168: 399–403.
+
+Medische Werkgroep project WIA Zorg. WIA en IP Protocol Ministerie van Defensie
+
+Mendelson G. 1995. ‘Compensation neurosis’ revisited: outcome studies of the effects of litigation. J Psychosom Res 39: 695–706.
+
+Mouthaan J, Libanon, 25 jaar later: Het laat ons nooit meer los. Veternaneinstituut, Interne Publicatie, 2005
+
+Mulder YM, Reijneveld SA. 1999. Gezondheidsonderzoek UNPROFOR. Een onderzoek onder militairen die uitgezonde zijn geweest naar Lukavac, Santici en Busovaca (Bosnië-Herzegovina) in de periode 1994–1995. Leiden: TNO Preventie en Gezondheid.
+
+Ned .Inst.v. Onderzoek van de Gezondheidszorg. Klachten en aandoeningen in de bevolking en in de huisartspraktijk. Nivel, Utrecht 2004
+
+Nisenbaum R, Barrett DH, Reyes M, Reeves WC. 2000. Deployment stressors and a chronic multisymptom illness among Gulf War veterans. J Nerv Ment Dis 188: 259–266.
+
+Plan van Aanpak Zorg- en Onderzoekslijn Post Deployment Syndromen. 1999. Voorbereidingscommissie PDS.
+
+Reid S, Hotopf M, Hull L, Ismail K, Unwin C, Wessely S. 2001. Multiple chemical sensitivity and chronic fatigue syndrome in British Gulf War veterans. Am J Epidem 153: 604–609.
+
+Richards SCM, Scott DL. 2002. Prescribed exercise in people with fibromyalgia: parallel group randomised controlled trial. BMJ 325: 185–188.
+
+Soetekouw PMMB, de Vries M, van Bergen LFJM, Galama JMD, Keyser A, Bleijenberg G, van der Meer JWM. 2000a. Somatic Hypotheses of War Syndromes. Eur J Clin Invest, 30: 630–641.
+
+Soetekouw PMMB, de Vries, PMMM, Bleijenberg G, van der Meer JWM. 2000b. Het Post-Cambodja Klachten Onderzoek Fase II. Universitair Medisch Centrum St. Radboud.
+
+Soetekouw, P. M.; de Vries, M.; van Bergen, L.; Galama, J. M.; Keyser, A.; Bleijenberg, G., and van der Meer, J. W. Somatic hypotheses of war syndromes. Eur J Clin Invest. 2000 Jul; 30(7):630-41.
+
+Spiegel, D. and Vermetten, E. Post-traumatic stress disorder: medicine or politics (not both). Lancet. 2007 Mar 24; 369(9566):992.
+
+Straus SE. 2002. Caring for patients with chronic fatigue syndrome. Conclusions in CMO’s report are shaped by anecdote not evidence. BMJ 324: 124–125.
+
+Stulemeijer, M.; de Jong, L. W.; Fiselier, T. J.; Hoogveld, S. W., and Bleijenberg, G. Cognitive behaviour therapy for adolescents with chronic fatigue syndrome: randomised controlled trial. BMJ. 2005 Jan 1; 330(7481):14.
+
+Tiesinga, Commissie. 2000. Rapportage Begeleidings Commissie Post Cambodja Klachten Fase II, 12 december 2000.
+
+Tiesenga III, Commissie. 1999. Rapportage Begeleidingscommissie Onderzoek Lukavacs Klachten-Gezondheidsonderzoek UNPROFOR. Op 24 februari 1999 uitgebracht aan de Bevelhebber Land-Strijdkrachten.
+
+Tijdelijk instituut sociale verzekeringen medisch arbeidsongeschiktheidscriterium Tica, Amsterdam 1995
+
+Trump DH, Mazzuchi JF, Riddle J, Hyams KC, Balough B. 2002. Force health protection: 10 years of lessons learned by the Department of Defense. Mil Med 167: 179–185.
+
+Uitvoeringsorganisatie Werknemers Verzekeringen (UWV). Functionele Mogelijkhedenlijst (FML), versie oktober 2004, UWV, Amsterdam
+
+Unck FAW. Intern Memorandum. CMH. 17 maart 1999
+
+Unexplained illness among Persian Gulf War veterans in an Air National Guard Unit: preliminary report-August 1990–March 1995. MMWR Morb Mortal Wkly Rep. 1995 Jun 16; 44(23):443-7.
+
+Van der Gulden JW. Onverklaarde chronische klachten Bohn, Stafleu van Loghum, Houten, 2006
+
+Van der Mast R: Onverklaarde lichamelijke klachten: een omvangrijk probleem, maar nog weinig zichtbaar in opleiding en richtlijnen. Ned Tijdschrift voor Geneeskunde, 2006, 150, 686–692
+
+Vermetten E , de Loos W: Medisch Onbegrepen Lichamelijke Klachten bij Veteranen; het Post-Deploymentsyndroom, diagnose en zorg in ontwikkeling. Hulpverlening aan Nederlandse veteranen; over preventie, signalering en nazorg, W Visser (red), ICODO/Veteraneninstituut, 2003, pp 51–72
+
+Vermetten E: Posttraumatische Stress Stoornis. Belang van een zorgvuldige diagnose. De rol van het aansprakelijkheidsrecht bij de verwerking van persoonlijk leed. Van Maanen (red), Boom Juridische Uitgevers, Den Haag, 2003, pp 61–84
+
+Vermetten E , de Loos W: Medisch Onbegrepen Lichamelijke Klachten bij Veteranen; het Post-Deploymentsyndroom, diagnose en zorg in ontwikkeling. Veteranenbundel, Veteraneninstituut, 2004, pp 51–63
+
+Vermetten E, Meulman E, Francati V, de Kloet C, Unck F. Psychiatrische aandoeningen bij UNIFIL veteranen op de Afdeling Militaire Psychiatrie; een retrospectief dossier onderzoek over de periode 1992–2005, Nederlands Militair Geneeskundig Tijdschrift, 2007
+
+Voelker MD; Saag KG; Schwartz DA; Chrischilles E, Clarke WR; Woolson RF, Doebbeling BN. 2002. Health-related quality of life in Gulf War era military personnel. Am J Epidem 155: 899–907.
+
+Wegman DH, Woods NF, Bailar JC. 1997. Invited commentary: How would we know a Gulf war syndrome if we saw one? Am J Epid 1997; 146: 704–711.
+
+Whiting P, Bagnall A-M, Sowden AJ, Cornell JE, MulrowCD, Ramírez G. 2001. Interventions for the treatment and management of chronic fatigue syndrome – A systematic review. JAMA 286: 1360–1368.
+
+#### Bijlage 1: — **LOK POLI**
+
+##### Algemeen
+
+In 2002 is een pilot studie verricht bij militairen met lichamelijk onbegrepen chronische klachten. Naar aanleiding van deze studie is de aanbeveling gedaan om binnen het CMH een LOK-poli met een multidisciplinaire invalshoek in te richten met twee doelstellingen:
+
+- 1. het valideren van de aanname van oorzakelijkheid van de LOK-klachten; het is belangrijk dat naar de klachten goede diagnostiek geschiedt en additioneel wetenschappelijk onderzoek wordt verricht
+- 2. het bieden van een therapeutisch programma, analoog aan state-of-the-art hulpverlening voor deze klachten;
+
+Deze LOK-poli zou analoog aan de pijnteams in academische centra, moeten bestaan uit een multidisciplinair team.
+
+De pilot studie werkte met een zorgprogramma. Dit programma was gericht op vermindering dan wel opheffing van de klachten, en indien niet realiseerbaar, op acceptatie en minder invaliderend leren omgaan met de klachten. Hoewel de opzet primair op hulpverlening was gericht, boden de gebruikte meetinstrumenten tegelijkertijd een aanknopingspunt voor nog te ontwikkelen wetenschappelijk onderzoek op dit gebied. Er werd tijdens deze pilot een multidisciplinaire zorglijn/behandeling samengesteld met de afdelingen/diensten psychiatrie, interne geneeskunde, neurologie en fysiotherapie. De behandeling bestond uit 4 therapeutische onderdelen welke in deeltijdverband in een gesloten groep voor de duur van 16 weken werden aangeboden aan een groep van 6–8 patiënten per deeltijdgroep:
+
+- 1. een cognitieve, gedragstherapeutische interventie gericht op zelfwaardering, de eigen gezondheidsbeleving en hoe hierin verandering te bereiken
+- 2. lichamelijke oefentherapie gericht op het evenwicht tussen belasting en belastbaarheid, interactie in sport en spel en het verkennen van de persoonlijke grenzen, onder meer in relatie tot het eigen lichaam, met aerobe oefenvormen
+- 3. gezondheidseducatie in brede zin met onder meer aandacht voor de geschiedenis van veteranenziekten, stress en diverse lichamelijke onbegrepen chronische klachten
+- 4. gevat in en omlijst door het principe van casemanagement als algemene ondersteuning van de deelnemende patiënten
+
+##### Voorstel Uitvoering LOK Poli
+
+*Uitgangspunten*
+
+- 1. Een generalist (huisarts of onderdeelsarts) doet de intakes in het CMH (loketfunctie, ‘1e termijn poli’).
+- 2. Er komt een standaardprotocol voor de intake van nieuwe LOK-patiënten met anamnese, lichamelijk onderzoek en een minimaal pakket aan laboratoriumtesten.
+- 3. Het is aan het oordeel van de generalist om bij twijfel aanvullend onderzoek aan te vragen, in overleg met relevante specialisten.
+- 4. Psychiatrische en verzekeringstechnische exclusiecriteria worden zodanig geformaliseerd en gespecificeerd dat de onderzoekspopulatie niet te heterogeen is. De omschrijving: ‘er mag geen medische verklaring zijn’ is te vaag. Er mag geen duidelijk (somatisch) pathofysiologisch substraat zijn (b.v. ontsteking). Er moet in ieder geval een vermoeden bestaan op en relatie met de uitzending (klachten waren voordien niet aanwezig).
+- 5. Drugsgebruik: een totale exclusie is niet realistisch (te veel uitval). Er wordt nader gespecificeerd welke middelen wel of niet toegelaten zijn. Het gebruik mag niet compulsief zijn, het dagelijks leven ontwrichten, of ingrijpende effecten op de fysiologische onderzoeksdomeinen hebben.
+- 6. Er wordt voldoende aandacht besteed aan communicatieontwikkeling tussen behandelaars onderling. Er vindt een grondige voorbereiding plaats in teambesprekingen. Alle behandelaars moeten dezelfde taal spreken en dezelfde strategie volgen naar de patiënt.
+- 7. Het hele diagnose- en behandeltraject moet in het CMH plaatsvinden, en niet onder het ‘bordje’ Militaire Psychiatrie. Een psychiater kan later wel bij het onderzoek en de behandeling betrokken zijn, maar het psychiatrisch element moet niet domineren omdat dit de werving van patiënten bemoeilijkt.
+- 8. Patiënten kunnen vóór begin en na afloop van de behandeling eventueel worden gekoppeld aan een specialist van het belangrijkste klachtendomein. Dit kan ook de primaire verwijzer zijn. Deze mag niet bij het behandeltraject betrokken worden.
+- 9. Er wordt voor aanvang geformuleerd in welke omstandigheden de patiënt tijdens de behandeling uit onderzoek geexcludeerd wordt (b.v. full-blown PTSS).
+- 10. Fysiotherapie: patiënten worden ook bij exclusie uit het onderzoek niet te snel uit de behandelingsgroep gehaald, maar men laat ze het traject afmaken, eventueel met aanvullende behandeling. Alleen als de problematiek zeer ernstig/disruptief is wordt de patiënt uit de groep verwijderd.
+- 11. Het toevoegen van additionele parameters, bijvoorbeeld experimentele maagdistensie met lucht in het onderzoeksprotocol wordt overwogen als dit niet te belastend voor de patiënt wordt, eventueel alleen als follow-up voor een subgroep patiënten met functionele maagdarm klachten.
+- 12. Neem een oorzakelijke rol van uitzending wel op in het onderzoeksprotocol, maar benadruk het niet naar de patiënt toe (‘U heeft klachten; oorzaak is complex, we gaan proberen het beter te begrijpen en er wat aan te doen’).
+- 13. Het besef van een relatie met de uitzending kan bij de patiënt wel steeds meer groeien tijdens behandeling. Bedenk van tevoren hoe je daar mee omgaat.
+- 14. De benodigde ruimten voor behandeling en onderzoek worden opgenomen in de planning en begroting. Dit wordt grondig voorbereid en bijtijds doorgegeven aan de staf van het CMH.
+- 15. Bij follow-up (6 en 12 mnd) wordt expliciet gevraagd of er inmiddels een ziekte is ontstaan die retrospectief een verklaring voor de lichamelijk onbegrepen chronische klachten vormt.
+
+*Organisatie*
+
+De LOK-poli kent drie functionele patiënt gebonden disciplines:
+
+- – intaketeam, een groep onderzoekers, belast met planning en uitvoering en evaluatie van diagnostische assessment
+- – onderzoekers in het kader van wetenschappelijk onderzoek
+- – behandelaars belast met uitvoer en evaluatie van het zorgaanbod
+
+*Ad a. Intaketeam*
+
+Diagnostiek wordt verricht door een huisarts welke in overleg kan treden met een team van medisch specialisten, waaronder, neuroloog, internist, psychiater, revalidatiearts, cardioloog, KNO-arts, klinisch psycholoog met betrekking tot diagnostiek en noodzaak voor aanvullende bepalingen/verrichtingen.
+
+*Ad b. Onderzoeksteam*
+
+Bij iedere patiënt wordt in principe een onderzoeksprotocol afgenomen voor wetenschappelijk onderzoek en worden ingangstesten met betrekking tot stress-reactiviteit verricht volgens protocol. De coördinatie wordt verricht door een medisch-biologisch expert.
+
+*Ad c. Behandelteam*
+
+Naast het diagnostische team is er een team behandelaars. Belangrijk is dat alle behandelaars inhoudelijk op de hoogte zijn van de casus en op één lijn zitten met betrekking tot doel en werkwijze. Mede ter bewaking hiervan zijn binnen het team op gezette tijden voortgangsbesprekingen,. Afhankelijk van het patiënten aanbod is dit eenmaal per week als voltallig behandelteam en eenmaal per vier weken uitgebreid. Voor overdracht wordt verzorgd bij afwezigheid en ziekte. Alle behandelaars faciliteren uitvoer van metingen bij deelnemers, overeenkomstig het protocol.
+
+Eindverantwoordelijkheid wordt gedragen door de projectcoördinatie. Databeheer en analyse gebeurt door de LOK-projectcoördinator die in samenwerking met een onderzoeksassistent en in overleg met de behandelaars het specifieke onderzoeksgedeelte begeleidt en uitvoert.
+
+*LOK Zorgcoördinatoren*
+
+<table>
+<tr><td>Huisarts</td><td>– intake</td></tr>
+<tr><td></td><td>– intaketeam-partnergroepsgesprek</td></tr>
+<tr><td>Neuroloog</td><td>– neurologische screening (op indicatie)</td></tr>
+<tr><td>Revalidatiearts</td><td>– revalidatiegeneeskundige screening (op indicatie)</td></tr>
+<tr><td>Cardioloog</td><td>– cardiologische screening (op indicatie)</td></tr>
+<tr><td>Longarts</td><td>– op indicatie</td></tr>
+<tr><td>KNO-arts</td><td>– KNO-screening (op indicatie)</td></tr>
+<tr><td>GZ/klin-psycholoog</td><td>– intaketeam</td></tr>
+<tr><td></td><td>– supervisie testassistent</td></tr>
+<tr><td></td><td>– cognitieve gedragstherapie</td></tr>
+<tr><td>Fysiotherapeut</td><td>– intaketeam</td></tr>
+<tr><td></td><td>– circuit/haptonomie/sport en spel</td></tr>
+<tr><td>Case-manager/SPV</td><td>– intaketeam</td></tr>
+<tr><td></td><td>– dagopening en afsluiting</td></tr>
+<tr><td></td><td>– ondersteunende werkzaamheden</td></tr>
+<tr><td colspan="2"><i>LOK Onderzoekscoördinator</i></td></tr>
+<tr><td colspan="2">Deze is belast met het contact met de behandelaars, databeheer en analyse. Er is een onderzoeksassistent belast is met de uitvoering van de assessments.</td></tr>
+</table>
+
+*Intake*
+
+In aanmerking komen patiënten met chronische klachten welke geduid zijn als lichamelijk onverklaarde lichamelijke klachten. Meer specifiek gelden de volgende toelatingscriteria voor deelname aan dit zorgprogramma (sommige absoluut, andere relatief):
+
+- a. Zowel militairen in werkelijke dienst als postactieve militairen die veteraan zijn komen in aanmerking, mits dus vaststaat dat zij uitgezonden zijn geweest.
+- b. De uitzending waarin is deelgenomen heeft na 1978 plaatsgevonden.
+- c. De gezondheidsklachten hebben als zodanig minimaal 6 maanden bestaan. Er is geen sprake van een medische verklaring voor de klachten.
+- d. De betrokkene heeft de oorzaak van zijn gezondheidsklachten aan een uitzending toegekend.
+- e. Patiënt wordt in staat geacht eigen verantwoordelijkheid te nemen om de betekenis van zijn klachten te onderzoeken en wegen te vinden ter vermindering dan wel acceptatie van zijn klachten.
+- f. Patiënt moet inzien en aanvaarden dat er geen instrumentele oplossing van buitenaf is die hem tot dusverre steeds zou zijn onthouden.
+
+Een patiënt wordt uitgesloten van deelname indien voldaan wordt aan een der criteria:
+
+- – Er vindt nog onderzoek plaats naar een medische verklaring voor de klachten, dat wil zeggen naar een aannemelijk pathofysiologisch substraat.
+- – Er loopt een medische behandeling voor deze klachten.
+- – Er loopt een verzekeringsprocedure in relatie tot de onderhavige klachten zodat die voortgang van de behandeling kunnen beïnvloeden.
+- – Aanwezigheid van psychiatrische problematiek zoals depressie, psychosen/wanen, verslaving, obsessief-compulsieve stoornissen en angststoornissen die beter op een andere manier kunnen worden behandeld.
+- – Aanwezigheid van chronische invaliderende ziekten die het kunnen doorlopen van het behandelprogramma in de weg staan.
+- – Aanwezigheid van een dusdanig ontregeld (ziekte-onderhoudend) thuissysteem dat van behandeling geen (blijvend) effect verwacht kan worden. een gesprek met het thuissysteem (partner, ouder ed.) zal dan ook onderdeel zijn van de intakeprocedure.
+- – Op beoordeling aanwezigheid van: persoonlijkheidsstoornissen, gedragsstoornissen.
+- – Patiënt weet vooraf dat hij in verband met zijn arbeidsomstandigheden niet aan de behandelvoorwaarden kan voldoen.
+
+Twee fasen intake:
+
+- 1. In de eerste fase wordt de patiënt gezien op de LOK-poli door de LOK-huisarts en eventueel op diens verzoek, na overleg op dossierniveau, door een andere medische specialist (eenmalig) voor aanvullend onderzoek. Hierbij wordt de indicatie gesteld en getoetst op de inclusie en exclusiecriteria. Tijdens de intakefase zal anamnestisch informatie verzameld worden. Tevens zal tijdens de intake in kaart worden gebracht welke medische consumptie door betrokkene is genoten, zowel voor, tijdens als na uitzending. Beschikbare medische gegevens opgevraagd. Bij de patiënt zal er een zekere bereidheid gesignaleerd moeten worden om op een constructieve wijze mee te denken over de plaats die de klacht in het leven van betrokkene tot dat moment heeft, maar ook zou kunnen gaan krijgen. Daarbij zal het accent liggen op belevingssfeer, copingsmechanismen, lichaamsbeleving, egosterkte en vermogen tot zelfreflectie. Tevens zal er een beeld moeten ontstaan over de betekenis hiervan in de gezinssituatie. De partner zal worden uitgenodigd te participeren bij de intake en op diverse momenten tijdens de behandeling.
+- 2. Bij een positief oordeel in de LOK intake/patiëntenbespreking wordt de patiënt uitgenodigd op een separate dag deel te nemen aan een intakefase waarin hij of zij gezien wordt voor een gesprek met de behandelaren van het programma, de klinisch psycholoog, de fysiotherapeuten, en casemanagers. Tevens vindt aanvullend testonderzoek (‘nulmeting’) plaats in kader van wetenschappelijk onderzoek. De casemanager geeft tevens een rondleiding op de diverse locaties.
+
+Een negatief advies in de eerste fase is bindend. Negatief advies in de tweede fase zal besproken worden met de centrale intakers. Na het positief doorlopen van de testdag kan de behandeling starten.
+
+*Behandeling*
+
+De behandelinterventie moet worden gepresenteerd in een halfopen groep, in wekelijkse deeltijdbehandeling, voor een periode van 6 maanden (24 sessies). Het behandelprogramma wordt gevormd in een poliklinische multidisciplinaire groepsgewijze setting en bevat de onderdelen:
+
+- 1. cognitieve gedragstherapie
+- 2. fysiotherapie en haptotherapie
+- 3. casemanagement en
+- 4. psycho – educatieve seminars
+
+Als afsluiting vindt er een slotbespreking plaats per deelnemer met de partner en de behandelaars. Analoog aan het Amerikaanse model worden in een ‘graduation ceremony’ certificaten uitgereikt als bewijs van deelname. Tevens dient dit als betekenisvol ceremonieel en wordt er een afspraak gemaakt voor nametingen om de behandeleffecten te meten. Effectmetingen direct bij afsluiting en na zes maanden maken onderdeel uit van de follow-up.
+
+*Interdisciplinaire samenwerking*
+
+Veel belang wordt gehecht aan de communicatie-ontwikkeling tussen de deelnemende disciplines. Men moet elkaars taal verstaan en de geïntegreerde methode van aanpak verder ontwikkelen. Dit impliceert tijdsinvestering en werkbesprekingen zoals patiëntenoverleg, tussen de behandelelementen door, algemeen tijdens de loop van een programma en bij de intake en afsluiting.
+
+*Wetenschappelijk onderzoek*
+
+Met betrekking tot het LOK project is het van belang om het gekozen behandelmodel wetenschappelijk te valideren. Zonder dat de behandeling van de patiënt in gevaar komt, wordt voorafgaand aan participatie in de zorg een deelnemer uitgenodigd te participeren in een assessment. Van belang is daarbij zelfrapportage lijsten af te nemen als wel testen in te zetten die verschillende functionele domeinen onderzoeken. Met nadruk wordt erop gewezen dat in het onderzoeksdeel moet worden gekozen voor functionele testen. Immers vaak is de variabiliteit in de basale waarden tussen patiënten veel groter dan die in de relatieve responsiviteit in functiegerichte/provocatieve testen. In een behandelstudie kan zodoende een verandering op een functionele test informatie geven zonder dat de basale functie verandert. Daarnaast kan met deze testen mogelijk meer inzicht worden verkregen in de fysiologische mechanismen die aan de klachten ten grondslag liggen. De keuze voor de verschillende meetdomeinen en parameters is deels gebaseerd op probleem – specifieke parameters en deels op onderzoek bij patiënten met PTSS. Overigens worden lichamelijk onbegrepen chronische klachten ook vaak waargenomen bij veteranen die niet aan alle psychiatrische criteria voor PTSS voldoen (de Loos, 2000). De oorzakelijke relatie tussen veel fysiologische afwijkingen in PTSS patiënten en de ervaren stressbelasting in inmiddels ook bevestigd in diermodellen (Stam et al., 2000). Naast enkele basale veranderingen wordt hierin een beeld van gegeneraliseerde hyperresponsiviteit van fysiologische systemen gezien dat mogelijk kan bijdragen aan lichamelijke klachten. Hierbij speelt echter niet alleen de externe (stress)belasting, maar ook individuele kwetsbaarheid een rol (b.v. ten gevolge van karaktereigenschappen of ervaringen eerder in het leven). Parameters van functiegericht onderzoek zijn: algemene fysieke gezondheid, algemene anamnese en medische voorgeschiedenis inclusief persoonlijkheid en temperament, neuroendocriene, cardiovasculaire, gastrointestinale en immuun-functies, naast een test op pijngevoeligheid.
+
+Wetenschappelijk onderzoek zal in de toekomst het inzicht moeten vergroten in de aard van de gehanteerde diagnostische categorie. Vanuit wetenschappelijke economie dient men zo weinig mogelijk aannamen te introduceren en zoveel mogelijk te zoeken naar aanknopingspunten bij bestaande, aan toetsing onderworpen theorieën. De homogeniteit van de onderhavige symptomencomplexen is het eerste punt van aandacht. Niet zelden bleek een post-deployment syndroom zich gaandeweg te ontwikkelen tot een herkenbare posttraumatische stress-stoornis of een andere psychiatrisch diagnostische classificatie. Voorts dient men te zoeken naar gemeenschappelijke elementen zoals problemen in de impulsregulatie en psychofysiologische overprikkelbaarheid {de Loos 1997 #82670}. Zulke eigenschappen kunnen verworven zijn maar ook al in de vroege jeugd ontstaan of zelfs aangeboren zijn en door de dienstervaringen versterkt. Zulke inzichten zullen op hun beurt de therapeutische mogelijkheden preciseren en hopelijk vergroten. Een en ander betekent dat koppeling aan wetenschappelijk onderzoek, zoals reeds aanbevolen door de Commissie Tiesenga III in 1999, een conditio sine qua non is.
+
+Het CMH kan op deze wijze bij de behandeling van LOK patiënten een belangrijke rol spelen. Het probleem doet zich immers voor bij militairen in werkelijke dienst die zijn aangewezen op het CMH, de zorginstelling voor militairen. LOK kan echter ook optreden na een latentietijd bij militairen die Defensie inmiddels hebben verlaten (een relatie met de uitzending kan worden aangenomen als binnen maximaal twee jaar na uitzending de medische hulpvraag is gesteld). Het is belangrijk dat het zorgprogramma zich ook uitstrekt over deze categorie post-actieve militairen.
+
+#### Bijlage 2: — **Bureaulegger[^n24]**
+
+##### Verzekeringsgeneeskundig WIA-IP onderzoek MUPS/LOK bij militairen na uitzending
+
+*MUPS/LOK bij militairen na uitzending*
+
+Er is sprake van MUPS (Medical Unexplained Physical Symptoms) bij militairen/LOK (lichamelijk onverklaarde chronische klachten) bij militairen na uitzendingen/wanneer voor dergelijke klachten een somatische nóch psychiatrische afdoende verklaring is gevonden, deze klachten gedurende ten minste zes maanden het normale dagelijkse functioneren aanzienlijk hebben belemmerd en die niet zijn te vangen in een specifiek syndroom met een vast patroon of circumscript beeld. De patiënt attribueert ontstaan of verergering van de klachten aan de uitzending, wat niet inhoudt dat er een oorzakelijk verband bestaat.
+
+Kenmerkend is een niet limitatief complex van:
+
+- – abnormale vermoeidheid
+- – rug-, hoofd en/of nekpijn
+- – verminderde concentratie en/of geheugen
+- – duizeligheid
+- – spier- en/of gewrichtspijn
+- – buikklachten
+- – overgevoeligheid voor licht of geluid
+- – perceptie van allergie
+- – slaapklachten
+
+*Sluit uit*
+
+- o specifieke gelokaliseerde onverklaarde klachten (bv. lumbago)
+- o als (ander) syndroom benoemde onverklaarde chronische klachten (bv. CVS)
+- o geen aanzienlijke belemmeringen \> 6 maanden
+- o niet door de LOK-poli CMH uitbehandelde klachten
+
+*Verzekeringsgeneeskundige onderzoek*
+
+Het onderzoek gaat ervan uit dat lichamelijk onverklaarde klachten multifactorieel zijn, waarbij precipiterende factoren, onderhoudende factoren en herstel belemmerende factoren een rol spelen. Het is de taak van de verzekeringsarts zich hier een goed beeld van te vormen. Daarom heeft het onderzoek een breed karakter en is gericht op zowel de medische, psychologische als sociale omstandigheden. Elementen van onderzoek zijn:
+
+- – analyse aanwezig gegevens
+- – beoordelingsgesprek face-to-face
+- – geclaimde belemmeringen
+- – biografie en voorgeschiedenis
+- – opvatting causaliteit
+- – medische, psychische en sociale situatie
+- – observatie en onderzoek
+- – verificatie: minimaal aan de bevindingen en conclusies van de LOK-poli
+
+*Algemene beoordeling*
+
+- o probleemstelling en claim
+- o probleemanalyse medisch, psychisch en sociaal
+- o aanzienlijk disfunctioneren \> 6 maanden
+- o plausibiliteit en consistentie
+- o herstelgedrag
+- o precipiterende, onderhoudende en herstelbelemmerende factoren
+- o bespreking opvattingen van derden
+- o autonomie en lijdensdruk
+
+*Beoordeling causaliteit*
+
+- o premorbide klachten
+- o ontstaan en noodzaak behandeling binnen twee jaar na uitzending
+- o mate van causaliteit bij comorbiditeit
+- o checklist causaliteit WIA-IP protocol
+
+*Beoordeling invaliditeit*
+
+- o professionele weging perceptie
+- o Rapport ‘schade in schalen de psyche in beeld’ rubriek ADL + vier subrubrieken
+- o Rapport ‘schade in schalen de psyche in beeld’ rubriek concentratie/doorzettingsvermogen + twee subrubrieken
+- o Indeling ernst van de beperkingen in vijf graderingen
+
+*Beoordeling beperkingen*
+
+- o geclaimde belemmeringen
+- o professionele beoordeling
+- o mogelijkheden, tenzij
+- o beperkingen conform FML
+
+*Rapportage*
+
+- – vraagstelling
+- – voorgeschiedenis
+- – anamnestische gegevens
+- – relevante bevindingen
+- – argumentatie
+- – conclusie
+
+#### Bijlage 3: — **Beoordelingslijst beperkingen bij MUPS/LOK**
+
+##### Opmerkingen vooraf\*
+
+Deze lijst is bedoeld voor het vastleggen van beperkingen bij MUPS/LOK bij militairen na uitzendingen in het kader van de invaliditeitsbeoordeling. De lijst dient alleen te worden gebruikt door een terzake deskundige arts. Het invullen van de scoringslijst is telkens het resultaat van een daaraan voorafgaande, in een rapportage vastgelegde beoordeling, waarin de bevindingen en overwegingen duidelijk zijn verwoord.
+
+De activiteiten en de hierbij behorende functionele mogelijkheden/beperkingen zijn ingedeeld op subrubriek niveau. De ernst van de beperkingen is onderverdeeld in zes klassen, lopend van 0 (geen beperking) tot 5 (extreem beperkt). De ernst van de beperking is per klasse nader gedefinieerd. De beoordeling en het gebruik van de lijst dienen geprotocolleerd te gebeuren. De beperkingen worden per subrubriek weergegeven in een klasse lopend van 0 tot en met 5. Vervolgens wordt per rubriek de subscore bepaald door de scores van de tot die rubriek behorende subrubrieken bij elkaar op te tellen en de som te delen door het desbetreffende aantal subrubrieken. Daarna worden de subscores van de 2 rubrieken bij elkaar opgeteld en gedeeld door 2. Dit quotiënt, zijnde een getal tussen de 0–5, geeft de gemiddelde rubriekscore aan. De waarden 0–5 vertegenwoordigen een percentage tussen de 0–100%. De vertaalslag van rubriekscore naar invaliditeitspercentage geschiedt vervolgens lineair en wordt weergegeven in stappen van 5%. Zo komt een gemiddelde rubriekscore van 2,4 uit op een percentage van 48%, zijnde een schatting tussen 45–50%. Zie voor een schematische weergave van de beperkingenscore tabel 3
+
+Voor de subrubrieken geldt naast de specifieke definiëring tevens het volgende:
+
+- – Beperkingen mogen alleen worden geduid als een causaal verband aanwezig is tussen de aandoening en de uitzending.
+- – Beperkingen mogen alleen worden gescoord als deze verklaard kunnen worden vanuit de MUPS/LOK problematiek.
+- – Beperkingen mogen alleen worden gescoord na doelmatige therapie (LOK poli) en adequate inzet. Onderscheid dient te worden gemaakt tussen motivatiegebrek/feitelijk vertoond gedrag en werkelijke beperkingen.
+- – Beperkingen dienen concretiseerbaar en consistent te zijn.
+- – Alle klassen: het gaat om verlies aan functioneren. Beperkingen mogen alleen worden gescoord indien de mogelijkheid eerder wel aanwezig is geweest.
+- – Leeftijd en de hiermee gepaard gaande vermindering van het functioneren dienen als matigende factor te worden meegewogen.
+- – Klasse 3: voor de onderzoeker en de directe persoonlijke omgeving zijn een afwijkend gedrag van betrokkene duidelijk merkbaar/waarneembaar. Vanaf klasse 3 zijn reguliere beroepsactiviteiten onaannemelijk. ‘Bij het verrichten van reguliere beroepsactiviteiten (zonder regelmatig uitval) dienen wel heel bijzondere evidenties en argumenten aanwezig te zijn om in dat geval beperkingen aan te kunnen nemen in de ADL/BDL’.
+- – Klasse 4: voor iedereen zijn duidelijk continu symptomen bij betrokkene waarneembaar. Tevens continu behoefte aan zorg en medicatie. Verrichten reguliere beroepsactiviteiten onaannemelijk.
+- – Klasse 5: onmiskenbaar voor iedereen waarneembare uitingen van zeer ernstig, volledig afhankelijk toestandsbeeld. Langdurige periodes van hospitalisatie.
+
+##### Activiteiten van het dagelijks leven (rubriek 1)
+
+**Persoonlijke Hygiëne, Zelfzorg (subrubriek 1)<sup>1</sup>**
+
+| | | |
+| --- | --- | --- |
+| Score | Klasse 0 (Definitie) | In staat tot zelfstandig eten, wassen, gebruik maken van toilet, kleden en toilet maken. |
+| | Klasse 1 | Morst soms, echter niet elke dag, met het eten en/of wast zich niet of onvoldoende en/of trekt kledingstukken niet of verkeerd aan etc. Onderkent dit en kan dit zelf corrigeren. Behoeft geen hulp. |
+| | Klasse 2 | Morst vrijwel dagelijks met het eten en/of wast zich niet of onvoldoende en/of trekt kledingstukken niet of verkeerd aan etc. Onderkent dit maar kan dit niet steeds zelf corrigeren. Behoeft bij sommige activiteiten wat ondersteuning. Heeft niet gestructureerd voortdurend bij bepaalde activiteiten hulp nodig. Wel paar maal per week begeleiding gewenst. Kan verder zelfstandig functioneren. |
+| | Klasse 3 | Heeft voor sommige van bovengenoemde activiteiten dagelijks hulp nodig. Kan dankzij deze hulp nog zelfstandig functioneren. |
+| | Klasse 4 | Is voor vrijwel alle bovengenoemde activiteiten afhankelijk van hulp. Kan slechts enkele uren achter elkaar zonder hulp. |
+| | Klasse 5 | Volledig 24 uur per dag afhankelijk van hulp. |
+
+<sup>1</sup> Zie opmerkingen vooraf.
+
+**Mobiliteit (subrubriek 2)<sup>1</sup>**
+
+<table>
+<tr><td>Score</td><td>Klasse 0 (Definitie)</td><td>Zelfstandig met het openbaar vervoer kunnen reizen naar (on)bekende bestemmingen onder wisselende omstandigheden en in wisselende tijdsduur, plannen en vinden route, vervoersbewijs verzorgen en kunnen overstappen.<br>Zelfstandig met auto of fiets deelnemen aan het verkeer in de omgeving van betrokkene.</td></tr>
+<tr><td></td><td>Klasse 1</td><td>Heeft soms (niet elke dag) moeite met het vinden van de juiste routes. Mist door persoonlijk verminderd functioneren soms aansluitingen openbaar vervoer. Onderkent dit en kan dit zelf corrigeren. Komt zelfstandig op de bestemming aan. Behoeft geen hulp.</td></tr>
+<tr><td></td><td>Klasse 2</td><td>Heeft soms moeite met het vinden van de juiste routes. Vermijdt druk (stads)verkeer. Vermijdt verblijf langer dan gemiddeld één uur in openbaar vervoer. Mist soms, niet elke dag, aansluitingen in het openbaar vervoer. Komt wel zelfstandig op bestemming aan. Mijdt onbekende bestemmingen. Wijkt met auto en/of fiets zo weinig mogelijk af van de vaste routes, maar kan dit wel.</td></tr>
+<tr><td></td><td>Klasse 3</td><td>Mobiliteit is beperkt tot vaste, bekende routes. Niet in staat in druk(stads) verkeer zichzelf te vervoeren. Niet in staat tot verblijf in openbaar vervoer langer dan gemiddeld één uur. Moet in openbaar vervoer om hulp vragen bij het overstappen. Niet in staat tot vervoer per auto/fiets naar onbekende bestemmingen of naar locaties waar betrokkene maar enkele malen per jaar kwam. Beroepsmatig gebruik van eigen vervoer, inclusief woon-werkverkeer niet mogelijk.</td></tr>
+<tr><td></td><td>Klasse 4</td><td>Zelfstandig vervoer per fiets en auto niet meer mogelijk. Openbaar vervoer alleen mogelijk op vaste rustige stukken zonder overstappen. Anders begeleiding nodig.</td></tr>
+<tr><td></td><td>Klasse 5</td><td>Volstrekt onmogelijk zelfstandig met openbaar vervoer te reizen. Niet in staat tot vervoer met auto of fiets.</td></tr>
+</table>
+
+<sup>1</sup>Zie opmerkingen vooraf.
+
+Tevens: hoe is betrokkene op het spreekuur gekomen?
+
+**Slapen (subrubriek 3)<sup>1</sup>**
+
+| | | |
+| --- | --- | --- |
+| Score | Klasse 0 (Definitie) | Binnen ongeveer 1 uur inslapen, gemiddeld 5 maal per week. Minimaal 5 maal per week, zonder slaapmedicatie, minstens 6 uur doorslapen en uitgerust ontwaken. |
+| | Klasse 1 | Paar maal per week later inslapen en/of korter doorslapen. Minder dan een maal per week nachtmerrie(s), zich uitend in doorslaapstoornissen. |
+| | Klasse 2 | 3 dagen of vaker per week later inslapen en/of korter doorslapen en/of soms, echter niet elke dag nachtmerrie(s), zich uitend in doorslaapstoornissen. |
+| | Klasse 3 | Min of meer permanent slaapmedicatie en gemiddeld 3 dagen of vaker per week later inslapen en/of korter doorslapen en/of bijna dagelijks nachtmerrie(s) zich uitend in doorslaapstoornissen. Tevens tegelijkertijd niet fit opstaan. |
+| | Klasse 4 | Gebruik slaapmedicatie en meeste nachten later inslapen en/of korter doorslapen en/of elke nacht nachtmerries zich uitend in doorslaapstoornissen. Tevens tegelijkertijd niet fit opstaan en soms, niet elke dag, op ongelegen momenten in slaap vallen. |
+| | Klasse 5 | Volledig verstoord slaappatroon, dagelijks overdag op ongelegen momenten in slaap vallen. |
+
+<sup>1</sup> Zie opmerkingen vooraf.
+
+**Seksuele functie ( subrubriek 4)<sup>1</sup>**
+
+| | | |
+| --- | --- | --- |
+| Score | Klasse 0 (Definitie) | Het hebben van seksuele gedachten/voorstellingen en het hierbij optreden van erecties of bijpassende fysiologische reacties. Seksueel getinte handelingen waaronder aanraken, strelen, kussen van/door anderen, zelf uitvoeren of ondergaan. Het kunnen bereiken van een seksueel hoogtepunt. |
+| | Klasse 1 | Normale lustbeleving. Masturbatie normaal. Komt incidenteel, ongeveer 1maal per 3 maanden tot seksuele handelingen met een partner. |
+| | Klasse 2 | Wel lustbeleving, incidenteel masturbatie en/of paar maal per jaar seksuele handelingen met een partner. |
+| | Klasse 3 | Wel lustbeleving, geen/sporadisch masturbatie, geen seksuele handelingen met een partner. |
+| | Klasse 4 | Geen lustbeleving, geen masturbatie, geen seksuele handelingen met een partner. |
+| | Klasse 5 | Verdraagt nauwelijks enige aanraking. |
+
+<sup>1</sup> Zie opmerkingen vooraf.
+
+Tevens: het gaat om verlies aan functioneren. Indien nooit/niet seksueel actief (geweest) dan ook niet scoren. Tevens rekening houden met activiteiten niveau per leeftijdsgroep. Gegevens nauwelijks objectiveerbaar. Alleen scoren indien duidelijk uit eerdere verslaglegging blijkt dat voor dit probleem specifieke behandeling/hulp is gezocht bij een professioneel deskundige.
+
+**Rubriek 1 subscore: (subrubriek 1 … + subrubriek 2 … + subrubriek 3 … + subrubriek 4 …) : 4 = …**
+
+##### Concentratie doorzettingsvermogen en tempo (rubriek 2)
+
+**Structuur aanbrengen (subrubriek 5)<sup>1</sup>**
+
+| | | |
+| --- | --- | --- |
+| Score | Klasse 0 (Definitie) | Het vermogen om concentratie en aandacht lang genoeg vol te houden en te verdelen om, met inzicht in eigen handelen, zelfstandig complexe taken in het algemeen dagelijks leven, in de daarvoor gestelde termijn doelmatig te voltooien. Schat eigen mogelijkheden redelijk in. Handelt doelmatig: start op tijd, in juiste volgorde, controleert zichzelf en eindigt als doel bereikt is, of niet bereikt kan worden. In staat om eigen rekening en betalingsverkeer te beheren. Regelt op tijd, in een normale tijdspanne en gestructureerd, op een logische wijze, taken in en rond het huis en de leefgemeenschap, waaronder vakantieplanning, periodiek onderhoud, voorraadplanning, gezinsactiviteiten, veranderingen, etc. In staat op gestructureerde logische wijze in het vereiste tempo cursussen/opleidingen/werkopdrachten uit te voeren en succesvol af te ronden. Kent zijn grenzen. |
+| | Klasse 1 | Heeft soms moeite met het doelmatig, gestructureerd verrichten van bovenstaande activiteiten. Kan chaotisch bezig zijn waardoor enkele malen per maand taken kunnen worden vergeten of niet op tijd/niet adequaat worden voltooid. Onderkent dit probleem en kan het zelf corrigeren/compenseren. |
+| | Klasse 2 | Heeft moeite met het doelmatig, gestructureerd verrichten van bovenstaande activiteiten. Kan chaotisch bezig zijn waardoor wekelijks taken kunnen worden vergeten of niet op tijd/niet adequaat worden voltooid. Onderkent dit probleem maar kan dit niet steeds zelf compenseren. Behoeft bij sommige activiteiten ondersteuning/begeleiding. Heeft niet gestructureerd voortdurend bij bepaalde activiteiten hulp nodig. Kan verder zelfstandig functioneren. |
+| | Klasse 3 | Pakt complexe taken vaak, bijna dagelijks, onlogisch, chaotisch en in een inadequaat tempo aan. Deze taken worden bijna dagelijks vergeten of worden niet op tijd/niet adequaat voltooid. Kan slechts enkelvoudige en eenvoudige taken zelfstandig uitvoeren. Is voor complexe taken aangewezen op hulp van anderen. Kan dankzij deze hulp nog wel zelfstandig functioneren. |
+| | Klasse 4 | Is voor zowel de complexe als ook de meer eenvoudige taken afhankelijk van hulp/ondersteuning. Kan het grootste deel van de dag niet zonder hulp. |
+| | Klasse 5 | Het doelmatig, zelfstandig, tijdig, gestructureerd verrichten van taken is volstrekt onmogelijk. Volledig afhankelijk van hulp. |
+
+<sup>1</sup> Zie opmerkingen vooraf.
+
+Het gaat hierbij met name over doelmatig, zelfstandig met inzicht in eigen kunnen plannen, structureren en uitvoeren van samengestelde taken en opdrachten.
+
+**Huiselijke activiteiten (subrubriek 6)<sup>1</sup>**
+
+<table>
+<tr><td>Score</td><td>Klasse 0 (Definitie)</td><td>Het vermogen om de dagelijkse (huishoudelijke) taken als het verzorgen van de maaltijden, het doen van boodschappen, het opruimen en schoonhouden van de woning/tuin/auto/schuur (woonomgeving), het verrichten van kleine reparaties en klein onderhoud etc. op een zelfstandige doelmatige manier, in de juiste volgorde in een gebruikelijk tempo te verrichten.<br>Minstens ½ uur concentratie mogelijk op boek, documentaire, krant etc. Kan minstens ½ uur aandacht verdelen over meerdere informatiebronnen. Herinnert zich meestal tijdig relevante zaken.</td></tr>
+<tr><td></td><td>Klasse 1</td><td>Alleen met gebruikmaking van hulpmiddelen als taaklijsten en boodschappenlijsten etc. in staat bovengenoemde taken uit te voeren. Moeite om taken te overzien zich uitend in verminderde planning over een periode van een of meer dagen en het verrichten van taken na elkaar in plaats van tegelijkertijd. Onderkent dit probleem en kan het zelf corrigeren/compenseren. Volledig zelfstandig.</td></tr>
+<tr><td></td><td>Klasse 2</td><td>Ondanks gebruikmaking bovenstaande hulpmiddelen, wekelijks problemen om bovengenoemde taken adequaat te verrichten: vergeet taken, voert ze slordig uit. Boodschappen worden soms te laat of niet gedaan. Verzorging maaltijden geeft in het algemeen geen problemen. Huishoudelijke taken lukken wel aangaande de dagelijkse routine bezigheden. Noodzakelijke wekelijkse opruim en schoonmaak werkzaamheden of weinig voorkomende taken worden uitgesteld of niet verricht zonder aansporing van derden. Inzicht en structuur om dit aan te pakken ontbreekt. Hierdoor woon en leefomgeving regelmatig rommelig/niet opgeruimd en niet schoon. Concentreren op één onderwerp lukt ± ½ uur. Onderkent dit probleem maar kan dit niet steeds zelf compenseren. Behoeft bij sommige activiteiten ondersteuning/begeleiding. Heeft niet gestructureerd voortdurend bij bepaalde activiteiten hulp nodig. Kan verder zelfstandig functioneren. Nog wel zelfstandig.</td></tr>
+<tr><td></td><td>Klasse 3</td><td>Heeft voor bovengenoemde taken dagelijks begeleiding en aansporing nodig. Kan niet zonder een paar uur dagelijkse hulp zelfstandig leven. Eenvoudige warme maaltijden bereiden of opwarmen is mogelijk. Woonomgeving dreigt zonder begeleiding te vervuilen en maakt een rommelige indruk door gebrek aan overzicht en problemen met opruimen.<br>Kan zich ± ¼ uur concentreren op één informatiebron.</td></tr>
+<tr><td></td><td>Klasse 4</td><td>Niet in staat de eigen woonomgeving te verzorgen of eigen (warme)maaltijden te bereiden. Woonomgeving vervuilt en toont chaos. Kan alleen nog wat simpele huishoudelijke werkzaamheden onder aansporing zelfstandig verrichten. Aangewezen op hulp een groot aantal uren per dag.<br>Kan zich niet langer dan 5 minuten concentreren op één informatiebron. Kan alleen korte berichten reproduceren.</td></tr>
+<tr><td></td><td>Klasse 5</td><td>Niet in staat om ook maar één van bovengenoemde taken zelfstandig te verrichten. 24 uur per dag hulp nodig. Niet in staat iets uit de media te reproduceren.</td></tr>
+</table>
+
+<sup>1</sup> Zie opmerkingen vooraf.
+
+Hierbij gaat het meer om de gebruikelijke allerdaagse huiselijke handelingen in en rond de woning.
+
+**Rubriek 2 subscore: (subrubriek 5 + subrubriek 6) : 2 = …**
+
+**(gemiddelde) Rubriekscore:**
+
+**(rubriek subscore 1 + subscore 2) : 2 = …**
+
+## Bijlage 4 — – Richtlijn duurzame functionele invaliditeit
+
+### Samenvatting
+
+Bij de beoordelingen van de hoogte van de invaliditeit die een cliënt heeft als gevolg van een dienstverbandaandoening, wordt de verzekeringsarts gevraagd een uitspraak te doen of verlaging van de invaliditeit mogelijk is. Deze uitspraak is gebaseerd op een beoordeling van de functionele invaliditeit ten aanzien van algemene en bijzondere dagelijkse levensverrichtingen (ADL en BDL).
+
+Met duurzame functionele invaliditeit wordt bedoeld dat verlaging van de functionele invaliditeit niet meer te verwachten is.
+
+Deze richtlijn, met beoordelingskader en procesbeschrijving, biedt criteria voor het beoordelen van de duurzaamheid van functionele invaliditeit en de stappen die in het beoordelingsproces daarvan moeten worden genomen.
+
+De kernpunten van de richtlijn zijn:
+
+- 1. Van duurzaamheid wordt uitgegaan als de verwachting is dat de functionele invaliditeit in het eerstkomende jaar niet af zal nemen.
+- 2. Als duurzaamheid is vastgesteld, kan een blijvend percentage invaliditeit worden gegeven. Dit blijvend percentage kan in de toekomst nooit meer dalen. Wel kan de cliënt zelf vragen om een herbeoordeling, namelijk wanneer er sprake is van een duurzame verergering van zijn medische situatie.
+- 3. Als de verzekeringsarts significante verlaging van de functionele invaliditeit verwacht, kent hij een voorlopig invaliditeitspercentage toe.
+- 4. Er wordt in deze richtlijn als richtsnoer uitgegaan een periode van maximaal twee jaar tussen een eerste en tweede beoordeling, waarbij in principe tijdens de tweede beoordeling de duurzame functionele invaliditeit wordt vastgesteld (indien dit niet al tijdens de eerste beoordeling is gebeurd). In bepaalde gevallen, ter beoordeling aan de verzekeringsarts, kan hiervan afgeweken worden.
+
+### Inleiding
+
+Bij de beoordeling van het recht op een militair invaliditeitspensioen, vindt onder meer een beoordeling plaats van de medische toestand op tijdstippen die in het kader van de regelgeving relevant zijn, namelijk datum beoordeling, datum rekest en een (1) jaar voorafgaand aan het rekest.
+
+De vraag moet worden beantwoord of er sprake is van een functionele invaliditeit waarvan verlaging niet meer te verwachten is, c.q. welke duurzaam is. Hiermee valt de verzekeringsgeneeskundige beoordeling uiteen in twee delen, die met elkaar verweven zijn:
+
+- 1. Is er sprake van een eindtoestand die blijvend, onveranderlijk is?
+- 2. Zijn voldoende behandel- en revalidatiemogelijkheden benut waarvan verbetering mag worden verwacht?
+
+De begrippen ‘blijvend’, ‘onveranderlijk’ en ‘eindtoestand’ verwijzen naar een toekomstverwachting. Men wil een prognose horen van de arts. Medisch is het is echter vaak lastig de toekomst te voorspellen. Sommige ziektebeelden tonen een weinig voorspelbaar verloop. Over het algemeen is bovendien de prognose bij psychische aandoeningen minder betrouwbaar dan bij somatische aandoeningen. Ook kan de arts niet voorspellen welke nieuwe behandelmogelijkheden in de toekomst ter beschikking komen.
+
+Deze onzekerheden leiden ertoe dat de prognoses onbetrouwbaarder worden naarmate de termijn langer wordt, waarover ze worden gegeven.
+
+#### Visie
+
+Om verschillen in de beoordeling tussen verzekeringsartsen te beperken moet, gelet op het hiervoor staande, de duur waarover de prognose wordt gevraagd beperkt blijven.
+
+Daarnaast zal de functionele invaliditeit over het algemeen minder afnemen naarmate de tijd voortschrijdt.
+
+Het is realistisch het volgende uitgangspunt te hanteren: als de functionele invaliditeit in het komende jaar niet of nauwelijks afneemt, dan zal dit in beginsel ook niet gebeuren in de periode daarna. De functionele invaliditeit dient dan als ‘duurzaam’ te worden geduid. Er moet een heel goede reden zijn om van dit uitgangspunt af te kunnen wijken.
+
+Dat is het geval wanneer op grond van kennis en ervaring vaststaat dat een behandeling, gegeven de aard of de complexiteit van het ziektebeeld pas na langere tijd tot verlaging van de functionele invaliditeit kan leiden. In deze situaties moet een ‘voorlopig’ percentage functionele invaliditeit worden toegekend.
+
+Bij ‘voorlopige functionele invaliditeit’ kan het invaliditeitspercentage bij herbeoordeling gewijzigd (verhoogd of verlaagd) worden, naar aanleiding van de bevindingen. Pas als de functionele invaliditeit als duurzaam is aangemerkt, geldt dat het bijbehorende percentage het laagste percentage is dat in de toekomst kan worden toegekend.
+
+Verhogingen van dit percentage zijn, met inachtneming van een bepaalde latentietijd, in de toekomst dan nog wel mogelijk, bijvoorbeeld naar aanleiding van blijvende verergeringen van de medische situatie. De verhogingen kunnen afhankelijk van de verwachtingen een voorlopig of een duurzaam karakter hebben.
+
+Verlagingen gaan niet verder dan dit percentage.
+
+Hieronder staat dit nader uitgewerkt en schematisch weergegeven.
+
+### Beoordelingskader voor bepaling van de duurzaamheid van een functionele invaliditeit
+
+In dit beoordelingskader vindt u de criteria voor het beoordelen van de duurzaamheid van een functionele invaliditeit. Dit kader is zowel van toepassing op een eerste beoordeling als een herbeoordeling.
+
+#### Vertrekpunt
+
+Een cliënt bij wie sprake is van een verergerend of oorzakelijk dienstverband overeenkomstig het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen (Besluit AO/IV).
+
+#### Definitie ‘Duurzame functionele invaliditeit’
+
+Van duurzame functionele invaliditeit is sprake als:
+
+- 1. verbetering van de functionele invaliditeit is uitgesloten of
+- 2. verbetering van de functionele invaliditeit nauwelijks te verwachten is.
+
+Verlaging van de functionele invaliditeit is uitgesloten als de functionele invaliditeit naar verwachting stabiel blijft of nog verder zal toenemen. De verzekeringsarts spreekt zich hierbij niet uitsluitend uit over het beloop van het ziektebeeld of de aard en de ernst van de ziekteverschijnselen. Het ziektebeeld kan nog fluctueren, terwijl de functionele invaliditeit ongeveer op hetzelfde niveau zal blijven.
+
+Van belang is dat de verzekeringsarts niet constateert dat de functionele invaliditeit stabiel is of eventueel toeneemt, maar tot het oordeel komt dat verlaging van de functionele invaliditeit niet meer tot de mogelijkheden behoort.
+
+Of en in welke mate verlaging van de functionele invaliditeit zal optreden, hangt af van vele cliëntgebonden en andere factoren. De effecten daarvan zijn vaak moeilijk voorspelbaar en dit des te meer naarmate een langere termijn moet worden overzien. Als gevolg hiervan zal voor een deel van de cliënten pas enige tijd na de initiële beoordeling duidelijk worden of er sprake is van duurzame functionele invaliditeit.
+
+Het is van groot belang ervoor te zorgen dat mogelijkheden tot verbetering van de functionele mogelijkheden daadwerkelijk worden benut. Daarom geldt als uitgangspunt dat de cliënt adequaat herstelgedrag moet vertonen. Is dit niet het geval, dan wordt per definitie uitgegaan van de verwachting dat verlaging van de functionele invaliditeit zal optreden als gevolg van op de actuele stand van de medische wetenschap gebaseerde behandeling, tenzij het inadequate herstelgedrag het gevolg is van een ziekte of handicap.
+
+Cliëntgebonden factoren kunnen alleen als een belemmering voor verlaging van de functionele invaliditeit worden geaccepteerd, indien er sprake is van verlies aan autonomie. Hiervan is sprake als cliënt, ten gevolge van ziekte of handicap, geen keuzevrijheid heeft en niet meer de rol kan vervullen die hij zou willen en moeten vervullen.
+
+De verzekeringsarts spreekt zich uit over de periode aansluitend aan het moment van beoordeling. Dit is het moment waarop de verzekeringsarts zijn definitieve conclusie trekt. Meestal is dat het moment waarop hij cliënt daadwerkelijk onderzoekt. Als de verzekeringsarts vervolgens nog aanvullende informatie ontvangt en mede daarop zijn oordeel baseert, is het moment van beoordeling het moment waarop hij deze informatie in zijn conclusie en in zijn rapport verwerkt.
+
+De verzekeringsarts betrekt bij zijn prognosestelling de op dat moment beschikbare medische kennis en de actuele stand van de medische wetenschap. Hij loopt niet vooruit op nieuwe ontwikkelingen waarvan de mogelijkheden en resultaten nog onvoldoende zijn onderzocht.
+
+#### Oordeelsvorming
+
+De verzekeringsarts spreekt zich uit over de prognose van de functionele invaliditeit van cliënt, uitgaande van de medische situatie zoals die is op het moment van de beoordeling/de rapportage. De verzekeringsarts doorloopt hierbij onderstaande stappen. Deze staan tevens schematisch weergegeven in het ‘Stroomschema voor beoordelingen’.
+
+Stap 1
+
+De verzekeringsarts beoordeelt of verlaging van de functionele invaliditeit mogelijk is, of is uitgesloten. Dat laatste is het geval als er sprake is van:
+
+- a. een progressief ziektebeeld zonder behandelmogelijkheden of
+- b. een stabiel ziektebeeld zonder behandelmogelijkheden.
+
+Situatie 1a:
+
+Als sprake is van een progressief ziektebeeld geldt in het algemeen dat verlaging van de functionele invaliditeit niet zal optreden. Meestal is geen behandeling aan te wijzen die kan leiden tot verbetering van de functionele invaliditeit. Een behandeling is dan uitsluitend gericht op het afremmen van het ziekteproces. De functionele invaliditeit zal in dat geval niet verminderen. In beginsel bestaat er een theoretische mogelijkheid dat de functionele invaliditeit van een cliënt door revalidatiebehandeling (tijdelijk) afneemt. Deze mogelijkheid wordt buiten beschouwing gelaten, omdat de progressie van het ziektebeeld het bereikte resultaat teniet zal doen.
+
+Situatie 1b:
+
+Bij een stabiel ziektebeeld is spontane verbetering uitgesloten. De verzekeringsarts betrekt in die situatie de resterende behandelmogelijkheden bij zijn oordeelsvorming. Deze behandelmogelijkheden moeten op twee niveaus worden beoordeeld (die overigens in elkaars verlengde liggen):
+
+- • behandelmogelijkheid in ‘medische’ zin – gericht op het ziekteproces als zodanig;
+- • behandelmogelijkheid in ‘functionele’ zin – gericht op herstel van het functioneren dan wel het ontwikkelen van compensatiemogelijkheden (revalidatie).
+
+Hoewel de gezondheidsschade definitief kan zijn, betekent dat nog niet dat belangrijk herstel van functioneren ook is uitgesloten. Daarom concludeert de verzekeringsarts pas dat verlaging van de functionele invaliditeit is uitgesloten als noch in medische zin, noch in functionele zin een behandelmogelijkheid resteert.
+
+In dit verband is het van belang er scherp op te letten dat aspecten van langdurige inactiviteit en daarmee samenhangende deconditionering geen rol spelen. Is dat wel het geval dan houdt de verzekeringsarts daar alleen rekening mee voor zover er een rechtstreekse samenhang bestaat met het ziekteproces. In alle andere situaties gaat de verzekeringsarts ervan uit dat een op activering gerichte behandeling tot de mogelijkheden behoort en er op die grond sprake is van een redelijke of goede verwachting dat verbetering van de belastbaarheid zal optreden.
+
+Als er nog een verlaging van de functionele invaliditeit mogelijk is (situatie 1a of 1b zijn dan niet van toepassing), volgt stap 2.
+
+Stap 2
+
+Als verlaging van de functionele invaliditeit nog mogelijk is, beoordeelt de verzekeringsarts in hoeverre die verlaging in het eerstkomende jaar kan worden verwacht.
+
+De verzekeringsarts gaat na of één van de volgende twee mogelijkheden aan de orde is:
+
+- a. er is een redelijke of goede verwachting dat verlaging van de functionele invaliditeit in het eerstkomende jaar zal optreden;
+- b. verlaging van de functionele invaliditeit is nauwelijks te verwachten in het eerstkomende jaar.
+
+Als voor de keuze tussen situatie 2a of 2b doorslaggevende argumenten ontbreken, gaat de verzekeringsarts uit van een redelijke of goede verwachting dat verlaging van de functionele invaliditeit in het eerstkomende jaar niet zal optreden (situatie 2b).
+
+Situatie 2a:
+
+In een deel van de gevallen is zonder meer duidelijk dat er een redelijke of goede verwachting bestaat ten aanzien van verlaging van de functionele invaliditeit in het eerstkomende jaar. Hetzij spontaan, hetzij met hulp van een – zo nodig nog op te starten – behandeling. In dat geval kan de verzekeringsarts meteen concluderen dat de functionele invaliditeit niet duurzaam is.
+
+Situatie 2b:
+
+Als er geen redelijke of goede verwachting op verlaging van de functionele invaliditeit in het eerstkomende jaar bestaat, is de vervolgvraag of verlaging van de functionele invaliditeit in het tweede jaar te verwachten is (zie stap 3).
+
+Stap 3
+
+Als in het eerstkomende jaar nauwelijks verbetering van de functionele invaliditeit kan worden verwacht (situatie 2b is van toepassing) beoordeelt de verzekeringsarts of op langere termijn wel verbetering mogelijk is.
+
+Ook nu zijn er twee mogelijkheden:
+
+- a. Er is een redelijke of goede verwachting dat verbetering van de functionele invaliditeit zal optreden na het eerstvolgende jaar; dit is alleen het geval als van een behandeling vaststaat dat die eerst op langere termijn kan zijn gericht op verbetering van de belastbaarheid. In dit geval wordt de herbeoordeling vastgesteld op twee jaar na de eerste beoordeling.
+- b. Verbetering van de belastbaarheid is nauwelijks te verwachten: alle overige gevallen. In dit geval stelt de verzekeringsarts alsnog duurzame functionele invaliditeit vast.
+
+*Toelichting keuze situatie 3a of 3b:*
+
+De betrouwbaarheid van een medisch oordeel over de te verwachten ontwikkeling van een ziektebeeld neemt af naarmate de termijn waarover deze uitspraak wordt gedaan langer is. Alleen wanneer de periode kort is kan een dergelijke uitspraak met een redelijke betrouwbaarheid worden gedaan.
+
+Verzekeringsartsen moeten zich uitspreken over de functionele invaliditeit als afgeleide van de aard en de ernst van het ziektebeeld. Daarbij leggen niet-medische factoren veelal extra gewicht in de schaal. Uitspraken over de ontwikkeling van de functionele invaliditeit die een langere termijn beslaan zijn vaak onvoldoende betrouwbaar.
+
+Het is dan ook niet goed mogelijk om een onderscheid te maken tussen een te verwachten verlaging van de functionele invaliditeit in het eerstkomende jaar (vanaf het moment van beoordeling) en daarna. Daarnaast zal de functionele invaliditeit over het algemeen minder afnemen naarmate de tijd voortschrijdt.
+
+Daarom wordt uitgegaan van het volgende uitgangspunt: de verzekeringsarts zal in stap 3 van de meest ongunstige verwachting uitgaan, om onnodig verlengen van de onzekerheid over het invaliditeitspercentage en daarmee samenhangende stress te voorkomen (situatie 3b).
+
+Er moet dus een goede reden zijn hiervan af te wijken. Dit is bijvoorbeeld het geval wanneer meerdere psychische aandoeningen achtereenvolgens behandeld moeten worden, zoals verslavingsproblematiek in combinatie met PTSS, en de behandeling van PTSS is nog niet gestart of loopt nog.
+
+**Begrippen:**
+
+- *Progressief ziektebeeld* Een progressief ziektebeeld is een ziektebeeld waarvan de ernst van de symptomen en daarmee de ernst van de beperkingen toeneemt.
+
+  Er kan ook sprake zijn van een progressief ziektebeeld als het ziektebeeld enige tijd, al dan niet dankzij behandeling, stil staat en vervolgens op een later moment weer toeneemt.
+- *Behandeling* Onder behandeling wordt verstaan een al lopende of nog te starten evidence based medische behandeling of een anderszins in de reguliere gezondheidszorg op dat moment gebruikelijke behandeling.
+
+  Verder gaat het erom of van een behandeling in het algemeen (enig) resultaat mag worden verwacht, gelet op de diagnose en los van cliëntgebonden factoren.
+- *Aard en doel van de behandeling* Voor een beoordeling van het mogelijke resultaat van een behandeling kan het nuttig zijn het volgende onderscheid te maken:
+  - 1. Behandelingen gericht op genezing. Wanneer een dergelijke behandeling plaatsvindt is altijd sprake van een redelijke of goede verwachting dat verlaging van de functionele invaliditeit zal optreden.
+  - 2. Behandelingen gericht op revalidatie. Dergelijke behandelingen zijn gericht op toename van mogelijkheden of op compensatie van verloren gegane mogelijkheden. Wanneer een dergelijke behandeling plaatsvindt is meestal sprake van een redelijke of goede verwachting dat verlaging van de functionele invaliditeit zal optreden, soms echter pas op de langere termijn.
+  - 3. Behandelingen gericht op stabilisatie. Dergelijke behandelingen zijn gericht op behoud van mogelijkheden. Wanneer een dergelijke behandeling plaatsvindt is verlaging van de functionele invaliditeit nauwelijks te verwachten.
+- *Cliëntgebonden factoren* Onder cliëntgebonden factoren worden al die factoren verstaan die niet met het ziekteproces als zodanig te maken hebben maar wel van invloed kunnen zijn op de functionele invaliditeit van de cliënt.
+
+  Daarbij gaat het bijvoorbeeld om de volgende aspecten:
+  - • eigenschappen van de cliënt in de zin van copingmechanismen;
+  - • activiteiten van de cliënt in de zin van herstelgedrag;
+  - • de reactie van de cliënt op omgevingsfactoren.
+
+![STROOMSCHEMA VOOR BEOORDELINGEN](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026218/2026-07-01_0/xml/274405.png)
+
+**STROOMSCHEMA VOOR BEOORDELINGEN**
+
+Uit dit stroomschema blijkt dat in principe maximaal twee beoordelingen zullen plaatsvinden binnen maximaal twee jaar.
+
+[^n1]: 1 De eis van tenminste 10% invaliditeit geldt voor toekenning van een invaliditeitspensioen. De voorzieningenregeling, kent geen ondergrens voor het invaliditeitspercentage.
+
+[^n2]: 1 De eis van tenminste 10% invaliditeit geldt voor toekenning van een invaliditeitspensioen. De voorzieningenregeling, kent geen ondergrens voor het invaliditeitspercentage.
+
+[^n3]: 5 De termen dienstverband en causaliteit (ook wel causaal verband genoemd) worden beiden gebruikt om aan te geven dat de aandoening in overwegende mate is ontstaan, tot uiting is gekomen of is verergerd door een incident, trauma, gebeurtenissen of blootstelling tijdens de bijzondere of buitengewone omstandigheden.
+
+[^n4]: 6 ECLI:NL:CRVB:2014:1520, ECLI:NL:RBDHA:2017:10797
+
+[^n5]: 7 Betrouwbaarheid schattingsmethodiek PTSS-protocol, de intra- en interdoktervariatie van de schattingsmethodiek ter beoordeling van de mate van invaliditeit bij psychische aandoeningen bij post-actieve militairen, AS. Fokkens, JW Groothoff, JJL van der Klink en J. Tuinstra, December 2011
+
+[^n6]: 8 Betrouwbaarheid schattingsmethodiek PTSS-protocol II, een vergelijking tussen de schattingsmethodiek PTSS-protocol, het PIM rapport en de schattingsmethodiek AMA-guides 6<sup>e</sup> druk bij psychische aandoeningen, AS. Fokkens, JW Groothoff, JJL van der Klink en J. Tuinstra, December 2012
+
+[^n7]: 9 Betrouwbaarheid schattingsmethodiek PTSS-protocol II, een vergelijking tussen de schattingsmethodiek PTSS-protocol, het PIM rapport en de schattingsmethodiek AMA-guides 6<sup>e</sup> druk bij psychische aandoeningen, AS. Fokkens, JW Groothoff, JJL van der Klink en J. Tuinstra, December 2012
+
+[^n8]: 10 Evaluatie schattingsmethodiek PTSS-protocol, AS. Fokkens, RH. Bakker, S. Brouwer, A. Holwerda, J. Tuinstra en GJ. Dijkstra, december 2016
+
+[^n9]: 11 Appreciatie begeleidingscommissie onderzoek toepasbaarheid PTSS-protocol, december 2016, BS2016036102
+
+[^n10]: 12 Vierde plan van Aanpak opvolging adviezen naar aanleiding van de evaluatie van het PTSS-protocol, BS2023005871
+
+[^n11]: 13 Prevalence and trends of common mental disorders from 2007-2009 to 2019–2022: results from the Netherlands Mental Health Survey and Incidence Studies (NEMESIS), including comparison of prevalence rates before vs. during the COVID-19 pandemic, M ten Have et al, World Psychiatry 2023; 22: 275–285
+
+[^n12]: 14 Stigma as a barrier to sustainable employment and well-being of workers with mental issues and illnesses. A mixed methods study in the Dutch military. R.I. Bogaers. Thesis 2023
+
+[^n13]: 15 Prevalence and trends of common mental disorders from 2007–2009 to 2019–2022: results from the Netherlands Mental Health Survey and Incidence Studies (NEMESIS), including comparison of prevalence rates before vs. during the COVID-19 pandemic, M ten Have et al, World Psychiatry 2023; 22: 275–285
+
+[^n14]: 16 The lifetime prevalence of traumatic event and posttraumatic stress disorder in the Netherlands, GJ de Vries en M Olff, J Trauma Stress. 2009; 22: 259–67
+
+[^n15]: 17 Nationaal kompas volksgezondheid 2018, Het risico op PTSS in de totale beroepsgroep
+
+[^n16]: 18 De posttraumatische stressstoornis. M. Olff, Ned. Tijdsch. Geneeskd. 2013; 157: A5818
+
+[^n17]: 19 Nationaal kompas volksgezondheid 2018, Het risico op PTSS in de totale beroepsgroep
+
+[^n18]: 20 De posttraumatische stressstoornis. M. Olff, Ned. Tijdsch. Geneeskd. 2013; 157: A5818
+
+[^n19]: 21 Factsheet ‘Posttraumatische stressstoornis na uitzending’ Nederlands veteranen instituut, febr. 2020
+
+[^n20]: 22 Richtlijn depressie, Federatie Medisch Specialisten, 1 maart 2024
+
+[^n21]: 23 Vierde Plan van Aanpak opvolging adviezen naar aanleiding van de evaluatie van het PTSS-protocol, BS2023005871
+
+[^n22]: 24 WIA-IP protocol 2007, pagina 29
+
+[^n23]: 25 Richtlijn duurzame functionele invaliditeit
+
+[^n24]: 4 Deze bijlage is geen zelfdragend document, maar onlosmakelijk verbonden met het MUPS/LOK WIA-IP protocol.

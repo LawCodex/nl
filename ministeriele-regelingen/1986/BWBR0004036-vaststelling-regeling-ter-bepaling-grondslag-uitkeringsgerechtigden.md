@@ -29,17 +29,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-*de wet:*
-
-de Wet buitengewoon pensioen Indisch verzet (Stb. 1986, 360);
-
-*de belanghebbende:*
-
-de deelnemer aan het verzet in de zin van artikel 2, eerste lid, onder b, van de wet, alsmede degene die behoort tot een der categorieën van personen, bedoeld in artikel 2, tweede lid, van de wet, op wie artikel 10, zesde lid, van de wet van toepassing is;
-
-*de grondslag:*
-
-de pensioengrondslag, bedoeld in artikel 10 van de wet.
+- *de wet:* de Wet buitengewoon pensioen Indisch verzet (Stb. 1986, 360);
+- *de belanghebbende:* de deelnemer aan het verzet in de zin van artikel 2, eerste lid, onder b, van de wet, alsmede degene die behoort tot een der categorieën van personen, bedoeld in artikel 2, tweede lid, van de wet, op wie artikel 10, zesde lid, van de wet van toepassing is;
+- *de grondslag:* de pensioengrondslag, bedoeld in artikel 10 van de wet.
 
 ## Artikel 2
 

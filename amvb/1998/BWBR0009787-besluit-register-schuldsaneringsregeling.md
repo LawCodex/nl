@@ -59,19 +59,10 @@ A. H. Korthals
 
 ## Model register schuldsanering
 
-Rechter-commissaris:
-
-Naam van de schuldenaar:
-
-Bewindvoerder(s):
-
-beroep/bedrijf:
-
-benoemd op:
-
-wonende/verblijvende:
-
-adres bewindvoerder:
+- Rechter-commissaris:
+- Naam van de schuldenaar: Bewindvoerder(s):
+- beroep/bedrijf: benoemd op:
+- wonende/verblijvende: adres bewindvoerder:
 
 <table>
 <tr><th colspan="2">Beslissingen in eerste aanleg</th><th>Beslissingen in beroep</th><th>Besl. in cassatie</th></tr>

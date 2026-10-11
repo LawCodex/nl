@@ -1,0 +1,93 @@
+---
+title: "Planningsbesluit PCI’s en ICD’s"
+identifier: "BWBR0026753"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2009-01-01
+last_amended: 2018-08-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0026753/2018-08-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026753/2018-08-01_0/xml/BWBR0026753_2018-08-01_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Gezondheidsrecht en farmaceutisch recht"]
+retrieved: 2026-10-11
+---
+
+# Planningsbesluit PCI’s en ICD’s
+
+*Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2009, nr. CZ/TSZ-2969842, houdende vaststelling van het Planningsbesluit PCI’s, ICD’s en THI’s*
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+
+Gelet op de artikelen 5 en 6, tweede lid, van de Wet op bijzondere medische verrichtingen;
+
+Besluit:
+
+## Artikel 1
+
+De omvang van de behoefte aan percutane coronaire interventies (PCI’s) en het plaatsen van implanteerbare cardioverter defibrillatoren (ICD’s), de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in de bijlage bij deze regeling.
+
+## Artikel 2
+
+Vervallen
+
+## Artikel 3
+
+Wijzigt het Planningsbesluit bijzondere interventies aan het hart 2008.
+
+## Artikel 4
+
+1\. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+2\. Het Planningsbesluit bijzondere interventies aan het hart 2008 zoals dat luidde op de dag voorafgaande aan de dag waarop dit besluit in werking treedt, blijft van toepassing op voor de inwerkingtreding van dit besluit ontvangen aanvragen van een vergunning tot het verrichten van PCI’s of het plaatsen van ICD’s.
+
+## Artikel 5
+
+Deze regeling wordt aangehaald als: Planningsbesluit PCI’s en ICD’s.
+
+Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
+
+De\
+Minister\
+Volksgezondheid, Welzijn en Sport\
+A.Klink
+
+## Bijlage
+
+### 1 — Begripsbepaling
+
+Ingevolge het Besluit aanwijzing bijzondere medische verrichtingen 2007 is het verboden om zonder vergunning van de Minister van Volksgezondheid, Welzijn en Sport bijzondere interventies aan het hart uit te voeren. Bijzondere interventies aan het hart omvatten alle chirurgische ingrepen aan het hart, de coronaire vaten en de aortaboog (inclusief percutane behandelingen van hartklepafwijkingen), percutane coronaire interventies (PCI’s) en alle invasieve ritmebehandelingen waaronder de plaatsing van een implanteerbare cardioverter defibrillator (ICD).
+
+### 2 — De behoefte en de wijze waarop in de behoefte kan worden voorzien
+
+#### Handhaving WBMV-vergunningplicht PCI’s en ICD’s
+
+In het Planningsbesluit bijzondere interventies aan het hart 2008 heb ik aangegeven dat PCI’s en het plaatsen van ICD’s zich hebben ontwikkeld tot gangbare zorg en niet langer onder de noemer bijzondere zorg vallen. Voor beide verrichtingen zijn door de beroepsgroep duidelijke kwaliteitsvoorwaarden vastgesteld, inclusief het minimum aantal verrichtingen dat per cardioloog en per centrum per jaar uitgevoerd moeten worden om de kwaliteit op peil te houden. Deze richtlijnen gelden als criteria voor verantwoorde zorg, waar alle zorgaanbieders zich op grond van de Wet kwaliteit, klachten en geschillen zorg aan moeten houden. Ik heb dan ook in het Planningbesluit bijzondere interventies aan het hart 2008 aangegeven dat er in mijn ogen geen noodzaak meer is voor planning via het vergunningenstelsel van de Wet op bijzondere medische verrichtingen (WBMV). Ter voorbereiding op de voorgenomen opheffing van de vergunningplicht, heb ik meer vergunningen verleend voor PCI’s en het implanteren van ICD’s.
+
+In het Algemeen Overleg (AO) dotterinterventies, ICD’s en concentratie kinderhartchirurgie, dat heeft plaatsgevonden in de Tweede Kamer op 9 september 2009, heb ik toegezegd een registratieplicht te creëren voor nieuwe aanbieders. Bij de registratie dienen instellingen aan te tonen dat zij voldoen aan de criteria uit de toepasselijke kwaliteitsrichtlijnen van de beroepsgroep. De gegevens die hierdoor beschikbaar komen vóórdat een instelling de betreffende verrichting uitvoert, stelt de Inspectie gezondheidszorg en jeugd in staat risicogestuurd toezicht uit te oefenen. Indien daartoe aanleiding is, kan de IGJ een instelling op grond van de Wet kwaliteit, klachten en geschillen zorg aanwijzingen geven over de zorgverlening, maar ook in het uiterste geval een instelling opdragen de verrichting niet uit te voeren omdat de kwaliteit van zorg niet gewaarborgd is.
+
+In het AO heb ik toegezegd dat ik de vergunningplicht voor PCI’s en ICD’s handhaaf totdat deze registratieplicht wettelijk verankerd is. Ook heb ik als voorwaarde voor uitstroom uit de WBMV gesteld dat de huidige kwaliteitsregistratie voor PCI’s en ICD’s zodanig uitontwikkeld moet zijn dat prestatiegegevens openbaar toegankelijk zijn voor patiënten en zorgverzekeraars. Bovendien wil ik duidelijkheid krijgen over de indicatiestelling voor ICD’s. Aanleiding hiervoor is het onderzoek waartoe het College voor Zorgverzekeringen opdracht heeft gegeven en dat inzicht moet bieden in de kosteneffectiviteit van ICD’s. Het lijkt erop dat de uitkomst van het onderzoek zal worden dat de kosteneffectiviteit lager is dan verwacht. De indicatiestelling zoals die door de beroepsgroep zelf is vastgesteld zou daarmee ruimer zijn dan vanuit kosteneffectiviteitsoverwegingen maatschappelijk wenselijk is.
+
+Hoewel dit niet als consequentie zal hebben dat ICD’s uit het verzekerde pakket gehaald worden, zal wel een oplossing gevonden moeten worden voor de discrepantie die lijkt te gaan ontstaan tussen de pakketaanspraak en de professionele indicatiestelling van de beroepsgroep.
+
+De Kamer heeft mij ook gevraagd het aantal vergunninghouders voor PCI’s en ICD’s niet uit te breiden zolang de WBMV nog van toepassing is op deze verrichtingen. Onder andere daartoe dient dit Planningsbesluit.
+
+#### Capaciteit PCI’s en ICD’s
+
+Met het huidige aantal aanbieders kan tegemoet worden gekomen aan de actuele vraag naar ongeveer 30.000 PCI’s (bron: Begeleidingscommissie Hartinterventies Nederland) en ongeveer 4000 ICD-implantaties (bron: Nederlandse Vereniging voor Cardiologie) per jaar. Ik constateer echter dat steeds meer instellingen PCI’s en ICD-implantaties willen aanbieden. Het is van belang om te voorkomen dat er meer aanbieders voor PCI’s en ICD-implantaties komen dan de landelijke vraag rechtvaardigt. Dat zou immers betekenen dat niet alleen nieuwe vergunninghouders, maar mogelijk ook bestaande vergunninghouders niet het vereiste minimum aantal interventies per centrum en per specialist per jaar halen.
+
+Om de kwaliteit van zorg te kunnen waarborgen, en gelet op het verzoek van de Tweede Kamer, bepaal ik daarom met dit Planningsbesluit dat het aantal vergunninghouders niet verder wordt uitgebreid. De vergunningaanvragen die tot de inwerkingtredingsdatum van voorliggend besluit nog worden ontvangen, dienen beoordeeld te worden op basis van het Planningsbesluit bijzondere interventies aan het hart 2008 zoals dat voor de inwerkingtreding van voorliggend besluit luidde en kunnen derhalve nog gehonoreerd worden mits aantoonbaar wordt voldaan aan de geldende kwaliteitseisen. Ik beschouw de kwaliteitseisen zoals die zijn of nog worden vastgesteld in de richtlijnen van de beroepsgroep als de standaard.
+
+Voor zowel PCI-centra als ICD-centra geldt bovendien dat een samenwerkingsovereenkomst moet worden getekend met het dichtstbijzijnde hartchirurgische centrum. De vereisten voor een dergelijke samenwerkingsovereenkomst voor ICD-centra zijn vastgelegd in de betreffende kwaliteitsrichtlijn van de NVVC. Voor PCI-centra moeten in de samenwerkingsovereenkomst de afspraken zijn vastgelegd omtrent de hartchirurgische achtervang voor PCI-zorg zijn en moet tevens worden aangegeven op welke wijze de electieve PCI-patiënten in een hartteam (inclusief de hartchirurgen) worden besproken. In deze overeenkomst moet worden vastgelegd hoeveel tijd er maximaal mag zitten tussen de spoedindicatie voor hartchirurgie en de daadwerkelijke ingreep in het hartcentrum. De logistieke positie van het PCI- of ICD-centrum en het hartchirurgische achtervangcentrum moet daarbij in overweging worden genomen.
+
+De komende periode kan gebruikt worden om te bezien hoe vraag en aanbod zich in relatie tot elkaar ontwikkelen. De IGJ zal hierbij in het bijzonder toezien op de vergunningen die in de afgelopen periode zijn verleend voor PCI’s en ICD’s. Gegeven het toenemend aantal vergunninghouders, kost het de IGJ veel tijd om bij het adviseren over de vergunningaanvragen te beoordelen of een instelling een correcte raming geeft van de aantallen verrichtingen. De richtlijnen stellen namelijk als eis dat een beginnende instelling aannemelijk moet maken dat het de vereiste aantallen zal gaan halen.
+
+Het lijkt erop dat met hartinterventies beginnende instellingen daarbij hun adherentie overschatten.
+
+Ook moet rekening worden gehouden met het gegeven dat indicatiestellingen in de tijd veranderen, waardoor er wellicht minder patiënten worden behandeld dan oorspronkelijk geraamd werd. Het is dan ook mogelijk dat een vergunninghouder in een situatie geraakt waarin de uitgevoerde aantallen achterblijven bij de geraamde groeicurve op basis waarvan de vergunning is verleend. In redelijkheid zal moeten worden beoordeeld of deze achterstand binnen een aantal maanden zal worden ingelopen. In de richtlijn voor PCI’s wordt voor startende centra een aanloopperiode van twee jaar genoemd, waarbinnen 400 PCI’s per centrum per jaar moeten worden gehaald, en 600 PCI’s binnen drie tot vijf jaar. Voor ICD’s geldt een vergelijkbare aanloopperiode van twee jaar. Deze termijnen laten onverlet dat een vergunning eerder kan worden ingetrokken indien de mate van achterstand op de groeicurve daartoe aanleiding geeft. Vanzelfsprekend zal een vergunning ook worden ingetrokken indien een vergunninghouder niet langer voldoet aan de andere geldende kwaliteitseisen, zoals (infrastructurele) voorzieningen en de beschikbaarheid van voldoende geschoold en ervaren personeel.
+
+## Bijlage 2
+
+Vervallen

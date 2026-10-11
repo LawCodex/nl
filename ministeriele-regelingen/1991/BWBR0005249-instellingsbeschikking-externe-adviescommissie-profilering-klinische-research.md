@@ -29,17 +29,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-de commissie:
-
-de commissie genoemd in artikel 2;
-
-de minister:
-
-de minister van onderwijs en wetenschappen;
-
-de staatssecretaris:
-
-de staatssecretaris van welzijn, volksgezondheid en cultuur.
+- de commissie: de commissie genoemd in artikel 2;
+- de minister: de minister van onderwijs en wetenschappen;
+- de staatssecretaris: de staatssecretaris van welzijn, volksgezondheid en cultuur.
 
 ## Artikel 2
 

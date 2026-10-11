@@ -27,21 +27,10 @@ Besluit:
 
 In deze beschikking wordt verstaan onder:
 
-*registratie:*
-
-de geautomatiseerde verzameling van gegevens met betrekking tot de toepassing van het militaire tuchtrecht
-
-*houder:*
-
-bevelhebber der Landstrijdkrachten
-
-*bewerker:*
-
-de directeur Personeel Koninklijke Landmacht
-
-*uitvoerder:*
-
-hoofd van het Duyverman Computer Centrum.
+- *registratie:* de geautomatiseerde verzameling van gegevens met betrekking tot de toepassing van het militaire tuchtrecht
+- *houder:* bevelhebber der Landstrijdkrachten
+- *bewerker:* de directeur Personeel Koninklijke Landmacht
+- *uitvoerder:* hoofd van het Duyverman Computer Centrum.
 
 ## Artikel 2 — Doelstelling en gebruik
 

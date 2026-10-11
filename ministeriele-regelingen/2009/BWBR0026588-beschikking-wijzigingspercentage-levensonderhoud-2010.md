@@ -1,0 +1,43 @@
+---
+title: "Beschikking wijzigingspercentage levensonderhoud 2010"
+identifier: "BWBR0026588"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2009-10-28
+last_amended: 2010-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0026588/2010-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026588/2010-01-01_0/xml/BWBR0026588_2010-01-01_0.xml"
+authority: "Veiligheid en Justitie"
+rechtsgebied: ["Personen- en familierecht", "Echtscheiding"]
+retrieved: 2026-10-11
+---
+
+# Beschikking wijzigingspercentage levensonderhoud 2010
+
+*Beschikking van de Minister van Justitie van 28 oktober 2009, nr. 5625586/09/6, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2010 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2010)*
+
+De Minister van Justitie,
+
+Gelet op artikel 402a van Boek 1 van het Burgerlijk Wetboek;
+
+Besluit:
+
+## Artikel 1
+
+Het percentage, bedoeld in artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek, waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2010 worden verhoogd, wordt vastgesteld op 2,3.
+
+## Artikel 2
+
+Deze beschikking wordt aangehaald als: Beschikking wijzigingspercentage levensonderhoud 2010.
+
+Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.
+
+Den Haag 28 oktober 2009
+
+De\
+Minister\
+Justitie\
+E.M.H.Hirsch Ballin

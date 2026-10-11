@@ -27,21 +27,10 @@ Besluit:
 
 Voor de toepassing van deze beschikking wordt verstaan onder:
 
-„intern-verplaatste persoon”:
-
-de verplaatste persoon, die huisvesting heeft verkregen in de gemeente, in welker bevolkingsregister hij is opgenomen;
-
-„extern-verplaatste persoon”:
-
-de verplaatste persoon, die huisvesting heeft verkregen buiten de gemeente, in welker bevolkingsregister hij is opgenomen;
-
-„verplaatsingsformulier”:
-
-het formulier, waarvan het model als bijlage I bij deze beschikking is gevoegd;
-
-„verwijzingskaartje”:
-
-het kaartje, waarvan het model als bijlage II bij deze beschikking is gevoegd.
+- „intern-verplaatste persoon”: de verplaatste persoon, die huisvesting heeft verkregen in de gemeente, in welker bevolkingsregister hij is opgenomen;
+- „extern-verplaatste persoon”: de verplaatste persoon, die huisvesting heeft verkregen buiten de gemeente, in welker bevolkingsregister hij is opgenomen;
+- „verplaatsingsformulier”: het formulier, waarvan het model als bijlage I bij deze beschikking is gevoegd;
+- „verwijzingskaartje”: het kaartje, waarvan het model als bijlage II bij deze beschikking is gevoegd.
 
 ## Artikel 2
 

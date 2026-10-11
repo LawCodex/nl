@@ -1,0 +1,65 @@
+---
+title: "Besluit vaststelling model landelijk insigne buitengewoon opsporingsambtenaar"
+identifier: "BWBR0023325"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2007-12-31
+last_amended: 2015-11-04
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0023325/2015-11-04"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0023325/2015-11-04_0/xml/BWBR0023325_2015-11-04_0.xml"
+authority: "Veiligheid en Justitie"
+rechtsgebied: ["Openbare orde en veiligheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit vaststelling model landelijk insigne buitengewoon opsporingsambtenaar
+
+*Besluit van 31 december 2007, houdende vaststelling van het model van een landelijk insigne voor de buitengewoon opsporingsambtenaar*
+
+De Minister van Justitie,
+
+Gelet op artikel 26a van het Besluit buitengewoon opsporingsambtenaar;
+
+Besluit:
+
+## Artikel 1
+
+Het landelijk insigne voor de buitengewoon opsporingsambtenaar kent twee verschijningsvormen, te weten een insigne/embleem van metaal en een insigne/badge van stof.
+
+## Artikel 2
+
+Het insigne/embleem is 37 millimeter hoog en 30 millimeter breed en uitgevoerd in metaal met een zijdeglans uitstraling in de kleur zilver. De hoger gelegen delen van het insigne/embleem – hand, scepter en schild – zijn glanzend. Het lager gelegen deel – lijn om de hand en de scepter – is mat. De zijkant is glanzend.
+
+## Artikel 3
+
+Het insigne/badge is uitgevoerd in donkergrijze stof met een donkergrijze afwerking, waarbij de zoom is omrand. Het insigne/badge is 72,5 millimeter hoog en 75 millimeter breed. Het beeldmerk is 58,3 millimeter hoog. Het beeldmerk bestaat uit scepter, hand, schild en de lijn die de omtrek aangeeft van hand en schild en is uitgevoerd in zilverdraad. Scepter en hand zijn verticaal gestikt. Het schild is horizontaal gestikt. De lijn die de omtrek aangeeft van hand en schild is haaks op de richting gestikt. De zoom om de badge is haaks op de richting gestikt.
+
+## Artikel 4
+
+Dit besluit treedt in werking met ingang van 1 januari 2008
+
+## Artikel 4a
+
+1\. De Staat der Nederlanden (Ministerie van Veiligheid en Justitie) maakt ten aanzien van het auteursrecht op het in artikel 2 en 3 van dit besluit omschreven insigne een voorbehoud als bedoeld in artikel 15b van de Auteurswet.
+
+2\. Een afbeelding van het insigne zoals geregistreerd bij het Benelux Merkenbureau onder inschrijvingsnummer 0817662 wordt als bijlage bij deze regeling opgenomen.
+
+## Artikel 5
+
+Dit besluit wordt aangehaald als: ‘Besluit vaststelling model landelijk insigne buitengewoon opsporingsambtenaar’.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+Den Haag 31 december 2007
+
+De\
+Minister\
+Justitie\
+E.M.H.Hirsch Ballin
+
+## Bijlage
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0023325/2015-11-04_0/xml/256249.png)

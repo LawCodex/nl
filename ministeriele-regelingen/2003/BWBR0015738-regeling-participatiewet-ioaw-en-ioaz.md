@@ -1,0 +1,863 @@
+---
+title: "Regeling Participatiewet, IOAW en IOAZ"
+identifier: "BWBR0015738"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2003-10-16
+last_amended: 2026-09-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0015738/2026-09-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0015738/2026-09-01_0/xml/BWBR0015738_2026-09-01_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Arbeidsrecht", "Arbeidsrecht en sociaal-zekerheidsrecht", "Sociaal zekerheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling Participatiewet, IOAW en IOAZ
+
+*Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 16 oktober 2003, nr. W&B/WWB/2003/78560, Directie Werk en Bijstand, houdende nadere regels terzake van enkele in de Wet werk en bijstand en het Besluit WWB geregelde onderwerpen (Regeling WWB)*
+
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,
+
+Gelet op de artikelen 31, tweede lid, onderdeel l, en vierde lid, 75, 77, derde lid, en 78, tweede lid, van de Wet werk en bijstand, 10, vierde lid, van het Besluit WWB, en 4.1, vijfde lid, van het Besluit SUWI;
+
+Besluit:
+
+## § 1 — Algemene bepalingen
+
+### Artikel 1 — Definities
+
+In deze regeling wordt verstaan onder:
+
+- a. minister: Minister van Sociale Zaken en Werkgelegenheid;
+- b. wet: Participatiewet;
+- c. vangnetuitkering: de vangnetuitkering, bedoeld in artikel 74 van de wet;
+- d. toetsingscommissie: de toetsingscommissie vangnet Participatiewet, bedoeld in artikel 73 van de wet;
+- e. IOAW: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;
+- f. IOAZ: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;
+- g. Bbz 2004: Besluit bijstandverlening zelfstandigen 2004.
+
+## § 2 — Beeld van de uitvoering
+
+### Artikel 2 — Verslag over de uitvoering en accountantsverklaring
+
+Vervallen
+
+### Artikel 3 — Geen accountantsverklaring
+
+Vervallen
+
+### Artikel 4 — Beeld van de uitvoering
+
+1\. Het beeld van de uitvoering, bedoeld in de artikelen 77, tweede lid, van de wet, 54, eerste lid, van de IOAW en 54, eerste lid, van de IOAZ, wordt voor 1 maart van het kalenderjaar volgend op het kalenderjaar waarop het beeld van de uitvoering betrekking heeft door de minister ontvangen.
+
+2\. Het beeld van de uitvoering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld.
+
+3\. Indien het beeld van de uitvoering, bedoeld in het eerste lid, niet op de in het eerste lid genoemde datum is ontvangen, schort de minister de betaling van de uitkering, bedoeld in artikel 69, eerste lid, van de wet voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.
+
+4\. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de minister. Indien daarvoor naar het oordeel van de minister een noodzaak bestaat, kan, na ontvangst van het beeld van de uitvoering, de betaling van de uitkering op een eerdere datum worden hervat, waarbij kan worden afgeweken van het betaalmoment, bedoeld in artikel 5, eerste lid.
+
+5\. Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de wet, de IOAW, de IOAZ of het Bbz 2004.
+
+6\. In afwijking van het derde lid kan worden afgezien van opschorting als op het moment waarop over opschorting wordt beslist het beeld van de uitvoering alsnog juist en volledig is ontvangen.
+
+### Artikel 4a — Rechtmatige wetsuitvoering
+
+Vervallen
+
+## § 3 — Uitkering en betaling
+
+### Artikel 5 — Betaling
+
+1\. Met uitzondering van de maand mei, wordt iedere maand op of omstreeks de vijftiende dag van die maand 8% van de voor het betreffende jaar vastgestelde uitkering, bedoeld in artikel 69, eerste lid, van de wet betaalbaar gesteld. In de maand mei wordt op of omstreeks de vijftiende dag 12% van de uitkeringen betaalbaar gesteld.
+
+2\. Het bedrag waarmee de uitkering op grond van artikel 71 van de wet wordt aangepast, wordt in gelijke delen verrekend met de voor het betreffende kalenderjaar resterende maandelijks te betalen delen van de uitkering, bedoeld in artikel 69, eerste lid, van de wet.
+
+3\. De vangnetuitkering wordt betaalbaar gesteld voor 1 april in het kalenderjaar dat ligt twee jaar na het jaar waarop de uitkering betrekking heeft.
+
+### Artikel 5a — Opschorting betaling bij vaststelling ernstige tekortkomingen
+
+1\. Indien de minister toepassing geeft aan artikel 76, derde lid, van de wet schort hij de betaling van de vastgestelde uitkering, bedoeld in artikel 69, eerste lid, van de wet gedurende ten minste drie maanden op met ingang van de eerstvolgende kalendermaand waarin de uitkering nog niet betaalbaar is gesteld.
+
+2\. De betaling van de uitkering wordt hervat op of omstreeks de vijftiende dag van de kalendermaand nadat de periode van drie maanden is verstreken dan wel nadat de langere periode van opschorting, die de minister met toepassing van artikel 76, derde lid, van de wet heeft vastgesteld is verstreken.
+
+### Artikel 6 — Gegevens verdeelmodel
+
+In bijlage I bij deze regeling zijn de gewichten en peildata opgenomen die gelden voor de indicatoren, bedoeld in tabel 1 en tabel 3 van de bijlage bij het Besluit Participatiewet alsmede de normbedragen, bedoeld in tabel 2 van de bijlage bij het Besluit Participatiewet.
+
+### Artikel 6a — Correctiefactor te late indiening verantwoordingsinformatie
+
+De correctiefactor, bedoeld in artikel 7, vierde lid, van het Besluit Participatiewet, bedraagt 5%.
+
+## § 4 — Toetsing lijfrenten
+
+### Artikel 6b — Toetsing inleg lijfrente
+
+1\. Voor de toepassing van artikel 15, tweede lid, onderdeel b, onder 3°, van de wet wordt de inleg in het jaar van aanvraag van bijstand en de daaraan voorafgaande vier kalenderjaren in beschouwing genomen.
+
+2\. Voor de beoordeling of de inleg ten hoogste het in artikel 15, tweede lid, onderdeel b, onder 3°, van de wet genoemde bedrag heeft bedragen, wordt:
+
+- a. voor de inleg gedaan in het jaar van aanvraag van bijstand: het genoemde bedrag naar evenredigheid van de tussen 1 januari en de dag van aanvraag van bijstand gelegen periode in aanmerking genomen;
+- b. voor de inleg gedaan in de aan de aanvraag voorafgaande vier kalenderjaren: het genoemde bedrag in aanmerking genomen dat geldt op de dag van aanvraag van bijstand.
+
+### Artikel 6c — Toetsing waarde lijfrente en hoogte inleg
+
+Het bedrag waarmee bij toepassing van artikel 15, tweede lid, onderdeel b, van de wet de inleg het in subonderdeel 3° van dat onderdeel genoemde bedrag overschrijdt, wordt in mindering gebracht op de waarde van de lijfrente of lijfrenten.
+
+## § 5 — Vrijlating uitkeringen en vergoedingen
+
+### Artikel 7 — Vrijlating uitkeringen en vergoedingen
+
+Niet tot de middelen, bedoeld in artikel 31 van de wet, worden gerekend:
+
+- a. de tegemoetkoming, bedoeld in artikel 3 van de Uitkeringsregeling Hulpfonds Gedupeerden Bijlmerramp;
+- b. de eenmalige uitkering en het voorschot, bedoeld in de Regeling tegemoetkoming asbestslachtoffers 2014;
+- c. de vergoeding, bedoeld in artikel 16 van het Besluit tot wijziging van de aanwijzing van het luchtvaartterrein Maastricht, alsmede vaststelling van geluidszones (Interim-aanwijzingsbesluit luchtvaartterrein Maastricht);
+- d. de vergoedingen, bedoeld in de artikelen 3, 4 en 5 van de Uitkeringsregeling Fonds Slachtoffers Legionella-epidemie;
+- e. de eenmalige uitkering toegekend aan oud-mijnwerkers in verband met silicose;
+- f. de eenmalige uitkering ingevolge de Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen;
+- g. de individuele uitkeringen in het kader van tegoeden Tweede Wereldoorlog aan leden van de Joodse, Sinti, Roma en Indische gemeenschappen;
+- h. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste de in artikel 2, zesde lid, van de Wet op de loonbelasting 1964, genoemde gezamenlijke waarden per maand en per kalenderjaar;
+- i. de eenmalige tegemoetkoming, bedoeld in artikel 2 van de Tijdelijke regeling eenmalige tegemoetkoming pensioenverevening;
+- j. de uitkering, bedoeld in artikel 3 van de Vaststellingsovereenkomst houdende een regeling voor een collectieve partiële afwikkeling van schade die mogelijk verband houdt met DES-gebruik tijdens zwangerschap, die is gehecht aan de beschikking van het Gerechtshof Amsterdam van 1 juni 2006, R05/1743 (LJN: AX6440) en bij die beschikking op grond van artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek verbindend is verklaard voor de in artikel 1 van die overeenkomst bedoelde personen;
+- k. de tegemoetkoming, bedoeld in artikel 4 van de Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom;
+- l. de vergoeding, toegekend aan slachtoffers van seksueel misbruik in de Rooms-Katholieke Kerk, bedoeld in de Compensatieregelingen R.-K. Kerk Nederland;
+- m. de financiële tegemoetkoming in de geleden schade, bedoeld in het Statuut voor de buitengerechtelijke afhandeling van civiele vorderingen tot schadevergoeding in verband met seksueel misbruik van minderjarigen in instellingen en pleeggezinnen en de uitkering, bedoeld in de Tijdelijke regeling uitkeringen seksueel misbruik minderjarigen in instellingen en pleeggezinnen;
+- n. de eenmalige bijzondere uitkering, bedoeld in artikel 21a, eerste lid, van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen, dan wel artikel 21a, eerste lid, van het Besluit bijzondere militaire pensioenen;
+- o. de eenmalige tegemoetkoming, bedoeld in artikel 2 van de Beleidsregel tegemoetkoming Q-koorts;
+- p. betalingen door de Dienst Toeslagen inzake:
+  - 1°. de compensatie of aanvullende compensatie, bedoeld in artikel 2.1, artikel 2.9a, eerste lid, onderdeel a, subonderdeel 1, of tweede lid, artikel 2.9b, eerste lid, onderdeel a, subonderdeel 1, of tweede lid, of artikel 2.14h van de Wet hersteloperatie toeslagen;
+  - 2°. de O/GS-tegemoetkoming en aanvullende O/GS-tegemoetkoming, bedoeld in artikel 2.6, artikel 2.9a, eerste lid, onderdeel a, subonderdeel 2, of tweede lid, of artikel 2.9b, eerste lid, onderdeel a, subonderdeel 2, of tweede lid, van de Wet hersteloperatie toeslagen;
+  - 3°. het forfaitair bedrag, bedoeld in artikel 2.7, artikel 2.9a, eerste lid, onderdeel a, subonderdeel 3, of artikel 2.9 b, eerste lid, onderdeel a, subonderdeel 3, van de Wet hersteloperatie toeslagen;
+  - 4°. de incidentele noodvoorziening, bedoeld in artikel 2.8 of artikel 2.14i van de Wet hersteloperatie toeslagen;
+  - 5°. de bijzondere tegemoetkoming kinderopvangtoeslag, bedoeld in artikel 2.9 van de Wet hersteloperatie toeslagen;
+  - 6°. de eenmalige tegemoetkoming, bedoeld in artikel 49g van de Algemene wet inkomensafhankelijke regelingen, zoals dat luidde op 25 januari 2021;
+  - 7°. de tegemoetkoming aan een kind, pleegkind of voormalig pleegkind als bedoeld in afdeling 2.2 van de Wet hersteloperatie toeslagen, of de tegemoetkoming aan de nabestaanden van een overleden kind als bedoeld in afdeling 2.2a van de Wet hersteloperatie toeslagen;
+  - 8°. de tegemoetkoming, bedoeld in Afdeling 2.5 van de Wet hersteloperatie toeslagen.
+- q. het voorschot, bedoeld in de Regeling tegemoetkoming werknemers met CSE;
+- r. een uitkering als bedoeld in de Wet schadefonds geweldsmisdrijven, met uitzondering van het deel van de uitkering dat vanwege de derving van levensonderhoud wordt verstrekt aan nabestaanden;
+- s. de eenmalige aanvullende financiële bijdrage van de Stichting Zorg na Werk in Coronazorg;
+- t. een eenmalige uitkering als bedoeld in de Tijdelijke regeling eenmalige uitkering Dutchbat-III-veteranen;
+- u. een schadevergoeding als bedoeld in de Civielrechtelijke regeling ter uitvoering van het arrest van de Hoge Raad van 19 juli 2019 inzake Staat/Stichting Mothers of Srebrenica, Ministerie van Defensie (Stcrt. 2021, 27109);
+- v. een tegemoetkoming als bedoeld in de Beleidsregel tegemoetkoming Wet wijziging geregistreerd geslacht 1985–2014;
+- w. de tegemoetkoming, bedoeld in de Regeling tegemoetkoming stoffengerelateerde beroepsziekten;
+- x. de schadevergoeding die door de Stichting Vergoeding schade slachtoffers schietincident Alphen aan den Rijn is toegekend aan de overlevenden en nabestaanden van het schietincident in Alphen aan den Rijn op 9 april 2011;
+- y. de schadevergoeding die is verkregen door nabestaanden van personen die als gevolg van het neerhalen van Malaysia Airlines vlucht MH17 op 17 juli 2014 zijn overleden;
+- z. de eenmalige uitkering in verband met langdurige post-COVID klachten aan zorgmedewerkers op grond van de Regeling zorgmedewerkers met langdurige post-COVID klachten;
+- aa. de compensatie, bedoeld in de artikelen 4 en 5 van de Wet compensatie wegens selectie aan de poort;
+- bb. het eenmalige bedrag, bedoeld in het Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst;
+- cc. de betalingen die verband houden met de herziening van de door de Minister van Onderwijs, Cultuur en Wetenschap genomen besluiten inzake:
+  - 1°. herziening van het recht op studiefinanciering;
+  - 2°. terugvordering van studiefinanciering; en
+  - 3°. boete,
+
+  die zijn genomen op grond van de controlewerkwijze waarvan de Minister van Onderwijs, Cultuur en Wetenschap heeft geconstateerd dat sprake was van indirecte discriminatie;
+- dd. de tegemoetkoming, bedoeld in artikel 2, eerste lid, van de Wet onverplichte tegemoetkoming onterechte afwijzing buitengerechtelijke schuldregeling, en het bedrag gelijk aan de betaalde en verrekende bedragen, bedoeld in artikel 4, eerste lid, van die wet;
+- ee. betalingen door het Instituut Mijnbouwschade Groningen, genoemd in artikel 2, eerste lid, van de Tijdelijke wet Groningen, inzake:
+  - 1°. de vergoedingen, bedoeld in artikel 2, derde lid, onderdelen b en c van de Tijdelijke wet Groningen;
+  - 2°. de maatregelen of vergoedingen, bedoeld in artikel 2, negende lid, van de Tijdelijke wet Groningen;
+  - 3°. de tegemoetkoming, bedoeld in artikel 2, tiende lid, van de Tijdelijke wet Groningen;
+  - 4°. de vergoeding, bedoeld in artikel 13n, vierde lid, van de Tijdelijke wet Groningen voor de eigenaar van een gebouw voor de door hem gemaakte kosten voor bouwkundig en financieel advies;
+  - 5°. de tegemoetkoming, bedoeld in artikel 1a van het Besluit Tijdelijke wet Groningen;
+  - 6°. het oplossen van knelpunten, bedoeld in artikel 1a.1 van de Regeling Tijdelijke wet Groningen;
+- ff. betalingen door de Minister van Binnenlandse Zaken en Koninkrijksrelaties inzake:
+  - 1°. de vergoeding, bedoeld in artikel 13i, tweede lid, van de Tijdelijke wet Groningen;
+  - 2°. de vergoeding, bedoeld in artikel 13ia, derde lid, van de Tijdelijke wet Groningen;
+  - 3°. de vergoeding, bedoeld in artikel 13ib, derde lid, van de Tijdelijke wet Groningen;
+  - 4°. de vergoedingen, bedoeld in artikel 13j, eerste lid, onderdeel b en onderdeel c, van de Tijdelijke wet Groningen;
+  - 5°. de vergoeding, bedoeld in artikel 13m, eerste lid, van de Tijdelijke wet Groningen;
+  - 6°. de vergoeding, bedoeld in artikel 13n, vijfde lid, van de Tijdelijke wet Groningen;
+- gg. betalingen door de gemeenten Eemsdelta, Groningen en Midden-Groningen op grond van de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties verstrekte uitkering, bedoeld in artikel 15a, tweede lid, van de Tijdelijke wet Groningen;
+- hh. vergoeding door de exploitant, bedoeld in artikel 1 van de Tijdelijke wet Groningen van schade als bedoeld in artikel 177 van Boek 6 van het Burgerlijk Wetboek door beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of gasopslag bij Norg of de gasopslag bij Grijpskerk;
+- ii. de eenmalige vergoeding, bedoeld in de Tijdelijke regeling eenmalige vergoeding correctie dagloon WIA.
+
+### Artikel 7a — Indexering
+
+Vervallen
+
+## § 6 — Vakantietoeslag
+
+### Artikel 8 — Definities
+
+In deze paragraaf wordt verstaan onder:
+
+- a. inkomen: in aanmerking te nemen inkomen, bedoeld in artikel 32, eerste lid, van de wet voorzover daarover aanspraak op vakantietoeslag bestaat, zonder de daarin begrepen aanspraak op vakantietoeslag, na aftrek van de daarover verschuldigde loonbelasting, premies, bijdragen en inhoudingen, bedoeld in artikel 31, derde lid, van de wet;
+- b. aanspraak op vakantietoeslag: aanspraak op vakantietoeslag voor zover daarop aanspraak bestaat over het inkomen, bedoeld in artikel 32, eerste lid, van de wet, na aftrek van de daarover verschuldigde loonbelasting, premies, bijdragen en inhoudingen, bedoeld in artikel 31, derde lid van de wet;
+- c. algemene heffingskorting: tot een bedrag per maand omgerekende algemene heffingskorting, bedoeld in artikel 22 van de Wet op de loonbelasting 1964;
+- d. arbeidskorting: arbeidskorting, bedoeld in artikel 22a van de Wet op de loonbelasting 1964.
+
+### Artikel 9 — Reikwijdte
+
+Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2026.
+
+### Artikel 10 — In aanmerking te nemen vakantietoeslag
+
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de artikelen 11, 12, 13 of 14 berekende aanspraak op vakantietoeslag in aanmerking.
+
+### Artikel 11 — Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet met inkomen uit tegenwoordige arbeid
+
+Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit tegenwoordige arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de arbeidskorting en de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
+
+<table>
+<tr><th colspan="4">bij een netto inkomen per maand</th><th colspan="3" rowspan="2">bedraagt de aanspraak op vakantietoeslag</th></tr>
+<tr><th colspan="2">gelijk aan of meer dan</th><th colspan="2">en minder dan</th></tr>
+<tr><td>€</td><td>0,00</td><td>€</td><td>876,39</td><td>8,00%</td><td>x ink</td><td></td></tr>
+<tr><td>€</td><td>876,39</td><td>€</td><td>1.059,26</td><td>8,00%</td><td>x ink</td><td>- € 20,77</td></tr>
+<tr><td>€</td><td>1.059,26</td><td>€</td><td>2.175,48</td><td>8,00%</td><td>x ink</td><td>- € 02,67</td></tr>
+<tr><td>€</td><td>2.175,48</td><td></td><td></td><td>5,02%</td><td>X ink</td><td>- € 01,68</td></tr>
+</table>
+
+### Artikel 12 — Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet met inkomen uit vroegere arbeid
+
+Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet nog niet heeft bereikt, het in aanmerking te nemen inkomen loon uit vroegere arbeid betreft en voor de inhouding van loonheffing rekening is gehouden met de algemene heffingskorting wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
+
+<table>
+<tr><th colspan="4">bij een netto inkomen per maand</th><th colspan="3" rowspan="2">bedraagt de aanspraak op vakantietoeslag</th></tr>
+<tr><th colspan="2">gelijk aan of meer dan</th><th colspan="2">en minder dan</th></tr>
+<tr><td>€</td><td>0,00</td><td>€</td><td>672,38</td><td>8,00%</td><td>x ink</td><td></td></tr>
+<tr><td>€</td><td>672,38</td><td>€</td><td>726,15</td><td>5,14%</td><td>x ink</td><td></td></tr>
+<tr><td>€</td><td>726,15</td><td>€</td><td>1.733,81</td><td>8,00%</td><td>x ink</td><td>- € 20,77</td></tr>
+<tr><td>€</td><td>1.733,81</td><td>€</td><td>1.851,75</td><td>7,20%</td><td>x ink</td><td>- € 18,70</td></tr>
+<tr><td>€</td><td>1.851,75</td><td></td><td></td><td>8,00%</td><td>x ink</td><td>- € 33,46</td></tr>
+</table>
+
+### Artikel 13 — Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet voor wie geen rekening is gehouden met de algemene heffingskorting
+
+Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet nog niet heeft bereikt en voor de inhouding van loonheffing geen rekening is gehouden met de algemene heffingskorting, wordt de aanspraak op vakantietoeslag vastgesteld aan de hand van de navolgende tabel, waarbij onder ‘ink’ het inkomen wordt verstaan.
+
+<table>
+<tr><th colspan="4">bij een netto inkomen per maand</th><th colspan="3" rowspan="2">bedraagt de aanspraak op vakantietoeslag</th></tr>
+<tr><th colspan="2">gelijk aan of meer dan</th><th colspan="2">en minder dan</th></tr>
+<tr><td>€</td><td>0</td><td colspan="2"></td><td>8,00%</td><td>x ink</td><td></td></tr>
+</table>
+
+### Artikel 14 — Aanspraak op vakantietoeslag voor personen die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet hebben bereikt
+
+1\. Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in artikel 13 van de Algemene Ouderdomswet bedraagt de daarbij behorende aanspraak op vakantietoeslag voor:
+
+<table>
+<tr><td>a. alleenstaande</td><td>6,51%</td><td>x ink</td><td></td></tr>
+<tr><td>b. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet hebben bereikt</td><td>6,78%</td><td>x ink</td><td></td></tr>
+<tr><td colspan="4">c. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien:</td></tr>
+<tr><td>– het inkomen € 1.507,16 of meer bedraagt</td><td>6,78%</td><td>x ink</td><td>- € 20,48</td></tr>
+<tr><td>– het inkomen lager is dan € 1.507,16</td><td>6,78%</td><td>x ink</td><td></td></tr>
+</table>
+
+2\. Indien de belanghebbende, bedoeld in het eerste lid, naast het gekorte ouderdomspensioen en toeslag, bedoeld in het eerste lid, een ander inkomen heeft dat recht geeft op vakantietoeslag bedraagt de aanspraak op die vakantietoeslag 8% van dat andere inkomen.
+
+## § 7 — Verzoeken vangnetuitkering
+
+### Artikel 15 — Procedurele bepalingen verzoek vangnetuitkering
+
+1\. Een verzoek tot een vangnetuitkering wordt door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 15 augustus van het kalenderjaar volgend op het kalenderjaar waarop het verzoek betrekking heeft.
+
+2\. Een verzoek dat door de toetsingscommissie wordt ontvangen voor of na afloop van de periode, genoemd in het eerste lid, wordt niet in behandeling genomen.
+
+3\. De toetsingscommissie adviseert de minister uiterlijk op 31 oktober van het kalenderjaar, bedoeld in het eerste lid, over de te nemen beslissing.
+
+4\. De toetsingscommissie kan de minister voor 15 oktober verzoeken om een aantal adviezen later dan 31 oktober vast te stellen.
+
+5\. Indien de minister aan een verzoek als bedoeld in het vierde lid voldoet, bepaalt hij daarbij het aantal adviezen dat later kan worden vastgesteld en de datum waarop deze adviezen uiterlijk door de minister worden ontvangen.
+
+6\. Het college verstrekt bij een verzoek als bedoeld in het eerste lid aan de minister informatie over genomen maatregelen om te komen tot een reductie dan wel tot een verdere reductie van het verschil tussen de in aanmerking komende netto lasten over het uitkeringsjaar en de verstrekte uitkering.
+
+## § 7a — Vergoeding centrumgemeenten bijstandsverlening ondernemers in de binnenvaart Bbz 2004
+
+### Artikel 15a — Bedragen vergoeding centrumgemeenten bijstandverlening ondernemers in de binnenvaart Bbz 2004
+
+1\. De kosten, bedoeld in artikel 52, eerste lid, onderdeel b, van het Bbz 2004, van een aan derden opgedragen onderzoek inzake verlening van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal aan ondernemers in de binnenvaart komen voor vergoeding in aanmerking, voor zover de kosten per onderzoek niet meer bedragen dan:
+
+- a. € 3.478,00 voor een uitgebreid rapport en € 2.055,00 voor een verkort rapport betrekking hebbend op bijstandverlening aan een gevestigde of een beginnende zelfstandige als bedoeld in artikel 2, eerste lid, onderdelen a en b, van het Bbz 2004;
+- b. € 1.264,00 voor een rapport betrekking hebbend op bijstandverlening aan een oudere of een beëindigende zelfstandige als bedoeld in artikel 2, eerste lid, onderdelen c en d, van het Bbz 2004 of een nader of vervolgrapport betrekking hebbend op bijstandverlening aan een zelfstandige.
+
+2\. De bedragen, genoemd in het eerste lid, onderdelen a en b, worden met ingang van 1 januari van elk kalenderjaar gewijzigd met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van de bedragen is gebaseerd. De gewijzigde bedragen worden door of namens de Minister medegedeeld in de Staatscourant.
+
+## § 7b — Vaststelling aantallen beschut werk
+
+### Artikel 15b — Aantallen beschut werk
+
+Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in artikel 10b, vierde lid, van de wet wordt voor het jaar 2026 vastgesteld op het in bijlage II bij deze regeling bepaalde aantal per gemeente.
+
+## § 7c — Vaststelling tegemoetkoming alleenverdienersproblematiek
+
+### Artikel 15ba — Tegemoetkoming alleenverdienersproblematiek
+
+De tegemoetkoming voor een huishouden dat voldoet aan de voorwaarden, bedoeld in artikel 78gg, eerste lid, bedraagt:
+
+- a. € 1.000 voor een huishouden dat in het jaar 2025 aan de voorwaarden voldoet;
+- b. € 1.100 voor een huishouden dat in het jaar 2026 aan de voorwaarden voldoet.
+
+## § 8 — Slotbepalingen
+
+### Artikel 15c — Grondslag
+
+Deze regeling is mede gebaseerd op de artikelen 78gg, zevende lid, van de wet, 20a, tiende lid, en 29, zesde lid, van de IOAW en 20a, tiende lid, en 29, zesde lid, van de IOAZ.
+
+### Artikel 16 — Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 januari 2004.
+
+### Artikel 17 — Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling Participatiewet, IOAW en IOAZ.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
+
+Den Haag 16 oktober 2003
+
+De\
+Staatssecretaris\
+Sociale Zaken en Werkgelegenheid\
+M.Rutte
+
+## Bijlage I — behorende bij artikel 6 van de Regeling Participatiewet, IOAW en IOAZ
+
+| Indicator | Gewicht | Peildatum schatting | Peildatum verdeling |
+| --- | --- | --- | --- |
+| *<u>Niet-rechthebbenden</u>* | | | |
+| *Te veel vermogen* | | | |
+| Alleenstaande, vermogen \> € 7.605 | – 1,8555704 | 1-1-2023 | Huishoudensdefinitie 31-12-2024, vermogen 1-1-2023 |
+| Alleenstaande, vermogen t/m € 7.605, overwaarde boven € 64.100 | – 0,6609162 | 1-1-2023 | Huishoudensdefinitie 31-12-2024, vermogen 1-1-2023 |
+| Paar, vermogen boven € 15.210 | – 1,5478988 | 1-1-2023 | Huishoudensdefinitie 31-12-2024, vermogen 1-1-2023 |
+| Paar, vermogen tot en met € 15.210, overwaarde boven € 64.100 | – 0,6862660 | 1-1-2023 | Huishoudensdefinitie 31-12-2024, vermogen 1-1-2023 |
+| *Andere uitkering* | | | |
+| AO-uitkering (15%-80% of onbekend) in hh | – 4,2224559 | 5-1-2023 | 31-12-2024 |
+| AO-uitkering (80%-100%) in hh | – 4,1987133 | 5-1-2023 | 31-12-2024 |
+| WW-uitkering in hh | – 2,4304946 | 5-1-2023 | 31-12-2024 |
+| ANW-uitkering in hh | – 5,7114727 | 5-1-2023 | 31-12-2024 |
+| Zw-uitkering of wachtgeld in hh | – 2,6667868 | 5-1-2023 | 31-12-2024 |
+| Pensioenuitkering in hh | – 0,8444859 | 5-1-2023 | 31-12-2024 |
+| *Kan/wil niet werken* | | | |
+| Student (mbo/hbo/wo) in hh | – 2,0685825 | 1-10-2022 | 1-10-2024 |
+| *<u>Aanbodkant van de arbeidsmarkt</u>* | | | |
+| *Leeftijd* | | | |
+| 18 tot 20-jarige in hh | referentie | 1-1-2023 | 31-12-2024 |
+| 20 tot 25-jarige in hh | 1,1055800 | 1-1-2023 | 31-12-2024 |
+| 25 tot 30-jarige in hh | 1,6734069 | 1-1-2023 | 31-12-2024 |
+| 30 tot 40-jarige in hh | 1,9510109 | 1-1-2023 | 31-12-2024 |
+| 40 tot 50-jarige in hh | 2,2016427 | 1-1-2023 | 31-12-2024 |
+| 50-jarige tot AOW-leeftijd in hh | 2,6347172 | 1-1-2023 | 31-12-2024 |
+| *Gezinssituatie* | | | |
+| Alleenstaande | referentie | 1-1-2023 | 31-12-2024 |
+| Eenouder-moeder, jongste kind tot 5 | 1,0709808 | 1-1-2023 | 31-12-2024 |
+| Eenouder-moeder, jongste kind 5-12 | 0,3745665 | 1-1-2023 | 31-12-2024 |
+| Eenouder-moeder, jongste kind 12-18 | – 0,1342996 | 1-1-2023 | 31-12-2024 |
+| Eenouder-moeder, jongste kind 18+ | – 0,3483763 | 1-1-2023 | 31-12-2024 |
+| Eenouder-vader, jongste kind tot 5 | – 0,2725922 | 1-1-2023 | 31-12-2024 |
+| Eenouder-vader, jongste kind 5-12 | 0,0027655 | 1-1-2023 | 31-12-2024 |
+| Eenouder-vader, jongste kind 12-18 | – 0,3110965 | 1-1-2023 | 31-12-2024 |
+| Eenouder-vader, jongste kind 18+ | – 0,9053010 | 1-1-2023 | 31-12-2024 |
+| Paar, jongste kind 18- | – 0,7857138 | 1-1-2023 | 31-12-2024 |
+| Paar, jongste kind 18+ | – 1,3798868 | 1-1-2023 | 31-12-2024 |
+| Paar zonder kinderen | – 0,9913039 | 1-1-2023 | 31-12-2024 |
+| Thuiswonend meerderjarig kind | – 0,4609698 | 1-1-2023 | 31-12-2024 |
+| Overig huishouden | 0,3192275 | 1-1-2023 | 31-12-2024 |
+| Wonen in corporatiewoning | 1,5123740 | 31-12-2022 | 30-12-2024 |
+| Wonen op een standplaats | 1,5719418 | 31-12-2022 | 31-12-2024 |
+| *Migratieachtergrond* | | | |
+| Geen migratieachtergrond in hh | Referentie | 1-1-2023 | 31-12-2024 |
+| Turk in hh | 0,2548469 | 1-1-2023 | 31-12-2024 |
+| Surinamer in hh | 0,0870234 | 1-1-2023 | 31-12-2024 |
+| Caribisch Nederlander in hh | 0,1321480 | 1-1-2023 | 31-12-2024 |
+| Marokkaan in hh | 0,4120512 | 1-1-2023 | 31-12-2024 |
+| Ghanees in hh | – 0,0618244 | 1-1-2023 | 31-12-2024 |
+| Somaliër of Eritreeër in hh | 1,0576231 | 1-1-2023 | 31-12-2024 |
+| Overig Afrika in hh | 0,5515808 | 1-1-2023 | 31-12-2024 |
+| Afghaan in hh | 1,2975822 | 1-1-2023 | 31-12-2024 |
+| Irakees in hh | 1,1610649 | 1-1-2023 | 31-12-2024 |
+| Syriër in hh | 2,0224429 | 1-1-2023 | 31-12-2024 |
+| Iranees in hh | 0,7513077 | 1-1-2023 | 31-12-2024 |
+| Chinees in hh | – 0,0610809 | 1-1-2023 | 31-12-2024 |
+| Indiaas in hh | – 0,8590884 | 1-1-2023 | 31-12-2024 |
+| Overig Azië in hh | 0,2030656 | 1-1-2023 | 31-12-2024 |
+| Voormalig Joegoslavisch in hh | 0,2616966 | 1-1-2023 | 31-12-2024 |
+| Voormalig Sovjet-Unie, exclusief Oekraïne in hh | 0,2373707 | 1-1-2023 | 31-12-2024 |
+| Voormalig Sovjet-Unie, exclusief Oekraïne en na 24 februari in Nederland gekomen in hh | – 2,6990946 | 1-1-2023 | 31-12-2024 |
+| Oekraïner in hh | 0,0688128 | 1-1-2023 | 31-12-2024 |
+| Oekraïner en na 24 februari 2022 in Nederland gekomen in hh | – 5,1428890 | 1-1-2023 | 31-12-2024 |
+| Overig Europees in hh | – 0,7087066 | 1-1-2023 | 31-12-2024 |
+| Overig Amerika en Oceanië in hh | – 0,1828582 | 1-1-2023 | 31-12-2024 |
+| *Opleiding* | | | |
+| HCI (human capital index) onbekend | referentie | Opleidingsniveau 1-10-2022, arbeidsverleden 2018 t/m 2022 | Opleidingsniveau 1-10-2023, arbeidsverleden 2019 t/m 2023 |
+| Lage HCI in hh | 0,5688725 | Opleidingsniveau 1-10-2022, arbeidsverleden 2018 t/m 2022 | Opleidingsniveau 1-10-2023, arbeidsverleden 2019 t/m 2023 |
+| Middelbare of hoge HCI in hh | – 2,7420092 | Opleidingsniveau 1-10-2022, arbeidsverleden 2018 t/m 2022 | Opleidingsniveau 1-10-2023, arbeidsverleden 2019 t/m 2023 |
+| (V)SO/Pro gevolgd in hh | 0,5153509 | Gevolgd tussen schooljaar 2010/2011 en 2021/2022, niet gevolgd in schooljaar 2022/2023 | Gevolgd tussen schooljaar 2012/2013 en 2023/2024, niet gevolgd in schooljaar 2024/2025 |
+| *Gezondheid* | | | |
+| Zorgkosten boven € 5.000 in hh | 0,1558716 | Heel 2022 | Heel 2022 |
+| Zorgkosten voor hulpmiddelen | 0,1386926 | Heel 2022 | Heel 2022 |
+| Zorgkosten voor ziekenhuisbezoek | 0,1347905 | Heel 2022 | Heel 2022 |
+| Bovengemiddelde huisartskosten | 0,1035051 | Heel 2022 | Heel 2022 |
+| Verleden met zorgkosten boven de € 5.000 | 0,4413400 | Gehele jaren, 2012 tot en met 2022 | Gehele jaren, 2012 tot en met 2022 |
+| Verleden met GGZ-kosten | 0,5555446 | Gehele jaren, 2012 tot en met 2022 | Gehele jaren, 2012 tot en met 2022 |
+| Uitgevallen ex-student met psychoproblematiek | 1,1276171 | Opleidingsniveau 1-10-2022, psychoproblematiek over heel 2022, en gebruik ggz-zorg over heel 2022. | Opleidingsniveau 1-10-2023, psychoproblematiek over heel 2023, en gebruik ggz-zorg over heel 2022. |
+| Gebruik GGZ-zorg in hh | 0,3112140 | Heel 2022 | Heel 2022 |
+| Medicijnen voor verslaving in hh | – 0,0206242 | Heel 2022 | Heel 2023 |
+| Medicijnen voor depressie in hh | 0,2291552 | Heel 2022 | Heel 2023 |
+| Medicijnen voor psychose in hh | 0,2326531 | Heel 2022 | Heel 2023 |
+| Medicijnen voor epilepsie in hh | 0,2815749 | Heel 2022 | Heel 2023 |
+| | | | |
+| Medicijngebruik uit minder dan 4 hoofdgroepen in hh | referentie | Heel 2022 | Heel 2023 |
+| Medicijngebruik uit 4 tot 6 hoofdgroepen in hh | 0,0787502 | Heel 2022 | Heel 2023 |
+| Medicijngebruik uit 6 tot 8 hoofdgroepen in hh | 0,1545379 | Heel 2022 | Heel 2023 |
+| Medicijngebruik uit 8 of meer hoofdgroepen in hh | 0,2169834 | Heel 2022 | Heel 2023 |
+| *Combinaties van factoren* | | | |
+| Niet-Europees (excl. Overig Azië en Overig Amerika en Oceanië) in hh en 50-jarige tot AOW in hh | 0,2519365 | 1-1-2023 | 31-12-2024 |
+| Niet-Europees (excl. Overig Azië en Overig Amerika en Oceanië) in hh en gezondheidsproblemen<sup>1</sup> in hh | 0,0230759 | 1-1-2023 voor migratieachtergrond, heel 2022 voor gezondheidsproblemen | 31-12-2024 voor migratieachtergrond, heel 2022 voor hoge zorgkosten en gebruik ggz-zorg, heel 2023 voor overige gezondheidsproblemen |
+| Lage HCI in hh en gezondheidsproblemen<sup>1</sup> in hh | 0,2120098 | Opleidingsniveau 1-10-2022, arbeidsverleden 2018 t/m 2022, heel 2022 voor gezondheidsproblemen | Opleidingsniveau 1-10-2023, arbeidsverleden 2019 t/m 2023, heel 2022 voor hoge zorgkosten en gebruik ggz-zorg, heel 2023 voor overige gezondheidsproblemen |
+| *<u>Vraagkant van de arbeidsmarkt</u>* | | | |
+| Banen per lid beroepsbevolking, gecorrigeerd voor reistijd, concurrentie en grenspendel | – 4,8598002 | 1-1-2023 | 1-1-2024 |
+| Verdringing op de arbeidsmarkt per lid laagopgeleide beroepsbevolking, gecorrigeerd voor reistijd en concurrentie | 1,0049417 | 1-1-2023 | 1-1-2024 |
+| *Buurteffecten* | | | |
+| Aandeel niet-werkenden in directe omgeving t.o.v. de wijdere omgeving | 2,5611055 | 1-1-2023 | 1-1-2024 |
+| Index overlast en onveiligheid | 1,3575904 | 1-1-2023 | 1-1-2024 |
+| Constante | – 1,9977512 | n.v.t. | n.v.t. |
+
+<sup>1</sup> Definitie gezondheidsproblemen: persoon in huishoudens heeft 1 van de volgende kenmerken: heeft zorgkosten boven € 5.000, maakt gebruik van GGZ-zorg, van medicijnen tegen verslaving, depressie, psychose of epilepsie en pijn, of maakt gebruik van 4 of meer medicijngroepen.
+
+**Tabel 2: de bruto normbedragen zoals gehanteerd in het objectief verdeelmodel**
+
+| | |
+| --- | --- |
+| **Type huishouden** | **Normbedrag** |
+| Alleenstaande (ouder), leeftijd 21 tot AOW | € 20.817,34 |
+| Alleenstaande (ouder), 18, 19 of 20 jaar | € 4.055,76 |
+| Gehuwd paar, beide partners leeftijd 21 tot AOW | € 27.007,48 |
+| Gehuwd paar, beide partners 18, 19 of 20 jaar, zonder kind(eren) | € 8.111,52 |
+| Gehuwd paar, beide partners 18, 19 of 20 jaar, met kind(eren) | € 12.805,44 |
+| Gehuwd paar, één van beide partners 18, 19 of 20 jaar, zonder kind(eren) | € 15.790,56 |
+| Gehuwd paar, één van beide partners 18, 19 of 20 jaar, met kind(eren) | € 22.356,37 |
+| **Normen gerechtigde leeftijd 21 tot AOW bij aantal kostendelers** | **Normbedrag** |
+| 2 kostendelers | € 13.503,74 |
+| 3 kostendelers | € 11.065,81 |
+| 4 kostendelers | € 9.846,94 |
+| 5 kostendelers | € 9.115,51 |
+| 6 kostendelers | € 8.628,07 |
+| 7 kostendelers | € 8.382,00 |
+| 8 kostendelers | € 8.214,36 |
+| 9 kostendelers | € 8.083,92 |
+| 10 kostendelers (of meer) | € 7.979,64 |
+| **Normen gehuwde paren (1 partner jonger dan 21, 1 partner leeftijd 21 of ouder) afhankelijk van aantal kostendelers <u>met</u> kinderen** | **Normbedrag** |
+| 2 kostendelers | € 19.918,44 |
+| 3 kostendelers | € 18.699,57 |
+| 4 kostendelers | € 17.968,13 |
+| 5 kostendelers | € 17.480,70 |
+| 6 kostendelers | € 17.132,37 |
+| 7 kostendelers | € 16.964,04 |
+| 8 kostendelers | € 16.833,60 |
+| 9 kostendelers | € 16.729,32 |
+| 10 kostendelers (of meer) | € 19.918,44 |
+| **Normen gehuwde paren (1 partner jonger dan 21, 1 partner leeftijd 21 of ouder) afhankelijk van aantal kostendelers <u>zonder</u> kinderen** | |
+| 2 kostendelers | € 14.225,88 |
+| 3 kostendelers | € 13.443,60 |
+| 4 kostendelers | € 12.974,16 |
+| 5 kostendelers | € 12.661,32 |
+| 6 kostendelers | € 12.437,76 |
+| 7 kostendelers | € 12.270,12 |
+| 8 kostendelers | € 12.139,68 |
+| 9 kostendelers | € 12.035,40 |
+| 10 kostendelers (of meer) | € 14.225,88 |
+| **Afwijkende normen gehuwden o.b.v. art. 24 Participatiewet** | **Normbedrag** |
+| rechthebbende leeftijd 21 of ouder met of zonder kinderen | € 13.503,74 |
+| rechthebbende leeftijd jonger dan 21, zonder kind | € 4.055,76 |
+| rechthebbende leeftijd jonger dan 21, met kind | € 6.402,72 |
+
+**Tabel 3: gewichten en peildata van de indicatoren die zijn opgenomen in de prijscomponent van het objectief verdeelmodel**
+
+| Indicator | Gewicht | Peildatum schatting | Peildatum verdeling |
+| --- | --- | --- | --- |
+| *<u>Directe verrekening</u>* | | | |
+| *Andere uitkering* | | | |
+| WW-uitkering in hh | – 1,9655203 | 5-1-2023 | 31-12-2024 |
+| AO-uitkering, mate van AO 15-80% of onbekend in hh | – 2,4439655 | 5-1-2023 | 31-12-2024 |
+| AO-uitkering, mate van AO 80-100% in hh | – 3,2952478 | 5-1-2023 | 31-12-2024 |
+| ANW-uitkering in hh | – 2,3704195 | 5-1-2023 | 31-12-2024 |
+| Zw-uitkering of wachtgeld in hh | – 2,2741673 | 5-1-2023 | 31-12-2024 |
+| Pensioenuitkering in hh | – 1,2897474 | 5-1-2023 | 31-12-2024 |
+| *Kans op deeltijdwerk* | | | |
+| *Aanbodkant van de arbeidsmarkt* | | | |
+| *Leeftijd* | | | |
+| 18 tot 25-jarige in hh | referentie | 1-1-2023 | 31-12-2024 |
+| 25 tot 30-jarige in hh | – 0,2583323 | 1-1-2023 | 31-12-2024 |
+| 30 tot 40-jarige in hh | – 0,3457572 | 1-1-2023 | 31-12-2024 |
+| 40 tot 50-jarige in hh | – 0,3336410 | 1-1-2023 | 31-12-2024 |
+| 50-jarige tot AOW-leeftijd in hh | – 0,1775375 | 1-1-2023 | 31-12-2024 |
+| *Gezinssituatie* | | | |
+| Alleenstaande, eenoudervader | referentie | 1-1-2023 | 31-12-2024 |
+| Eenouder-moeder, jongste kind tot 5 | – 0,3110336 | 1-1-2023 | 31-12-2024 |
+| Eenouder-moeder, jongste kind 5+ | – 0,4441213 | 1-1-2023 | 31-12-2024 |
+| Paar met kinderen | – 0,9749875 | 1-1-2023 | 31-12-2024 |
+| Paar zonder kinderen, overig huishouden | – 1,0976525 | 1-1-2023 | 31-12-2024 |
+| Thuiswonend meerderjarig kind | – 0,5210272 | 1-1-2023 | 31-12-2024 |
+| Wonen in corporatiewoning of op standplaats | 0,1976393 | 31-12-2022 | Corporatiewoning 30-12-2024, standplaats 31-12-2024 |
+| *Migratieachtergrond* | | | |
+| Geen, westerse, of overige niet-westerse migratieachtergrond in hh | referentie | 1-1-2023 | 31-12-2024 |
+| Turk in hh | 0,2324311 | 1-1-2023 | 31-12-2024 |
+| Surinamer in hh | 0,0914459 | 1-1-2023 | 31-12-2024 |
+| Marokkaan in hh | 0,2464451 | 1-1-2023 | 31-12-2024 |
+| Overig Afrika in hh | 0,1815156 | 1-1-2023 | 31-12-2024 |
+| Irakees, Syriër, Iraniër, of Afghaan in hh | 0,3466441 | 1-1-2023 | 31-12-2024 |
+| *Opleiding* | | | |
+| HCI (human capital index) onbekend | referentie | Opleidingsniveau 1-10-2022, arbeidsverleden 2018 t/m 2022 | Opleidingsniveau 1-10-2023, arbeidsverleden 2019 t/m 2023 |
+| Lage HCI in hh | 0,2347849 | Opleidingsniveau 1-10-2022, arbeidsverleden 2018 t/m 2022 | Opleidingsniveau 1-10-2023, arbeidsverleden 2019 t/m 2023 |
+| Middelbare of hoge HCI in hh | – 0,0587812 | Opleidingsniveau 1-10-2022, arbeidsverleden 2018 t/m 2022 | Opleidingsniveau 1-10-2023, arbeidsverleden 2019 t/m 2023 |
+| *Gezondheid* | | | |
+| Gebruik GGZ-zorg in hh | 0,0969737 | Heel 2022 | Heel 2022 |
+| Medicijnen voor depressie in hh | 0,0419880 | Heel 2022 | Heel 2023 |
+| Combinaties van factoren | | | |
+| Lage HCI in hh en gezondheidsproblemen in hh | 0,1395893 | Opleidingsniveau 1-10-2022, arbeidsverleden 2018 t/m 2022, heel 2022 voor gezondheidsproblemen | Opleidingsniveau 1-10-2023, arbeidsverleden 2019 t/m 2023, heel 2022 voor hoge zorgkosten en gebruik ggz-zorg, heel 2023 voor overige gezondheidsproblemen |
+| *Vraagkant van de arbeidsmarkt* | | | |
+| Laaggeschoolde banen per lid beroepsbevolking in gemeente, gecorrigeerd voor reistijd, concurrentie en grenspendel | 0,0720317 | 1-1-2023 | 1-1-2024 |
+| *Buurteffecten* | | | |
+| Index overlast en onveiligheid | 0,5099018 | 1-1-2023 | 1-1-2024 |
+| *Loonkostensubsidie* | | | |
+| Indicator LKS | – 2,4306064 | 5-1-2023 | 31-12-2024 |
+| Constante | 2,0263536 | n.v.t. | N.v.t. |
+
+## Bijlage II — behorende bij artikel 15b van de Regeling Participatiewet, IOAW en IOAZ
+
+| CBS-code | Gemeente | ultimo 2026 |
+| --- | --- | --- |
+| 1680 | Aa en Hunze | 11 |
+| 358 | Aalsmeer | 10 |
+| 197 | Aalten | 12 |
+| 59 | Achtkarspelen | 15 |
+| 482 | Alblasserdam | 12 |
+| 613 | Albrandswaard | 22 |
+| 361 | Alkmaar | 106 |
+| 141 | Almelo | 111 |
+| 34 | Almere | 139 |
+| 484 | Alphen aan den Rijn | 78 |
+| 1723 | Alphen-Chaam | 1 |
+| 1959 | Altena | 37 |
+| 60 | Ameland | 1 |
+| 307 | Amersfoort | 87 |
+| 362 | Amstelveen | 40 |
+| 363 | Amsterdam | 680 |
+| 200 | Apeldoorn | 133 |
+| 202 | Arnhem | 271 |
+| 106 | Assen | 75 |
+| 743 | Asten | 9 |
+| 744 | Baarle-Nassau | 3 |
+| 308 | Baarn | 6 |
+| 489 | Barendrecht | 15 |
+| 203 | Barneveld | 20 |
+| 888 | Beek | 7 |
+| 1954 | Beekdaelen | 17 |
+| 889 | Beesel | 9 |
+| 1945 | Berg en Dal | 23 |
+| 1724 | Bergeijk | 12 |
+| 893 | Bergen (L.) | 14 |
+| 373 | Bergen (NH.) | 11 |
+| 748 | Bergen op Zoom | 57 |
+| 1859 | Berkelland | 28 |
+| 1721 | Bernheze | 27 |
+| 753 | Best | 20 |
+| 209 | Beuningen | 16 |
+| 375 | Beverwijk | 32 |
+| 1728 | Bladel | 20 |
+| 376 | Blaricum | 1 |
+| 377 | Bloemendaal | 7 |
+| 1901 | Bodegraven-Reeuwijk | 13 |
+| 755 | Boekel | 11 |
+| 1681 | Borger-Odoorn | 23 |
+| 147 | Borne | 11 |
+| 654 | Borsele | 10 |
+| 757 | Boxtel | 59 |
+| 758 | Breda | 135 |
+| 1876 | Bronckhorst | 22 |
+| 213 | Brummen | 14 |
+| 899 | Brunssum | 26 |
+| 312 | Bunnik | 3 |
+| 313 | Bunschoten | 5 |
+| 214 | Buren | 15 |
+| 502 | Capelle aan den IJssel | 41 |
+| 383 | Castricum | 15 |
+| 109 | Coevorden | 24 |
+| 1706 | Cranendonck | 12 |
+| 216 | Culemborg | 23 |
+| 148 | Dalfsen | 11 |
+| 1891 | Dantumadiel | 10 |
+| 310 | De Bilt | 12 |
+| 1940 | De Fryske Marren | 15 |
+| 736 | De Ronde Venen | 15 |
+| 1690 | De Wolden | 8 |
+| 503 | Delft | 97 |
+| 400 | Den Helder | 78 |
+| 762 | Deurne | 29 |
+| 150 | Deventer | 148 |
+| 384 | Diemen | 16 |
+| 1980 | Dijk en Waard | 67 |
+| 1774 | Dinkelland | 9 |
+| 221 | Doesburg | 10 |
+| 222 | Doetinchem | 56 |
+| 766 | Dongen | 11 |
+| 505 | Dordrecht | 141 |
+| 498 | Drechterland | 8 |
+| 1719 | Drimmelen | 9 |
+| 303 | Dronten | 16 |
+| 225 | Druten | 11 |
+| 226 | Duiven | 17 |
+| 1711 | Echt-Susteren | 21 |
+| 385 | Edam-Volendam | 13 |
+| 228 | Ede | 90 |
+| 317 | Eemnes | 2 |
+| 1979 | Eemsdelta | 54 |
+| 770 | Eersel | 13 |
+| 1903 | Eijsden-Margraten | 20 |
+| 772 | Eindhoven | 230 |
+| 230 | Elburg | 21 |
+| 114 | Emmen | 96 |
+| 388 | Enkhuizen | 16 |
+| 153 | Enschede | 148 |
+| 232 | Epe | 20 |
+| 233 | Ermelo | 22 |
+| 777 | Etten-Leur | 27 |
+| 779 | Geertruidenberg | 19 |
+| 1771 | Geldrop-Mierlo | 32 |
+| 1652 | Gemert-Bakel | 27 |
+| 907 | Gennep | 20 |
+| 784 | Gilze en Rijen | 11 |
+| 1924 | Goeree-Overflakkee | 24 |
+| 664 | Goes | 32 |
+| 785 | Goirle | 15 |
+| 1942 | Gooise Meren | 14 |
+| 512 | Gorinchem | 42 |
+| 513 | Gouda | 100 |
+| 14 | Groningen | 205 |
+| 1729 | Gulpen-Wittem | 4 |
+| 158 | Haaksbergen | 14 |
+| 392 | Haarlem | 112 |
+| 394 | Haarlemmermeer | 58 |
+| 1655 | Halderberge | 23 |
+| 160 | Hardenberg | 44 |
+| 243 | Harderwijk | 34 |
+| 523 | Hardinxveld-Giessendam | 11 |
+| 72 | Harlingen | 11 |
+| 244 | Hattem | 5 |
+| 396 | Heemskerk | 27 |
+| 397 | Heemstede | 11 |
+| 246 | Heerde | 13 |
+| 74 | Heerenveen | 20 |
+| 917 | Heerlen | 114 |
+| 1658 | Heeze-Leende | 6 |
+| 399 | Heiloo | 18 |
+| 163 | Hellendoorn | 17 |
+| 794 | Helmond | 130 |
+| 531 | Hendrik-Ido-Ambacht | 12 |
+| 164 | Hengelo | 72 |
+| 1966 | Het Hogeland | 50 |
+| 252 | Heumen | 9 |
+| 797 | Heusden | 28 |
+| 534 | Hillegom | 17 |
+| 798 | Hilvarenbeek | 4 |
+| 402 | Hilversum | 39 |
+| 1963 | Hoeksche Waard | 32 |
+| 1735 | Hof van Twente | 14 |
+| 1911 | Hollands Kroon | 27 |
+| 118 | Hoogeveen | 55 |
+| 405 | Hoorn | 85 |
+| 1507 | Horst aan de Maas | 16 |
+| 321 | Houten | 19 |
+| 406 | Huizen | 16 |
+| 677 | Hulst | 21 |
+| 353 | IJsselstein | 21 |
+| 1884 | Kaag en Braassem | 9 |
+| 166 | Kampen | 30 |
+| 678 | Kapelle | 7 |
+| 537 | Katwijk | 37 |
+| 928 | Kerkrade | 51 |
+| 1598 | Koggenland | 11 |
+| 542 | Krimpen aan den IJssel | 14 |
+| 1931 | Krimpenerwaard | 29 |
+| 1659 | Laarbeek | 10 |
+| 1982 | Land van Cuijk | 97 |
+| 882 | Landgraaf | 26 |
+| 415 | Landsmeer | 5 |
+| 1621 | Lansingerland | 14 |
+| 417 | Laren | 2 |
+| 80 | Leeuwarden | 97 |
+| 546 | Leiden | 127 |
+| 547 | Leiderdorp | 19 |
+| 1916 | Leidschendam-Voorburg | 44 |
+| 995 | Lelystad | 61 |
+| 1640 | Leudal | 12 |
+| 327 | Leusden | 6 |
+| 1705 | Lingewaard | 22 |
+| 553 | Lisse | 13 |
+| 262 | Lochem | 16 |
+| 809 | Loon op Zand | 12 |
+| 331 | Lopik | 5 |
+| 168 | Losser | 10 |
+| 263 | Maasdriel | 20 |
+| 1641 | Maasgouw | 9 |
+| 1991 | Maashorst | 65 |
+| 556 | Maassluis | 23 |
+| 935 | Maastricht | 150 |
+| 420 | Medemblik | 28 |
+| 938 | Meerssen | 12 |
+| 1948 | Meierijstad | 91 |
+| 119 | Meppel | 27 |
+| 687 | Middelburg | 26 |
+| 1842 | Midden-Delfland | 8 |
+| 1731 | Midden-Drenthe | 20 |
+| 1952 | Midden-Groningen | 55 |
+| 1709 | Moerdijk | 20 |
+| 1978 | Molenlanden | 13 |
+| 1955 | Montferland | 31 |
+| 335 | Montfoort | 4 |
+| 944 | Mook en Middelaar | 4 |
+| 1740 | Neder-Betuwe | 14 |
+| 946 | Nederweert | 6 |
+| 356 | Nieuwegein | 41 |
+| 569 | Nieuwkoop | 12 |
+| 267 | Nijkerk | 18 |
+| 268 | Nijmegen | 220 |
+| 1930 | Nissewaard | 49 |
+| 1970 | Noardeast-Fryslân | 24 |
+| 1695 | Noord-Beveland | 6 |
+| 1699 | Noordenveld | 13 |
+| 171 | Noordoostpolder | 20 |
+| 575 | Noordwijk | 21 |
+| 820 | Nuenen, Gerwen en Nederwetten | 13 |
+| 302 | Nunspeet | 20 |
+| 579 | Oegstgeest | 9 |
+| 823 | Oirschot | 9 |
+| 824 | Oisterwijk | 19 |
+| 1895 | Oldambt | 43 |
+| 269 | Oldebroek | 15 |
+| 173 | Oldenzaal | 26 |
+| 1773 | Olst-Wijhe | 10 |
+| 175 | Ommen | 12 |
+| 1586 | Oost Gelre | 15 |
+| 826 | Oosterhout | 54 |
+| 85 | Ooststellingwerf | 14 |
+| 431 | Oostzaan | 3 |
+| 432 | Opmeer | 7 |
+| 86 | Opsterland | 17 |
+| 828 | Oss | 183 |
+| 1509 | Oude IJsselstreek | 33 |
+| 437 | Ouder-Amstel | 3 |
+| 589 | Oudewater | 2 |
+| 1734 | Overbetuwe | 35 |
+| 590 | Papendrecht | 17 |
+| 1894 | Peel en Maas | 20 |
+| 765 | Pekela | 16 |
+| 1926 | Pijnacker-Nootdorp | 19 |
+| 439 | Purmerend | 82 |
+| 273 | Putten | 11 |
+| 177 | Raalte | 17 |
+| 703 | Reimerswaal | 12 |
+| 274 | Renkum | 28 |
+| 339 | Renswoude | 3 |
+| 1667 | Reusel-De Mierden | 9 |
+| 275 | Rheden | 45 |
+| 340 | Rhenen | 7 |
+| 597 | Ridderkerk | 22 |
+| 1742 | Rijssen-Holten | 17 |
+| 603 | Rijswijk | 36 |
+| 1669 | Roerdalen | 14 |
+| 957 | Roermond | 78 |
+| 1674 | Roosendaal | 78 |
+| 599 | Rotterdam | 478 |
+| 277 | Rozendaal | 1 |
+| 840 | Rucphen | 28 |
+| 441 | Schagen | 26 |
+| 279 | Scherpenzeel | 4 |
+| 606 | Schiedam | 57 |
+| 88 | Schiermonnikoog | 1 |
+| 1676 | Schouwen-Duiveland | 26 |
+| 518 | ’s-Gravenhage | 354 |
+| 796 | ’s-Hertogenbosch | 250 |
+| 965 | Simpelveld | 6 |
+| 845 | Sint-Michielsgestel | 23 |
+| 1883 | Sittard-Geleen | 77 |
+| 610 | Sliedrecht | 14 |
+| 1714 | Sluis | 17 |
+| 90 | Smallingerland | 55 |
+| 342 | Soest | 14 |
+| 847 | Someren | 8 |
+| 848 | Son en Breugel | 7 |
+| 37 | Stadskanaal | 56 |
+| 180 | Staphorst | 8 |
+| 532 | Stede Broec | 16 |
+| 851 | Steenbergen | 13 |
+| 1708 | Steenwijkerland | 29 |
+| 971 | Stein | 13 |
+| 1904 | Stichtse Vecht | 30 |
+| 1900 | Súdwest-Fryslân | 37 |
+| 715 | Terneuzen | 73 |
+| 93 | Terschelling | 1 |
+| 448 | Texel | 13 |
+| 1525 | Teylingen | 22 |
+| 716 | Tholen | 14 |
+| 281 | Tiel | 62 |
+| 855 | Tilburg | 199 |
+| 183 | Tubbergen | 6 |
+| 1700 | Twenterand | 23 |
+| 1730 | Tynaarlo | 19 |
+| 737 | Tytsjerksteradiel | 14 |
+| 450 | Uitgeest | 7 |
+| 451 | Uithoorn | 14 |
+| 184 | Urk | 6 |
+| 344 | Utrecht | 183 |
+| 1581 | Utrechtse Heuvelrug | 16 |
+| 981 | Vaals | 5 |
+| 994 | Valkenburg aan de Geul | 9 |
+| 858 | Valkenswaard | 15 |
+| 47 | Veendam | 41 |
+| 345 | Veenendaal | 44 |
+| 717 | Veere | 5 |
+| 861 | Veldhoven | 26 |
+| 453 | Velsen | 58 |
+| 983 | Venlo | 74 |
+| 984 | Venray | 41 |
+| 1961 | Vijfheerenlanden | 29 |
+| 622 | Vlaardingen | 53 |
+| 96 | Vlieland | 1 |
+| 718 | Vlissingen | 30 |
+| 986 | Voerendaal | 4 |
+| 1992 | Voorne aan Zee | 30 |
+| 626 | Voorschoten | 11 |
+| 285 | Voorst | 14 |
+| 865 | Vught | 34 |
+| 1949 | Waadhoeke | 25 |
+| 866 | Waalre | 4 |
+| 867 | Waalwijk | 31 |
+| 627 | Waddinxveen | 25 |
+| 289 | Wageningen | 26 |
+| 629 | Wassenaar | 8 |
+| 852 | Waterland | 8 |
+| 988 | Weert | 44 |
+| 1960 | West Betuwe | 27 |
+| 668 | West Maas en Waal | 7 |
+| 1969 | Westerkwartier | 35 |
+| 1701 | Westerveld | 11 |
+| 293 | Westervoort | 18 |
+| 1950 | Westerwolde | 23 |
+| 1783 | Westland | 46 |
+| 98 | Weststellingwerf | 15 |
+| 189 | Wierden | 7 |
+| 296 | Wijchen | 29 |
+| 1696 | Wijdemeren | 6 |
+| 352 | Wijk bij Duurstede | 10 |
+| 294 | Winterswijk | 17 |
+| 873 | Woensdrecht | 14 |
+| 632 | Woerden | 23 |
+| 880 | Wormerland | 9 |
+| 351 | Woudenberg | 2 |
+| 479 | Zaanstad | 133 |
+| 297 | Zaltbommel | 18 |
+| 473 | Zandvoort | 7 |
+| 50 | Zeewolde | 8 |
+| 355 | Zeist | 51 |
+| 299 | Zevenaar | 38 |
+| 637 | Zoetermeer | 88 |
+| 638 | Zoeterwoude | 3 |
+| 1892 | Zuidplas | 18 |
+| 879 | Zundert | 9 |
+| 301 | Zutphen | 77 |
+| 1896 | Zwartewaterland | 15 |
+| 642 | Zwijndrecht | 30 |
+| 193 | Zwolle | 111 |

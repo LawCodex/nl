@@ -408,6 +408,8 @@ De wijze waarop de hersendood is vastgesteld, dient te worden gedocumenteerd in 
 <tr><td>1,28</td><td>0,90</td><td></td><td>68,9</td><td>70,5</td><td>72,0</td><td>73,6</td><td>75,1</td><td>76,7</td><td>78,5</td><td>80,3</td><td>82,1</td><td>84,1</td><td>86,0</td><td>87,9</td><td>89,7</td><td>91,3</td><td>92,6</td><td>93,5</td></tr>
 </table>
 
+Bron: deze waarden zijn afgeleid van bloeddrukgegevens uit The Fourth Report on the Diagnosis, Evaluation, and Treatment of High Blood Pressure in Children and Adolescents. National High Blood Pressure Education Program Working Group on High Blood Pressure in Children and Adolescents. Pediatrics 2004; 114:555-76 (gegevens bewerkt door drs. C.W. Bollen, kinderarts-intensivist, Universitair Medisch Centrum Utrecht).
+
 - • observatie:
   - 1) observeer spontane reactie; indien geen reactie:
   - 2) observeer reactie op luid aanspreken; indien geen reactie:

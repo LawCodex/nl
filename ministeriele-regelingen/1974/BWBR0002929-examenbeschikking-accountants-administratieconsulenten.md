@@ -33,17 +33,9 @@ Besluit:
 
 In deze beschikking wordt verstaan onder:
 
-*diploma:*
-
-diploma, bedoeld in artikel 10, onder a, van de Wet op de Accountants-administratieconsulenten (Stb. 1972, 748);
-
-*besluit:*
-
-Examenbesluit accountants-administratieconsulenten (Stb. 1974, 304);
-
-*examencommissie:*
-
-examencommissie, bedoeld in artikel 5 van het besluit.
+- *diploma:* diploma, bedoeld in artikel 10, onder a, van de Wet op de Accountants-administratieconsulenten (Stb. 1972, 748);
+- *besluit:* Examenbesluit accountants-administratieconsulenten (Stb. 1974, 304);
+- *examencommissie:* examencommissie, bedoeld in artikel 5 van het besluit.
 
 ## Afdeling II — **Regeling van het examen**
 
@@ -137,45 +129,16 @@ Een kandidaat heeft het mondeling gedeelte van het examen met goed gevolg afgele
 
 De beoordeling van de kandidaat wordt voor ieder onderdeel uitgedrukt in gehele cijfers 1 tot en met 10, waaraan de volgende betekenis toekomt:
 
-1
-
-\= zeer slecht
-
-2
-
-\= slecht
-
-3
-
-\= zeer onvoldoende
-
-4
-
-\= onvoldoende
-
-5
-
-\= bijna voldoende
-
-6
-
-\= voldoende
-
-7
-
-\= ruim voldoende
-
-8
-
-\= goed
-
-9
-
-\= zeer goed
-
-10
-
-\= uitmuntend
+- 1 \= zeer slecht
+- 2 \= slecht
+- 3 \= zeer onvoldoende
+- 4 \= onvoldoende
+- 5 \= bijna voldoende
+- 6 \= voldoende
+- 7 \= ruim voldoende
+- 8 \= goed
+- 9 \= zeer goed
+- 10 \= uitmuntend
 
 #### Artikel 9
 

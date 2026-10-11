@@ -27,22 +27,11 @@ Besluit:
 
 In deze beschikking wordt verstaan onder:
 
-- A. aardolie:
-
-  de bij de beschikking van de Minister van Economische Zaken van 30 oktober 1973 (Stcrt. 211) als distributiegoed aangewezen aardolie;
-
-  aardolieprodukten:
-
-  de bij de onder 1 vermelde beschikking als distributiegoederen aangewezen aardolieprodukten;
-- B. ondernemer:
-
-  de natuurlijke of rechtspersoon, die zijn bedrijf maakt van het winnen of het vervaardigen van aardolie of aardolieprodukten, het regenereren van gebruikte aardolieprodukten daaronder begrepen, dan wel van de handel in aardolie of aardolieprodukten;
-- C. verbruiker:
-
-  de natuurlijke of rechtspersoon, die al dan niet in de uitoefening van een bedrijf aardolieprodukten gebruikt of verbruikt, voor zover het niet betreft het gebruik of verbruik als grondstof voor het vervaardigen van aardolieprodukten;
-- D. minister:
-
-  de Minister van Economische Zaken.
+- A. - aardolie: de bij de beschikking van de Minister van Economische Zaken van 30 oktober 1973 (Stcrt. 211) als distributiegoed aangewezen aardolie;
+  - aardolieprodukten: de bij de onder 1 vermelde beschikking als distributiegoederen aangewezen aardolieprodukten;
+- B. - ondernemer: de natuurlijke of rechtspersoon, die zijn bedrijf maakt van het winnen of het vervaardigen van aardolie of aardolieprodukten, het regenereren van gebruikte aardolieprodukten daaronder begrepen, dan wel van de handel in aardolie of aardolieprodukten;
+- C. - verbruiker: de natuurlijke of rechtspersoon, die al dan niet in de uitoefening van een bedrijf aardolieprodukten gebruikt of verbruikt, voor zover het niet betreft het gebruik of verbruik als grondstof voor het vervaardigen van aardolieprodukten;
+- D. - minister: de Minister van Economische Zaken.
 
 ## Artikel 2
 

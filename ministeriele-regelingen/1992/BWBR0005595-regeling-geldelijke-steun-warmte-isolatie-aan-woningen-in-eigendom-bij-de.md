@@ -29,9 +29,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder
 
-minister:
-
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+- minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 ## Artikel 2
 

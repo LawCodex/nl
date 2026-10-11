@@ -27,21 +27,10 @@ Besluit:
 
 Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:
 
-*Wet:*
-
-Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen;
-
-*Minister:*
-
-de Minister van Verkeer en Waterstaat;
-
-*Keuringsinstelling:*
-
-de in artikel 8, tweede lid, van de Wet bedoelde keuringsinstelling;
-
-*Keuringscertificaat:*
-
-het in artikel 8, eerste lid, van de Wet bedoelde keuringscertificaat.
+- *Wet:* Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen;
+- *Minister:* de Minister van Verkeer en Waterstaat;
+- *Keuringsinstelling:* de in artikel 8, tweede lid, van de Wet bedoelde keuringsinstelling;
+- *Keuringscertificaat:* het in artikel 8, eerste lid, van de Wet bedoelde keuringscertificaat.
 
 ## Artikel 2
 

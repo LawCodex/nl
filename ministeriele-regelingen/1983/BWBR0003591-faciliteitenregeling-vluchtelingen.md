@@ -33,25 +33,11 @@ Besluit:
 
 1\. Voor de toepassing van dit besluit wordt verstaan onder:
 
-de minister:
-
-de Minister van Welzijn, Volksgezondheid en Cultuur;
-
-de vluchteling:
-
-de vreemdeling die voldoet aan de omschrijving van artikel 1 (a) van het verdrag van Genève, betreffende de status van vluchtelingen van 1951 (Trb. 1954, 88) en bijbehorend Protocol van New York van 1967 (Trb. 1967, 76) zoals ook neergelegd in artikel 15, eerste lid van de Vreemdelingenwet en op grond daarvan als vluchteling is toegelaten (A-status); Met dien verstande dat niet tot vluchtelingen worden gerekend kinderen van deze vreemdelingen, geboren na 306 dagen na toelating van hun moeder als vluchteling;
-
-kerngemeente:
-
-de door de minister als zodanig aangemerkte gemeente of samenwerkende gemeenten;
-
-voogdijpupil:
-
-de minderjarige vluchteling die door de rechter onder het gezag is gesteld van een door het Ministerie van Justitie aanvaarde voogdijinstelling;
-
-opvangcentrum:
-
-een accommodatie, waarin vluchtelingen in afwachting van definitieve huisvesting, van rijkswege worden opgevangen.
+- de minister: de Minister van Welzijn, Volksgezondheid en Cultuur;
+- de vluchteling: de vreemdeling die voldoet aan de omschrijving van artikel 1 (a) van het verdrag van Genève, betreffende de status van vluchtelingen van 1951 (Trb. 1954, 88) en bijbehorend Protocol van New York van 1967 (Trb. 1967, 76) zoals ook neergelegd in artikel 15, eerste lid van de Vreemdelingenwet en op grond daarvan als vluchteling is toegelaten (A-status); Met dien verstande dat niet tot vluchtelingen worden gerekend kinderen van deze vreemdelingen, geboren na 306 dagen na toelating van hun moeder als vluchteling;
+- kerngemeente: de door de minister als zodanig aangemerkte gemeente of samenwerkende gemeenten;
+- voogdijpupil: de minderjarige vluchteling die door de rechter onder het gezag is gesteld van een door het Ministerie van Justitie aanvaarde voogdijinstelling;
+- opvangcentrum: een accommodatie, waarin vluchtelingen in afwachting van definitieve huisvesting, van rijkswege worden opgevangen.
 
 2\. Voor zover in dit besluit wordt gesproken van vluchteling wordt daaronder tevens begrepen de vreemdeling die geen vluchteling is, doch als asielgerechtigde in het bezit is gesteld van een gekwalificeerde vergunning tot verblijf op humanitaire gronden (B-status).
 

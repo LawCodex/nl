@@ -29,17 +29,9 @@ Besluit het volgende reglement vast te stellen:
 
 In dit reglement wordt verstaan onder:
 
-de registratie:
-
-de ingangskaart- en algemene zaaksregistratie bij een raad voor de kinderbescherming;
-
-houder:
-
-de raad voor de kinderbescherming;
-
-beheerder:
-
-de directeur van het bureau van de raad voor de kinderbescherming;
+- de registratie: de ingangskaart- en algemene zaaksregistratie bij een raad voor de kinderbescherming;
+- houder: de raad voor de kinderbescherming;
+- beheerder: de directeur van het bureau van de raad voor de kinderbescherming;
 
 ### Artikel 2 — Doelstelling
 

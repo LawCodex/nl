@@ -46,21 +46,14 @@ In te stellen een commissie die tot taak heeft:
 
 De commissie als volgt samen te stellen:
 
-*Voorzitter:*
+- *Voorzitter:* mr. R. J. Hoekstra.
 
-mr. R. J. Hoekstra. secretaris-generaal Ministerie van Algemene Zaken.
+  secretaris-generaal
 
-*Leden:*
-
-prof. dr. F. H. L. Beyaert, buitengewoon hoogleraar Forensische psychiatrie Rijksuniversiteit Utrecht; mr. F. W. R. Evers, directeur-generaal Rijksgebouwendienst Ministerie van VROM; mr. C. R. L. R. M. Ficq. hoofdofficier van Justitie 's-Hertogenbosch; mr. H. B. Greven. directeur-generaal Jeugdbescherming en Delinquentenzorg Ministerie van Justitie; dr. E. E. Nordholt, hoofdcommissaris van politie Amsterdam; mevrouw mr. E. M. A. Schmitz, burgemeester van de gemeente Haarlem; prof. dr. Th. W. van Veen, emeritus hoogleraar Strafrecht Rijksuniversiteit Groningen.
-
-*Secretaris:*
-
-drs. J. J. L. M. Verhagen, hoofd afdeling Beleidsinformatie, directie D&J.
-
-*Adjunct secretaris:*
-
-mevrouw drs. M. M. W. Barnars. hoofd directiesecretariaat Directie D&J.
+  Ministerie van Algemene Zaken.
+- *Leden:* prof. dr. F. H. L. Beyaert, buitengewoon hoogleraar Forensische psychiatrie Rijksuniversiteit Utrecht; mr. F. W. R. Evers, directeur-generaal Rijksgebouwendienst Ministerie van VROM; mr. C. R. L. R. M. Ficq. hoofdofficier van Justitie 's-Hertogenbosch; mr. H. B. Greven. directeur-generaal Jeugdbescherming en Delinquentenzorg Ministerie van Justitie; dr. E. E. Nordholt, hoofdcommissaris van politie Amsterdam; mevrouw mr. E. M. A. Schmitz, burgemeester van de gemeente Haarlem; prof. dr. Th. W. van Veen, emeritus hoogleraar Strafrecht Rijksuniversiteit Groningen.
+- *Secretaris:* drs. J. J. L. M. Verhagen, hoofd afdeling Beleidsinformatie, directie D&J.
+- *Adjunct secretaris:* mevrouw drs. M. M. W. Barnars. hoofd directiesecretariaat Directie D&J.
 
 ## Artikel 3
 

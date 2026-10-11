@@ -1,0 +1,134 @@
+---
+title: "Regeling Dienst speciale interventies"
+identifier: "BWBR0026381"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2009-08-26
+last_amended: 2023-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0026381/2023-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0026381/2023-01-01_0/xml/BWBR0026381_2023-01-01_0.xml"
+authority: "Veiligheid en Justitie"
+rechtsgebied: ["Openbare orde en veiligheidsrecht", "Staats- en bestuursrecht", "Bestuursrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling Dienst speciale interventies
+
+*Regeling houdende bepalingen over de organisatie en inzet van de Dienst speciale interventies (Regeling Dienst speciale interventies)*
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Justitie en de Minister van Defensie,
+
+Gelet op de artikelen 48a, eerste lid, 49, 59, tweede lid, en 60 van de Politiewet 1993, artikel 10:3 van de Algemene wet bestuursrecht en artikel 3a van de Wet wapens en munitie;
+
+Besluiten:
+
+## Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+- *aanhoudings- en ondersteuningsteams:* teams als bedoeld in artikel 11, onder a, van het Besluit beheer politie;
+- *bijzondere bijstandseenheid:* de bijzondere bijstandseenheid, bedoeld in artikel 2, eerste lid;
+- *Dienst speciale interventies:* de dienst, bedoeld in artikel 11 van het Besluit beheer politie.
+
+## Artikel 2
+
+1\. Er is een bijzondere bijstandseenheid die in het kader van de strafrechtelijke handhaving van de rechtsorde de volgende taken heeft:
+
+- a. het bestrijden van alle vormen van ernstig geweld dan wel terrorisme over het gehele geweldsspectrum;
+- b. de beveiliging van personen en objecten in bijzondere situaties, waaronder het beveiligen van ambtenaren van de Algemene inlichtingen- en veiligheidsdienst bij operaties van die dienst;
+- c. het uitvoeren van andere door de Ministers van Justitie en Veiligheid en van Defensie opgedragen bijzondere onderdelen van de politietaak.
+
+2\. De bijzondere bijstandseenheid bestaat uit de volgende onderdelen:
+
+- a. de Afdeling interventies;
+- b. de Afdeling expertise en operationele ondersteuning en
+- c. de Unit interventie mariniers.
+
+3\. De Dienst speciale interventies houdt de onderdelen, genoemd in het tweede lid, onder a en b, in stand. Het beheer van het onderdeel genoemd in het tweede lid, onder c, berust bij de Minister van Defensie.
+
+## Artikel 3
+
+De Afdeling expertise en operationele ondersteuning is belast met het geven van technische en operationele ondersteuning, waaronder het geven van langeafstandsprecisievuur, aan de aanhoudings- en ondersteuningsteams, de eenheden van de Koninklijke marechaussee die zijn belast met dezelfde taken als deze teams, de Afdeling interventies en de Unit interventie mariniers.
+
+## Artikel 4
+
+De Dienst speciale interventies wordt geleid door het hoofd van de Dienst speciale interventies. Het hoofd kan worden vervangen door het plaatsvervangend hoofd.
+
+## Artikel 5
+
+Vervallen
+
+## Artikel 6
+
+1\. De voorzitter van het College van procureurs-generaal is bevoegd in naam van de Minister van Justitie en Veiligheid te beslissen op een verzoek tot bijstand van de bijzondere bijstandseenheid, tenzij het een situatie betreft:
+
+- a. waarvoor geen standaard inzetscenario als bedoeld in artikel 8, eerste lid, voorhanden is; of
+- b. waarin zich meerdere incidenten op verschillende locaties tegelijkertijd voordoen, waartussen vermoedelijk een verband bestaat; of
+- c. waarin op enige andere wijze een groot nationaal belang in het geding is.
+
+2\. De voorzitter van het College van procureurs-generaal brengt de Minister van Justitie en Veiligheid onmiddellijk in kennis van zijn beslissing tot bijstandverlening door de bijzondere bijstandseenheid.
+
+## Artikel 7
+
+1\. Alvorens overgegaan wordt tot de inzet van de bijzondere bijstandseenheid stelt het hoofd van de Dienst speciale interventies een operationeel plan van inzet op.
+
+2\. In het operationeel plan wordt opgenomen welk onderdeel van de bijzondere bijstandseenheid, of combinatie daarvan, wordt ingezet en op welke wijze dit plaatsvindt. Dit voorstel wordt gebaseerd op:
+
+- a. de mate van het te verwachten geweld, en
+- b. de situatie van de dreiging.
+
+3\. Het operationeel plan van inzet behoeft goedkeuring van de Minister van Justitie en Veiligheid, dan wel van de voorzitter van het College van procureurs-generaal indien hij bevoegd is te beslissen over een verzoek tot bijstand.
+
+## Artikel 8
+
+1\. De Ministers van Justitie en Veiligheid en van Defensie stellen gezamenlijk standaard inzetscenario’s vast ten behoeve van de inzet van de bijzondere bijstandseenheid.
+
+2\. Het hoofd van de Dienst speciale interventies neemt bij het opstellen van het operationeel plan de standaardscenario’s in acht.
+
+3\. Indien er voor de inzet van de bijzondere bijstandseenheid geen standaard inzetscenario voorhanden is, raadpleegt de Minister van Justitie en Veiligheid, indien mogelijk, de Minister van Defensie voorafgaand aan de goedkeuring van het operationeel plan van inzet.
+
+## Artikel 9
+
+1\. Het hoofd van de Dienst speciale interventies is belast met de algehele leiding tijdens de inzet van de bijzondere bijstandseenheid alsmede over de onderdelen van de politie of van de krijgsmacht die ter ondersteuning van de bijzondere bijstandseenheid worden ingezet.
+
+2\. De commandant van het betrokken onderdeel van de bijzondere bijstandseenheid is belast met de operationele leiding ter plaatse en staat onder direct bevel van het hoofd van de Dienst speciale interventies. Indien meerdere onderdelen worden ingezet wijst het hoofd van de Dienst speciale interventies een operationeel commandant aan.
+
+3\. Wanneer de Afdeling expertise en operationele ondersteuning wordt ingezet tezamen met een aanhoudings- en ondersteuningsteam of een eenheid van de Koninklijke marechaussee die is belast met dezelfde taken als dit team kan, in afwijking van het tweede lid, het hoofd van de Dienst speciale interventies de chef van dit team of deze eenheid belasten met de operationele leiding.
+
+4\. Het hoofd van de Dienst speciale interventies draagt in samenwerking met de operationeel commandant zorg voor de chronologische verslaglegging van het feitelijke optreden.
+
+## Artikel 9a
+
+Deze regeling berust op artikel 59, eerste en vijfde lid, van de Politiewet 2012 en artikel 44 van het Besluit beheer politie.
+
+## Artikel 10
+
+De Regeling bijzondere bijstandseenheden wordt ingetrokken.
+
+## Artikel 11
+
+Deze regeling treedt in werking met ingang van de tweede dag na uitgifte van de Staatscourant waarin deze wordt geplaatst.
+
+## Artikel 12
+
+Deze regeling wordt aangehaald als: Regeling Dienst speciale interventies.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De\
+Minister\
+Justitie\
+E.M.H.Hirsch Ballin
+
+De\
+Minister\
+Binnenlandse Zaken en Koninkrijksrelaties\
+G. terHorst
+
+De\
+Minister\
+Defensie\
+E. vanMiddelkoop

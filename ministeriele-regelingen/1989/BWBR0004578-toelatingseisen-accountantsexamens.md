@@ -29,13 +29,8 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-examenbureau:
-
-het in artikel 74 van de Wet op de Registeraccountants (Stb. 1962, 258) bedoelde examenbureau;
-
-accountantsexamen:
-
-het in artikel 71 van de Wet op de Registeraccountants bedoelde accountantsexamen.
+- examenbureau: het in artikel 74 van de Wet op de Registeraccountants (Stb. 1962, 258) bedoelde examenbureau;
+- accountantsexamen: het in artikel 71 van de Wet op de Registeraccountants bedoelde accountantsexamen.
 
 ## Artikel 2
 

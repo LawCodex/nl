@@ -27,21 +27,10 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-*Nederlandse visserijzone:*
-
-de Nederlandse territoriale zee alsmede het Nederlandse deel van het continentale plat van de Noordzee;
-
-*visserij:*
-
-de visser van een Nederlands vissersvaartuig of van een vissersvaartuig dat geregistreerd staat in een der andere Lid-Staten van de EEG en dat gerechtigd is in de Nederlandse visserijzone te vissen;
-
-*explosief:*
-
-een explosief of een explosiegevaarlijk onderdeel daarvan dat als gevolg van oorlogshandelingen in de Eerste of Tweede Wereldoorlog in zee is geraakt:
-
-*budget:*
-
-het bedrag dat binnen de Rijksbegroting van enig jaar voor het doel van deze regeling beschikbaar wordt gesteld.
+- *Nederlandse visserijzone:* de Nederlandse territoriale zee alsmede het Nederlandse deel van het continentale plat van de Noordzee;
+- *visserij:* de visser van een Nederlands vissersvaartuig of van een vissersvaartuig dat geregistreerd staat in een der andere Lid-Staten van de EEG en dat gerechtigd is in de Nederlandse visserijzone te vissen;
+- *explosief:* een explosief of een explosiegevaarlijk onderdeel daarvan dat als gevolg van oorlogshandelingen in de Eerste of Tweede Wereldoorlog in zee is geraakt:
+- *budget:* het bedrag dat binnen de Rijksbegroting van enig jaar voor het doel van deze regeling beschikbaar wordt gesteld.
 
 ## Artikel 2 — Bijdrage; doelgroep en hoogte
 

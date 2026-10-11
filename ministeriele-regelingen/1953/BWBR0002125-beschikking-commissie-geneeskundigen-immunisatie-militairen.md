@@ -27,17 +27,9 @@ Besluit:
 
 In deze beschikking wordt verstaan onder:
 
-„de Minister”:
-
-de Minister van Oorlog of de Minister van Marine, al naargelang het betreft een onderzoek van geneeskundige bezwaren tegen immunisatie van een militair van de landmacht dan wel van de zeemacht;
-
-„de wet”:
-
-de Wet immunisatie militairen;
-
-„verzoekschrift”:
-
-een geschrift, houdende een verzoek om vrijstelling van immunisatiemaatregelen wegens geneeskundige redenen.
+- „de Minister”: de Minister van Oorlog of de Minister van Marine, al naargelang het betreft een onderzoek van geneeskundige bezwaren tegen immunisatie van een militair van de landmacht dan wel van de zeemacht;
+- „de wet”: de Wet immunisatie militairen;
+- „verzoekschrift”: een geschrift, houdende een verzoek om vrijstelling van immunisatiemaatregelen wegens geneeskundige redenen.
 
 ## Artikel 2
 

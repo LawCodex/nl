@@ -27,13 +27,8 @@ Besluit:
 
 Deze beschikking verstaat onder:
 
-wet:
-
-Wet op de omzetbelasting 1968 (Stb. 329);
-
-uitvoeringsbeschikking:
-
-Uitvoeringsbeschikking omzetbelasting 1968 (Stcrt. 169).
+- wet: Wet op de omzetbelasting 1968 (Stb. 329);
+- uitvoeringsbeschikking: Uitvoeringsbeschikking omzetbelasting 1968 (Stcrt. 169).
 
 ## Artikel 2
 

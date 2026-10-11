@@ -29,13 +29,8 @@ Stelt de volgende uitvoeringsvoorschriften vast:
 
 In deze beschikking wordt verstaan onder:
 
-de wet:
-
-de Inkwartieringswet;
-
-het besluit:
-
-het Inkwartieringsbesluit.
+- de wet: de Inkwartieringswet;
+- het besluit: het Inkwartieringsbesluit.
 
 ### Artikel 2
 

@@ -27,13 +27,8 @@ Besluit:
 
 Voor de toepassing van het bij deze regeling bepaalde wordt verstaan onder:
 
-wet:
-
-Wet op de kansspelbelasting;
-
-belasting:
-
-kansspelbelasting.
+- wet: Wet op de kansspelbelasting;
+- belasting: kansspelbelasting.
 
 ## Artikel 1a
 

@@ -1,0 +1,90 @@
+---
+title: "Bekendmakingsregeling"
+identifier: "BWBR0025218"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2009-01-14
+last_amended: 2021-07-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0025218/2021-07-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0025218/2021-07-01_0/xml/BWBR0025218_2021-07-01_0.xml"
+authority: "Veiligheid en Justitie"
+rechtsgebied: ["Staats- en bestuursrecht", "Bestuursrecht"]
+retrieved: 2026-10-11
+---
+
+# Bekendmakingsregeling
+
+*Regeling van de Minister van Justitie en van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 januari 2009, nr. 5576604/08/6, houdende nadere regels in verband met de elektronische bekendmaking van wetten, algemene maatregelen van bestuur en anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften (Bekendmakingsregeling)*
+
+De Minister van Justitie en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
+
+Gelet op de artikelen 9 en 10, tweede lid, van de Bekendmakingswet en de artikelen 2, eerste lid, 4, tweede lid, 8, eerste lid, en 10, tweede lid, van het Bekendmakingsbesluit;
+
+Besluiten:
+
+## Artikel 1
+
+In deze regeling wordt verstaan onder *minister*: Minister van Justitie en Veiligheid.
+
+## Artikel 1a
+
+Het Staatsblad wordt uitgegeven op https://www.officielebekendmakingen.nl.
+
+## Artikel 2
+
+1\. De minister draagt er zorg voor dat de betrouwbaarheid en de beveiliging van de elektronische uitgifte en beschikbaarstelling van het Staatsblad voldoen aan de volgende eisen:
+
+- a. De publicaties worden uitgegeven en beschikbaar gehouden in het bestandsformaat PDF/A, conformiteitsniveau a.
+- b. Het systeem voor gegevensverwerking waarmee de publicaties worden uitgegeven en beschikbaar gehouden, voldoet aan hoge continuïteitseisen.
+- c. Het systeem voor gegevensverwerking waarmee de publicaties worden uitgegeven en beschikbaar gehouden, is volgens algemeen aanvaarde nationale en internationale standaarden voor informatiebeveiliging ingericht.
+- d. Alle mutaties in het systeem voor gegevensverwerking waarmee de publicaties worden uitgegeven en beschikbaar gehouden, worden geregistreerd en deze registratie wordt buiten dit systeem opgeslagen.
+- e. Van elke publicatie wordt een elektronische kopie gemaakt, die wordt opgeslagen buiten het systeem voor gegevensverwerking waarmee de publicaties worden uitgegeven en beschikbaar gehouden.
+
+2\. In afwijking van het eerste lid, onderdeel a, kunnen onderdelen van publicaties worden uitgegeven en beschikbaar gehouden in het bestandsformaat GML-XML voor zover het geometrische of geografische informatie betreft, waaronder begrepen de geometrische begrenzing van gebieden.
+
+## Artikel 2a
+
+Met betrekking tot de plaatsing in het Staatsblad van wetten, algemene maatregelen van bestuur en andere koninklijke besluiten waarbij algemeen verbindende voorschriften worden vastgesteld, worden de regels of technische standaarden, bedoeld in artikel 2.3, eerste onderscheidenlijk tweede lid, van de Regeling elektronische publicaties toegepast die met betrekking tot de plaatsing in de Staatscourant van anders dan bij wet, algemene maatregel van bestuur of ander koninklijk besluit vastgestelde algemeen verbindende voorschriften zijn gesteld onderscheidenlijk zijn aangewezen.
+
+## Artikel 3
+
+Vervangende uitgifte van het Staatsblad als bedoeld in artikel 17, eerste lid, van de Bekendmakingswet, geschiedt:
+
+- a. door middel van publicatie op een door de minister aan te wijzen vervangend internetadres,
+- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in artikel 4 genoemde uitgiftepunt, of
+- c. op een andere door de minister te bepalen wijze.
+
+## Artikel 3a
+
+Vervallen
+
+## Artikel 4
+
+Het uitgiftepunt, bedoeld in artikel 18, tweede lid, van de Bekendmakingswet, is ondergebracht bij het Kennis- en Exploitatiecentrum Officiële Overheidspublicaties van de Uitvoeringsorganisatie Bedrijfsvoering Rijk, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Wilhelmina van Pruisenweg 52, Postbus 20011, 2500 EA Den Haag.
+
+## Artikel 4a
+
+Deze regeling berust mede op de artikelen 17, eerste lid, en 18, tweede lid, van de Bekendmakingswet en artikel 8 van het Bekendmakingsbesluit.
+
+## Artikel 5
+
+Deze regeling treedt in werking op het tijdstip waarop artikel I van de Wet elektronische bekendmaking in werking treedt.
+
+## Artikel 6
+
+Deze regeling wordt aangehaald als: Bekendmakingsregeling.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De\
+Minister\
+Justitie\
+E.M.H.Hirsch Ballin
+
+De\
+Staatssecretaris\
+Binnenlandse Zaken en Koninkrijksrelaties\
+A.Th.B.Bijleveld-Schouten

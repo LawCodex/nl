@@ -60,13 +60,8 @@ De beschreven methode is toepasbaar voor de bepaling van het EOX-gehalte van oli
 
 Voor dit voorschrift gelden de volgende definities:
 
-Extraheerbare verbindingen:
-
-verbindingen die onder de in dit voorschrift beschreven condities met hexaan uit olie extraheerbaar zijn.
-
-Niet-vluchtige verbindingen:
-
-verbindingen die bij gebruik van deze methode niet voor de bepaling verloren gaan door verdamping.
+- Extraheerbare verbindingen: verbindingen die onder de in dit voorschrift beschreven condities met hexaan uit olie extraheerbaar zijn.
+- Niet-vluchtige verbindingen: verbindingen die bij gebruik van deze methode niet voor de bepaling verloren gaan door verdamping.
 
 ### 4 — Beginsel
 
@@ -110,29 +105,12 @@ Berekening:
 <tr><td>schaaldelen standaard</td><td>1000</td><td>G</td></tr>
 </table>
 
-EOX =
-
-aantal mg halogeen per kg olie, uitgedrukt in mg/kg Cl
-
-V =
-
-volume maatkolf in L
-
-G =
-
-afgewogen hoeveelheid olie in kg
-
-Detectielimiet:
-
-2 mg/kg
-
-Herhaalbaarheid (r):
-
-5%
-
-Reproduceerbaarheid (R):
-
-10%
+- EOX = aantal mg halogeen per kg olie, uitgedrukt in mg/kg Cl
+- V = volume maatkolf in L
+- G = afgewogen hoeveelheid olie in kg
+- Detectielimiet: 2 mg/kg
+- Herhaalbaarheid (r): 5%
+- Reproduceerbaarheid (R): 10%
 
 ### 7 — Rendementsbepaling
 
