@@ -1,0 +1,64 @@
+---
+title: "Wet pensioencommunicatie"
+identifier: "BWBR0036645"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 2015-05-20
+last_amended: 2017-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0036645/2017-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0036645/2017-01-01_0/xml/BWBR0036645_2017-01-01_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Pensioenrecht"]
+retrieved: 2026-10-11
+---
+
+# Wet pensioencommunicatie
+
+*Wet van 20 mei 2015 tot wijziging van de Pensioenwet en de Wet verplichte beroepspensioenregeling in verband met verbetering van de pensioencommunicatie (Wet pensioencommunicatie)*
+
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.
+
+Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de communicatie over pensioen te verbeteren;
+
+Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Artikel I
+
+Wijzigt de Pensioenwet.
+
+## Artikel II
+
+Wijzigt de Wet verplichte beroepspensioenregeling.
+
+## Artikel IIA
+
+In afwijking van artikel I, onderdelen J, K en O en artikel II, onderdelen I, J en N, geldt de verplichting om de opgaven, indicaties en gegevens, bedoeld in de artikelen 45, 46 en 51 van de Pensioenwet en de artikelen 56, 57 en 62 van de Wet verplichte beroepspensioenregeling, weer te geven op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario, niet tot een bij koninklijk besluit te bepalen tijdstip.
+
+## Artikel III
+
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+## Artikel IV
+
+Deze wet wordt aangehaald als: Wet pensioencommunicatie.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te
+
+Wassenaar 20 mei 2015
+
+Willem-Alexander
+
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma
+
+de *negenentwintigste* mei 2015
+
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

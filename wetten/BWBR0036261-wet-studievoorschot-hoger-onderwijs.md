@@ -1,0 +1,99 @@
+---
+title: "Wet studievoorschot hoger onderwijs"
+identifier: "BWBR0036261"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 2015-01-21
+last_amended: 2017-09-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0036261/2017-09-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0036261/2017-09-01_0/xml/BWBR0036261_2017-09-01_0.xml"
+authority: "Onderwijs, Cultuur en Wetenschap"
+rechtsgebied: ["Onderwijsrecht"]
+retrieved: 2026-10-11
+---
+
+# Wet studievoorschot hoger onderwijs
+
+*Wet van 21 januari 2015 tot wijziging van onder meer de Wet studiefinanciering 2000 in verband met de introductie van een nieuw stelsel van studiefinanciering in het hoger onderwijs en de uitvoering van een toekomstgerichte onderwijsagenda voor het hoger onderwijs (Wet studievoorschot hoger onderwijs)*
+
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is het stelsel van studiefinanciering te hervormen om te komen tot een doelmatiger en rechtvaardiger studiefinancieringsstelsel waardoor tevens een toekomstgerichte onderwijsagenda voor het hoger onderwijs kan worden uitgevoerd;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Artikel I — Wijziging Wet studiefinanciering 2000
+
+Wijzigt de Wet studiefinanciering 2000.
+
+## Artikel II — Wijziging Algemene Kinderbijslagwet
+
+Wijzigt de Algemene Kinderbijslagwet.
+
+## Artikel III — Wijziging Experimentenwet vooropleidingseisen, selectie en collegegeldheffing
+
+Wijzigt de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.
+
+## Artikel IV — Wijziging Participatiewet
+
+Wijzigt de Participatiewet.
+
+## Artikel V — Wijziging Wet inkomstenbelasting 2001
+
+Wijzigt de Wet inkomstenbelasting 2001.
+
+## Artikel VI — Wijziging Wet maatregelen woningmarkt 2014 II
+
+Wijzigt de Wet maatregelen woningmarkt 2014 II.
+
+## Artikel VII — Wijziging Wet op het hoger onderwijs en wetenschappelijk onderzoek
+
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
+
+## Artikel VIII — Wijziging Wet tegemoetkoming onderwijsbijdrage en schoolkosten
+
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
+
+## Artikel IX — Intrekking uitgewerkte Wijzigingswet
+
+De Wet van 16 mei 2007 tot wijziging van onder meer de Wet studiefinanciering 2000 in verband met aanpassing van de berekeningssystematiek veronderstelde ouderlijke bijdrage en de verlenging van experimenten met vooropleidingseisen, selectie en collegegeldheffing (Stb. 2007, 198) wordt ingetrokken.
+
+## Artikel X — Samenloop met de Wet kwaliteit in verscheidenheid hoger onderwijs
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Artikel XI — Inwerkingtreding
+
+1\. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2\. In afwijking van het eerste lid treden van artikel I de onderdelen AQ, subonderdeel 1, en BE, subonderdeel 1, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 september 2010.
+
+3\. In afwijking van het eerste lid treedt artikel I, onderdeel CQ, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2015.
+
+## Artikel XII — Citeertitel
+
+Deze wet wordt aangehaald als: Wet studievoorschot hoger onderwijs.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te
+
+Wassenaar 21 januari 2015
+
+Willem-Alexander
+
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
+
+De Staatssecretaris van Financiën,\
+E.D. Wiebes
+
+de *tiende* februari 2015
+
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

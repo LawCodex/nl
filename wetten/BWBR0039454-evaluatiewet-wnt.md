@@ -1,0 +1,62 @@
+---
+title: "Evaluatiewet WNT"
+identifier: "BWBR0039454"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 2017-03-22
+last_amended: 2017-04-12
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0039454/2017-04-12"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039454/2017-04-12_0/xml/BWBR0039454_2017-04-12_0.xml"
+authority: "Binnenlandse Zaken en Koninkrijksrelaties"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Arbeidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Evaluatiewet WNT
+
+*Wet van 22 maart 2017 tot wijziging van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector naar aanleiding van de wetsevaluatie (Evaluatiewet WNT)*
+
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.
+
+Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben,dat het wenselijk is de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector op enkele punten te verbeteren naar aanleiding van de eerste evaluatie van die wet, inzake ondermeer de administratieve lasten voor rechtspersonen en instellingen die onder de reikwijdte van de wet vallen, de normering van ontslagvergoedingen, het tegengaan van wetsontwijking en de instrumenten voor monitoring en evaluatie van de wet;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Artikel I
+
+Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.
+
+## Artikel II
+
+1\. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan artikel 12, eerste lid, van de Wet raadgevend referendum.
+
+2\. In afwijking van het eerste lid treedt Artikel I, onderdeel B, onderdeel I, onder 2, en onderdeel R, onder 2, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2013.
+
+3\. Aan artikel I, onderdeel A, onder 3, onderdeel D, onderdeel P, onder 3, onderdeel Q, onderdeel W, onderdeel X, onderdeel AE en onderdeel AP, kan terugwerkende kracht worden verleend tot een bij koninklijk besluit te bepalen tijdstip.
+
+4\. In afwijking van het eerste lid treedt artikel I, onderdeel X, in werking op 1 januari van het jaar na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. De verantwoordelijke is bevoegd de bij en krachtens paragraaf 4 van de Wet normering topinkomens gestelde regels toe te passen op financieel verslaggevingsdocumenten die worden opgesteld over boekjaren die zijn aangevangen vóór die datum.
+
+## Artikel III
+
+Deze wet wordt aangehaald als: Evaluatiewet WNT.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te
+
+Wassenaar 22 maart 2017
+
+Willem-Alexander
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
+
+de *elfde* april 2017
+
+De Minister van Veiligheid en Justitie,\
+S.A. Blok

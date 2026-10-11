@@ -1,0 +1,136 @@
+---
+title: "Wet Naleving Europese regelgeving publieke entiteiten"
+identifier: "BWBR0031640"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 2012-05-24
+last_amended: 2016-07-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0031640/2016-07-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031640/2016-07-01_0/xml/BWBR0031640_2016-07-01_0.xml"
+authority: "Binnenlandse Zaken en Koninkrijksrelaties"
+rechtsgebied: ["Financieel en economisch recht"]
+retrieved: 2026-10-11
+---
+
+# Wet Naleving Europese regelgeving publieke entiteiten
+
+*Wet van 24 mei 2012, houdende regels met betrekking tot de naleving van Europese regelgeving door publieke entiteiten (Wet Naleving Europese regelgeving publieke entiteiten)*
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen met betrekking tot het toezicht op de naleving van Europese regelgeving door publieke entiteiten en deze in één wet op te nemen met bestaande bepalingen over het toezicht op de besteding van subsidies die ten laste komen van de begroting van de Europese Unie;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Artikel 1
+
+In deze wet wordt, tenzij anders bepaald, verstaan onder:
+
+- a. *nutsrichtlijn:* richtlijn 2014/25/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het plaatsen van opdrachten in de sectoren water- en energievoorziening, vervoer en postdiensten en houdende intrekking van Richtlijn 2004/17/EG (PbEU 2014, L 94);
+- b. *aanbestedingsrichtlijn:* richtlijn 2014/24/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het plaatsen van overheidsopdrachten en tot intrekking van Richtlijn 2004/18/EG (PbEU 2014, L 94);
+- c. *concessierichtlijn:* richtlijn 2014/23/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het plaatsen van concessieovereenkomsten (PbEU 2014, L 94);
+- d. *publieke entiteit:*
+  - 1°. een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, van de Algemene wet bestuursrecht, niet zijnde een van Onze Ministers;
+  - 2°. een overige aanbestedende dienst als bedoeld in artikel 2, eerste lid, van de aanbestedingsrichtlijn, niet zijnde de staat;
+  - 3°. een overige aanbestedende instantie als bedoeld in artikel 4, eerste lid, van de nutsrichtlijn en artikel 7, eerste lid, van de concessierichtlijn, niet zijnde de staat;
+  - 4°. een instantie die een opdracht als bedoeld in artikel 13 van de aanbestedingsrichtlijn plaatst;
+- e. *Onze Minister:* Onze Minister wie het aangaat;
+- f. *Europese verdragen:* het Verdrag betreffende de werking van de Europese Unie, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie of het Verdrag betreffende de Europese Unie;
+- g. *Europese subsidie:* een aanspraak op financiële middelen van de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Europese Commissie die rechtstreeks of middellijk bestaat op grond van een vastgesteld programma, een verordening, een richtlijn, een beschikking of een besluit, voor zover uit deze aanspraak verplichtingen voortvloeien welke bij of krachtens de Europese verdragen op Nederland rusten.
+
+## Artikel 2
+
+1\. Indien een publieke entiteit niet of niet naar behoren voldoet aan een voor haar geldende rechtsplicht die voortvloeit uit een bij of krachtens de Europese verdragen op Nederland rustende verplichting, niet zijnde een rechtsplicht die behoort tot de in artikel 3 bedoelde verplichtingen, dan kan Onze Minister de publieke entiteit een aanwijzing geven om, binnen een in die aanwijzing te vermelden termijn, alsnog aan die rechtsplicht te voldoen.
+
+2\. Een aanwijzing wordt gegeven:
+
+- a. in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten aanzien van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen;
+- b. in overeenstemming met Onze Minister van Verkeer en Waterstaat ten aanzien van waterschappen en gemeenschappelijke regelingen waaraan uitsluitend waterschappen deelnemen.
+
+3\. Een aanwijzing wordt niet gegeven ten aanzien van de uitoefening van rechtspraak.
+
+4\. Dit artikel is niet van toepassing op bestuursorganen van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen, indien de bevoegdheden van artikel 121 en hoofdstuk XVIII van de Provinciewet, van de artikelen 124 en 124a en hoofdstuk XVII van de Gemeentewet en van de artikelen 32b, 32c, 36 tot en met 39f, 45a, 49, 56a, 60, 65a, eerste lid, 69, eerste lid, 78a, eerste en tweede lid, 82, eerste en tweede lid, 88a, eerste lid en 92, eerste lid van de Wet gemeenschappelijke regelingen toereikend zijn om het niet of niet naar behoren voldoen als bedoeld in het eerste lid te herstellen.
+
+## Artikel 3
+
+Indien een publieke entiteit verzuimt te voldoen aan een voor haar geldende rechtsplicht die voortvloeit uit een bij of krachtens de Europese verdragen op Nederland rustende verplichting ten aanzien van de rechtmatige en doelmatige besteding van een Europese subsidie of ten aanzien van de wijze van beheer, controle of toezicht met betrekking tot een Europese subsidie, of indien een dergelijk verzuim dreigt te ontstaan, kan Onze Minister die verantwoordelijk is voor het beleidsterrein ten aanzien waarvan de subsidie is verstrekt de publieke entiteit een aanwijzing geven omtrent de rechtmatige en doelmatige aanwending van een door die publieke entiteit ontvangen Europese subsidie of de wijze van beheer, controle of toezicht met betrekking tot die subsidie. In de aanwijzing wordt de termijn vermeld waarbinnen de aanwijzing moet worden opgevolgd.
+
+## Artikel 4
+
+1\. Een aanwijzing wordt niet gegeven dan nadat aan de publieke entiteit gelegenheid tot overleg is geboden.
+
+2\. Een aanwijzing wordt, behoudens in spoedeisende gevallen, niet eerder gegeven dan nadat de publieke entiteit in de gelegenheid is gesteld om binnen een door Onze Minister in overeenstemming met Onze andere betrokken Minister gestelde termijn de verplichting, bedoeld in artikel 2 of 3, alsnog na te komen.
+
+3\. De motivering van de aanwijzing verwijst naar hetgeen in het overleg aan de orde is gekomen.
+
+4\. Van de aanwijzing wordt mededeling gedaan in de Staatscourant.
+
+## Artikel 5
+
+Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister die de aanwijzing heeft gegeven er, namens en op kosten van de publieke entiteit, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in artikel 2, is gegeven of dat alsnog het verzuim, bedoeld in artikel 3, wordt hersteld of voorkomen.
+
+## Artikel 6
+
+Vervallen
+
+## Artikel 7
+
+1\. Als Nederland door een instelling van de Europese Unie, de Europese Investeringsbank of een andere lidstaat van de Europese Unie aansprakelijk wordt gesteld voor het niet nakomen van bij of krachtens de Europese verdragen opgelegde verplichtingen en als dit leidt tot een vordering op de staat in de vorm van een verplichting tot een of meer van de navolgende betalingen, kan Onze Minister besluiten deze bedragen te verhalen op een publieke entiteit, voor zover de aansprakelijkheid van Nederland het gevolg is van een verzuim van de betreffende publieke entiteit:
+
+- a. de betaling van een forfaitaire som;
+- b. de betaling van een dwangsom;
+- c. de terugbetaling van een aan de betrokken publieke entiteit verstrekte Europese subsidie vermeerderd met de eventueel daarover berekende rente.
+
+2\. Een besluit tot verhaal wordt niet genomen dan nadat aan de betreffende publieke entiteit gelegenheid tot overleg is geboden.
+
+3\. Onze Minister kan het bedrag van het verhaal invorderen bij dwangbevel.
+
+4\. Dit artikel is van overeenkomstige toepassing als de aansprakelijkstelling, bedoeld in het eerste lid, leidt tot het niet vergoeden van door Nederland gedane uitgaven die mede worden gefinancierd uit Europese middelen of leidt tot verlaging van die middelen.
+
+## Artikel 8
+
+Een wijziging van de nutsrichtlijn, de aanbestedingsrichtlijn of de concessierichtlijn gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+## Artikel 9
+
+Wijzigt de Algemene wet bestuursrecht.
+
+## Artikel 10
+
+Wijzigt de Dienstenwet.
+
+## Artikel 11
+
+De Wet toezicht Europese subsidies wordt ingetrokken.
+
+## Artikel 12
+
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+
+## Artikel 13
+
+Deze wet wordt aangehaald als: Wet Naleving Europese regelgeving publieke entiteiten.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te
+
+’s-Gravenhage 24 mei 2012
+
+Beatrix
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J. W. E. Spies
+
+De Minister van Financiën,\
+J. C. de Jager
+
+de *twaalfde* juni 2012
+
+De Minister van Veiligheid en Justitie,\
+I. W. Opstelten

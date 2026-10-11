@@ -1,0 +1,60 @@
+---
+title: "Reparatiewet WNT"
+identifier: "BWBR0035812"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 2014-11-12
+last_amended: 2014-11-28
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0035812/2014-11-28"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035812/2014-11-28_0/xml/BWBR0035812_2014-11-28_0.xml"
+authority: "Binnenlandse Zaken en Koninkrijksrelaties"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Arbeidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Reparatiewet WNT
+
+*Wet van 12 november 2014, houdende wijziging van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector met het oog op een betere uitvoering van de wet (Reparatiewet WNT)*
+
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje, enz. enz. enz.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben dat het met het oog op een betere uitvoering van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector in de praktijk noodzakelijk is enige wijzigingen in deze wet aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Artikel I
+
+Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.
+
+## Artikel II
+
+Wijzigt deze wet.
+
+## Artikel III
+
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. Artikel I, onderdeel J, werkt terug tot en met 1 januari 2013.
+
+## Artikel IV
+
+Deze wet wordt aangehaald als: Reparatiewet WNT.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te
+
+Wassenaar 12 november 2014
+
+Willem-Alexander
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
+
+de *zevenentwintigste* november 2014
+
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

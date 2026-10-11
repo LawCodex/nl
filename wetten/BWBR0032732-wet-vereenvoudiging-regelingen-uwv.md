@@ -1,0 +1,100 @@
+---
+title: "Wet vereenvoudiging regelingen UWV"
+identifier: "BWBR0032732"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 2012-12-20
+last_amended: 2020-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0032732/2020-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032732/2020-01-01_0/xml/BWBR0032732_2020-01-01_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Sociaal zekerheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Wet vereenvoudiging regelingen UWV
+
+*Wet van 20 december 2012 tot wijziging van verschillende wetten in verband met de vereenvoudiging van de uitvoering van deze wetten door het Uitvoeringsinstituut werknemersverzekeringen (Wet vereenvoudiging regelingen UWV)*
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om een aantal socialezekerheidswetten te vereenvoudigen om zo de kosten gemoeid met de uitvoering te verlagen en tegelijkertijd de transparantie, de doelmatigheid en de eigen verantwoordelijkheid voor de burger te vergroten;
+
+Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Artikel I — Wijziging van de Werkloosheidswet
+
+Wijzigt de Werkloosheidswet.
+
+## Artikel II — Wijziging van de Ziektewet
+
+Wijzigt de Ziektewet.
+
+## Artikel III — Wijziging van de Wet werk en inkomen naar arbeidsvermogen
+
+Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
+
+## Artikel IV — Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen
+
+Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+
+## Artikel V — Wijziging van het Buitengewoon Besluit Arbeidsverhoudingen 1945
+
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/504.
+
+Wijzigt de Buitengewoon Besluit Arbeidsverhoudingen 1945.
+
+## Artikel VI — Wijziging van de Toeslagenwet
+
+Wijzigt de Toeslagenwet.
+
+## Artikel VII — Wijziging van de Wet arbeid en zorg
+
+Wijzigt de Wet arbeid en zorg.
+
+## Artikel VIII — Wijzing van de Ziektewet in verband met de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters
+
+Wijzigt de Ziektewet.
+
+## Artikel VIIIa — Wijziging van de Wet werk en inkomen naar arbeidsvermogen in verband met de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters
+
+Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
+
+## Artikel VIIIb — Wijziging van de Wet financiering sociale verzekeringen
+
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/504.
+
+Wijzigt de Wet financiering sociale verzekeringen.
+
+## Artikel VIIIc — Wijziging van de Wet tot wijziging van een aantal wetten op het terrein van het ministerie van Sociale Zaken en Werkgelegenheid teneinde deze in overeenstemming te brengen met de motie van het voormalige eerstekamerlid Jurgens c.s. (33 133)
+
+Wijzigt de Wijzigingswet aantal wetten met betrekking tot het ministerie van Sociale Zaken en Werkgelegenheid (motie voormalige eerstekamerlid Jurgens)(Stb. 2012/657).
+
+## Artikel IX — Inwerkingtreding
+
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+## Artikel X — Citeertitel
+
+Deze wet wordt aangehaald als: Wet vereenvoudiging regelingen UWV.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te
+
+’s-Gravenhage 20 december 2012
+
+Beatrix
+
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L. F. Asscher
+
+de *zevenentwintigste* december 2012
+
+De Minister van Veiligheid en Justitie,\
+I. W. Opstelten

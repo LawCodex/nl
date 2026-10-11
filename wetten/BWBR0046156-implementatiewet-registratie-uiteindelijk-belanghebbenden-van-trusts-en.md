@@ -1,0 +1,331 @@
+---
+title: "Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies"
+identifier: "BWBR0046156"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 2021-11-24
+last_amended: 2026-06-03
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0046156/2026-06-03"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0046156/2026-06-03_0/xml/BWBR0046156_2026-06-03_0.xml"
+authority: "Financiën"
+rechtsgebied: ["Bank- en effectenrecht, financiering", "Toezicht bank- en kredietwezen", "Openbare orde en veiligheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies
+
+*Wet van 24 november 2021, houdende regels met betrekking tot de registratie van uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter implementatie van artikel 31 van de gewijzigde vierde anti-witwasrichtlijn (Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies)*
+
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels te stellen met betrekking tot het registreren van uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter implementatie van Richtlijn (EU) 2015/849 van het Europees Parlement en de Raad van 20 mei 2015 inzake de voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld of terrorismefinanciering (PbEU 2015, L 141), zoals gewijzigd bij Richtlijn (EU) 2018/843 tot wijziging van Richtlijn (EU) 2015/849 inzake de voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld of terrorismefinanciering (PbEU 2018, L 156/43);
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Hoofdstuk 1 — Algemene bepalingen
+
+### Artikel 1 — Definities
+
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+- *bevoegde autoriteit:* bevoegde autoriteit als bedoeld in artikel 7, tweede lid, onderdeel a;
+- *Financiële inlichtingen eenheid:* Financiële inlichtingen eenheid, bedoeld in artikel 12, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme;
+- *beheerder:* Kamer van Koophandel als bedoeld in artikel 2 van de Wet op de Kamer van Koophandel;
+- *basisregistratie:* verzameling gegevens waarvan bij wet is bepaald dat deze een basisregistratie vormt;
+- *register:* het register bedoeld in artikel 4;
+- *trust:* trust als bedoeld in het op 1 juli 1985 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141);
+- *trustee:* trustee als bedoeld in het op 1 juli 1985 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141);
+- *uiteindelijk belanghebbende:* uiteindelijk belanghebbende als bedoeld in artikel 10a, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme;
+- *vierde anti-witwasrichtlijn:* richtlijn 2015/849 van het Europees Parlement en de Raad van 20 mei 2015 inzake de voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld of terrorismefinanciering, tot wijziging van Verordening (EU) nr. 648/2012 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 2005/60 van het Europees Parlement en de Raad en Richtlijn 2006/70/EG van de Commissie (PbEU 2015, L 141), zoals gewijzigd bij richtlijn (EU) 2018/843 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn (EU) 2015/849 inzake de voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld of terrorismefinanciering, en tot wijziging van de Richtlijnen 2009/138/EG en 2013/36/EU (PbEU 2018, L 156/43);
+- *zakelijke relatie:* zakelijke relatie als bedoeld in artikel 1, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme.
+
+### Artikel 2 — Gelijkstelling soortgelijke juridische constructie
+
+1\. In deze wet en de daarop berustende bepalingen wordt een soortgelijke juridische constructie gelijkgesteld aan een trust en wordt onder een trust mede verstaan een soortgelijke juridische constructie.
+
+2\. Onder een trustee wordt in deze wet en de daarop berustende bepalingen tevens verstaan degene die in een soortgelijke juridische constructie een vergelijkbare positie heeft als een trustee in een trust.
+
+3\. Onder een soortgelijke juridische constructie wordt in deze wet en de daarop berustende bepalingen verstaan: bij overeenkomst of samenstel van overeenkomsten tot stand gebracht fonds zonder rechtspersoonlijkheid, niet zijnde een onderneming of rechtspersoon als bedoeld in de Handelsregisterwet 2007, waarin de deelnemers vermogen bijeenbrengen dat voor gezamenlijke rekening wordt belegd of anderszins wordt aangewend ten behoeve van de uiteindelijk belanghebbenden van dat fonds, alsmede een juridische constructie die is opgenomen in de geconsolideerde lijst, bedoeld in artikel 31, tiende lid, van de vierde anti- witwasrichtlijn.
+
+### Artikel 3 — Reikwijdte
+
+1\. Deze wet is van toepassing op trusts:
+
+- a. waarvan de trustee in Nederland woonachtig of gevestigd is; of
+- b. waarvan de trustee buiten de Europese Unie woonachtig of gevestigd is en namens de trust in Nederland een zakelijke relatie aangaat of onroerend goed verwerft.
+
+2\. Deze wet is niet van toepassing op de registratie van trusts en de uiteindelijk belanghebbenden daarvan voor zover die trusts in een andere lidstaat van de Europese Unie zijn ingeschreven in een register als bedoeld in artikel 31 van de vierde anti-witwasrichtlijn.
+
+## Hoofdstuk 2 — Inhoud van het register
+
+### Artikel 4 — Het register
+
+1\. Er is een register voor het registreren van trusts en uiteindelijk belanghebbenden van trusts.
+
+2\. Het register heeft als doel het voorkomen van het gebruik van het financiële stelsel voor witwassen en financieren van terrorisme.
+
+3\. Het register wordt gehouden door de beheerder.
+
+### Artikel 5 — Informatie in het register
+
+1\. Het register bevat de volgende gegevens over een trust:
+
+- a. de naam;
+- b. het type;
+- c. de datum waarop deze tot stand is gekomen;
+- d. de plaats waar deze tot stand is gekomen; en
+- e. het doel waarvoor deze tot stand is gebracht.
+
+2\. Bij algemene maatregel van bestuur kunnen regels worden gesteld over categorieën van doelen als bedoeld in het eerste lid, onderdeel e.
+
+3\. Het register bevat de volgende gegevens over de uiteindelijk belanghebbenden van een trust:
+
+- a. de naam, de geboortemaand, het geboortejaar, de woonstaat en de nationaliteit;
+- b. het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer, indien dat aan de uiteindelijk belanghebbende is toegekend;
+- c. het fiscaal identificatienummer van een ander land dan Nederland waarvan de uiteindelijk belanghebbende ingezetene is, indien dat door zijn woonstaat aan hem is toegekend;
+- d. de geboortedag, de geboorteplaats, het geboorteland en het woonadres;
+- e. het e-mailadres; en
+- f. de aard en omvang van het door de uiteindelijk belanghebbende gehouden economische belang, waarvoor bij algemene maatregel van bestuur klassen kunnen worden vastgesteld.
+
+4\. Het register bevat de volgende bescheiden over een trust en de uiteindelijk belanghebbenden daarvan:
+
+- a. afschriften van documenten op grond waarvan de in het derde lid, onderdelen a, b, c en d bedoelde gegevens zijn geverifieerd;
+- b. afschriften van documenten waaruit de gegevens, bedoeld in het eerste lid, blijken alsmede van documenten, behorende tot bij algemene maatregel van bestuur aan te wijzen categorieën, waaruit de gegevens, bedoeld in het derde lid, onderdeel f, blijken.
+
+### Artikel 6 — Bewaartermijn
+
+De gegevens en bescheiden, bedoeld in artikel 5, eerste, derde en vierde lid, blijven tot een bij algemene maatregel van bestuur te bepalen termijn, toegankelijk via het register.
+
+## Hoofdstuk 3 — Toegang tot het register
+
+### Artikel 7 — Toegang
+
+1\. De in artikel 5, eerste en derde lid, onderdelen a en f, bedoelde gegevens zijn op elektronische wijze toegankelijk voor:
+
+- a. een instelling als bedoeld in artikel 1, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme ten behoeve van een op grond van die wet of de Wet toezicht trustkantoren 2018 verplicht cliëntenonderzoek;
+- b. een instelling als bedoeld in artikel 10, tweede lid, onderdelen a tot en met m, van de Sanctiewet 1977 ten behoeve van de naleving van de bij of krachtens afdeling 5 van die wet bepaalde verplichtingen met betrekking tot het financieel verkeer.
+
+2\. De in artikel 5 bedoelde gegevens en bescheiden zijn toegankelijk voor:
+
+- a. de Financiële inlichtingen eenheid en de bij algemene maatregel van bestuur aangewezen bevoegde autoriteiten;
+- b. een op grond van artikel 10, eerste lid, van de Sanctiewet 1977 aangewezen ambtenaar of andere persoon in het kader van het uitoefenen van het toezicht op de naleving van het bij of krachtens die wet bepaalde;
+- c. een krachtens artikel 10, tweede lid, van de Sanctiewet 1977 door Onze Minister van Financiën aangewezen rechtspersoon in het kader van het toezicht op de naleving van het bij of krachtens afdeling 5 van die wet bepaalde met betrekking tot het financieel verkeer;
+- d. bij algemene maatregel van bestuur aangewezen bestuursorganen en rechtspersonen met een overheidstaak, voor zover dit noodzakelijk is in het kader van de uitoefening van een taak of bevoegdheid waar bestuursorganen en rechtspersonen met een overheidstaak bij of krachtens de wet dan wel bij of krachtens een verordening als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie mee zijn belast;
+- e. de instellingen, genoemd in artikel 11, eerste lid, onderdelen e tot en met h, van Richtlijn (EU) 2024/1640 van het Europees Parlement en de Raad van 31 mei 2024 betreffende de mechanismen die de lidstaten moeten invoeren om het gebruik van het financiële stelsel voor witwassen of terrorismefinanciering te voorkomen, tot wijziging van Richtlijn (EU) 2019/1937, en tot wijziging en intrekking van Richtlijn (EU) 2015/849 (PbEU 2024, L 2024/1640).
+
+3\. Voor zover zij een aantoonbaar legitiem belang hebben bij toegang tot de in het eerste lid bedoelde gegevens, zijn die gegevens op langs elektronische weg gedaan verzoek, tevens op elektronische wijze toegankelijk voor bij algemene maatregel van bestuur aan te wijzen categorieën van natuurlijke personen en rechtspersonen. Dit legitiem belang houdt verband met het voorkomen of bestrijden van witwassen, daarmee verband houdende basisdelicten, of financieren van terrorisme.
+
+4\. Indien een verzoek als bedoeld in het derde lid is toegewezen, stelt de kamer de uiteindelijk belanghebbende op wiens gegevens het verzoek ziet daarvan op de hoogte, alsmede van welk doel het verzoek dient.
+
+5\. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over:
+
+- a. de in dit artikel bedoelde toegang en de wijze waarop die toegang verkregen kan worden;
+- b. de bij het verlenen van die toegang te stellen voorschriften;
+- c. de wijze waarop een legitiem belang als bedoeld in het derde lid kan worden aangetoond;
+- d. het in behandeling nemen van een aanvraag om gegevens in te zien voor personen en rechtspersonen met een legitiem belang als bedoeld in het derde lid en de beslissing op deze aanvraag; en
+- e. Het verlenen van een certificaat of het weigeren, opschorten of intrekken van de toegang, bedoeld in artikel 13, zesde tot en met achtste lid en tiende lid, van Richtlijn (EU) 2024/1640 van het Europees Parlement en de Raad van 31 mei 2024 betreffende de mechanismen die de lidstaten moeten invoeren om het gebruik van het financiële stelsel voor witwassen of terrorismefinanciering te voorkomen, tot wijziging van Richtlijn (EU) 2019/1937, en tot wijziging en intrekking van Richtlijn (EU) 2015/849 (PbEU 2024, L 2024/1640).
+
+6\. De in artikel 5, eerste, derde en vierde lid, bedoelde gegevens en bescheiden zijn op elektronische wijze toegankelijk voor de trustee voor zover deze gegevens of bescheiden betrekking hebben op de trust waarvan hij de trustee is of op de uiteindelijk belanghebbenden van die trust.
+
+7\. De voordracht voor een krachtens het derde of vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+
+### Artikel 8 — Persoonsgegevens verzoeker
+
+1\. Degene die inzage in de in artikel 5 bedoelde gegevens of bescheiden wenst, registreert zich daartoe online bij de beheerder.
+
+2\. Dit lid is nog niet in werking getreden.
+
+3\. Dit lid is nog niet in werking getreden.
+
+### Artikel 9 — Vergoeding
+
+1\. Bij algemene maatregel van bestuur kan worden bepaald dat voor inzage in informatie die is opgenomen in het register een vergoeding verschuldigd is, welke vergoeding niet meer bedraagt dan de administratieve kosten voor het beschikbaar stellen van de informatie, met inbegrip van de kosten voor het bijhouden en ontwikkelen van het register, en kan variëren naar de wijze van inzage in informatie en de hoeveelheid informatie.
+
+2\. Onze Minister van Financiën en Onze Minister van Justitie en Veiligheid dragen jaarlijks bij in de financiering van het beheer van het register voor zover die financiering niet kan worden voldaan uit de in het eerste lid bedoelde vergoedingen.
+
+### Artikel 10 — Afscherming
+
+1\. In bij algemene maatregel van bestuur te bepalen gevallen kunnen, ter bescherming van de persoonlijke levenssfeer van uiteindelijk belanghebbenden die in het register staan ingeschreven, gegevens of bescheiden of categorieën van gegevens of bescheiden, op langs elektronische weg gedaan verzoek van een uiteindelijk belanghebbende bij besluit van Onze Minister van Financiën worden afgeschermd tegen inzage door anderen dan:
+
+- a. de Financiële inlichtingen eenheid en de bevoegde autoriteiten;
+- b. bestuursorganen, instellingen of andere personen of rechtspersonen als bedoeld in artikel 7, tweede lid;
+- c. de instellingen bedoeld in artikel 1a, tweede, derde en vierde lid, onderdeel d, van de Wet ter voorkoming van witwassen en financieren van terrorisme, ook voor zover deze instellingen toegang krijgen in het kader van artikel 7, eerste lid, onderdeel b, van deze wet; en
+- d. de trustee voor zover deze gegevens betrekking hebben op de uiteindelijk belanghebbenden van de trust waarvan hij de trustee is.
+
+2\. De in artikel 5, derde lid, onderdeel f, bedoelde gegevens kunnen niet worden afgeschermd tegen inzage.
+
+3\. Jaarlijks worden statistische gegevens gepubliceerd over het aantal afschermingen dat op grond van dit artikel is toegekend, met in begrip van de gronden waarop die afschermingen zijn toegekend.
+
+## Hoofdstuk 4 — Verplichtingen van de trustee
+
+### Artikel 11 — Registratieplicht
+
+1\. De trustee is ten behoeve van registratie in het register, verplicht langs elektronische weg opgave te doen van de in artikel 5 bedoelde gegevens en bescheiden met betrekking tot die trust en de uiteindelijk belanghebbenden daarvan.
+
+2\. De trustee doet uiterlijk een week na het plaatsvinden van het feit ten gevolge waarvan de verplichting tot registratie ontstaat, opgave overeenkomstig deze wet.
+
+3\. Na opgave besluit Onze Minister van Financiën tot registratie in het register en worden de belanghebbenden van de betreffende trust daarvan langs elektronische weg in kennis gesteld.
+
+4\. Ten behoeve van de registratie overeenkomstig deze wet identificeert de trustee zich.
+
+5\. In schriftelijke uitingen die namens de trust worden gedaan, wordt het unieke kenmerk vermeld dat na registratie aan de trust is toegekend.
+
+### Artikel 12 — Kwaliteit geregistreerde informatie
+
+De trustee draagt er zorg voor dat de in artikel 5 bedoelde gegevens en bescheiden met betrekking tot de trust en de uiteindelijk belanghebbenden daarvan, toereikend, actueel en accuraat zijn.
+
+## Hoofdstuk 5 — Taken van de beheerder
+
+### Artikel 13 — Ontwikkeling en beheer van het register
+
+1\. De beheerder draagt zorg voor de ontwikkeling, een goede bereikbaarheid, werking en beveiliging van het register.
+
+2\. De beheerder draagt er zorg voor dat de weergave van krachtens deze wet in het register opgenomen informatie onverwijld na het besluit bedoeld in artikel 11, derde lid, overeenstemt met dat besluit.
+
+### Artikel 14 — Verstrekking uniek kenmerk
+
+De beheerder kent aan een trust een uniek kenmerk toe, en neemt dit kenmerk in het register op.
+
+### Artikel 15 — Informatieverstrekking aan anderen dan uiteindelijk belanghebbenden
+
+1\. De beheerder draagt er zorg voor dat bij het verstrekken van gegevens en bescheiden omtrent uiteindelijk belanghebbenden deze gegevens en bescheiden uitsluitend gerangschikt worden naar natuurlijke personen indien het verzoek daartoe wordt gedaan door de Financiële inlichtingen eenheid, een bevoegde autoriteit, bestuursorgaan, instelling of andere persoon of rechtspersoon als bedoeld in artikel 7, tweede lid, voor zover deze handelt in het kader van de uitoefening van een wettelijke taak of bevoegdheid.
+
+2\. De beheerder verstrekt de gegevens en bescheiden omtrent een uiteindelijk belanghebbende aan de Financiële inlichtingen eenheid, een bevoegde autoriteit, bestuursorgaan, instelling of andere persoon of rechtspersoon als bedoeld in artikel 7, tweede lid, op een zodanige wijze dat de uiteindelijk belanghebbende geen weet heeft van de verstrekking.
+
+### Artikel 16 — Informatieverstrekking aan uiteindelijk belanghebbenden
+
+De beheerder geeft een uiteindelijk belanghebbende op diens langs elektronische weg gedaan verzoek inzicht in het aantal keer dat zijn gegevens of bescheiden, bedoeld in artikel 5, zijn verstrekt, met uitzondering van verstrekkingen aan de Financiële inlichtingen eenheid, de bevoegde autoriteiten of bestuursorganen, instellingen of andere personen of rechtspersonen als bedoeld in artikel 7, tweede lid. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de uiteindelijk belanghebbende inzicht kan krijgen.
+
+### Artikel 17 — Verwerking terugmelding
+
+1\. Indien de beheerder een melding ontvangt als bedoeld in artikel 21 van deze wet of artikel 10c, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme, tekent de beheerder in het register onverwijld aan dat ten aanzien van het gegeven een dergelijke melding is gedaan en stelt de uiteindelijk belanghebbenden van de betreffende trust alsmede Onze Minister van Financiën daarvan langs elektronische weg in kennis.
+
+2\. Binnen een week na ontvangst van de kennisgeving, bedoeld in het eerste lid, wijzigt de trustee de geregistreerde gegevens of maakt hij aan de beheerder kenbaar de geregistreerde gegevens niet te wijzigen. De beheerder stelt Onze Minister van Financiën, de uiteindelijk belanghebbenden van de betreffende trust alsmede degene die de melding heeft gedaan hiervan onverwijld langs elektronische weg in kennis, en verwijdert de in het eerste lid bedoelde aantekening.
+
+### Artikel 18 — Technische inrichting
+
+1\. Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent het beheer, de vorm en de technische en administratieve inrichting van het register.
+
+2\. Bij algemene maatregel van bestuur kan worden bepaald dat in het register ook informatie kan worden opgenomen die is overgenomen uit een basisregistratie.
+
+### Artikel 19 — Protocol
+
+1\. De beheerder stelt een protocol op aangaande:
+
+- a. de beschikbaarheid, werking, beveiliging en andere aangelegenheden betreffende het beheer van het register; en
+- b. de evaluatie van de uitvoering van de bij deze wet aan de beheerder opgedragen taken welke evaluatie twee jaar na inwerkingtreding van deze wet wordt uitgevoerd.
+
+2\. Het protocol behoeft de goedkeuring van Onze Minister van Financiën, Onze Minister van Justitie en Veiligheid en Onze Minister van Economische Zaken en Klimaat.
+
+3\. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
+
+## Hoofdstuk 6 — Financiele inlichtingen eenheid en bevoegde autoriteiten
+
+### Artikel 20 — Informatiedeling
+
+1\. Ten behoeve van de uitvoering van haar taken op grond van artikel 13 van de Wet ter voorkoming van witwassen en financieren van terrorisme kan de Financiële inlichtingen eenheid de in artikel 5 bedoelde informatie uit het register tijdig en kosteloos delen met financiële inlichtingen eenheden van andere lidstaten van de Europese Unie.
+
+2\. Ten behoeve van de uitvoering van hun wettelijke taken op grond waarvan zij toegang hebben gekregen tot de in artikel 5 bedoelde informatie uit het register, kunnen de bevoegde autoriteiten die informatie tijdig en kosteloos delen met bevoegde autoriteiten van andere lidstaten van de Europese Unie.
+
+### Artikel 21 — Terugmeldplicht
+
+1\. Een instelling als bedoeld in artikel 7, eerste lid, onderdeel b, of bevoegde autoriteit of bestuursorgaan, instelling of andere persoon of rechtspersoon als bedoeld in artikel 7, tweede lid, doet melding aan de beheerder van iedere discrepantie die zij aantreft tussen een gegeven omtrent een uiteindelijk belanghebbende dat zij verstrekt heeft gekregen uit het register en de informatie waarover zij uit anderen hoofde beschikt.
+
+2\. Het eerste lid is niet van toepassing indien nakoming van de in dat lid neergelegde verplichting de uitoefening van de wettelijke taak of bevoegdheid van de betreffende autoriteit onnodig zou doorkruisen.
+
+3\. Bij een melding als bedoeld in het eerste lid verstrekt een instelling als bedoeld in artikel 7, eerste lid, onderdeel b, of bevoegde autoriteit of bestuursorgaan, instelling of andere persoon of rechtspersoon als bedoeld in artikel 7, tweede lid, de gegevens, bedoeld in artikel 5, derde lid, waarover zij beschikt en kan zij de bescheiden, bedoeld in artikel 5, vierde lid, verstrekken waarover zij beschikt.
+
+4\. De beheerder bepaalt de wijze waarop een melding als bedoeld in het eerste lid wordt gedaan.
+
+## Hoofdstuk 7 — Handhaving
+
+### Artikel 22 — Last onder dwangsom
+
+Onze Minister van Financiën kan een last onder dwangsom opleggen indien er sprake is van handelen in strijd met artikel 11, eerste of tweede lid, of artikel 12.
+
+### Artikel 23 — Bestuurlijke boete
+
+1\. Onze Minister van Financiën kan een bestuurlijke boete opleggen indien er sprake is van handelen in strijd met artikel 11, eerste of tweede lid, of artikel 12.
+
+2\. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
+
+### Artikel 23a — Vorderen inlichtingen
+
+1\. Onze Minister van Financiën is bevoegd van een trustee inlichtingen te vorderen die hij redelijkerwijs voor de vervulling van zijn taak, bedoeld in de artikelen 22 en 23, nodig heeft. Een trustee is verplicht aan Onze Minister van Financiën binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitvoering van deze bevoegdheid.
+
+2\. Het eerste lid is van overeenkomstige toepassing op een instelling die een melding als bedoeld in artikel 10c, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme heeft gedaan.
+
+## Hoofdstuk 8 — Overige bepalingen
+
+### Artikel 24 — Databankenrecht
+
+Het recht, bedoeld in artikel 2, eerste lid, van de Databankenwet is, ten aanzien van het register bedoeld in artikel 4 van deze wet, voorbehouden aan de Staat der Nederlanden.
+
+### Artikel 25 — Mandaatverlening
+
+1\. Onze Minister van Financiën verleent aan de voorzitter van de Kamer van Koophandel mandaat om:
+
+- a. besluiten te nemen als bedoeld in artikel 7, derde lid, artikel 10, eerste lid, en artikel 11, derde lid;
+- b. te beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, met dien verstande dat de persoon die betrokken is bij het besluitvormingsproces ten aanzien van het bezwaarschrift niet ook betrokken is geweest bij het besluitvormingsproces in eerste aanleg, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen; en
+- c. in rechte op te treden en tegen rechterlijke uitspaken hoger beroep of cassatie in te stellen, dan wel af te zien van hoger beroep of cassatie.
+
+2\. De voorzitter van de Kamer van Koophandel kan ten aanzien van de in het eerste lid aan hem gemandateerde bevoegdheden ondermandaat verlenen aan één of meer onder hem ressorterende werknemers van de beheerder.
+
+## Hoofdstuk 9 — Wijziging van andere wetten
+
+### Artikel 26 — Wijziging van de Wet ter voorkoming van witwassen en financieren van terrorisme
+
+Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
+
+### Artikel 27 — Wijziging van de Wet op de economische delicten
+
+Wijzigt de Wet op de economische delicten.
+
+### Artikel 28 — Wijziging van de Handelsregisterwet 2007
+
+Wijzigt de Handelsregisterwet 2007.
+
+### Artikel 28a — Wijziging van de Algemene wet bestuursrecht
+
+Wijzigt de Algemene wet bestuursrecht.
+
+## Hoofdstuk 10 — Overgangs- en slotbepalingen
+
+### Artikel 29 — Overgangsbepaling
+
+In afwijking van artikel 11, tweede lid, vindt registratie waartoe de verplichting is ontstaan als gevolg van de inwerkingtreding van artikel 11 van deze wet plaats binnen drie maanden na inwerkingtreding van deze wet.
+
+### Artikel 30 — Inwerkingtreding
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+### Artikel 31 — Citeertitel
+
+Deze wet wordt aangehaald als: Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te
+
+’s-Gravenhage 24 november 2021
+
+Willem-Alexander
+
+De Minister van Financiën,\
+W.B. Hoekstra
+
+De Minister van Justitie en Veiligheid,\
+F.B.J. Grapperhaus
+
+De Staatssecretaris van Economische Zaken en Klimaat – Klimaat en Energie,\
+D. Yeşilgöz-Zegerius
+
+de *zestiende* december 2021
+
+De Minister van Justitie en Veiligheid,\
+F.B.J. Grapperhaus
