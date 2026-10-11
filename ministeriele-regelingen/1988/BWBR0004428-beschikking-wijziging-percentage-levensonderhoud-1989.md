@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging percentage lev
 
 's-Gravenhage 10 november 1988
 
-De\
-staatssecretaris\
+De staatssecretaris voornoemd,\
 V. N. M. Korte-van Hemel

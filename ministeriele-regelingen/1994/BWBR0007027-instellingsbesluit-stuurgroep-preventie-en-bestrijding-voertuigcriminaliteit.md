@@ -82,7 +82,5 @@ lid 2: Er wordt naar gestreefd de stuurgroep op te heffen op het moment dat het 
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

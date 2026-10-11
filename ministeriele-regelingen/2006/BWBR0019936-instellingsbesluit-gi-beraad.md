@@ -127,7 +127,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 2 juni 2006
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+S.M. Dekker

@@ -47,7 +47,5 @@ Dit besluit wordt aangehaald als: Uitvoeringsbesluit verontreinigingsheffing rij
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa

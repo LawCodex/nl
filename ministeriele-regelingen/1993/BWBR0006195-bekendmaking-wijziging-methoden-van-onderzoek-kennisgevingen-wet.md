@@ -30,13 +30,9 @@ Voor de toepassing van artikel 4, eerste lid, van het Kennisgevingsbesluit Wet m
 
 's-Gravenhage 18 oktober 1993
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 J.G.M. Alders
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-B. deVries
+De Minister van Sociale Zaken en Werkgelegenheid,\
+B. de Vries

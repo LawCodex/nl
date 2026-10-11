@@ -83,17 +83,11 @@ Deze onderlinge regeling treedt in werking met ingang van de tweede dag na de da
 
 Deze onderlinge regeling zal met de toelichting in de Staatscourant, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst.
 
-Voor Nederland:\
-Minister\
-Veiligheid en Justitie,\
-I. W.Opstelten
+Voor Nederland:De Minister van Veiligheid en Justitie,\
+I. W. Opstelten
 
-Voor Curaçao:\
-Minister\
-Justitie,\
-N.G.Navarro
+Voor Curaçao:De Minister van Justitie,\
+N.G. Navarro
 
-Voor Sint Maarten:\
-Minister\
-Justitie,\
-D.L.Richardson
+Voor Sint Maarten:De Minister van Justitie,\
+D.L. Richardson

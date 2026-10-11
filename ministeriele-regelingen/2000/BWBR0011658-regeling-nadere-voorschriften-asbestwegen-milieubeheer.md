@@ -62,7 +62,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 22 september 2000
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.P.Pronk
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.P. Pronk

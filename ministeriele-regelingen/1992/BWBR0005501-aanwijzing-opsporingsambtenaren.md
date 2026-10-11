@@ -37,11 +37,9 @@ Deze regeling die in de Staatscourant wordt geplaatst treedt in werking op 1 mei
 
 's-Gravenhage 28 april 1992
 
-De\
-Minister
+De Minister voornoemd,
 
-Het\
-Hoofd van de Directie Politie
+Het Hoofd van de Directie Politie,
 
 Voor deze,
 

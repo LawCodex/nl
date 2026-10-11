@@ -76,7 +76,5 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als Uitvoeringsregeling volledige schadevergoeding (UVS).
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert

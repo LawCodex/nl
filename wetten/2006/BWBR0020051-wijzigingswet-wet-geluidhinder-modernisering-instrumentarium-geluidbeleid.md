@@ -86,10 +86,10 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Beatrix
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P. L. B. A. vanGeel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,\
+P. L. B. A. van Geel
 
 de *eerste* augustus 2006
 
-De Minister van Justitie a.i.\
-S. M.Dekker
+De Minister van Justitie a.i. ,\
+S. M. Dekker

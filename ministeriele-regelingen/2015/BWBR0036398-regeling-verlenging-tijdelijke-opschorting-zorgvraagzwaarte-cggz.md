@@ -57,7 +57,5 @@ Vervallen
 
 Deze regeling treedt in werking op de dag na de uitgifte van de Staatscourant waarin zij met de bijbehorende toelichting wordt geplaatst en werkt terug tot en met 1 januari 2015.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

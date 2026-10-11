@@ -251,7 +251,5 @@ Deze regeling wordt aangehaald als Regeling veiling benzinestations langs rijksw
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

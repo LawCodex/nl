@@ -84,7 +84,5 @@ Dit besluit zal worden gepubliceerd in de Staatscourant.
 
 Den Haag 9 december 2004
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs

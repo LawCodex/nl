@@ -190,13 +190,9 @@ De geregistreerde wordt binnen vier weken na eerste opname in de registratie sch
 
 Dit reglement wordt aangehaald als privacyreglement Kwaliteitsbureau Tolken en Vertalers. Dit reglement zal in de Staatscourant worden geplaatst. Dit reglement treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Staatssecretaris\
-Justitie
+De Staatssecretaris van Justitie,
 
-Namens de\
-Staatssecretaris,
+Namens de Staatssecretaris,
 
-De\
-Directeur Bestuurszaken\
-G.B.Raaphorst
+De Directeur Bestuurszaken,\
+G.B. Raaphorst

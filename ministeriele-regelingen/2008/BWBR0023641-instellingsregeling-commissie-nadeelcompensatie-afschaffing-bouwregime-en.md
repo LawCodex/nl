@@ -101,7 +101,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Instellingsregeling commissie nadeelcompensatie afschaffing bouwregime en kapitaallasten ziekenhuizen.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

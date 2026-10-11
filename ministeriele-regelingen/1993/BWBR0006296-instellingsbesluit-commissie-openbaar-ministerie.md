@@ -67,6 +67,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Den Haag 9 december 1993
 
-De\
-Minister\
-E. M. H.Hirsch Ballin
+De Minister voornoemd,\
+E. M. H. Hirsch Ballin

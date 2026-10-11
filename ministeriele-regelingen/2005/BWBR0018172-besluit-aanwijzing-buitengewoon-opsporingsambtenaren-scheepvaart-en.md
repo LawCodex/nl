@@ -45,11 +45,9 @@ Deze beschikking treedt in werking met ingang van de tweede dag na dagtekening v
 
 Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-Hoofd Bureau Juridische en Beleidsondersteunende Aangelegenheden\
-R.R.Joesoef Djamil
+Hoofd Bureau Juridische en Beleidsondersteunende Aangelegenheden,\
+R.R. Joesoef Djamil

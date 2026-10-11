@@ -145,10 +145,8 @@ Deze regeling wordt aangehaald als: Subsidieregeling indemniteit bruiklenen 2016
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage — behorende bij de Subsidieregeling indemniteit bruiklenen 2016
 

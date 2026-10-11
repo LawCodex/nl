@@ -49,10 +49,8 @@ Deze regeling wordt aangehaald als: Sanctieregeling terrorisme 2002.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-J.J. vanAartsen
+De Minister van Buitenlandse Zaken,\
+J.J. van Aartsen
 
 ## Bijlage
 

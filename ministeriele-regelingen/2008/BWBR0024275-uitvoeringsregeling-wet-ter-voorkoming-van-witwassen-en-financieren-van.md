@@ -156,12 +156,8 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop de Wet ter vo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën a.i.\
-A.Rouvoet
+De Minister van Financiën a.i.,\
+A. Rouvoet
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

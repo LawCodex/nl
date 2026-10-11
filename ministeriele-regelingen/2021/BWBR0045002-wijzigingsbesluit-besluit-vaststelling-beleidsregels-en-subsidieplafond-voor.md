@@ -51,9 +51,7 @@ Het Besluit van de minister voor Buitenlandse Handel en Ontwikkelingssamenwerkin
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de Directeur-Generaal Buitenlandse Economische Betrekkingen,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de Directeur-Generaal Buitenlandse Economische Betrekkingen,\
 H. Schuiling
 
 [^n1]: 3 Stcrt. 2021, nr. 12369.

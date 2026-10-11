@@ -869,10 +869,8 @@ De ontvanger kan een op grond van artikel 70ca van de wet gegeven kwijtschelding
 
 's-Gravenhage 30 mei 1990
 
-De\
-staatssecretaris\
-Financiën\
-M.J.J. vanAmelsvoort
+De staatssecretaris van Financiën,\
+M.J.J. van Amelsvoort
 
 ## Bijlage — behorend bij artikel 1cb
 

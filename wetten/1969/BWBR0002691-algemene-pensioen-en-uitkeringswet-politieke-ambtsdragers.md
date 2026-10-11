@@ -27,7 +27,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de regelingen tot to
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## afdeling Eerste — Algemeen gedeelte
+## Eerste afdeling — Algemeen gedeelte
 
 ### Hoofdstuk 1 — Algemene bepalingen
 
@@ -121,7 +121,7 @@ De bepalingen van deze wet voor het partner- en wezenpensioen zijn van overeenko
 
 Op een bij of krachtens deze wet vastgestelde pensioenregeling zijn de artikelen 47, 53, 55, vierde lid, en 97 van de Pensioenwet van overeenkomstige toepassing.
 
-## afdeling Tweede — Ministers en staatssecretarissen
+## Tweede afdeling — Ministers en staatssecretarissen
 
 ### Hoofdstuk 2 — Begripsomschrijvingen
 
@@ -931,7 +931,7 @@ Vervallen
 
 Vervallen
 
-## afdeling Derde — Leden van de Tweede Kamer der Staten-Generaal
+## Derde afdeling — Leden van de Tweede Kamer der Staten-Generaal
 
 ### Hoofdstuk 9 — Algemeen gedeelte
 
@@ -1413,7 +1413,7 @@ Vervallen
 
 Vervallen
 
-## afdeling Vierde — Gemeenschappelijke bepalingen ten aanzien van de pensioenen bedoeld in de tweede en derde afdeling
+## Vierde afdeling — Gemeenschappelijke bepalingen ten aanzien van de pensioenen bedoeld in de tweede en derde afdeling
 
 ### Hoofdstuk 16
 
@@ -1710,7 +1710,7 @@ Vervallen
 
 Vervallen
 
-## afdeling Vijfde — Commissarissen van de Koning, gedeputeerden, burgemeesters, wethouders en bestuurders van waterschappen
+## Vijfde afdeling — Commissarissen van de Koning, gedeputeerden, burgemeesters, wethouders en bestuurders van waterschappen
 
 ### Hoofdstuk 20 — Algemene bepalingen
 
@@ -2358,7 +2358,7 @@ Vervallen
 
 Vervallen
 
-## afdeling Zesde
+## Zesde afdeling
 
 ### Hoofdstuk 30 — Slotbepalingen
 

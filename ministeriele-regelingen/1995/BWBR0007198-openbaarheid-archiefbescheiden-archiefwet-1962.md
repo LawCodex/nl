@@ -53,13 +53,10 @@ Een beslissing, houdende weigering tot het verlenen van toestemming, wordt met r
 
 Deze beschikking, welke zal worden gepubliceerd in de Nederlandse Staatscourant, werkt terug tot 1 januari 1995.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschappen
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,
 
 namens deze,
 
-De\
-Algemene Rijksarchivaris
+De Algemene Rijksarchivaris,
 
 F.C.J. Ketelaar

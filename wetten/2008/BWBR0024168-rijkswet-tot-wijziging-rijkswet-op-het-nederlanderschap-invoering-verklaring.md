@@ -67,10 +67,10 @@ Gegeven te ’s-Gravenhage 27 juni 2008
 
 Beatrix
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 de *vijftiende* juli 2008
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

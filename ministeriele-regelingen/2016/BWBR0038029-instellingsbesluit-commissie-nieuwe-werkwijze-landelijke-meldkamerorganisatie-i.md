@@ -107,7 +107,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 11 mei 2016
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

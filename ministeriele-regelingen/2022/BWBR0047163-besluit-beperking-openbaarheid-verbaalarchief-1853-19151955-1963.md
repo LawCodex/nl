@@ -52,7 +52,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de aanvulling van de archieven van het Ministerie van Justitie: Verbaalarchief, (1853) 1915–1955 (1963); Kabinetsarchief, (1907) 1915–1940’.
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-M. van Rooij\
-Plaatsvervangend directeur Dienstencentrum
+De Minister van Justitie en Veiligheid, namens deze,\
+M. van Rooij Plaatsvervangend directeur Dienstencentrum

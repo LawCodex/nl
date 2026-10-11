@@ -1,0 +1,97 @@
+---
+title: "Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Subsidieregeling IPCEI Health"
+identifier: "BWBR0049815"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2022-09-05
+last_amended: 2024-06-19
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0049815/2024-06-19"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0049815/2024-06-19_0/xml/BWBR0049815_2024-06-19_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Staats- en bestuursrecht", "Bestuursrecht"]
+retrieved: 2026-10-11
+---
+
+# Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Subsidieregeling IPCEI Health
+
+*Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 5 september 2022, kenmerk 3424323-1033616-GMT, houdende verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake subsidiëring van activiteiten die binnen de reikwijdte van Important Projects of Common European Interest op het gebied van Health vallen (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Subsidieregeling IPCEI Health)*
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+
+Gelet op de artikelen 10:3, 10:4 en 10:12 van de Algemene wet bestuursrecht;
+
+Gezien de instemming van de algemeen directeur van de Rijksdienst voor Ondernemend Nederland;
+
+Besluit:
+
+## Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- a. *Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
+- b. *algemeen directeur:* de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat.
+
+## Artikel 2
+
+Aan de algemeen directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten op grond van de Kaderwet VWS-subsidies en het verrichten van alle benodigde werkzaamheden, waaronder het tekenen van stukken, ter voorbereiding en uitvoering van de Subsidieregeling IPCEI Health.
+
+## Artikel 3
+
+Aan de algemeen directeur wordt:
+
+- a. mandaat verleend tot het beslissen op bezwaarschriften tegen besluiten als bedoeld in artikel 2, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen;
+- b. machtiging verleend ten aanzien van verweer- en beroepschriften in administratieve procedures, het vertegenwoordigen van de Minister in deze procedures en tot het afdoen van alle stukken en het verrichten van alle feitelijke handelingen die daarop betrekking hebben.
+
+## Artikel 4
+
+Bij afwezigheid of verhindering van de algemeen directeur worden, voor de duur van de afwezigheid of verhindering, diens bevoegdheden uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen van een ondermandaat, volmacht of machtiging.
+
+## Artikel 5
+
+1\. De algemeen directeur kan ondermandaat, volmacht en machtiging verlenen aan onder hem ressorterende functionarissen tot het geheel of gedeeltelijk uitoefenen van zijn op grond van dit besluit toegekende bevoegdheden.
+
+2\. Besluiten tot verlening van ondermandaat, volmacht en machtiging worden in afschrift gezonden aan het Ministerie van Volksgezondheid, Welzijn en Sport ten behoeve van het centraal register, bedoeld in artikel 17 van de Mandaatregeling VWS en artikel 18 van de Volmachtregeling VWS.
+
+## Artikel 6
+
+1\. Ondertekening van besluiten en stukken op grond van mandaat, volmacht en machtiging vindt plaats op de volgende wijze:
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+
+namens deze:
+
+(handtekening)
+
+(naam functionaris)
+
+(functie)
+
+2\. Het krachtens mandaat, volmacht of machtiging ondertekenen van automatisch gegenereerde stukken geschiedt als volgt:
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+
+namens deze:
+
+(naam functionaris)
+
+(functie)
+
+Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
+
+3\. In afwijking van het tweede lid kan een automatisch gegenereerd stuk ook met handtekening worden ondertekend. De ondertekening geschiedt dan op de wijze zoals genoemd in het eerste lid.
+
+## Artikel 7
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst en werkt terug tot en met 9 juli 2022.
+
+## Artikel 8
+
+Dit besluit wordt aangehaald als: Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Subsidieregeling IPCEI Health.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.J. Kuipers

@@ -37,7 +37,5 @@ Besluit:
 
 's-Gravenhage 29 september 1982
 
-De\
-Minister\
-Financiën\
+De Minister van Financiën,\
 Van der Stee.

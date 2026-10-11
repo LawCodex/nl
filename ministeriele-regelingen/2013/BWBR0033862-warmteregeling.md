@@ -348,7 +348,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 4 september 2013
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp

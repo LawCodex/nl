@@ -37,7 +37,5 @@ Besluit:
 
 's-Gravenhage 26 september 1984
 
-De\
-staatssecretaris\
-Financiën\
+De staatssecretaris van Financiën,\
 H. E. Koning

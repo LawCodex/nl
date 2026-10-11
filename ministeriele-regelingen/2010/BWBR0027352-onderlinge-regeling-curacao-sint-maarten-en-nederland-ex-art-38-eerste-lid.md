@@ -255,22 +255,14 @@ Deze regeling wordt binnen 30 dagen na ondertekening geplaatst in de Staatscoura
 
 Willemstad 11 februari 2010
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie van Nederland,\
+E.M.H. Hirsch Ballin
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-A.Th.B.Bijleveld-Schouten
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van Nederland,\
+A.Th.B. Bijleveld-Schouten
 
-De\
-gedeputeerde\
-Constitutionele Zaken\
-Z.A.M.Jesus-Leito
+De gedeputeerde van Constitutionele Zaken van Curaçao,\
+Z.A.M. Jesus-Leito
 
-De\
-gedeputeerde\
-Constitutionele Zaken\
-W.Marlin
+De gedeputeerde van Constitutionele Zaken van Sint Maarten,\
+W. Marlin

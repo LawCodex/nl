@@ -69,7 +69,5 @@ Dit besluit wordt aangehaald als: Machtigingsbesluit EC O&P Infrastructuur en Mi
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus

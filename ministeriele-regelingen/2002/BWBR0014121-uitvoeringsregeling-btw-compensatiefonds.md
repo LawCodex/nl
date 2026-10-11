@@ -148,7 +148,5 @@ Deze regeling treedt in werking op 1 januari 2003. Zij kan worden aangehaald als
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-S.R.A. vanEijck
+De Staatssecretaris van Financiën,\
+S.R.A. van Eijck

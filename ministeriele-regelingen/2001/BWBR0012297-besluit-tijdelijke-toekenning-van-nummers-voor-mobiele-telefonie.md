@@ -43,7 +43,5 @@ Dit besluit wordt aangehaald als: Besluit tijdelijke toekenning van nummers voor
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.M. deVries
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.M. de Vries

@@ -116,8 +116,5 @@ Deze regeling kan worden aangehaald als: Regeling openbaarheid van bestuur, Land
 
 's-Gravenhage 9 december 1992
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-plv. secretaris-generaal\
-M.Brabers
+De Minister van Landbouw, Natuurbeheer en Visserij, voor deze: De plv. secretaris-generaal,\
+M. Brabers

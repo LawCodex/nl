@@ -49,12 +49,8 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 januari 2016
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem

@@ -60,7 +60,5 @@ Bij de omrekening van bedragen van guldens in euro’s:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

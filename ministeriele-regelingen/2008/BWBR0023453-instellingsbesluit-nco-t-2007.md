@@ -62,7 +62,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 1 februari 2008
 
-De\
-Staatssecretaris\
-Economische Zaken\
-F.Heemskerk
+De Staatssecretaris van Economische Zaken,\
+F. Heemskerk

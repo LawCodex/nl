@@ -120,7 +120,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 28 oktober 2011
 
-De\
-Staatssecretaris\
-Economische Zaken, Landbouw en Innovatie,\
-H.Bleker
+De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,\
+H. Bleker

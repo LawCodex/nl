@@ -212,10 +212,8 @@ Vervallen
 
 's-Gravenhage 17 februari 1993
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. G. M.Alders
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. G. M. Alders
 
 ## Bijlage 1 — behorende bij artikel 13, eerste lid, van de Uitvoeringsregeling Stortbesluit bodembescherming
 

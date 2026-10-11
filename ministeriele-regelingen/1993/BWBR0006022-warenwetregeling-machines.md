@@ -80,15 +80,11 @@ Vervallen
 
 's-Gravenhage 22 juni 1993
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-B. deVries
+De Minister van Sociale Zaken en Werkgelegenheid,\
+B. de Vries
 
-De\
-Staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-H.J.Simons
+De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+H.J. Simons
 
 ## Bijlage 1 — behorend bij Artikel 2a
 

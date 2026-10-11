@@ -370,10 +370,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 14 juli 2008
 
-De\
-Staatssecretaris\
-Economische Zaken\
-F.Heemskerk
+De Staatssecretaris van Economische Zaken,\
+F. Heemskerk
 
 ## Bijlage 1 — Exameneisen ten aanzien van examens in de categorie N
 

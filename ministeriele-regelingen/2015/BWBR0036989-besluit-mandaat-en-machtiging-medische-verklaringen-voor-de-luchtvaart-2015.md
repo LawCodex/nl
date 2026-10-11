@@ -103,10 +103,8 @@ Dit besluit wordt aangehaald als: Besluit mandaat en machtiging medische verklar
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus
 
 ## Bijlage — bedoeld in artikel 3, eerste lid, van het Besluit mandaat en machtiging medische verklaringen voor de luchtvaart 2015
 

@@ -37,6 +37,5 @@ De Minister van Verkeer en Waterstaat kan tot uiterlijk 1 januari 1990 ontheffin
 
 25 april 1984
 
-De\
-Minister\
-N.Smit-Kroes
+De Minister voornoemd,\
+N. Smit-Kroes

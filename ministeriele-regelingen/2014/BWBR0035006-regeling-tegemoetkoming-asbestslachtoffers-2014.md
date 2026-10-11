@@ -294,10 +294,8 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Den Haag 21 maart 2014
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher.
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher.
 
 ## Bijlage 1 — behorende bij artikel 1, eerste lid, van de Regeling tegemoetkoming asbestslachtoffers 2014
 

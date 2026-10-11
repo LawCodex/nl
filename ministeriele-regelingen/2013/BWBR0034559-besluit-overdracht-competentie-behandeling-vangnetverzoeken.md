@@ -53,9 +53,5 @@ gevolgd door naam en functie van de (onder)gemandateerde functionaris.
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-De\
-Staatssecretaris\
-Financiën,\
-Namens deze,\
-H.G.Roodbeen\
-directeur IFZ
+De Staatssecretaris van Financiën,Namens deze,\
+H.G. Roodbeendirecteur IFZ

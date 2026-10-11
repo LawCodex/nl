@@ -110,10 +110,8 @@ Deze regeling wordt aangehaald als: Regeling goederen voor tweeërlei gebruik Ir
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-E.M.J.Ploumen
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
+E.M.J. Ploumen
 
 ## Bijlage — behorende bij de Regeling goederen voor tweeërlei gebruik Irak
 

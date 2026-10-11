@@ -47,7 +47,5 @@ De structurele taakstellingen per 1 januari 2012 op basis van de aanwijzing van 
 
 Van deze aanwijzing wordt door plaatsing met de toelichting in de Staatscourant mededeling gedaan.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

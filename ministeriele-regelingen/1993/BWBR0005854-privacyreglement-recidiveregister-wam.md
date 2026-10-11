@@ -33,15 +33,11 @@ Dit besluit en het bijbehorende privacyreglement worden bekend gemaakt in Staats
 
 Den Haag 19 januari 1993
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J.R.H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J.R.H. Maij-Weggen
 
 ## Privacyreglement Recidiveregister WAM, vastgesteld bij besluit van 19 januari 1993
 

@@ -87,7 +87,5 @@ De beschikking van de staatssecretaris van Financiën van 30 mei 1988, nr. 088-1
 
 3\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty's die op of na 1 januari 1988 zijn betaald of worden betaald.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

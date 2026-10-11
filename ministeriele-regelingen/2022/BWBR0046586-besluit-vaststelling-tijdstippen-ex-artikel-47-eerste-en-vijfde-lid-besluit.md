@@ -41,6 +41,4 @@ Dit besluit treedt in werking met ingang van de eerste dag na publicatie in de S
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, Digitalisering en Koninkrijksrelaties\
-namens deze,\
-Algemeen Directeur Rijksdienst voor Identiteitsgegevens
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, Digitalisering en Koninkrijksrelaties namens deze, Algemeen Directeur Rijksdienst voor Identiteitsgegevens

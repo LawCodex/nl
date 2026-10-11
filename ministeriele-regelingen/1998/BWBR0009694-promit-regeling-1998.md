@@ -206,7 +206,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 Den Haag 15 juni 1998
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 A. Jorritsma-Lebbink

@@ -71,10 +71,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Verkeer en Waterstaat\
-C. M. P. S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C. M. P. S. Eurlings
 
 de *vijftiende* mei 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -126,7 +126,5 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ’s-Gravenhage 20 juli 2015,
 
-De\
-Minister\
-Veiligheid en Justitie\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

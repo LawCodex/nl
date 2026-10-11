@@ -47,11 +47,8 @@ Deze regeling kan worden aangehaald als Vervangingsbesluit personele archiefbesc
 
 Deze regeling wordt met bijlage in de Staatscourant geplaatst met uitzondering van het Handboek Digitale Vervanging Microfilms Personeelsgegevens dat ter inzage wordt gelegd bij de Bibliotheek van de afdeling Document- en informatiemanagement van het ministerie van Sociale Zaken en Werkgelegenheid.
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-namens deze,\
-I.Nijboer
+De Minister van Sociale Zaken en Werkgelegenheidnamens deze,\
+I. Nijboer
 
 ## Bijlage
 

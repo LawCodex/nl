@@ -51,12 +51,10 @@ Dit besluit wordt aangehaald als: Mandaatbesluit inzake beslissingen op bezwaar 
 
 ’s-Gravenhage 22 september 1999
 
-De\
-Minister
+De Minister voornoemd,
 
 namens deze,
 
-de\
-directeur rechtsbijstand en juridische beroepen
+de directeur rechtsbijstand en juridische beroepen,
 
 J.M. Schoenmakers, plv

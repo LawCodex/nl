@@ -113,7 +113,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 Den Haag 29 november 2016
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert

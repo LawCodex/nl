@@ -41,6 +41,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingpercentage leve
 
 's-Gravenhage 22 november 1990
 
-De\
-Staatssecretaris\
+De Staatssecretaris voornoemd,\
 A. Kosto

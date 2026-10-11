@@ -96,13 +96,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 26 maart 2007
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven
 
-het\
-Algemeen Bestuur van NWO\
-namens deze:\
-voorzitter van het Algemeen Bestuur van NWO\
-P.Nijkamp
+het Algemeen Bestuur van NWO, namens deze:de voorzitter van het Algemeen Bestuur van NWO,\
+P. Nijkamp

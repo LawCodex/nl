@@ -78,7 +78,5 @@ Het besluit van 21 augustus 1997 (Stcrt. 1997, 167) en het besluit van 10 mei 20
 
 Den Haag 4 oktober 2007
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 G. ter Horst

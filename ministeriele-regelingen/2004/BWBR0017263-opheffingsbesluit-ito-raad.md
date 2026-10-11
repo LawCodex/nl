@@ -33,7 +33,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 30 september 2004
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes

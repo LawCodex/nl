@@ -36,8 +36,5 @@ Ten aanzien van personen aan wie voor de datum van de inwerkingtreding van deze 
 
 Deze regeling, die zal worden gepubliceerd in de Staatscourant, treedt in werking op 1 januari 1994.
 
-De\
-Minister\
-Binnenlandse Zaken\
-Directeur-generaal Management en Personeelsbeleid,\
+De Minister van Binnenlandse Zaken, voor deze, de Directeur-generaal Management en Personeelsbeleid,\
 H. A. P. M. Pont

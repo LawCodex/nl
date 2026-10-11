@@ -27,7 +27,7 @@ Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is een nieuw Wetboe
 
 Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken het Wetboek van Strafrecht.
 
-## Boek Eerste — Algemene bepalingen
+## Eerste Boek — Algemene bepalingen
 
 ### Titel I — Omvang van de werking van de strafwet
 
@@ -553,7 +553,7 @@ Vervallen
 
 ### Titel IIA — Maatregelen
 
-#### afdeling Eerste — Onttrekking aan het verkeer, ontneming van het wederrechtelijk verkregen voordeel en schadevergoeding
+#### Eerste afdeling — Onttrekking aan het verkeer, ontneming van het wederrechtelijk verkregen voordeel en schadevergoeding
 
 ##### Artikel 36a
 
@@ -628,7 +628,7 @@ Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verda
 
 5\. De rechter bepaalt bij de oplegging van de maatregel de duur volgens welke met toepassing van artikel 6:4:20 van het Wetboek van Strafvordering gijzeling kan worden toegepast. Bij het bepalen van de duur wordt voor elke volle € 25 van het opgelegde bedrag niet meer dan één dag gerekend. De duur beloopt ten hoogste één jaar.
 
-#### afdeling Tweede — Terbeschikkingstelling
+#### Tweede afdeling — Terbeschikkingstelling
 
 ##### Artikel 37
 
@@ -757,7 +757,7 @@ Vervallen
 
 Vervallen
 
-#### afdeling Derde — Plaatsing in een inrichting voor stelselmatige daders
+#### Derde afdeling — Plaatsing in een inrichting voor stelselmatige daders
 
 ##### Artikel 38m
 
@@ -828,7 +828,7 @@ Vervallen
 
 Vervallen
 
-#### afdeling Vierde — Gedragsbeïnvloedende en vrijheidsbeperkende maatregelen
+#### Vierde afdeling — Gedragsbeïnvloedende en vrijheidsbeperkende maatregelen
 
 ##### Artikel 38v
 
@@ -1842,7 +1842,7 @@ Waar van huwelijk of echtgenoot wordt gesproken wordt, met uitzondering van arti
 
 De bepalingen van de Titels I-VIII A van dit Boek zijn ook toepasselijk op feiten waarop bij andere wetten of verordeningen straf is gesteld, tenzij de wet anders bepaalt.
 
-## Boek Tweede — Misdrijven
+## Tweede Boek — Misdrijven
 
 ### Titel I — Misdrijven tegen de veiligheid van de staat
 
@@ -4921,7 +4921,7 @@ Vervallen
 
 Vervallen
 
-## Boek Derde — Overtredingen
+## Derde Boek — Overtredingen
 
 ### Titel I — Overtredingen betreffende de algemene veiligheid van personen en goederen
 

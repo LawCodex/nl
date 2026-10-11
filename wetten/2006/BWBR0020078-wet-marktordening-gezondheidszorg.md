@@ -1663,10 +1663,10 @@ Gegeven te ’s-Gravenhage 7 juli 2006
 
 Beatrix
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-J. F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport ,\
+J. F. Hoogervorst
 
 de *eenentwintigste* september 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

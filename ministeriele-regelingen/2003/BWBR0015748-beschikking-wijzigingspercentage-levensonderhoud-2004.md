@@ -39,7 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingspercentage lev
 
 Den Haag 20 oktober 2003
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner

@@ -182,7 +182,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in Oostenrijk, (1975) 1975–2013 (2014)’.
 
-De Minister van Buitenlandse Zaken,\
-Voor deze,\
-N. van Heezik\
-Hoofd Informatiemanagement Directie Bedrijfsvoering
+De Minister van Buitenlandse Zaken, Voor deze,\
+N. van Heezik Hoofd Informatiemanagement Directie Bedrijfsvoering

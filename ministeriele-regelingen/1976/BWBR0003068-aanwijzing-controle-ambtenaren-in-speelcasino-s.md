@@ -45,12 +45,8 @@ te bepalen dat deze beschikking zal worden geplaatst in de Nederlandse Staatscou
 
 's-Gravenhage 9 november 1976
 
-De\
-Staatssecretaris\
-Justitie\
-H. J.Zeevalking
+De Staatssecretaris van Justitie,\
+H. J. Zeevalking
 
-De\
-Staatssecretaris\
-Economische Zaken\
-Th. M.Hazekamp
+De Staatssecretaris van Economische Zaken,\
+Th. M. Hazekamp

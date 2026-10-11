@@ -60,10 +60,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 23 november 2006
 
-De\
-Minister\
-Economische Zaken\
-J.G.Wijn
+De Minister van Economische Zaken,\
+J.G. Wijn
 
 ## Bijlage I
 

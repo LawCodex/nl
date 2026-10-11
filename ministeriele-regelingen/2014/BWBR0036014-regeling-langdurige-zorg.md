@@ -1567,10 +1567,8 @@ Deze regeling wordt aangehaald als: Regeling langdurige zorg.
 
 2\. Met ingang van 1 januari 2016 vervalt artikel 2.3, zesde lid.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn
 
 ## Bijlage A — bij artikel 2.1 van de Regeling langdurige zorg
 

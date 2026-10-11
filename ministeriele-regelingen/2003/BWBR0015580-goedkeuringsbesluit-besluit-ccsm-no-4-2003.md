@@ -33,7 +33,5 @@ Het besluit CCSM no. 4-2003 inzake opleidingseisen klinische genetica goed te ke
 
 Dit besluit zal samen met het desbetreffende besluit van het Centraal College Medische Specialismen worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport\
+J.F. Hoogervorst

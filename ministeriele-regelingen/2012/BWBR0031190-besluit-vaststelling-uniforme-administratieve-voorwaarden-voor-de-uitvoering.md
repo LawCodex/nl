@@ -29,15 +29,11 @@ Deze beschikking zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 19 januari 2012
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.W.E.Spies
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W.E. Spies
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen
 
 ## Bijlage 1
 

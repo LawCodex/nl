@@ -39,7 +39,5 @@ Dit besluit treedt in werking op 1 april 2012 en werkt terug tot en met 1 maart 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

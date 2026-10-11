@@ -103,9 +103,7 @@ Afschrift van deze beschikking, die wordt geplaatst in de Nederlandse Staatscour
 
 's-Gravenhage 19 september 1989
 
-De\
-minister\
-Verkeer en Waterstaat\
+De minister van Verkeer en Waterstaat,\
 N. Smit-Kroes
 
 ## Bijlage — Tarieven voor het normale verkeersgebruik van de havens van Zeehaven IJmuiden N.V. voor de daarbij vermelde termijnen

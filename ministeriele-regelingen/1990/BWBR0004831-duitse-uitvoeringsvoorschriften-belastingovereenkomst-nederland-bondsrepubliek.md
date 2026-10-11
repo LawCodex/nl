@@ -73,12 +73,9 @@ De beschikking van de staatssecretaris van Financiën van 3 mei 1989, nr. IFZ89/
 - a. portfoliodividenden die betaald of betaalbaar zijn gesteld op of na 1 januari 1958;
 - b. deelnemingsdividenden, royalty's en soortgelijke vergoedingen die betaald of betaalbaar zijn gesteld op of na 1 januari 1956.
 
-De\
-staatssecretaris\
-Financiën
+De staatssecretaris van Financiën,
 
 Namens deze,
 
-De\
-Directeur-Generaal voor Fiscale Zaken,\
+De Directeur-Generaal voor Fiscale Zaken,\
 A. Schoemaker

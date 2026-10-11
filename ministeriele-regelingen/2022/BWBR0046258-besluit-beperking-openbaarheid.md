@@ -41,10 +41,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van de archieven van de persoonsdossiers van de voormalige Centrale Veiligheidsdienst en van de voormalige Binnenlandse Veiligheidsdienst over de jaren 1946–1998.
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
-Voor deze,\
-E.S.M. Akerboom\
-Directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, Voor deze,\
+E.S.M. Akerboom Directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst
 
 ## Bijlage — bij Besluit Beperking Openbaarheid van 1 februari 2022, (kenmerk 92623a44- orl-l.0) behorende bij Staatscourant 2022, nr. 3081
 

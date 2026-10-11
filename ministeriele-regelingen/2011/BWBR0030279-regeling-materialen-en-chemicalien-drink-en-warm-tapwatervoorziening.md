@@ -296,10 +296,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 29 juni 2011
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma
 
 ## Bijlage A — – Productomschrijving en beoordeling (bijlage behorend bij de Regeling materialen en chemicaliën drink- en warm tapwatervoorziening)
 

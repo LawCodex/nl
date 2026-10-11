@@ -120,22 +120,16 @@ Aan het Landelijk instituut worden jaarlijks bijdragen uit 's-Rijks kas verleend
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 voor deze,
 
-De\
-directeur-generaal Politie en Criminaliteitsbestrijding\
-J.J.H.Suyver
+De directeur-generaal Politie en Criminaliteitsbestrijding\
+J.J.H. Suyver
 
-De\
-Minister\
-Binnenlandse Zaken
+De Minister van Binnenlandse Zaken,
 
 voor deze,
 
-De\
-directeur-generaal voor Openbare Orde en Veiligheid\
-H.C.J.L.Borghouts
+De directeur-generaal voor Openbare Orde en Veiligheid,\
+H.C.J.L. Borghouts

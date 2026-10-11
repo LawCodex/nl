@@ -59,7 +59,5 @@ Dit besluit wordt aangehaald als: Vergoedingenbesluit AWTI.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker

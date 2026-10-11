@@ -43,7 +43,5 @@ Deze regeling kan worden aangehaald als Regeling Aangiftebiljet heffing industri
 
 's-Gravenhage 19 december 1986
 
-De\
-minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
 E. H. T. M. Nijpels

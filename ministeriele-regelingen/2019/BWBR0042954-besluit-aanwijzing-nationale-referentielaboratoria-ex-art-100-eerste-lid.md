@@ -59,10 +59,8 @@ Dit besluit wordt bekend gemaakt door toezending aan de in de bijlage bij dit be
 
 ’s-Gravenhage 13 december 2019
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-J.C. Goet\
-Secretaris-generaal
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+J.C. Goet Secretaris-generaal
 
 ## Bijlage — bij het aanwijzingsbesluit: NRL’s in Nederland (https://ec.europa.eu/food/ref-labs\_en 20171103) 15-12-2019
 

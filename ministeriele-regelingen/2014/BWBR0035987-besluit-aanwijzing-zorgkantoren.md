@@ -68,7 +68,5 @@ Dit besluit treedt in werking met ingang van 1 januari 2015.
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

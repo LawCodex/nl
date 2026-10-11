@@ -41,12 +41,8 @@ Deze regeling zal met de toelichting en bijlagen in de Staatscourant worden gepl
 
 ’s-Gravenhage 4 december 1995
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-A.P.W.Melkert
+De Minister van Sociale Zaken en Werkgelegenheid,\
+A.P.W. Melkert
 
-De\
-Minister\
-Binnenlandse Zaken\
-H.F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H.F. Dijkstal

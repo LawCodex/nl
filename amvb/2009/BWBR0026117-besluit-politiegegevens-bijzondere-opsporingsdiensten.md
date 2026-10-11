@@ -103,28 +103,28 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
-De Minister van Defensie\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. M. Cramer
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
-De Staatssecretaris van Financiën\
-J. C. deJager
+De Staatssecretaris van Financiën,\
+J. C. de Jager
 
-De Minister van Sociale Zaken en Werkgelegenheid\
-J. P. H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J. P. H. Donner
 
 de *zestiende* juli 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -47,10 +47,8 @@ Deze regeling treedt in werking op 1 april 2015.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld
 
 ## Bijlage 1 — als bedoeld in artikel 1 van de Regeling criteria bijproducten kaderrichtlijn afvalstoffen
 

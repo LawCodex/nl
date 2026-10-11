@@ -31,14 +31,10 @@ Het bedrag van de maximale aanvangswaarde van de investering, waarvoor herverzek
 
 Deze regeling treedt in werking met ingang van 15 oktober 1997.
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 G. Zalm
 
-De\
-Staatssecretaris\
-Economische Zaken
+De Staatssecretaris van Economische Zaken,
 
 A. Van Dok-Van Weele

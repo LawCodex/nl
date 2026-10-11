@@ -118,10 +118,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 10 juni 2013
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok
 
 ## Bijlage I
 

@@ -42,7 +42,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 K.H. Ollongren
 
-## Bijlage
+## Bijlage bij de Regeling Controleprotocol WNT 2019
 
 ### Controleprotocol WNT 2019
 

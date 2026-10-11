@@ -43,14 +43,10 @@ Deze beschikking wordt in de Staatscourant bekend gemaakt en treedt in werking m
 
 's-Gravenhage 28 december 1978
 
-De\
-Staatssecretaris\
-Justitie
+De Staatssecretaris van Justitie,
 
 E. A. Haars
 
-De\
-Staatssecretaris\
-Economische Zaken
+De Staatssecretaris van Economische Zaken,
 
 Th. M. Hazekamp

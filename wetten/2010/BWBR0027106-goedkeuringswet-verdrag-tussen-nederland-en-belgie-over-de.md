@@ -55,13 +55,13 @@ Gegeven te
 
 Beatrix
 
-De Staatssecretaris van Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak
 
-De Minister van Buitenlandse Zaken\
-M. J. M.Verhagen
+De Minister van Buitenlandse Zaken,\
+M. J. M. Verhagen
 
 de *tweeëntwintigste* januari 2010
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

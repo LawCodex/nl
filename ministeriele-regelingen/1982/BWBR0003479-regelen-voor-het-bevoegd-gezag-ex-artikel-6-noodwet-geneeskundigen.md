@@ -61,6 +61,5 @@ Indien het bevoegd gezag van oordeel is dat met inschakeling van de in zijn ambt
 
 Leidschendam 1 februari 1982
 
-De\
-Minister\
+De Minister voornoemd,\
 M. H. M. F. Gardeniers-Berendsen

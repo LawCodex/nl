@@ -45,7 +45,5 @@ Deze regeling treedt in werking met ingang van de dag waarop de wet tot Wijzigin
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

@@ -43,11 +43,7 @@ Het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerkin
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-Namens deze:\
-De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
-R.V.M.Jones-Bos
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,Namens deze:De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+R.V.M. Jones-Bos
 
 [^n1]: 1 Stcrt. 2013, nr. 22108

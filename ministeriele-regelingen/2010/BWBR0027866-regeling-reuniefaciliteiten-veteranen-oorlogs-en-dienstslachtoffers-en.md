@@ -118,10 +118,8 @@ Deze Regeling wordt aangehaald als ‘Regeling reüniefaciliteiten veteranen, oo
 
 Deze Regeling wordt met toelichting gepubliceerd in de serie Ministeriele Publicaties (MP 32-300). Deze Regeling wordt met toelichting gepubliceerd in de Staatscourant.
 
-De\
-Staatssecretaris\
-Defensie,\
-J.G. deVries
+De Staatssecretaris van Defensie,\
+J.G. de Vries
 
 ## Bijlage I — Normbedragen standaardarrangement (ad artikel 5, Regeling reüniefaciliteiten veteranen, oorlogs- en dienstslachtoffers en postactieven)
 

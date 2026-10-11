@@ -46,12 +46,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-secretaris-generaal\
-Buitenlandse Zaken,\
-R.Jones-Bos
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens deze,de secretaris-generaal van het ministerie van Buitenlandse Zaken,\
+R. Jones-Bos
 
 [^n1]: 1 Stcrt. 2015, nr. 11899

@@ -23,15 +23,11 @@ Gelet op resolutie MEPC.167(56) van de Mariene Milieucommissie van de Internatio
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De voorschriften 15 en 34 van Bijlage I van het Verdrag wat betreft lozingen in bijzondere gebieden worden met ingang van 1 augustus 2008 van toepassing in het gebied van de Zuidelijke Zuid-Afrikaanse wateren, bedoeld in voorschrift 1 van die Bijlage.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-namens deze:\
-Secretaris-Generaal\
-W.J.Kuijken
+De Staatssecretaris van Verkeer en Waterstaat, namens deze: de Secretaris-Generaal,\
+W.J. Kuijken

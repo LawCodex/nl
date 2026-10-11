@@ -39,7 +39,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 3 juni 2002
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals

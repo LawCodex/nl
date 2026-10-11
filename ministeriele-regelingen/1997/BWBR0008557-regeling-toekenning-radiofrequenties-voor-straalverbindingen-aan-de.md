@@ -66,7 +66,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 19 februari 1997
 
-De\
-Minister\
-Verkeer en Waterstaa\
+DeMinister van Verkeer en Waterstaat,\
 A. Jorritsma-Lebbink

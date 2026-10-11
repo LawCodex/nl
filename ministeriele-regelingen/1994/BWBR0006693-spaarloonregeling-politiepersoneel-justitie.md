@@ -119,7 +119,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 25 mei 1994
 
-De\
-Minister\
-Justitie\
-Directeur-Generaal Politie en Criminaliteitsbestrijding
+De Minister van Justitie, Namens de Minister, De Directeur-Generaal Politie en Criminaliteitsbestrijding

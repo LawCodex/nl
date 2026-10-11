@@ -80,7 +80,5 @@ De productie in ADL-woningen die voor de eerste maal voor bewoning beschikbaar z
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.L.L.E.Veldhuijzen van Zanten-Hyllner
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.L.L.E. Veldhuijzen van Zanten-Hyllner

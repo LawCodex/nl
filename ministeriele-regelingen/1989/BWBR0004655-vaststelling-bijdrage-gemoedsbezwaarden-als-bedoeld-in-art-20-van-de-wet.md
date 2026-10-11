@@ -46,12 +46,9 @@ Deze regeling wordt in de Staatscourant geplaatst.
 
 's-Gravenhage 29 november 1989
 
-De\
-minister\
-Financiën
+De minister van Financiën,
 
 namens deze:
 
-De\
-plv. directeur Binnenlands Geldwezen\
-A. P.Ranner
+De plv. directeur Binnenlands Geldwezen\
+A. P. Ranner

@@ -94,7 +94,5 @@ uitvoering van de activiteiten genoemd in artikel 2, berust bij het bestuur van 
 
 2\. Afschrift van deze beschikking, die in de Staatscourant zal worden gepubliceerd, zal worden toegezonden aan het NGB, het Georganiseerd Overleg Burgemeesters en de Vereniging van Nederlandse Gemeenten.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst

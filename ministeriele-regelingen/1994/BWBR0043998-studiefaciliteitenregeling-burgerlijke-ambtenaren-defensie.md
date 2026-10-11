@@ -99,8 +99,5 @@ De regeling treedt in werking met ingang van 1 april 1994.
 
 Deze regeling wordt aangehaald als: *Studiefaciliteitenregeling burgerlijke ambtenaren defensie*.
 
-De Minister van Defensie,\
-Voor deze\
-Het Hoofd van de afdeling Arbeidsvoorwaardenbeleid\
-H.H.J. Ploeg\
-kapitein ter zee (A)
+De Minister van Defensie, Voor deze Het Hoofd van de afdeling Arbeidsvoorwaardenbeleid\
+H.H.J. Ploeg kapitein ter zee (A)

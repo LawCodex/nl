@@ -202,10 +202,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 9 juli 2014
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert
 
 ## Bijlage A — behorende bij artikel 2, eerste lid, van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters
 

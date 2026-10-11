@@ -162,7 +162,5 @@ Dit besluit ligt voor iedereen ter inzage bij:
 
 's-Gravenhage 21 april 1986
 
-De\
-minister\
-Financiën\
-H. O. C. R.Ruding
+De minister van Financiën,\
+H. O. C. R. Ruding

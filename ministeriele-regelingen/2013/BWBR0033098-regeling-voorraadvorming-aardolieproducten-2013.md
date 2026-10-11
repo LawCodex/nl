@@ -71,10 +71,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 22 maart 2013
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp
 
 ## Bijlage 1 — Bijlage als bedoeld in artikel 2, eerste lid, van de Regeling voorraadvorming aardolieproducten 2013
 

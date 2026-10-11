@@ -237,7 +237,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 11 oktober 2010
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
-J.C.Huizinga-Heringa
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.C. Huizinga-Heringa

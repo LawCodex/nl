@@ -331,15 +331,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 6 februari 1997
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink
 
-De\
-Staatssecretaris\
-Defensie\
-J.C.Gmelich Meijling
+De Staatssecretaris van Defensie,\
+J.C. Gmelich Meijling
 
 ## Bijlage 1 — Bepaling kostenbegrenzingswaarde geluidwerende voorzieningen luchtvaartgeluid als bedoeld in artikel 1 van de regeling
 

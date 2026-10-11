@@ -86,13 +86,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 19 juni 1996
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij
+De Minister van Landbouw, Natuurbeheer en Visserij,
 
 Voor deze,
 
-De\
-directeur-generaal\
-Landbouw, Natuurbeheer en Visserij\
-J.F. deLeeuw
+De directeur-generaalLandbouw, Natuurbeheer en Visserij,\
+J.F. de Leeuw

@@ -27,7 +27,5 @@ De Directeur-Generaal der Belastingen en de Directeur Algemene Fiscale Zaken aan
 
 De Directeur-Generaal der Belastingen en de Directeur Algemene Fiscale Zaken te machtigen om met betrekking tot het nemen van besluiten ingevolge de artikelen 5 en 7 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen, ondermandaat te verlenen aan daartoe aan te wijzen functionarissen.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

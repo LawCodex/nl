@@ -77,12 +77,8 @@ Deze regeling wordt aangehaald als: Regeling inzake de SAR-dienst 1994. Deze reg
 
 's-Gravenhage 26 augustus 1994
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink
 
-De\
-Minister\
-Defensie\
-J. J. C.Voorhoeve
+De Minister van Defensie,\
+J. J. C. Voorhoeve

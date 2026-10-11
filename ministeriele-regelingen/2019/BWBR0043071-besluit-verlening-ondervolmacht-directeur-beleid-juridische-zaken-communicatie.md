@@ -73,7 +73,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 De besluit zal in de Staatscourant worden geplaatst.
 
 De Inspecteur-generaal van de Inspectie Gezondheidszorg en Jeugd,\
-J.A.A.M. van Diemen-Steenvoorde\
-Voor akkoord,\
-De Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport,\
+J.A.A.M. van Diemen-Steenvoorde Voor akkoord, De Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport,\
 E. Gerritsen

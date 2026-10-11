@@ -61,7 +61,5 @@ Deze regeling wordt aangehaald als: Regeling mobiele-objectenregister.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings

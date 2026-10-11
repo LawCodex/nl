@@ -98,7 +98,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 augustus 2005
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner

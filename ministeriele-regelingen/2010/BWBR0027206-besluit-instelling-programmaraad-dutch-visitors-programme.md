@@ -57,7 +57,5 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-M.J.M.Verhagen
+De Minister van Buitenlandse Zaken,\
+M.J.M. Verhagen

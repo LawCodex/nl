@@ -104,10 +104,8 @@ Deze regeling wordt aangehaald als: ITS-Regeling.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus
 
 ## Bijlage 1 — behorende bij artikel 3.1 van de ITS-regeling
 

@@ -470,10 +470,8 @@ Deze regeling wordt aangehaald als: Regeling erkenningen luchtwaardigheid 2008.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
 ## Bijlage A — Erkenningsvoorwaarden voor een erkend inspecteur
 

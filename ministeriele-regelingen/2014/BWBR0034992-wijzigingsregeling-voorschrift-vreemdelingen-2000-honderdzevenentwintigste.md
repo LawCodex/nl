@@ -47,7 +47,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 21 maart 2014
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven.
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven.

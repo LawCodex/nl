@@ -56,7 +56,5 @@ Voor het verlenen van toegang tot muziekuitvoeringen en toneelvoorstellingen (op
 
 's-Gravenhage 29 december 1978
 
-De\
-Staatssecretaris\
-Financiën\
-A.Nooteboom
+De Staatssecretaris van Financiën,\
+A. Nooteboom

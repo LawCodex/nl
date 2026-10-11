@@ -101,12 +101,9 @@ Dit besluit zal worden gepubliceerd in de Staatscourant.
 
 ’s-Gravenhage 12 januari 1996
 
-De\
-Staatssecretaris\
-Defensie
+De Staatssecretaris van Defensie,
 
 voor deze,
 
-De\
-Directeur-Generaal Personeel\
-W.J.M.Bunnik
+De Directeur-Generaal Personeel,\
+W.J.M. Bunnik

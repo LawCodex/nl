@@ -45,10 +45,8 @@ Dit besluit wordt aangehaald als: Besluit vaststelling beleidskader inzake subsi
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker
 
 ## Bijlage
 

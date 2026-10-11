@@ -112,12 +112,8 @@ Dit besluit wordt aangehaald als: besluit Landelijke commissie medische aspecten
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Justitie\
-N.A.Kalsbeek
+De Staatssecretaris van Justitie,\
+N.A. Kalsbeek
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers

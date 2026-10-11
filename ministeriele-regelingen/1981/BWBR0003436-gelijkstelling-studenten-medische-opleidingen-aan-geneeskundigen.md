@@ -46,6 +46,5 @@ De in het eerste artikel onder a., b., c. en d. bedoelde personen zijn, voor zov
 
 Leidschendam 21 september 1981
 
-De\
-Minister\
+De Minister voornoemd,\
 M. H. M. F. Gardeniers-Berendsen

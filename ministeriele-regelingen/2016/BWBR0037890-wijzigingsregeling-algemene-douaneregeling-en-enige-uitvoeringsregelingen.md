@@ -60,7 +60,5 @@ Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
 Deze regeling treedt in werking met ingang van 1 mei 2016.
 
-De\
-Staatssecretaris\
-Financiën,\
-E.D.Wiebes
+De Staatssecretaris van Financiën,\
+E.D. Wiebes

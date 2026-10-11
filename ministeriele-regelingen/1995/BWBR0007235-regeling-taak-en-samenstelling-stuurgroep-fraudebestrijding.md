@@ -60,7 +60,5 @@ Dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift z
 
 Den Haag 13 februari 1995.
 
-De\
-minister\
-Justitie\
-W.Sorgdrager.
+De minister van Justitie,\
+W. Sorgdrager.

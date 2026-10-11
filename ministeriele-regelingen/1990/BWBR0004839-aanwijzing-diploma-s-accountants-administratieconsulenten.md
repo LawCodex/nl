@@ -42,12 +42,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na die van de dagte
 
 's-Gravenhage 16 augustus 1990
 
-De\
-Minister\
-Economische Zaken
+De Minister van Economische Zaken,
 
 voor deze:
 
-De\
-Directeur-Generaal van Diensten, Midden- en Kleinbedrijf en Ordening\
-W. deBoer
+De Directeur-Generaal van Diensten, Midden- en Kleinbedrijf en Ordening,\
+W. de Boer

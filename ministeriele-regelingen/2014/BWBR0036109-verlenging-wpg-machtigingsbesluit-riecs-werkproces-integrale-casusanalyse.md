@@ -57,9 +57,5 @@ Dit besluit wordt aangehaald als: Verlenging Wpg-machtigingsbesluit RIEC’s/wer
 
 ’s-Gravenhage 18 december 2014
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-G.N.Roes\
-Directeur-generaal Rechtspleging en Rechtshandhaving
+De Minister van Veiligheid en Justitie,namens deze,\
+G.N. RoesDirecteur-generaal Rechtspleging en Rechtshandhaving

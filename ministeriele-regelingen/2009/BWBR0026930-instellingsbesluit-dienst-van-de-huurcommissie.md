@@ -43,16 +43,9 @@ Deze regeling zal in de *Staatscourant* worden geplaatst.
 
 Den Haag 15 december 2009
 
-De\
-Minister\
-Wonen, Wijken en Integratie\
-E.E. van derLaan\
-mede namens:\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister voor Wonen, Wijken en Integratie,\
+E.E. van der Laanmede namens:de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos

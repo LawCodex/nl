@@ -55,7 +55,5 @@ Deze regeling wordt aangehaald als: Regeling tegemoetkoming bijzondere kosten on
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De MinistervanJustitie\
+A.H. Korthals

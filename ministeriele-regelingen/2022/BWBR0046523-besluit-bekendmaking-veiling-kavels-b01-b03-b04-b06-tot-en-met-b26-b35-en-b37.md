@@ -332,9 +332,13 @@ De vergunninghouder zendt uit binnen het in figuur 1 bedoelde masker (gemeten vo
 
 *Figuur 1: Spectrummasker voor FM-uitzendingen.*
 
+Bron: ITU-R SM 1268-5
+
 ![Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0046523/2022-04-06_0/xml/268123.png)
 
 *Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.*
+
+Bron: ITU-R SM 1268-5
 
 ## Bijlage 6
 
@@ -7011,6 +7015,8 @@ Het spectrummasker, bedoeld in artikel 4, tweede lid, is als volgt:
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases*
 
+Bron: GE06 pagina 169
+
 Nabuurkanaalinterferentie
 
 De tabel voor protectieverhoudingen zoals bedoeld in artikel 4, derde lid, is als volgt:
@@ -7129,6 +7135,8 @@ Het spectrummasker, bedoeld in artikel 4, tweede lid, is als volgt:
 ![Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0046523/2022-04-06_0/xml/268244.png)
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases*
+
+Bron: GE06 pagina 169
 
 Nabuurkanaalinterferentie
 
@@ -7249,6 +7257,8 @@ Het spectrummasker, bedoeld in artikel 4, tweede lid, is als volgt:
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases*
 
+Bron: GE06 pagina 169
+
 Nabuurkanaalinterferentie
 
 De tabel voor protectieverhoudingen zoals bedoeld in artikel 4, derde lid, is als volgt:
@@ -7365,6 +7375,8 @@ Het spectrummasker, bedoeld in artikel 4, tweede lid, is als volgt:
 ![Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0046523/2022-04-06_0/xml/268250.png)
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases*
+
+Bron: GE06 pagina 169
 
 **Nabuurkanaalinterferentie**
 
@@ -7485,6 +7497,8 @@ Het spectrummasker, bedoeld in artikel 4, tweede lid, is als volgt:
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases*
 
+Bron: GE06 pagina 169
+
 Nabuurkanaalinterferentie
 
 De tabel voor protectieverhoudingen zoals bedoeld in 4, derde lid, is als volgt:
@@ -7604,6 +7618,8 @@ Het spectrummasker, bedoeld in artikel 4, tweede lid, is als volgt:
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases*
 
+Bron: GE06 pagina 169
+
 Nabuurkanaalinterferentie
 
 De tabel voor protectieverhoudingen zoals bedoeld in artikel 4, derde lid, is als volgt:
@@ -7722,6 +7738,8 @@ Het spectrummasker, bedoeld in artikel 4, tweede lid, is als volgt:
 ![Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0046523/2022-04-06_0/xml/268259.png)
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non-critical cases*
+
+Bron: GE06 pagina 169
 
 Nabuurkanaalinterferentie
 

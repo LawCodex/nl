@@ -97,7 +97,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 23 april 2015
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher

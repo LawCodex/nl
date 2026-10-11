@@ -2041,10 +2041,8 @@ Deze regeling wordt aangehaald als: Binnenvaartregeling.
 
 Deze regeling zal in een bijlage bij de Staatscourant worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa
 
 ## Bijlage 1.1 — Reglement onderzoek schepen op de Rijn
 

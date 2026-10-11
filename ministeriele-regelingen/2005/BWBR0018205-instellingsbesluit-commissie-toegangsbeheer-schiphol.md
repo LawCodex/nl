@@ -77,12 +77,9 @@ Dit besluit treedt in werking met ingang van 18 april 2005. Dit besluit wordt ge
 
 Dit besluit wordt aangehaald als Instellingsbesluit commissie Toegangsbeheer Schiphol.
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze:
 
-de\
-Nationaal Coördinator Terrorismebestrijding\
-T.H.J.Joustra
+de Nationaal Coördinator Terrorismebestrijding,\
+T.H.J. Joustra

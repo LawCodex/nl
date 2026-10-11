@@ -39,14 +39,10 @@ Deze beschikking kan worden aangehaald als: Gezamenlijke beschikking omtrent Ind
 
 's-Gravenhage 15 mei 1968
 
-De\
-Staatssecretaris\
-Financiën\
-F.H.M.Grapperhaus
+De Staatssecretaris van Financiën van Nederland,\
+F.H.M. Grapperhaus
 
 Paramaribo, 15 mei 1968
 
-De\
-Minister\
-Financiën\
-J. A.Pengel
+De Minister van Financiën van Suriname,\
+J. A. Pengel

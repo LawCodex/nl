@@ -31,7 +31,5 @@ De Stichting Reclassering Nederland, gevestigd te 's-Hertogenbosch, met ingang v
 
 's-Gravenhage 22 december 1994
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

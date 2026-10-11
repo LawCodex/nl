@@ -134,10 +134,8 @@ Deze regeling treedt in werking met ingang van 1 januari 1995.
 
 Deze regeling kan worden aangehaald als: Uitvoeringsregeling instructie waardebepaling Wet waardering onroerende zaken.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend
 
 ## Bijlage 1
 

@@ -53,7 +53,5 @@ Dit besluit wordt bekend gemaakt door plaatsing in de Staatscourant.
 
 's-Gravenhage 10 december 2019
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-J.C. Goet\
-Secretaris-generaal
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+J.C. Goet Secretaris-generaal

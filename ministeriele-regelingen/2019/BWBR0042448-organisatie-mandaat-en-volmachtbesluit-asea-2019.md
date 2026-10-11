@@ -117,7 +117,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 juli 2019
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze:\
-D. Waagmeester\
-Directeur Arbeidsmarkt en Sociaal-Economische Aangelegenheden
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze:\
+D. Waagmeester Directeur Arbeidsmarkt en Sociaal-Economische Aangelegenheden

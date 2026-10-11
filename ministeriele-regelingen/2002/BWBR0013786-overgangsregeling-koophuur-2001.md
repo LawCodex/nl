@@ -41,6 +41,5 @@ Deze regeling wordt aangehaald als: Overgangsregeling koophuur 2001.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris van Financiën\
-W.Bos
+De Staatssecretaris van Financiën,\
+W. Bos

@@ -47,6 +47,5 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-H.d'Ancona
+De minister voornoemd,\
+H. d'Ancona

@@ -70,6 +70,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 Den Haag 11 juli 2007
 
-De\
-Staatssecretaris\
-N.Albayrak
+De Staatssecretaris voornoemd,\
+N. Albayrak

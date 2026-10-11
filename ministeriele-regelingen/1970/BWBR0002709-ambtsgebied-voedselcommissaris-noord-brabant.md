@@ -33,12 +33,9 @@ Het ambtsgebied van de voedselcommissaris in Noord-Brabant en dat van de voedsel
 
 's-Gravenhage 20 mei 1970
 
-De\
-Minister\
-Landbouw en Visserij
+De Minister van Landbouw en Visserij,
 
 Voor deze:
 
-De\
-secretaris-generaal\
-VanSetten
+De secretaris-generaal,\
+Van Setten

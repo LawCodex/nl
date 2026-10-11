@@ -134,7 +134,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in Bangladesh.
 
-De Minister van Buitenlandse Zaken,\
-Voor deze,\
-N. van Heezik\
-Plv. Chief Information Officer
+De Minister van Buitenlandse Zaken, Voor deze,\
+N. van Heezik Plv. Chief Information Officer

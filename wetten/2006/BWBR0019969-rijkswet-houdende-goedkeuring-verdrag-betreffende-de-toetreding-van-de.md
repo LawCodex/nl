@@ -45,19 +45,19 @@ Gegeven te ’s-Gravenhage 15 juni 2006
 
 Beatrix
 
-De Minister-President, Minister van Algemene Zaken\
-J. P.Balkenende
+De Minister-President, Minister van Algemene Zaken ,\
+J. P. Balkenende
 
-De Minister van Buitenlandse Zaken\
-B. R.Bot
+De Minister van Buitenlandse Zaken ,\
+B. R. Bot
 
-De Minister van Financiën\
-G.Zalm
+De Minister van Financiën ,\
+G. Zalm
 
-De Staatssecretaris van Buitenlandse Zaken\
-A.Nicolaï
+De Staatssecretaris van Buitenlandse Zaken ,\
+A. Nicolaï
 
 de *vierde* juli 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

@@ -46,10 +46,8 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer van nog levende p
 
 Dit besluit treedt in werking met ingang van 4 oktober 2001 en zal in de Staatscourant worden gepubliceerd.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-K.G. deVries
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.G. de Vries
 
 ## Bijlage
 

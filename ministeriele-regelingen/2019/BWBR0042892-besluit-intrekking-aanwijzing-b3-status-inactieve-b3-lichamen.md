@@ -35,10 +35,8 @@ Waarbij onder art. 2, derde lid, sub b van de Wet privatisering ABP tevens bedoe
 
 Dit besluit treedt in werking met ingang van 1 januari 2020.
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
-voor deze,\
-M. Allessie\
-Interim directeur Ambtenaar en Organisatie
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze,\
+M. Allessie Interim directeur Ambtenaar en Organisatie
 
 ## Bijlage — bij besluit
 

@@ -43,7 +43,5 @@ Deze regeling treedt in werking met ingang van 1 juli 1994.
 
 's-Gravenhage 3 mei 1994
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

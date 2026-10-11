@@ -101,7 +101,5 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing macrobeheersinstrument voor twe
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

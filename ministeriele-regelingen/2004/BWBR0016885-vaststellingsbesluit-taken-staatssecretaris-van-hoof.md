@@ -29,6 +29,5 @@ Staatssecretaris de heer H.A.L. van Hoof is, binnen de grenzen van het door de m
 
 Den Haag 21 juni 2004
 
-De\
-Minister\
-A.J. deGeus
+De Minister voornoemd,\
+A.J. de Geus

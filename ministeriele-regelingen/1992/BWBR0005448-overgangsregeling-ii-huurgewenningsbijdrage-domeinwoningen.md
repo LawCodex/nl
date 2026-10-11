@@ -95,7 +95,5 @@ Wijzigt de Overgangsregeling huurgewenningsbijdrage domeinwoningen.
 
 's-Gravenhage 13 maart 1992
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

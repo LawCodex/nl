@@ -129,14 +129,10 @@ Gegeven te 's-Gravenhage 22 april 2004
 
 Beatrix
 
-De\
-Minister\
-Economische Zaken\
-L. J.Brinkhorst
+De Minister van Economische Zaken,\
+L. J. Brinkhorst
 
 de *dertiende* mei 2004
 
-De\
-Minister\
-Justitie\
-J. P. H.Donner
+De Minister van Justitie,\
+J. P. H. Donner

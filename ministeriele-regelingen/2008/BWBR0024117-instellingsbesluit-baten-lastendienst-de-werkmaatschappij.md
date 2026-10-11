@@ -43,12 +43,8 @@ Dit besluit wordt aangehaald als: Instellingsbesluit baten-lastendienst De Werkm
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 G. ter Horst
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos

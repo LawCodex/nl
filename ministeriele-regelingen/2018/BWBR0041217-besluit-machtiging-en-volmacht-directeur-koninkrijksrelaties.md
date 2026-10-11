@@ -41,7 +41,5 @@ Van dit besluit wordt mededeling gedaan in de Staatscourant.
 
 's Gravenhage 19 juli 2018
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
-Namens deze,\
-M.R. Schurink\
-Secretaris-generaal
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, Namens deze,\
+M.R. Schurink Secretaris-generaal

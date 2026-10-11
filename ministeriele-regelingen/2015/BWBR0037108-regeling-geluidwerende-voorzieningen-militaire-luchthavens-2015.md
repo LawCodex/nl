@@ -286,10 +286,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 14 oktober 2015
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert
 
 ## Bijlage 1 — Bepaling kostenbegrenzingswaarde geluidwerende voorzieningen luchtvaartgeluid als bedoeld in artikel 1 van de regeling
 

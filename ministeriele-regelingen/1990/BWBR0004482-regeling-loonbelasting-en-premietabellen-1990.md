@@ -126,10 +126,8 @@ De tabellen, bedoeld in deze regeling, worden gepubliceerd op www.belastingdiens
 
 2\. Deze regeling kan worden aangehaald als: Regeling loonbelasting- en premietabellen 1990.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort
 
 ## Bijlage A
 

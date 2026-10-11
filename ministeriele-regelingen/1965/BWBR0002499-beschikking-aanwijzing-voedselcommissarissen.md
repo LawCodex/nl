@@ -43,7 +43,5 @@ De bij artikel 1 aangewezen voedselcommissarissen, die standplaats hebben in het
 
 's-Gravenhage 23 juli 1965
 
-De\
-Minister\
-Landbouw en Visserij\
+De Minister van Landbouw en Visserij,\
 B. W. Biesheuvel

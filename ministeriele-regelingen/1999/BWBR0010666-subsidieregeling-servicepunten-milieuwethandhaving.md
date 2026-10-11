@@ -91,7 +91,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 20 augustus 1999
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.P.Pronk
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.P. Pronk

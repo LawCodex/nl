@@ -35,12 +35,8 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 ’s-Gravenhage 27 april 1999
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals
 
-De\
-Minister\
-Defensie\
-F.H.G. deGrave
+De Minister van Defensie,\
+F.H.G. de Grave

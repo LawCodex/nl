@@ -453,10 +453,8 @@ Deze regeling wordt aangehaald als: Regeling aanmelding en toelating hoger onder
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage A — Nadere vooropleidingseisen voor opleidingen van het wetenschappelijk onderwijs
 

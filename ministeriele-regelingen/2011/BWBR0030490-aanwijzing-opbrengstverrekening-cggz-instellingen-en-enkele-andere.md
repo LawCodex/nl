@@ -123,7 +123,5 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing opbrengstverrekening cggz-inste
 
 Deze aanwijzing wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

@@ -243,7 +243,5 @@ Deze regeling wordt aangehaald als: Regeling gegevensuitvraag loonaangifte.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën,\
-F.H.H.Weekers
+De Staatssecretaris van Financiën,\
+F.H.H. Weekers

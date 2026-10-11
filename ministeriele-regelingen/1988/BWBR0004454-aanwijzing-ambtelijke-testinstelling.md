@@ -41,6 +41,5 @@ Deze beschikking treedt inwerking op 1 januari 1989 en kan worden aangehaald als
 
 's-Gravenhage 19 december 1988
 
-De\
-minister\
+De minister voornoemd,\
 N. Smit-Kroes

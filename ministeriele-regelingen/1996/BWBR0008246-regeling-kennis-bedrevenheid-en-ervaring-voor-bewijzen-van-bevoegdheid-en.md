@@ -148,7 +148,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ’s-Gravenhage 23 september 1996
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

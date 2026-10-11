@@ -1064,10 +1064,8 @@ Strafbare feiten zijn:
 
 2\. Deze regeling kan worden aangehaald als Uitvoeringsregeling accijns.
 
-De\
-Staatssecretaris\
-Financiën\
-M.J.J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M.J.J. van Amelsvoort
 
 ## Bijlage B — Methode voor het bepalen van het extractgehalte van bier, bedoeld in artikel 5
 

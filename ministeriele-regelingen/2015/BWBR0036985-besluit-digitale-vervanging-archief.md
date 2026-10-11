@@ -70,7 +70,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van afgifte van 
 
 Den Haag 12 augustus 2015
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem

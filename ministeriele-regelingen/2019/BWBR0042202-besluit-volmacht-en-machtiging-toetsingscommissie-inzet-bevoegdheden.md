@@ -65,6 +65,5 @@ Dit besluit wordt aangehaald als: Besluit volmacht en machtiging Toetsingscommis
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 M. Rutte

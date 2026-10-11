@@ -39,7 +39,5 @@ Deze beschikking treedt in werking met ingang van de tweede dag na de dagtekenin
 
 's-Gravenhage 20 mei 1994
 
-De\
-Staatssecretaris\
-Landbouw, Natuurbeheer en Visserij\
-J.D.Gabor
+De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,\
+J.D. Gabor

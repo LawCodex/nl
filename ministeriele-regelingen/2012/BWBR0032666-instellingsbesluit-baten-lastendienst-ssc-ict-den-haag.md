@@ -43,12 +43,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 19 december 2012
 
-De\
-minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De minister voor Wonen en Rijksdienst,\
+S.A. Blok
 
-De\
-minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De minister van Financiën,\
+J.R.V.A. Dijsselbloem

@@ -39,10 +39,8 @@ Dit besluit treedt in werking op het tijdstip dat het Besluit, houdende wijzigin
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de kaartbladen, opgenomen in bijlage A, die ter inzage worden gelegd op het Ministerie van Infrastructuur en Milieu, Hoofddirectie Bestuurlijke en Juridische Zaken, en tevens raadpleegbaar zijn op en te downloaden van www.waterwet.nl.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma
 
 ## Bijlage A — behorend bij artikel I van het Besluit tot wijziging van de Beleidsregels grote rivieren (wijziging kaartbladen bijlage 1)
 

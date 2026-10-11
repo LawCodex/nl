@@ -220,10 +220,8 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 's-Gravenhage 10 oktober 2013
 
-De\
-Staatssecretaris\
-Financiën,\
-F.H.H.Weekers
+De Staatssecretaris van Financiën,\
+F.H.H. Weekers
 
 ## Bijlage A
 

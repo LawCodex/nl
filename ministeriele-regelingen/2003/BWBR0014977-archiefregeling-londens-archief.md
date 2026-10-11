@@ -59,10 +59,8 @@ De directeur van het Nationaal Archief is verplicht de archiefbescheiden in goed
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd en werkt terug tot en met 6 maart 2003.
 
-De\
-Minister\
-Buitenlandse Zaken\
-J.G. deHoop Scheffer
+De Minister van Buitenlandse Zaken,\
+J.G. de Hoop Scheffer
 
 ## Bijlage — Formulier voor toestemming tot raadpleging van niet-openbare archieven
 

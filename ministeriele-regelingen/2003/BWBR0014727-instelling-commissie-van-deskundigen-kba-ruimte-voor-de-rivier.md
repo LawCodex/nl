@@ -80,7 +80,5 @@ Tot lid van de commissie worden benoemd:
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-M.H.Schultz van Haegen
+De Staatssecretaris van Verkeer en Waterstaat,\
+M.H. Schultz van Haegen

@@ -65,9 +65,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 28 september 2012
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-namens deze:\
-H.J.I.M. deRooij,\
-waarnemend secretaris-generaal.
+De Minister van Sociale Zaken en Werkgelegenheidnamens deze:\
+H.J.I.M. de Rooij,waarnemend secretaris-generaal.

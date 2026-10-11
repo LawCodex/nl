@@ -41,7 +41,5 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ’s-Gravenhage 16 maart 2015
 
-De\
-Minister\
-Veiligheid en Justitie,\
-S.A.Blok
+De Minister van Veiligheid en Justitie,\
+S.A. Blok

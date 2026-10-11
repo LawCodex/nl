@@ -29,7 +29,5 @@ Deze beschikking wordt in de Staatscourant bekend gemaakt.
 
 's-Gravenhage 10 juli 1989
 
-De\
-staatssecretaris\
-Justitie\
-V. N. M.Korte-van Hemel
+De staatssecretaris van Justitie,\
+V. N. M. Korte-van Hemel

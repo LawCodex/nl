@@ -43,7 +43,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 20 januari 2006
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.L.B.A. vanGeel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+P.L.B.A. van Geel

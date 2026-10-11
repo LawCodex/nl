@@ -75,6 +75,5 @@ Dit besluit wordt in de Nederlandse Staatscourant bekendgemaakt, en treedt in we
 
 's-Gravenhage 28 januari 1981
 
-De\
-Minister\
-D. S.Tuijnman
+De Minister voornoemd,\
+D. S. Tuijnman

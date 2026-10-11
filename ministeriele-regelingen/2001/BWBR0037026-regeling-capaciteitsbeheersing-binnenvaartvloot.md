@@ -147,10 +147,8 @@ Deze regeling wordt aangehaald als: Regeling capaciteitsbeheersing binnenvaartvl
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 1 tot en met 6, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat,\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
 ## Bijlage 1
 

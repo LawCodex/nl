@@ -71,10 +71,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 2 juli 2002
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals
 
 ## Bijlage — zoals vastgesteld krachtens artikel 1 van de Regeling modellen en formulieren t.b.v. de handhaving
 

@@ -41,8 +41,6 @@ Zij wordt aangehaald als: Beschikking wijzigingspercentage optie- en naturalisat
 
 Den Haag 3 november 2005
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie
+De Minister voor Vreemdelingenzaken en Integratie,
 
 M.C.F. Verdonk

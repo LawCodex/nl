@@ -35,14 +35,11 @@ Dit besluit zal worden gepubliceerd in de Nederlandse Staatscourant en het Algem
 
 's-Gravenhage 19 november 1993
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 Namens de Minister,
 
-Het\
-hoofd van de Directie Politie
+Het hoofd van de Directie Politie,
 
 Voor deze,
 

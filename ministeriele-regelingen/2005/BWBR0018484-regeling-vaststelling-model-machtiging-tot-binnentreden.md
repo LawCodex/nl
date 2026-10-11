@@ -43,10 +43,8 @@ Deze regeling wordt aangehaald als: Regeling vaststelling model machtiging tot b
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner
 
 ## Bijlage
 

@@ -76,7 +76,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 9 mei 1994
 
-De\
-Minister\
-Binnenlandse Zaken\
-E. vanThijn
+De Minister van Binnenlandse Zaken,\
+E. van Thijn

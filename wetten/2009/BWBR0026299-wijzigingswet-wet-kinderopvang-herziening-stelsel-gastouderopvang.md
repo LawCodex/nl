@@ -70,13 +70,13 @@ Tavarnelle 18 juli 2009
 
 Beatrix
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap\
-S. A. M.Dijksma
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. A. M. Dijksma
 
 De Staatssecretaris van Financiën\
 J. C. de Jager
 
 de *vijfentwintigste* augustus 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

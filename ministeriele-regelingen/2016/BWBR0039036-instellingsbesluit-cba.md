@@ -96,9 +96,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit CBA.
 
 Dit besluit wordt met de toelichting geplaatst in de Staatscourant en wordt gezonden aan de leden van het IOWJZ.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-A.G. vanDijk\
-Directeur Wetgeving en Juridische Zaken
+De Minister van Veiligheid en Justitie,namens deze,\
+A.G. van DijkDirecteur Wetgeving en Juridische Zaken

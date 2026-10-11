@@ -48,7 +48,5 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 's-Gravenhage 19 mei 1994
 
-De\
-Minister\
-Binnenlandse Zaken\
+De Minister van Binnenlandse Zaken,\
 E. van Thijn

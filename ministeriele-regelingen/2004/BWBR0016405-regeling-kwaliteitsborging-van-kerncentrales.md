@@ -41,15 +41,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 18 februari 2004
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
 P.L.B.A. van Geel
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-M.Rutte
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+M. Rutte
 
 ## Bijlage — Tekstaanpassing per NVR
 

@@ -71,7 +71,5 @@ De uitvoering van de werkzaamheden bedoeld in artikel 2, geschiedt met inachtnem
 
 Dit besluit zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-De Minister van Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de secretaris-generaal,\
+De Minister van Onderwijs, Cultuur en Wetenschap, namens deze, de secretaris-generaal,\
 M. Hammersma

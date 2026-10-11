@@ -94,7 +94,5 @@ Deze regeling wordt aangehaald als: Regeling eenmalige specifieke uitkering Geme
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat\
+K.M.H. Peijs

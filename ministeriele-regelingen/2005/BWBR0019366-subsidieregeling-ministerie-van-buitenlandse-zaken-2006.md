@@ -498,14 +498,10 @@ Deze regeling wordt aangehaald als: Subsidieregeling Ministerie van Buitenlandse
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
-De\
-Minister\
-Ontwikkelingssamenwerking\
-A.M.A. vanArdenne-van der Hoeven
+De Minister voor Ontwikkelingssamenwerking,\
+A.M.A. van Ardenne-van der Hoeven
 
 [^n1]: 1 Zie de OESO DAC landenlijst

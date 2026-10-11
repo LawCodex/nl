@@ -235,8 +235,7 @@ Gegeven te
 Willem-Alexander
 
 De Minister van Buitenlandse Zaken,\
-S.A.M. Kaag\
-De Minister van Financiën,\
+S.A.M. Kaag De Minister van Financiën,\
 W.B. Hoekstra
 
 De voor deze waarnemend Minister van Defensie,\

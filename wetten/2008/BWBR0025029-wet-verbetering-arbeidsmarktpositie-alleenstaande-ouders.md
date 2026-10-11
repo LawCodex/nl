@@ -55,10 +55,10 @@ Gegeven te
 
 Beatrix
 
-De Staatssecretaris van Sociale Zaken en Werkgelegenheid\
-J.Klijnsma
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma
 
 de *dertigste* december 2008
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

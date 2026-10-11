@@ -44,12 +44,9 @@ De regeling van de Minister van Verkeer en Waterstaat van 4 maart 1988, nr. LI/1
 
 Deze regeling treedt in werking met terugwerkende kracht per 1 januari 1992 en wordt gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 Namens deze,
 
-De\
-Secretaris-Generaal\
-H.N.J.Smits
+De Secretaris-Generaal,\
+H.N.J. Smits

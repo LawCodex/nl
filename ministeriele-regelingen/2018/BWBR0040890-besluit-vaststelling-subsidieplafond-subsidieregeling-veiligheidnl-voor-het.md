@@ -25,13 +25,11 @@ Gelet op artikel 8, eerste lid, van het Kaderbesluit subsidies I en M en artikel
 
 BESLUIT:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond, bedoeld in artikel 4, tweede lid, van de Subsidieregeling VeiligheidNL wordt voor de periode vanaf 8 mei 2018 tot en met 31 december 2018 vastgesteld op € 80.000,– voor het doen van onderzoek en € 100.000,– voor het geven van voorlichting.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT,\
-Namens deze,\
-DE DIRECTEUR-GENERAAL MILIEU EN INTERNATIONAAL,\
+DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT, Namens deze, DE DIRECTEUR-GENERAAL MILIEU EN INTERNATIONAAL,\
 R.P. Lapperre

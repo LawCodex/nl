@@ -87,9 +87,5 @@ Het niet verplichte saldo van de definitieve bijdrage zal jaarlijks door het Min
 
 2\. Afschrift van deze beschikking, die in de Staatscourant zal worden gepubliceerd, zal worden toegezonden aan de Stichting Arbeidsmarkt-, en Opleidingsfonds Rijk en de Centrales van Overheidspersoneel.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-namens deze:\
-Directeur Personeel, Organisatie & Informatie Rijk\
-A.F.Gaastra
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de Directeur Personeel, Organisatie & Informatie Rijk,\
+A.F. Gaastra

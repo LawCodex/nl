@@ -94,7 +94,5 @@ De Raad brengt tweejaarlijks een schriftelijke rapportage uit over de activiteit
 
 Deze regeling wordt in de Staatscourant geplaatst.
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert

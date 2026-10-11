@@ -68,7 +68,5 @@ Deze regeling wordt aangehaald als: Regeling fysieke vaardigheidstoets politie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

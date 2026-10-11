@@ -37,9 +37,5 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de plaatsvervangend Directeur-Generaal Buitenlandse Economische Betrekkingen,\
-G.Landheer
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens deze,de plaatsvervangend Directeur-Generaal Buitenlandse Economische Betrekkingen,\
+G. Landheer

@@ -53,10 +53,10 @@ Gegeven te ’s-Gravenhage 11 mei 2007
 
 Beatrix
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
 de *vijfde* juni 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

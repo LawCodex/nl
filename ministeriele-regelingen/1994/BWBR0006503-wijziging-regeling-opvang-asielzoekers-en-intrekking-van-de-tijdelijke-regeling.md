@@ -39,7 +39,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na plaatsing in het
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Welzijn, Volksgezondheid en Cultuur\
-H.d'Ancona
+De Minister van Welzijn, Volksgezondheid en Cultuur,\
+H. d'Ancona

@@ -32,7 +32,6 @@ in overeenstemming met de Staatssecretaris van Economische Zaken:
 
 's-Gravenhage 23 februari 1972
 
-De\
-Minister
+De Minister voornoemd,
 
 Van Agt

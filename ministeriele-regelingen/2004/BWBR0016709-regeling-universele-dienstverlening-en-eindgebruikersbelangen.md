@@ -432,10 +432,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 10 mei 2004
 
-De\
-Minister van\
-Economische Zaken\
-L.J.Brinkhorst
+De Minister van Economische Zaken\
+L.J. Brinkhorst
 
 ## Bijlage 1 — behorende bij artikel 3.2, derde lid van de Regeling universele dienstverlening en eindgebruikersbelangen
 

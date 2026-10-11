@@ -123,7 +123,5 @@ Dit besluit treedt in werking met ingang van 20 september 2012.
 
 Afschrift van dit besluit wordt gezonden aan de leden van de commissie en aan de voorzitter van het bestuur.
 
-De\
-Staatssecretaris\
-Economische Zaken, Landbouw en Innovatie,\
-Dr. HenkBleker
+De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,\
+Dr. Henk Bleker

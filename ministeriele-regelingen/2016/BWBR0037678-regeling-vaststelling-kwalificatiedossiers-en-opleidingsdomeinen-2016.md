@@ -125,10 +125,8 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 
 Deze regeling zal met de bijlagen 1, 4 en 5 alsmede de toelichting in de Staatscourant worden geplaatst. De bijlagen 2 en 3 worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage 1 — behorende bij artikel 3
 

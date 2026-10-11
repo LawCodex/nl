@@ -170,21 +170,16 @@ Deze onderlinge regeling treedt in werking met ingang van de tweede dag na de da
 
 Deze onderlinge regeling zal met toelichting in de Staatscourant, de Landscourant van Aruba, het Publicatieblad van Curaçao en het Afkondigingblad van Sint Maarten worden geplaatst.
 
-Voor Nederland, inclusief de Openbare Lichamen Bonaire, Saba en Sint Eustatius:\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.I.Schippers
+Voor Nederland, inclusief de Openbare Lichamen Bonaire, Saba en Sint Eustatius:De Minister van Volksgezondheid, Welzijn en Sport\
+E.I. Schippers
 
-Voor Aruba:\
-De Minister van Volksgezondheid, Ouderenzorg en Sport\
+Voor Aruba: De Minister van Volksgezondheid, Ouderenzorg en Sport\
 C.A. Schwengle
 
-Voor Curaçao:\
-De Minister van Gezondheid, Milieu en Natuur\
+Voor Curaçao: De Minister van Gezondheid, Milieu en Natuur\
 B. Whiteman
 
-Voor Sint Maarten:\
-De ad interim-Minister van Volksgezondheid, Sociale Zaken en Arbeid\
+Voor Sint Maarten: De ad interim-Minister van Volksgezondheid, Sociale Zaken en Arbeid\
 R. Bourne-Gumbs
 
 ## Bijlage — bij de Onderlinge regeling als bedoeld in artikel 38, eerste lid, van het Statuut van het Koninkrijk der Nederlanden regelende de samenwerking op het gebied van de implementatie van de Internationale Gezondheidsregeling tussen Nederland, Aruba, Curaçao en Sint Maarten
@@ -193,7 +188,7 @@ R. Bourne-Gumbs
 
 Dit Protocol beschrijft de operationele uitvoering van meldingen, communicatie, beslissingen en interventies zoals bedoeld in artikel 6 van de onderlinge regeling.
 
-#### Paragraaf: 1ste — Het nationaal IGR-coördinatiepunt en (ei)landelijke IGR-contactpunten
+#### 1ste Paragraaf: — Het nationaal IGR-coördinatiepunt en (ei)landelijke IGR-contactpunten
 
 ##### Artikel 1:
 
@@ -202,14 +197,14 @@ Dit Protocol beschrijft de operationele uitvoering van meldingen, communicatie, 
 - 3. Indien de directeur van het RIVM-CIb uitvoering geeft aan artikel 3, vierde lid,van de onderlinge regeling en derhalve wil voorzien in een gekwalificeerde arts-infectieziektebestrijding die als liaisonfunctionaris domicilie kan houden op een van de Caribische (ei)landen van het Koninkrijk, dan doet hij dit in consultatie met de hoofden van de gezondheidsdiensten genoemd in artikel 4, tweede lid, van de onderlinge regeling.
 - 4. Bij ontstentenis van de functionaris bedoeld in het vorige lid wordt deze vervangen door de dienstdoende arts van de 24-uurs bereikbaarheidsdienst voor de infectieziektebestrijding van het RIVM-CIb.
 
-#### Paragraaf: 2e — De voorbereiding op ernstige gezondheidsincidenten
+#### 2e Paragraaf: — De voorbereiding op ernstige gezondheidsincidenten
 
 ##### Artikel 2
 
 - 1. Voor de voorbereiding op de beheersing en bestrijding van ernstige gezondheidsincidenten en het ontwikkelen en onderhouden van voldoende capaciteit voor de uitvoering daarvan conform artikel 5, eerste lid, artikel 13, eerste lid, artikel 19, artikel 20, eerste en tweede lid, en de van toepassing zijnde Annexen van de Internationale Gezondheidsregeling, is elk land binnen zijn territoir zelfstandig verantwoordelijk. *(art. 2, lid 1 onderlinge regeling)*
 - 2. De landen staan, ieder naar vermogen, elkaar collegiaal bij, bij de voorbereidende activiteiten bedoeld in het vorige lid. De bijstand betreft het delen van kennis en ervaring, de uitwisseling van relevante documenten, het organiseren van opleiding, trainingen en oefeningen en al het overige dat bijdraagt aan een preparatieniveau passend bij de sociaaleconomische en epidemiologische omstandigheden van elk der (ei)landen. *(art. 2, lid 2 onderlinge regeling)*
 
-#### Paragraaf: 3e — Milieugerelateerde gezondheidsincidenten
+#### 3e Paragraaf: — Milieugerelateerde gezondheidsincidenten
 
 ##### Artikel 3
 
@@ -217,7 +212,7 @@ Dit Protocol beschrijft de operationele uitvoering van meldingen, communicatie, 
 - 2. Een milieugerelateerd gezondheidsincident dat potentieel een risico kan vormen voor de onbelemmerde voortgang van het internationaal, dan wel inter-eilandelijke verkeer van personen of goederen, wordt door het IGR-contactpunt van het betrokken (ei)land terstond gemeld aan het nationaal IGR-coördinatiepunt te Bilthoven.
 - 3. Voor de risicobeoordeling zoals bedoeld in artikel 6, eerste lid, van dit Protocol, van milieugerelateerde gezondheidsincidenten, zien het IGR-contactpunt van het betrokken (ei)land en het nationaal IGR-coördinatiepunt te Bilthoven er op toe, dat de ter plaatse betrokken eilandelijke bestrijdingsdienst in contact wordt gebracht met de deskundigen van de permanente bereikbaarheidsdienst van het Centrum Veiligheid van het RIVM (RIVM-VLH).
 
-#### Paragraaf: 4e — Infectieziektebestrijding
+#### 4e Paragraaf: — Infectieziektebestrijding
 
 ##### Artikel 4
 
@@ -233,7 +228,7 @@ Dit Protocol beschrijft de operationele uitvoering van meldingen, communicatie, 
 - 5. het nationaal IGR-coördinatiepunt ontvangt van de eilandelijke gezondheidsdienst binnen 24 uur de gegevens van de meldingen, bedoeld in het tweede lid. Ten aanzien van identificerende persoonsgegevens van patiënten heeft het nationaal IGR-coördinatiepunt eenzelfde geheimhoudingsplicht als de ambtenaar van de gezondheidsdienst van het betrokken land.
 - 6. Bij eerste melding door een arts of laboratorium aan de gezondheidsdienst van (een vermoeden van) een geval van pokken, poliomyelitis, severe acute respiratory syndrome (SARS), virale hemorragische koorts (ebola, lassa, marburg), of het Middle East Respiratory Syndrome-coronavirus (MERS-CoV)[^n4], wordt het nationaal IGR-coördinatiepunt hiervan onverwijld in kennis gesteld.
 
-#### Paragraaf 5e — Internationale melding en communicatie
+#### 5e Paragraaf — Internationale melding en communicatie
 
 ##### Artikel 6 — Risicobeoordeling en melding
 
@@ -252,7 +247,7 @@ Dit Protocol beschrijft de operationele uitvoering van meldingen, communicatie, 
 - 3. Ingevolge het voorschrift van artikel 4, tweede lid, onderdelen a en b, van de IGR, verloopt de internationale communicatie bedoeld in het vorige lid, via het kanaal van het nationaal IGR-coördinatiepunt. *(art. 6, lid 3 onderlinge regeling)*
 - 4. Het nationaal IGR-coördinatiepunt treedt niet in de pers- of publiekscommunicatie van het land dat het aangaat. *(art. 6, lid 5 onderlinge regeling)*
 
-#### Paragraaf 6e — Maatregelen ter beheersing en bestrijding van ernstige gezondheidsincidenten
+#### 6e Paragraaf — Maatregelen ter beheersing en bestrijding van ernstige gezondheidsincidenten
 
 ##### Artikel 8
 
@@ -260,7 +255,7 @@ Dit Protocol beschrijft de operationele uitvoering van meldingen, communicatie, 
 - 2. Alvorens de Minister belast met de volksgezondheid een maatregel zoals bedoeld in het vorige artikel neemt, wint hij advies in bij zijn gezondheidsdienst. De gezondheidsdienst wordt bij het opstellen van het advies bijgestaan door het nationaal IGR-coördinatiepunt. *(art. 6, lid 5 onderlinge regeling)*
 - 3. De Minister belast met de volksgezondheid van het land dat het aangaat kan de directeur van het RIVM-CIb verzoeken een Outbreak Management Team (OMT) bijeen te roepen om hem van het best mogelijke medisch-epidemiologische advies te dienen. De directeur beslist over de uit te nodigen experts in het OMT, met inachtneming van deelname door de gezondheidsdienst van het (ei)land dat het aangaat. De beraadslaging in het OMT is vertrouwelijk. Nadat de Minister, gehoord het advies van het OMT, besloten heeft over de te nemen maatregelen, is het advies voor eenieder ter inzage. *(art. 6, lid 6 onderlinge regeling)*
 
-#### Paragraaf 7e — Slotbepalingen
+#### 7e Paragraaf — Slotbepalingen
 
 ##### Artikel 9
 

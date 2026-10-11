@@ -97,10 +97,8 @@ Deze beschikking, welke in de *Nederlandse Staatscourant* zal worden geplaatst, 
 
 's-Gravenhage 21 Juli 1953
 
-De\
-Minister\
-Oorlog en van Marine\
-C.Staf
+De Minister van Oorlog en van Marine\
+C. Staf
 
 ## BIJLAGE A
 

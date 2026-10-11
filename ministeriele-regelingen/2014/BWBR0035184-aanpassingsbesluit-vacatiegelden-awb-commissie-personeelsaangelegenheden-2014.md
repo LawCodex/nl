@@ -64,9 +64,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 2 juni 2014
 
-De\
-Minister\
-Veiligheid en Justitie\
-namens deze,\
-A.Berger\
-plv. directeur Personeel & Organisatie
+De Minister van Veiligheid en Justitie,namens deze,\
+A. Bergerplv. directeur Personeel & Organisatie

@@ -119,5 +119,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 20 december 2018
 
-L.B.J. van Geest\
-directeur van het Centraal Planbureau
+L.B.J. van Geest directeur van het Centraal Planbureau

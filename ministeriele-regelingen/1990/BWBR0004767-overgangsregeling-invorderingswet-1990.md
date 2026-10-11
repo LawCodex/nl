@@ -45,7 +45,5 @@ Met betrekking tot een beschikking genomen op de voet van artikel 59a van de Suc
 
 2\. Deze regeling kan worden aangehaald als Overgangsregeling Invorderingswet 1990.
 
-De\
-staatssecretaris\
-Financiën\
-M.J.J. vanAmelsvoort
+De staatssecretaris van Financiën,\
+M.J.J. van Amelsvoort

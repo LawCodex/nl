@@ -105,12 +105,8 @@ Regeling taken en bevoegdheden Functionaris Gegevensbescherming BZ.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken,\
-namens deze:\
-waarnemend Secretaris-Generaal,\
-M.T.G. vanDaalen
+De Minister van Buitenlandse Zaken,namens deze:waarnemend Secretaris-Generaal,\
+M.T.G. van Daalen
 
 ## Bijlage I — Wet bescherming persoonsgegevens
 

@@ -41,7 +41,5 @@ De interest, bedoeld in artikel 17, tweede lid, van de Wet van 22 mei 1845 op de
 
 2\. Deze regeling kan worden aangehaald als: Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen.
 
-De\
-Staatssecretaris\
-Financiën\
-M.J.J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M.J.J. van Amelsvoort

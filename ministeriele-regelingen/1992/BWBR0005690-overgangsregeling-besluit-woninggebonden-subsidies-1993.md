@@ -110,7 +110,5 @@ Deze regeling kan worden aangehaald als: Overgangsregeling Besluit woninggebonde
 
 's-Gravenhage 14 oktober 1992
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

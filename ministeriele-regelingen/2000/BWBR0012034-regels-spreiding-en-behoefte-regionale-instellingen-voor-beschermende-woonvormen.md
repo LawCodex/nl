@@ -49,7 +49,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
+De Minister van Volksgezondheid, Welzijn en Sport,\
 E. Borst-Eilers

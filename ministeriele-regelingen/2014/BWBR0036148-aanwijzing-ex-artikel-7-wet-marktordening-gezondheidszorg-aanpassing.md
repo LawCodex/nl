@@ -60,7 +60,5 @@ In aanvulling op de Aanwijzing beschikbaarheidbijdrage curatieve zorg wordt de h
 
 Van deze aanwijzing wordt mededeling gedaan in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

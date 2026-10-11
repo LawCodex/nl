@@ -568,10 +568,8 @@ Deze regeling wordt aangehaald als: Regeling werkzaamheden Raad voor plantenrass
 
 Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-C.P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+C.P. Veerman
 
 ## Bijlage 1 — behorende bij artikel 21, eerste lid, van de Regeling werkzaamheden Raad voor plantenrassen
 

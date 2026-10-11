@@ -37,7 +37,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Ontwikkelingssamenwerking\
-A.G.Koenders
+De Minister voor Ontwikkelingssamenwerking,\
+A.G. Koenders

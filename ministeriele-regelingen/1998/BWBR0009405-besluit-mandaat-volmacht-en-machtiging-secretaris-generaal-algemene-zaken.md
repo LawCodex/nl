@@ -135,7 +135,5 @@ Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezo
 
 Den Haag 25 februari 1998
 
-De\
-Minister\
-Algemene Zaken\
-W.Kok
+De Minister van Algemene Zaken,\
+W. Kok

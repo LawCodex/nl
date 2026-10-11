@@ -87,7 +87,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit commissie incompatibiliteit
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-S.A.Blok
+De MinisterBinnenlandse Zaken en Koninkrijksrelaties,\
+S.A. Blok

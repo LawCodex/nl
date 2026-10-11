@@ -66,7 +66,5 @@ Dit besluit wordt aangehaald als: Aanvullend besluit bij de Organisatieregeling 
 
 Den Haag 27 februari 2001
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 C.W.M. Dessens

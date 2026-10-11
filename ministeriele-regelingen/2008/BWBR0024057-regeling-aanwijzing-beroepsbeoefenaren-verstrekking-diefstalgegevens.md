@@ -53,12 +53,8 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing beroepsbeoefenaren verst
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

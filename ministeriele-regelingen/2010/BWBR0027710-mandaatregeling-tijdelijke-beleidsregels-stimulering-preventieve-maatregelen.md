@@ -56,7 +56,5 @@ Deze regeling wordt aangehaald als: Mandaatregeling Tijdelijke beleidsregels sti
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie,\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

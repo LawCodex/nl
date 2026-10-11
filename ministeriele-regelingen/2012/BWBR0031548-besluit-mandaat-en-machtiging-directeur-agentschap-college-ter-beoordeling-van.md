@@ -95,7 +95,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 27 april 2012
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen

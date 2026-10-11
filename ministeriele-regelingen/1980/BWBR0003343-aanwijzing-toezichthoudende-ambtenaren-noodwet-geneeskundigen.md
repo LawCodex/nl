@@ -35,6 +35,5 @@ Dit besluit wordt in de Staatscourant geplaatst en treedt in werking met ingang 
 
 Leidschendam 26 september 1980
 
-De\
-Staatssecretaris\
+De Staatssecretaris voornoemd,\
 E. Veder-Smit

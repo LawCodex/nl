@@ -32,7 +32,6 @@ in overeenstemming met de Ministers van Economische Zaken en Volksgezondheid en 
 
 's-Gravenhage 8 februari 1982
 
-De\
-Minister
+De Ministervoornoemd,
 
 J. de Ruster

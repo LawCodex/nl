@@ -79,10 +79,10 @@ Gegeven te 's-Gravenhage 13 december 2007
 
 Beatrix
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 de *twintigste* december 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -214,7 +214,5 @@ Deze regeling wordt aangehaald als: Regeling vrijwillige inburgering niet-G31 20
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-M.C.F.Verdonk
+De Minister voor Vreemdelingenzaken en Integratie,\
+M.C.F. Verdonk

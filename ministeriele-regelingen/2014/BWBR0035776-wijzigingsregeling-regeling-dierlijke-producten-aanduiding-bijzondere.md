@@ -41,12 +41,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 19 november 2014
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok

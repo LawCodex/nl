@@ -36,7 +36,5 @@ Besluit:
 
 De Minister van Volksgezondheid, Welzijn en Sport,
 
-De Nederlandse Voedsel- en Warenautoriteit,\
-voor deze,\
-R.J.A. Kerstens\
-inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit
+De Nederlandse Voedsel- en Warenautoriteit, voor deze,\
+R.J.A. Kerstens inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit

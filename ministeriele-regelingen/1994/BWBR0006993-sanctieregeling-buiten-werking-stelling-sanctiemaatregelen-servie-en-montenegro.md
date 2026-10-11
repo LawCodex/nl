@@ -51,17 +51,11 @@ Deze regeling zal met toelichting worden geplaatst in de Staatscourant.
 
 's-Gravenhage 31 oktober 1994
 
-De\
-Minister\
-Buitenlandse Zaken\
-H.A.F.M.O. vanMierlo
+De Minister van Buitenlandse Zaken,\
+H.A.F.M.O. van Mierlo ;
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink;
 
-De\
-Staatssecretaris\
-Economische Zaken\
-A. vanDok-Van Weele
+De Staatssecretaris van Economische Zaken,\
+A. van Dok-Van Weele

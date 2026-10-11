@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingpercentage leve
 
 ’s-Gravenhage 31 oktober 1997
 
-De\
-Staatssecretaris\
-E.M.A.Schmitz
+De Staatssecretaris voornoemd,\
+E.M.A. Schmitz

@@ -120,39 +120,26 @@ Deze regeling wordt aangehaald als: Schaderegeling Tweede Maasvlakte.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
-Het\
-College van Gedeputeerde Staten van de Provincie Zeeland\
-secretaris\
-L.J.M.Verdult
+Het College van Gedeputeerde Staten van de Provincie Zeeland, De secretaris,\
+L.J.M. Verdult
 
-De\
-voorzitter\
-K.M.A.Peijs
+De voorzitter,\
+K.M.A. Peijs
 
-Het\
-College van Burgemeester en Wethouders van de Gemeente Rotterdam\
-secretaris\
-A.H.P. vanGils
+Het College van Burgemeester en Wethouders van de Gemeente Rotterdam, De secretaris,\
+A.H.P. van Gils
 
-De\
-burgemeester\
-I.W.Opstelten
+De burgemeester,\
+I.W. Opstelten
 
-Het\
-College van Burgemeester en Wethouders van de Gemeente Westvoorne\
-secretaris\
-J.M.C.Postema
+Het College van Burgemeester en Wethouders van de Gemeente Westvoorne, De secretaris,\
+J.M.C. Postema
 
-De\
-burgemeester\
-P.E. deJong
+De burgemeester,\
+P.E. de Jong

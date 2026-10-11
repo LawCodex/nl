@@ -33,7 +33,5 @@ De Regeling geldelijke steun huisvesting gehandicapten 1989 wordt gewijzigd.
 
 's-Gravenhage 4 juni 1991
 
-De\
-staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

@@ -49,10 +49,8 @@ Deze regeling wordt aangehaald als: Regeling onderschepping luchtvaartuigen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bijlage bij deze regeling ligt ter visie bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
 ## Bijlage
 

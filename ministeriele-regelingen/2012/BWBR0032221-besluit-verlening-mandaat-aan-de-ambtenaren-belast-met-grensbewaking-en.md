@@ -53,7 +53,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 31 oktober 2012
 
-De\
-Minister\
-Immigratie, Integratie en Asiel,\
-G.B.M.Leers.
+De Minister voor Immigratie, Integratie en Asiel,\
+G.B.M. Leers.

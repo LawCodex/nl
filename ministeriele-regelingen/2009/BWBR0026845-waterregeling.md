@@ -591,15 +591,11 @@ Deze regeling wordt aangehaald als: Waterregeling.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen II, III, IV en IX die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer
 
 ## Bijlage I — Bedrijven en bedrijfsactiviteiten als bedoeld in artikel 2.3 van het besluit (bijlage bij artikel 2.1 van de Waterregeling)
 

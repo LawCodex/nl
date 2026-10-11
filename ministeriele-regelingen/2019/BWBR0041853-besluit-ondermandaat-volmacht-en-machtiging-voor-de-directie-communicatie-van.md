@@ -79,5 +79,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 10 januari 2019
 
-P.J.A. Idenburg\
-directeur Communicatie
+P.J.A. Idenburg directeur Communicatie

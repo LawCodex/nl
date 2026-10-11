@@ -37,10 +37,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 21 maart 2013
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp
 
 ## Bijlage 1 — , behorende bij artikel 1 van de Regeling modellen eigen verklaring
 

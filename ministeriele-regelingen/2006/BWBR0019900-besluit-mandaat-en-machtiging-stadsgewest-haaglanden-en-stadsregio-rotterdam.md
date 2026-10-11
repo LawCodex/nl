@@ -81,7 +81,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Stadsgewest Haag
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden verzonden aan de voorzitter van het dagelijks bestuur van het Stadsgewest Haaglanden en aan de voorzitter van het dagelijks bestuur van de Stadsregio Rotterdam.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs

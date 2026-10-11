@@ -35,7 +35,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT,\
-namens deze,\
-De Directeur-Generaal Milieu en Internationaal,\
+DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT, namens deze, De Directeur-Generaal Milieu en Internationaal,\
 R.P. Lapperre

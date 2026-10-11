@@ -47,7 +47,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 24 september 2012
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-P. deKrom
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+P. de Krom

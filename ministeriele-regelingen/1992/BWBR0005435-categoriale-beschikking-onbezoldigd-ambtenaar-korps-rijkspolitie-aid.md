@@ -35,14 +35,11 @@ Deze beschikking wordt gepubliceerd in de Nederlandse Staatscourant en in het Al
 
 's-Gravenhage 4 maart 1992
 
-De\
-minister
+De minister voornoemd,
 
-Namens de\
-minister
+Namens de minister,
 
-Het\
-hoofd van de Directie Politie
+Het hoofd van de Directie Politie,
 
 voor deze,
 

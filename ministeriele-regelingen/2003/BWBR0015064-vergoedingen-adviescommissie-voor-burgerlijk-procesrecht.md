@@ -41,12 +41,9 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 12 mei 2003
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-de\
-directeur-generaal Wetgeving, Rechtspleging en Rechtsbijstand\
+de directeur-generaal Wetgeving, Rechtspleging en Rechtsbijstand,\
 P.H. Holthuis

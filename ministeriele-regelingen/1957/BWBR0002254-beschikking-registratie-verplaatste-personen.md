@@ -167,9 +167,7 @@ Deze beschikking, welke kan worden aangehaald als: Beschikking registratie verpl
 
 's-Gravenhage 24 september 1957
 
-De\
-Minister\
-Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie\
+De Minister van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie,\
 Struycken
 
 ## Bijlage I
@@ -207,9 +205,7 @@ Kleur: wit. Formaat: 88 × 125 mm.
 <tr><td>11.</td><td>Opmerkingen:</td><td></td></tr>
 </table>
 
-Mij bekend, De\
-Minister\
-Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie\
+Mij bekend, De Minister van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie,\
 Struycken
 
 ## Bijlage II
@@ -244,9 +240,7 @@ Bij II te vermelden de geslachtsnaam, waaronder deel A van het verplaatsingsform
 
 Mij bekend,
 
-De\
-Minister\
-Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie\
+De Minister van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie,\
 Struycken
 
 [^n1]: ¹) Voor inwonende stiefkinderen geslachtsnaam en voornamen en geboortejaar van het gezinshoofd.

@@ -332,9 +332,5 @@ De Regeling archiefbeheer VWS wordt ingetrokken.
 
 Deze regeling wordt met de toelichting geplaatst in de Staatscourant en treedt in werking met ingang van de eerste dag na dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de plv. secretaris-generaal,\
-A.M.W.Kleinmeulman
+De Minister van Volksgezondheid, Welzijn en Sport,namens deze,de plv. secretaris-generaal,\
+A.M.W. Kleinmeulman

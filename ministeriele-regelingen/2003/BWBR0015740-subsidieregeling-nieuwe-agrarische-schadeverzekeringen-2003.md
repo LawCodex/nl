@@ -263,10 +263,8 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 Den Haag 17 oktober 2003
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-C.P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit\
+C.P. Veerman
 
 ## Bijlage I — Tekst accountantsverklaring, als bedoeld in artikel 16, tweede lid, onderdeel c
 

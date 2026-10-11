@@ -199,7 +199,5 @@ Deze beschikking kan worden aangehaald als: ‘Examenbeschikking accountants-adm
 
 's-Gravenhage 4 juli 1974
 
-De\
-Staatssecretaris\
-Economische Zaken\
-Th. M.Hazekamp
+De Staatssecretaris van Economische Zaken,\
+Th. M. Hazekamp

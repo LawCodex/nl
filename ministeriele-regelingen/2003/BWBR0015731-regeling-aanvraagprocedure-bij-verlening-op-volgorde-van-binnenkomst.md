@@ -157,10 +157,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 oktober 2003
 
-De\
-Minister\
-Economische Zaken\
-L.J.Brinkhorst
+De Minister van Economische Zaken,\
+L.J. Brinkhorst
 
 ## Bijlage — bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
 

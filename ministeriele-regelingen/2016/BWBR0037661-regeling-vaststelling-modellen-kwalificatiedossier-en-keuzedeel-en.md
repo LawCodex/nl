@@ -49,10 +49,8 @@ Deze regeling wordt aangehaald als: Regeling vaststelling modellen kwalificatied
 
 Deze regeling wordt met toelichting en bijlagen in de Staatscourant geplaatst. De bijlagen worden eveneens geplaatst op de websites: • www.s-bb.nl/kwalificatiedossiers; en • www.s-bb.nl/keuzedelen.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap\
+M. Bussemaker
 
 ## Bijlage 1 — behorende bij de Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016
 

@@ -39,7 +39,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,\
-namens deze,\
-DE INSPECTEUR-GENERAAL LEEFOMGEVING EN TRANSPORT,\
+DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT, namens deze, DE INSPECTEUR-GENERAAL LEEFOMGEVING EN TRANSPORT,\
 J.A. van den Bos

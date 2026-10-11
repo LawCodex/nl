@@ -37,7 +37,5 @@ In afwijking in zoverre van artikel 16 van de Uitvoeringsregeling Invorderingswe
 
 Deze regeling treedt in werking met ingang van 1 juli 1993.
 
-De\
-Staatssecretaris\
-Financiën\
-M.J.J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M.J.J. van Amelsvoort

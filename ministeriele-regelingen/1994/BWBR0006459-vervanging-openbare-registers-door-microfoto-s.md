@@ -45,8 +45,5 @@ Dit besluit treedt in werking met ingang van 1 maart 1994 en wordt opgenomen in 
 
 7 februari 1994
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-hoofddirecteur van het Kadaster en de Openbare Registers\
-J.Lohuis
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Voor deze, De hoofddirecteur van het Kadaster en de Openbare Registers,\
+J. Lohuis

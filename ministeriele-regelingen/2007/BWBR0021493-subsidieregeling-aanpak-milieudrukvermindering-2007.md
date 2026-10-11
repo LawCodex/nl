@@ -157,10 +157,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 9 maart 2007
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer
 
 ## Bijlage behorende bij artikel 1, eerste lid, onder g
 

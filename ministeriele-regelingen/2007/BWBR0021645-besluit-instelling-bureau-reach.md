@@ -101,7 +101,5 @@ Dit besluit en de daarbij behorende toelichting zullen in de Staatscourant worde
 
 Den Haag 26 maart 2007
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer

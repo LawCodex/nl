@@ -475,33 +475,19 @@ Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaan
 
 Deze regeling kan worden aangehaald als: Gemeenschappelijke regeling Regionaal Historisch Centrum Het Flevolands Archief.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,
+De Minister van Onderwijs, Cultuur en Wetenschap,
 
-Gedeputeerde staten van de provincie Flevoland\
-De voorzitter\
-De secretaris
+Gedeputeerde staten van de provincie Flevoland De voorzitter De secretaris
 
-Burgemeester en wethouders va de gemeente Dronten,\
-de burgemeester\
-de secretaris
+Burgemeester en wethouders va de gemeente Dronten, de burgemeester de secretaris
 
-Burgemeester en wethouders van de gemeente Lelystad,\
-de burgemeester\
-de secretaris
+Burgemeester en wethouders van de gemeente Lelystad, de burgemeester de secretaris
 
-Burgemeester en wethouders van de gemeente Urk,\
-de burgemeester\
-de secretaris
+Burgemeester en wethouders van de gemeente Urk, de burgemeester de secretaris
 
-Burgemeester en wethouders van degemeente Zeewolde,\
-de burgemeester\
-de secretaris
+Burgemeester en wethouders van degemeente Zeewolde, de burgemeester de secretaris
 
-Het dagelijks bestuur van het waterschap Zuiderzeeland\
-de dijkgraaf\
-de secretaris-directeur
+Het dagelijks bestuur van het waterschap Zuiderzeeland de dijkgraaf de secretaris-directeur
 
 ## Financiële bijlage bij de Gemeenschappelijke regeling Het Flevolands Archief
 

@@ -155,7 +155,5 @@ Deze regeling wordt aangehaald als: Warenwetregeling kaaskorstbedekkingsmiddelen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-EricaTerpstra
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+Erica Terpstra

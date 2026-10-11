@@ -79,12 +79,9 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 10 maart 2006
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit
+De Minister van Landbouw, Natuur en Voedselkwaliteit,
 
 namens deze:
 
-de\
-Secretaris-Generaal\
-C.J.Kalden
+de Secretaris-Generaal,\
+C.J. Kalden

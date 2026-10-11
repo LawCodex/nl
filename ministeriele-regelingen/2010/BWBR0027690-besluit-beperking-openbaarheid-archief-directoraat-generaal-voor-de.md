@@ -29,9 +29,5 @@ De Minister van Economische Zaken,
 
 Den Haag 17 mei 2010
 
-De\
-Minister\
-Economische Zaken,\
-namens deze:\
-A.F.M.Litjens,\
-Hoofd vakeenheid Informatie, Directie Bedrijfsvoering.
+De Minister van Economische Zaken,namens deze:\
+A.F.M. Litjens,Hoofd vakeenheid Informatie, Directie Bedrijfsvoering.

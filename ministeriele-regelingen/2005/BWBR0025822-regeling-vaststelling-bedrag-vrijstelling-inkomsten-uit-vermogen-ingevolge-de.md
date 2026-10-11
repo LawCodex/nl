@@ -39,7 +39,5 @@ Deze regeling treedt in werking ingang van 1 januari 2006.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-C.I.J.M.Ross-van Dorp
+De Staatssecretarisvan Volksgezondheid, Welzijn en Sport,\
+C.I.J.M. Ross-van Dorp

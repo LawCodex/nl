@@ -75,17 +75,11 @@ Deze regeling wordt aangehaald als: Warenwetregeling draagbaar klimmaterieel.
 
 Rijswijk 25 april 1986
 
-De\
-staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-J.P. van derReijden
+De staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+J.P. van der Reijden
 
-De\
-staatssecretaris\
-Economische Zaken\
-P.H. vanZeil
+De staatssecretaris van Economische Zaken,\
+P.H. van Zeil
 
-De\
-staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
+De staatssecretaris van Sociale Zaken en Werkgelegenheid,\
 A. Kappeyne van de Coppello

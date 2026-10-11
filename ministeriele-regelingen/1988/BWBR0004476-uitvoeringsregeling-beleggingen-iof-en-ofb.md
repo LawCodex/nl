@@ -84,6 +84,5 @@ Deze regeling kan worden aangehaald als: Uitvoeringsregeling beleggingen IOF en 
 
 's-Gravenhage 29 december 1988
 
-De\
-staatssecretaris\
-L. deGraaf
+De staatssecretaris voornoemd,\
+L. de Graaf

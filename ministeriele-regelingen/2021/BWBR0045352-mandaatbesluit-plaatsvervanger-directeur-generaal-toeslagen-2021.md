@@ -57,5 +57,4 @@ Dit besluit wordt aangehaald als: Mandaatbesluit plaatsvervanger directeur-gener
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-D. Hak\
-De directeur-generaal Toeslagen
+D. Hak De directeur-generaal Toeslagen

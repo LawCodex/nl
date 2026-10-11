@@ -92,14 +92,10 @@ Gegeven te 's-Gravenhage 9 oktober 2003
 
 Beatrix
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+De Minister van,Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
 S. M. Dekker
 
-De\
-Staatssecretaris\
-Defensie\
+De Staatssecretaris van, Defensie\
 C. van der Knaap
 
 de achtentwintigste oktober 2003

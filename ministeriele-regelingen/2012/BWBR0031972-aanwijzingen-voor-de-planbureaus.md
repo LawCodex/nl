@@ -35,10 +35,8 @@ Deze regeling treedt in werking op het moment dat de besluiten houdende de intre
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister-President, Minister\
-Algemene Zaken,\
-M.Rutte
+De Minister-President, Minister van Algemene Zaken,\
+M. Rutte
 
 ## Aanwijzingen voor de planbureaus
 

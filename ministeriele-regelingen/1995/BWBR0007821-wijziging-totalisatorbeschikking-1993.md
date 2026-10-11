@@ -41,22 +41,16 @@ Deze beschikking zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 22 december 1995
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij
+De Minister van Landbouw, Natuurbeheer en Visserij,
 
 voor deze,
 
-De\
-directeur-generaal Landbouw, Natuurbeheer en Visserij\
-J.F. deLeeuw
+De directeur-generaal Landbouw, Natuurbeheer en Visserij,\
+J.F. de Leeuw.
 
-'s Gravenhage, 27 december 1995. De\
-Staatssecretaris\
-Justitie
+'s Gravenhage, 27 december 1995. De Staatssecretaris van Justitie,
 
 voor deze,
 
-De plv.\
-secretaris-generaal\
-J.Demmink
+De plv. secretaris-generaal\
+J. Demmink

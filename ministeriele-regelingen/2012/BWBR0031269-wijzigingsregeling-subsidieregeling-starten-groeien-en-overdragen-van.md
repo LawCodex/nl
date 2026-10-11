@@ -53,7 +53,5 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Den Haag 7 februari 2012
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen

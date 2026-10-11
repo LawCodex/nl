@@ -44,7 +44,5 @@ Deze regeling treedt in werking op het tijdstip waarop de wet van 12 mei 2005 to
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs

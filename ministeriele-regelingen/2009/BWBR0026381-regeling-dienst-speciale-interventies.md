@@ -118,17 +118,11 @@ Deze regeling wordt aangehaald als: Regeling Dienst speciale interventies.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
-De\
-Minister\
-Defensie\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop

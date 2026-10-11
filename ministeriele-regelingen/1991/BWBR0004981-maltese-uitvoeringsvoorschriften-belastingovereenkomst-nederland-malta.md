@@ -91,7 +91,5 @@ De beschikking van de Staatssecretaris van Financiën van 19 mei 1981, nr. 081-8
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, derde lid, toepassing met betrekking tot dividenden, interest en royalty's die op of na 1 januari 1976 zijn betaald of worden betaald.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

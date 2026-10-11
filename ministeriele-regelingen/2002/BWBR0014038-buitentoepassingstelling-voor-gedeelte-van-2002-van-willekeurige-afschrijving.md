@@ -41,7 +41,5 @@ Deze regeling treedt in werking met ingang van de eerste dag na die van de dagte
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-S.R.A. vanEijck
+De Staatssecretaris van Financiën,\
+S.R.A. van Eijck

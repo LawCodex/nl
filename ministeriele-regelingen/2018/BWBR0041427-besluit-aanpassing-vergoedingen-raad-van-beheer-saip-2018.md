@@ -85,8 +85,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
-De Minister van Financiën,\
-namens dezen,\
-M. Schurink\
-secretaris-generaal Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, De Minister van Financiën, namens dezen,\
+M. Schurink secretaris-generaal Ministerie van Binnenlandse Zaken en Koninkrijksrelaties

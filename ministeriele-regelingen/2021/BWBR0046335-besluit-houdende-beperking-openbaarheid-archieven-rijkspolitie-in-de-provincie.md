@@ -77,7 +77,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van Archieven van de Rijkspolitie in de provincie Noord-Brabant, Districten Eindhoven, ‘s-Hertogenbosch en Breda, (1937) 1945–1993 (1995)
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-M. van Rooij\
-Plaatsvervangend directeur Dienstencentrum
+De Minister van Justitie en Veiligheid, namens deze,\
+M. van Rooij Plaatsvervangend directeur Dienstencentrum

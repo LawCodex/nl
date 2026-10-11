@@ -175,13 +175,13 @@ Gegeven te 's-Gravenhage 1 november 2007
 
 Beatrix
 
-DeMinistervoorJeugd en Gezin\
-A.Rouvoet
+DeMinistervoorJeugd en Gezin,\
+A. Rouvoet
 
-De Staatssecretaris van Financiën\
-J. C. deJager
+De Staatssecretaris van Financiën,\
+J. C. de Jager
 
 de *tweede* november 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

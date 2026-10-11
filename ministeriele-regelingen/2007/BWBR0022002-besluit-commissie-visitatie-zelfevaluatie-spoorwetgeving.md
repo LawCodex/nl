@@ -88,7 +88,5 @@ Dit besluit wordt aangehaald als: Besluit Commissie visitatie zelfevaluatie spoo
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings

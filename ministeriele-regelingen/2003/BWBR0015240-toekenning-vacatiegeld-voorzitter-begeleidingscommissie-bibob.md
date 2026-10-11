@@ -35,12 +35,8 @@ Deze beschikking wordt gepubliceerd in de Staatscourant.
 
 Den Haag 17 juni 2003
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 J.W. Remkes
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner

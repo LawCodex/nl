@@ -84,10 +84,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 18 december 1996
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken\
-J.Kohnstamm
+De Staatssecretaris van Binnenlandse Zaken,\
+J. Kohnstamm
 
 ## Bijlage
 

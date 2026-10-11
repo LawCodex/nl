@@ -41,6 +41,5 @@ Dit besluit zal in de Nederlandse Staatscourant worden geplaatst.
 
 's-Gravenhage 31 juli 1979
 
-De\
-Minister\
-A. Pais
+De Minister voornoemd,\
+A. Pais, a.i

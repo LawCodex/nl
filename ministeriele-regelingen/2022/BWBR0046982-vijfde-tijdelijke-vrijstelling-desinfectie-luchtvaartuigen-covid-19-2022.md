@@ -54,9 +54,7 @@ Dit besluit wordt aangehaald als: Vijfde tijdelijke vrijstelling desinfectie luc
 
 Dit besluit zal met bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Infrastructuur en Waterstaat,\
-namens deze\
-de directeur-generaal Milieu en Internationaal,\
+De Staatssecretaris van Infrastructuur en Waterstaat, namens deze de directeur-generaal Milieu en Internationaal,\
 R.P. Lapperre
 
 ## Bijlage — bedoeld in artikel 2

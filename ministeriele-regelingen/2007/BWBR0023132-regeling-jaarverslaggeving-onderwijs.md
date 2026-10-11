@@ -182,10 +182,8 @@ Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs.
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-R.H.A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.H.A. Plasterk
 
 ## Bijlage 0 — behorende bij artikel 3, onderdeel e1, van de regeling
 

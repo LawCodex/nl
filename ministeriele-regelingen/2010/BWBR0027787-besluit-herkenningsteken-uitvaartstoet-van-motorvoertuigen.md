@@ -58,7 +58,5 @@ Deze regeling wordt aangehaald als: Besluit herkenningsteken uitvaartstoet van m
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat,\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings

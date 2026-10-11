@@ -54,12 +54,8 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken,\
-Namens deze\
-Plaatsvervangend Secretaris-Generaal\
-R. vanRoeden
+De Minister van Buitenlandse Zaken,Namens dezePlaatsvervangend Secretaris-Generaal\
+R. van Roeden
 
 ## Bijlage — als bedoeld in artikel 3
 

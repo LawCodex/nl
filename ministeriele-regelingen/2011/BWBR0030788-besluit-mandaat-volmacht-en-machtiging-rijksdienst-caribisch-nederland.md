@@ -57,7 +57,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 12 december 2011
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen

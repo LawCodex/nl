@@ -47,9 +47,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
 R.M. Buijs
 
 ## Doelen en Criteria Peace and Security 4 All fonds
@@ -210,4 +208,4 @@ Voorstellen kunnen ingediend worden bij TFVG@minbuza.nl. Een projectvoorstel bes
 
 [^n4]: 4 Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 3 mei 2016, nr. MINBUZA-2016.242245, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Vrouwen, vrede en veiligheid 2016–2019), Stcrt. 2016, nr. 2450.
 
-[^n5]: 5 Signatories of the Dutch NAP have agreed to work towards the following overall objective: *Contribute to an enabling environment for women’s participation and empowerment in conflict and post-conflict environments, so they can meaningfully participate in conflict prevention, resolution, peacebuilding, protection, relief and recovery.* To help create an enabling environment, three specific goals have been formulated:
+[^n5]: 5 Signatories of the Dutch NAP have agreed to work towards the following overall objective: *Contribute to an enabling environment for women’s participation and empowerment in conflict and post-conflict environments, so they can meaningfully participate in conflict prevention, resolution, peacebuilding, protection, relief and recovery.* To help create an enabling environment, three specific goals have been formulated: Better protect women and girls in conflict and post-conflict situations from violence and violations of their rights; Subvert harmful underlying gender norms, which are obstacles to sustainable peace; sure that women have equal leverage in conflict prevention and resolution, peacebuilding, relief and recovery at all levels, and that their efforts are acknowledged and supported (The Netherlands National Action Plan on Women, Peace and Security 2016–2019).

@@ -45,12 +45,8 @@ Deze beschikking treedt in werking met ingang van 1 juli 2003, behoudens artikel
 
 Deze beschikking zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
+De Minister van Landbouw, Natuurbeheer en Visserij,\
 C.P. Veerman
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner.

@@ -33,9 +33,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 30 december 2020
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-Voor deze,\
-De Algemene Rijksarchivaris,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, Voor deze, De Algemene Rijksarchivaris,\
 M.L. Engelhard
 
 ## Bijlage — bij het Besluit inzake de termijn van beperking van de openbaarheid van de naar de rijksarchiefbewaarplaatsen over te brengen dossiers in het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921 – 1972

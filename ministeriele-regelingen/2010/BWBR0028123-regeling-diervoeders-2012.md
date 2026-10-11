@@ -654,10 +654,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 20 augustus 2010
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit,\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
 ## Bijlage 1 — behorend bij artikel 56
 

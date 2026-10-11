@@ -59,6 +59,5 @@ gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken f
 
 ’s-Gravenhage 25 oktober 1999
 
-De\
-directeur-generaal van de Volkshuisvesting\
-L.H.Kokhuis
+De directeur-generaal van de Volkshuisvesting,\
+L.H. Kokhuis

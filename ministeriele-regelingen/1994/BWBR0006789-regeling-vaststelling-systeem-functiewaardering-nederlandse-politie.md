@@ -35,10 +35,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 's-Gravenhage 5 juli 1994
 
-De\
-Minister\
-Binnenlandse Zaken\
-D. IJ. W. deGraaff-Nauta
+De Minister van Binnenlandse Zaken,\
+D. IJ. W. de Graaff-Nauta
 
 ## Bijlage 1
 

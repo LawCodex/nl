@@ -73,6 +73,5 @@ Deze regeling treedt in werking met ingang van de dag na die van haar bekendmaki
 
 Rijswijk 27 januari 1988
 
-De\
-Minister\
-L. C.Brinkman
+De Minister voornoemd,\
+L. C. Brinkman

@@ -157,7 +157,5 @@ Deze regeling wordt aangehaald als ”Regeling tegemoetkoming onderwijsbijdrage 
 
 Deze regeling wordt met toelichting in Uitleg OCenW regelingen geplaatst. Van deze plaatsing wordt melding gedaan in de Staatscourant.
 
-De\
-minister\
-onderwijs, cultuur en wetenschappen\
+De minister van onderwijs, cultuur en wetenschappen,\
 L.M.L.H.A. Hermans

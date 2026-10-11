@@ -232,7 +232,5 @@ Deze regeling kan worden aangehaald als: Regeling subsidiëring Extra Impuls nat
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-J.J. vanAartsen
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+J.J. van Aartsen

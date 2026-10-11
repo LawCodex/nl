@@ -577,10 +577,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 's-Gravenhage 14 april 1994
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma
 
 ## Bijlage 1
 

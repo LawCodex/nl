@@ -39,10 +39,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-Minister voor Ontwikkelingssamenwerking\
-namens deze:\
-waarnemend Secretaris-Generaal\
-A.H.M.Stoelinga
+De Minister van Buitenlandse Zaken, de Minister voor Ontwikkelingssamenwerking, namens deze:de waarnemend Secretaris-Generaal,\
+A.H.M. Stoelinga

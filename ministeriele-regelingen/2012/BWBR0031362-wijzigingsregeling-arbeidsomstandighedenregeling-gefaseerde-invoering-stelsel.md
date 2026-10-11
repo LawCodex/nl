@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Den Haag 28 februari 2012
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-P. deKrom
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+P. de Krom

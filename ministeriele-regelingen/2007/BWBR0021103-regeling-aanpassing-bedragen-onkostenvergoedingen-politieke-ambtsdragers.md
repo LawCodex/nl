@@ -91,7 +91,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes

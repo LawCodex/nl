@@ -66,7 +66,5 @@ Deze beschikking vervalt met ingang van 1 januari 2027.
 
 Hoogachtend,
 
-De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
-namens deze:\
-G.J. Buitendijk\
-directeur-generaal Werk
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid, namens deze:\
+G.J. Buitendijk directeur-generaal Werk

@@ -33,7 +33,5 @@ Deze regeling treedt in werking op 1 juli 2007.
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos

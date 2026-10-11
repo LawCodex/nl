@@ -67,6 +67,5 @@ Dit besluit zal worden gepubliceerd in de Staatscourant.
 
 ’s-Gravenhage 26 november 1997
 
-De\
-Minister\
-W.Sorgdrager
+De Minister voornoemd,\
+W. Sorgdrager

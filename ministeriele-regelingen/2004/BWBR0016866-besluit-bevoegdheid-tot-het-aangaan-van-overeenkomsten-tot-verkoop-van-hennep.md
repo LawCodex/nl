@@ -41,7 +41,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening in 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport\
+J.F. Hoogervorst

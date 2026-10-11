@@ -85,7 +85,5 @@ De commissie biedt haar advies, bedoeld in artikel 3, onder a, binnen twee maand
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

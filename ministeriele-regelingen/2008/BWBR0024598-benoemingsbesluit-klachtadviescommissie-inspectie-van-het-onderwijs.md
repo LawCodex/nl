@@ -60,7 +60,5 @@ Dit besluit wordt aangehaald als: Benoemingsbesluit klachtadviescommissie Inspec
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden toegezonden aan betrokkenen.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-R.H.A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.H.A. Plasterk

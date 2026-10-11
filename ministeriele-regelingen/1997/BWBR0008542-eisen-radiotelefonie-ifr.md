@@ -52,7 +52,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Den Haag 10 februari 1997
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

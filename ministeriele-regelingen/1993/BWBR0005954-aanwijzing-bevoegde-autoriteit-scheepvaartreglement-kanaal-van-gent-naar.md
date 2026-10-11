@@ -85,7 +85,5 @@ Deze beschikking treedt in werking met ingang van de tweede dag na de dagtekenin
 
 's-Gravenhage 15 april 1993
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen

@@ -27,12 +27,9 @@ voor de afgifte van verklaringen, als bedoeld in artikel 3, derde lid, en artike
 
 's-Gravenhage 9 juli 1971
 
-De\
-Minister\
-Onderwijs en Wetenschappen
+De Minister van Onderwijs en Wetenschappen,
 
 Namens deze.
 
-De\
-directeur-generaal voor het onderwijs\
-J.G.M.Broekman
+De directeur-generaal voor het onderwijs, Mr.\
+J.G.M. Broekman

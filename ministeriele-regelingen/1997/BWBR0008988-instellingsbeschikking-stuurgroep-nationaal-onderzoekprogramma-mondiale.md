@@ -86,7 +86,5 @@ De stuurgroep stelt aan het begin van de programmaperiode van fase 2 van het pro
 
 ’s-Gravenhage 31 oktober 1997
 
-De\
-Minister\
-Volkshuisvesting\
-M. deBoer
+De Minister van Volkshuisvesting,\
+M. de Boer

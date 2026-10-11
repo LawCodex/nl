@@ -79,7 +79,5 @@ Dit besluit wordt in de Staatscourant geplaatst.
 
 Den Haag 17 september 2008
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer

@@ -79,13 +79,13 @@ Gegeven te ’s-Gravenhage 2 november 2006
 
 Beatrix
 
-De Minister van Verkeer en Waterstaat\
-K. M. H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K. M. H. Peijs
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 de *zevende* december 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

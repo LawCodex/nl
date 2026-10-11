@@ -29,7 +29,5 @@ De Regeling inzake instelling van specialismen, volgend op het basisberoep Verpl
 
 Dit besluit en voornoemde regeling zullen worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

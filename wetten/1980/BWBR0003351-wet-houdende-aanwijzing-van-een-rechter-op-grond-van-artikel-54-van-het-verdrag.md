@@ -27,7 +27,7 @@ Alzo Wij in overweging genomen hebben, dat op grond van artikel 54 van het Verdr
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## artikel Enig
+## Enig artikel
 
 1\. Erkenning en tenuitvoerlegging in Nederland van een uitspraak uit kracht van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten (*Trb.* 1966, 152), kan bij advocaat worden verzocht aan de voorzieningenrechter van de rechtbank Den Haag.
 

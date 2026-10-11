@@ -47,7 +47,5 @@ Dit besluit treedt in werking met ingang van 1 april 2004.
 
 Den Haag 31 maart 2004
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
+De Minister van Onderwijs, Cultuur en Wetenschap,\
 M.J.A. van der Hoeven

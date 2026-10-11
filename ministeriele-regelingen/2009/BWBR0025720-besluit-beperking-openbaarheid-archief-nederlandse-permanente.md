@@ -49,12 +49,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Nederlandse permanente vertegenwoordiging bij de Economische Commissie van Azië en het Verre Oosten (ECAFE), later Economische en Sociale Commissie voor Azië en het Stille Oceaangebied (ESCAP) te Bangkok van het Ministerie van Buitenlandse Zaken, 1956–1974’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-namens deze:\
-de directeur van de Directie Documentaire Informatievoorziening\
-H.Y.Buijs
+De Minister van Buitenlandse Zaken, namens deze:de directeur van de Directie Documentaire Informatievoorziening,\
+H.Y. Buijs
 
 ## Bijlage
 

@@ -41,10 +41,8 @@ Dit besluit treedt in werking op 1 augustus 2005.
 
 Den Haag 11 juli 2005
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner
 
 ## Bijlage
 

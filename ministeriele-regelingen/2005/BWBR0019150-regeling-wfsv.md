@@ -1228,15 +1228,11 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Den Haag 2 december 2005
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-A.J. deGeus
+De Minister van Sociale Zaken en Werkgelegenheid,\
+A.J. de Geus
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën,\
+J.G. Wijn
 
 ## Bijlage 1 — behorend bij artikel 5.2
 

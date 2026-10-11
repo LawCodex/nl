@@ -122,9 +122,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Expertise Netwerk Waterveil
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-namens deze,\
-de Directeur-generaal Ruimte en Water,\
-P.R.Heij
+De Minister van Infrastructuur en Milieu,namens deze,de Directeur-generaal Ruimte en Water,\
+P.R. Heij

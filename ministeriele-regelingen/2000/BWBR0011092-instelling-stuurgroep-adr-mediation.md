@@ -75,7 +75,5 @@ Dit besluit zal worden gepubliceerd in de Staatscourant.
 
 ’s-Gravenhage 12 januari 2000
 
-De\
-Staatssecretaris\
-Justitie\
-M.J.Cohen
+De Staatssecretaris van Justitie,\
+M.J. Cohen

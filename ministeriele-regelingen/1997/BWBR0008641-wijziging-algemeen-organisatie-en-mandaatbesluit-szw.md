@@ -51,7 +51,6 @@ De Minister voornoemd,
 
 namens deze,
 
-De\
-Secretaris-Generaal
+De Secretaris-Generaal,
 
 R. Gerritse

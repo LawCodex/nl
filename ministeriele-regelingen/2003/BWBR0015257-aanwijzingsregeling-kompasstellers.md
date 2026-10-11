@@ -47,7 +47,5 @@ Deze beschikking treedt in werking met ingang van de tweede dag na de dagtekenin
 
 Deze beschikking zal in de Staatscourant, in de Curaçaosche Courant en in de Landscourant van Aruba worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat,\
+De Ministervan Verkeer en Waterstaat,\
 K.M.H. Peijs.

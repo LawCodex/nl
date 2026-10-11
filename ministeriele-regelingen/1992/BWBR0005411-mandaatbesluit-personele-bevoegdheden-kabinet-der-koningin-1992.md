@@ -63,10 +63,8 @@ Afschrift van dit besluit zal worden gezonden aan de Algemene Rekenkamer en de h
 
 's-Gravenhage 3 februari 1992
 
-De\
-minister\
-Binnenlandse Zaken\
-C. I.Dales
+De minister van Binnenlandse Zaken\
+C. I. Dales
 
 ## Bijlage
 

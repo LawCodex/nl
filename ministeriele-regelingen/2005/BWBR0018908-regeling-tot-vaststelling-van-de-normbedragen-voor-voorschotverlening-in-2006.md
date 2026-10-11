@@ -45,10 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 21 oktober 2005
 
-De\
-Minister\
-Justitie\
-namens deze:\
-Directeur\
-Toegang rechtsbestel\
-A.E.M.Horbach
+De Minister van Justitie, namens deze: de DirecteurToegang rechtsbestel,\
+A.E.M. Horbach

@@ -1,0 +1,199 @@
+---
+title: "Regeling modellen van akte gerechtelijke mededelingen 2026"
+identifier: "BWBR0052474"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2026-03-13
+last_amended: 2026-05-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0052474/2026-05-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/BWBR0052474_2026-05-01_0.xml"
+authority: "Justitie en Veiligheid"
+rechtsgebied: ["Procesrecht", "Strafprocesrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling modellen van akte gerechtelijke mededelingen 2026
+
+*Regeling van de Minister van Justitie en Veiligheid van 13 maart 2026 nr. 6849024, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen 2026 (Regeling modellen van akte gerechtelijke mededelingen 2026)*
+
+De Minister van Justitie en Veiligheid,
+
+Gelet op de artikelen 36h, vijfde lid, en 36i, tweede lid, van het Wetboek van Strafvordering en artikel 3 van het Besluit kennisgeving gerechtelijke mededelingen,
+
+Besluit:
+
+## Hoofdstuk I — Digitale akten
+
+### Artikel 1 — Bepalingen
+
+1\. De modellen van akten, bedoeld in artikel 36h, vijfde lid, van het Wetboek van Strafvordering, kunnen digitaal worden opgemaakt op basis van de bestanddelen als bedoeld in de artikelen 2 tot en met 5.
+
+2\. Bij het opstellen van de akte biedt het systeem de uitreiker de mogelijkheid om stapsgewijs keuzes te maken die bepalend zijn voor de structuur en inhoud van de akte.
+
+### Artikel 2 — Primaire bestanddelen
+
+1\. Op de akte worden de volgende bestanddelen opgenomen:
+
+- a. ‘uitsturende autoriteit’; en
+- b. ‘nr. gerechtelijke mededeling’; en
+- c. ‘nr. betekeningsopdracht’; en
+- d. ‘betreft’; en
+- e. ‘kenmerk’; en
+- f. ‘plaats en tijdstip van de handeling’; en
+- g. ‘Deze akte is geautomatiseerd aangemaakt op basis van de informatie die op deze betekening van toepassing is.’; en
+- h. ‘Ik heb de bevindingen vermeld bij de gegevens omtrent de uitreiking en handelingen naar waarheid opgemaakt.’: en
+- i. ‘naam en voorletters uitreikende ambtenaar’; en
+- j. ‘handtekening uitreikende ambtenaar’.
+
+2\. Indien wordt uitgereikt aan de geadresseerde, zijnde een natuurlijk persoon, dan wel een poging daartoe geschiedt, worden tevens opgenomen:
+
+- a. ‘naam’; en
+- b. ‘voornamen’; en
+- c. ‘geboortedatum’; en
+- d. ‘geboorteplaats’.
+
+3\. Indien aan een rechtspersoon wordt uitgereikt, dan wel een poging daartoe geschiedt, worden tevens opgenomen:
+
+- a. ‘naam’; en
+- b. ‘adres’; en
+- c. ‘woonplaats’.
+
+### Artikel 3 — Uitreiking ten behoeve van een zitting
+
+Indien sprake is van een zitting, worden de volgende bestanddelen opgenomen:
+
+- a. ‘zitting’; en
+- b. ‘datum’; en
+- c. ‘tijdstip’.
+
+### Artikel 4 — Uitreiking geslaagd
+
+1\. Indien de uitreiking is geslaagd, worden de volgende bestanddelen opgenomen:
+
+- a. Hetzij bij uitreiking aan de geadresseerde, zijnde een natuurlijk persoon:
+  - 1°. ‘De brief is uitgereikt aan de geadresseerde.’
+- b. Hetzij bij uitreiking aan degene die is aangetroffen op het adres van de geadresseerde, niet zijnde de geadresseerde natuurlijke persoon:
+  - 1°. ‘De brief is uitgereikt aan een ander op het vermelde adres, die heeft toegezegd de brief onmiddellijk aan de geadresseerde te overhandigen.’
+- c. Hetzij bij uitreiking aan de geadresseerde, zijnde een rechtspersoon:
+  - 1°. ‘De brief is uitgereikt aan een bestuurder van geadresseerde.’; hetzij
+  - 2°. ‘De brief is uitgereikt aan een door geadresseerde gemachtigde persoon.’
+- d. Hetzij bij uitreiking aan degene die is aangetroffen op het adres van de geadresseerde, niet zijnde de bestuurder of een gemachtigde persoon van de geadresseerde rechtspersoon:
+  - 1°. ‘De brief is uitgereikt aan een werknemer van geadresseerde die zich bereid verklaart de brief te bezorgen aan de bestuurder of gemachtigde persoon van geadresseerde.’
+
+2\. Indien er is uitgereikt aan een ander dan de geadresseerde, wordt tevens opgenomen:
+
+- a. ‘naam en voorletters van de ontvanger’.
+
+3\. Tevens worden zo mogelijk opgenomen:
+
+- a. ‘soort en nummer van het identificatiedocument van de ontvanger’; en
+- b. ‘handtekening van de ontvanger’.
+
+4\. Indien er is uitgereikt aan de geadresseerde met een verklaring van afstand, worden tevens bestanddelen opgenomen:
+
+- a. ‘Ondergetekende gaat ermee akkoord dat deze brief op kortere dan de wettelijke termijn voor de terechtzitting wordt uitgereikt.’; en
+- b. ‘handtekening geadresseerde’.
+
+### Artikel 5 — Uitreiking niet geslaagd
+
+1\. Indien de uitreiking niet is geslaagd, worden de volgende bestanddelen opgenomen:
+
+- a. Hetzij bij een poging tot uitreiking aan een natuurlijk persoon:
+  - 1°. ‘Geadresseerde weigert de brief in ontvangst te nemen.’; hetzij
+  - 2°. ‘Geadresseerde woont niet (meer) op het vermelde adres.’; hetzij
+  - 3°. ‘Het is onduidelijk of het vermelde adres bestaat.’; hetzij
+  - 4°. ‘Geadresseerde is niet aanwezig op het vermelde adres.’; hetzij
+  - 5°. ‘Er is niemand aanwezig of bereid om de brief aan te nemen.’; hetzij
+  - 6°. ‘Geadresseerde is niet aanwezig ondanks gemaakte afspraak.’.
+- b. Hetzij bij een poging tot uitreiking aan een rechtspersoon:
+  - 1°. ‘Bestuurder, gemachtigde of werknemer weigert de brief in ontvangst te nemen.’; hetzij
+  - 2°. ‘Geadresseerde is niet (meer) op het vermelde adres gevestigd.’; hetzij
+  - 3°. ‘Het is onduidelijk of het vermelde adres bestaat.’; hetzij
+  - 4°. ‘Er is niemand aanwezig op het vermelde adres.’; hetzij
+  - 5°. ‘Er is niemand aanwezig ondanks gemaakte afspraak.’.
+
+2\. Indien meerdere pogingen tot uitreiking zijn gedaan worden tevens de volgende bestanddelen opgenomen:
+
+- a. ‘Er was niemand aanwezig om de brief in ontvangst te nemen op:’ en
+- b. ‘datum en tijdstip van eerste poging tot uitreiking’; en
+- c. Indien van toepassing, ‘datum en tijdstip van tweede poging tot uitreiking’.
+
+3\. Indien er eerder een brief is geplaatst in de MijnOverheid Berichtenbox, welke niet is betekend na plaatsing, worden tevens de volgende bestanddelen opgenomen:
+
+- a. ‘De brief is ook fysiek niet uitgereikt, na eerdere plaatsing in de MijnOverheid Berichtenbox van geadresseerde op:’; en
+- b. ‘datum en tijdstip plaatsing in de Berichtenbox’.
+
+## Hoofdstuk II — Niet-digitale akten
+
+### Artikel 6
+
+De modellen van akte, bedoeld in artikel 36h, vijfde lid en 36i, tweede lid van het Wetboek van Strafvordering, kunnen tevens worden opgesteld overeenkomstig de bijlagen 1 tot en met 8.
+
+## Hoofdstuk III — Elektronische overdracht
+
+### Artikel 7
+
+De elektronische overdracht, bedoeld in 36b, tweede lid, en 36i, tweede lid, van het Wetboek van Strafvordering, kan worden vastgelegd overeenkomstig bijlage 9.
+
+## Hoofdstuk IV — Slotbepalingen
+
+### Artikel 8 — Intrekking oude regeling
+
+De Regeling modellen van akte gerechtelijke mededelingen Hoge Raad en de Regeling modellen van akte gerechtelijke mededelingen 2021 worden ingetrokken.
+
+### Artikel 9 — Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 mei 2026.
+
+### Artikel 10 — Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling modellen van akte gerechtelijke mededelingen 2026.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+’s-Gravenhage 13 maart 2026
+
+De Minister van Justitie en Veiligheid,\
+D.M. van Weel
+
+De Staatssecretaris van Justitie en Veiligheid,\
+K.T. van Bruggen
+
+## Bijlage 1
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/274198.png)
+
+## Bijlage 2
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/274199.png)
+
+## Bijlage 3
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/274200.png)
+
+## Bijlage 4
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/274201.png)
+
+## Bijlage 5
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/274202.png)
+
+## Bijlage 6
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/274203.png)
+
+## Bijlage 7
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/274204.png)
+
+## Bijlage 8
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/274205.png)
+
+## Bijlage 9
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052474/2026-05-01_0/xml/274206.png)

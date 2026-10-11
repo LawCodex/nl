@@ -33,11 +33,9 @@ Als gebied, waarin artikel 2, eerste lid, van het Besluit regeling vergoeding Bi
 
 Deze beschikking wordt met de daarbij behorende toelichting in de Staatscourant geplaatst en treedt in werking met ingang van 1 maart 1997.
 
-De\
-Minister
+De Minister voornoemd,
 
 namens deze,
 
-de\
-Directeur Verzekeringen en Prijsvorming Zorgsector\
-S.G.Rijpma
+de Directeur Verzekeringen en Prijsvorming Zorgsector,\
+S.G. Rijpma

@@ -34,7 +34,5 @@ Deze regeling treedt in werking met ingang van 1 januari 1992.
 
 's-Gravenhage 18 september 1991
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

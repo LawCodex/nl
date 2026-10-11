@@ -59,10 +59,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 4 maart 2021
 
-Minister van Financiën\
-Namens deze:\
-J.H. van Gelder\
-Plaatsvervangend Secretaris-generaal
+Minister van Financiën Namens deze:\
+J.H. van Gelder Plaatsvervangend Secretaris-generaal
 
 ## Bijlage 1
 

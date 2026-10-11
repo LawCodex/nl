@@ -85,7 +85,5 @@ Ter uitvoering van artikel 1 is van de zijde van Bangladesh de volgende regeling
 
 2\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty’s die in enig aanslagjaar dat aanvangt op of na 1 juli 1995 zijn betaald of worden betaald.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

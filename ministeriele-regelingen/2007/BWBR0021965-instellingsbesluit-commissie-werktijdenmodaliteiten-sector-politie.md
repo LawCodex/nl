@@ -87,7 +87,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit commissie werktijdenmodalit
 
 Dit besluit zal in de Staatscourant worden bekendgemaakt.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst

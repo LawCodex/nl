@@ -47,7 +47,5 @@ Deze regeling wordt aangehaald als: Regeling bekostiging leerlingen die tijdelij
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-J.M. vanBijsterveldt-Vliegenthart
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart

@@ -102,10 +102,8 @@ Dit besluit treedt in werking met ingang van 17 oktober 2022.
 
 Dit besluit zal met de bijlagen in de Staatscourant worden geplaatst.
 
-De Minister van Buitenlandse Zaken,\
-namens deze,\
-D.J. Nieuwenhuis\
-Directeur Consulaire Zaken en Visumbeleid
+De Minister van Buitenlandse Zaken, namens deze,\
+D.J. Nieuwenhuis Directeur Consulaire Zaken en Visumbeleid
 
 ## Bijlage A
 

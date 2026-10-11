@@ -27,13 +27,11 @@ Na op 7 november 2016 schriftelijk mededeling te hebben gedaan aan de Eerste en 
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit voorziet erin dat met ingang van 1 januari 2017 ook voor het modulair pakket thuis vaste tarieven en prestatiebeschrijvingen gelden voor het schoonhouden van de woonruimte, bedoeld in artikel 3.1.1, eerste lid, onderdeel a, onder 2°, van de Wet langdurige zorg.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

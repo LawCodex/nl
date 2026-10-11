@@ -65,7 +65,5 @@ Er is een Beleidsteam voor de advisering en ondersteuning van de Minister van Ve
 
 Deze regeling wordt in de staatscourant geplaatst en wordt aangehaald als: Instellingsregeling Beleidsteam DSI 2009.
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

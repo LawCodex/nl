@@ -45,7 +45,5 @@ Deze regeling wordt aangehaald als: Vergoedingenregeling College voor toetsen en
 
 Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker

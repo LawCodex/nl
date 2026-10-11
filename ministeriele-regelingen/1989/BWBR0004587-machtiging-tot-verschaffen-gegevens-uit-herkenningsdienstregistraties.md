@@ -41,13 +41,10 @@ Deze beschikking zal worden gepubliceerd in de Nederlandse Staatscourant en het 
 
 's-Gravenhage 6 juli 1989
 
-De\
-minister
+De minister voornoemd,
 
-Namens de\
-minister
+Namens de minister,
 
-Het\
-hoofd van de Directie politie
+Het hoofd van de Directie politie,
 
 J. H. A. M. Peek, plv

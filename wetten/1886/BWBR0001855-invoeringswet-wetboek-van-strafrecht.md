@@ -417,8 +417,7 @@ W. GERICKE.
 De Minister van Waterstaat, Handel en Nijverheid,\
 VAN DEN BERGH.
 
-De Minister van Staat,\
-Minister van Binnenlandsche Zaken,\
+De Minister van Staat, Minister van Binnenlandsche Zaken,\
 HEEMSKERK.
 
 den dertienden Mei 1886.

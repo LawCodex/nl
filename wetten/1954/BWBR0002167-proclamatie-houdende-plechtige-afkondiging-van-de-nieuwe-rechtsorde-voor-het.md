@@ -68,11 +68,6 @@ W. DREES.
 De Minister van Overzeese Rijksdelen,\
 W. J. A. KERNKAMP.
 
-In tegenwoordigheid van:\
-A. CURRIE\
-Minister-President,\
-Minister van Algemene Zaken en van Binnenlandse Zaken van Suriname.
+In tegenwoordigheid van: A. CURRIE Minister-President, Minister van Algemene Zaken en van Binnenlandse Zaken van Suriname.
 
-E. JONCKHEER\
-Minister-President,\
-Minister van Algemene Zaken van de Nederlandse Antillen.
+E. JONCKHEER Minister-President, Minister van Algemene Zaken van de Nederlandse Antillen.

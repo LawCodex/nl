@@ -39,7 +39,5 @@ Artikel 84a van de Wet op de accijns vindt geen toepassing.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

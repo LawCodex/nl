@@ -52,7 +52,5 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing klassenbureaus Wet voork
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa

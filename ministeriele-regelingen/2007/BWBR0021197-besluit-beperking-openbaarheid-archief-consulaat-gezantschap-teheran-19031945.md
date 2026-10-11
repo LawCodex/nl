@@ -51,10 +51,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in het buitenland te Iran, consulaat/gezantschap Teheran 1903–1945’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Formulier voor toestemming tot raadpleging van niet-openbare archieven
 

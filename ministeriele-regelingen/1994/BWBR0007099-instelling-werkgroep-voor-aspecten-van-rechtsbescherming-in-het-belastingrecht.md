@@ -80,7 +80,5 @@ Een ieder die betrokken is bij de werkzaamheden van de Werkgroep en daarbij de b
 
 Dit besluit zal in de Staatscourant worden geplaatst. Een afschrift van dit besluit wordt gezonden naar de Algemene Rekenkamer.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

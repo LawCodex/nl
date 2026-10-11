@@ -1177,10 +1177,8 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 7 december 2012
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp.
+De Minister van Economische Zaken,\
+H.G.J. Kamp.
 
 ## Bijlage 1 — behorende bij artikel 2.17
 

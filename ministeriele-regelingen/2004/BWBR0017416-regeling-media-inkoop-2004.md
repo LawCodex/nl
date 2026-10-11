@@ -62,8 +62,5 @@ Onverminderd hetgeen in de hierna volgende artikelen wordt bepaald, berust de ve
 
 3\. Deze regeling wordt aangehaald als: Regeling media-inkoop 2004.
 
-De\
-Minister-President\
-Minister\
-Algemene Zaken\
-J.P.Balkenende
+De Minister-President, Minister van Algemene Zaken,\
+J.P. Balkenende

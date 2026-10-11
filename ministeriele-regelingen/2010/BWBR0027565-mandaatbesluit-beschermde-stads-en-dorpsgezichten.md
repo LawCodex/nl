@@ -67,7 +67,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 16 april 2010
 
-De\
-minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.C.Huizinga-Heringa
+De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.C. Huizinga-Heringa

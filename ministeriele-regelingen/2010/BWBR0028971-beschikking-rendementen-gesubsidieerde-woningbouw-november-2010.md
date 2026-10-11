@@ -41,11 +41,5 @@ Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoning
 
 Den Haag 12 november 2010
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-voor deze:\
-de algemeen directeur van Agentschap NL,\
-op last:\
-G. denOude,\
-Opdrachtmanager.
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,voor deze:de algemeen directeur van Agentschap NL,op last:\
+G. den Oude,Opdrachtmanager.

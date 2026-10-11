@@ -96,9 +96,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de plaatsvervangend directeur-generaal Internationale Samenwerking,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de plaatsvervangend directeur-generaal Internationale Samenwerking,\
 B. Tazelaar
 
 [^n1]: 1 Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 27 mei 2018, nummer Min-BuZa.2018.1211-42, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma SDG Partnerschapfaciliteit), Stcrt. 2018, nr. 32302.

@@ -56,7 +56,5 @@ De diensten en leveringen bedoeld in artikel 1 behelzen:
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
-namens deze,\
-M. Schurink\
-Secretaris-Generaal Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, namens deze,\
+M. Schurink Secretaris-Generaal Ministerie van Binnenlandse Zaken en Koninkrijksrelaties

@@ -59,7 +59,5 @@ LMA is bevoegd tot het verlenen van ondermandaat aan bij LMA in dienst zijnde fu
 
 Dit besluit treedt in werking met ingang van de dag na publicatie in de Staatscourant en werkt terug tot en met 1 april 2006.
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner

@@ -41,9 +41,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-Namens deze,\
-de Directeur-Generaal Internationale Samenwerking,\
-C.Rebergen
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,Namens deze,de Directeur-Generaal Internationale Samenwerking,\
+C. Rebergen

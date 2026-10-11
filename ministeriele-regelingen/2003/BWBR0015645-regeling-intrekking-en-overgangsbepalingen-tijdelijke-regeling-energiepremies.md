@@ -56,7 +56,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 30 september 2003
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+S.M. Dekker

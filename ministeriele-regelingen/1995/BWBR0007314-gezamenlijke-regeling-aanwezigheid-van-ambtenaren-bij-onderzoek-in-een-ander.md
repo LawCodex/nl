@@ -85,27 +85,19 @@ Deze regeling zal in de Nederlandse Staatscourant, de Curaçaosche Courant en de
 
 Den Haag 31 maart 1995
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën van Nederland,\
 W.A. Vermeend
 
-De\
-Minister\
-Financiën
+De Minister van Financiën van de Nederlandse Antillen,
 
 namens deze,
 
-De Gevolmachtigde\
-Minister\
+De GevolmachtigdeMinister van de Nederlandse Antillen,\
 C.P. de Haseth.
 
-De\
-Minister\
-Financiën
+DeMinister van Financiën van Aruba,
 
 namens deze,
 
-De Gevolmachtigde\
-Minister\
+De Gevolmachtigde Minister van Aruba, A.G.\
 Croes.

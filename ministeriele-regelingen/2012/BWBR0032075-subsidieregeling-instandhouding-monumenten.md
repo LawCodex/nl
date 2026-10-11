@@ -564,10 +564,8 @@ Deze regeling wordt aangehaald als: Subsidieregeling instandhouding monumenten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-H.Zijlstra
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+H. Zijlstra
 
 ## Bijlage — als bedoeld in artikel 4 van de Subsidieregeling instandhouding monumenten
 

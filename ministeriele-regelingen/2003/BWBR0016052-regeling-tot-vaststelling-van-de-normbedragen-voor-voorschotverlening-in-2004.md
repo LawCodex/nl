@@ -45,11 +45,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 10 december 2003
 
-De\
-Minister
+De Minister voornoemd,
 
 namens deze:
 
-de\
-Directeur-Generaal Wetgeving, Rechtspleging en Rechtsbijstand\
-P.H.Holthuis
+de Directeur-Generaal Wetgeving, Rechtspleging en Rechtsbijstand,\
+P.H. Holthuis

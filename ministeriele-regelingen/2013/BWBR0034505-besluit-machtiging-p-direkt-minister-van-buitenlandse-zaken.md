@@ -76,9 +76,5 @@ Eerdere aan P-Direkt of zijn rechtsvoorganger verleende machtigingen tot het ver
 
 Den Haag 12 december 2013
 
-De\
-Minister\
-Buitenlandse Zaken,\
-namens deze:\
-De plv. Secretaris-Generaal,\
-R. vanRoeden
+De Minister van Buitenlandse Zaken,namens deze:De plv. Secretaris-Generaal,\
+R. van Roeden

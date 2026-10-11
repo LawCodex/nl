@@ -39,7 +39,5 @@ Besluit:
 
 's-Gravenhage 6 juni 1989
 
-De\
-staatssecretaris\
-Financiën\
-H. E.Koning
+De staatssecretaris van Financiën,\
+H. E. Koning

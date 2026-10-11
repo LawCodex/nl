@@ -243,6 +243,6 @@ de *dertiende* juli 2020
 De Minister van Justitie en Veiligheid,\
 F.B.J. Grapperhaus
 
-## Bijlage 1 — behorend bij artikel 4, derde lid, onderdeel e
+## 1 Bijlage — behorend bij artikel 4, derde lid, onderdeel e
 
 ![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043850/2026-01-01_0/xml/264239.png)

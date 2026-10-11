@@ -667,10 +667,8 @@ Deze regeling wordt aangehaald als: Paspoortuitvoeringsregeling Koninklijke Mare
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Grote Steden- en Integratiebeleid\
-R.H.L.M. vanBoxtel
+De Minister voor Grote Steden- en Integratiebeleid,\
+R.H.L.M. van Boxtel
 
 ## Bijlagen — Paspoortuitvoeringsregeling Koninklijke Marechaussee 2001
 

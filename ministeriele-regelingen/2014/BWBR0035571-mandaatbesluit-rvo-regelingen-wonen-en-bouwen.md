@@ -122,10 +122,8 @@ Dit besluit zal met de bijlagen en de toelichting in de Staatscourant worden gep
 
 ’s-Gravenhage 12 augustus 2014
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok
 
 ## Bijlage 1 — Mandaatbesluit RVO (volledig mandaat, volmacht en machtiging)
 

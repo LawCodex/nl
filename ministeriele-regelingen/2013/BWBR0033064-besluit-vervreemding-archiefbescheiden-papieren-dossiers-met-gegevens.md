@@ -49,9 +49,5 @@ Het met hen gevoerde overleg had de volgende inhoud:
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-namens deze:\
-directeur CIBG,\
-G.J.M.W.Arkesteijn
+De Minister van Volksgezondheid, Welzijn en Sport,namens deze:directeur CIBG,\
+G.J.M.W. Arkesteijn

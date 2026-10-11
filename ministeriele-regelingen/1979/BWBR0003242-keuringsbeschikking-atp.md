@@ -78,6 +78,5 @@ Deze beschikking wordt in de Nederlandse Staatscourant geplaatst en treedt in we
 
 's-Gravenhage 1 juni 1979
 
-De\
-Staatssecretaris\
-N.Smit-Kroes
+De Staatssecretaris voornoemd,\
+N. Smit-Kroes

@@ -39,10 +39,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 4 juni 2012
 
-De\
-Minister-President, Minister\
-Algemene Zaken,\
-M.Rutte
+De Minister-President, Minister van Algemene Zaken,\
+M. Rutte
 
 ## Bijlage
 

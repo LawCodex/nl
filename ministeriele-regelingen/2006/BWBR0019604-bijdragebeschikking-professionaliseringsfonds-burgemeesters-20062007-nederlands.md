@@ -89,7 +89,5 @@ De aard en omvang van de activiteiten waarvoor de bijdragen zijn bedoeld zijn ui
 
 2\. Afschrift van deze beschikking, die in de Staatscourant zal worden gepubliceerd, zal worden toegezonden aan het NGB, het Georganiseerd Overleg Burgemeesters en de Vereniging van Nederlandse Gemeenten.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes

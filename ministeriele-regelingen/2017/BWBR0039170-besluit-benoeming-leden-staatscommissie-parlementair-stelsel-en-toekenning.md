@@ -65,7 +65,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 7 februari 2017
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk

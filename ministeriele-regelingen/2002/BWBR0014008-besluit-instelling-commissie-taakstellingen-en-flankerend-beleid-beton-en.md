@@ -62,14 +62,10 @@ Dit besluit wordt aangehaald als: Besluit instelling commissie Taakstellingen en
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat
+De Staatssecretaris van Verkeer en Waterstaat,
 
 M.H. Schultz van Haegen
 
-De\
-voorzitter\
-Interprovinciaal Overleg (IPO)
+De voorzitter van het Interprovinciaal Overleg (IPO),
 
 J. Franssen.

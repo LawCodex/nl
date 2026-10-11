@@ -51,12 +51,8 @@ Deze regeling wordt met bijlage in de Staatscourant geplaatst met uitzondering v
 
 Almelo 14 november 2016
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-J.J.Wiltvank\
-Algemeen DirecteurJustitiële Informatiedienst
+De Minister van Veiligheid en Justitie,namens deze,\
+J.J. WiltvankAlgemeen DirecteurJustitiële Informatiedienst
 
 ## Bijlage
 

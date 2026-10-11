@@ -45,7 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 16 december 2002.
 
-De\
-Minister\
-Justitie,\
+De Ministervan Justitie,\
 J.P.H. Donner.

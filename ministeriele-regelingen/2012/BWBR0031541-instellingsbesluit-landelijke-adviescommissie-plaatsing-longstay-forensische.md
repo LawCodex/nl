@@ -117,7 +117,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Landelijke adviescommissie 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

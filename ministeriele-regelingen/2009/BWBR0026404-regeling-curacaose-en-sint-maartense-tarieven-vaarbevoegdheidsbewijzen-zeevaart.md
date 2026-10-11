@@ -106,7 +106,5 @@ Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tariev
 
 Deze regeling zal met de toelichting in de Staatscourant en in de Curaçaosche Courant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa

@@ -45,9 +45,7 @@ Deze regeling wordt aangehaald als: Warenwetregeling voedingssupplementen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
 C. Ross-van Dorp
 
 ## Bijlage 1

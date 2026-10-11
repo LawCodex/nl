@@ -312,10 +312,8 @@ Deze regeling wordt aangehaald als: Regeling technische voorschriften voor liere
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma
 
 ## Bijlage — bij artikel 6, eerste lid
 

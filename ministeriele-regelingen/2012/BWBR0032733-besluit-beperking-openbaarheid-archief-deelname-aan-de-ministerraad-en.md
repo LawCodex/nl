@@ -43,12 +43,8 @@ Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging archief
 
 Den Haag 22 november 2012
 
-De\
-Minister\
-Economische Zaken,\
-namens deze:\
-A.F.M.Litjens,\
-Manager Digitale informatie Directie Bedrijfsvoering.
+De Minister van Economische Zaken,namens deze:\
+A.F.M. Litjens,Manager Digitale informatie Directie Bedrijfsvoering.
 
 | Inventarisnummer | Openbaar per 1 januari | Inventarisnummer | Openbaar per 1 januari |
 | --- | --- | --- | --- |

@@ -111,13 +111,11 @@ Deze regeling ligt ter inzage bij:
 
 's-Gravenhage 3 juli 1978
 
-De\
-Minister
+De Minister voornoemd,
 
 Voor deze,
 
-De\
-secretaris-generaal
+De secretaris-generaal,
 
 G. H. J. M. Peijnenburg
 

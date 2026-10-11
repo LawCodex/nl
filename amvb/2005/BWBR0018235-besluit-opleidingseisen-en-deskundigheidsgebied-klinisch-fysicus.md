@@ -273,10 +273,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-J. F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport ,\
+J. F. Hoogervorst
 
 de *eenendertigste* mei 2005
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

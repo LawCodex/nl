@@ -193,14 +193,10 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 Den Haag 15 september 1998
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
-De\
-Staatssecretaris\
-Defensie\
+De Staatssecretaris van Defensie\
 H.A.L. van Hoof
 
 ## Bijlage A1

@@ -49,10 +49,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 3 mei 2005
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+S.M. Dekker
 
 ## Bijlage I
 

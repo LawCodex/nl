@@ -37,9 +37,5 @@ Dit besluit wordt met de toelichting in de Staatscourant en de Landscourant van 
 
 ’s-Gravenhage 1 juli 2010
 
-De\
-Minister\
-Justitie van het Koninkrijk,\
-namens deze:\
-de directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken,\
-R.K.Visser
+De Minister van Justitie van het Koninkrijk,namens deze:de directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken,\
+R.K. Visser

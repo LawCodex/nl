@@ -35,7 +35,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 19 april 2001
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.P.Pronk
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.P. Pronk

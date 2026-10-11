@@ -25,7 +25,7 @@ Gelet op artikel III, tweede lid, van de wet van 1 december 2011 tot wijziging v
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 1\. De navolgende categorie van projecten aan te wijzen:
 
@@ -64,7 +64,5 @@ Projecten, waarvoor geen beslissing is genomen op grond van artikel 2, tweede li
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus.
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus.

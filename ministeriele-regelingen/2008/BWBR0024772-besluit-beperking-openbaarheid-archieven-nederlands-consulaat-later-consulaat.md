@@ -52,12 +52,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van het Nederlands Consulaat, later Consulaat-Generaal in India te Bombay (1931–1974) en de Ambassade in India te New Delhi (1951–1974) van het Ministerie van Buitenlandse Zaken’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-namens deze:\
-directeur van de Directie Documentaire Informatievoorziening\
-H.Y.Buijs
+De Minister van Buitenlandse Zaken, namens deze: de directeur van de Directie Documentaire Informatievoorziening,\
+H.Y. Buijs
 
 ## Bijlage
 

@@ -421,9 +421,7 @@ Deze regeling zal met de toelichting door de Minister van Onderwijs, Cultuur en 
 
 2\. De rechten en verplichtingen van het Regionaal Historisch Centrum in Noord-Holland op grond van de ingetrokken gemeenschappelijke Regeling Regionaal Historisch Centrum in Noord-Holland blijven in stand en worden voortgezet door het openbaar lichaam Noord-Hollands Archief, zoals neergelegd in deze regeling.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,
+De Minister van Onderwijs, Cultuur en Wetenschap,
 
 Burgemeester en wethouders van de gemeente Haarlem,
 

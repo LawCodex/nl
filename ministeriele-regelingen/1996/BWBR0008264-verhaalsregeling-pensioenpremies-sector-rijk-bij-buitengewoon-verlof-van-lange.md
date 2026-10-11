@@ -72,10 +72,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 2 oktober 1996.
 
-De\
-Minister\
-Binnenlandse Zaken
+De Minister van Binnenlandse Zaken, voor deze,
 
-De\
-directeur-generaal Management en Personeelsbeleid,\
-A.H.C.Annink
+De directeur-generaal Management en Personeelsbeleid,\
+A.H.C. Annink

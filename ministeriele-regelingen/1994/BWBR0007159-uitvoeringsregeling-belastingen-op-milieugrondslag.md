@@ -520,10 +520,8 @@ Deze regeling wordt aangehaald als:
 
 Uitvoeringsregeling belastingen op milieugrondslag.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend
 
 ## Bijlage — bij de Uitvoeringsregeling belastingen op milieugrondslag
 

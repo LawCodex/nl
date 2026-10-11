@@ -41,7 +41,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 29 juli 1998
 
-De\
-Staatssecretaris\
-Justitie\
+De Staatssecretaris van Justitie,\
 E.M.A. Schmitz

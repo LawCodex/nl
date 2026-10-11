@@ -91,7 +91,5 @@ Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezo
 
 ’s-Gravenhage 22 april 2015
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma

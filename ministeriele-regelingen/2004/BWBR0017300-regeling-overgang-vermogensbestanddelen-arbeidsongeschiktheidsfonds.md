@@ -37,7 +37,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 11 oktober 2004
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
+De Minister van Sociale Zaken en Werkgelegenheid ,\
 A.J. de Geus

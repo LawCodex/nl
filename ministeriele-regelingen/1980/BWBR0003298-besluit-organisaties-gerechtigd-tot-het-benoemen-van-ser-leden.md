@@ -64,8 +64,6 @@ Lech 1 maart 1980
 
 JULIANA.
 
-De\
-Minister\
-Sociale Zaken
+De Minister van Sociale Zaken,
 
 W. Albeda

@@ -158,9 +158,7 @@ De regeling van de Staatssecretaris van Financiën van 19 december 1996, nr. IFZ
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 8 toepassing met betrekking tot dividenden die betaalbaar zijn gesteld op of na 1 januari 2002.
 
-De\
-Staatssecretaris\
-Financiën\
-W.Bos
+De Staatssecretaris van Financiën,\
+W. Bos
 
 [^n1]: ¹ De bij deze regeling horende bijlagen I en II zullen begin 2002 worden vastgesteld.

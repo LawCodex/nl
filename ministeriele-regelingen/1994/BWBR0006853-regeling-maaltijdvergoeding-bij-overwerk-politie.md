@@ -59,7 +59,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 2 augustus 1994
 
-De\
-Minister\
-Binnenlandse Zaken\
+De Minister van Binnenlandse Zaken,\
 D. IJ. W. de Graaff-Nauta

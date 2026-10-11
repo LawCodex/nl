@@ -37,7 +37,5 @@ Overeenkomstig artikel 10, derde lid, van de Drinkwaterwet is de gewogen gemidde
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma

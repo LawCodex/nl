@@ -572,9 +572,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 23 januari 2017
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-Voor deze,\
-INSPECTEUR-GENERAAL INSPECTIE LEEFOMGEVING EN TRANSPORT\
-J.A. van denBos
+De Minister van Infrastructuur en Milieu,Voor deze,INSPECTEUR-GENERAAL INSPECTIE LEEFOMGEVING EN TRANSPORT\
+J.A. van den Bos

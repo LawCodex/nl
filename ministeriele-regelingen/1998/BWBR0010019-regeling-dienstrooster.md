@@ -53,12 +53,8 @@ Deze regeling treedt in werking met ingang van 1 december 1998.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-K.G. deVries
+De Minister van Sociale Zaken en Werkgelegenheid,\
+K.G. de Vries

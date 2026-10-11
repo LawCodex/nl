@@ -57,10 +57,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Van dit besluit en de daarbij behorende toelichting wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De Minister van Buitenlandse Zaken\
-en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze:\
-de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+De Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze: de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 J. Brandt
 
 [^n1]: 1 Stcrt 2017, 33014

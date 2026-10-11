@@ -143,7 +143,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 22 juli 1994
 
-De\
-Minister\
-Binnenlandse Zaken\
-D.IJ.W. deGraaff-Nauta
+De Minister van Binnenlandse Zaken,\
+D.IJ.W. de Graaff-Nauta

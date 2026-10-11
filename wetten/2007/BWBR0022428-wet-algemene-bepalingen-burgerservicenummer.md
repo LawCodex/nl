@@ -257,10 +257,10 @@ Gegeven te Tavarnelle 21 juli 2007
 
 Beatrix
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties\
-A. Th. B.Bijleveld-Schouten
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+A. Th. B. Bijleveld-Schouten
 
 de *achtentwintigste* augustus 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

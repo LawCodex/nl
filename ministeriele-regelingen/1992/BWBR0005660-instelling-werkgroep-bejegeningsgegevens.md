@@ -56,22 +56,16 @@ Deze beschikking zal geplaatst worden in de Staatscourant en in het Algemeen Pol
 
 's-Gravenhage 24 september 1992
 
-De\
-minister\
-Justitie
+De minister van Justitie,
 
 Namens de minister,
 
-de\
-directeur-generaal Politie en Criminaliteitsbestrijding\
-J. J. H. Suyver
+de directeur-generaal Politie en Criminaliteitsbestrijding,\
+J. J. H. Suyver.
 
-De\
-minister\
-Binnenlandse Zaken
+De minister van Binnenlandse Zaken,
 
 Voor deze,
 
-De\
-directeur-generaal voor Openbare Orde en veiligheid\
-I. W.Opstelten
+De directeur-generaal voor Openbare Orde en veiligheid,\
+I. W. Opstelten

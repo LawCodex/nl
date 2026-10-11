@@ -213,7 +213,5 @@ De regeling van de Staatssecretaris van Financiën van 21 maart 1995, nr. IFZ95/
 
 De uitdrukking 'betaald' heeft de betekenis welke die uitdrukking heeft volgens de wetgeving van Canada (artikel XVII, derde lid, van het wijzigingsprotocol van 4 maart 1993).
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën\
+W.A. Vermeend

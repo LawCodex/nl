@@ -93,7 +93,5 @@ Een ieder die betrokken is bij de werkzaamheden van de werkgroep en daarbij de b
 
 ’s-Gravenhage 12 februari 1999
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

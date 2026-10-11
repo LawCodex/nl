@@ -33,11 +33,9 @@ Deze beschikking treedt in werking op het tijdstip, waarop de Luchtvaartwet in w
 
 's-Gravenhage 28 augustus 1959
 
-De\
-minister
+De minister voornoemd,
 
 Namens de minister;
 
-De\
-secretaris-generaal,\
+De secretaris-generaal,\
 Gieben.

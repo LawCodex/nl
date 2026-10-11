@@ -206,7 +206,5 @@ Deze regeling wordt aangehaald als: Volmachtregeling VWS
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
+De Minister van Volksgezondheid, Welzijn en Sport,\
 E. Borst-Eilers

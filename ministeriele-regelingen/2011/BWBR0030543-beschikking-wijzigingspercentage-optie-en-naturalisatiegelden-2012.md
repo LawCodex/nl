@@ -39,7 +39,5 @@ Deze beschikking treedt in werking op 1 januari 2012. Zij wordt aangehaald als: 
 
 Den Haag 4 oktober 2011
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.P.H.Donner
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.P.H. Donner

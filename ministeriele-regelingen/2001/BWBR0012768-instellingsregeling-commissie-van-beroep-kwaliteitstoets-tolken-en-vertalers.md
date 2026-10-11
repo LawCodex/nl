@@ -72,7 +72,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 Den Haag 20 augustus 2001.
 
-De\
-De Staatssecretaris\
-Justitie,\
+De De Staatssecretaris van Justitie,\
 N.A. Kalsbeek.

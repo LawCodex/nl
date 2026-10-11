@@ -81,8 +81,5 @@ Dit besluit wordt aangehaald als: Besluit doorverlening mandaat, volmacht en mac
 
 Dit besluit zal in de Staatscourant worden geplaatst. Een afschrift van dit besluit wordt gezonden naar de Algemene Rekenkamer.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
-namens deze,\
-S.A.E. Schrover\
-directeur-generaal Rijksvoorlichtingsdienst
+De Minister-President, Minister van Algemene Zaken, namens deze,\
+S.A.E. Schrover directeur-generaal Rijksvoorlichtingsdienst

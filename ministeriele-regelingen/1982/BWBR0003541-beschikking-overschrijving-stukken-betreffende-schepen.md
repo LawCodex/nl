@@ -62,6 +62,5 @@ De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 voor deze,
 
-De\
-hoofddirecteur van de Dienst van het Kadaster en de Openbare Registers\
-J. W.Resink
+De hoofddirecteur van de Dienst van het Kadaster en de Openbare Registers,\
+J. W. Resink

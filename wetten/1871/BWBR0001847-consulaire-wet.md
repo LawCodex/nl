@@ -27,7 +27,7 @@ Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is de bevoegdheid d
 
 Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## hoofdstuk Eerste — Algemene bepalingen
+## Eerste hoofdstuk — Algemene bepalingen
 
 ### Artikel 1
 
@@ -105,7 +105,7 @@ Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van 
 
 2\. Van de einduitspraken van een consulaire ambtenaar kan gedurende drie maanden na de uitspraak bij beroepschrift hoger beroep worden ingesteld bij de rechtbank Den Haag of, indien het recht van Aruba, Curaçao of Sint Maarten of van de openbare lichamen Bonaire, Sint Eustatius en Saba is toegepast, bij het gerecht in eerste aanleg in het betrokken rijksdeel. Tegen einduitspaken die een voorlopige beslissing behelzen, staat geen rechtsmiddel open.
 
-## hoofdstuk Tweede — Het opmaken van burgerlijke akten
+## Tweede hoofdstuk — Het opmaken van burgerlijke akten
 
 ### Artikel 11b
 

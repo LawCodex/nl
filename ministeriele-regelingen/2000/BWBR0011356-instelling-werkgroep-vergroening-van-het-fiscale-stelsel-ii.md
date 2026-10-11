@@ -145,27 +145,17 @@ Een ieder die betrokken is bij de werkzaamheden van de werkgroep en daarbij de b
 
 ‘s-Gravenhage 12 mei 2000
 
-De\
-Staatssecretaris\
-Financiën\
-W.J.Bos
+De Staatssecretaris van Financiën,\
+W.J. Bos
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.P.Pronk
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.P. Pronk
 
-De\
-Minister\
-Economische Zaken\
-A.Jorritsma-Lebbink
+De Minister van Economische Zaken,\
+A. Jorritsma-Lebbink
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
-De\
-Staatssecretaris\
-Landbouw, Natuurbeheer en Visserij\
-G.H.Faber
+De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,\
+G.H. Faber

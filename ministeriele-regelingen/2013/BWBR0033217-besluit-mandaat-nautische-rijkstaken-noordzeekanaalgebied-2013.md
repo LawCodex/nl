@@ -129,9 +129,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en werkt
 
 Den Haag 19 maart 2013
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-Namens deze:\
-De Directeur-Generaal Rijkswaterstaat,\
-J.H.Dronkers
+De Minister van Infrastructuur en Milieu,Namens deze:De Directeur-Generaal Rijkswaterstaat,\
+J.H. Dronkers

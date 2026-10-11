@@ -39,7 +39,5 @@ De regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 24 juni 2009
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

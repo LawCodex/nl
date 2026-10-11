@@ -78,11 +78,9 @@ Deze beschikking wordt aangehaald als: Instellingsbeschikking Raad voor de divis
 
 's-Gravenhage 7 maart 1994
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-Directeur-Generaal Politie en Criminaliteitsbestrijding\
-J. J. H.Suyver
+Directeur-Generaal Politie en Criminaliteitsbestrijding.\
+J. J. H. Suyver

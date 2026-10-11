@@ -56,12 +56,8 @@ Afschrift van deze beschikking, die wordt geplaatst in de Nederlandse Staatscour
 
 's-Gravenhage 1 oktober 1990
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen.
 
-De\
-Minister\
-Justitie\
-E. M. H.Hirsch-Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch-Ballin .

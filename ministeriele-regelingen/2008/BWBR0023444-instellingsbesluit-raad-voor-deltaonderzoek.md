@@ -80,7 +80,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Raad voor Deltaonderzoek.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa

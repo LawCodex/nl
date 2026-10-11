@@ -62,6 +62,5 @@ Besluit:
 
 's-Gravenhage 10 mei 1993
 
-De\
-Minister\
-E. M. H.Hirsch Ballin
+De Minister voornoemd,\
+E. M. H. Hirsch Ballin

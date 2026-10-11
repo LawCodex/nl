@@ -31,7 +31,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 Den Haag 28 oktober 2003
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
+De Minister van Sociale Zaken en Werkgelegenheid,\
 A.J. de Geus

@@ -38,9 +38,5 @@ Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende pe
 
 Den Haag 21 juli 2008
 
-De\
-Minister\
-Justitie\
-namens deze:\
-plv. Secretaris-generaal\
-J.M. vanZanen-Nieberg
+De Minister van Justitie, namens deze: de plv. Secretaris-generaal,\
+J.M. van Zanen-Nieberg

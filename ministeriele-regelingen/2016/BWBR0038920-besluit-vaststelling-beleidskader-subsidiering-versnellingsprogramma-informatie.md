@@ -39,10 +39,8 @@ Dit besluit wordt aangehaald als: Besluit vaststelling beleidskader subsidiërin
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage — bij het Besluit vaststelling beleidskader subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional
 

@@ -37,10 +37,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitz
 
 Den Haag 6 januari 2009
 
-De\
-Staatssecretaris\
-Defensie\
-J.G. deVries
+De Staatssecretaris van Defensie,\
+J.G. de Vries
 
 ## Bijlage
 

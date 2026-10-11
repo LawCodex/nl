@@ -61,7 +61,5 @@ Den Haag I
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-J. C. P.Simons
+De Minister van Financiën,\
+J. C. P. Simons

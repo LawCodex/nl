@@ -31,8 +31,7 @@ Besluit:
 
 's-Gravenhage 18 november 1985
 
-De\
-staatssecretaris\
+De staatssecretaris voornoemd,\
 V. N. M. Korte-van Hemel
 
 ## Richtlijnen inzake de uitvoering door het Ministerie van Justitie van de artikelen 68, 179, 125, 235, 72 en 183, Boek 2 van het Burgerlijk Wetboek vastgesteld door de staatssecretaris van Justitie
@@ -441,7 +440,7 @@ In deze bijlage wordt een overzicht gegeven van de criminele respectievelijk fin
 
 Bij het zich voordoen van een crimineel antecedent zoals hier wordt bedoeld, is dat aanleiding voor het instellen van een nader onderzoek naar de achtergrond van de aanvrager en van de oprichting. Voor de vraag of in een concreet geval de verklaring van geen bezwaar moet worden geweigerd dan wel afgegeven worden alle bekende feiten en omstandigheden in hun onderlinge samenhang bezien en gewogen. Indien uit die feiten en omstandigheden blijkt dat er gegronde reden is om aan de (morele of financiële) betrouwbaarheid te twijfelen, wordt de verklaring van geen bezwaar geweigerd.
 
-#### Criminele antecedenten 2
+#### 2 Criminele antecedenten
 
 Onder criminele antecedenten, op basis waarvan tot het oordeel kan worden gekomen dat de morele betrouwbaarheid of integriteit in het geding is, en die in beginsel kunnen leiden tot weigering van een verklaring van geen bezwaar voor de oprichting van een vennootschap, worden in ieder geval de volgende omstandigheden verstaan:
 

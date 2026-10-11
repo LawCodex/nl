@@ -39,12 +39,8 @@ Deze regeling treedt in werking op het tijdstip waarop de artikelen I, onderdele
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma

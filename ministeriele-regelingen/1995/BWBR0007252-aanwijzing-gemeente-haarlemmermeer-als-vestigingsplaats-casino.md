@@ -39,12 +39,8 @@ Deze beschikking wordt in de Staatscourant gepubliceerd en treedt in werking met
 
 's-Gravenhage 21 februari 1995
 
-De\
-Staatssecretaris\
-Justitie\
-E. M. A.Schmitz
+De Staatssecretaris van Justitie,\
+E. M. A. Schmitz
 
-De\
-Minister\
-Economische Zaken\
-G.JWijers
+De Minister van Economische Zaken,\
+G.J Wijers

@@ -146,6 +146,5 @@ Een geschillencommissie als bedoeld in artikel 7, tweede lid, bestaat uit:
 
 Rijswijk 7 september 1977
 
-De\
-Staatssecretaris\
-W.Meijer
+De Staatssecretaris voornoemd,\
+W. Meijer

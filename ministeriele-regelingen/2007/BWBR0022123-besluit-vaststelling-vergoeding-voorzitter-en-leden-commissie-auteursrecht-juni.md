@@ -42,9 +42,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 14 juni 2007
 
-De\
-Minister\
-Justitie\
-namens deze:\
-directeur Wetgeving\
-J.T.K.Bos
+De Minister van Justitie, namens deze:de directeur Wetgeving,\
+J.T.K. Bos

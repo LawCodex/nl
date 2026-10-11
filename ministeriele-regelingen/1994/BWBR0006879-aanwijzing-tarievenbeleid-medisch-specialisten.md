@@ -63,17 +63,11 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Welzijn, Volksgezondheid en Cultuur\
-J.M.M.Ritzen
+De Minister van Welzijn, Volksgezondheid en Cultuur,\
+J.M.M. Ritzen
 
-De\
-Staatssecretaris\
-Economische Zaken\
-Yvonne M.C.T. vanRooy
+De Staatssecretaris van Economische Zaken,\
+Yvonne M.C.T. van Rooy
 
-De\
-Staatssecretaris\
-Onderwijs en Wetenschappen\
-M.J.Cohen
+De Staatssecretaris van Onderwijs en Wetenschappen,\
+M.J. Cohen

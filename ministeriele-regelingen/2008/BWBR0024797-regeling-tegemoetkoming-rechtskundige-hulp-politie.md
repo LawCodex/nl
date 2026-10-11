@@ -115,7 +115,5 @@ Dit besluit wordt aangehaald als: Regeling tegemoetkoming rechtskundige hulp pol
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst

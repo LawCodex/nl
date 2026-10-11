@@ -60,9 +60,7 @@ Dit besluit treedt in werking met ingang van 1 oktober 2021.
 
 Van dit besluit en de daarbij behorende toelichting wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze:\
-de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze: de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 P. Huijts
 
 [^n1]: 1 Stcrt. 2014, 16589

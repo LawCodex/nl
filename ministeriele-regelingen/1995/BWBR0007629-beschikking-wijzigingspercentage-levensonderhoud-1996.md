@@ -39,7 +39,6 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingpercentage leve
 
 ’s-Gravenhage 2 november 1995
 
-De\
-Staatssecretaris
+De Staatssecretaris voornoemd,
 
 E.M.A. Schmitz

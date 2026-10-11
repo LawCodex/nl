@@ -45,7 +45,5 @@ Voor een motorrijtuig waarvoor motorrijtuigenbelasting is betaald over een tijdv
 
 Deze regeling treedt in werking met ingang van 1 januari 1994.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

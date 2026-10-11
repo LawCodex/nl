@@ -53,7 +53,5 @@ Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van de 
 
 ’s-Gravenhage 29 januari 2018
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-J.H. Maas\
-directeur Bedrijfsvoering
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+J.H. Maas directeur Bedrijfsvoering

@@ -95,22 +95,14 @@ Deze onderlinge regeling wordt aangehaald als: Onderlinge regeling Ambtelijk Wet
 
 Deze onderlinge regeling zal met de toelichting in de Staatscourant, de Landscourant van Aruba, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst.
 
-Voor Nederland:\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+Voor Nederland: De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
-Voor Aruba:\
-Minister\
-Justitie en Onderwijs,\
-A.L.Dowers
+Voor Aruba: De Minister van Justitie en Onderwijs,\
+A.L. Dowers
 
-Voor Curaçao:\
-Minister-President, Minister\
-Algemene Zaken,\
-D.Hodge
+Voor Curaçao: De Minister-President, Minister van Algemene Zaken,\
+D. Hodge
 
-Voor Sint Maarten:\
-Minister-President, Minister\
-Algemene Zaken,\
-S.A.Wescot-Williams
+Voor Sint Maarten: De Minister-President, Minister van Algemene Zaken,\
+S.A. Wescot-Williams

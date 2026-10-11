@@ -33,12 +33,8 @@ Voor het uitkeringsjaar 2009 worden de bedragen per eenheid voor de uitkering ui
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-voor deze:\
-de directeur Openbaar Bestuur en Democratie,\
-G.J.Buitendijk
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,voor deze:de directeur Openbaar Bestuur en Democratie,\
+G.J. Buitendijk
 
 ## Bijlage 1
 

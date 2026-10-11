@@ -92,7 +92,5 @@ Ter uitvoering van artikel 1 is van Zimbabwaanse zijde de volgende regeling getr
 
 2\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty's, die op of na 21 april 1991 zijn betaald of worden betaald.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

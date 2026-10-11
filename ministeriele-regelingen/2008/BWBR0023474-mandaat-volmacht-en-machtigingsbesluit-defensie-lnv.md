@@ -55,7 +55,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 27 januari 2008
 
-De\
-Staatssecretaris\
-Defensie\
-J.G. deVries
+De Staatssecretaris van Defensie,\
+J.G. de Vries

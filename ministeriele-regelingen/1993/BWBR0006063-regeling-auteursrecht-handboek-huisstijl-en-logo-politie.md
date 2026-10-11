@@ -37,12 +37,8 @@ Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de 
 
 's-Gravenhage 8 juli 1993
 
-De\
-Minister\
-Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
-De\
-Minister\
-Binnenlandse Zaken\
-C. I.Dales
+De Minister van Binnenlandse Zaken,\
+C. I. Dales

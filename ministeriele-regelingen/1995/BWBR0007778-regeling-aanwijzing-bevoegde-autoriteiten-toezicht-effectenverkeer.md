@@ -68,7 +68,5 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing bevoegde autoriteiten to
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Financiën\
-G.Zalm
+De minister van Financiën,\
+G. Zalm

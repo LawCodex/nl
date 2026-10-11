@@ -35,7 +35,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2012.
 
 Den Haag 5 oktober 2011
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen

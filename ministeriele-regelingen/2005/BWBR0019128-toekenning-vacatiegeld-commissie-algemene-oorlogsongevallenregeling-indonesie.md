@@ -39,7 +39,5 @@ De besluiten van de Minister van Volksgezondheid, Welzijn en Sport van 30 novemb
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-C.I.J.M.Ross-van Dorp
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+C.I.J.M. Ross-van Dorp

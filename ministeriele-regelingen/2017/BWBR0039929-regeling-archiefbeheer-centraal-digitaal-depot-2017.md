@@ -139,7 +139,5 @@ Deze regeling wordt aangehaald als Regeling archiefbeheer Centraal Digitaal Depo
 
 Deze Regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Veiligheid en Justitie,\
-namens deze,\
-J.J. Wiltvank\
-Algemeen directeur van de Justitiële Informatiedienst,
+De Minister van Veiligheid en Justitie, namens deze,\
+J.J. Wiltvank Algemeen directeur van de Justitiële Informatiedienst,

@@ -79,11 +79,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Buitenlandse Zaken,\
-namens deze:\
-de plaatsvervangend directeur-generaal Internationale Samenwerking,\
-C.Rebergen
+De Staatssecretaris van Buitenlandse Zaken,namens deze:de plaatsvervangend directeur-generaal Internationale Samenwerking,\
+C. Rebergen
 
 [^n1]: 1 Staatscourant 2012, 6036

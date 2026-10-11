@@ -80,7 +80,5 @@ Deze beschikking wordt geplaatst in de Staatscourant. Afschrift van de beschikki
 
 Den Haag 9 maart 2009
 
-De\
-Staatssecretaris\
-Defensie\
-J.G. deVries
+De Staatssecretaris van Defensie,\
+J.G. de Vries

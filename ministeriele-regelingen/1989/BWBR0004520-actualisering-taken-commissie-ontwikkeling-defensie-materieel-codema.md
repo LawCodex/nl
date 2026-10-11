@@ -81,13 +81,10 @@ Afschrift van deze beschikking wordt gezonden aan: de minister van Buitenlandse 
 
 's-Gravenhage 3 april 1989
 
-De\
-minister\
-Defensie
+De minister van Defensie,
 
 voor deze,
 
-De\
-directeur-generaal Materieel
+De directeur-generaal Materieel,
 
 H. Boekenoogen

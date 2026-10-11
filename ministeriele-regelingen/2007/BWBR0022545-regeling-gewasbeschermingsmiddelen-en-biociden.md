@@ -824,15 +824,11 @@ Deze regeling wordt aangehaald als: Regeling gewasbeschermingsmiddelen en biocid
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
-De\
-minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer
 
 ## Bijlage I — Communautaire maatregelen die de werking van de biociderichtlijn beperken.
 

@@ -41,7 +41,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 20 december 1996
 
-De\
-Minister\
-Binnenlandse Zaken\
-H.F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H.F. Dijkstal

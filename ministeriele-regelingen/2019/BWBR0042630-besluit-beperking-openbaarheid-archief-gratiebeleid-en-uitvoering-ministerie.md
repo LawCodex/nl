@@ -1243,7 +1243,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief betreffende het Gratiebeleid en uitvoering van het Ministerie van Justitie (1827) 1947–1988 (1999)’.
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-S. Riedstra\
-Secretaris-Generaal
+De Minister van Justitie en Veiligheid, namens deze,\
+S. Riedstra Secretaris-Generaal

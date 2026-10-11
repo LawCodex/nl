@@ -35,6 +35,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 12 augustus 2003
 
-De\
-minister\
-J.P.H.Donner
+De minister voornoemd,\
+J.P.H. Donner

@@ -37,7 +37,5 @@ Wijzigt de Uitvoeringsregeling accijns.
 
 Deze regeling treedt in werking met ingang van de tweede dag na plaatsing in de Staatscourant.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

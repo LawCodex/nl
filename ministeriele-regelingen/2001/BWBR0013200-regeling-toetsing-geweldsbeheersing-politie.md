@@ -105,13 +105,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 17 december 2001
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-K.G. deVries
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.G. de Vries
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 A.H. Korthals.

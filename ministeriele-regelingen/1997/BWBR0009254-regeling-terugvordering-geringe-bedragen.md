@@ -45,7 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 22 december 1997
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-F.H.G. deGrave
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+F.H.G. de Grave

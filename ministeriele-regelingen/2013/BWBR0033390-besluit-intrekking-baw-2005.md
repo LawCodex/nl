@@ -46,22 +46,14 @@ Dit besluit kan worden aangehaald als Besluit intrekking BAW 2005.
 
 ’s-Gravenhage 13 mei 2013
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister van Wonen en Rijksdienst,\
+S.A. Blok
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp

@@ -93,9 +93,7 @@ Deze regeling treedt in werking met ingang van 1 juni 2001 en zal met bijlage en
 
 Deze regeling wordt aangehaald als: Conversieregeling militaire pensioenen.
 
-De\
-Staatssecretaris\
-Defensie\
+De Staatssecretaris van Defensie\
 H.A.L. van Hoof
 
 ## Bijlage — Conversiemethode

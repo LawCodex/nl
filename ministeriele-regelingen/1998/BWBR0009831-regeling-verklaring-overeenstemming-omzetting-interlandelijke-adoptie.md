@@ -41,9 +41,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 5 augustus 1998
 
-De\
-Staatssecretaris\
-Justitie\
+De Staatssecretaris van Justitie,\
 M.J. Cohen
 
 ## Bijlage 1 — Verklaring inzake overeenstemming van interlandelijke adoptie Artikel 23 van het Haags Verdrag van 29 mei 1993 inzake de bescherming van kinderen en de samenwerking op het gebied van interlandelijke adoptie

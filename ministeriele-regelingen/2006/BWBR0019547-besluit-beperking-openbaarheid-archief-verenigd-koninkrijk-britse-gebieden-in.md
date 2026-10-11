@@ -53,10 +53,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Verenigd Koninkrijk/Britse gebieden in Afrika, het consulaat-generaal Nairobi 1948–1954, het consulaat-generaal Dar Es Salaam 1927–1950 en van de consulaten te Rhodesië (Bulawayo en Salisbury) (1909) 1910–1954’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

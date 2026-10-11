@@ -45,7 +45,5 @@ De Nederlandse zorgautoriteit voert de uitbreiding van meerzorg budgettair neutr
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

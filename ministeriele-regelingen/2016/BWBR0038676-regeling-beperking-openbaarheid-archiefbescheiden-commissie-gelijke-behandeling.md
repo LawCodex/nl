@@ -321,8 +321,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-I.D.Nijboer
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+I.D. Nijboer

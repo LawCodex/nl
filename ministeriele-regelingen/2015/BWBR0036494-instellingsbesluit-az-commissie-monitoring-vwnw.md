@@ -80,11 +80,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 1 april 2015
 
-De\
-Minister-President,
+De Minister-President,
 
-Minister\
-Algemene Zaken,\
-namens deze,\
-De Secretaris-Generaal,\
-P.H.A.M.Huijts
+Minister van Algemene Zaken,namens deze,De Secretaris-Generaal,\
+P.H.A.M. Huijts

@@ -46,7 +46,5 @@ Deze regeling treedt in werking met ingang van de dag na die van de dagtekening 
 
 's-Gravenhage 28 juni 1989
 
-De\
-staatssecretaris\
-Economische Zaken\
-A. J.Evenhuis
+De staatssecretaris van Economische Zaken,\
+A. J. Evenhuis

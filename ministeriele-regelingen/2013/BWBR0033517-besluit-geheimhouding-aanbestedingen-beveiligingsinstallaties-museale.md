@@ -58,7 +58,5 @@ Tot geheimverklaring van de aanbesteding voor het installeren en onderhouden van
 
 Dit besluit treedt in werking met ingang van de dag na de datum van plaatsing in de Staatscourant, en werkt terug tot en met 1 april 2013. Dit besluit zal met de toelichting worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

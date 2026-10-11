@@ -121,7 +121,5 @@ Deze regeling wordt aangehaald als: Regeling eisen kamer justitiële jeugdinrich
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie,\
+DeMinister vanJustitie,\
 A.H. Korthals

@@ -47,7 +47,5 @@ Afschrift van deze beschikking zal worden gezonden aan de minister van Onderwijs
 
 's-Gravenhage 10 maart 1989
 
-De\
-minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
 E. H. T. M. Nijpels

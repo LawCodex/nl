@@ -194,7 +194,5 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 13 maart 1996
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

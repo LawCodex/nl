@@ -93,19 +93,13 @@ Wassenaar 26 juni 2013
 
 Willem-Alexander
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma
 
 de *twaalfde* juli 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De MinisterVeiligheid en Justitie,\
+I.W. Opstelten

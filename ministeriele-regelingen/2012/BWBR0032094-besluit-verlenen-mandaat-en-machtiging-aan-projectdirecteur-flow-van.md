@@ -45,11 +45,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Buitenlandse Zaken,\
-namens deze:\
-de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
-R.V.M.Jones-Bos
+De Staatssecretaris van Buitenlandse Zaken,namens deze:de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+R.V.M. Jones-Bos
 
 [^n1]: 1 Staatscourant 2011 nr. 8466

@@ -62,7 +62,5 @@ Besluit:
 
 Dit besluit treedt in werking op 20 oktober 1994 en zal in de Nederlandse Staatscourant worden gepubliceerd.
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 A. Jorritsma-Lebbink

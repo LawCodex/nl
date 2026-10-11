@@ -119,7 +119,5 @@ De zorgautoriteit zet in 2012 de prestatie ‘inloopfunctie’ voort.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.L.L.E.Veldhuijzen van Zanten-Hyllner
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.L.L.E. Veldhuijzen van Zanten-Hyllner

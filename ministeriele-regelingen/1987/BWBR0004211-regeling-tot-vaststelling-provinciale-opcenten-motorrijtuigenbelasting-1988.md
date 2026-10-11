@@ -37,7 +37,5 @@ Besluit:
 
 's-Gravenhage 16 september 1987
 
-De\
-staatssecretaris\
-Financiën\
-H. E.Koning
+De staatssecretaris van Financiën,\
+H. E. Koning

@@ -121,7 +121,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 8 september 2009
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst

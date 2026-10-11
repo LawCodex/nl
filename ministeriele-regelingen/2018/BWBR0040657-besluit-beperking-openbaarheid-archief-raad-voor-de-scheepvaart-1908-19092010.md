@@ -41,7 +41,5 @@ Het vervaardigen van reproducties van documenten uit de dossiers geborgen onder 
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het Archief van de Raad voor de Scheepvaart: dossiers uitspraken en beschikkingen (1908) 1909–2010, toegangsnummer 2.16.58’.
 
-De Minister van Infrastructuur en Waterstaat,\
-Namens deze,\
-De directeur-generaal Luchtvaart en Maritieme Zaken,\
+De Minister van Infrastructuur en Waterstaat, Namens deze, De directeur-generaal Luchtvaart en Maritieme Zaken,\
 J.H. Dronkers

@@ -48,13 +48,5 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-Minister\
-Ontwikkelingssamenwerking\
-Staatssecretaris voor Europese Zaken\
-namens dezen:\
-Secretaris-Generaal\
-Ministerie van Buitenlandse Zaken\
+De Minister van Buitenlandse Zaken, de Minister voor Ontwikkelingssamenwerking, de Staatssecretaris voor Europese Zaken, namens dezen:de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 E. Kronenburg

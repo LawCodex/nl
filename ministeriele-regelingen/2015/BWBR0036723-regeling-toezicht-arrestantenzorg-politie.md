@@ -123,7 +123,5 @@ Deze regeling wordt aangehaald als: Regeling toezicht arrestantenzorg politie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

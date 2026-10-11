@@ -50,7 +50,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt in de Staatscourant geplaatst.
 
-De\
-Minister\
-Ontwikkelingssamenwerking\
-A.M.A. vanArdenne-van der Hoeven
+De Minister voor Ontwikkelingssamenwerking,\
+A.M.A. van Ardenne-van der Hoeven

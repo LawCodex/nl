@@ -59,10 +59,8 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant en het Afkondigingsblad van Aruba worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd bij het Directoraat-Generaal Scheepvaart en Maritieme Zaken, Bordewijkstraat 4, te Rijswijk. Van de terinzagelegging in Aruba zal mededeling worden gedaan in het Afkondigingsblad van Aruba.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink
 
 ## Bijlage
 

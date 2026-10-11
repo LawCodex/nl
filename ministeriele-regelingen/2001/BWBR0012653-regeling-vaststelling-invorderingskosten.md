@@ -52,7 +52,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 6 juli 2001
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals

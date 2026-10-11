@@ -51,8 +51,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 23 november 2017
 
-De Minister van Justitie en Veiligheid,\
-voor deze,\
-N.T. van Schelven\
-De waarnemend hoofddirecteur van de Immigratie- en Naturalisatiedienst\
-van het Ministerie van Justitie en Veiligheid
+De Minister van Justitie en Veiligheid, voor deze,\
+N.T. van Schelven De waarnemend hoofddirecteur van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid

@@ -135,8 +135,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 Dit besluit wordt aangehaald als: *Ondermandaat, -Volmacht en -Machtigingsbesluit Koninklijke Marechaussee 2019*.
 
 De Commandant Koninklijke Marechaussee\
-J.A.J. Leijtens\
-Luitenant-generaal
+J.A.J. Leijtens Luitenant-generaal
 
 ## Bijlage A — Matrix tekenbevoegdheden financiën KMar
 

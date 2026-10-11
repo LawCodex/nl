@@ -79,13 +79,13 @@ Gegeven te ’s-Gravenhage 29 mei 2006
 
 Beatrix
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-J. W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties ,\
+J. W. Remkes
 
 de *vijftiende* juni 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner
 
 ## Bijlage
 

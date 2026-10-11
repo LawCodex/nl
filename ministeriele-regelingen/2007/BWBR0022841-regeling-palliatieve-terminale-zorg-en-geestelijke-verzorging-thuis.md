@@ -382,10 +382,8 @@ Deze regeling wordt aangehaald als: Regeling palliatieve terminale zorg en geest
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker
 
 ## Bijlage 1 — Netwerkregio’s palliatieve zorg en netwerken integrale kindzorg
 

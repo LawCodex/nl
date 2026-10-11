@@ -166,10 +166,8 @@ Deze regeling wordt aangehaald als: Sanctieregeling Belarus 2006.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage — als bedoeld in artikel 1af, eerste lid
 

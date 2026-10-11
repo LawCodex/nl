@@ -62,11 +62,9 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 Venlo 15 december 2017
 
 Het bestuur van de Stichting voor de Technische Wetenschappen,\
-J.C. Schouten,\
-voorzitter
+J.C. Schouten, voorzitter
 
-I.W.C. Arends,\
-vice-voorzitter,
+I.W.C. Arends, vice-voorzitter,
 
 A.H. Schaaf,
 

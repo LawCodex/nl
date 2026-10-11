@@ -48,9 +48,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de Directeur-Generaal Internationale Samenwerking,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de Directeur-Generaal Internationale Samenwerking,\
 K. van der Heijden
 
 [^n1]: 1 Stcrt. 2019, nr. 18610; gewijzigd bij Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 24 maart 2020, nr. Min-BuZa.2020.5080-12, tot wijziging van het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 29 maart 2019, Min-BuZa.2019.3184-25, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Wijziging subsidieplafonds Subsidieprogramma SDG Results: Access to renewable energy), Stcrt. 2020, nr. 19115.

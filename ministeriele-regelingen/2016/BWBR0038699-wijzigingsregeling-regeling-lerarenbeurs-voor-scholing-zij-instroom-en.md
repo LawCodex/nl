@@ -43,7 +43,5 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker

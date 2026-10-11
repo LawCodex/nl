@@ -53,10 +53,8 @@ Voor de beroepsopleidingen opgenomen in bijlage 2 en 3 behorende bij deze regeli
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap\
+M. Bussemaker
 
 ## Bijlage 1 — van de Regeling van de minister van onderwijs, cultuur en wetenschap, nr. MBO/642399, houdende de wijziging van de Regeling vaststelling kwalificatiedossiers opleidingsdomeinen 2012 in verband met de aanpassing van enkele prijsfactoren
 

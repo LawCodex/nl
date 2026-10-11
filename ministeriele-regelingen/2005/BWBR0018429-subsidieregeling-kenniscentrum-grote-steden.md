@@ -117,7 +117,5 @@ Deze regeling wordt aangehaald als: Subsidieregeling Kenniscentrum Grote Steden.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Bestuurlijke Vernieuwing en Koninkrijksrelaties\
-A.Pechtold
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties,\
+A. Pechtold

@@ -43,6 +43,5 @@ Den Haag 28 mei 2021
 
 Willem-Alexander
 
-De Minister-President,\
-Minister van Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 M. Rutte

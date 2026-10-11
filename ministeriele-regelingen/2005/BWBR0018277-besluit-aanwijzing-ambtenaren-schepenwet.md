@@ -33,12 +33,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 namens deze:
 
-de\
-plv. inspecteur-generaal Verkeer en Waterstaat\
-M.W.J.Wolfs
+de plv. inspecteur-generaal Verkeer en Waterstaat,\
+M.W.J. Wolfs

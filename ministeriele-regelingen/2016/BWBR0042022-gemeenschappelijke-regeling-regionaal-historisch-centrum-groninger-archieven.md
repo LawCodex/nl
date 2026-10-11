@@ -370,8 +370,7 @@ Deze regeling kan worden aangehaald als: Gemeenschappelijke regeling Regionaal H
 De Minister van Onderwijs, Cultuur en Wetenschap,\
 .........................................................
 
-Burgemeester en wethouders van de gemeente Groningen,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Groningen, De burgemeester,\
 .........................................................
 
 de secretaris,\

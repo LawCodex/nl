@@ -49,7 +49,5 @@ De auteursrechten van de uit de studie van de heer Engelen voortvloeiende public
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
+J.W. Remkes

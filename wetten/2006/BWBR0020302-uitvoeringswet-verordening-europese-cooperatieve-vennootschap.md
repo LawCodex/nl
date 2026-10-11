@@ -166,10 +166,10 @@ Gegeven te ’s-Gravenhage 14 september 2006
 
 Beatrix
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner
 
 de *zesentwintigste* september 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

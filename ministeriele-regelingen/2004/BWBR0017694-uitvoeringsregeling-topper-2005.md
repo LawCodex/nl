@@ -57,10 +57,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Den Haag 14 december 2004
 
-De\
-Staatssecretaris\
-Economische Zaken\
-C.E.G. vanGennip
+De Staatssecretaris van Economische Zaken,\
+C.E.G. van Gennip
 
 ## Bijlage 1
 

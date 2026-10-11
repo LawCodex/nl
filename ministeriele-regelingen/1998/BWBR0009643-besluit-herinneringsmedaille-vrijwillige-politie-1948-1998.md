@@ -72,10 +72,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgi
 
 Dit besluit wordt aangehaald als: Besluit Herinneringsmedaille vrijwillige politie 1948-1998.
 
-De\
-Minister\
-Binnenlandse Zaken\
-H.F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H.F. Dijkstal
 
 ## Bijlage 1
 

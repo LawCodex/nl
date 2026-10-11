@@ -54,12 +54,8 @@ Deze beschikking zal worden geplaatst in de Staatscourant en in afschrift gezond
 
 's-Gravenhage 23 maart 1994
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J.R.H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J.R.H. Maij-Weggen
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-P.Bukman
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+P. Bukman

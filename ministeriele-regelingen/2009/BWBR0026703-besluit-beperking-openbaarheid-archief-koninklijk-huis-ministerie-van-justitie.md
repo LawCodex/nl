@@ -37,9 +37,5 @@ Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende pe
 
 Den Haag 24 juni 2009
 
-De\
-Minister\
-Justitie\
-namens deze:\
-Secretaris-Generaal\
-J.Demmink
+De Minister van Justitie, namens deze: de Secretaris-Generaal,\
+J. Demmink

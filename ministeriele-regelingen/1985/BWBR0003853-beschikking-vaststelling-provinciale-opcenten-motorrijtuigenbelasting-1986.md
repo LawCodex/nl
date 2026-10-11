@@ -37,7 +37,5 @@ Besluit:
 
 's-Gravenhage 27 september 1985
 
-De\
-staatssecretaris\
-Financiën\
+De staatssecretaris van Financiën,\
 H. E. Koning

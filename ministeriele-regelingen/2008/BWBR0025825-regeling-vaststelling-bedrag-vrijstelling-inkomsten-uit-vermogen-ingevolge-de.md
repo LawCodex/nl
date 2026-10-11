@@ -39,7 +39,5 @@ Deze regeling treedt in werking ingang van 1 januari 2009.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker

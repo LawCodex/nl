@@ -41,7 +41,5 @@ Deze regeling treedt in werking op de tweede dag na dagtekening van de Staatscou
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-J.M. vanBijsterveldt-Vliegenthart
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart

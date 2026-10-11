@@ -103,7 +103,5 @@ Deze regeling wordt aangehaald als: Regeling splitsingtoets BVE.
 
 Deze regeling en de toelichting zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-J.M. vanBijsterveldt-Vliegenthart
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart

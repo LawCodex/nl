@@ -45,12 +45,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 9 december 2002
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.J.de Geus
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A.J. de Geus
 
-De\
-Minister\
-Financiën\
-J.F.Hoogervorst
+De Minister van Financiën,\
+J.F. Hoogervorst

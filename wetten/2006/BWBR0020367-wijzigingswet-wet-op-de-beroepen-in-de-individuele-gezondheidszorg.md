@@ -47,10 +47,10 @@ Gegeven te ’s-Gravenhage 28 september 2006
 
 Beatrix
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-J. F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport ,\
+J. F. Hoogervorst
 
 de *vierentwintigste* oktober 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie ,\
+E. M. H. Hirsch Ballin

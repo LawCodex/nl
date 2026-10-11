@@ -53,12 +53,9 @@ Dit besluit wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad.
 
 's-Gravenhage 19 september 1994
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-Het\
-hoofd van de Directie Politie\
-H.P.Wooldrik
+Het hoofd van de Directie Politie\
+H.P. Wooldrik

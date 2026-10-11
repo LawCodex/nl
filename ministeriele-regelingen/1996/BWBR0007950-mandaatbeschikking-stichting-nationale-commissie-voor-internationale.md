@@ -45,7 +45,5 @@ Deze beschikking wordt in de Staatscourant geplaatst.
 
 ’s-Gravenhage 20 maart 1996
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-J.F. deLeeuw
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+J.F. de Leeuw

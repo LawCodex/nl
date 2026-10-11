@@ -97,7 +97,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 7 september 2022
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-I.M. Koster-Boer\
-Operationeel manager V&T
+De Minister voor Rechtsbescherming, namens deze,\
+I.M. Koster-Boer Operationeel manager V&T

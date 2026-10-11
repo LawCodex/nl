@@ -342,10 +342,8 @@ Deze regeling wordt aangehaald als: Regeling maatregelen rijvaardigheid en gesch
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus
 
 ## Bijlage — bij de Regeling maatregelen rijvaardigheid en geschiktheid 2011
 

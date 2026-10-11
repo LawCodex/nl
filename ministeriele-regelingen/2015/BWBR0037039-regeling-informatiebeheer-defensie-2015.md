@@ -184,7 +184,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ‘s-Gravenhage 10 september 2015
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert

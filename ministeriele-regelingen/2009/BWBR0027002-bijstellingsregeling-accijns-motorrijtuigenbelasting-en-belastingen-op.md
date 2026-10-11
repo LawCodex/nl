@@ -47,7 +47,5 @@ Artikel 84a van de Wet op de accijns vindt geen toepassing op de in artikel I, o
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

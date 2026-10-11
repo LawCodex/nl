@@ -220,7 +220,5 @@ gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aa
 
 Rijswijk 20 april 1989
 
-De\
-staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-D. J. D.Dees
+De staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+D. J. D. Dees

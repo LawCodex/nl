@@ -39,10 +39,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Den Haag 11 augustus 2009
 
-De\
-Staatssecretaris\
-Justitie\
-namens deze:\
-hoofddirecteur\
-Dienst Justitiële Inrichtingen\
-P.J.M. van derSande
+De Staatssecretaris van Justitie, namens deze:hoofddirecteurDienst Justitiële Inrichtingen,\
+P.J.M. van der Sande

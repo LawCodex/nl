@@ -39,9 +39,5 @@ Besluit:
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken\
-namens deze:\
-Directeur-Generaal van Energie\
-G.J.Lankhorst
+De Minister van Economische Zaken, namens deze: de Directeur-Generaal van Energie,\
+G.J. Lankhorst

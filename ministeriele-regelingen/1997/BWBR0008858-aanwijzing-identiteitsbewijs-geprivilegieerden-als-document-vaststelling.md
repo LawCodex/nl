@@ -27,7 +27,5 @@ Besluit:
 
 Het identiteitsbewijs geprivilegieerden als bedoeld in de regeling van de Minister van Buitenlandse Zaken van 7 augustus 1997, nr. DJZ/BR 902/97, wordt aangewezen als een document voor de vaststelling van de identiteit van personen.
 
-De\
-Minister\
-Justitie\
-G.Zalm
+De Minister van Justitie, a.i.\
+G. Zalm

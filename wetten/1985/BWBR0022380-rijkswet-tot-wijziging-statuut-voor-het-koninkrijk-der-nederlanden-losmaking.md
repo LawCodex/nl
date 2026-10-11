@@ -53,9 +53,8 @@ Gegeven te Nairobi 22 juli 1985
 
 Beatrix
 
-DeMinister-President,\
-Minister\
-R.F.M.Lubbers
+DeMinister-President, Minister vanAlgemene Zaken,\
+R.F.M. Lubbers
 
 DeMinistervoorNederlands-Antilliaanse Zaken,\
 J. de Koning

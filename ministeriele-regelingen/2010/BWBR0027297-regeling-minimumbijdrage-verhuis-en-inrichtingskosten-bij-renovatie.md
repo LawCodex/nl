@@ -45,7 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 19 februari 2010
 
-De\
-Minister\
-Wonen, Wijken en Integratie\
-E.E. van derLaan
+De Minister voor Wonen, Wijken en Integratie,\
+E.E. van der Laan

@@ -43,10 +43,8 @@ Deze regeling wordt aangehaald als: Regeling beleidsindicatoren gemeenten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
 ## Bijlage — behorende bij artikel 1 van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 maart 2016, nr. 2016-0000177572, tot vaststelling van de beleidsindicatoren die door gemeenten in de programma’s en programmaverantwoording worden opgenomen
 

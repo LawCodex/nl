@@ -69,10 +69,10 @@ Gegeven te ’s-Gravenhage 21 december 2006
 
 Beatrix
 
-De Minister van Onderwijs, Cultuur en Wetenschap\
-M. J. A. van derHoeven
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. J. A. van der Hoeven
 
 de *zesde* februari 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

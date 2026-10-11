@@ -52,10 +52,8 @@ Deze regeling wordt aangehaald als: Regeling vaststelling invaliditeit met diens
 
 Deze regeling wordt gepubliceerd in de serie Ministeriele Publicaties (MP 32-500). Deze regeling wordt met toelichting gepubliceerd in de Staatscourant.
 
-De\
-Staatssecretaris\
-Defensie\
-J.G. deVries
+De Staatssecretaris van Defensie,\
+J.G. de Vries
 
 ## Bijlage 1
 

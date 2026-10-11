@@ -39,9 +39,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking\
-Namens deze,\
-De directeur-generaal Buitenlandse Economische Betrekkingen\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking Namens deze, De directeur-generaal Buitenlandse Economische Betrekkingen\
 H. Schuiling
 
 [^n1]: 2 Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 september 2016, tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen (Vouchers internationaal ondernemen), Stcrt. 2016, nr. 48327.

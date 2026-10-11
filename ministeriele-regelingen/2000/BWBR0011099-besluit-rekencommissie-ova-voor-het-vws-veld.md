@@ -83,7 +83,5 @@ Dit besluit kan worden aangehaald als Besluit Rekencommissie ova voor het VWS-ve
 
 Van dit besluit wordt mededeling gedaan in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers

@@ -84,10 +84,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ´s-Gravenhage 6 juni 2013
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert
 
 ## Bijlage 1
 

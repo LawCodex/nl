@@ -86,7 +86,5 @@ De regeling wordt aangehaald als: Instellingsbesluit FIU-Nederland 2013.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

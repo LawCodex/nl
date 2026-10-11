@@ -65,9 +65,7 @@ Bij de voorbereiding van het in 1974 af te nemen examen dient als leidraad te wo
 
 's-Gravenhage 4 juli 1974
 
-De\
-Staatssecretaris\
-Economische Zaken\
+De Staatssecretaris van Economische Zaken,\
 Th. M. Hazekamp
 
 ## Bijlage
@@ -132,7 +130,5 @@ Behoort bij de beschikking van 4 juli 1974, nr. 674/459, houdende vaststelling v
 
 Mij bekend,
 
-De\
-Staatssecretaris\
-Economische Zaken\
+De Staatssecretarisvan Economische Zaken,\
 Th. M. Hazekamp.

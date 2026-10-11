@@ -33,9 +33,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 14 november 2013
 
-De\
-minister\
-Onderwijs, Cultuur en Wetenschap,\
-Namens deze:\
-De algemene rijksarchivaris\
-M.J.Berendse
+De minister van Onderwijs, Cultuur en Wetenschap,Namens deze:De algemene rijksarchivaris\
+M.J. Berendse

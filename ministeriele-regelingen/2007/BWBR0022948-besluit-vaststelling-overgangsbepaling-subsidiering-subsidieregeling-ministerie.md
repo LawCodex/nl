@@ -39,8 +39,5 @@ Dit besluit treedt in werking met ingang van 1 januari 2008
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-minister voor Ontwikkelingssamenwerking\
-namens deze:\
-directeur-generaal Internationale Samenwerking\
-R.J.Treffers
+De minister voor Ontwikkelingssamenwerking, namens deze:de directeur-generaal Internationale Samenwerking,\
+R.J. Treffers

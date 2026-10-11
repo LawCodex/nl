@@ -161,11 +161,9 @@ Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.
 
 Rijswijk 11 mei 1983
 
-De\
-Minister
+De Minister voornoemd,
 
 Namens deze,
 
-De\
-directeur-generaal voor Maatschappelijke Ontwikkeling,\
+De directeur-generaal voor Maatschappelijke Ontwikkeling,\
 G. Hendriks

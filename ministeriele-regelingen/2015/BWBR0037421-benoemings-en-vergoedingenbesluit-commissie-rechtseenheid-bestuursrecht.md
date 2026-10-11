@@ -54,12 +54,8 @@ Dit besluit wordt aangehaald als: Benoemings- en vergoedingenbesluit Commissie r
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk

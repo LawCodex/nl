@@ -45,7 +45,5 @@ Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoning
 
 Den Haag 23 januari 2003
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
-H.G.J.Kamp
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+H.G.J. Kamp

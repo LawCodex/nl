@@ -69,7 +69,5 @@ Deze regeling treedt in werking met ingang van 1 september 1998.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
+De Minister van Financiën,\
 G. Zalm

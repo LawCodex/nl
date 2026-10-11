@@ -298,114 +298,172 @@ F. van Oosten
 
 ![Bijlage 1 als bedoeld in de artikelen 4 en 9 van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273631.png)
 
+Kaart (1:10.000) met aanduiding van het luchthavengebied en de ruimtelijke indeling, de locatie van de handhavingspunten en de grenswaarde in de handhavingspunten
+
 ## Bijlage 2 — als bedoeld in artikel 10, eerste lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 2 als bedoeld in artikel 10, eerste lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273632.png)
+
+Kaart (1:50.000) met de contouren ter aanduiding van het 10<sup>-5</sup> en 10<sup>-6</sup> plaatsgebonden risico zijn aangegeven
 
 ## Bijlage 3 — als bedoeld in de artikelen 10, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 3 als bedoeld in de artikelen 10, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273633.png)
 
+Kaart (1:50.000) met de contouren ter aanduiding van de geluidbelasting van 70 L<sub>den</sub>, 56 L<sub>den</sub> en 48 L<sub>den</sub>
+
 ## Bijlage 4 — als bedoeld in artikel 11, eerste lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 4 als bedoeld in artikel 11, eerste lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273634.png)
+
+Kaart (1:50.000) met veiligheidsgebieden
 
 ## Bijlage 5a — als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5a als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273635.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Take-off climb Surfaces
+
 ## Bijlage 5b — als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5b als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273636.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Take-off climb Surface oostelijk deel
 
 ## Bijlage 5c — als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5c als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273637.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Take-off climb Surface westelijk deel
+
 ## Bijlage 5d — als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5d als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273638.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Approach en Transitional Surfaces
 
 ## Bijlage 5e — als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5e als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273639.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Approach en Transitional Surfaces middendeel
+
 ## Bijlage 5f — als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5f als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273640.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Approach en Transitional Surfaces oostelijk deel
 
 ## Bijlage 5g — als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5g als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273641.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Approach en Transitional Surfaces westelijk deel
+
 ## Bijlage 5h — als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5h als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273642.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Inner horizontal en Conical Surface
 
 ## Bijlage 5i — als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5i als bedoeld in artikel 11, tweede lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273643.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Outer horizontal Surface
+
 ## Bijlage 5j — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5j als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273644.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: DVOR/DME-surface
 
 ## Bijlage 5k — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5k als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273645.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: ILS Localizer Surface Baan 23
+
 ## Bijlage 5l — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5l als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273646.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor ILS Glidepath Surface Baan 23
 
 ## Bijlage 5m — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5m als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273647.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor DME Baan 23
+
 ## Bijlage 5n — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5n als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273648.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor ontvangststation A
 
 ## Bijlage 5o — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5o als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273649.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor ontvangststation B
+
 ## Bijlage 5p — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5p als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273650.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor zendstation A
 
 ## Bijlage 5q — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5q als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273651.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor zendstation B
+
 ## Bijlage 5r — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5r als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273652.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor noodontvangststation
 
 ## Bijlage 5s — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5s als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273653.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor noodzendstation
+
 ## Bijlage 5t — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5t als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273654.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor VDF Eelde
 
 ## Bijlage 5u — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5u als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273655.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Surface voor Radar (TAR) Eelde
+
 ## Bijlage 5v — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5v als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273656.png)
+
+Kaart (1:50.000) met hoogtebeperkingen: Windturbine-surface voor DVOR/DME
 
 ## Bijlage 5w — als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 5w als bedoeld in artikel 11, derde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273657.png)
 
+Kaart (1:50.000) met hoogtebeperkingen: Windturbine-surface voor VDF Eelde
+
 ## Bijlage 6 — als bedoeld in artikel 11, vierde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 6 als bedoeld in artikel 11, vierde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273658.png)
 
+Kaart (1:50.000) met het gebied met beperkingen ten aanzien van vogelaantrekkende activiteiten en grondgebruik
+
 ## Bijlage 7 — als bedoeld in artikel 11, vijfde lid, van het Luchthavenbesluit Eelde
 
 ![Bijlage 7 als bedoeld in artikel 11, vijfde lid, van het Luchthavenbesluit Eelde](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0051670/2025-11-01_0/xml/273659.png)
+
+Kaart (1:50.000) met het laserstraalvrije gebied

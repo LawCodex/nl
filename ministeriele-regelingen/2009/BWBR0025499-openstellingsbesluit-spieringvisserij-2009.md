@@ -41,7 +41,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 13 maart 2009
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg

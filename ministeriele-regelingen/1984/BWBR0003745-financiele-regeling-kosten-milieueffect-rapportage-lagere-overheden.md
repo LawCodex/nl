@@ -53,12 +53,8 @@ Dit besluit treedt in werking op 1 januari 1985 en wordt bekendgemaakt in de Ned
 
 's-Gravenhage 28 december 1984
 
-De\
-minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.Winsemius
+De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+P. Winsemius
 
-De\
-minister\
-Landbouw en Visserij\
+De minister van Landbouw en Visserij,\
 G. J. M. Braks

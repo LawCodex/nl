@@ -43,7 +43,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 12 december 2000
 
-De\
-Staatssecretaris
+De Staatssecretaris voornoemd,
 
 M.J. Cohen

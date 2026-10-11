@@ -71,10 +71,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 2 juli 2012
 
-De\
-Minister\
-Defensie,\
-J.S.J.Hillen
+De Minister van Defensie,\
+J.S.J. Hillen
 
 ## Bijlage — bij artikel 3, eerste lid.
 

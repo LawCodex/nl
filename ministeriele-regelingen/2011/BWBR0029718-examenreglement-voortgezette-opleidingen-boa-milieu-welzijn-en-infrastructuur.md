@@ -280,9 +280,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 Den Haag 15 maart 2011
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze:\
-de directeur-generaal Rechtspleging en Rechtshandhaving,\
-J. van derVlist
+De Minister van Veiligheid en Justitie,namens deze:de directeur-generaal Rechtspleging en Rechtshandhaving,\
+J. van der Vlist

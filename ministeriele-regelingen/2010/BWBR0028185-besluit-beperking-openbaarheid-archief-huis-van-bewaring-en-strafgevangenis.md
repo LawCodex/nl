@@ -38,9 +38,5 @@ Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende pe
 
 Den Haag 3 augustus 2010
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-P.J.M. van derSande,\
-Hoofddirecteur Dienst Justitiële Inrichtingen.
+De Minister van Justitie,namens deze:\
+P.J.M. van der Sande,Hoofddirecteur Dienst Justitiële Inrichtingen.

@@ -41,12 +41,9 @@ Het aantal weken, dat betrokkene met behoud van zijn recht op uitkering ingevolg
 
 Deze regeling treedt in werking op de datum van dagtekening en werkt terug tot en met 1 februari 1995.
 
-De\
-Staatssecretaris\
-Defensie
+De Staatssecretaris van Defensie,
 
 voor deze,
 
-De\
-Directeur-Generaal Personeel\
-W. J. M.Bunnik
+De Directeur-Generaal Personeel,\
+W. J. M. Bunnik

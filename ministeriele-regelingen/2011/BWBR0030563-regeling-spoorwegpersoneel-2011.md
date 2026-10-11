@@ -135,10 +135,8 @@ Deze regeling wordt aangehaald als: Regeling spoorwegpersoneel 2011.
 
 Deze regeling zal met de bijlagen en toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen
 
 ## Bijlage 1 — behorende bij artikel 2, eerste lid, van de Regeling spoorwegpersoneel 2011
 

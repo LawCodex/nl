@@ -70,7 +70,5 @@ Dit besluit wordt aangehaald als: Besluit aansluiting bezwarenadviescommissie pe
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem

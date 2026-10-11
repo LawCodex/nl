@@ -33,7 +33,5 @@ Het besluit *CCMS no. 8-2002* inzake opleidingseisen psychiatrie af te keuren.
 
 Dit besluit zal worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

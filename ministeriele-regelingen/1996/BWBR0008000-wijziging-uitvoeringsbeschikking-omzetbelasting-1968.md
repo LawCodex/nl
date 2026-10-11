@@ -57,7 +57,5 @@ De ministeriële regeling wijziging heffing omzetbelasting van 22 december 1993 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt voor ARTIKEL I, onderdelen E en F, en ARTIKEL IV terug tot en met 31 maart 1995, 18.00 uur, en voor ARTIKEL III terug tot en met 29 december 1995.
 
-De\
-Staatssecretaris\
-Financiën\
-W.Vermeend
+De Staatssecretaris van Financiën,\
+W. Vermeend

@@ -461,13 +461,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Financiën\
-W. J.Bos
+De Minister van Financiën,\
+W. J. Bos
 
 de *achttiende* september 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 ## Bijlage A
 

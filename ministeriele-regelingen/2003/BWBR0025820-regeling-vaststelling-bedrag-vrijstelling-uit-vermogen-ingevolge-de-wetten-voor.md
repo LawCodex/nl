@@ -39,6 +39,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2004.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-C.I.J.M.Ross-van Dorp
+De Staatssecretaris voornoemd,\
+C.I.J.M. Ross-van Dorp

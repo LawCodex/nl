@@ -35,7 +35,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
+De Staatssecretaris van Verkeer en Waterstaat\
 M.H. Schultz van Haegen

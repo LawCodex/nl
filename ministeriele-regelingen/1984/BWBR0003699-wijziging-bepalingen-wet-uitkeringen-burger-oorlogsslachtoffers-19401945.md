@@ -53,6 +53,5 @@ Indien het burger-oorlogsslachtoffer, na beëindiging van zijn al dan niet volto
 
 Deze regeling treedt in werking met ingang van de dag na die van plaatsing in de Nederlandse Staatscourant en werkt terug tot 1 juli 1981.
 
-De\
-minister\
-R. F. M.Lubbers
+De minister voornoemd a.i.,\
+R. F. M. Lubbers

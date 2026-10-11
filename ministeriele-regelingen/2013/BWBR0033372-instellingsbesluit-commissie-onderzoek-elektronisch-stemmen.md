@@ -65,12 +65,8 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
-De\
-minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De minister voor Wonen en Rijksdienst,\
+S.A. Blok

@@ -113,10 +113,8 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 Den Haag 13 maart 2014
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher.
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher.
 
 ## Bijlage 1 — behorend bij de artikelen 5 en 6
 

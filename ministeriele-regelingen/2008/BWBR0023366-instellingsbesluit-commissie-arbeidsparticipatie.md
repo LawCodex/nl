@@ -86,7 +86,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 18 januari 2008
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-J.P.H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J.P.H. Donner

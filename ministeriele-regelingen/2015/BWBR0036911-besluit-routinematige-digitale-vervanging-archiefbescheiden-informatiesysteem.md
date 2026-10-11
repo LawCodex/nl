@@ -34,10 +34,8 @@ Over te gaan tot routinematige, digitale vervanging van papieren archiefbescheid
 - b. volgens de specificaties, vastgelegd in de bijlage*Handboek substitutie VWS* behorende bij dit besluit;
 - c. overeenkomstig de eisen, opgenomen in artikel 26b van de Archiefregeling (Stcrt. 2012, nr. 26238, 17 december 2012).
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage — Handboek substitutie VWS
 

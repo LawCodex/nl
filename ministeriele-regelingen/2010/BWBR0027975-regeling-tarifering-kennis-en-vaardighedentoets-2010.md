@@ -56,7 +56,5 @@ Het tarief voor het afleggen van een kennis- en vaardighedentoets voor verpleegk
 
 Deze regeling treedt in werking met ingang van 1 oktober 2010.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-A.Klink.
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink.

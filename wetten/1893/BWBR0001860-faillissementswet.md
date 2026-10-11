@@ -31,7 +31,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ## Titel I — Van faillissement
 
-### afdeling Eerste — Van de faillietverklaring
+### Eerste afdeling — Van de faillietverklaring
 
 #### Artikel 1
 
@@ -301,7 +301,7 @@ Door Onze Minister van Justitie of, indien ingevolge artikel 19, vierde lid, een
 
 In het geval, bedoeld in artikel 14, vierde lid, worden de gegevens met betrekking tot de daar bedoelde insolventieprocedure door de griffier van de rechtbank Den Haag ingeschreven in het register.
 
-### afdeling Tweede — Van de gevolgen der faillietverklaring
+### Tweede afdeling — Van de gevolgen der faillietverklaring
 
 #### Artikel 20
 
@@ -713,7 +713,7 @@ Van de goederen als bedoeld in artikel 63a, eerste lid, zijn uitgezonderd de goe
 
 2\. De artikelen 23, 24, 35, 53, eerste lid, 54, tweede lid, van deze wet, alsmede artikel 72, aanhef en onder a, van Boek 3 van het Burgerlijk Wetboek, kunnen niet aan derden worden tegengeworpen ten aanzien van een door een schuldenaar na het tijdstip van faillietverklaring gesloten financiëlezekerheidsovereenkomst als bedoeld in artikel 51 van Boek 7 van het Burgerlijk Wetboek, een overdracht of vestiging van een pandrecht op grond van een financiëlezekerheidsovereenkomst, alsmede elke rechtshandeling op grond van een financiëlezekerheidsovereenkomst vanwege verbintenissen van de schuldenaar die na het tijdstip van faillietverklaring zijn ontstaan, mits de betreffende rechtshandeling plaatsvindt op de dag van faillietverklaring en de wederpartij kan aantonen dat deze ten tijde van de rechtshandeling de faillietverklaring niet kende of behoorde te kennen.
 
-### afdeling Derde — Van het bestuur over de failliete boedel
+### Derde afdeling — Van het bestuur over de failliete boedel
 
 #### § 1 — Van de rechter-commissaris
 
@@ -915,7 +915,7 @@ Alle beschikkingen in zaken, het beheer of de vereffening des faillieten boedels
 
 Alle beschikkingen in zaken, het beheer of de vereffening des faillieten boedels betreffende, ook die welke niet uitgaan van de rechtbank, zijn uitvoerbaar bij voorraad en op de minuut, tenzij het tegendeel is bepaald.
 
-### afdeling Vierde — Van de voorzieningen na de faillietverklaring en van het beheer des curators
+### Vierde afdeling — Van de voorzieningen na de faillietverklaring en van het beheer des curators
 
 #### Artikel 87
 
@@ -1115,7 +1115,7 @@ De artikelen 106a tot en met 106d zijn van overeenkomstige toepassing op bestuur
 
 2\. Evenzo is de griffier verplicht aan een ieder op diens verzoek en op diens kosten afschrift af te geven van de stukken waarvan een ieder ingevolge enige bepaling van deze wet ter griffie inzage kan verkrijgen.
 
-### afdeling Vijfde — Van de verificatie der schuldvorderingen
+### Vijfde afdeling — Van de verificatie der schuldvorderingen
 
 #### Artikel 108
 
@@ -1373,7 +1373,7 @@ Vervallen
 
 3\. De vijfde, zesde en zevende afdeling zijn van toepassing.
 
-### afdeling Zesde — Van het akkoord
+### Zesde afdeling — Van het akkoord
 
 #### Artikel 138
 
@@ -1573,7 +1573,7 @@ Het vorige artikel is eveneens toepasselijk, indien de boedel van de schuldenaar
 
 De bepalingen van deze afdeling zijn van overeenkomstige toepassing in het geval dat een akkoord wordt aangeboden op de voet van artikel 47, eerste lid, van de verordening, genoemd in artikel 5, derde lid.
 
-### afdeling Zevende — Van de vereffening des boedels
+### Zevende afdeling — Van de vereffening des boedels
 
 #### Artikel 173
 
@@ -1735,7 +1735,7 @@ Na afloop van de termijn van inzage, bedoeld bij artikel 183, of na uitspraak va
 
 Indien na de slotuitdeling ingevolge artikel 189 gereserveerde uitdelingen aan de boedel terugvallen, of mocht blijken dat er nog baten van de boedel aanwezig zijn, welke ten tijde der vereffening niet bekend waren, gaat de curator, op bevel van de rechtbank, tot vereffening en verdeling daarvan over op de grondslag van de vroegere uitdelingslijsten.
 
-### afdeling Achtste — Van de rechtstoestand des schuldenaars na afloop van de vereffening
+### Achtste afdeling — Van de rechtstoestand des schuldenaars na afloop van de vereffening
 
 #### Artikel 195
 
@@ -1749,7 +1749,7 @@ De in het vierde lid van artikel 121 bedoelde erkenning ener vordering heeft kra
 
 De bepaling van het vorige artikel geldt niet voorzover de vordering door de gefailleerde overeenkomstig artikel 126 betwist is.
 
-### afdeeling Negende — Vervallen
+### Negende afdeeling — Vervallen
 
 #### Artikel 198
 
@@ -1771,7 +1771,7 @@ Vervallen
 
 Vervallen
 
-### afdeling Tiende — Bepalingen van internationaal recht
+### Tiende afdeling — Bepalingen van internationaal recht
 
 #### Artikel 203
 
@@ -1789,7 +1789,7 @@ Schuldeisers, die na de faillietverklaring hun vordering geheel of gedeeltelijk 
 
 2\. Het tweede lid van het vorige artikel is hier toepasselijk.
 
-### afdeling Elfde — Van rehabilitatie
+### Elfde afdeling — Van rehabilitatie
 
 #### Artikel 206
 
@@ -2915,7 +2915,7 @@ Artikel 10 is niet van toepassing.
 
 ## Titel II — Van surseance van betaling
 
-### afdeling Eerste — Van de verlening van surseance van betaling en haar gevolgen
+### Eerste afdeling — Van de verlening van surseance van betaling en haar gevolgen
 
 #### Artikel 214
 
@@ -3383,7 +3383,7 @@ Vervallen
 
 De bepalingen van internationaal recht van de artikelen 203-205 vinden bij surseance overeenkomstige toepassing.
 
-### afdeling Tweede — Van het akkoord
+### Tweede afdeling — Van het akkoord
 
 #### Artikel 252
 
@@ -3660,7 +3660,7 @@ Afdeling 11A is van overeenkomstige toepassing op de verlening van surseance van
 
 Afdeling 3.5.6 van de Wet op het financieel toezicht is van overeenkomstige toepassing op een surseance van betaling die wordt verleend aan een beleggingsonderneming als bedoeld in artikel 1:1 van die wet of een financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110 van die wet heeft.
 
-### afdeling Derde — Slotbepalingen
+### Derde afdeling — Slotbepalingen
 
 #### Artikel 282
 
@@ -3676,7 +3676,7 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 ## Titel III — Schuldsaneringsregeling natuurlijke personen
 
-### afdeling Eerste — Het uitspreken van de toepassing van de schuldsaneringsregeling
+### Eerste afdeling — Het uitspreken van de toepassing van de schuldsaneringsregeling
 
 #### Artikel 284
 
@@ -3863,7 +3863,7 @@ Het verzoekschrift met bijbehorende stukken, bedoeld in artikel 285, eerste lid,
 
 De griffier geeft voor iedere van toepassing verklaarde schuldsaneringsregeling een uittreksel van het verzoekschrift met bijlagen op grond van artikel 285 door aan Onze Minister van Justitie of, indien ingevolge artikel 294, vierde lid, een ander orgaan is aangewezen, dat orgaan ter inschrijving in het in artikel 294a bedoelde register. Onze Minister van Justitie onderscheidenlijk het orgaan, bedoeld in de eerste zin, stelt vast welke gegevens in het uittreksel worden opgenomen. Artikel 294a, derde lid, is op het uittreksel niet van toepassing.
 
-### afdeling Tweede — De gevolgen van de toepassing van de schuldsaneringsregeling
+### Tweede afdeling — De gevolgen van de toepassing van de schuldsaneringsregeling
 
 #### Artikel 295
 
@@ -4047,7 +4047,7 @@ Van de goederen als bedoeld in artikel 309, eerste lid, zijn uitgezonderd de goe
 
 2\. De in de eerste volzin van artikel 63a, eerste lid, bedoelde beslissing kan ook op verzoek van de schuldenaar dan wel ambtshalve worden gegeven door de rechter die de toepassing van de schuldsaneringsregeling uitspreekt.
 
-### afdeling Derde — Het bestuur over de boedel
+### Derde afdeling — Het bestuur over de boedel
 
 #### Artikel 314
 
@@ -4141,7 +4141,7 @@ Van de goederen als bedoeld in artikel 309, eerste lid, zijn uitgezonderd de goe
 
 De artikelen 85 en 86 zijn van overeenkomstige toepassing.
 
-### afdeling Vierde — De voorzieningen na de uitspraak tot de toepassing van de schuldsaneringsregeling en de taak van de bewindvoerder
+### Vierde afdeling — De voorzieningen na de uitspraak tot de toepassing van de schuldsaneringsregeling en de taak van de bewindvoerder
 
 #### Artikel 322
 
@@ -4173,7 +4173,7 @@ Vervallen
 
 De artikelen 99 en 102 tot en met 105b en 107 zijn van overeenkomstige toepassing.
 
-### afdeling Vijfde — Verificatie van vorderingen
+### Vijfde afdeling — Verificatie van vorderingen
 
 #### Artikel 328
 
@@ -4209,7 +4209,7 @@ De artikelen 99 en 102 tot en met 105b en 107 zijn van overeenkomstige toepassin
 
 2\. Schuldeisers met voorrang verliezen die voorrang voorzover de opbrengst van de zaak, waaraan die voorrang kleefde, bij een vroegere uitdelingslijst aan andere schuldeisers bij voorrang is toegekend.
 
-### afdeling Zesde — Het akkoord
+### Zesde afdeling — Het akkoord
 
 #### Artikel 329
 
@@ -4344,7 +4344,7 @@ Vervallen
 
 Vervallen
 
-### afdeling Zevende — De vereffening van de boedel
+### Zevende afdeling — De vereffening van de boedel
 
 #### Artikel 347
 
@@ -4384,7 +4384,7 @@ Indien een goed als bedoeld in de vorige volzin in de boedel valt nadat een uitd
 
 4\. Door een schuldeiser bedoeld in artikel 110, derde lid, kan niet het in het eerste lid bedoelde verzet worden gedaan.
 
-### afdeling Achtste — Termijn en beëindiging van de toepassing van de schuldsaneringsregeling
+### Achtste afdeling — Termijn en beëindiging van de toepassing van de schuldsaneringsregeling
 
 #### Artikel 349a
 
@@ -4503,7 +4503,7 @@ Met een vordering onder dit lid wordt gelijkgesteld een vordering die voortvloei
 
 6\. Het eerste lid is niet van toepassing indien de schuldenaar tijdens de toepassing van de schuldsaneringsregeling is overleden.
 
-### afdeling Negende — Bijzondere bepalingen
+### Negende afdeling — Bijzondere bepalingen
 
 #### Artikel 358a
 
@@ -4535,7 +4535,7 @@ Met een vordering onder dit lid wordt gelijkgesteld een vordering die voortvloei
 
 De artikelen 203 tot en met 205 zijn van overeenkomstige toepassing.
 
-### afdeling Tiende — Slotbepalingen
+### Tiende afdeling — Slotbepalingen
 
 #### Artikel 360
 
@@ -4559,7 +4559,7 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 3\. De rechtbank weigert homologatie van een akkoord, bedoeld in deze wet, indien het akkoord niet voorziet in de terugbetaling van de staatssteun die ingevolge een Commissiebesluit als bedoeld in artikel 1 van de Wet terugvordering staatssteun moet worden teruggevorderd.
 
-## afdeling Tweede — Homologatie van een onderhands akkoord
+## Tweede afdeling — Homologatie van een onderhands akkoord
 
 ### § 1 — Algemene bepalingen
 

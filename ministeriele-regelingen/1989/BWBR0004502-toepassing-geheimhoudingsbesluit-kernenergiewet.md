@@ -39,16 +39,8 @@ Deze regeling treedt in werking met ingang van 16 maart 1989.
 
 's-Gravenhage 6 maart 1989
 
-De\
-minister\
-Economische Zaken\
-R. W. deKorte\
-minister\
-Onderwijs en Wetenschappen\
-W. J.Deetman\
-minister\
-Buitenlandse Zaken\
-H. van denBroek\
-minister\
-Defensie\
-F.Bolkestein
+De minister van Economische Zaken,\
+R. W. de Korte De minister van Onderwijs en Wetenschappen,\
+W. J. Deetman De minister van Buitenlandse Zaken,\
+H. van den Broek De minister van Defensie,\
+F. Bolkestein

@@ -45,7 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 14 oktober 2013
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher

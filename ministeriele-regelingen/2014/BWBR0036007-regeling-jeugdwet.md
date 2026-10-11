@@ -671,15 +671,11 @@ Deze regeling wordt aangehaald als: Regeling Jeugdwet.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven
 
 ## Bijlage 1 — behorende bij paragraaf 5 van de Regeling Jeugdwet
 

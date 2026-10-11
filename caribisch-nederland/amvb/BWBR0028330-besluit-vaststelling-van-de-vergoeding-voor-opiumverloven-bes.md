@@ -1,0 +1,42 @@
+---
+title: "Besluit vaststelling van de vergoeding voor opiumverloven BES"
+identifier: "BWBR0028330"
+type: decree
+bwb_type: "AMvB-BES"
+jurisdiction: nl
+language: nl
+date: 2010-09-14
+last_amended: 2010-10-10
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0028330/2010-10-10"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0028330/2010-10-10_0/xml/BWBR0028330_2010-10-10_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Gezondheidsrecht en farmaceutisch recht", "Openbare orde en veiligheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit vaststelling van de vergoeding voor opiumverloven BES
+
+## Artikel 1
+
+Terzake van de vergoedingen, bedoeld in de artikelen 6 lid 2 en 7 lid 1 tweede alinea van de Opiumwet 1960 Bonaire, Sint Eustatius en Saba worden de navolgende regelen vastgesteld:
+
+- I. De verschuldigde vergoeding voor een verlof voor het vervaardigen van verdovende middelen waaronder begrepen de handelingen, bedoeld onder II en III, bedraagt voor elk kalenderjaar of gedeelte daarvan USD 56,–.
+- II. De verschuldigde vergoeding voor een verlof voor het bereiden, bewerken en verwerken van verdovende middelen, waaronder begrepen de handelingen, bedoeld onder III, bedraagt voor elk kalenderjaar of gedeelte daarvan USD 6,–.
+- III. De verschuldigde vergoeding voor een verlof voor het invoeren, uitvoeren, verkopen, afleveren, verstrekken, vervoeren, bezitten en aanwezig hebben van verdovende middelen bedraagt voor elk kalenderjaar of gedeelte daarvan USD 4,–.
+
+## Artikel 2
+
+De vergoedingen als bedoeld in artikel 1 zijn niet verschuldigd voor een verlof, uitsluitend voor een wetenschappelijk of politioneel doel.
+
+## Artikel 3
+
+De vergoedingen als bedoeld in artikel 1 moeten door degene, die het verlof vraagt, worden betaald op de wijze door Onze Minister van Volksgezondheid, Welzijn en Sport vastgesteld.
+
+## Artikel 3a
+
+Dit besluit berust op artikel 6, tweede lid, en artikel 7, eerste lid, van de Opiumwet 1960 BES.
+
+## Artikel 4
+
+Dit besluit wordt aangehaald als: Besluit vaststelling van de vergoeding voor opiumverloven BES.

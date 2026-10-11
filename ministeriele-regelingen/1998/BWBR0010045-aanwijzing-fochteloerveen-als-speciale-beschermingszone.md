@@ -37,7 +37,5 @@ Deze beschikking zal, met uitzondering van toelichtende nota en de kaart, met de
 
 ’s-Gravenhage 30 november 1998
 
-De\
-Staatssecretaris\
-Landbouw, Natuurbeheer en Visserij\
-G.H.Faber
+De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,\
+G.H. Faber

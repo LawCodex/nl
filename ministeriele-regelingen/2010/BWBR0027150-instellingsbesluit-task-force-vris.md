@@ -85,15 +85,11 @@ Dit besluit treedt in werking in werking met ingang van de dag na dagtekening va
 
 Den Haag 26 januari 2010
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak
 
 [^n1]: 1 Bij de aanpak zal de Task Force gebruik maken van de uitkomsten van het programma Uitzetten/Vastzetten van criminele vreemdelingen/illegalen (april 2009–juli 2011).
 

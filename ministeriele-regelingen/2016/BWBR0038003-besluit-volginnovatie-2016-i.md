@@ -65,9 +65,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’ s-Gravenhage 31 mei 2016
 
-De\
-Minister\
-Economische Zaken,\
-namens deze:\
-H.J.I.M. deRooij\
-hoofddirecteur Interne Organisatie en Uitvoering
+De Minister van Economische Zaken,namens deze:\
+H.J.I.M. de Rooijhoofddirecteur Interne Organisatie en Uitvoering

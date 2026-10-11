@@ -35,7 +35,5 @@ Deze beschikking treedt in werking met ingang van de tweede dag na dagtekening v
 
 Deze beschikking zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

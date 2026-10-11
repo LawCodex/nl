@@ -99,7 +99,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 \`s-Gravenhage 20 december 2001
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-J.F.Hoogervorst
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J.F. Hoogervorst

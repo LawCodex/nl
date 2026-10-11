@@ -65,7 +65,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 30 maart 2017
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus

@@ -110,7 +110,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 29 mei 2012
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen

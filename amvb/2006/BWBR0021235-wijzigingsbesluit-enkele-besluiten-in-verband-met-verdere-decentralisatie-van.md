@@ -79,13 +79,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Onderwijs, Cultuur en Wetenschap\
+De Minister van Onderwijs, Cultuur en Wetenschap,\
 M. J. A. van der Hoeven
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-C. P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+C. P. Veerman
 
 de *dertiende* februari 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -35,7 +35,5 @@ goed te keuren.
 
 Dit besluit zal samen het betreffende besluit worden gepubliceerd in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
 C. Ross-van Dorp

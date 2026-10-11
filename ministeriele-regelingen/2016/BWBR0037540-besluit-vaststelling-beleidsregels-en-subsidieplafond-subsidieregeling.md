@@ -53,12 +53,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage inclusief annex 1 en annex 2 in de Staatscourant worden geplaatst. Het aanvraagformulier en bijbehorende verplichte bijlagen worden via internet bekend gemaakt. [^n4]
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
-R.M.Buijs
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens deze,de plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
+R.M. Buijs
 
 Inhoudsopgave
 

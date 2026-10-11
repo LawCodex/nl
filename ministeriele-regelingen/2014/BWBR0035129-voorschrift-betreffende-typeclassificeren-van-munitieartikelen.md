@@ -47,10 +47,8 @@ Dit besluit zal in de Staatscourant worden geplaatst met uitzondering van de bij
 
 ’s-Gravenhage 14 mei 2014
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert
 
 ## Bijlage
 

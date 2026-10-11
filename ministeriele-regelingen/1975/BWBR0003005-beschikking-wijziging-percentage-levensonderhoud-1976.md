@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging-percentage lev
 
 's-Gravenhage 7 november 1975
 
-De\
-Minister\
+De Minister voornoemd,\
 Van Agt.

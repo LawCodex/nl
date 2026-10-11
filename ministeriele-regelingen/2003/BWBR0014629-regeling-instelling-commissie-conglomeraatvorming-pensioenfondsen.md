@@ -60,10 +60,6 @@ Deze regeling wordt aangehaald als: Regeling instelling commissie conglomeraatvo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-M. Rutte\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+M. Rutte De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes

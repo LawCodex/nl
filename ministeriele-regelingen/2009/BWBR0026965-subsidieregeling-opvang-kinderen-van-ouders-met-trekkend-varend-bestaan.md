@@ -210,7 +210,5 @@ Deze regeling wordt aangehaald als: Subsidieregeling opvang kinderen van ouders 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Jeugd en Gezin\
-A.Rouvoet
+De Minister voor Jeugd en Gezin,\
+A. Rouvoet

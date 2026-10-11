@@ -77,10 +77,10 @@ Gegeven te ’s-Gravenhage 15 september 2005
 
 Beatrix
 
-De Minister van Onderwijs, Cultuur en Wetenschap\
-M. J. A.van der Hoeven
+De Minister van Onderwijs, Cultuur en Wetenschap ,\
+M. J. A. van der Hoeven
 
 de *eenentwintigste* februari 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

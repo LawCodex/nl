@@ -68,12 +68,8 @@ Vóór 1 september van elk jaar wordt aan de provincie een overzicht gezonden va
 
 3\. Zij kan worden aangehaald als: Eerste uitvoeringsbeschikking provinciale opcenten motorrijtuigenbelasting.
 
-De\
-Minister\
-Financiën\
-A. P. J. M. M. van derStee
+De Minister van Financiën,\
+A. P. J. M. M. van der Stee
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

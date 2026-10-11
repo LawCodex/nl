@@ -494,10 +494,8 @@ Deze regeling wordt aangehaald als: Subsidieregeling praktijkleren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage 1 — behorende bij artikel 15c, tweede lid, van de Subsidieregeling praktijkleren
 

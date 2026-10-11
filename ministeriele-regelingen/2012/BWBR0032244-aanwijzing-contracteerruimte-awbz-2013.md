@@ -162,7 +162,5 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing contracteerruimte AWBZ 2013.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn.
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn.

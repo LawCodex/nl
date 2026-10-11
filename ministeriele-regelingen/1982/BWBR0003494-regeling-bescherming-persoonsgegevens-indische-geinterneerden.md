@@ -102,7 +102,5 @@ Deze regeling ligt ter inzage bij de afdeling Overzeese Pensioenen, bij de Stafa
 
 's-Gravenhage 12 mei 1982
 
-De\
-Minister\
-Binnenlandse Zaken\
-E. vanThijn
+De Minister van Binnenlandse Zaken,\
+E. van Thijn

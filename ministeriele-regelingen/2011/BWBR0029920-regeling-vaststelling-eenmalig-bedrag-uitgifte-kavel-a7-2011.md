@@ -83,10 +83,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 26 april 2011
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen
 
 ## Bijlage — Model voor een bankgarantie als bedoeld in artikel 3, tweede lid, van de Regeling vaststelling eenmalig bedrag uitgifte kavel a7 2011
 
@@ -126,4 +124,4 @@ In aanmerking nemende:
 
   .....
 
-[^n1]: 1 dit model dient te worden gebruikt voor een bankgarantie
+[^n1]: 1 dit model dient te worden gebruikt voor een bankgarantie voor het stellen van zekerheid in het kader van de aanvraagprocedure (i.v.m. de verplichting bedoeld in de verklaring onder I.C1 en/of I.C2) of met het oog op het verkrijgen van uitstel van betaling (i.v.m. de verplichting bedoeld in de verklaring onder I.D; uitstel van betaling wordt niet verleend voor het financieel bod) of ten behoeve van een combinatie hiervan. Voor het financieel bod geldt de bankgarantie in beginsel voor maximaal één jaar. Bij het financieel instrument geldt de bankgarantie in beginsel maximaal 1 jaar als de aanvrager geen uitstel van betaling aanvraagt. Vraagt de aanvraag wél uitstel van betaling dan geldt de bankgarantie in beginsel voor maximaal zes jaar. De aanvrager kan al bij de aanvraag een verzoek om uitstel van betaling doen en dan zekerheid verschaffen met behulp van een bankgarantie voor in beginsel maximaal zes jaar.

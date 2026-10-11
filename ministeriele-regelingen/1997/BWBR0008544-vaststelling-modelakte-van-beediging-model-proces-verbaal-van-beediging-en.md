@@ -47,12 +47,8 @@ Dit besluit zal worden geplaatst in de Staatscourant en het Algemeen Politieblad
 
 Den Haag 11 februari 1997
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-J. van Ees\
-directeur\
-directie Strafrechtelijke Handhaving
+J. van Ees, plv. directeur van de directie Strafrechtelijke Handhaving

@@ -123,10 +123,8 @@ Deze regeling wordt aangehaald als: Regeling verkeersbrigadiers.
 
 's-Gravenhage 1 oktober 1991
 
-De\
-minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen
 
 ## Bijlage
 

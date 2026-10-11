@@ -27,8 +27,5 @@ Met de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
-namens deze,\
-De Secretaris-Generaal,\
+De Minister-President, Minister van Algemene Zaken, namens deze, De Secretaris-Generaal,\
 P.H.A.M. Huijts

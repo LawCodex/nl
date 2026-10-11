@@ -328,10 +328,8 @@ Deze regeling wordt aangehaald als: Regeling spoorverkeer.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
 ## Bijlage 1
 

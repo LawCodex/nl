@@ -136,7 +136,5 @@ Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties b
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak

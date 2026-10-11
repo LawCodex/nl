@@ -51,9 +51,7 @@ Er worden geen kopieën of andere reproducties verstrekt van de notulen en besch
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-De\
-Minister-President, Minister\
-Algemene Zaken\
+De Minister-President, Minister van Algemene Zaken,\
 J.P. Balkenende
 
 ## Bijlage

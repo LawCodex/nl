@@ -29,7 +29,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 Hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan te bepalen, hetgeen volgt:
 
-## hoofdstuk Eerste — Algemeene bepalingen
+## Eerste hoofdstuk — Algemeene bepalingen
 
 ### Artikel 1
 
@@ -47,7 +47,7 @@ De regten uit overeenkomsten voortvloeijende, worden geregeld door de wetten wel
 
 De regten uit uiterste wilsbeschikkingen voortvloeijende, welke vóór de invoering van het nieuwe burgerlijk wetboek zijn gemaakt, worden naar dat wetboek geregeld, indien na deszelfs in werking brenging de erflater is overleden.
 
-## hoofdstuk Tweede — Van meerderjarigheid, emancipatie en geregtelijke adsistentie vóór de invoering van het nieuwe wetboek verkregen
+## Tweede hoofdstuk — Van meerderjarigheid, emancipatie en geregtelijke adsistentie vóór de invoering van het nieuwe wetboek verkregen
 
 ### Artikel 5
 
@@ -79,7 +79,7 @@ De regten van minderjarigen die ingevolge de bepalingen van artikel 477 en volge
 
 Ten aanzien van personen, uit kracht van het besluit van den 12. Februarij 1815 (*Staatsblad* no. 25), geconfineerd, doch welke niet onder voogdij zijn gesteld of aan welke geen geregtelijke raadsman is toegevoegd, zal na de invoering der Nederlandsche wetgeving nog éénmaal prolongatie van confinement mogen verleend worden, indien daartoe gronden zijn, zonder dat er vooraf in hunne curatele zal behoeven te worden voorzien, mits de vordering daartoe gedaan worde, binnen zes maanden na die invoering.
 
-## hoofdstuk Derde — Van de adoptie en officieuse voogdij
+## Derde hoofdstuk — Van de adoptie en officieuse voogdij
 
 ### Artikel 12
 
@@ -89,7 +89,7 @@ Allen, die op den dag der invoering van het nieuw burgerlijk wetboek en naar aan
 
 Indien vóór de invoering van het nieuw burgerlijk wetboek, en naar aanleiding van art. 361 en 363 van het wetboek Napoléon, iemand op eene wettige wijze officieuse voogd is geworden, zullen al de bepalingen, vervat bij het tweede hoofdstuk van den 8sten titel van hetzelve wetboek toepasselijk zijn, zoo wel op den pupil als op den officieusen voogd.
 
-## hoofdstuk Vierde — Van de hypotheken en derzelver zuivering, en van de privilegien
+## Vierde hoofdstuk — Van de hypotheken en derzelver zuivering, en van de privilegien
 
 ### Artikel 14
 
@@ -199,13 +199,13 @@ De inschrijvingen der hypotheken, welke volgens de Fransche wet voor inkorting v
 
 De bewaarders van het kadaster zijn verpligt om de voor de belanghebbenden, tot de uitvoering dezer wet, noodige inzage hunner registers en andere stukken, aan hen kosteloos te verleenen, en hun tevens die inlichtingen te geven, welke zij zullen behoeven.
 
-## hoofdstuk Vijfde — Van de regten der echtelieden, vóór de invoering van het nieuwe wetboek getrouwd
+## Vijfde hoofdstuk — Van de regten der echtelieden, vóór de invoering van het nieuwe wetboek getrouwd
 
 ### Artikel 38
 
 De regten van echtelieden, vóór de invoering van het nieuw burgerlijk wetboek getrouwd, worden ten opzigten van hunne goederen geregeld volgens de wetten, welke op het oogenblik van het huwelijk in werking waren, of volgens hunne niet bij die wetten verboden huwelijksche voorwaarden, om het even op welk tijdstip het huwelijk is ontbonden.
 
-## hoofdstuk Zesde — Van echtscheiding, scheiding van tafel en bed en ontbinding des huwelijks
+## Zesde hoofdstuk — Van echtscheiding, scheiding van tafel en bed en ontbinding des huwelijks
 
 ### Artikel 39
 
@@ -233,7 +233,7 @@ Indien onder de werking van het Wetboek Napoleon of ook onder die van de Nederla
 
 De bepalingen der artikelen 549, 550 en 551 van het nieuw burgerlijk wetboek, betreffende de ontbinding des huwelijks ten gevolge van afwezigheid, zijn toepasselijk ook op het geval dat de aldaar bedoelde afwezigheid reeds geheel of ten deele onder de werking van vroegere wetgevingen mogt hebben plaats gehad.
 
-## hoofdstuk Zevende — Van den lijfsdwang
+## Zevende hoofdstuk — Van den lijfsdwang
 
 ### Artikel 45
 
@@ -243,13 +243,13 @@ In al de gevallen, waarin de lijfsdwang bij de nieuwe wetgeving niet is bijgehou
 
 Ten aanzien van het ontslag uit de gijzeling zijn van toepassing de wetten, welke van kracht waren, op het tijdstip, waarop de lijfsdwang is uitgesproken.
 
-## hoofdstuk Achtste — Van het bewijs
+## Achtste hoofdstuk — Van het bewijs
 
 ### Artikel 47
 
 De bewijsmiddelen zullen worden aangenomen of niet toegelaten, naar mate der bepalingen, welke van kracht waren op het tijdstip dat de regten en verpligtingen zouden zijn ontstaan.
 
-## hoofdstuk Negende — Van mutuële en olographische testamenten en van erfstellingen over de hand
+## Negende hoofdstuk — Van mutuële en olographische testamenten en van erfstellingen over de hand
 
 ### Artikel 48
 
@@ -267,19 +267,19 @@ Testamenten eene vaste dagteekening hebbende en door twee of meerdere personen i
 
 De bepaling van art. 1 van het decreet van den 24sten Januari 1812, betrekkelijk de erfstellingen over de hand, zal van kracht blijven in dat gedeelte van het Koningrijk waar hetzelve is executoir verklaard.
 
-## hoofdstuk Tiende — Van de tenietdoening ter zake van benadeeling
+## Tiende hoofdstuk — Van de tenietdoening ter zake van benadeeling
 
 ### Artikel 51
 
 De regtsvordering tot tenietdoening, ter zake eener benadeeling in een verkoop, welke vóór de invoering van de Nederlandsche wetgeving mogt hebben plaats gehad, zal worden beoordeeld overeenkomstig de wetsbepalingen, welke van kracht waren op het tijdstip waarop de koop gesloten is.
 
-## hoofdstuk Elfde — Van de toepassing der straffen
+## Elfde hoofdstuk — Van de toepassing der straffen
 
 ### Artikel 52
 
 Vervallen
 
-## hoofdstuk Twaalfde — Van de aanhangige twistgedingen
+## Twaalfde hoofdstuk — Van de aanhangige twistgedingen
 
 ### Artikel 53
 
@@ -309,7 +309,7 @@ De twistgedingen, welke op het oogenblik der invoering van het wetboek op de bur
 
 2\. De cassatien zullen gebragt worden bij den hoogen raad.
 
-## hoofdstuk Dertiende — Van het beroep in cassatie tegen arresten door het hoog geregtshof te 's-Gravenhage en tegen vonnissen door de regtbanken binnen het ressort van dat hof gewezen
+## Dertiende hoofdstuk — Van het beroep in cassatie tegen arresten door het hoog geregtshof te 's-Gravenhage en tegen vonnissen door de regtbanken binnen het ressort van dat hof gewezen
 
 ### Artikel 58
 
@@ -319,7 +319,7 @@ De arresten in burgerlijke zaken, vóór de invoering van de wet op de regterlij
 
 De vonnissen, in het hoogste ressort gewezen door de regtbanken van eersten aanleg en de vrederegters in het ressort van dat hoog geregtshof, en welke vallen in de termen van art. 20 van voorsz. besluit, kunnen bij den hoogen raad worden overgebragt, indien de termijn niet is verstreken.
 
-## hoofdstuk Veertiende — Van de bemoeijenissen der kantons-regters
+## Veertiende hoofdstuk — Van de bemoeijenissen der kantons-regters
 
 ### Artikel 60
 

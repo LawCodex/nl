@@ -40,7 +40,5 @@ Dit besluit treedt in werking met ingang van 21 februari 1999.
 
 Dit besluit zal in de Staatscourant worden geplaatst en een afschrift van dit besluit zal worden gezonden aan de voorzitter en de secretaris van de veiligheidsadviescommissie Schiphol.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

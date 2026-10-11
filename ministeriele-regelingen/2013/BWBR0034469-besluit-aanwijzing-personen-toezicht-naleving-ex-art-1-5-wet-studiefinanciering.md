@@ -35,7 +35,5 @@ Dit besluit treedt in werking met ingang van 1 januari 2014.
 
 Dit besluit zal worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap\
+M. Bussemaker

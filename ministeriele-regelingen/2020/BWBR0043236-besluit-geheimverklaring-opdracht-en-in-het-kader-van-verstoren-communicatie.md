@@ -33,7 +33,5 @@ Dit Besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 24 februari 2020
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-A.L.C. Roelofs\
-plaatsvervangend Hoofddirecteur Dienst Justitiële Inrichtingen
+De Minister voor Rechtsbescherming, namens deze,\
+A.L.C. Roelofs plaatsvervangend Hoofddirecteur Dienst Justitiële Inrichtingen

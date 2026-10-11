@@ -274,7 +274,5 @@ Deze regeling wordt aangehaald als: Mandaatregeling VWS.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers

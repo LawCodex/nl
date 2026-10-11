@@ -133,9 +133,7 @@ Deze regeling wordt aangehaald als: Regeling erkenningen vervoer gevaarlijke sto
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
+De Staatssecretaris van Verkeer en Waterstaat,\
 M.H. Schultz van Haegen
 
 ## Bijlage — als bedoeld in artikel 5, tweede lid

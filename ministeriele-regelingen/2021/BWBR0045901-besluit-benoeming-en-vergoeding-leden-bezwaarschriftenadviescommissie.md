@@ -246,10 +246,8 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 10 november 2021
 
-De Staatssecretaris van Financiën – Toeslagen en Douane,\
-namens deze,\
-D.A. Hak\
-Directeur-Generaal Toeslagen
+De Staatssecretaris van Financiën – Toeslagen en Douane, namens deze,\
+D.A. Hak Directeur-Generaal Toeslagen
 
 [^n1]: 3 Besluit van 29 mei 2020, nr. 2020-100631
 

@@ -42,7 +42,5 @@ Het bedrag dat personen die gemoedsbezwaren hebben tegen het sluiten van een ver
 
 Deze regeling treedt in werking met ingang van 1 januari 1995.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

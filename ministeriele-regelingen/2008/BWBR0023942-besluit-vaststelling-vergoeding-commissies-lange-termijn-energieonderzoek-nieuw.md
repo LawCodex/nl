@@ -67,9 +67,5 @@ Voor de voorbereidende werkzaamheden in het kader van het beoordelen van subsidi
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken\
-namens deze:\
-directeur-generaal van Energie en Telecom\
-M.M.Frequin
+De Minister van Economische Zaken, namens deze:directeur-generaal van Energie en Telecom,\
+M.M. Frequin

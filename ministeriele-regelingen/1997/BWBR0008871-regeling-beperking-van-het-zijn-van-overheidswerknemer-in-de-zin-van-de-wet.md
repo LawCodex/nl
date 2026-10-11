@@ -82,7 +82,5 @@ Deze regeling wordt aangehaald als: Regeling beperking van het zijn van overheid
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken\
-H.F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H.F. Dijkstal

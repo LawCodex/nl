@@ -45,5 +45,4 @@ Dit besluit wordt aangehaald als: Mandaatbesluit beëdiging buitengewoon opspori
 Den Haag 20 april 2020.
 
 De Commandant Koninklijke marechaussee,\
-J.A.J. Leijtens,\
-Luitenant-generaal
+J.A.J. Leijtens, Luitenant-generaal

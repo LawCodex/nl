@@ -380,18 +380,16 @@ Deze regeling wordt aangehaald als: Gemeenschappelijke regeling Het Utrechts Arc
 
 2\. De rechten en verplichtingen van Het Utrechts Archief zoals die bestonden op het moment vóór de inwerkingtreding van deze regeling blijven in stand na de inwerkingtreding van deze regeling.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 Burgemeester en wethouders van de gemeente Utrecht
 
-De burgemeester\
-J. vanZanen
+De burgemeester,\
+J. van Zanen
 
-De secretaris\
-G.Haanen
+De secretaris,\
+G. Haanen
 
 ## Financiële bijlage — bij de Gemeenschappelijke regeling Het Utrechts Archief
 

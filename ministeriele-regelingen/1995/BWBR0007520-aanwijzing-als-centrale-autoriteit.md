@@ -43,7 +43,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 23 augustus 1995
 
-De\
-Staatssecretaris\
-Justitie\
-E. M. A.Schmitz
+De Staatssecretaris van Justitie,\
+E. M. A. Schmitz

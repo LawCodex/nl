@@ -78,9 +78,5 @@ Dit besluit wordt aangehaald als: Besluit instelling monitoringscommissie VWNW V
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de secretaris-generaal,\
-L.A.M. vanHalder
+De Minister van Volksgezondheid, Welzijn en Sport,namens deze,de secretaris-generaal,\
+L.A.M. van Halder

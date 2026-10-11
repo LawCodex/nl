@@ -100,7 +100,5 @@ De zorgautoriteit levert in overleg met de staatssecretaris informatie aan ten b
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker

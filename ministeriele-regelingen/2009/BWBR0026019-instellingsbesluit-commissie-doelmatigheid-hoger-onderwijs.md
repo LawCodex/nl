@@ -155,7 +155,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Doelmatigheid Hog
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-R.H.A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.H.A. Plasterk

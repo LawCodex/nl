@@ -43,7 +43,5 @@ In afwijking van de kolom ‘beleid’ voor de frequentieband van 87.5 MHz tot 1
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. Dit besluit ligt met de toelichting vanaf de dag van dagtekening van de Staatscourant waarin het besluit wordt geplaatst gedurende 6 weken ter inzage bij het Informatiecentrum van het Ministerie van Economische Zaken, Landbouw en Innovatie, begane grond, Bezuidenhoutseweg 30, 2591 AV te Den Haag.
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen

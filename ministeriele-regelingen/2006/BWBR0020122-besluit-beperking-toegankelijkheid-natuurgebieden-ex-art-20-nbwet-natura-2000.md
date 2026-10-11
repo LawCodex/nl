@@ -115,9 +115,5 @@ Ingevolge artikel 20 lid 4 van de Nb-wet 1998 geldt het verbod zich te bevinden 
 
 Dit besluit wordt bekendgemaakt in de Staatscourant. Bij dit besluit gaat een toelichting die in samenhang met dit besluit moet worden gelezen.
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-voor deze:\
-Regiodirecteur Noord\
-H.R.Oosterveld
+De Minister van Landbouw, Natuur en Voedselkwaliteit, voor deze:de Regiodirecteur Noord,\
+H.R. Oosterveld

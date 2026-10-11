@@ -39,7 +39,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 12 februari 1996
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-M. deBoer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+M. de Boer

@@ -45,12 +45,8 @@ Dit besluit zal met toelichting en de bijlagen in de Staatscourant worden geplaa
 
 Den Haag 30 mei 2014
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-de directeur Kinderopvang,\
-M.P.Flier
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,de directeur Kinderopvang,\
+M.P. Flier
 
 ## Bijlagen
 

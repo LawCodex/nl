@@ -94,7 +94,5 @@ In aanvulling op de contracteerruimte zijn geoormerkte gelden beschikbaar voor h
 
 Deze aanwijzing treedt terstond in werking en wordt in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-C.I.J.M.Ross-van Dorp
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+C.I.J.M. Ross-van Dorp

@@ -54,9 +54,5 @@ Dit besluit wordt in de Staatscourant gepubliceerd.
 
 Den Haag 25 oktober 2012
 
-De\
-Minister\
-Financiën,\
-namens deze:\
-P.W.A.Veld,\
-Directeur-generaal Belastingdienst.
+De Minister van Financiën,namens deze:\
+P.W.A. Veld,Directeur-generaal Belastingdienst.

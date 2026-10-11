@@ -78,12 +78,9 @@ Dit besluit treedt in werking op de datum van publikatie in de Staatscourant en 
 
 ’s-Gravenhage 19 juni 1996
 
-De\
-Staatssecretaris\
-Defensie
+De Staatssecretaris van Defensie,
 
 voor deze,
 
-De\
-Directeur-Generaal Personeel,\
-W.J.M.Bunnik
+De Directeur-Generaal Personeel,\
+W.J.M. Bunnik

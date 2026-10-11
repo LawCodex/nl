@@ -23,9 +23,9 @@ retrieved: 2026-10-11
 
 Het Burgerlijk Wetboek is, voor zoo verre daarvan bij dit Wetboek niet bijzonderlijk is afgeweken, ook op de in dit Wetboek behandelde onderwerpen toepasselijk.
 
-## Boek Eerste — Van den koophandel in het algemeen
+## Eerste Boek — Van den koophandel in het algemeen
 
-### titel Eerste — Van kooplieden en van daden van koophandel
+### Eerste titel — Van kooplieden en van daden van koophandel
 
 #### Artikel 2
 
@@ -43,7 +43,7 @@ Vervallen
 
 Vervallen
 
-### titel Tweede — Vervallen.
+### Tweede titel — Vervallen.
 
 #### Artikel 6
 
@@ -77,7 +77,7 @@ Vervallen
 
 Vervallen
 
-### titel Derde — Van de vennootschap onder ene firma en van die bij wijze van geldschieting of "en commandite" genaamd
+### Derde titel — Van de vennootschap onder ene firma en van die bij wijze van geldschieting of "en commandite" genaamd
 
 #### Artikel 14
 
@@ -273,9 +273,9 @@ Vervallen
 
 Vervallen
 
-### titel Vierde — Van beurzen van koophandel en tussenpersonen
+### Vierde titel — Van beurzen van koophandel en tussenpersonen
 
-#### afdeeling Eerste — Van beurzen van koophandel
+#### Eerste afdeeling — Van beurzen van koophandel
 
 ##### Artikel 59
 
@@ -291,7 +291,7 @@ De beurs van koophandel is de zamenkomst van kooplieden, schippers, tussenperson
 
 Het uur van het aangaan en afloopen der beurs, en alles wat de goede orde aldaar betreft, wordt door plaatselijke reglementen bepaald.
 
-#### afdeeling Tweede — Van tussenpersonen
+#### Tweede afdeeling — Van tussenpersonen
 
 ##### Artikel 62
 
@@ -405,7 +405,7 @@ Vervallen
 
 Vervallen
 
-#### afdeling Derde — Van de agentuurovereenkomst
+#### Derde afdeling — Van de agentuurovereenkomst
 
 ##### Artikel 74
 
@@ -487,7 +487,7 @@ Vervallen
 
 Vervallen
 
-#### afdeling Vierde — Van de handelsreizigersovereenkomst
+#### Vierde afdeling — Van de handelsreizigersovereenkomst
 
 ##### Artikel 75
 
@@ -505,7 +505,7 @@ Vervallen
 
 Vervallen
 
-### titel Vijfde — Van commissionairs
+### Vijfde titel — Van commissionairs
 
 #### Artikel 76
 
@@ -611,9 +611,9 @@ Vervallen
 
 Vervallen
 
-### titel Zesde — Van wisselbrieven en orderbriefjes
+### Zesde titel — Van wisselbrieven en orderbriefjes
 
-#### afdeeling Eerste — Van de uitgifte en den vorm van den wisselbrief
+#### Eerste afdeeling — Van de uitgifte en den vorm van den wisselbrief
 
 ##### Artikel 100
 
@@ -702,7 +702,7 @@ De trekker, of degene voor wiens rekening de wisselbrief is getrokken, is verpli
 
 De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bij het vervallen van den wisselbrief of op het tijdstip, waarop ingevolge het derde lid van artikel 142 de houder regres kan nemen, aan den trekker of aan dengene voor wiens rekening is getrokken, eene opeischbare som schuldig is, ten minste gelijkstaande met het beloop van den wisselbrief.
 
-#### afdeeling Tweede — Van het endossement
+#### Tweede afdeeling — Van het endossement
 
 ##### Artikel 110
 
@@ -772,7 +772,7 @@ Zij, die uit hoofde van den wisselbrief worden aangesproken, kunnen de verweermi
 
 2\. Behoudens tegenbewijs wordt het endossement zonder dagteekening geacht te zijn gesteld vóór het verstrijken van den termijn, voor het opmaken van het protest bepaald.
 
-#### afdeeling Derde — Van de acceptatie
+#### Derde afdeeling — Van de acceptatie
 
 ##### Artikel 120
 
@@ -852,7 +852,7 @@ Indien de wisselbrief voor rekening van eenen derde is getrokken, is deze alleen
 
 2\. Indien echter de betrokkene van zijne acceptatie schriftelijk heeft doen blijken aan den houder of aan iemand, wiens handteekening op den wisselbrief voorkomt, is hij tegenover dezen gehouden overeenkomstig den inhoud van zijne acceptatie.
 
-#### afdeeling Vierde — Van het aval
+#### Vierde afdeeling — Van het aval
 
 ##### Artikel 129
 
@@ -880,7 +880,7 @@ Indien de wisselbrief voor rekening van eenen derde is getrokken, is deze alleen
 
 3\. Door te betalen verkrijgt de avalgever de rechten, welke krachtens den wisselbrief kunnen worden uitgeoefend tegen dengene, voor wien het aval is gegeven en tegen degenen, die tegenover dezen krachtens den wisselbrief verbonden zijn.
 
-#### afdeeling Vijfde — Van den vervaldag
+#### Vijfde afdeeling — Van den vervaldag
 
 ##### Artikel 132
 
@@ -930,7 +930,7 @@ op een bepaalden dag.
 
 4\. Dit artikel is niet van toepassing, indien uit eene in den wisselbrief opgenomen clausule of uit zijne bewoordingen een afwijkende bedoeling kan worden afgeleid.
 
-#### afdeeling Zesde — Van de betaling
+#### Zesde afdeeling — Van de betaling
 
 ##### Artikel 137
 
@@ -970,7 +970,7 @@ op een bepaalden dag.
 
 Bij gebreke van aanbieding ter betaling van den wisselbrief binnen den termijn, bij artikel 137 vastgesteld, heeft elke schuldenaar de bevoegdheid, het bedrag te bevoegder plaatse in consignatie te geven, op kosten en onder verantwoordelijkheid van den houder.
 
-#### afdeeling Zevende — Van het recht van regres in geval van non-acceptatie of non-betaling
+#### Zevende afdeeling — Van het recht van regres in geval van non-acceptatie of non-betaling
 
 ##### Artikel 142
 
@@ -1144,7 +1144,7 @@ vervalt het recht van den houder tegen de endossanten, tegen den trekker, en teg
 
 6\. Feiten, welke voor den houder, of voor dengene, dien hij met de aanbieding van den wisselbrief of met het opmaken van het protest belastte, van zuiver persoonlijken aard zijn, worden niet beschouwd als gevallen van overmacht.
 
-#### afdeeling Achtste — Van de tusschenkomst
+#### Achtste afdeeling — Van de tusschenkomst
 
 ##### 1 — Algemeene bepalingen
 
@@ -1212,7 +1212,7 @@ De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn
 
 3\. Indien zich meer personen tot de betaling bij tusschenkomst aanbieden, heeft de voorkeur de betaling, welke het grootste aantal bevrijdingen teweegbrengt. De interveniënt, die desbewust in strijd hiermede handelt, verliest zijn recht van regres tegen hen, die anders zouden zijn bevrijd.
 
-#### afdeeling Negende — Van wisselexemplaren, wisselafschriften en vermiste wisselbrieven
+#### Negende afdeeling — Van wisselexemplaren, wisselafschriften en vermiste wisselbrieven
 
 ##### 1 — Wisselexemplaren
 
@@ -1267,13 +1267,13 @@ Degene die een wisselbrief, waarvan hij houder was, vermist, kan met inachtnemin
 
 Degene die een wisselbrief waarvan hij houder was, en welke is vervallen, en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek, zijn rechten alleen tegen de acceptant en tegen de trekker uitoefenen.
 
-#### afdeeling Tiende — Van veranderingen
+#### Tiende afdeeling — Van veranderingen
 
 ##### Artikel 168
 
 In geval van verandering van den tekst van eenen wisselbrief, zijn zij, die daarna hunne handteekeningen op den wisselbrief geplaatst hebben, volgens den veranderden tekst verbonden; zij, die daarvoor hunne handteekeningen op den wisselbrief geplaatst hebben, zijn verbonden volgens den oorspronkelijken tekst.
 
-#### afdeeling Elfde — Van verjaring
+#### Elfde afdeeling — Van verjaring
 
 ##### Artikel 168a
 
@@ -1295,7 +1295,7 @@ Behoudens de bepaling van het volgende artikel gaat wisselschuld te niet door al
 
 2\. Op de in het vorige artikel bedoelde verjaringen is artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.
 
-#### afdeeling Twaalfde — Algemene bepalingen
+#### Twaalfde afdeeling — Algemene bepalingen
 
 ##### Artikel 171
 
@@ -1315,7 +1315,7 @@ In de wettelijke of bij overeenkomst vastgestelde termijnen is niet begrepen de 
 
 Geen enkele respijtdag, noch wettelijke, noch rechterlijke, is toegestaan.
 
-#### afdeeling Dertiende — Van orderbriefjes
+#### Dertiende afdeeling — Van orderbriefjes
 
 ##### Artikel 174
 
@@ -1373,9 +1373,9 @@ de feestdagen, de berekening der termijnen en het verbod van respijtdagen (artik
 
 2\. De orderbriefjes, betaalbaar zekeren tijd na zicht, moeten ter teekening voor "gezien" aan den onderteekenaar worden aangeboden binnen den bij artikel 122 vastgestelden termijn. De zichttermijn loopt van de dagteekening van het visum, hetwelk door den onderteekenaar op het orderbriefje moet worden geplaatst. De weigering van dezen zijn visum te plaatsen, moet worden vastgesteld door een protest (artikel 124), van welks dagteekening de zichttermijn begint te loopen.
 
-### titel Zevende — Van chèques, en van promessen en quitantiën aan toonder
+### Zevende titel — Van chèques, en van promessen en quitantiën aan toonder
 
-#### afdeeling Eerste — Van de uitgifte en den vorm van de chèque
+#### Eerste afdeeling — Van de uitgifte en den vorm van de chèque
 
 ##### Artikel 178
 
@@ -1474,7 +1474,7 @@ De trekker, of degene voor wiens rekening de chèque is getrokken, is verplicht 
 
 De betrokkene wordt geacht, het noodige fonds in handen te hebben, indien hij bij de aanbieding van de chèque aan den trekker of aan dengene voor wiens rekening is getrokken, een opeischbare som schuldig is, ten minste gelijkstaande met het beloop van de chèque.
 
-#### afdeeling Tweede — Van de overdracht
+#### Tweede afdeeling — Van de overdracht
 
 ##### Artikel 191
 
@@ -1548,7 +1548,7 @@ Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddele
 
 2\. Behoudens tegenbewijs, wordt het endossement zonder dagteekening geacht te zijn gesteld vóór het protest of de daarmede gelijkstaande verklaringen, of vóór het verstrijken van den in het voorgaande lid bedoelden termijn.
 
-#### afdeeling Derde — Van het aval
+#### Derde afdeeling — Van het aval
 
 ##### Artikel 202
 
@@ -1576,7 +1576,7 @@ Zij, die uit hoofde van de chèque worden aangesproken, kunnen de verweermiddele
 
 3\. Door te betalen verkrijgt de avalgever de rechten, welke krachtens de chèque kunnen worden uitgeoefend tegen dengene, voor wien het aval is gegeven en tegen degenen, die tegenover dezen krachtens de chèque verbonden zijn.
 
-#### afdeeling Vierde — Van de aanbieding en van de betaling
+#### Vierde afdeeling — Van de aanbieding en van de betaling
 
 ##### Artikel 205
 
@@ -1640,7 +1640,7 @@ Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid z
 
 4\. Indien het bedrag van de chèque is aangegeven in geld, hetwelk dezelfde benaming maar een verschillende waarde heeft in het land van uitgifte en in dat van betaling, wordt men vermoed het geld van de plaats van betaling te hebben bedoeld.
 
-#### afdeeling Vijfde — Van de gekruiste chèque en van de verrekeningschèque
+#### Vijfde afdeeling — Van de gekruiste chèque en van de verrekeningschèque
 
 ##### Artikel 214
 
@@ -1676,7 +1676,7 @@ Noch de dood van den trekker, noch zijn na de uitgifte opkomende onbekwaamheid z
 
 4\. De betrokkene, die de bovenstaande bepalingen niet naleeft, is verantwoordelijk voor de schade tot beloop van het bedrag van de chèque.
 
-#### afdeeling Zesde — Van het recht van regres in geval van non-betaling
+#### Zesde afdeeling — Van het recht van regres in geval van non-betaling
 
 ##### Artikel 217
 
@@ -1796,7 +1796,7 @@ Hij, die ter voldoening aan zijnen regresplicht de chèque heeft betaald, kan va
 
 5\. Feiten, welke voor den houder of voor dengene, dien hij met de aanbieding van de chèque of met het opmaken van het protest of de daarmede gelijkstaande verklaring belastte, van zuiver persoonlijken aard zijn, worden niet beschouwd als gevallen van overmacht.
 
-#### afdeeling Zevende — Van chèque-exemplaren en vermiste chèques
+#### Zevende afdeeling — Van chèque-exemplaren en vermiste chèques
 
 ##### Artikel 226
 
@@ -1816,13 +1816,13 @@ Degene die de cheque waarvan hij houder was, vermist, kan met inachtneming van a
 
 Degene die een cheque waarvan hij houder was, en welke is vervallen en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek zijn rechten alleen tegen de trekker uitoefenen.
 
-#### afdeeling Achtste — Van veranderingen
+#### Achtste afdeeling — Van veranderingen
 
 ##### Artikel 228
 
 In geval van verandering van den tekst van eene chèque zijn zij, die daarna hunne handteekeningen op de chèque geplaatst hebben, volgens den veranderden tekst verbonden; zij, die daarvoor hunne handteekeningen op de chèque geplaatst hebben, zijn verbonden volgens den oorspronkelijken tekst.
 
-#### afdeeling Negende — Van verjaring
+#### Negende afdeeling — Van verjaring
 
 ##### Artikel 228a
 
@@ -1842,7 +1842,7 @@ Behoudens de bepalingen van het volgende artikel gaat schuld uit eene chèque te
 
 2\. Op de in het vorige artikel bedoelde verjaringen is artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek heeft de onbekwame of rechthebbende, wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.
 
-#### afdeeling Tiende — Algemeene bepalingen
+#### Tiende afdeeling — Algemeene bepalingen
 
 ##### Artikel 229abis
 
@@ -1870,7 +1870,7 @@ Geen enkele respijtdag, noch wettelijke, noch rechterlijke, is toegestaan.
 
 Vervallen
 
-#### afdeeling Elfde — Van quitantiën en promessen aan toonder
+#### Elfde afdeeling — Van quitantiën en promessen aan toonder
 
 ##### Artikel 229e
 
@@ -1908,7 +1908,7 @@ Indien de laatste dag van eenigen termijn, waaromtrent in deze Afdeeling eenige 
 
 3\. Op de in dit artikel genoemde verjaringen is het tweede lid van art. 229a van toepassing.
 
-### titel Achtste — Van reclame of terugvordering in geval van faillissement
+### Achtste titel — Van reclame of terugvordering in geval van faillissement
 
 #### Artikel 230
 
@@ -1974,7 +1974,7 @@ Vervallen
 
 Vervallen
 
-### titel Negende — Van assurantie of verzekering in het algemeen
+### Negende titel — Van assurantie of verzekering in het algemeen
 
 #### Artikel 246
 
@@ -2140,9 +2140,9 @@ Vervallen
 
 Vervallen
 
-### titel Tiende — Van verzekering tegen de gevaren van brand, tegen die waaraan de voortbrengselen van den landbouw te velde onderhevig zijn, en van levensverzekering
+### Tiende titel — Van verzekering tegen de gevaren van brand, tegen die waaraan de voortbrengselen van den landbouw te velde onderhevig zijn, en van levensverzekering
 
-#### afdeeling Eerste — Van verzekering tegen gevaren van brand
+#### Eerste afdeeling — Van verzekering tegen gevaren van brand
 
 ##### Artikel 287
 
@@ -2192,7 +2192,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Tweede — Van verzekering tegen de gevaren waaraan de voortbrengselen van den landbouw te velde onderhevig zijn
+#### Tweede afdeeling — Van verzekering tegen de gevaren waaraan de voortbrengselen van den landbouw te velde onderhevig zijn
 
 ##### Artikel 299
 
@@ -2206,7 +2206,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Derde — Van levensverzekering
+#### Derde afdeeling — Van levensverzekering
 
 ##### Artikel 302
 
@@ -2236,7 +2236,7 @@ Vervallen
 
 Vervallen
 
-## Boek Tweede — Van de regten en verpligtingen uit scheepvaart voortspruitende
+## Tweede Boek — Van de regten en verpligtingen uit scheepvaart voortspruitende
 
 ### Algemeene Bepaling
 
@@ -2244,7 +2244,7 @@ Vervallen
 
 1\. De betekenis van begrippen voorkomende in Boek 8 van het Burgerlijk Wetboek, met uitzondering van die voorkomende in de artikelen 5, 6, 7 en 10, geldt evenzeer voor dit wetboek.
 
-### titel Eerste — Van zeeschepen
+### Eerste titel — Van zeeschepen
 
 #### Artikel 310
 
@@ -2390,7 +2390,7 @@ Vervallen
 
 Vervallen
 
-### titel Tweede
+### Tweede titel
 
 #### Artikel 320
 
@@ -2504,7 +2504,7 @@ Vervallen
 
 Vervallen
 
-### titel Derde — Van den kapitein
+### Derde titel — Van den kapitein
 
 #### Artikel 341
 
@@ -2770,7 +2770,7 @@ Vervallen
 
 Vervallen
 
-### titel Vierde — Van de schepelingen
+### Vierde titel — Van de schepelingen
 
 #### § 1 — Algemeene bepalingen
 
@@ -3216,7 +3216,7 @@ Vervallen
 
 Vervallen
 
-### titel Vijfde — Van vervrachting en bevrachting van schepen
+### Vijfde titel — Van vervrachting en bevrachting van schepen
 
 #### § 1 — Algemeene bepalingen
 
@@ -4114,7 +4114,7 @@ Vervallen
 
 Vervallen
 
-### titel Zesde — Van aanvaring
+### Zesde titel — Van aanvaring
 
 #### Artikel 534
 
@@ -4168,7 +4168,7 @@ Vervallen
 
 Vervallen
 
-### titel Zevende — Van hulp en berging
+### Zevende titel — Van hulp en berging
 
 #### Artikel 545
 
@@ -4298,7 +4298,7 @@ Vervallen
 
 Vervallen
 
-### titel Achtste — Van bodemerij
+### Achtste titel — Van bodemerij
 
 #### Artikel 577
 
@@ -4360,9 +4360,9 @@ Vervallen
 
 Vervallen
 
-### titel Negende — Van verzekering tegen de gevaren der zee en die der slavernij
+### Negende titel — Van verzekering tegen de gevaren der zee en die der slavernij
 
-#### afdeeling Eerste — Van den vorm en den inhoud der verzekering
+#### Eerste afdeeling — Van den vorm en den inhoud der verzekering
 
 ##### Artikel 592
 
@@ -4472,7 +4472,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Tweede — Van de begrooting der verzekerde voorwerpen
+#### Tweede afdeeling — Van de begrooting der verzekerde voorwerpen
 
 ##### Artikel 619
 
@@ -4494,7 +4494,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Derde — Van het begin en het einde van het gevaar
+#### Derde afdeeling — Van het begin en het einde van het gevaar
 
 ##### Artikel 624
 
@@ -4540,7 +4540,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Vierde — Van de regten en pligten van den verzekeraar en den verzekerde
+#### Vierde afdeeling — Van de regten en pligten van den verzekeraar en den verzekerde
 
 ##### Artikel 635
 
@@ -4654,7 +4654,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Vijfde — Van abandonnement
+#### Vijfde afdeeling — Van abandonnement
 
 ##### Artikel 663
 
@@ -4728,7 +4728,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Zesde — Van de plichten en rechten van tussenpersonen in zee-assurantiën
+#### Zesde afdeeling — Van de plichten en rechten van tussenpersonen in zee-assurantiën
 
 ##### Artikel 681
 
@@ -4754,7 +4754,7 @@ Vervallen
 
 Vervallen
 
-### titel Tiende — Van verzekering tegen de gevaren van den vervoer te lande en op binnenwateren
+### Tiende titel — Van verzekering tegen de gevaren van den vervoer te lande en op binnenwateren
 
 #### Artikel 686
 
@@ -4796,7 +4796,7 @@ Vervallen
 
 Vervallen
 
-### titel Elfde — Van avarijen
+### Elfde titel — Van avarijen
 
 #### Artikel 696
 
@@ -5020,7 +5020,7 @@ Vervallen
 
 Vervallen
 
-### titel Twaalfde — Van het te niet gaan der verbindtenissen in den zeehandel
+### Twaalfde titel — Van het te niet gaan der verbindtenissen in den zeehandel
 
 #### Artikel 741
 
@@ -5050,9 +5050,9 @@ Vervallen
 
 Vervallen
 
-### titel Dertiende — Van de binnenvaart
+### Dertiende titel — Van de binnenvaart
 
-#### afdeling Eerste — Binnenschepen en voorwerpen aan boord daarvan
+#### Eerste afdeling — Binnenschepen en voorwerpen aan boord daarvan
 
 ##### § 1 — Rechten op binnenschepen
 
@@ -5268,7 +5268,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Tweede — Van den eigenaar en den gebruiker van een binnenschip
+#### Tweede afdeeling — Van den eigenaar en den gebruiker van een binnenschip
 
 ##### Artikel 780
 
@@ -5278,7 +5278,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Derde — Van den schipper en de schepelingen
+#### Derde afdeeling — Van den schipper en de schepelingen
 
 ##### Artikel 782
 
@@ -5312,7 +5312,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Vierde — Van vervrachting en bevrachting van binnenschepen in het algemeen
+#### Vierde afdeeling — Van vervrachting en bevrachting van binnenschepen in het algemeen
 
 ##### Artikel 788
 
@@ -5402,7 +5402,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Vijfde — Van het vervoer van goederen
+#### Vijfde afdeeling — Van het vervoer van goederen
 
 ##### Artikel 809
 
@@ -5854,7 +5854,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Zesde — Van het vervoer van personen
+#### Zesde afdeeling — Van het vervoer van personen
 
 ##### Artikel 919
 
@@ -5884,7 +5884,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Zevende — Van het sleepen van binnenschepen
+#### Zevende afdeeling — Van het sleepen van binnenschepen
 
 ##### Artikel 925
 
@@ -5934,7 +5934,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Achtste — Van aanvaring
+#### Achtste afdeeling — Van aanvaring
 
 ##### Artikel 936
 
@@ -5996,13 +5996,13 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Negende — Van hulp en berging
+#### Negende afdeeling — Van hulp en berging
 
 ##### Artikel 950
 
 Vervallen
 
-#### afdeeling Tiende — Van avarijen
+#### Tiende afdeeling — Van avarijen
 
 ##### Artikel 951
 
@@ -6038,7 +6038,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Elfde — Van verjaring en verval
+#### Elfde afdeeling — Van verjaring en verval
 
 ##### Artikel 952
 

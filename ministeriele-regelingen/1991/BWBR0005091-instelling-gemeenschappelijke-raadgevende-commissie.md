@@ -114,7 +114,5 @@ Afschrift van dit besluit zal worden gezonden aan de Algemene Rekenkamer.
 
 's-Gravenhage 24 mei 1991
 
-De\
-Minister\
-Economische Zaken\
-J.E.Andriessen
+De Minister van Economische Zaken,\
+J.E. Andriessen

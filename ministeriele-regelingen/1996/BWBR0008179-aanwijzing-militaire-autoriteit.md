@@ -44,7 +44,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 12 juli 1996
 
-De\
-Minister\
-Defensie\
-J.J.C.Voorhoeve
+De Minister van Defensie,\
+J.J.C. Voorhoeve

@@ -83,9 +83,5 @@ De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van 
 
 Den Haag 2 november 2009
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-namens deze:\
-de Secretaris-Generaal\
-J.F. deLeeuw
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze:de Secretaris-Generaal,\
+J.F. de Leeuw

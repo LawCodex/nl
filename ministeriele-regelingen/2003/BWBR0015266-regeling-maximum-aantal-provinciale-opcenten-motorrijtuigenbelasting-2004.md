@@ -37,7 +37,5 @@ Het door de provincies te heffen aantal opcenten voor de periode 1 april 2004 to
 
 De regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën,\
+J.G. Wijn

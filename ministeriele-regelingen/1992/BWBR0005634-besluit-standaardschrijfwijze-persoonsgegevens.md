@@ -58,7 +58,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 's-Gravenhage 1 september 1992
 
-De\
-Minister\
-Binnenlandse Zaken\
-C. I.Dales
+De Minister van Binnenlandse Zaken,\
+C. I. Dales

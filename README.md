@@ -13,11 +13,11 @@ Part of [LawCodex](https://github.com/LawCodex) — the laws of every country as
 | `grondwet/` | Grondwet and Statuut voor het Koninkrijk der Nederlanden | 2 |
 | `wetten/` | Wetten (formele wetten, incl. rijkswetten) | 2,641 |
 | `amvb/` | Algemene maatregelen van bestuur (AMvB's, incl. rijks-AMvB's) | 1,786 |
-| `ministeriele-regelingen/` | Ministeriële regelingen | 6,191 |
-| `caribisch-nederland/wetten/` | Caribisch Nederland (BES): wetten | 15 |
-| `caribisch-nederland/amvb/` | Caribisch Nederland (BES): AMvB's | 15 |
-| `caribisch-nederland/ministeriele-regelingen/` | Caribisch Nederland (BES): ministeriële regelingen | 15 |
-| | **Total** | **10,665** |
+| `ministeriele-regelingen/` | Ministeriële regelingen | 7,921 |
+| `caribisch-nederland/wetten/` | Caribisch Nederland (BES): wetten | 159 |
+| `caribisch-nederland/amvb/` | Caribisch Nederland (BES): AMvB's | 184 |
+| `caribisch-nederland/ministeriele-regelingen/` | Caribisch Nederland (BES): ministeriële regelingen | 262 |
+| | **Total** | **12,955** |
 
 Each file is named `<BWB-ID>-<slug-of-title>.md`, e.g.
 [`grondwet/BWBR0001840-grondwet.md`](grondwet/BWBR0001840-grondwet.md). The BWB-ID is the
@@ -85,6 +85,13 @@ retrieved: 2026-10-11
   yet in force are not included.
 - Explanatory memoranda (*memorie van toelichting*), except where the BWB text itself includes a
   *toelichting* (some ministerial regulations do).
+
+Known gaps in this snapshot:
+
+- `BWBR0015091` (*Inhaalverbod voor vrachtauto's op diverse autosnelwegen in beheer bij het Rijk*,
+  ministeriële regeling) is listed by the SRU service but its XML and manifest are not available
+  in the official repository (HTTP redirect loop), so it is missing.
+- The SRU service listed 7,922 ministeriële regelingen in force; 7,921 are included.
 
 ## Sources
 

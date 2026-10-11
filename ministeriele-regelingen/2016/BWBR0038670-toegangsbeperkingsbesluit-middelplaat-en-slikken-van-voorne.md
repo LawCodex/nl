@@ -79,10 +79,8 @@ Besluit:
 
 Dit besluit en de toelichting daarop worden bekendgemaakt in de Staatscourant. Dit besluit treedt in werking met ingang van de dag na de dag van publicatiedatum in de Staatscourant. Onderhavig besluit met de toelichting en de bijbehorende kaart ligt gedurende zes weken na bekendmaking in de Staatscourant, op werkdagen tijdens kantooruren, ter inzage bij het ministerie van EZ, Bezuidenhoutseweg 73 te Den Haag. Tevens wordt het besluit geplaatst op de website http://vergunningenbank.overheid.nl/natuurbeschermingswet Vanaf deze website kunnen kopieën gedownload worden.
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-M.H.P. vanDam
+De Staatssecretaris van Economische Zaken,\
+M.H.P. van Dam
 
 ## Toelichting
 

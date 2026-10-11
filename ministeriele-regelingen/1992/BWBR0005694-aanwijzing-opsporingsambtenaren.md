@@ -52,13 +52,11 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 22 oktober 1992
 
-De\
-Minister
+De Minister voornoemd,
 
 Namens de Minister,
 
-Het\
-Hoofd van de Directie Politie
+Het Hoofd van de Directie Politie,
 
 voor deze,
 

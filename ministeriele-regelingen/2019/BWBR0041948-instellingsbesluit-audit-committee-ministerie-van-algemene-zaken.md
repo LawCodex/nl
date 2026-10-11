@@ -84,6 +84,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Audit Committee Ministerie 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 M. Rutte

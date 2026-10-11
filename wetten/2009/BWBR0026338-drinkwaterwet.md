@@ -710,5 +710,5 @@ J. M. Cramer
 
 de *derde* september 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

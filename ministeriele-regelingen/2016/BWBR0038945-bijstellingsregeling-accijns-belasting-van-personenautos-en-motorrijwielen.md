@@ -55,7 +55,5 @@ Wijzigt de Provinciewet.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën,\
-E.D.Wiebes
+De Staatssecretaris van Financiën,\
+E.D. Wiebes

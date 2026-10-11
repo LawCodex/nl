@@ -41,7 +41,5 @@ De Havenmeester van Amsterdam, zijnde het hoofd van de divisie Havenmeester van 
 
 Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus

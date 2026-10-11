@@ -47,10 +47,8 @@ Deze regeling wordt aangehaald als: Regeling model huisregels justitiële jeugdi
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven
 
 ## Bijlage
 

@@ -41,7 +41,5 @@ Voor huisartsenzorg, zoals omschreven in artikel 1, geldt per 1 januari 2009 een
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

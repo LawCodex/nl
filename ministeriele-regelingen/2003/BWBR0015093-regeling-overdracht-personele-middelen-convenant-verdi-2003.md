@@ -96,10 +96,8 @@ Deze regeling wordt aangehaald als: Regeling overdracht personele middelen conve
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-Roelf H. deBoer
+De Minister van Verkeer en Waterstaat,\
+Roelf H. de Boer
 
 ## Bijlage — als bedoeld in artikel 5, derde lid, van de Regeling overdracht personele middelen convenant VERDI 2003
 

@@ -217,9 +217,7 @@ Deze regeling wordt aangehaald als: Regeling opleidingsinstellingen voor luchtva
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 T. Netelenbos
 
 ## Bijlage 1

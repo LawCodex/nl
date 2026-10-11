@@ -73,7 +73,5 @@ Deze regeling treedt in werking op de tweede dag na de datum van verschijning va
 
 's-Gravenhage 30 mei 1990
 
-De\
-minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen

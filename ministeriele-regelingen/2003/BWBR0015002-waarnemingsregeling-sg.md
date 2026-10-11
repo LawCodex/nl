@@ -27,6 +27,5 @@ Besluit:
 
 2\. Dit besluit treedt in werking met ingang van de dag van ondertekening ervan en zal worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-A.J. deGeus
+De Minister voornoemd,\
+A.J. de Geus

@@ -47,7 +47,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bi
 
 Den Haag 5 februari 2004
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-M.Rutte
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid\
+M. Rutte

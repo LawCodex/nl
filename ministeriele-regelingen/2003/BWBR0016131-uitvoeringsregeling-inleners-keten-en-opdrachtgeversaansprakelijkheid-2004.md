@@ -173,15 +173,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 december 2003
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
+De Minister van Sociale Zaken en Werkgelegenheid\
 A.J. de Geus
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën\
+J.G. Wijn
 
 ## Bijlage
 

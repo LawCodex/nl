@@ -183,7 +183,5 @@ De Raad kan een Raad van Advies instellen voor advisering van de Raad over alle 
 
 3\. Dit reglement treedt in werking met ingang van 1 oktober 2006.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

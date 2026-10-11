@@ -35,12 +35,9 @@ Het vereiste van een verklaring van geen bezwaar van de havenmeester bij de aanv
 
 Deze beleidsregels zullen met toelichting in de Staatscourant worden gepubliceerd. Zij zullen in werking treden met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 Namens deze,
 
-het\
-Hoofd Juridische en Bestuurlijke Zaken van de Rijksluchtvaartdienst,\
-J.S. vanDam
+het Hoofd Juridische en Bestuurlijke Zaken van de Rijksluchtvaartdienst,\
+J.S. van Dam

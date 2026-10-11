@@ -37,14 +37,10 @@ Dit besluit wordt in de Nederlandse Staatscourant bekendgemaakt en treedt in wer
 
 Leidschendam 3 juni 1980
 
-De\
-Minister\
-Volksgezondheid en Milieuhygiëne
+De Minister van Volksgezondheid en Milieuhygiëne,
 
 L. Ginjaar
 
-De\
-Minister\
-Landbouw en Visserij
+De Minister van Landbouw en Visserij,
 
 G. J. M. Braks

@@ -56,8 +56,5 @@ Deze volmacht en machtiging treedt in werking op de dag na ondertekening en heef
 
 Den Haag 5 augustus 2020
 
-De Staatssecretaris van Defensie\
-voor deze\
-De Hoofddirecteur Personeel,\
-P.F.M. Reesink\
-Schout-bij-nacht
+De Staatssecretaris van Defensie voor deze De Hoofddirecteur Personeel,\
+P.F.M. Reesink Schout-bij-nacht

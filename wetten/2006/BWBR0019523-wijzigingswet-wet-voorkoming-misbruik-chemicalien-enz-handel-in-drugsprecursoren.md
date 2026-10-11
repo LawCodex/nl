@@ -49,10 +49,10 @@ Gegeven te ’s-Gravenhage 2 februari 2006
 
 Beatrix
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-J. F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport ,\
+J. F. Hoogervorst
 
 de *eenentwintigste* februari 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

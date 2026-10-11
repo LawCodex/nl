@@ -43,7 +43,5 @@ Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën,\
+J.G. Wijn

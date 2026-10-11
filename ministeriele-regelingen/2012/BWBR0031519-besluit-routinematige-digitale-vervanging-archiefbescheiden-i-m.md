@@ -40,9 +40,5 @@ gaat over tot routinematige, digitale vervanging archief bescheiden
 - C. Overeenkomstig de eisen, opgenomen in de bijlage van de Beleidsregel digitale vervanging archiefbescheiden (Stcrt. 2008, 21); en
 - O. Met inachtneming van de waarde en het belang, bedoeld in artikel 2, eerste lid, onderdeel c, onderscheidenlijk d, van het Archiefbesluit 1995, alsmede wat daarover is, bepaald in artikel 4, tweede en derde lid, van de Beleidsregel digitale vervanging archiefbescheiden (Stcrt. 2008, 21).
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-namens deze:\
-De directeur bedrijfsvoering Organisatie en Informatiebeleid,\
-H.R. van derStelt
+De Minister van Infrastructuur en Milieu,namens deze:De directeur bedrijfsvoering Organisatie en Informatiebeleid,\
+H.R. van der Stelt

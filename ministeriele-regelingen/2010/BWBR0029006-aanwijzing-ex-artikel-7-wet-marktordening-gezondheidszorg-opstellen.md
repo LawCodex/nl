@@ -77,7 +77,5 @@ De zorgautoriteit voorziet erin dat een zorgaanbieder het stoppen-met rokenprogr
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

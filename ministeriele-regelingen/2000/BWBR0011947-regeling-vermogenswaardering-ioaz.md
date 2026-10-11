@@ -143,7 +143,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 \`s-Gravenhage 13 december 2000
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-W.A.Vermeend
+De Minister van Sociale Zaken en Werkgelegenheid,\
+W.A. Vermeend

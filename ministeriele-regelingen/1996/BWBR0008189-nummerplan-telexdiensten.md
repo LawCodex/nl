@@ -61,10 +61,8 @@ Dit besluit met de bijbehorende bijlage en toelichting wordt ter inzage gelegd b
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink
 
 ## Bijlage — als bedoeld in artikel 2 van het Besluit nummerplan telexdiensten
 

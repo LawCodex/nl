@@ -57,10 +57,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 1 oktober 1999
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.M. deVries
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.M. de Vries
 
 ## Bijlage 1
 

@@ -126,10 +126,8 @@ Deze regeling wordt aangehaald als: Regeling subsidie zij-instroom.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker
 
 ## Bijlage I — behorend bij artikel 4, eerste lid, onderdeel d, opleidingen bèta en techniek in het mbo
 

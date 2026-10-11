@@ -45,5 +45,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Nieuwegein 22 maart 2019
 
-B.M. Dellaert\
-directeur van Kiwa CBS B.V.
+B.M. Dellaert directeur van Kiwa CBS B.V.

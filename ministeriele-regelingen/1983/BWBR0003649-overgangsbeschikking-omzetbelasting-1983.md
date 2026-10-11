@@ -52,12 +52,9 @@ Voor leveringen en diensten, verricht na 31 december 1983, is het tarief van toe
 
 's-Gravenhage 29 december 1983
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 namens deze,
 
-De\
-Directeur-Generaal voor Fiscale Zaken\
-A.Schoemaker
+De Directeur-Generaal voor Fiscale Zaken,\
+A. Schoemaker

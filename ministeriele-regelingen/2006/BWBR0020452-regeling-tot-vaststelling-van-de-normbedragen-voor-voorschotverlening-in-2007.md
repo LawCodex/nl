@@ -45,8 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 23 oktober 2006
 
-De\
-Minister voornoemd,\
-namens deze:\
-directeur Instrumentatie Rechtspleging en Rechtshandhaving\
-J.J.Stam
+De Minister voornoemd,namens deze: de directeur Instrumentatie Rechtspleging en Rechtshandhaving ,\
+J.J. Stam

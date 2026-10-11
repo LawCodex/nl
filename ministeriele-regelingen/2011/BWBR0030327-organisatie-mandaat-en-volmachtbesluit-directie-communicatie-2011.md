@@ -167,9 +167,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Hoogachtend,
 
-de\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze:\
-de directeur Communicatie,\
-P.J.A.Idenburg
+de Minister van Sociale Zaken en Werkgelegenheid,namens deze:de directeur Communicatie,\
+P.J.A. Idenburg

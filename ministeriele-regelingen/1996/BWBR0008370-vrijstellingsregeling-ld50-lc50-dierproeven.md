@@ -44,7 +44,5 @@ Deze regeling wordt aangehaald als: Vrijstellingsregeling LD50/LC50-dierproeven.
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-EricaTerpstra
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+Erica Terpstra

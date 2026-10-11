@@ -135,10 +135,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bi
 
 Den Haag 18 december 2007
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-A.Aboutaleb
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+A. Aboutaleb
 
 ## Bijlage — behorende bij artikel 11 van de Regeling uitvoering sociale werkvoorziening en begeleid werken 2015
 

@@ -105,7 +105,5 @@ Deze regeling wordt gepubliceerd in de Nederlandse Staatscourant en afschrift da
 
 's-Gravenhage 16 juni 1992
 
-De\
-Minister\
-Defensie\
-A. L. terBeek
+De Minister van Defensie,\
+A. L. ter Beek

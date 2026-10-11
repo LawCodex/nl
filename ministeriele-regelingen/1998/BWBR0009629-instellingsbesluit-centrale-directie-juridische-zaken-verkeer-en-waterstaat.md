@@ -89,12 +89,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 Den Haag 19 mei 1998
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 Namens deze,
 
-De\
-Secretaris-Generaal\
-R.J.J.M.Pans
+De Secretaris-Generaal,\
+R.J.J.M. Pans

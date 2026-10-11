@@ -43,8 +43,8 @@ Deze regeling wordt aangehaald als: Regeling technisch protocol aftappen openbar
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die worden gepubliceerd op de website van het Agentschap Telecom en op aanvraag door het Agentschap Telecom zullen worden verstrekt.
 
-De Staatssecretaris\
-M.C.G.Keijzer
+De Staatssecretaris van Economische Zaken en Klimaat,\
+M.C.G. Keijzer
 
 ## Bijlage A
 

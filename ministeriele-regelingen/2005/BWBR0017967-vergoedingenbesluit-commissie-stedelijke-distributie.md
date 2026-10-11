@@ -49,7 +49,5 @@ Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besl
 
 Beatrix
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs

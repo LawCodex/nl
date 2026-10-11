@@ -37,12 +37,9 @@ De navordering van de tijdelijke toeslag op de accijns van gelode lichte olie te
 
 's-Gravenhage 26 januari 1990
 
-De\
-staatssecretaris\
-Financiën
+De staatssecretaris van Financiën,
 
 Namens deze:
 
-De\
-Directeur-Generaal voor Fiscale Zaken,\
+De Directeur-Generaal voor Fiscale Zaken,\
 A. Schoemaker

@@ -92,7 +92,5 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling wordt aangehaald als: Regeling NVC 2001.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
+DeMinister vanBinnenlandse Zaken en Koninkrijksrelaties,\
 K.G. de Vries.

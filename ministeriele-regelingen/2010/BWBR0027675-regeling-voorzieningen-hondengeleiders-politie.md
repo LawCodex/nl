@@ -135,7 +135,5 @@ Deze regeling wordt aangehaald als: Regeling voorzieningen hondengeleiders polit
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-E.M.H.Hirsch Ballin
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+E.M.H. Hirsch Ballin

@@ -38,10 +38,8 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
 ## Bijlage 1 — behorende bij artikel 1, onderdeel a, van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juli 2015, nr. 2015-0000387198, tot vaststelling van de wijze waarop kengetallen worden vastgesteld en opgenomen in de begroting en het jaarverslag van provincies en gemeenten
 

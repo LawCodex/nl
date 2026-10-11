@@ -113,7 +113,5 @@ Dit besluit wordt aangehaald als: Besluit instelling interventieteam interetnisc
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-M.C.F.Verdonk
+De Minister voor Vreemdelingenzaken en Integratie,\
+M.C.F. Verdonk

@@ -123,6 +123,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ‘s- Gravenhage 2 april 2013
 
-De\
-Minister\
-Economische Zaken,
+De Minister van Economische Zaken,

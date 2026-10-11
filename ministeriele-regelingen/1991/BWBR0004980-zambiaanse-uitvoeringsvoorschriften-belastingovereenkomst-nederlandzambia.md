@@ -65,7 +65,5 @@ De beschikking van de Staatssecretaris van Financiën van 26 augustus 1986, nr. 
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, eerste lid, onderdeel b, onder 3°, toepassing met betrekking tot dividenden, interest en royalty's die op of na 1 april 1983 zijn betaald of worden betaald.
 
-De\
-staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

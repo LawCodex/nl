@@ -45,9 +45,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken\
-namens deze:\
-directeur-generaal van Energie en Telecom\
-M.M.Frequin
+De Minister van Economische Zaken, namens deze:directeur-generaal van Energie en Telecom,\
+M.M. Frequin

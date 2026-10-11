@@ -168,7 +168,5 @@ Dit besluit wordt aangehaald als: Beoordelingskader Subsidieregeling gender- en 
 
 Dit besluit zal in de Staatcourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

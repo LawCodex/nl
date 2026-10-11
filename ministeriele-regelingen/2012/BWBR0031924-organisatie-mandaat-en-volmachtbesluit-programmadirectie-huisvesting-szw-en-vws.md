@@ -94,9 +94,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 16 juli 2012
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze:\
-J.P.Nouwt,\
-programma directeur Huisvesting SZW en VWS.
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze:\
+J.P. Nouwt,programma directeur Huisvesting SZW en VWS.

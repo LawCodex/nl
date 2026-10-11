@@ -43,7 +43,5 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

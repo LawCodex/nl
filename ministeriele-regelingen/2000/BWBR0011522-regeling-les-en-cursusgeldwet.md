@@ -137,7 +137,5 @@ Deze regeling treedt in werking met ingang van 1 augustus 2000.
 
 Deze regeling wordt aangehaald als: Regeling Les- en cursusgeldwet.
 
-De\
-staatssecretaris\
-onderwijs, cultuur en wetenschappen\
-Drs. K.Y.I.J.Adelmund
+De staatssecretaris van onderwijs, cultuur en wetenschappen\
+Drs. K.Y.I.J. Adelmund

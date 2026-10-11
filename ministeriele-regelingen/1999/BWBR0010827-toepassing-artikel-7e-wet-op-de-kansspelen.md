@@ -39,12 +39,9 @@ Deze beschikking treedt in werking met ingang van 1 januari 2000 en zal worden g
 
 Den Haag 8 november 1999
 
-De\
-Staatssecretaris\
-Justitie
+De Staatssecretaris van Justitie,
 
 namens deze,
 
-de\
-directeur Bestuurszaken\
-G.B.Raaphorst
+de directeur Bestuurszaken,\
+G.B. Raaphorst

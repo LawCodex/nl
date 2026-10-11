@@ -49,12 +49,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage, met uitzondering van de annexen bij de bijlage, in de Staatscourant worden geplaatst. Annexen bij de bijlage worden via internet bekend gemaakt.[^n2]
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-De plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
-R.M.Buijs
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens deze,De plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
+R.M. Buijs
 
 ## Bijlage 1 — Beleidskader vrouwen, vrede en veiligheid 2016–2019
 

@@ -39,12 +39,9 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 10 juni 2003
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 namens deze,
 
-de\
-directeur Informatiemanagement en Organisatie\
+de directeur Informatiemanagement en Organisatie,\
 E.G.M. Edelbroek

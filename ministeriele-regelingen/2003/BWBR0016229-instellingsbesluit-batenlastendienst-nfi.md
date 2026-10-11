@@ -45,12 +45,8 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 19 december 2003
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie\
+J.P.H. Donner
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën\
+G. Zalm

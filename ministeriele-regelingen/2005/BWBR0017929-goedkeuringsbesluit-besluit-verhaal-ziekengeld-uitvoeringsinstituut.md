@@ -31,7 +31,5 @@ Dit besluit wordt, tezamen met het goedgekeurde besluit en de toelichting daarop
 
 Den Haag 21 januari 2005
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-A.J. deGeus
+De Minister van Sociale Zaken en Werkgelegenheid,\
+A.J. de Geus

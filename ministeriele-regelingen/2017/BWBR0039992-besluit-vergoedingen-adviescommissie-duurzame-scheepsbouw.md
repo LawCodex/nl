@@ -43,7 +43,5 @@ Dit besluit wordt aangehaald als: Besluit vergoedingen Adviescommissie duurzame 
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkene(n).
 
-De Minister van Economische Zaken,\
-namens deze:\
-B. Leeftink\
-directeur-generaal Bedrijfsleven en Innovatie
+De Minister van Economische Zaken, namens deze:\
+B. Leeftink directeur-generaal Bedrijfsleven en Innovatie

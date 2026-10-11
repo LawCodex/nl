@@ -29,7 +29,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Hoofdstuk 1 — Ministerie van Algemene Zaken
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Noodwet rechtspleging.
 
@@ -57,7 +57,7 @@ Wijzigt de Wet op de Raad van State.
 
 ## Hoofdstuk 3 — Ministerie van Buitenlandse Zaken
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Wet van 12 juni 1909 tot uitvoering van het op 17 juli 1905 te 's-Gravenhage gesloten verdrag betreffende de burgerlijke rechtsvordering (Stb. 141).
 

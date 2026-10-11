@@ -99,7 +99,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat toepassing bestuursdwang ex ar
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de korpschef van het regionaal politiekorps Amsterdam-Amstelland.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

@@ -30,7 +30,5 @@ Deze regeling treedt in werking op de dag na plaatsing in de Staatscourant.
 
 Den Haag 17 september 1997
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

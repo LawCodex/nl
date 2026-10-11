@@ -293,7 +293,5 @@ Deze regeling wordt aangehaald als: Regeling vaststelling definitieve correcties
 
 Den Haag 28 maart 2012
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen

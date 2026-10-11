@@ -410,9 +410,5 @@ Deze regeling wordt aangehaald als: Beheersregeling documentaire informatieverzo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-namens deze,\
-de Hoofddirecteur Financiën Management en Control,\
-J.W.Lintsen
+De Minister van Infrastructuur en Milieu,namens deze,de Hoofddirecteur Financiën Management en Control,\
+J.W. Lintsen

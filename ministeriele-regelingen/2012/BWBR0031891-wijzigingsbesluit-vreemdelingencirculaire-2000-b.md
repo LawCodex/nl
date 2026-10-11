@@ -45,9 +45,5 @@ Dit besluit zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 27 juli 2012
 
-De\
-Minister\
-Immigratie, Integratie en Asiel,\
-voor deze,\
-de Directeur-generaal Vreemdelingenzaken,\
-L.Mulder
+De Minister voor Immigratie, Integratie en Asiel,voor deze,de Directeur-generaal Vreemdelingenzaken,\
+L. Mulder

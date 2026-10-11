@@ -75,7 +75,5 @@ Besluit:
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën,\
+J.G. Wijn

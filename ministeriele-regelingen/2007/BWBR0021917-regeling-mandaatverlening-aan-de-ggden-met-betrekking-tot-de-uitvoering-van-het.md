@@ -83,10 +83,8 @@ Deze regeling wordt aangehaald als: Regeling mandaatverlening aan de GGD’en me
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 ## Bijlage 1
 

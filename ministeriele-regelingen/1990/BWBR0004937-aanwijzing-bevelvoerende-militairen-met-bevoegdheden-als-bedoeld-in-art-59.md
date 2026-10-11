@@ -40,12 +40,8 @@ Deze regeling treedt in werking met ingang van de datum waarop de Wet militaire 
 
 's-Gravenhage 19 december 1990
 
-De\
-Minister\
-Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
-De\
-Staatssecretaris\
-Defensie\
-B. J. M. Baron vanVoorst tot Voorst
+De Staatssecretaris van Defensie,\
+B. J. M. Baron van Voorst tot Voorst

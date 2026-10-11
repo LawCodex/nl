@@ -25,7 +25,7 @@ Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commis
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 1\. Aan de voorzitter van de Adviescommissie valorisatieprogramma wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984 en de arbeidsduurfactor op 0,041.
 
@@ -33,9 +33,5 @@ Besluit:
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-namens deze:\
-R. M.Bergkamp,\
-directeur-generaal van Ondernemen en Innovatie.
+De Minister van Economische Zaken, Landbouw en Innovatie,namens deze:\
+R. M. Bergkamp,directeur-generaal van Ondernemen en Innovatie.

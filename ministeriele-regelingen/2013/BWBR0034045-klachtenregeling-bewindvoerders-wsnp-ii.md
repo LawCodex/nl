@@ -122,16 +122,10 @@ In deze regeling wordt verstaan onder:
 
 Utrecht 8 oktober 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-voor deze,\
-De Raad voor Rechtsbijstand,\
-P.J.M. van denBiggelaar,\
-Directeur stelsel.
+De Minister van Veiligheid en Justitie,voor deze,De Raad voor Rechtsbijstand,\
+P.J.M. van den Biggelaar,Directeur stelsel.
 
-J. Wijkstra,\
-Directeur bedrijfsvoering.
+J. Wijkstra, Directeur bedrijfsvoering.
 
 ## Bijlage
 

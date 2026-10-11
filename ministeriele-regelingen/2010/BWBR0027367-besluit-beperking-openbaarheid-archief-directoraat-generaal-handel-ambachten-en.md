@@ -35,9 +35,5 @@ Besluit:
 
 Den Haag 1 maart 2010
 
-De\
-Minister\
-Economische Zaken\
-namens deze:\
-directie Bedrijfsvoering, Informatiemanagement en Automatiseringhoofd Informatie\
-A.F.M.Litjens
+De Minister van Economische Zaken, namens deze:directie Bedrijfsvoering, Informatiemanagement en Automatiseringhoofd Informatie,\
+A.F.M. Litjens

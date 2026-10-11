@@ -82,8 +82,7 @@ Dit besluit wordt aangehaald als: Regeling naslag Wiv 2017.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 M. Rutte
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\

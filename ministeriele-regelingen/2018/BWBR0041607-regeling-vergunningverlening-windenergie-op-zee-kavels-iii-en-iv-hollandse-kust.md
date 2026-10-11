@@ -153,7 +153,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 23 november 2018
 
-De Minister
+De Minister van Economische Zaken en Klimaat,
 
 ## Bijlage — behorende bij artikel 5, eerste lid, van de Regeling vergunningverlening windenergie op zee zonder subsidie
 

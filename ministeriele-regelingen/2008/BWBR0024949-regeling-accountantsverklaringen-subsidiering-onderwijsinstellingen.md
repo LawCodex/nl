@@ -35,7 +35,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Den Haag 9 december 2008
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven

@@ -68,7 +68,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 18 oktober 2017
 
-De Minister van Defensie,\
-voor deze,\
-De Secretaris-Generaal\
+De Minister van Defensie, voor deze, De Secretaris-Generaal\
 W.J.P. Geerts

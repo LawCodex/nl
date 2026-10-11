@@ -76,7 +76,5 @@ Wijzigt de Regeling zorgverzekering.
 
 Deze regeling treedt in werking op de dag na de uitgifte van de Staatscourant waarin zij met de bijbehorende toelichting wordt geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

@@ -67,9 +67,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgi
 
 ’s-Gravenhage 8 januari 2013
 
-De\
-Minister-President, Minister\
-Algemene Zaken,\
-namens deze:\
-K.H.Ollongren,\
-Secretaris-Generaal.
+De Minister-President, Minister van Algemene Zaken,namens deze:\
+K.H. Ollongren,Secretaris-Generaal.

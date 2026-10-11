@@ -39,9 +39,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 28 december 2005
 
-De\
-Minister\
-Economische Zaken\
-namens deze:\
-plv. Directeur-Generaal van Ondernemen en Innovatie\
-E.J. deVries
+De Minister van Economische Zaken, namens deze:plv. Directeur-Generaal van Ondernemen en Innovatie,\
+E.J. de Vries

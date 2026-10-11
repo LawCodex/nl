@@ -98,9 +98,7 @@ Deze regeling wordt aangehaald als: Regeling brandstoffen luchtverontreiniging.
 
 ’s-Gravenhage 20 april 2011
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,
+De Staatssecretaris van Infrastructuur en Milieu,
 
 ## Bijlage — bij artikel 4, vierde lid, van de Regeling brandstoffen luchtverontreiniging
 

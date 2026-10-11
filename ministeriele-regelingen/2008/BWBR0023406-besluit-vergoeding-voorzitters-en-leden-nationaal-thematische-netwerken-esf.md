@@ -45,7 +45,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Den Haag 23 januari 2008
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-A.Aboutaleb
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+A. Aboutaleb

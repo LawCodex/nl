@@ -167,17 +167,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 21 december 2001
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën,\
 W. Bos
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.P.Pronk
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.P. Pronk
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-L.J.Brinkhorst
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+L.J. Brinkhorst

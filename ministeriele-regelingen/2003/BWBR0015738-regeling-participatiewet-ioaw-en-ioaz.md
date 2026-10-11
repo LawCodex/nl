@@ -307,10 +307,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Den Haag 16 oktober 2003
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-M.Rutte
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid\
+M. Rutte
 
 ## Bijlage I — behorende bij artikel 6 van de Regeling Participatiewet, IOAW en IOAZ
 

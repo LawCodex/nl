@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging percentage lev
 
 's-Gravenhage 13 november 1978
 
-De\
-Minister\
+De Minister voornoemd,\
 J. de Ruiter

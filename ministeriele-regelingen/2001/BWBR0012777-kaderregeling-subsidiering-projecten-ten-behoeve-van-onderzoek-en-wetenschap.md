@@ -276,7 +276,5 @@ Deze regeling wordt aangehaald als: Kaderregeling subsidiering projecten ten beh
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschappen\
+De Minister van Onderwijs, Cultuur en Wetenschappen,\
 L.M.L.H.A. Hermans

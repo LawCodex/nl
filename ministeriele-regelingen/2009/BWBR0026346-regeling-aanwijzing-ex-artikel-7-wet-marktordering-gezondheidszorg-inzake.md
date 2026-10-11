@@ -67,7 +67,5 @@ De laatste drie volzinnen van het vorige artikel zijn van overeenkomstige toepas
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst, te lezen op www.officielebekendmakingen.nl.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

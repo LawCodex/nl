@@ -72,10 +72,8 @@ Deze tijdelijke regeling treedt in werking met ingang van de tweede dag na de da
 
 Den Haag 14 november 2007
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak
 
 ## Bijlage 1
 

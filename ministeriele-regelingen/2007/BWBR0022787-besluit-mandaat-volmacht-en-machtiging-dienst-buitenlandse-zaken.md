@@ -53,7 +53,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 29 oktober 2007
 
-De\
-Minister\
-Economische Zaken\
+De Minister van Economische Zaken,\
 M.J.A. van der Hoeven

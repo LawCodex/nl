@@ -91,7 +91,5 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Den Haag 9 november 2022
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-I.M. Koster-Boer\
-Operationeel manager V&T
+De Minister voor Rechtsbescherming, namens deze,\
+I.M. Koster-Boer Operationeel manager V&T

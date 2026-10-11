@@ -46,7 +46,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 31 oktober 2014
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-J.Klijnsma
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma

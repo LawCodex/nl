@@ -75,10 +75,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 november 2013
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok
 
 ## Tabel behorende bij de Regeling normering topinkomens toegelaten instellingen volkshuisvesting
 

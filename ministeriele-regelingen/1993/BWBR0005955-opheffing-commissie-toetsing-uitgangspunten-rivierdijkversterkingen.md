@@ -43,7 +43,5 @@ Afschrift van deze beschikking, die wordt geplaatst in de Nederlandse Staatscour
 
 's-Gravenhage 15 april 1993
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 J. R. H. Maij-Weggen

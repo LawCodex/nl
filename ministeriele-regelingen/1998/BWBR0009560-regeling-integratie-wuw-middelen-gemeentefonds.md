@@ -56,12 +56,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 21 april 1998
 
-De\
-Staatssecretaris\
-Financiën\
-A.G.M. van deVondervoort
+De Staatssecretaris van Financiën,\
+A.G.M. van de Vondervoort
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken\
-W.A.F.G.Vermeend
+De Staatssecretaris van Binnenlandse Zaken,\
+W.A.F.G. Vermeend

@@ -29,7 +29,5 @@ Opdrachten in het kader van onderhoud van het Vredespaleis en de daarbij behoren
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Buitenlandse Zaken,\
-Namens deze:\
-Waarnemend Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+De Minister van Buitenlandse Zaken, Namens deze: Waarnemend Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 W. van Ee

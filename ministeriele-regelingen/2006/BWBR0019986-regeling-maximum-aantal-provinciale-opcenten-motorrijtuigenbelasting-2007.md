@@ -39,7 +39,5 @@ De regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 21 juni 2006
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën,\
+J.G. Wijn

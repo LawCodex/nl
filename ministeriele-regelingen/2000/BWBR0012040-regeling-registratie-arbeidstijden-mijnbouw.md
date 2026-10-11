@@ -37,9 +37,7 @@ Deze regeling wordt aangehaald als: Regeling registratie arbeidstijden mijnbouw.
 
 's-Gravenhage 19 december 2000
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
+De Minister van Sociale Zaken en Werkgelegenheid,\
 W.A. Vermeend
 
 ## Bijlage 1 — behorende bij artikel 1 van de Regeling registratie arbeidstijden mijnbouw

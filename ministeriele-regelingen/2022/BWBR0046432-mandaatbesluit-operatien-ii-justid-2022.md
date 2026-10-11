@@ -48,6 +48,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Almelo 4 februari 2022
 
-De Directeur Operatiën II,\
-voor deze, de Algemeen Directeur van de Justitiële Informatiedienst van het Ministerie van Justitie en Veiligheid,\
+De Directeur Operatiën II, voor deze, de Algemeen Directeur van de Justitiële Informatiedienst van het Ministerie van Justitie en Veiligheid,\
 W. Lodder

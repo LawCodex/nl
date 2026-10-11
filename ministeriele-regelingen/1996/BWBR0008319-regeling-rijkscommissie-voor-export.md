@@ -96,7 +96,5 @@ Deze regeling wordt aangehaald als: Regeling Rijkscommissie voor export.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Financiën\
-G.Zalm
+De minister van Financiën,\
+G. Zalm

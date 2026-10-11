@@ -890,10 +890,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 23 juni 2014
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma
 
 ## Bijlage — behorende bij de artikelen 2.2 tot en met 2.10 van de Regeling diergeneeskundigen
 

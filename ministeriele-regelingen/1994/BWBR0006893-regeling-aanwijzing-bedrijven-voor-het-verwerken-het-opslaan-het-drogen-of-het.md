@@ -108,12 +108,9 @@ Als bedrijven waar het verwerken, het opslaan, het drogen of het sorteren van vl
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Volksgezondheid, Welzijn en Sport
+De minister van Volksgezondheid, Welzijn en Sport,
 
 namens deze,
 
-De\
-directeur Voeding en Veiligheid van Produkten\
-S. vanHoogstraten
+De directeur Voeding en Veiligheid van Produkten,\
+S. van Hoogstraten

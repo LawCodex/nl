@@ -53,7 +53,5 @@ Dit besluit kan worden aangehaald als ’Besluit gebruik stormvloedkering Nieuwe
 
 ’s-Gravenhage 6 mei 1997
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

@@ -925,10 +925,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 25 mei 2011
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen
 
 ## Bijlage 1 — behorende bij de artikelen 4, derde lid, 10, derde lid, 21, vierde lid, en 44, derde lid, van de Regeling aanwijzing categorieën duurzame energieproductie 2011
 

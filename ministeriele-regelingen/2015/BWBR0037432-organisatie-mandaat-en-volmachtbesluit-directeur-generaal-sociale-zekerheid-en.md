@@ -209,9 +209,5 @@ In aanvulling op artikel 10, derde lid, wordt aan de directeur van de directie S
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-B. terHaar\
-Directeur-generaal Sociale Zekerheid en Integratie
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+B. ter HaarDirecteur-generaal Sociale Zekerheid en Integratie

@@ -101,7 +101,5 @@ Dit besluit en de toelichting daarop zullen in de Staatscourant worden geplaatst
 
 's-Gravenhage 13 januari 2003
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.L.B.A. vanGeel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+P.L.B.A. van Geel

@@ -55,7 +55,5 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 's-Gravenhage 9 juli 2001
 
-De\
-Staatssecretaris\
-Justitie\
+De Staatssecretaris van Justitie,\
 N.A. Kalsbeek

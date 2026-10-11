@@ -91,10 +91,8 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging direct
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus
 
 ## Bijlage — bij artikel 1, onderdeel a, van het Besluit mandaat, volmacht en machtiging directeur-generaal Rijksdienst voor Ondernemend Nederland op het terrein van het Ministerie van Infrastructuur en Waterstaat
 

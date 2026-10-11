@@ -39,8 +39,4 @@ Met het oog op de bescherming van de persoonlijke levenssfeer van nog levende pe
 
 Den Haag 10 december 2008
 
-De\
-Minister\
-Justitie\
-namens deze:\
-de Secretaris-generaal
+De Minister van Justitie, namens deze:de Secretaris-generaal

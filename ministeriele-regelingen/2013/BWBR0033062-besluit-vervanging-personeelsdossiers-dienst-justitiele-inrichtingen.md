@@ -57,12 +57,8 @@ Dit besluit wordt in de Staatscourant gepubliceerd; de bijlage ligt voor de bela
 
 Den Haag 4 maart 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze:\
-De hoofddirecteur van de Dienst Justitiële Inrichtingen,\
-P.Hennephof
+De Minister van Veiligheid en Justitie,namens deze:De hoofddirecteur van de Dienst Justitiële Inrichtingen,\
+P. Hennephof
 
 ## Bijlage
 

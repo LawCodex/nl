@@ -49,7 +49,5 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling zal met bijlage 1 en de toelichting in de Staatscourant worden geplaatst. Bijlage 2 zal worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap\
+M. Bussemaker

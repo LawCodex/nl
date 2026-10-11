@@ -69,10 +69,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Den Haag 9 augustus 2006
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-C.P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+C.P. Veerman
 
 ## Bijlage 1
 

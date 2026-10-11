@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als Beschikking wijziging percentage leve
 
 's-Gravenhage 7 november 1984
 
-De\
-staatssecretaris\
+De staatssecretaris voornoemd,\
 V. N. M. Korte-van Hemel

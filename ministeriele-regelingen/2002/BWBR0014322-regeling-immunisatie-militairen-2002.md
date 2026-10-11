@@ -115,7 +115,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 25 november 2002
 
-De\
-Staatssecretaris\
-Defensie\
-C. van derKnaap
+De Staatssecretaris van Defensie,\
+C. van der Knaap

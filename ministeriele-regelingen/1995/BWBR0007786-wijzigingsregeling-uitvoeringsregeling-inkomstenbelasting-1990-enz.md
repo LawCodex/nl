@@ -73,7 +73,5 @@ Deze regeling treedt in werking met ingang van 1 januari 1996.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen I tot en met VII, die ter inzage worden gelegd op de Directie Wetgeving Directe Belastingen van het Ministerie van Financiën.
 
-De\
-Staatssecretaris\
-Financiën,\
-W.A.Vermeend.
+De Staatssecretarisvan Financiën,\
+W.A. Vermeend.

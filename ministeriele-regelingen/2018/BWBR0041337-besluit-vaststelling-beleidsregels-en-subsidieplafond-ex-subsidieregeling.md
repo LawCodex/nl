@@ -49,9 +49,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
 
-De Minister van Buitenlandse Zaken,\
-namens deze,\
-de Directeur-Generaal Politieke Zaken,\
+De Minister van Buitenlandse Zaken, namens deze, de Directeur-Generaal Politieke Zaken,\
 A. Haspels
 
 ## Bijlage

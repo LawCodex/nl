@@ -35,7 +35,5 @@ Dit besluit wordt met toelichting in de Staatscourant geplaatst.
 
 's-Gravenhage 30 juni 2003
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
+De Minister van Landbouw, Natuurbeheer en Visserij,\
 C.P. Veerman

@@ -47,10 +47,8 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 
 Den Haag 00 november 2014
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp.
+De Minister van Economische Zaken,\
+H.G.J. Kamp.
 
 ## Nationaal frequentieplan 2014 (NFP2014)
 

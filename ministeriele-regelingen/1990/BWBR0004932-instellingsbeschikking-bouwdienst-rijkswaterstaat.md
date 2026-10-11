@@ -43,12 +43,9 @@ Besluit:
 
 's-Gravenhage 17 december 1990
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 Namens deze,
 
-De\
-secretaris-generaal\
-H. N. J.Smits
+De secretaris-generaal,\
+H. N. J. Smits

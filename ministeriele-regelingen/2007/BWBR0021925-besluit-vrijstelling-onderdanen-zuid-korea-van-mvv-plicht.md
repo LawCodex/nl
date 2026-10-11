@@ -25,15 +25,11 @@ Gelet op artikel 17, eerste lid, onder a, van de Vreemdelingenwet 2000;
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Met ingang van 1 juni 2007 zijn onderdanen van Zuid-Korea voor de toegang tot Nederland voor een verblijf van meer dan drie maanden en het verkrijgen van een verblijfsvergunning vrijgesteld van de verplichting om in het bezit te zijn van een geldige machtiging tot voorlopig verblijf.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-namens deze:\
-directeur-generaal Regiobeleid en Consulaire Zaken\
-R.V.M.Jones-Bos
+De Minister van Buitenlandse Zaken, namens deze:de directeur-generaal Regiobeleid en Consulaire Zaken,\
+R.V.M. Jones-Bos

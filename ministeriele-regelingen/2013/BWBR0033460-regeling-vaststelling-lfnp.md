@@ -107,10 +107,8 @@ Deze regeling wordt aangehaald als: Regeling vaststelling LFNP.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten
 
 ## Bijlage 1 — horende bij artikel 3, eerste lid
 
@@ -12119,6 +12117,6 @@ Werkterreinen, Aandachtsgebieden en Specifieke functionaliteiten LFNP
 
 [^n69]: 46 De opbouw van functies in het domein Leiding kent op dit moment 4 niveaus: Teamchef (A, B en C), Sectorhoofd, Directeur en Korpschef. De inrichting van nationale politie, hoewel daar in deze opbouw waar mogelijk al rekening mee is gehouden, kan tot wijzigingen leiden. Voor de leesbaarheid is gekozen voor de term ‘naasthogere leidinggevende’ te hanteren ipv Korpschef en de term ‘naastlagere leidinggevende’ voor Sectorhoofd of Teamchef A, B of C.
 
-[^n70]: 47 Een directoraat kan zijn: De Directeur geeft in beide hoedanigheden direct leiding aan een collectief van medewerkers, waarbij moet worden gedacht aan naastlagere leidinggevende, en aan Bedrijfsvoeringspecialisten en/of Operationeel Specialisten.
+[^n70]: 47 Een directoraat kan zijn: een (landelijke) organisatie-eenheid: een groep van organisatieonderdelen ingezet op het gezamenlijk behalen van samenhangende effecten en resultaten zoals vastgesteld in het korps-bedrijfsvoeringplan. een landelijk concernstafonderdeel: een centraal gepositioneerd organisatieonderdeel, ingezet op het behalen van samenhangende effecten en resultaten zoals vastgesteld in het bedrijfsvoeringplan van het betreffende concernstafonderdeel (P&O, Financieel, Facilitair, ICT etc.). De Directeur geeft in beide hoedanigheden direct leiding aan een collectief van medewerkers, waarbij moet worden gedacht aan naastlagere leidinggevende, en aan Bedrijfsvoeringspecialisten en/of Operationeel Specialisten.
 
 [^n71]: 48 De opbouw van functies in het domein Leiding kent op dit moment 4 niveaus: Teamchef (A, B en C), Sectorhoofd, Directeur en Korpschef. De inrichting van nationale politie, hoewel daar in deze opbouw waar mogelijk al rekening mee is gehouden, kan tot wijzigingen leiden. Voor korps kan worden gelezen: een regiokorps, dan wel een ‘eenheid’ in het nationale politieverband. Voor de leesbaarheid is gekozen voor de term ‘naastlagere leidinggevende’ te hanteren i.p.v. Teamchef, Sectorhoofd of Directeur.

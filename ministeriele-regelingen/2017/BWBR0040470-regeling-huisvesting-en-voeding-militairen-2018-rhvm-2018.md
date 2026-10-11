@@ -222,8 +222,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling wordt aangehaald als ‘Regeling huisvesting en voeding militairen 2018 (RHVM 2018)’.
 
-De Staatssecretaris van Defensie\
-Voor deze,\
-De Hoofddirecteur Personeel\
-P.F.M. Reesink\
-Schout-bij-nacht
+De Staatssecretaris van Defensie Voor deze, De Hoofddirecteur Personeel\
+P.F.M. Reesink Schout-bij-nacht

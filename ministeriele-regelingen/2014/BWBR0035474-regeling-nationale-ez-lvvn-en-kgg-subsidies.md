@@ -11787,10 +11787,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 11 juli 2014
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp
 
 ## Bijlage 1.1 — behorende bij artikel 1.2, eerste lid, van de Regeling nationale EZK- en LNV-subsidies
 

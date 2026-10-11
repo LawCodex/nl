@@ -32,15 +32,12 @@ Deze beschikking, waarvan afschrift zal worden gezonden aan:
 
 's-Gravenhage 23 december 1969
 
-De\
-Minister
+De Minister voornoemd,
 
-Namens de\
-Minister
+Namens de Minister:
 
-De\
-Secretaris-Generaal\
-A. J.Fonteijn
+De Secretaris-Generaal,\
+A. J. Fonteijn , l.s.g
 
 ## Bijlage
 

@@ -66,10 +66,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 28 september 1993
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma
 
 ## Bijlage I — behorend bij de Overgangsregeling geldelijke steun huisvesting gehandicapten Bijlage VI bedoeld in artikel 3, eerste lid
 
@@ -753,10 +751,8 @@ De uitbetaling bedraagt dan (afgerond) in:
 
 's-Gravenhage 28 september 1993
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma
 
 ## Bijlage II — behorend bij de Overgangsregeling geldelijke steun huisvesting gehandicapten
 
@@ -830,7 +826,5 @@ Deze bijlage behoort bij de Overgangsregeling geldelijke steun huisvesting gehan
 
 's-Gravenhage 28 september 1993
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

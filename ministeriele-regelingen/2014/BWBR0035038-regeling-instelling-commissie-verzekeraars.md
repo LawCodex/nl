@@ -99,12 +99,8 @@ Deze regeling wordt aangehaald als: Regeling instelling Commissie verzekeraars.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister van Wonen en Rijksdienst,\
+S.A. Blok

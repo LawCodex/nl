@@ -39,9 +39,5 @@ Te rekenen vanaf 1 september 2015 tot en met 31 december 2015 wordt de arbeidsdu
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De\
-Minister\
-Economische Zaken,\
-namens deze,\
-M.Sonnema\
-Directeur-generaal Agro en Natuur
+De Minister van Economische Zaken,namens deze,\
+M. SonnemaDirecteur-generaal Agro en Natuur

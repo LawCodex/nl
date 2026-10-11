@@ -175,7 +175,5 @@ Afschrift van deze beschikking zal worden gezonden aan de Algemene Rekenkamer en
 - de afdeling Publikaties Overheidsorganisatie van de Centrale Archief Selectiedienst;
 - de beveiligingsambtenaar.
 
-De\
-Minister\
-Binnenlandse Zaken\
-H.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H. Dijkstal

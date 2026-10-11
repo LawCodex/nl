@@ -77,9 +77,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt met toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de directeur-generaal Volksgezondheid,\
-A.Berg
+De Minister van Volksgezondheid, Welzijn en Sport,namens deze,de directeur-generaal Volksgezondheid,\
+A. Berg

@@ -93,7 +93,5 @@ Dit besluit met toelichting zal worden gepubliceerd in de Staatscourant.
 
 Den Haag 8 juli 2005
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-M.C.F.Verdonk
+De Minister voor Vreemdelingenzaken en Integratie,\
+M.C.F. Verdonk

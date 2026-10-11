@@ -216,8 +216,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in Italië te Rome, (1955) 1975–2013, en het consulaat-generaal in Italië te Milaan, (1949) 1975–2013, bij overbrenging naar het Nationaal Archief (besluit beperking openbaarheid Italië)’.
 
-De Minister van Buitenlandse Zaken,\
-Voor deze,\
-N. van Heezik\
-Hoofd Informatiemanagement\
-Directie Bedrijfsvoering.
+De Minister van Buitenlandse Zaken, Voor deze,\
+N. van Heezik Hoofd Informatiemanagement Directie Bedrijfsvoering.

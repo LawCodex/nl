@@ -32,13 +32,10 @@ Besluit:
 
 's-Gravenhage 8 augustus 1978
 
-De\
-Minister
+De Minister voornoemd,
 
-Namens de\
-Minister
+Namens de Minister,
 
-De\
-secretaris-generaal
+De secretaris-generaal,
 
-W. J. van Eijkern
+W. J. van Eijkern, l.-s.g

@@ -71,10 +71,8 @@ De behandeling van verzekeringsaanvragen en van eventuele schadeclaims geschiede
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos
 
 ## Bijlage I
 

@@ -60,6 +60,5 @@ Procedure
 
 's-Gravenhage 26 maart 1990
 
-De\
-staatssecretaris\
-A.Kosto
+De staatssecretaris voornoemd\
+A. Kosto

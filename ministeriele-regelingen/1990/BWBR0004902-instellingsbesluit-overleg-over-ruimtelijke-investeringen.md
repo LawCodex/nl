@@ -96,7 +96,5 @@ Afschrift van dit besluit wordt gezonden naar alle Ministers en Staatssecretaris
 
 's-Gravenhage 15 november 1990
 
-De\
-minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. G. M.Alders
+De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. G. M. Alders

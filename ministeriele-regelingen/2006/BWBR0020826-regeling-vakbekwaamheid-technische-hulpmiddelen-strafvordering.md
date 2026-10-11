@@ -79,7 +79,5 @@ Deze regeling wordt aangehaald als: Regeling vakbekwaamheid technische hulpmidde
 
 Deze regeling zal in de Staatscourant worden geplaatst. Van de plaatsing wordt mededeling gedaan in het Algemeen Politieblad.
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

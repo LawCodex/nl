@@ -55,7 +55,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 16 juni 2014
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

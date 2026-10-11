@@ -54,12 +54,8 @@ Deze beschikking kan worden aangehaald als Vrijstellingsbeschikking textielartik
 
 Leidschendam 9 oktober 1974
 
-De\
-Staatssecretaris\
-Volksgezondheid en Milieuhygiëne\
+De Staatssecretaris van Volksgezondheid en Milieuhygiëne,\
 Hendriks.
 
-De\
-Staatssecretaris\
-Economische Zaken\
-Th.M.Hazekamp
+De Staatssecretaris van Economische Zaken,\
+Th.M. Hazekamp

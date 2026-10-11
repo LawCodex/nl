@@ -27,7 +27,7 @@ Mede gelet op de Koninklijke Besluiten van 22 februari 2007, nr. 07.000658 en nr
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Staatssecretaris is binnen de grenzen van het door mij vastgestelde beleid en de daarmee gemoeide sturingsconcepten in het bijzonder belast met:
 
@@ -41,7 +41,5 @@ De Staatssecretaris is binnen de grenzen van het door mij vastgestelde beleid en
 - h. Oorlogsgetroffenen en verzetsdeelnemers.
 - i. Andere aangelegenheden waarvan de behartiging door de Minister aan haar wordt toevertrouwd.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

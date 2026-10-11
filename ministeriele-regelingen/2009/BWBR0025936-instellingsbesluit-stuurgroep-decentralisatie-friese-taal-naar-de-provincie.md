@@ -86,7 +86,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Stuurgroep decentralisatie 
 
 Dit besluit zal, met toelichting, in de Nederlandse en de Friese taal in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst

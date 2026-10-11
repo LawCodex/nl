@@ -222,7 +222,5 @@ Deze regeling wordt aangehaald als: Regeling verlof en STP jeugdigen.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven.
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven.

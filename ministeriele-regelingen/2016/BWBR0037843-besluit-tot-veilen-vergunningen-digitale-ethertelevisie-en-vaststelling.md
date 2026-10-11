@@ -87,10 +87,8 @@ Een respondent wijst erop dat artikel 2 van de ter consultatie voorliggende verg
 
 Dit besluit wordt bekendgemaakt in de Staatscourant. Dit besluit treedt in werking op de dag na publicatie in de Staatscourant.
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp
 
 ## Bijlage — Vergunning voor het gebruik van frequentieruimte ten behoeve van digitale omroep
 
@@ -222,12 +220,8 @@ Deze vergunning zal in de Staatscourant worden geplaatst.
 
 Hoogachtend,
 
-De\
-Minister\
-Economische Zaken,\
-namens deze,\
-T.Kroeze\
-Hoofd Media Agentschap Telecom
+De Minister van Economische Zaken,namens deze,\
+T. KroezeHoofd Media Agentschap Telecom
 
 ## Bijlage I — Behorende bij de vergunning voor het gebruik van frequentieruimte ten behoeve van digitale omroep
 

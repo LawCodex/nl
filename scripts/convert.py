@@ -112,7 +112,10 @@ class Doc:
             return "<br>"
         if t == "noot":
             nr = clean(el.findtext("noot.nr") or str(len(self.notes) + 1)).strip()
-            body = " ".join(self.inline(a).strip() for a in el if a.tag == "noot.al")
+            body = " ".join(
+                b.strip() for a in el if isinstance(a.tag, str) and a.tag != "noot.nr"
+                for b in (self.para(a) if a.tag == "noot.al" else self.block(a, 0)))
+            body = re.sub(r"\s*\n\s*", " ", body)
             label = f"n{len(self.notes) + 1}"
             self.notes.append((label, nr, body))
             return f"[^{label}]"
@@ -137,9 +140,8 @@ class Doc:
 
     def kop_text(self, kop):
         parts = []
-        lab = clean(kop.findtext("label")).strip()
-        nr = clean(kop.findtext("nr")).strip()
-        head = " ".join(x for x in (lab, nr) if x)
+        head = " ".join(x for x in (clean("".join(k.itertext())).strip()
+                                     for k in kop if k.tag in ("label", "nr")) if x)
         tit = kop.find("titel")
         titel = self.inline(tit).strip() if tit is not None else ""
         sub = kop.find("subtitel")
@@ -193,20 +195,28 @@ class Doc:
                     res.append(self.image(x))
                 elif x.tag == "bijschrift":
                     res.extend(self.para(x))
+                elif isinstance(x.tag, str):
+                    res.extend(self.block(x, depth))
             return res
         if t == "illustratie":
             return [self.image(c)]
         if t == "ondertekening":
-            lines = []
+            parts = [esc(clean(c.text))]
             for x in c:
                 if not isinstance(x.tag, str) or x.tag in SKIP:
+                    if not isinstance(x.tag, str):
+                        parts.append(esc(clean(x.tail)))
                     continue
-                s = self.inline(x).strip()
-                if s:
-                    lines.append(esc_start(s))
-            tx = clean(c.text).strip()
-            if tx:
-                lines.insert(0, esc_start(esc(tx)))
+                if x.tag == "naam":
+                    if "".join(parts).strip():
+                        parts.append("\x00")
+                    nm = " ".join(self.inner(n).strip() for n in x if isinstance(n.tag, str))
+                    parts.append(nm or self.inner(x).strip())
+                    parts.append(esc(clean(x.tail)))
+                else:
+                    parts.append(self.inline(x, top=False))
+            lines = [ln.strip() for ln in "".join(parts).split("\x00")]
+            lines = [esc_start(ln) for ln in lines if ln]
             return ["\\\n".join(lines)] if lines else []
         # generic container: recurse; keep stray text
         res = []

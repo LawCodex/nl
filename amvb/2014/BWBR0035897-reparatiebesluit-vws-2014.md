@@ -79,10 +79,10 @@ Wassenaar 1 december 2014
 
 Willem-Alexander
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 de *twaalfde* december 2014
 
-De Minister van Veiligheid en Justitie\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

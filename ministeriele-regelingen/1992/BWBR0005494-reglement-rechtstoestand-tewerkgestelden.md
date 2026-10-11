@@ -852,10 +852,8 @@ Deze regeling kan worden aangehaald als ‘Reglement rechtstoestand tewerkgestel
 
 's-Gravenhage 27 april 1992
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-B. deVries
+De Minister van Sociale Zaken en Werkgelegenheid,\
+B. de Vries
 
 ## Bijlage — bij ministeriële regeling, nr. TEGMD/92/0057, 27 april 1992
 

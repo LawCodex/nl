@@ -51,9 +51,7 @@ De overige aan de openbaarheid van de in de rijksarchiefbewaarplaatsen berustend
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant, waarin het met de bijbehorende toelichting wordt geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschappen
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,
 
 namens deze,
 

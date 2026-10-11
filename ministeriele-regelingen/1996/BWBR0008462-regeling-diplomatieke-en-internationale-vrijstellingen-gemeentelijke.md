@@ -111,12 +111,8 @@ Deze regeling wordt aangehaald als: Regeling diplomatieke en internationale vrij
 
 Den Haag 20 december 1996
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken\
-A.G.M. van deVondervoort
+De Staatssecretaris van Binnenlandse Zaken,\
+A.G.M. van de Vondervoort
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

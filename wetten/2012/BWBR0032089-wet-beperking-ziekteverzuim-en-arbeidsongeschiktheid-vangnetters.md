@@ -83,10 +83,8 @@ Gegeven te
 
 Beatrix
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-H.G.J.Kamp
+De Minister van Sociale Zaken en Werkgelegenheid,\
+H.G.J. Kamp
 
 de *twaalfde* oktober 2012
 

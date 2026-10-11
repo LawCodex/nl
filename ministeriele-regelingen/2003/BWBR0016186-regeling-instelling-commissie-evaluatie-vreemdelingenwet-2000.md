@@ -67,12 +67,8 @@ Deze regeling wordt aangehaald als: Regeling instelling Commissie Evaluatie Vree
 
 Deze regeling zal (met toelichting) in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-M.C.F.Verdonk
+De Minister voor Vreemdelingenzaken en Integratie,\
+M.C.F. Verdonk
 
-De\
-Minister\
-Bestuurlijke Vernieuwing en Koninkrijksrelaties\
-Th.C. deGraaf
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties,\
+Th.C. de Graaf

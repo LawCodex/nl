@@ -47,7 +47,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 15 november 2018
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-namens deze,\
-de Directeur Organisatie & Bedrijfsvoering,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, namens deze, de Directeur Organisatie & Bedrijfsvoering,\
 J.J.H. Been

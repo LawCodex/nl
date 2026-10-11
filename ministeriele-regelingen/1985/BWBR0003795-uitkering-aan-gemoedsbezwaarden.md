@@ -49,6 +49,5 @@ Deze beschikking treedt in werking met ingang van de dag na bekendmaking in de N
 
 's-Gravenhage 15 mei 1985
 
-De\
-staatssecretaris\
+De staatssecretaris voornoemd,\
 L. de Graaf

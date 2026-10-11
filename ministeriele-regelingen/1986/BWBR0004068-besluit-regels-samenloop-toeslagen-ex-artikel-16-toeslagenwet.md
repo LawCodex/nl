@@ -61,10 +61,7 @@ Vervallen.
 
 Zoetermeer 18 december 1986.
 
-De\
-Sociale Verzekeringsraad\
-E. P. de Jong\
-voorzitter
+De Sociale Verzekeringsraad,\
+E. P. de Jongvoorzitter
 
-G. J. van der Hoeven\
-algemeen secretaris
+G. J. van der Hoeven algemeen secretaris

@@ -43,9 +43,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met inga
 
 Den Haag 21 juli 2015
 
-De\
-Minister\
-Veiligheid en Justitie\
-namens deze,\
-J.M.Schoenmakers\
-plv. Directeur Rechtsbestel
+De Minister van Veiligheid en Justitie, namens deze,\
+J.M. Schoenmakersplv. Directeur Rechtsbestel

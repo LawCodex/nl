@@ -33,7 +33,5 @@ Dit Besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 april 2022
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-M. Groothuizen\
-plaatsvervangend Hoofddirecteur Dienst Justitiële Inrichtingen
+De Minister voor Rechtsbescherming, namens deze,\
+M. Groothuizen plaatsvervangend Hoofddirecteur Dienst Justitiële Inrichtingen

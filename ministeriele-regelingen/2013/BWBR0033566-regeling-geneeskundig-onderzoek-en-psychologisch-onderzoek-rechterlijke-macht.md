@@ -81,7 +81,5 @@ Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
 
 ’s-Gravenhage 18 juni 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

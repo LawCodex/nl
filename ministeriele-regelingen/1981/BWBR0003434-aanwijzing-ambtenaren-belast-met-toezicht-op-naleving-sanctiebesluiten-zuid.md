@@ -33,17 +33,11 @@ Deze beschikking wordt bekend gemaakt in de Nederlandse Staatscourant en treedt 
 
 's-Gravenhage 3 september 1981
 
-De\
-Minister\
-Buitenlandse Zaken\
-C. A. van derKlaauw
+De Minister van Buitenlandse Zaken,\
+C. A. van der Klaauw.
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 D. S. Tuijnman
 
-De\
-Staatssecretaris\
-Economische Zaken\
+De Staatssecretaris van Economische Zaken,\
 K. H. Beyen

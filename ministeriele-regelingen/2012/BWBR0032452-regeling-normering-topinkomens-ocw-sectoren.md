@@ -304,15 +304,11 @@ Deze regeling wordt aangehaald als: Regeling normering topinkomens OCW-sectoren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker.
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker.
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker.
 
 ## Bijlage — behorende bij artikel 3, tweede lid, van de Regeling normering topinkomens OCW-sectoren
 

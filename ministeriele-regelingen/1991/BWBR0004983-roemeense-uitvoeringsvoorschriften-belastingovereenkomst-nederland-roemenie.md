@@ -86,7 +86,5 @@ De beschikking van de Staatssecretaris van Financiën van 2 november 1981, nr. 0
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, vierde lid, toepassing met betrekking tot dividenden, interest, royalty's en commissiebeloningen die op of na 1 januari 1980 zijn betaald of worden betaald.
 
-De\
-staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

@@ -98,7 +98,5 @@ Dit besluit wordt gepubliceerd op de intranetsite van DJI en in de Staatscourant
 
 Dit besluit treedt in werking met ingang van de dag na de datum van de uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-M.C.J. Groothuizen\
-Plv. Hoofd directeur van de Dienst Justitiële inrichtingen
+De Minister voor Rechtsbescherming, namens deze,\
+M.C.J. Groothuizen Plv. Hoofd directeur van de Dienst Justitiële inrichtingen

@@ -77,10 +77,8 @@ De informatie als bedoeld in artikelen 5 en 6 is niet herleidbaar tot individuel
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 ## Bijlage
 

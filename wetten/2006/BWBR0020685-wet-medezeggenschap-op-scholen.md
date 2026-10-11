@@ -608,13 +608,13 @@ Gegeven te ’s-Gravenhage 30 november 2006
 
 Beatrix
 
-De Minister van Onderwijs, Cultuur en Wetenschap\
-M. J. A.van der Hoeven
+De Minister van Onderwijs, Cultuur en Wetenschap ,\
+M. J. A. van der Hoeven
 
-De Minister van Landbouw. Natuur en Voedselkwaliteit\
-C. P.Veerman
+De Minister van Landbouw. Natuur en Voedselkwaliteit ,\
+C. P. Veerman
 
 de *negentiende* december 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie ,\
+E. M. H. Hirsch Ballin

@@ -56,9 +56,7 @@ Dit besluit treedt in werking op 1 januari 2020.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,\
-Namens deze,\
-DE DIRECTEUR MARITIEME ZAKEN\
+DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT, Namens deze, DE DIRECTEUR MARITIEME ZAKEN\
 B.C.M. Gijsbers
 
 ## Bijlage 1 — Examenreglementen en examenprogramma’s van het CBR/CCV als bedoeld in artikel 1 van het Besluit tot goedkeuring van de examenreglementen en examenprogramma's voor de binnenvaart 2020

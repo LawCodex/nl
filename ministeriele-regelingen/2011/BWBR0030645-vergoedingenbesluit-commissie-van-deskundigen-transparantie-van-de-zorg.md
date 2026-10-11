@@ -41,7 +41,5 @@ Dit besluit wordt aangehaald als: Vergoedingenbesluit commissie van deskundigen 
 
 Dit besluit zal in de Staatscourant worden geplaatst. Een afschrift zal worden gezonden aan de in het besluit genoemde leden.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

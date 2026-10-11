@@ -73,7 +73,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 21 mei 2014
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma

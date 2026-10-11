@@ -27,7 +27,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is, in verband met h
 
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## afdeling Eerste — **Benoeming en ontslag van de Gouverneur**
+## Eerste afdeling — **Benoeming en ontslag van de Gouverneur**
 
 ### Artikel 1
 
@@ -153,7 +153,7 @@ Indien tegen de Gouverneur, hetzij in het geval voorzien in artikel 10, hetzij t
 
 2\. De waarnemende Gouverneur legt in een plechtige vergadering van de Staten een afschrift over van het koninklijk besluit, bedoeld in artikel 13, eerste lid, en van het proces-verbaal van zijn eedaflegging.
 
-## afdeling Tweede — **De bevoegdheden van de Gouverneur als orgaan van het Koninkrijk**
+## Tweede afdeling — **De bevoegdheden van de Gouverneur als orgaan van het Koninkrijk**
 
 ### Artikel 15
 

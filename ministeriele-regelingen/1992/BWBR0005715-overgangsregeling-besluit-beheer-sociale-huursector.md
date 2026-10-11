@@ -73,7 +73,5 @@ Deze regeling kan worden aangehaald als Overgangsregeling Besluit beheer sociale
 
 's-Gravenhage 9 november 1992
 
-De\
-staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

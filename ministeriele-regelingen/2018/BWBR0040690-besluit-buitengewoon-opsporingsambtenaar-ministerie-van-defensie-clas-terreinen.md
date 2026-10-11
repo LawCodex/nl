@@ -87,7 +87,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 28 februari 2018
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-C. Huizinga\
-Operationeel manager V&T
+De Minister voor Rechtsbescherming, namens deze,\
+C. Huizinga Operationeel manager V&T

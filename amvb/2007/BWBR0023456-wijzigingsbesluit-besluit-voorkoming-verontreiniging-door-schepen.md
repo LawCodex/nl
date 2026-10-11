@@ -51,13 +51,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Staatssecretaris van Verkeer en Waterstaat\
-J. C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J. C. Huizinga-Heringa
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. M. Cramer
 
 de *twaalfde* februari 2008
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -56,7 +56,5 @@ De op basis van de voorgaande per individuele instelling berekende budgetcorrect
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatcourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

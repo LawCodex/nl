@@ -121,8 +121,6 @@ Deze regeling wordt aangehaald als: Regeling procesgang eerste en tweede ziektej
 
 's-Gravenhage 25 maart 2002
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,
 
 J.F. Hoogervorst

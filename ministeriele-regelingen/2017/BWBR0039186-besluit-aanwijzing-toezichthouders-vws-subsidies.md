@@ -39,7 +39,5 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders VWS-subsidi
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

@@ -41,7 +41,5 @@ Deze beschikking kan worden aangehaald als Beschikking wijziging percentage leve
 
 's-Gravenhage 12 november 1985
 
-De\
-Staatssecretaris\
-Justitie\
+De Staatssecretaris van Justitie,\
 V. N. M. Korte-van Hemel

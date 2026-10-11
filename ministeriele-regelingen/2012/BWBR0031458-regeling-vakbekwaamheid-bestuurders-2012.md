@@ -411,10 +411,8 @@ Deze regeling wordt aangehaald als: Regeling vakbekwaamheid bestuurders 2012.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus
 
 ## Bijlage 1 — Model certificaat praktijktrainer nascholing
 

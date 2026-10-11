@@ -43,7 +43,5 @@ Deze regeling wordt aangehaald als Regeling aanwijzing toezichthouders Wmg.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

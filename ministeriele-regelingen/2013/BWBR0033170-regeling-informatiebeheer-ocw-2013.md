@@ -348,9 +348,7 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 [^n1]: 1 *Voor de uitvoerende diensten van OCW geldt dat de proceseigenaar ook verantwoordelijk is voor het eindresultaat van het betreffende proces.*

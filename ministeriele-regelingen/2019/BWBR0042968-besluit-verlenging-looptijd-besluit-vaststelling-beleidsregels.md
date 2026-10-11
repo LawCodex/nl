@@ -41,7 +41,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-Namens deze,\
-De Directeur-Generaal Internationale Samenwerking,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, Namens deze, De Directeur-Generaal Internationale Samenwerking,\
 K. van der Heijden

@@ -49,13 +49,13 @@ Gegeven te ’s-Gravenhage 26 april 2007
 
 Beatrix
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-G.ter Horst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
 de *negenentwintigste* mei 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

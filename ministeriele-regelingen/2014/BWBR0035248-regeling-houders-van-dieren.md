@@ -2644,10 +2644,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 23 juni 2014
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma
 
 ## Bijlage 1 — Aangewezen diersoorten en diercategorieën als bedoeld in artikel 2.1 van de Regeling houders van dieren
 

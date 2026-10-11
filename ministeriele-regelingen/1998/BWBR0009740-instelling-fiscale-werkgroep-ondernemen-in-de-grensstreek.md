@@ -78,7 +78,5 @@ Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.
 
 ’s-Gravenhage 30 juni 1998
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+DeStaatssecretaris van Financiën,\
+W.A. Vermeend

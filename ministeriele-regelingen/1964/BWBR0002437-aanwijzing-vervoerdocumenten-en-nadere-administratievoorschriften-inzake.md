@@ -74,8 +74,7 @@ Deze beschikking wordt in de *Nederlandse Staatscourant* geplaatst en treedt in 
 
 's-Gravenhage 21 februari 1964
 
-De\
-staatssecretaris
+De staatssecretaris voornoemd,
 
 M. J. Keyzer
 

@@ -39,7 +39,5 @@ Artikel I treedt in werking op het tijdstip waarop artikel I, onderdelen J en K,
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings

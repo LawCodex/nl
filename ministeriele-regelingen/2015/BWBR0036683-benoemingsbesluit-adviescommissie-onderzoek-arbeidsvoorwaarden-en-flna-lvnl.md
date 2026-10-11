@@ -92,7 +92,5 @@ Dit besluit wordt aangehaald als: Benoemingsbesluit Adviescommissie Onderzoek ar
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld

@@ -39,9 +39,7 @@ Dit besluit wordt aangehaald als: Besluit bekendmaking spellingvoorschriften 200
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de internetsite van de Centrale Financiën Instellingen van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap
+De Minister van Onderwijs, Cultuur en Wetenschap,
 
 M.J.A. van der Hoeven
 

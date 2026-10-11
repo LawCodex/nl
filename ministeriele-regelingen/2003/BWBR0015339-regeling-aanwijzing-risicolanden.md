@@ -43,12 +43,8 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing risicolanden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes
 
-De\
-Minister\
-Defensie\
-H.G.J.Kamp
+De Minister van Defensie,\
+H.G.J. Kamp

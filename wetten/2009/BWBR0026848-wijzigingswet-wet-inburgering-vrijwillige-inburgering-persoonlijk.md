@@ -67,10 +67,10 @@ Gegeven te
 
 Beatrix
 
-DeMinistervoorWonen, Wijken en Integratie\
-E. E. van derLaan
+DeMinistervoorWonen, Wijken en Integratie,\
+E. E. van der Laan
 
 de *achttiende* december 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

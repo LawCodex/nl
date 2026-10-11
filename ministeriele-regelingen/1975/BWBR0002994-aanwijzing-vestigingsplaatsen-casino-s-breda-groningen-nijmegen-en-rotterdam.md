@@ -37,14 +37,10 @@ Deze beschikking wordt in de staatscourant gepubliceerd en treedt in werking met
 
 's-Gravenhage 28 augustus 1985
 
-De\
-minister\
-Justitie
+De minister van Justitie,
 
 F. Korthals Altes
 
-De\
-staatssecretaris\
-Economische Zaken
+De staatssecretaris van Economische Zaken,
 
 P. H. van Zeil

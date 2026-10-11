@@ -49,7 +49,5 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ’s-Gravenhage 10 mei 2010
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven

@@ -35,7 +35,5 @@ Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politie
 
 Den Haag 23 oktober 1998
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 A. Peper

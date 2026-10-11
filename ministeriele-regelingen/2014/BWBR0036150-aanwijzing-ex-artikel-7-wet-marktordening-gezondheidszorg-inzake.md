@@ -48,7 +48,5 @@ De Nederlandse Zorgautoriteit voorziet er met ingang van 1 januari 2015 in dat v
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

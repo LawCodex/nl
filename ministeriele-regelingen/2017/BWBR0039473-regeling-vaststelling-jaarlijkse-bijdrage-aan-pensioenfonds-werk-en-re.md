@@ -37,7 +37,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 24 februari 2017
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-J.Klijnsma
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma

@@ -128,7 +128,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en afs
 
 ’s-Gravenhage 3 juli 1998
 
-De\
-Minister\
-Economische Zaken\
-G.J.Wijers
+De Minister van Economische Zaken,\
+G.J. Wijers

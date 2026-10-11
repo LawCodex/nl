@@ -39,7 +39,5 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.W.E.Spies
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W.E. Spies

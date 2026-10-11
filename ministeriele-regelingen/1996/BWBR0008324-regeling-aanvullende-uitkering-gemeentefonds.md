@@ -101,12 +101,8 @@ Deze regeling wordt aangehaald als: Regeling aanvullende uitkering gemeentefonds
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken\
-A.G.M. van deVondervoort
+De Staatssecretaris van Binnenlandse Zaken,\
+A.G.M. van de Vondervoort
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

@@ -47,12 +47,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van het Nederlands Gezantschap, later de Ambassade en Consulaten in Marokko van het Ministerie van Buitenlandse Zaken, 1940–1979’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-namens deze:\
-directeur van de Directie Documentaire Informatievoorziening\
-H.Y.Buijs
+De Minister van Buitenlandse Zaken, namens deze:De directeur van de Directie Documentaire Informatievoorziening,\
+H.Y. Buijs
 
 ## Formulier voor toestemming tot raadpleging van niet-openbare archieven
 

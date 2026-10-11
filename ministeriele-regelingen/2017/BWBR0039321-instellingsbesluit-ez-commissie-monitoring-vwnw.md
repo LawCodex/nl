@@ -88,7 +88,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 10 maart 2017
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp

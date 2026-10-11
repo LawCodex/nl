@@ -35,7 +35,5 @@ De overige leden van de Staatscommissie Dualisme en lokale democratie, met uitzo
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 1998.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 A. Peper

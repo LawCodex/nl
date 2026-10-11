@@ -39,9 +39,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-S.Smits\
-Directeur-generaal Buitenlandse Economische Betrekkingen
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens deze,\
+S. SmitsDirecteur-generaal Buitenlandse Economische Betrekkingen

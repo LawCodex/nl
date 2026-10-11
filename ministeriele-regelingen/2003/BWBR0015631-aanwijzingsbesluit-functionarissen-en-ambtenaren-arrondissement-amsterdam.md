@@ -48,9 +48,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 25 september 2003
 
-De\
-Minister\
-Justitie
+De Minister van Justitie
 
 namens deze:hoofd Bureau Juridische en Beleidsondersteunende Aangelegenheden,\
-H.Ph.Mayer
+H.Ph. Mayer

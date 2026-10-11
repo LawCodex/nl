@@ -74,6 +74,5 @@ Dit besluit zal met de toelichting in de Nederlandse Staatscourant worden geplaa
 
 's-Gravenhage 10 januari 1995
 
-De\
-Minister-President,\
+De Minister-President,\
 W. Kok

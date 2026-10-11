@@ -41,7 +41,5 @@ Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoning
 
 Den Haag 23 maart 2005
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.L.B.A. vanGeel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+P.L.B.A. van Geel

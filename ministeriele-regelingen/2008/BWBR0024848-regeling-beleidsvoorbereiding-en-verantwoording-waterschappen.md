@@ -209,10 +209,8 @@ Deze regeling wordt aangehaald als: Regeling beleidsvoorbereiding en verantwoord
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa
 
 ## Bijlage 1 — bij artikel 2, eerste lid, van de Regeling beleidsvoorbereiding en verantwoording waterschappen
 

@@ -87,9 +87,5 @@ Deze regeling kan worden aangehaald als: Besluit Orgaanbeschrijving Regionale Se
 
 26 september 2014
 
-De\
-Minister\
-Buitenlandse Zaken,\
-namens deze,\
-de secretaris-generaal,\
-R.Jones-Bos
+De Minister van Buitenlandse Zaken,namens deze,de secretaris-generaal,\
+R. Jones-Bos

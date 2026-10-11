@@ -43,7 +43,5 @@ Deze regeling wordt met de toelichting en de bijlage in de Staatscourant geplaat
 
 Den Haag 27 mei 2010
 
-De\
-Minister\
-Economische Zaken,\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven

@@ -41,7 +41,5 @@ Deze regeling treedt in werking voor wat betreft het bepaalde bij:
 
 De regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen

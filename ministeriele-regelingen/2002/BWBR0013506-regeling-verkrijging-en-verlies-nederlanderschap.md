@@ -188,7 +188,5 @@ De Machtigingsregeling naturalisatie en naturalisatiegelden 1998 vervalt.
 
 Den Haag 13 maart 2003
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-H.P.A.Nawijn
+De Minister voor Vreemdelingenzaken en Integratie,\
+H.P.A. Nawijn

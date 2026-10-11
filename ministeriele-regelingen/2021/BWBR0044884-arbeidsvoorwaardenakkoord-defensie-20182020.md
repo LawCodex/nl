@@ -183,8 +183,5 @@ Deze regeling treedt in werking op de dag na de datum van de Staatscourant waari
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Defensie,\
-Voor deze\
-De Hoofddirecteur Personeel\
-P.F.M. Reesink\
-Schout bij nacht
+De Staatssecretaris van Defensie, Voor deze De Hoofddirecteur Personeel\
+P.F.M. Reesink Schout bij nacht

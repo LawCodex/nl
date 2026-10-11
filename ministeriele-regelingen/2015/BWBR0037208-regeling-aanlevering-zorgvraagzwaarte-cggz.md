@@ -61,10 +61,8 @@ Deze regeling wordt aangehaald als: Regeling aanlevering zorgvraagzwaarte cGGZ.
 
 Deze regeling wordt met de bijhorende toelichting en de bijlage in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage
 

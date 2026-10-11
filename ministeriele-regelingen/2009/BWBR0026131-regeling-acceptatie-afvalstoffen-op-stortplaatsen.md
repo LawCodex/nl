@@ -506,10 +506,8 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 Den Haag 9 juli 2009
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer
 
 ## Bijlage
 

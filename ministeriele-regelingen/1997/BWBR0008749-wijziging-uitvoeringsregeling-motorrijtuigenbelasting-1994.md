@@ -56,7 +56,5 @@ Deze regeling treedt in werking met ingang van 1 juli 1997.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-W.Vermeend
+De Staatssecretaris van Financiën,\
+W. Vermeend

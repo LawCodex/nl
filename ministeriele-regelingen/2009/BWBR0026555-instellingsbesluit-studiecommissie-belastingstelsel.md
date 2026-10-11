@@ -61,12 +61,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

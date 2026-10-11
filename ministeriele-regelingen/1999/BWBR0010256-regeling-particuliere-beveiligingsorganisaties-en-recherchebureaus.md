@@ -558,10 +558,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 Den Haag 3 maart 1999
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals
 
 ## Bijlage 1 — Embleem uniform (art. 12 RPB)
 

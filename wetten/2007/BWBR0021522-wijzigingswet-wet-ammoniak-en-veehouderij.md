@@ -53,13 +53,13 @@ Gegeven te Lech 17 februari 2007
 
 Beatrix
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.MCramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M Cramer
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
 de *zevenentwintigste* maart 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

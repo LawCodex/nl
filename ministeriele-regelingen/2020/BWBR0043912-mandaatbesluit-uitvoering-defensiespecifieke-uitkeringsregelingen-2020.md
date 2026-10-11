@@ -103,8 +103,5 @@ Dit besluit treedt in werking op de dag na de datum van uitgifte van de Staatsco
 
 Dit besluit wordt gepubliceerd in de serie Ministeriële Publicaties van het Ministerie van Defensie en zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Defensie\
-voor deze,\
-De Hoofddirecteur Personeel,\
-P.F.M. Reesink\
-Schout-bij-nacht
+De Staatssecretaris van Defensie voor deze, De Hoofddirecteur Personeel,\
+P.F.M. Reesink Schout-bij-nacht

@@ -25,7 +25,7 @@ Gelet op artikel 1 van het Vacatiegeldenbesluit 1988;
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 1\. De voorzitter van de Adviescommissie Regeling groeifaciliteit ontvangt voor het bijwonen van een vergadering een vergoeding van € 391,00.
 
@@ -35,9 +35,5 @@ Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezo
 
 Den Haag 30 november 2006
 
-De\
-Staatssecretaris\
-Economische Zaken\
-namens deze:\
-Directeur-generaal van Ondernemen en Innovatie\
+De Staatssecretaris van Economische Zaken, namens deze:De Directeur-generaal van Ondernemen en Innovatie,\
 Chr. P. Buijink

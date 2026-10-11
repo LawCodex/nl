@@ -124,7 +124,5 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling Rijkswet administratieve
 
 Deze regeling zal met de toelichting worden geplaatst in de Staatscourant, de Curaçaosche Courant en het Afkondigingsblad van Aruba.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

@@ -188,10 +188,8 @@ Deze regeling wordt aangehaald als: Regeling vredesmissies politie.
 
 Deze regeling zal met toelichting worden geplaatst in de Staatscourant.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-R.H.Hessing
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H. Hessing
 
 ## Bijlage — bij de Regeling vredesmissies politie
 

@@ -59,7 +59,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 's-Gravenhage 16 november 2012
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten.
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten.

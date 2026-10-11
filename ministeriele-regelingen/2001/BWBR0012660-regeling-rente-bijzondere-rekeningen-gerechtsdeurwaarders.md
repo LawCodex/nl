@@ -70,7 +70,5 @@ Deze regeling wordt aangehaald als: Regeling rente bijzondere rekeningen gerecht
 
 's-Gravenhage 9 juli 2001
 
-De\
-Staatssecretaris\
-Justitie\
-N.A.Kalsbeek
+De Staatssecretaris van Justitie,\
+N.A. Kalsbeek

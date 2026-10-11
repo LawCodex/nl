@@ -33,12 +33,9 @@ Dit besluit treedt in werking met ingang van 1 november 1992. Zij wordt opgenome
 
 Apeldoorn 22 september 1992
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
 Voor deze,
 
-De\
-hoofddirecteur van het Kadaster en de Openbare Registers\
-J. W. J.Besemer
+De hoofddirecteur van het Kadaster en de Openbare Registers,\
+J. W. J. Besemer

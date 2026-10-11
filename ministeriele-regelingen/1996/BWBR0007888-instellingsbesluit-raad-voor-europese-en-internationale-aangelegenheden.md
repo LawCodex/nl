@@ -110,6 +110,5 @@ Dit besluit zal met de toelichting in de Nederlandse Staatscourant worden geplaa
 
 ’s-Gravenhage 2 februari 1996
 
-De\
-Minister-President,\
+De Minister-President,\
 W. Kok

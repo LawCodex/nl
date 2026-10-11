@@ -69,7 +69,5 @@ Dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift w
 
 's-Gravenhage 27 januari 1992
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 E. M. H. Hirsch Ballin

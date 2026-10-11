@@ -96,7 +96,5 @@ De Commissie regelt haar werkzaamheden naar eigen inzicht.
 
 Deze beschikking zal bekend worden gemaakt in de Staatscourant.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

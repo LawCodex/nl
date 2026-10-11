@@ -39,12 +39,8 @@ Raadpleging van de in het vorige artikel genoemde bescheiden is mogelijk nadat d
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd.
 
-De\
-Minister\
-Financiën\
-namens deze:\
-plv. Secretaris-generaal\
-A.S.M.Koeleman
+De Minister van Financiën, namens deze:de plv. Secretaris-generaal,\
+A.S.M. Koeleman
 
 ## Bijlage
 

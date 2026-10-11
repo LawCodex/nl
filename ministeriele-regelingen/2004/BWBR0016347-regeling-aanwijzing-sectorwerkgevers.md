@@ -55,7 +55,5 @@ Sectorwerkgever van het personeel dat werkzaam is in de sector voortgezet onderw
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J. W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J. W. Remkes

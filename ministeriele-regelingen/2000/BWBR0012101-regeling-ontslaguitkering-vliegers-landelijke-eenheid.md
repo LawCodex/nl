@@ -175,7 +175,5 @@ Deze regeling wordt aangehaald als: Regeling ontslaguitkering vliegers Landelijk
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-K.G. deVries
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.G. de Vries

@@ -57,6 +57,5 @@ Deze regeling treedt in werking met ingang van de dag na de datum van bekendmaki
 
 Rijswijk 13 oktober 1986
 
-De\
-minister\
-L. C.Brinkman
+De minister voornoemd,\
+L. C. Brinkman

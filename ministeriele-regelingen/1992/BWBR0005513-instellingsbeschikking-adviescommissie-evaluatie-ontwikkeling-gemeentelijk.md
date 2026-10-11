@@ -65,7 +65,5 @@ Dit besluit en de bijbehorende toelichting zullen worden bekendgemaakt in de Ned
 
 Den Haag 15 mei 1992
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. G. M.Alders
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. G. M. Alders

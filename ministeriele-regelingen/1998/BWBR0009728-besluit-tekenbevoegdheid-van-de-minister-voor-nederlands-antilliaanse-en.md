@@ -106,7 +106,5 @@ Een afschrift van dit besluit zal worden gezonden aan:
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Nederlands-Antilliaanse en Arubaanse Zaken\
-J.J.C.Voorhoeve
+De Minister voor Nederlands-Antilliaanse en Arubaanse Zaken,\
+J.J.C. Voorhoeve

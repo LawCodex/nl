@@ -43,10 +43,8 @@ Deze regeling wordt aangehaald als: Regeling personeel veiligheidsregio’s.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-A.Th.B.Bijleveld-Schouten
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+A.Th.B. Bijleveld-Schouten
 
 ## Bijlage A — behorende bij artikel 1 lid 1 Regeling personeel veiligheidsregio’s
 

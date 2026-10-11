@@ -130,7 +130,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt aangehaald als: Besluit instelling Stuurgroep 'Handhaven op niveau'.
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals

@@ -64,7 +64,5 @@ Dit besluit zal in de Staatscourant worden geplaatst. Het handboek wordt ter inz
 
 ’s Gravenhage 25 oktober 2013
 
-De\
-Minister\
-Defensie\
-J.A.Hennis-Plasschaert
+De Minister van Defensie\
+J.A. Hennis-Plasschaert

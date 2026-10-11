@@ -39,7 +39,5 @@ Deze Regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

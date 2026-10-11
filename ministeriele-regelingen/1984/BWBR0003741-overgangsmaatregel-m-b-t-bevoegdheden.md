@@ -33,12 +33,9 @@ De ontvangers der rijksbelastingen ter standplaats van de tijdelijke dependances
 
 Deze beschikking treedt in werking met ingang van 1 januari 1985.
 
-De\
-staatssecretaris\
-Financiën
+De staatssecretaris van Financiën,
 
 namens deze,
 
-De\
-plv. directeur-generaal der Belastingen\
-C.Boersma
+De plv. directeur-generaal der Belastingen,\
+C. Boersma

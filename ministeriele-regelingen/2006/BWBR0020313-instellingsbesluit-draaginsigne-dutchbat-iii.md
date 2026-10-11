@@ -66,10 +66,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 18 september 2006
 
-De\
-Minister\
-Defensie\
-H.G.J.Kamp
+De Minister van Defensie,\
+H.G.J. Kamp
 
 ## Bijlage — behorende bij artikel 1, tweede lid
 

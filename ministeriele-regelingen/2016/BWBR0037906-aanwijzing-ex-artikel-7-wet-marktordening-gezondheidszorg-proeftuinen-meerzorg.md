@@ -55,7 +55,5 @@ Indien de zorgautoriteit het niet langer verantwoord vindt het experiment onvera
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

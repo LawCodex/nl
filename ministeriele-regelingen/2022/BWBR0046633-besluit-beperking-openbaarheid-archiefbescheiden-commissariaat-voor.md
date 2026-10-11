@@ -6209,7 +6209,5 @@ Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd 
 
 Den Haag 19 april 2022
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-namens deze\
-de directeur Organisatie, Bedrijfsvoering en Personeel,\
+De Minister van Volksgezondheid, Welzijn en Sport namens deze de directeur Organisatie, Bedrijfsvoering en Personeel,\
 H. Tigchelaar-Wu

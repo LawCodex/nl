@@ -56,7 +56,5 @@ Dit besluit met de toelichting zal in de Staatscourant worden geplaatst.
 
 Den Haag 10 maart 2010
 
-De\
-Minister\
-Defensie,\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop

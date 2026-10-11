@@ -25,11 +25,9 @@ Na op 11 oktober 2013 schriftelijk mededeling te hebben gedaan aan de Eerste en 
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het bedrag genoemd in artikel 3, onder a, van de Aanwijzing contracteerruimte AWBZ 2013 wordt verlaagd met € 38 miljoen tot € 660 miljoen.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

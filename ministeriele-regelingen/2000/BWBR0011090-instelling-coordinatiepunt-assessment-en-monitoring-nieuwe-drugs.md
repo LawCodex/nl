@@ -52,7 +52,5 @@ Deze regeling, waarvan afschrift wordt verzonden aan de Algemene Rekenkamer, tre
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers

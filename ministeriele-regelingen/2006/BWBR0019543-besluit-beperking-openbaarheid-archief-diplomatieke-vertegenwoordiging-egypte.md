@@ -58,10 +58,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van het consulaat/consulaat-generaal/diplomatiek agentschap Caïro 1850–1949, het gezantschap te Egypte (Caïro) (1881) 1921–1954 (1961) en het consulaat te Alexandrië 1895–1954’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

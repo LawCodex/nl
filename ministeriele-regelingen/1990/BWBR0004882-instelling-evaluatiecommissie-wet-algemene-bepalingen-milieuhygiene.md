@@ -70,7 +70,5 @@ Deze beschikking en de bijbehorende toelichting zullen worden bekendgemaakt in d
 
 's-Gravenhage 15 oktober 1990
 
-De\
-Minister\
-Volksgezondheid, Ruimtelijke Ordening en Milieubeheer\
-J. G. M.Alders
+De Minister van Volksgezondheid, Ruimtelijke Ordening en Milieubeheer,\
+J. G. M. Alders

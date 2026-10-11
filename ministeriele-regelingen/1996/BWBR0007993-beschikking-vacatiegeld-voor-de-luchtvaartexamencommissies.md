@@ -74,9 +74,5 @@ Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.
 
 Tegen deze beschikking kunnen belanghebbenden op grond van de Algemene wet bestuursrecht een bezwaarschrift indienen bij de directeur-generaal van de rijksluchtvaartdienst, stafafdeling juridische en bestuurlijke zaken, postbus 90771, 2509 LT Den Haag, binnen zes weken na de dag waarop deze beschikking is gepubliceerd.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-directeur-generaal\
-rijksluchtvaartdienst\
+De Minister van Verkeer en Waterstaat, namens deze, de directeur-generaal van de rijksluchtvaartdienst\
 J.W. Weck

@@ -66,10 +66,8 @@ Dit besluit wordt aangehaald als: Besluit Ereteken voor Verdienste van het Minis
 
 Dit besluit zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken,\
-U.Rosenthal
+De Minister van Buitenlandse Zaken,\
+U. Rosenthal
 
 ## Bijlage 1
 

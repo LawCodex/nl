@@ -33,7 +33,5 @@ Dit besluit treedt in werking één dag na de datum van publicatie van dit beslu
 
 Den Haag 14 november 2019
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-namens deze,\
-de algemene rijksarchivaris\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, namens deze, de algemene rijksarchivaris\
 M.L. Engelhard

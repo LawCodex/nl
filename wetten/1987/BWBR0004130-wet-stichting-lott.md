@@ -27,7 +27,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de Staat tot med
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## artikel Enig
+## Enig artikel
 
 Onze Minister van Welzijn, Volksgezondheid en Cultuur wordt gemachtigd overeenkomstig de bepalingen van de bij deze wet gevoegde concept-statuten mede op te richten de Stichting Landelijke Organisatie Trauma Teams, met dien verstande dat in de statuten wordt vastgelegd dat een besluit tot wijziging van de statuten of tot ontbinding van de stichting, genomen door het daartoe bevoegde orgaan, niet in werking treedt dan nadat het door Onze Minister van Welzijn, Volksgezondheid en Cultuur is goedgekeurd.
 

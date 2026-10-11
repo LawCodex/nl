@@ -37,7 +37,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.P.H.Donner
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.P.H. Donner

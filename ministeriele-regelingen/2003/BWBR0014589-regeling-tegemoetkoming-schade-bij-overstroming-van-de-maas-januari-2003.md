@@ -172,9 +172,7 @@ Deze regeling wordt aangehaald als: Regeling tegemoetkoming schade bij overstrom
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
 R.H. Hessing
 
 ## Bijlage — behorend bij artikel 2, tweede lid, van de Regeling tegemoetkoming schade bij overstroming van de Maas januari 2003

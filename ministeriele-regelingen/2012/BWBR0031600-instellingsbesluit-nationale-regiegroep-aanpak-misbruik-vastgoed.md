@@ -86,12 +86,8 @@ Dit besluit wordt geplaatst in de Staatscourant.
 
 Den Haag 25 april 2012
 
-De\
-minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De minister van Veiligheid en Justitie,\
+I.W. Opstelten
 
-De\
-staatssecretaris\
-Financiën,\
-F.G.H.Weekers
+De staatssecretaris van Financiën,\
+F.G.H. Weekers

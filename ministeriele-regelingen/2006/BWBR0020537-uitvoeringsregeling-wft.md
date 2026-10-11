@@ -282,10 +282,8 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling Wft.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
 ## Bijlage A — behorend bij artikel 16
 

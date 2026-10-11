@@ -41,9 +41,5 @@ Deze regeling met toelichting zal in de Staatscourant worden geplaatst.
 
 Den Haag 19 februari 2009
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-namens deze:\
-Directeur-Generaal Participatie en Inkomenswaarborg\
-J.A.M.Hilgersom
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze:de Directeur-Generaal Participatie en Inkomenswaarborg,\
+J.A.M. Hilgersom

@@ -104,7 +104,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Arnhem 3 juni 2013
 
-De Hoofdingenieur-Directeur\
-J.L.Cuperus
+De Hoofdingenieur-Directeur,\
+J.L. Cuperus
 
 [^n1]: 2 Stcrt. 2008, nr. 172.

@@ -93,10 +93,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 23 april 2013
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
 ## Bijlage — Beleidskader 2013, 2014, 2015 ten behoeve van projecten integrale aanpak Caribisch Nederland
 

@@ -58,7 +58,5 @@ Deze beschikking zal met de daarbij behorende toelichting in de Staatscourant wo
 
 's-Gravenhage 6 mei 1993
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 J. R. H. Maij-Weggen

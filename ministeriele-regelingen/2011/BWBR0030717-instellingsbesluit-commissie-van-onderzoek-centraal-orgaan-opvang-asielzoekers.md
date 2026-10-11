@@ -89,7 +89,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 25 november 2011
 
-De\
-minister\
-Immigratie en Asiel,\
-G.B.M.Leers
+De minister voor Immigratie en Asiel,\
+G.B.M. Leers

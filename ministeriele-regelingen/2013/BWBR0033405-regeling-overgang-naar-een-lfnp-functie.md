@@ -77,10 +77,8 @@ Deze regeling wordt aangehaald als: Regeling overgang naar een LFNP functie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en de bijlage zal ter inzage worden gelegd bij het Ministerie van Veiligheid en Justitie.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten
 
 ## Bijlage
 

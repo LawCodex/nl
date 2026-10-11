@@ -134,7 +134,5 @@ Indien de monitor daartoe volgens mij aanleiding geeft, zal ik de zorgautoriteit
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.L.L.E.Veldhuijzen van Zanten-Hyllner
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.L.L.E. Veldhuijzen van Zanten-Hyllner

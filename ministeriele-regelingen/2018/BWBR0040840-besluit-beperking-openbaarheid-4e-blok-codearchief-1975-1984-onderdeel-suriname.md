@@ -149,8 +149,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het Nederlandse beleid ten aanzien van Suriname’ (besluit beperking openbaarheid 4<sup>e</sup> blok Codearchief, onderdeel Suriname).
 
-De Minister van Buitenlandse Zaken,\
-Voor deze,\
-N. van Heezik\
-Hoofd Informatie en Archief\
-Directie Bedrijfsvoering
+De Minister van Buitenlandse Zaken, Voor deze,\
+N. van Heezik Hoofd Informatie en Archief Directie Bedrijfsvoering

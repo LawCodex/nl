@@ -96,12 +96,9 @@ De Adviesraad regelt haar werkzaamheden naar eigen inzicht.
 
 De beschikking zal bekend worden gemaakt in het Belgisch Staatsblad en in de Staatscourant, Nederland en in afschrift worden gezonden aan belanghebbenden.
 
-De\
-Minister van Mobiliteit, Openbare Werken en Energie, Vlaanderen\
+De Minister van Mobiliteit, Openbare Werken en Energie, Vlaanderen,\
 S. Stevaert
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat
+De Staatssecretaris van Verkeer en Waterstaat , Nederland,
 
 M.H. Schultz van Haegen

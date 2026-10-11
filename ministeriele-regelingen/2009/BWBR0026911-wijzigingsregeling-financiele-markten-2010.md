@@ -55,7 +55,5 @@ Deze regeling wordt aangehaald als: Wijzigingsregeling financiële markten 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos

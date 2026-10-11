@@ -71,10 +71,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 6 oktober 2010
 
-De\
-Minister\
-Defensie,\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop
 
 ## Bijlage
 

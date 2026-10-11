@@ -44,12 +44,9 @@ Deze regeling treedt in werking met ingang van 1 januari 1993.
 
 Deze regeling wordt in de Staatscourant geplaatst.
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 Namens deze,
 
-De\
-Directeur Binnenlands Geldwezen\
-L. C. F. A. J. S. deLeur
+De Directeur Binnenlands Geldwezen,\
+L. C. F. A. J. S. de Leur

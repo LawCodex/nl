@@ -35,12 +35,9 @@ Dit besluit zal worden geplaatst in de Nederlandse Staatscourant en treedt in we
 
 's-Gravenhage 20 mei 1986
 
-De\
-minister\
-Justitie
+De minister van Justitie,
 
 Namens de minister,
 
-De\
-secretaris-generaal\
+De secretaris-generaal,\
 L. Oranje

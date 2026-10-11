@@ -192,7 +192,5 @@ Dit besluit wordt aangehaald als: Besluit mandatering Stichting Waarborgfonds So
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok

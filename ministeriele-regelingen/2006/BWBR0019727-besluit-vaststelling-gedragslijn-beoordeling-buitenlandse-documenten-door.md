@@ -83,14 +83,10 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt met de daarbij behorende toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken
+De Minister van Buitenlandse Zaken,
 
 namens deze:
 
-de\
-Directeur-Generaal\
-Regiobeleid en Consulaire Zaken
+de Directeur-GeneraalRegiobeleid en Consulaire Zaken,
 
 R.V.M. Jones-Bos

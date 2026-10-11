@@ -53,7 +53,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling kan worden aangehaald als Uitvoeringsregeling motorrijtuigenbelasting in verband met verruiming van het begrip personenauto.
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën,\
 M.J.J. van Amelsvoort

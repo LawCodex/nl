@@ -91,7 +91,5 @@ De algemene aanwijzingen bij ziekte van burgerpersoneel, DBP/BO, nummer PB 90/15
 
 Deze regeling treedt in werking met ingang van de datum waarop de wijziging van artikel 74 BARD, houdende het scheppen van een basis voor deze regeling, in werking treedt en kan worden aangehaald als 'Regeling ziek- en hersteldmelding defensiepersoneel'.
 
-De\
-Staatssecretaris\
-Defensie\
+De Staatssecretaris van Defensie,\
 C. van der Knaap

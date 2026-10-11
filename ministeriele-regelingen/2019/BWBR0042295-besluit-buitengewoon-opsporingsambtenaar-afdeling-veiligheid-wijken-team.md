@@ -81,7 +81,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 6 juni 2019
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-C. Huizinga\
-Operationeel manager V&T
+De Minister voor Rechtsbescherming, namens deze,\
+C. Huizinga Operationeel manager V&T

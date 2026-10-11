@@ -127,10 +127,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 2 december 2009
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven
 
 ## Bijlage 1 — Aanvraag Vaststelling subsidie
 

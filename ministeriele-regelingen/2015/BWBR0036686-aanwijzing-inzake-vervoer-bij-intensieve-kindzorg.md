@@ -29,13 +29,11 @@ Na op 30 juni 2014 schriftelijk mededeling te hebben gedaan aan de Eerste en Twe
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit stelt met terugwerkende kracht per 1 januari 2015 maximumtarieven vast voor ziekenvervoer van kinderen anders dan via een ambulance in het kader van intensieve kindzorg.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

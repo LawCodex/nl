@@ -51,10 +51,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Onderwijs, Cultuur en Wetenschap\
-M. J. A. van derHoeven
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. J. A. van der Hoeven
 
 de *drieëntwintigste* januari 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

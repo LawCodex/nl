@@ -43,9 +43,5 @@ Dit besluit treedt in werking één dag na de datum van publicatie van dit beslu
 
 Den Haag 4 mei 2017
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-Namens deze;\
-De algemene rijksarchivaris,\
-M.L.Engelhard
+De Minister van Onderwijs, Cultuur en Wetenschap,Namens deze;De algemene rijksarchivaris,\
+M.L. Engelhard

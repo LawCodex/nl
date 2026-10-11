@@ -35,7 +35,5 @@ Dit besluit wordt bekend gemaakt in de Staatscourant en treedt in werking met in
 
 's-Gravenhage 19 januari 1993
 
-De\
-Minister\
-Economische Zaken\
+De Minister van Economische Zaken,\
 J. C. Andriessen

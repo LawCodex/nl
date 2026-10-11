@@ -102,10 +102,8 @@ Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onde
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-J.M. vanBijsterveldt-Vliegenthart
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart
 
 ## Bijlage 1 — behorende bij artikel 1 van de Regeling examenprogramma’s voortgezet onderwijs
 

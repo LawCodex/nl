@@ -574,14 +574,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
+DeStaatssecretarisvan Sociale Zaken en Werkgelegenheid,\
 M. Rutte
 
 de veertiende oktober 2003
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 J. P. H. Donner

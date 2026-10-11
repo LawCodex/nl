@@ -67,10 +67,8 @@ Deze regeling wordt aangehaald als: Regeling vervoer over land van gevaarlijke s
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
 ## Bijlage 1 — als bedoeld in de artikelen 2, onderdeel a, en 3 van de Regeling vervoer over land van gevaarlijke stoffen
 

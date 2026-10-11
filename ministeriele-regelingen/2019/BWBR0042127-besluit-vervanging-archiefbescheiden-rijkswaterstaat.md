@@ -65,7 +65,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst
 
 Den Haag 5 maart 2019
 
-De MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,\
-Namens deze,\
-De Directeur-generaal Rijkswaterstaat,\
+De MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT, Namens deze, De Directeur-generaal Rijkswaterstaat,\
 M.C.A. Blom

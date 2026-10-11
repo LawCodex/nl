@@ -791,7 +791,7 @@ Het bestuur van de rechtbank Noord-Holland vormt voor het behandelen en beslisse
 
 Vervallen
 
-### afdeling Vierde — De gerechtshoven
+### Vierde afdeling — De gerechtshoven
 
 #### Paragraaf 1 — Algemene bepalingen
 

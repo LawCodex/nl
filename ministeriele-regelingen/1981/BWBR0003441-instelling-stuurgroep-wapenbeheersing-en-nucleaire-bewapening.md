@@ -27,12 +27,8 @@ Besluiten:
 
 's-Gravenhage 30 september 1981
 
-De\
-Minister\
-Buitenlandse Zaken\
-M. van der Stoel.\
-Minister\
-Defensie\
+De Minister van Buitenlandse Zaken,\
+M. van der Stoel. De Minister van Defensie,\
 H. A. F. M. O. van Mierlo
 
 ## Bijlage

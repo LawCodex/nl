@@ -33,12 +33,9 @@ Zijn beschikking van 17 september 1959, nr. PZ/P 6463, Rijksluchtvaartdienst, wo
 
 's-Gravenhage 1 december 1960
 
-De\
-minister
+De minister voornoemd,
 
 Voor de minister:
 
-De\
-secretaris-generaal\
-L. Verloop\
-l.-s.-g
+De secretaris-generaal,\
+L. Verloop, l.-s.-g

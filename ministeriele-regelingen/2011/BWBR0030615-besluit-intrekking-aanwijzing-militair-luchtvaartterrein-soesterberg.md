@@ -66,7 +66,5 @@ Een exemplaar van dit besluit wordt gezonden aan de staatssecretaris van Infrast
 
 Den Haag 28 oktober 2011
 
-De\
-minister\
-Defensie\
-J.S.J.Hillen
+De minister van Defensie,\
+J.S.J. Hillen

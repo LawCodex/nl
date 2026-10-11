@@ -136,17 +136,11 @@ Dit besluit wordt aangehaald als: Besluit gebruik van het regeringsvliegtuig en 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister-President, Minister\
-Algemene Zaken,\
-J.P.Balkenende
+De Minister-President, Minister van Algemene Zaken,\
+J.P. Balkenende
 
-De\
-Minister\
-Verkeer en Waterstaat,\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
-De\
-Minister\
-Defensie,\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop

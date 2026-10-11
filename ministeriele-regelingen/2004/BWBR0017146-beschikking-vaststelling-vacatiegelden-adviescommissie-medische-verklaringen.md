@@ -55,7 +55,5 @@ Deze beschikking treedt in werking met ingang van de tweede dag na de dagtekenin
 
 Deze beschikking wordt aangehaald als: Beschikking vaststelling vacatiegelden adviescommissie medische verklaringen voor de luchtvaart 2004.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-M.H.Schultz van Haegen
+De Staatssecretaris van Verkeer en Waterstaat,\
+M.H. Schultz van Haegen

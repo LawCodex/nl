@@ -102,7 +102,5 @@ Ter uitvoering van artikel 1 is van Belarussische zijde de volgende regeling get
 
 4\. Deze regeling vindt toepassing met betrekking tot voordelen uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer, dividenden, interest, royalty’s, licentierechten en overige inkomsten die zijn betaald of worden betaald op of na 1 januari 1998.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

@@ -33,7 +33,5 @@ Het door de provincies te heffen aantal opcenten voor de periode 1 april 1993 to
 
 2\. Deze regeling kan worden aangehaald als: Regeling tot vaststelling van het maximum aantal provinciale opcenten motorrijtuigenbelasting 1993.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

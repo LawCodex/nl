@@ -58,9 +58,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage, met uitzondering van de appendices bij die bijlage, in de Staatscourant worden geplaatst. De appendices bij de bijlage worden via internet bekend gemaakt.[^n4]
 
-De Minister van Buitenlandse Zaken,\
-namens deze,\
-de plaatsvervangend Directeur-Generaal Politieke Zaken,\
+De Minister van Buitenlandse Zaken, namens deze, de plaatsvervangend Directeur-Generaal Politieke Zaken,\
 M. de Vink
 
 ## Subsidiebeleidskader ‘Safety for Voices’

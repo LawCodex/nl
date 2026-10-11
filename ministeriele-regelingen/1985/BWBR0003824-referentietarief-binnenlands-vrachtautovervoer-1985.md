@@ -53,6 +53,5 @@ Deze regeling kan worden aangehaald als Referentietarief Binnenlands Vrachtautov
 
 's-Gravenhage 15 juli 1985
 
-De\
-staatssecretaris\
-J. F.Scherpenhuizen
+De staatssecretaris voornoemd,\
+J. F. Scherpenhuizen

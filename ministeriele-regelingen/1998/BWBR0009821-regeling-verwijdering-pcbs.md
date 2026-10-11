@@ -133,10 +133,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 \`s-Gravenhage 30 juli 1998
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-M. deBoer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+M. de Boer
 
 ## Bijlage I — Etikettering van gereinigde PCB's-bevattende apparaten
 

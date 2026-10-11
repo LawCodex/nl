@@ -33,7 +33,5 @@ Besluit:
 
 ’s-Gravenhage 13 april 1995
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-M.de Boer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+M. de Boer

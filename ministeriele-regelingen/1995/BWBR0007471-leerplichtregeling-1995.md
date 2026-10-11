@@ -112,7 +112,5 @@ Deze regeling treedt in werking met ingang van 1 augustus 1995.
 
 De regeling wordt aangehaald als: Leerplichtregeling 1995.
 
-De\
-staatssecretaris\
-onderwijs, cultuur en wetenschappen\
+De staatssecretaris van onderwijs, cultuur en wetenschappen,\
 T. Netelenbos

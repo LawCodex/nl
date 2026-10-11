@@ -57,10 +57,8 @@ Deze regeling wordt aangehaald als: Regeling leerresultaten VO 2016.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker
 
 ## Bijlage A — Berekening en correctie indicatoren; normering resultaten
 

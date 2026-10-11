@@ -43,7 +43,5 @@ Dit besluit wordt aangehaald als: Besluit vergoedingen arrestantenzorg politie.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

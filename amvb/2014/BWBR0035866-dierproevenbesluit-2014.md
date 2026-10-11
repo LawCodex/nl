@@ -169,10 +169,10 @@ Wassenaar 26 november 2014
 
 Willem-Alexander
 
-De Staatssecretaris van Economische Zaken\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken ,\
+S.A.M. Dijksma
 
 de *vijfde* december 2014
 
-De Minister van Veiligheid en Justitie\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

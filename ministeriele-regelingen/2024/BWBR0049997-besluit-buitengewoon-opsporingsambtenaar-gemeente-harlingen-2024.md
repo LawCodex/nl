@@ -100,7 +100,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 Den Haag 8 juli 2024
 
 De Staatssecretaris van Justitie en Veiligheid,\
-T.H.D. Struycken\
-namens deze,\
-A. Žubrinić\
-Operationeel manager afdeling V&T
+T.H.D. Struycken namens deze,\
+A. Žubrinić Operationeel manager afdeling V&T

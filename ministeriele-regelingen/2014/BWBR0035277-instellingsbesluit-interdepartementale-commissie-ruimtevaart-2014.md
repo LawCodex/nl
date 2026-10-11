@@ -100,7 +100,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 24 juni 2014
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp

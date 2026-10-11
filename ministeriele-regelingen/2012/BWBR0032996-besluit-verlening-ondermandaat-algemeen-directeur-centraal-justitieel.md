@@ -51,9 +51,5 @@ Voor de in dit besluit gemandateerde bevoegdheden kan dit mandaat worden doorgem
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-namens deze:\
-de directeur-generaal Dienst Uitvoering Onderwijs,\
-R.J.A.Kerstens
+De Minister van Onderwijs, Cultuur en Wetenschap,namens deze:de directeur-generaal Dienst Uitvoering Onderwijs,\
+R.J.A. Kerstens

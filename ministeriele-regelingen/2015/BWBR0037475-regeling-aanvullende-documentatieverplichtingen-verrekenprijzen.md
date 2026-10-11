@@ -68,10 +68,8 @@ Deze regeling kan worden aangehaald als: Regeling aanvullende documentatieverpli
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën,\
-E.D.Wiebes
+De Staatssecretaris van Financiën,\
+E.D. Wiebes
 
 ## Bijlage A — Model landenrapport
 

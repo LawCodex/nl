@@ -56,7 +56,5 @@ Dit besluit treedt in werking met ingang van datum van plaatsing in de Staatscou
 
 Dit besluit wordt aangehaald als Besluit ondermandaat ILT-ambtenaren VWS-regelgeving covid-19.
 
-De Minister van Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-De inspecteur-Generaal Leefomgeving en Transport,\
+De Minister van Volksgezondheid, Welzijn en Sport, namens deze, De inspecteur-Generaal Leefomgeving en Transport,\
 J.A. van den Bos

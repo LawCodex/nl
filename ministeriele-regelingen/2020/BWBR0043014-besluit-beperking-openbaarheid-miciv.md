@@ -37,6 +37,5 @@ Met het oog op het belang van de Staat of zijn bondgenoten (artikel 15, lid 1, s
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archiefbescheiden van de ministerraad jaargang 1993’.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 M. Rutte

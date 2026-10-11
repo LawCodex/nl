@@ -81,7 +81,5 @@ Deze regeling wordt aangehaald als: Besluit tot een Eremedaille voor verdienste 
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

@@ -25,7 +25,7 @@ Gelet op artikel 2 van het besluit van de Staatssecretaris van Economische Zaken
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 1\. Voor het jaar 2017 wordt de arbeidsduurfactor voor de vergoeding voor de voorzitter van de adviescommissie EFMZV vastgesteld op 0,053.
 
@@ -33,7 +33,5 @@ Besluit:
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze,\
-M. Sonnema\
-Directeur-generaal van Agro en Natuur
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze,\
+M. Sonnema Directeur-generaal van Agro en Natuur

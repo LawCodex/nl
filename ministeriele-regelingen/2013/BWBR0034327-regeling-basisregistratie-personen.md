@@ -333,10 +333,8 @@ Deze regeling wordt aangehaald als: Regeling basisregistratie personen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 4 en 5, die ter inzage worden gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, 2511 DP Den Haag.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
 ## Bijlage 1 — Logisch Ontwerp BRP, versie 2026.Q3
 

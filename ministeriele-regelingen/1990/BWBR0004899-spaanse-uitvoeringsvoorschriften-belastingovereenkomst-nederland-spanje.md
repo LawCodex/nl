@@ -116,7 +116,5 @@ De beschikking van de staatssecretaris van Financiën van 24 maar 1975, nr. B75/
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, onderdeel c, toepassing met betrekking tot dividenden, interest en royalty's die betaald zijn op of na 20 oktober 1972.
 
-De\
-Staatssecretaris\
-Financiën\
-M.J.J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M.J.J. van Amelsvoort

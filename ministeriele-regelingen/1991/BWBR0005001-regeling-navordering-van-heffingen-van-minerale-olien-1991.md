@@ -33,12 +33,9 @@ De navordering van de ingevolge de Wet algemene bepalingen milieuhygiëne (Stb. 
 
 2\. Deze regeling kan worden aangehaald als Regeling navordering van heffingen van minerale oliën 1991.
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Namens deze,
 
-De\
-plv. Directeur-Generaal voor Fiscale Zaken,\
+De plv. Directeur-Generaal voor Fiscale Zaken,\
 D. E. Witteveen

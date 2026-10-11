@@ -85,7 +85,5 @@ Deze beschikking zal worden bekendgemaakt in de Nederlandse Staatscourant en in 
 
 's-Gravenhage 10 maart 1989
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E. H. T. M.Nijpels
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. H. T. M. Nijpels

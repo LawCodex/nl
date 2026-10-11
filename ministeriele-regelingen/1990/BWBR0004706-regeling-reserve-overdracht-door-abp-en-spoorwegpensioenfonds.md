@@ -167,7 +167,5 @@ Van deze regeling wordt een afschrift gezonden aan de Algemene Rekenkamer, aan h
 
 's-Gravenhage 30 januari 1990
 
-De\
-minister\
-Binnenlandse Zaken\
-C. I.Dales
+De minister van Binnenlandse Zaken,\
+C. I. Dales

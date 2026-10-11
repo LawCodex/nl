@@ -71,10 +71,8 @@ Rijnstraat 50
 
 2500 BJ Den Haag
 
-De\
-Staatssecretaris\
-Economische Zaken\
-F.Heemskerk
+De Staatssecretaris van Economische Zaken,\
+F. Heemskerk
 
 ## Bijlage behorende bij het besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf
 

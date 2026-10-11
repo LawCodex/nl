@@ -301,7 +301,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 5 juni 2014
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp

@@ -79,10 +79,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 12 oktober 1994
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-M. deBoer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+M. de Boer
 
 ## Bijlage — (Behoort bij artikel 3, eerste lid, van de Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik)
 

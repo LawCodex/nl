@@ -51,7 +51,5 @@ Dit besluit zal worden geplaatst in de Staatscourant en in de reeks ministeriël
 
 Den Haag 14 april 2009
 
-De\
-Minister\
-Defensie\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop

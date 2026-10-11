@@ -41,9 +41,5 @@ Dit besluit wordt aangehaald als: Besluit vergoedingen voorzitter en leden van d
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De\
-Minister\
-Economische Zaken,\
-namens deze:\
-M.E.P.Dierikx\
-directeur-generaal Energie, Telecom en Mededinging
+De Minister van Economische Zaken,namens deze:\
+M.E.P. Dierikxdirecteur-generaal Energie, Telecom en Mededinging

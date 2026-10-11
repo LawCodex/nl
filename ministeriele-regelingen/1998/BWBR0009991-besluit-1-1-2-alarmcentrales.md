@@ -43,12 +43,8 @@ Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politie
 
 ’s-Gravenhage 10 november 1998
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-A.Peper
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+A. Peper
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G.M. deVries
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+G.M. de Vries

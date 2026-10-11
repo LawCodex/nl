@@ -75,7 +75,5 @@ Deze regeling wordt aangehaald als: Regeling eisen theorie-examen rijbewijscateg
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat\
+K.M.H. Peijs

@@ -86,17 +86,11 @@ De regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 28 juni 2006
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes
 
-De\
-Minister\
-Defensie\
-H.G.J.Kamp
+De Minister van Defensie,\
+H.G.J. Kamp

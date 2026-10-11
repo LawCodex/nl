@@ -45,9 +45,5 @@ Dit besluit wordt aangehaald als: Wijzigingsbesluit bij het Mandaatbesluit diens
 
 Den Haag 18 augustus 2005
 
-De\
-Minister\
-Justitie\
-namens deze:\
-College van procureurs-generaal\
-H.N.Brouwer
+De Minister van Justitie, namens deze:het College van procureurs-generaal,\
+H.N. Brouwer

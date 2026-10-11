@@ -66,7 +66,5 @@ Opdrachtnemer is bevoegd tot het verlenen van ondermandaat en het doorverlenen v
 
 Dit besluit treedt in werking met ingang van 1 april 2016.
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok

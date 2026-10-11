@@ -203,10 +203,8 @@ Deze regeling wordt aangehaald als: Regeling publieke gezondheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 ## Bijlage 1 — ex artikel 8 van de Regeling publieke gezondheid
 
@@ -1529,6 +1527,6 @@ De eisen die verband houden met de uitvoering van Resolutie WHA71.16 van de Were
 
 [^n8]: 8 Het Ballastwatervedrag is nog niet werking getreden. Hierdoor is het momenteel nog niet mogelijk om dit formulier te tonen.
 
-[^n9]: 9 De nationale wet- en regelgeving op het gebied van afval zijn:
+[^n9]: 9 De nationale wet- en regelgeving op het gebied van afval zijn: Besluit voorkoming verontreiniging schepen http://www.milieuom.nl/beslinwerkringtreding.pdf Marpol 73/78: http://www.imo.org/Conventions/contents.asp?doc\_id=678&topic\_id=258 Wet Milieubeheer (Landelijk Afvalbeheer Plan (LAP) http://wetten.overheid.nl/cgi-bin/deeplink/law1/title=WET%20MILIEUBEHEER WIP richtlijnen Infectieus afval http://www.wip.nl
 
 [^n10]: 10 Safe Recreational Water Environments, Vol 2 Swimming pools, Spas and similar Recreational Water Environments WHO 2004 http://www.who.int/water\_sanitation\_health/bathing/bathing2/en/

@@ -31,7 +31,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 19 oktober 2017
 
-De Minister van Veiligheid en Justitie,\
-namens deze,\
-A.L.C. Roelofs\
-plaatsvervangend Hoofddirecteur Dienst Justitiële Inrichtingen
+De Minister van Veiligheid en Justitie, namens deze,\
+A.L.C. Roelofs plaatsvervangend Hoofddirecteur Dienst Justitiële Inrichtingen

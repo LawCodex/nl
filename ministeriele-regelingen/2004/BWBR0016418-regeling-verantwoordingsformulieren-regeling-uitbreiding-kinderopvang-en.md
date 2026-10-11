@@ -45,9 +45,7 @@ Deze regeling wordt met de toelichting en de bijlagen 1, 1a, 1b, 2 en 3 in de St
 
 Den Haag 20 februari 2004
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
+De Minister van Sociale Zaken en Werkgelegenheid\
 A.J. de Geus
 
 ## Bijlage 1 — behorende bij artikel 1

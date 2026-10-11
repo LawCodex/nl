@@ -65,7 +65,5 @@ Afschrift van dit besluit zal worden gezonden aan:
 
 Dit besluit zal worden geplaatst in de Staatscourant.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat\
+K.M.H. Peijs

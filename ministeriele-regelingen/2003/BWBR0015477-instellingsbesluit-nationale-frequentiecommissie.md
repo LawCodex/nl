@@ -110,7 +110,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 augustus 2003
 
-De\
-Minister\
-Economische Zaken\
-L.J.Brinkhorst
+De Minister van Economische Zaken\
+L.J. Brinkhorst

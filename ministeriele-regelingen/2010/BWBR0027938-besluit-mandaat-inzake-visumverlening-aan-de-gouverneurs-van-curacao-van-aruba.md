@@ -45,7 +45,5 @@ Dit besluit treedt in werking met ingang van 10 oktober 2010.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken,\
-M.J.M.Verhagen.
+De Minister van Buitenlandse Zaken,\
+M.J.M. Verhagen.

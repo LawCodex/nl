@@ -55,7 +55,5 @@ Deze regeling treedt inwerking met ingang van 1 juli 2016.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S. A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S. A. Blok

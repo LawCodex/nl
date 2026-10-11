@@ -41,7 +41,5 @@ Deze regeling wordt aangehaald als: Regeling toezicht uitvoeringsverordening ver
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-S.A.M.Dijksma
+De Staatssecretaris van Infrastructuur en Milieu,\
+S.A.M. Dijksma

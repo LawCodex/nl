@@ -79,7 +79,5 @@ Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën,\
-E.D.Wiebes
+De Staatssecretaris van Financiën,\
+E.D. Wiebes

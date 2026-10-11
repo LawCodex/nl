@@ -49,10 +49,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Staatssecretaris van Economische Zaken\
-F.Heemskerk
+De Staatssecretaris van Economische Zaken,\
+F. Heemskerk
 
 de *vijfde* juni 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

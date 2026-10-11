@@ -110,9 +110,5 @@ Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van 
 
 Den Haag 3 mei 2011
 
-De\
-Minister\
-Defensie,\
-voor deze:\
-Secretaris-generaal,\
-A.H.C.Annink
+De Minister van Defensie,voor deze:Secretaris-generaal,\
+A.H.C. Annink

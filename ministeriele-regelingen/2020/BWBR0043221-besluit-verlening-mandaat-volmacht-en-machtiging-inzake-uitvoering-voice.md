@@ -58,9 +58,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van de Staatscou
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-Namens deze:\
-De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, Namens deze: De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 J. Brandt
 
 [^n1]: 1 Stcrt. 2016, nr. 48323 laatstelijk gewijzigd bij Besluit van de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking van 20 november 2019, nr. Min-BuZa.2019.4583-13, tot wijziging van het besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 september 2016, nr. MinBuZa-2016.56930, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Voice 2016–2024 Fonds), (Stcrt. 2019, nr. 64845)

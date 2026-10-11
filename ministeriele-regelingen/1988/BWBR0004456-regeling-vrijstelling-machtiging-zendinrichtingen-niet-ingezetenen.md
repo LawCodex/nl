@@ -126,6 +126,5 @@ Regeling vrijstelling machtiging zendinrichtingen niet-ingezetenen.
 
 's-Gravenhage 19 december 1988
 
-De\
-minister\
-N.Smit-Kroes
+De minister voornoemd,\
+N. Smit-Kroes

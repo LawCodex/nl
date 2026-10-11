@@ -64,7 +64,5 @@ Dit besluit treedt in werking met ingang van de datum van uitgifte van de Staats
 
 ’s-Gravenhage 28 oktober 2015
 
-De\
-Minister\
-Defensie\
-J.A.Hennis-Plasschaert
+De Minister van Defensie\
+J.A. Hennis-Plasschaert

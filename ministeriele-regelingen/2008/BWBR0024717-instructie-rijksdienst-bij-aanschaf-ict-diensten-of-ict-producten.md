@@ -41,10 +41,8 @@ Dit besluit zal met de bijlage en de daarbij behorende toelichting in de Staatsc
 
 Den Haag 8 november 2008
 
-De\
-Staatssecretaris\
-Economische Zaken\
-F.Heemskerk
+De Staatssecretaris van Economische Zaken,\
+F. Heemskerk
 
 ## Bijlage — Instructie rijksdienst inzake aanschaf van ICT-diensten en ICT-producten
 

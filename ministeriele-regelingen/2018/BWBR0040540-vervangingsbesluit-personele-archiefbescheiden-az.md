@@ -47,10 +47,7 @@ Dit besluit wordt aangehaald als: Vervangingsbesluit personele archiefbescheiden
 
 Dit besluit wordt met de bijlage in de Staatscourant geplaatst. Het Handboek Digitale vervanging Personeelsdossiers ligt ter inzage op het Ministerie van Algemene Zaken en wordt op verzoek digitaal te beschikking gesteld.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
-namens deze,\
-De Secretaris-Generaal\
+De Minister-President, Minister van Algemene Zaken, namens deze, De Secretaris-Generaal\
 P.H.A.M. Huijts
 
 ## Bijlage — bij het Vervangingsbesluit personele archiefbescheiden AZ
@@ -207,8 +204,5 @@ Bij afwijking(en) in kwaliteit vanwege hard- en/of software problemen wordt volg
 
 Voordat de gedigitaliseerde documenten (reproducties) naar de tijdelijke archiefruimte worden verplaatst, wordt er maandelijks een interne controle op het verwerkingsproces uitgevoerd. Na eventuele correcties worden de betreffende documenten vrijgegeven voor transport naar de tijdelijke archiefruimte in afwachting van de vervangingscontrole.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
-namens deze,\
-De Secretaris-Generaal\
+De Minister-President, Minister van Algemene Zaken, namens deze, De Secretaris-Generaal\
 P.H.A.M. Huijts

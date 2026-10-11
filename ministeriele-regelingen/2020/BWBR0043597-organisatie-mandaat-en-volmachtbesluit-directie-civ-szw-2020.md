@@ -159,7 +159,5 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 25 mei 2020
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-Namens deze,\
-N. Weegink\
-Directeur CIO-office en Integrale Veiligheid
+De Minister van Sociale Zaken en Werkgelegenheid, Namens deze,\
+N. Weegink Directeur CIO-office en Integrale Veiligheid

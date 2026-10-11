@@ -78,10 +78,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 19 december 2012
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp.
+De Minister van Economische Zaken,\
+H.G.J. Kamp.
 
 ## Bijlage — behorende bij artikel 2 van de Regeling eenmalig bedrag verlenging GSM-vergunningen 2013
 

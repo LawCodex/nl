@@ -41,5 +41,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 14 april 2017
 
-H.A. Harmsma\
-algemeen directeur Rijksdienst voor Ondernemend Nederland
+H.A. Harmsma algemeen directeur Rijksdienst voor Ondernemend Nederland

@@ -168,7 +168,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2003. De regeling wordt
 
 Deze regeling wordt aangehaald als: Regeling incidentele reizen voor de militair en zijn naaste betrekking.
 
-De Minister van Defensie\
-Voor deze\
-De Directeur Personeel en Materieel\
+De Minister van Defensie Voor deze De Directeur Personeel en Materieel\
 B.H.J.J.M. Völkers (wnd.).

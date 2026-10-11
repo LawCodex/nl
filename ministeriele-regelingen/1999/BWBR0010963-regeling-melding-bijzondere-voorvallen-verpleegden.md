@@ -69,10 +69,8 @@ Deze regeling wordt aangehaald als: Regeling melding bijzondere voorvallen verpl
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De MinistervanJustitie,\
+A.H. Korthals
 
 ## Bijlage 1
 

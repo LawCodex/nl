@@ -73,7 +73,5 @@ Dit besluit zal met de toelichting worden geplaatst in de Staatscourant. Afschri
 
 Den Haag 27 mei 2004
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
+J.W. Remkes

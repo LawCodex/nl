@@ -39,27 +39,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 27 maart 1996
 
-De\
-Minister\
-Buitenlandse Zaken\
+De Minister van Buitenlandse Zaken a.i.,\
 W. Kok
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 A. Jorritsma-Lebbink
 
-De\
-Staatssecretaris\
-Economische Zaken\
-A. vanDok-van Weele
+De Staatssecretaris van Economische Zaken,\
+A. van Dok-van Weele
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-J.J. vanAartsen
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+J.J. van Aartsen

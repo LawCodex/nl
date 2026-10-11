@@ -41,7 +41,5 @@ Deze regeling treedt in werking op het tijdstip waarop de Wet van 24 mei 2007 to
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Financiën\
-W.J.Bos
+De minister van Financiën,\
+W.J. Bos

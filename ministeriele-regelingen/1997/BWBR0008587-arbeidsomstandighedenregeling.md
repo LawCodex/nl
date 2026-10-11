@@ -1974,9 +1974,8 @@ Deze regeling wordt aangehaald als: Arbeidsomstandighedenregeling.
 
 's-Gravenhage 12 maart 1997
 
-De\
-Staatssecretaris\
-w.g. F.H.G. deGrave
+De Staatssecretaris voornoemd,\
+w.g. F.H.G. de Grave
 
 ## Bijlage 0 — , behorend bij Artikel 1.7a
 

@@ -60,10 +60,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 11 december 2014
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp
 
 ## Bijlage A
 

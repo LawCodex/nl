@@ -31,9 +31,8 @@ Besluit:
 
 's-Gravenhage 10 september 1973
 
-De\
-Staatssecretaris\
-M. H. M. vanHulten
+De Staatssecretaris voornoemd,\
+M. H. M. van Hulten
 
 ## Regelen met betrekking tot de doorberekening aan derden van de kosten voortvloeiende uit dienstverlening of gegevensverstrekking door het K.N.M.I.
 

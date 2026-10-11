@@ -117,10 +117,8 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de gemandateerden.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus.
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus.
 
 Het hoofd van de Scheepvaartinspectie,\
 J. Thunnissen.

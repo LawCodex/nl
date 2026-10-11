@@ -64,7 +64,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 30 juni 2021
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-Namens deze;\
-De algemene rijksarchivaris,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, Namens deze; De algemene rijksarchivaris,\
 M.L. Engelhard

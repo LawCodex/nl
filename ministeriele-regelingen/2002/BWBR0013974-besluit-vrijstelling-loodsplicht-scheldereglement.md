@@ -78,12 +78,10 @@ Dit besluit wordt aangehaald als 'Besluit vrijstelling loodsplicht Scheldereglem
 
 Brussel 21 augustus 2002
 
-De Vlaamse\
-minister\
-S.Stevaert
+De Vlaamse minister,\
+S. Stevaert
 
 's-Gravenhage, 21 augustus 2002
 
-De Nederlandse\
-minister\
-R.H. deBoer
+De Nederlandse minister,\
+R.H. de Boer

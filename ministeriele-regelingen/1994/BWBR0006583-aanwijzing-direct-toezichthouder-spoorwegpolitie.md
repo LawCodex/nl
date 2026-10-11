@@ -41,12 +41,9 @@ Deze beschikking wordt geplaatst in de Staatscourant en het Algemeen Politieblad
 
 's-Gravenhage 1 april 1994
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-het\
-hoofd van de Directie Politie\
-H.P.Wooldrik
+het hoofd van de Directie Politie,\
+H.P. Wooldrik

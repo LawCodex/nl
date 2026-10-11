@@ -59,7 +59,5 @@ Deze regeling wordt aangehaald als: Regeling informatie aanbestedingen concessie
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat,\
+De Minister van Verkeer en Waterstaat,\
 T. Netelenbos

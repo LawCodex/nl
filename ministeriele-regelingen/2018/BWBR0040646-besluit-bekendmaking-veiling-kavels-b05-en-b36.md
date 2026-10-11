@@ -1064,6 +1064,8 @@ Het spectrummasker, bedoeld in artikel 4, is als volgt:
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non sensitive cases*
 
+*Bron: GE06 pagina 169*
+
 De technische beschrijving, bedoeld in artikel 4, luidt als volgt:
 
 De regionale kavel 2 heeft de omtrek beschreven in figuur 2. De kavel is opgebouwd uit de GE06 DVB-T allotments HOL0901H (K9), HOL0902H (K6), HOL0903H (K8), HOL0904H (K9), HOL0905H (K7), HOL0906H (K9).

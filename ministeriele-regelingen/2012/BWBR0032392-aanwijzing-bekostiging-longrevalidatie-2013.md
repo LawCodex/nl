@@ -114,7 +114,5 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing bekostiging longrevalidatie 201
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers.
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers.

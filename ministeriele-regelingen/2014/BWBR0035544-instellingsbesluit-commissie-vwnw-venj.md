@@ -130,9 +130,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 10 september 2014
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-P.Cloo\
-secretaris-generaal
+De Minister van Veiligheid en Justitie,namens deze,\
+P. Cloosecretaris-generaal

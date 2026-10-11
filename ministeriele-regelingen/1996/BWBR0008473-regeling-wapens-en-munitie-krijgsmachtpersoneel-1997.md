@@ -129,7 +129,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 23 december 1996
 
-De\
-Minister\
-Defensie\
-J.J.C.Voorhoeve
+De Minister van Defensie,\
+J.J.C. Voorhoeve

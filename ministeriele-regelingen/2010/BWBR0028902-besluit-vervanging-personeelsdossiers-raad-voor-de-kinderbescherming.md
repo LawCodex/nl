@@ -57,12 +57,8 @@ Dit besluit wordt in de Staatscourant gepubliceerd; de bijlage ligt voor de bela
 
 Utrecht 5 oktober 2010
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-P.L.Siebers,\
-Directeur, lid Landelijke Directie Raad voor de Kinderbescherming.
+De Minister van Justitie,namens deze:\
+P.L. Siebers,Directeur, lid Landelijke Directie Raad voor de Kinderbescherming.
 
 ## Bijlage
 

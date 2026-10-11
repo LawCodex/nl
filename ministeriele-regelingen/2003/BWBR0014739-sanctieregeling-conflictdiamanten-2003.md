@@ -47,7 +47,5 @@ Deze regeling wordt aangehaald als: Sanctieregeling conflictdiamanten 2003.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-J.G. deHoop Scheffer
+De Minister van Buitenlandse Zaken,\
+J.G. de Hoop Scheffer

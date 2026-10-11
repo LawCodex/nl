@@ -66,9 +66,7 @@ Dit besluit zal worden aangehaald als: Besluit Vervanging Archiefbescheiden Raad
 
 Den Haag 26 februari 2021
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-algemeen directeur van de Raad voor de Kinderbescherming\
+De Minister van Justitie en Veiligheid, namens deze, algemeen directeur van de Raad voor de Kinderbescherming\
 H. Elbers
 
 ## Bijlage

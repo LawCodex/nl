@@ -49,7 +49,5 @@ drs. A. Ph. Bruinsma (Bureau kwaliteit Dienst Justitiële Inrichtingen), mw. mr.
 
 ’s-Gravenhage 7 april 1995
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

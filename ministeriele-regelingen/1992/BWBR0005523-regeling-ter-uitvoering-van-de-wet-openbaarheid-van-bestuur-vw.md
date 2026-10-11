@@ -109,9 +109,7 @@ Deze regeling wordt gepubliceerd in de Staatscourant en afschrift daarvan zal wo
 
 's-Gravenhage 20 mei 1992
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 J. R. H. Maij-Weggen
 
 ## Register van niet-ambtelijke adviescommissies, bedoeld in artikel 2, eerste lid, sub b, van de regeling van 20 mei 1992 , ter uitvoering van de Wet openbaarheid van Bestuur[^n1]

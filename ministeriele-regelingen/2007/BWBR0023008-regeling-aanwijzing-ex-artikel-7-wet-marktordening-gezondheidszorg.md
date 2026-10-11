@@ -110,7 +110,5 @@ De zorgautoriteit kan op basis van de 1% margeregeling de contracteerruimte verh
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker

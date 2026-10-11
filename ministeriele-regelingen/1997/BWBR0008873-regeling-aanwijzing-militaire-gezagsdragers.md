@@ -72,7 +72,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 20 augustus 1997
 
-De\
-Minister\
-Defensie\
-J.J.C.Voorhoeve
+De Minister van Defensie,\
+J.J.C. Voorhoeve

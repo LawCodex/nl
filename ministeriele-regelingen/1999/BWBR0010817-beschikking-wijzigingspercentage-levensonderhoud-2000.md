@@ -39,7 +39,6 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingspercentage lev
 
 ’s-Gravenhage 2 november 1999
 
-De\
-Staatssecretaris
+De Staatssecretaris voornoemd,
 
 M.J. Cohen

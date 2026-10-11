@@ -51,10 +51,10 @@ Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in
 
 Beatrix
 
-De Minister van Verkeer en Waterstaat\
-K. M. H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K. M. H. Peijs
 
 de *zevende* december 2006
 
-De Minister van Justitie\
-E. H. M.Hirsch Ballin
+De Minister van Justitie,\
+E. H. M. Hirsch Ballin

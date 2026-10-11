@@ -27,7 +27,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een regeling te tref
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## hoofdstuk Eerste — Algemene bepalingen
+## Eerste hoofdstuk — Algemene bepalingen
 
 ### Artikel 1
 
@@ -76,7 +76,7 @@ Vervallen
 
 De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de *Staatscourant* is bekend gemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
 
-## hoofdstuk Tweede — Van het buitengewoon pensioen van de deelnemers aan het verzet
+## Tweede hoofdstuk — Van het buitengewoon pensioen van de deelnemers aan het verzet
 
 ### § 1 — Van het recht op buitengewoon pensioen
 
@@ -210,7 +210,7 @@ Het bedrag, genoemd in artikel 12, tweede lid, onder c, wordt door Onze Minister
 
 2\. Het geneeskundig onderzoek zal, op last van de Raad of de Sociale verzekeringsbank éénmaal worden herhaald, indien de belanghebbende daartoe de wens te kennen geeft in zijn bezwaarschrift, als bedoeld in artikel 37, en voorts in elk geval waarin een herhaling door het Rijk wenselijk wordt geacht.
 
-## hoofdstuk Derde — Van het pensioen der nagelaten betrekkingen
+## Derde hoofdstuk — Van het pensioen der nagelaten betrekkingen
 
 ### § 1 — Van het recht op buitengewoon pensioen
 
@@ -368,7 +368,7 @@ Ten aanzien van degene, die aantoont, dat uit hoofde van zijn aanspraak op uitke
 
 6\. Het ingevolge de voorafgaande leden met het buitengewoon pensioen van de weduwe en/of de gewezen echtgenote wegens het genot van neveninkomsten verrekenbare bedrag wordt beperkt tot het bedrag, waarmede het buitengewoon pensioen - ongeacht de vermindering, bedoeld in de artikelen 18 en 19 -, vermeerderd met die neveninkomsten, vijfenzestig procent van de in artikel 12, tweede lid, bedoelde grondslag overschrijdt, met dien verstande evenwel, dat de verrekening van een pensioen of uitkering als bedoeld in artikel 12, derde lid, zomede de verrekening ter zake van een uitkering ingevolge de Algemene nabestaandenwet en ter zake van een pensioen ingevolge de Algemene Ouderdomswet onverkort blijft. Tot de neveninkomsten, bedoeld in de vorige volzin, worden niet gerekend de kinderbijslagen of -toeslagen, zomede de inkomsten, welke onverplicht door derden worden verschaft.
 
-## hoofdstuk Vierde — Van de Buitengewone Pensioenraad
+## Vierde hoofdstuk — Van de Buitengewone Pensioenraad
 
 ### Artikel 21
 
@@ -390,7 +390,7 @@ Vervallen
 
 Vervallen
 
-## hoofdstuk Vijfde — Van de aanvraag en de toekenning
+## Vijfde hoofdstuk — Van de aanvraag en de toekenning
 
 ### Artikel 24
 
@@ -450,7 +450,7 @@ Vervallen
 
 4\. Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de vergoeding welke verschuldigd is, indien afschrift wordt verstrekt van de op de beschikking betrekking hebbende bescheiden.
 
-## hoofdstuk Zesde — Van ingang en einde der buitengewone pensioenen
+## Zesde hoofdstuk — Van ingang en einde der buitengewone pensioenen
 
 ### Artikel 26
 
@@ -528,7 +528,7 @@ Een tijdelijk buitengewoon pensioen, verleend op grond van artikel 16, eerste en
 
 9\. Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen, als bedoeld in artikel 16, en aan een krachtens dit artikel verleende overlijdensuitkering is uitbetaald, worden teruggevorderd.
 
-## hoofdstuk Zevende — Van de welvaartsvastheid der buitengewone pensioenen
+## Zevende hoofdstuk — Van de welvaartsvastheid der buitengewone pensioenen
 
 ### Artikel 31
 
@@ -603,7 +603,7 @@ De garantietoeslag gaat in op de eerste dag van de maand, waarin het recht op de
 
 4\. Op de toeslagen, bedoeld in het eerste en tweede lid, is het achtste hoofdstuk van toepassing, met uitzondering van de artikelen 31i en 35a.
 
-## hoofdstuk Achtste — Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
+## Achtste hoofdstuk — Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
 
 ### Artikel 31i
 
@@ -662,7 +662,7 @@ Vervallen
 
 4\. Elk beding, strijdig met enige bepaling van dit artikel, is nietig.
 
-## hoofdstuk Negende — Van het indienen van een bezwaarschrift en van beroep
+## Negende hoofdstuk — Van het indienen van een bezwaarschrift en van beroep
 
 ### Artikel 37
 
@@ -702,7 +702,7 @@ Vervallen
 
 Vervallen
 
-## hoofdstuk Tiende — Van herziening van gegeven beschikkingen
+## Tiende hoofdstuk — Van herziening van gegeven beschikkingen
 
 ### Artikel 41
 
@@ -761,7 +761,7 @@ Op een beschikking, voortvloeiende uit de toepassing van de artikelen 41, 41*a* 
 
 3\. Op een beschikking, voortvloeiende uit de toepassing van het eerste lid, is artikel 25, vijfde lid, van overeenkomstige toepassing.
 
-## hoofdstuk Elfde — Slotbepalingen
+## Elfde hoofdstuk — Slotbepalingen
 
 ### Artikel 43
 

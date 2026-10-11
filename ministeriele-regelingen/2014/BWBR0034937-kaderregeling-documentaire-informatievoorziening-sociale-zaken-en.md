@@ -429,12 +429,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 6 maart 2014
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-de plaatsvervangend Secretaris-Generaal,\
-H.J.I.M. deRooij
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,de plaatsvervangend Secretaris-Generaal,\
+H.J.I.M. de Rooij
 
 ## Modelverklaringen
 

@@ -1724,7 +1724,7 @@ Bij een persproef tot de maximale druk die zich naar berekening in de serie der 
 
 4\. De in het eerste lid bedoelde voorschriften en de in het derde lid bedoelde rapporten worden op het boorwerk respectievelijk de mijnbouwinstallatie ter inzage van de inspecteur-generaal der mijnen gelegd. Deze voorschriften en rapporten worden daartoe tenminste zes jaar bewaard.
 
-#### § — Periodieke beveiligingsoefeningen in verband met boorgaten en putten
+#### § 8.3.3 — Periodieke beveiligingsoefeningen in verband met boorgaten en putten
 
 ##### Artikel 8.3.3.1
 
@@ -2613,9 +2613,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 's-Gravenhage. 16 december 2002.
 
-De\
-Staatssecretaris\
-Economische Zaken\
+De Staatssecretaris van Economische Zaken,\
 J.G. Wijn.
 
 ## Bijlage 1 — behorende bij artikel 1.3.1, tweede lid, onderdeel a Gegevens, over te leggen bij een aanvraag om een opsporings- of winningsvergunning

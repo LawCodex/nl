@@ -51,10 +51,10 @@ Wassenaar 26 november 2014
 
 Willem-Alexander
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
 de *vijfde* december 2014
 
-De Minister van Veiligheid en Justitie\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

@@ -392,10 +392,8 @@ Deze regeling wordt aangehaald als: Regeling voorkoming verontreiniging door sch
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
 ## Bijlage 1 — behorend bij artikelen 5c en 15b
 

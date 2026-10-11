@@ -155,10 +155,10 @@ Gegeven te ’s-Gravenhage 27 september 2007
 
 Beatrix
 
-De Staatssecretaris van Financiën\
-J. C. deJager
+De Staatssecretaris van Financiën,\
+J. C. de Jager
 
 de *zestiende* oktober 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

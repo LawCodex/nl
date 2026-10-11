@@ -134,13 +134,10 @@ De houder is belast met het toezicht op de naleving van de bepalingen van deze b
 
 's-Gravenhage 4 augustus 1980
 
-De\
-Minister\
-Landbouw en Visserij
+De Minister van Landbouw en Visserij,
 
 Voor deze,
 
-De\
-plv. secretaris-generaal
+De plv. secretaris-generaal,
 
 G. J. van Dinter

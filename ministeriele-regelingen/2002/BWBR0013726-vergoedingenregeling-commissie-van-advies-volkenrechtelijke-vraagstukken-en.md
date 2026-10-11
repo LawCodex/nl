@@ -45,7 +45,5 @@ Deze regeling vervangt de besluiten van de Minister van Buitenlandse Zaken van 2
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-J.J. vanAartsen
+De Minister van Buitenlandse Zaken,\
+J.J. van Aartsen

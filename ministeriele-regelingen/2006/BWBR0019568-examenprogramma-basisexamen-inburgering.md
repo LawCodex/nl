@@ -47,10 +47,8 @@ Deze regeling wordt in de Staatscourant geplaatst.
 
 Den Haag 14 februari 2006
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-M.C.F.Verdonk
+De Minister voor Vreemdelingenzaken en Integratie,\
+M.C.F. Verdonk
 
 ## Bijlage — Examenprogramma basisexamen inburgering
 

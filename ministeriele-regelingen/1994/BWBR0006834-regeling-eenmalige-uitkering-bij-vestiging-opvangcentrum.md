@@ -39,7 +39,5 @@ Deze regeling kan worden aangehaald als: Regeling eenmalige uitkering bij vestig
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Welzijn, Volksgezondheid en Cultuur\
-J. M. M.Ritzen
+De Minister van Welzijn, Volksgezondheid en Cultuur,\
+J. M. M. Ritzen

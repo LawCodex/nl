@@ -51,10 +51,8 @@ Deze regeling wordt aangehaald als: Regeling basisregistratie grootschalige topo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen I en II, die ter inzage worden gelegd bij het Ministerie van Infrastructuur en Milieu en worden gepubliceerd op www.geonovum.nl.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus
 
 ## Bijlage I — Gegevenscatalogus BGT (bijlage bij artikel 2 van de Regeling basisregistratie grootschalige topografie)
 

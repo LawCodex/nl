@@ -33,10 +33,8 @@ Besluit:
 
 Deze regeling treedt in werking met ingang van 1 juli 1991.
 
-De\
-Minister\
-Binnenlandse Zaken\
-C. I.Dales
+De Minister van Binnenlandse Zaken,\
+C. I. Dales
 
 ## Bijlage I — Model-formulier van het schriftelijk verlof van de ambtenaar van de burgerlijke stand tot begraving/verbranding[^n1] van een lijk, als bedoeld in artikel 11 van de Wet op de lijkbezorging, Stb. 1991, 133
 

@@ -52,9 +52,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 15 juli 1998
 
-De\
-Minister\
-A.P.W.Melkert
+De Minister voornoemd,\
+A.P.W. Melkert
 
 ## Bijlage, — behorende bij artikel 2, tweede lid
 

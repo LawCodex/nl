@@ -67,7 +67,5 @@ Dit besluit wordt aangehaald als: Machtigingsbesluit UBR|Advocaten en Adviseurs 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister van Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de Secretaris-Generaal,\
+De Minister van Volksgezondheid, Welzijn en Sport, namens deze, de Secretaris-Generaal,\
 E. Gerritsen

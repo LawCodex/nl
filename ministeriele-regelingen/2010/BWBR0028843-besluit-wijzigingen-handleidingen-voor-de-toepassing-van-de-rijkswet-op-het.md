@@ -71,7 +71,5 @@ Dit besluit zal met de toelichting in de Staatscourant en de voor publicatie ge√
 
 Den Haag 8 oktober 2010
 
-De Minister van Justitie van het Koninkrijk,\
-namens deze:\
-de directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken\
+De Minister van Justitie van het Koninkrijk, namens deze: de directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken\
 R.K. Visser

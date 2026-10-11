@@ -71,17 +71,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker
 
-De\
-Minister\
-Wonen en Rijksdienst\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst\
+S.A. Blok

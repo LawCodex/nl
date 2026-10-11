@@ -86,7 +86,5 @@ Dit besluit wordt geplaatst in de Nederlandse Staatscourant en treedt in werking
 
 Den Haag 6 november 2009
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

@@ -47,7 +47,5 @@ Deze beschikking, welke zal worden geplaatst in de Nederlandse Staatscourant, we
 
 Rijswijk (Z.-H.) 29 juli 1970
 
-De Minister voornoemd,\
-Namens de Minister:\
-De secretaris-generaal,\
+De Minister voornoemd, Namens de Minister: De secretaris-generaal,\
 J. van Viegen

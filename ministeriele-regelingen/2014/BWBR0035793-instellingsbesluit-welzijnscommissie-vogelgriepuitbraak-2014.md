@@ -82,9 +82,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Welzijnscommissie Vogelgrie
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-namens deze,\
-J.P.Hoogeveen\
-Directeur-Generaal Agro
+De Staatssecretaris van Economische Zaken,namens deze,\
+J.P. HoogeveenDirecteur-Generaal Agro

@@ -95,7 +95,5 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 Den Haag 2 oktober 1996
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

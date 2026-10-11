@@ -57,15 +57,11 @@ Dit besluit zal worden geplaatst in de Nederlandse Staatscourant.
 
 's-Gravenhage 4 december 1987
 
-De\
-minister\
-Binnenlandse Zaken\
-C. P. vanDijk
+De minister van Binnenlandse Zaken,\
+C. P. van Dijk
 
-De\
-minister\
-Defensie\
-W. F. vanEekelen
+De minister van Defensie,\
+W. F. van Eekelen
 
 ## Bijlage — Rangen rijksbrandweerpersoneel
 

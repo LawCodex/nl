@@ -57,7 +57,5 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-U.Rosenthal
+De Minister van Buitenlandse Zaken,\
+U. Rosenthal

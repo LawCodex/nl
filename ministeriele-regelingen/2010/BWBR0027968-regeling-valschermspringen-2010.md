@@ -139,15 +139,11 @@ Deze regeling wordt aangehaald als: Regeling valschermspringen 2010.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat,\
-C.P.M.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.P.M.S. Eurlings
 
-De\
-Minister\
-Defensie,\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop
 
 ## Bijlage 1 — behorende bij artikel 1 en artikel 6, eerste lid, van de Regeling valschermspringen 2010
 

@@ -170,10 +170,8 @@ Wijzigt de Regeling resultaatafhankelijke bekostiging vsv vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage A — behorende bij artikel 7 van de Regeling resultaatafhankelijke bekostiging vsv in het mbo
 

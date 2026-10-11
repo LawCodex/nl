@@ -86,7 +86,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling overlegprocedure bij reorganisaties.
 
-De\
-Staatssecretaris\
-Defensie\
+De Staatssecretarisvan Defensie,\
 H.A.L. van Hoof

@@ -87,7 +87,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 21 mei 2019
 
-De Minister van Financiën,\
-namens deze,\
-J.H. van Gelder\
-de plaatsvervangend Secretaris-Generaal
+De Minister van Financiën, namens deze,\
+J.H. van Gelder de plaatsvervangend Secretaris-Generaal

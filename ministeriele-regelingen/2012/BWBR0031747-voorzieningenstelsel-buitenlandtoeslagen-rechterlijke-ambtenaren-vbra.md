@@ -442,10 +442,8 @@ Deze regeling wordt aangehaald als: Voorzieningenstelsel Buitenlandtoeslagen Rec
 
 Deze regeling treedt in werking met ingang van de tweede dag na publicatie in de Staatscourant en werkt terug tot 1 april 2012.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.W.E.Spies
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W.E. Spies
 
 ## Bijlage 1
 

@@ -43,7 +43,5 @@ Dit besluit zal in de Nederlandse Staatscourant worden geplaatst.
 
 's-Gravenhage 2 april 1976
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 A. A. M. van Agt

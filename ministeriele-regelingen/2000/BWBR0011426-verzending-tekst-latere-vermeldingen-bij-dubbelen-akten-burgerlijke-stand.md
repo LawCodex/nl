@@ -52,9 +52,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 20 juni 2000
 
-De\
-Staatssecretaris\
-M.J.Cohen
+De Staatssecretaris voornoemd,\
+M.J. Cohen
 
 ## Bijlage 1 — Kennisgeving latere vermelding (als bedoeld in artikel 2, lid 1, onder a, Regeling verzending tekst latere vermeldingen bij dubbelen akten burgerlijke stand)
 

@@ -51,12 +51,8 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bijlagen 3 en 4 worden tevens ter inzage gelegd in de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
-De\
-Staatssecretaris\
-Defensie\
-C. van derKnaap
+De Staatssecretaris van Defensie,\
+C. van der Knaap

@@ -97,10 +97,8 @@ Dit besluit wordt aangehaald als: Besluit mandaat Registratie Niet-Ingezetenen.
 
 Dit besluit zal met Bijlage in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
 ## Bijlage — Bij het Besluit mandaat Registratie Niet-Ingezetenen
 

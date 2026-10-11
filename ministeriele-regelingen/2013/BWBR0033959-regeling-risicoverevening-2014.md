@@ -256,10 +256,8 @@ Deze regeling wordt aangehaald als: Regeling risicoverevening 2014.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage 1 — behorende bij artikelen 6, eerste lid en 11, eerste lid
 

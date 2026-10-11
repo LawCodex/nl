@@ -47,6 +47,5 @@ De inrichtingen behoeven niet te zijn van een toegelaten type.
 
 's-Gravenhage 19 december 1988
 
-De\
-minister\
+De minister voornoemd,\
 N. Smit-Kroes

@@ -31,7 +31,5 @@ Dit besluit zal met toelichting in de Staatscourant en het Publicatieblad van Cu
 
 ’s-Gravenhage 22 december 2011
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.E.Spies
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W.E. Spies

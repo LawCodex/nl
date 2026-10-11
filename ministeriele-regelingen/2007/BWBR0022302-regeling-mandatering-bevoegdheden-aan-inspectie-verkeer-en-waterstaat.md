@@ -51,12 +51,8 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 13 juli 2007
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-J.P.H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J.P.H. Donner
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa

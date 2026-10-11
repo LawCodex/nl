@@ -47,12 +47,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 5 september 2005
 
-De\
-Minister\
-Economische Zaken\
-L.J.Brinkhorst
+De Minister van Economische Zaken,\
+L.J. Brinkhorst
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

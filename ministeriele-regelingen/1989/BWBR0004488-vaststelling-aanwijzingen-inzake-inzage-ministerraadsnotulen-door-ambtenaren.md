@@ -27,9 +27,8 @@ tot het vaststellen van de bij dit besluit gevoegde aanwijzingen inzake inzage v
 
 's-Gravenhage 20 januari 1989
 
-De\
-minister-president\
-R. F. M.Lubbers
+De minister-president,\
+R. F. M. Lubbers
 
 ## Aanwijzingen inzake inzage van ministerraadsnotulen door ambtenaren
 

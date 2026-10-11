@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 26 januari 2007
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-A.J. deGeus
+De Minister van Sociale Zaken en Werkgelegenheid,\
+A.J. de Geus

@@ -59,7 +59,5 @@ Voor zorg als bedoeld in artikel 2 geldt per 1 januari 2012 een taakstelling van
 
 Deze aanwijzing treedt terstond in werking en wordt met toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

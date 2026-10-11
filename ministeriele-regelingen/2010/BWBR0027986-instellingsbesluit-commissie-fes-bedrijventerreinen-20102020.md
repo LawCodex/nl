@@ -102,7 +102,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 Den Haag 20 juli 2010
 
-De\
-Minister\
-Economische Zaken,\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven

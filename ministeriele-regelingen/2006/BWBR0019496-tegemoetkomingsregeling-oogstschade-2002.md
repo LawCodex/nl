@@ -166,10 +166,8 @@ Deze regeling wordt aangehaald als: Tegemoetkomingsregeling oogstschade 2002.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-C.P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+C.P. Veerman
 
 ## Bijlage 1 — Tabel van normbedragen
 

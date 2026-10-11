@@ -68,10 +68,8 @@ Dit besluit wordt aangehaald als: Nummerplan transitnetwerk signaleringspuntcode
 
 Dit besluit met bijbehorende bijlage en toelichting zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink
 
 ## Bijlage — als bedoeld in artikel 2, derde lid, van het Nummerplan transitnetwerk signaleringspuntcodes
 

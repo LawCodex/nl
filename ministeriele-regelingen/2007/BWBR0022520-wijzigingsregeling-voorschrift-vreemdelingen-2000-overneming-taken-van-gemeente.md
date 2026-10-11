@@ -47,7 +47,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 14 september 2007
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak

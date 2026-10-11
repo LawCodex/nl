@@ -57,12 +57,9 @@ Deze regeling kan worden aangehaald als Tijdelijk besluit Bijzondere regels voor
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Defensie
+De Staatssecretaris van Defensie,
 
 voor deze,
 
-De\
-directeur Arbeidsvoorwaardenbeleid\
-B.H.J.J.M.Völkers
+De directeur Arbeidsvoorwaardenbeleid,\
+B.H.J.J.M. Völkers

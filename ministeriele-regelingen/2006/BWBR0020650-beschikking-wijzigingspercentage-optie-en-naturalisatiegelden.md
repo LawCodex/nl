@@ -39,7 +39,5 @@ Deze beschikking treedt in werking op 1 januari 2007. Zij wordt aangehaald als: 
 
 Den Haag 15 november 2006
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-M.C.F.Verdonk
+De Minister voor Vreemdelingenzaken en Integratie,\
+M.C.F. Verdonk

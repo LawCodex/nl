@@ -289,11 +289,8 @@ Deze regeling kan worden aangehaald als ‘Regeling uitrusting Defensie’.
 
 Deze regeling treedt in werking met ingang van 1 januari 2009
 
-De Staatssecretaris van Defensie\
-voor deze\
-De Hoofddirecteur Personeel\
-J.G.A. Leijh\
-Luitenant-generaal
+De Staatssecretaris van Defensie voor deze De Hoofddirecteur Personeel\
+J.G.A. Leijh Luitenant-generaal
 
 ## Bijlage 1 — Functies als bedoeld in artikel 14a, eerste lid
 

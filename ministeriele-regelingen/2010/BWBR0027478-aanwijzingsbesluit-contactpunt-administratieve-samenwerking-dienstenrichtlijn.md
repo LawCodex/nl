@@ -49,10 +49,8 @@ Dit besluit wordt aangehaald als: Aanwijzingsbesluit contactpunt administratieve
 
 Den Haag 26 maart 2010
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven
 
 ## Bijlage
 

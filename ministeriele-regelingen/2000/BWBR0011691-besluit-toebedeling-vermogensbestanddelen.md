@@ -40,7 +40,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 9 oktober 2000
 
-De\
-Staatssecretaris\
-Justitie\
+De Staatssecretaris van Justitie,\
 M.J. Cohen

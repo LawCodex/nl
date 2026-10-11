@@ -166,9 +166,7 @@ De regeling van de Staatssecretaris van Financiën van 19 december 1996, nr. IFZ
 
 4\. In afwijking van het voorgaande werkt artikel 5B terug tot en vindt toepassing met ingang van 2001.
 
-De\
-Staatssecretaris\
-Financiën\
-W.Bos
+De Staatssecretaris van Financiën,\
+W. Bos
 
 [^n1]: ¹ De bij deze regeling horende bijlagen I en II zullen begin 2002 worden vastgesteld.

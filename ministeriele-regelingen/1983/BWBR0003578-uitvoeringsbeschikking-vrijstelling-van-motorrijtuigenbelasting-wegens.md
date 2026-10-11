@@ -44,12 +44,9 @@ Besluit:
 
 's-Gravenhage 4 maart 1983
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 namens deze,
 
-De\
-directeur-generaal voor Fiscale Zaken\
-A.Schoemaker
+De directeur-generaal voor Fiscale Zaken,\
+A. Schoemaker

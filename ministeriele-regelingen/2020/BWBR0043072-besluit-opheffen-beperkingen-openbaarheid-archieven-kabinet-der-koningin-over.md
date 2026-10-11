@@ -43,7 +43,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 7 januari 2020
 
-De Minister van Basis- en Voortgezet Onderwijs en Media,\
-namens deze,\
-De algemene rijksarchivaris\
+De Minister van Basis- en Voortgezet Onderwijs en Media, namens deze, De algemene rijksarchivaris\
 M.L. Engelhard

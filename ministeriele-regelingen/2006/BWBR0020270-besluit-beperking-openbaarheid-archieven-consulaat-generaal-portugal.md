@@ -73,10 +73,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van het consulaat-generaal te Lissabon (Portugal) 1646–1946 (1951), het gezantschap te Portugal (Lissabon) (1759) 1888–1954 (1957), het consulaat te Funchal (Madeira) 1820–1935 en het consulaat te Lourenço Marques (Mozambique) 1904–1947’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

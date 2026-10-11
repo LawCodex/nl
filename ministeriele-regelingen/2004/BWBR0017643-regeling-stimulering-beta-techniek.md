@@ -138,7 +138,5 @@ Deze regeling wordt aangehaald als: Regeling stimulering Bèta/techniek.
 
 Deze regeling zal met de toelichting in het Gele katern worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
-De\
-minister\
-onderwijs, cultuur en wetenschap\
-M.J.A. van derHoeven
+De minister van onderwijs, cultuur en wetenschap,\
+M.J.A. van der Hoeven

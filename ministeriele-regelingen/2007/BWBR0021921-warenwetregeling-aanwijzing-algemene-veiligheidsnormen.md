@@ -39,10 +39,8 @@ Deze regeling kan worden aangehaald als: Warenwetregeling aanwijzing algemene ve
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 ## Bijlage — bij de Warenwetregeling aanwijzing algemene veiligheidsnormen
 

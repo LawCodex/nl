@@ -83,7 +83,5 @@ De beschikking van de Staatssecretaris van Financiën van 6 juni 1983, nr. 083-1
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, derde lid, toepassing met betrekking tot dividenden, interest en royalty's, alsmede sommige andere soorten van inkomsten die op of na 1 januari 1982 zijn betaald of worden betaald.
 
-De\
-staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

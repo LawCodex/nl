@@ -125,7 +125,5 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling Experimentenwet voorople
 
 Deze regeling zal met de toelichting in de Staatscourant en in het Gele katern worden geplaatst.
 
-De\
-staatssecretaris\
-onderwijs, cultuur en wetenschap\
-drs. M.Rutte
+De staatssecretaris van onderwijs, cultuur en wetenschap,\
+drs. M. Rutte

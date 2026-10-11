@@ -59,7 +59,5 @@ Dit besluit kan worden aangehaald als: Besluit aandachtspunten voor de accountan
 
 ’s-Gravenhage 28 juni 1996
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

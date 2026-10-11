@@ -728,13 +728,13 @@ Gegeven te ’s-Gravenhage 20 november 2006
 
 Beatrix
 
-De Staatssecretaris van Economische Zaken\
-C. E. G. vanGennip
+De Staatssecretaris van Economische Zaken,\
+C. E. G. van Gennip
 
 de *vijfde* december 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 ## Bijlage — bij de Wet handhaving consumentenbescherming
 

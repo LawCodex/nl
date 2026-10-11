@@ -223,10 +223,10 @@ Gegeven te ’s-Gravenhage 23 november 2006
 
 Beatrix
 
-De Minister van Economische Zaken\
-J. G.Wijn
+De Minister van Economische Zaken,\
+J. G. Wijn
 
 de *zevende* december 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

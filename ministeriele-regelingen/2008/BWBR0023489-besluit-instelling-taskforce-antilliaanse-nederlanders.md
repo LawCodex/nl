@@ -124,7 +124,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 6 februari 2008
 
-De\
-Minister\
-Wonen, Wijken en Integratie\
-C.P.Vogelaar
+De Minister voor Wonen, Wijken en Integratie,\
+C.P. Vogelaar

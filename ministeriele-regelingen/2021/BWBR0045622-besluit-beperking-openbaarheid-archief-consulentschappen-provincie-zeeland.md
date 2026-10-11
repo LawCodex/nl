@@ -45,7 +45,5 @@ Het vervaardigen van reproducties van de archiefbescheiden geborgen onder de inv
 
 Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt overeenkomstig artikel 10 van het Archiefbesluit 1995 als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van de Consulentschappen in de provincie Zeeland van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, 1902–1990
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-E. Heijblom\
-Plaatsvervangend secretaris-generaal
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+E. Heijblom Plaatsvervangend secretaris-generaal

@@ -45,7 +45,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 28 april 2000
 
-De\
-Minister\
-Economische Zaken\
-A.Jorritsma-Lebbink
+De Minister van Economische Zaken,\
+A. Jorritsma-Lebbink

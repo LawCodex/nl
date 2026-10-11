@@ -74,7 +74,5 @@ Deze regeling wordt aangehaald als: VWS veegregeling 2009.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

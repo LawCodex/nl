@@ -213,9 +213,13 @@ In tabel 1 is dit masker in een tabel vorm weergegeven.
 
 Figuur 1: Spectrummasker voor FM-uitzendingen.
 
+Bron: ITU-R SM 1268-3
+
 ![Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039919/2017-08-25_0/xml/259051.png)
 
 Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.
+
+Bron: ITU-R SM 1268-3
 
 ### Bijlage C — behorend bij artikel 2, derde lid, van de vergunning
 
@@ -389,9 +393,13 @@ In tabel 1 is dit masker in een tabel vorm weergegeven.
 
 Figuur 1: Spectrummasker voor FM-uitzendingen.
 
+Bron: ITU-R SM 1268-3
+
 ![Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039919/2017-08-25_0/xml/259053.png)
 
 Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.
+
+Bron: ITU-R SM 1268-3
 
 ### Bijlage C — behorend bij artikel 2, derde lid, van de vergunning
 
@@ -564,9 +572,13 @@ In tabel 1 is dit masker in een tabel vorm weergegeven.
 
 Figuur 1: Spectrummasker voor FM-uitzendingen.
 
+Bron: ITU-R SM 1268-3
+
 ![Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039919/2017-08-25_0/xml/259057.png)
 
 Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.
+
+Bron: ITU-R SM 1268-3
 
 ### Bijlage C — behorend bij artikel 2, derde lid, van de vergunning
 
@@ -700,6 +712,8 @@ Het spectrummasker, bedoeld in artikel 4, is als volgt:
 ![Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non sensitive cases](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039919/2017-08-25_0/xml/259058.png)
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non sensitive cases*
+
+Bron: GE06 pagina 169
 
 De technische beschrijving, bedoeld in artikel 4, luidt als volgt:
 
@@ -1063,6 +1077,8 @@ Het spectrummasker, bedoeld in artikel 4, is als volgt:
 ![Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non sensitive cases](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039919/2017-08-25_0/xml/259061.png)
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non sensitive cases*
+
+Bron: GE06 pagina 169
 
 De technische beschrijving, bedoeld in artikel 4, luidt als volgt:
 

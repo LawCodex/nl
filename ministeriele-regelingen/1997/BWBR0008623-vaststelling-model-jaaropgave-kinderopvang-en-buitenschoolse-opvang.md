@@ -27,9 +27,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 3 april 1997
 
-De\
-Minister\
-A.P.W.Melkert
+De Minister voornoemd,\
+A.P.W. Melkert
 
 ## Model I
 

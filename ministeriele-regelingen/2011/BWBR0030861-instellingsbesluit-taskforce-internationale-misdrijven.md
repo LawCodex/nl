@@ -92,7 +92,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Taskforce internationale mi
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

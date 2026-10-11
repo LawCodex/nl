@@ -41,7 +41,5 @@ Deze beschikking treedt in werking met ingang van de dag na de datum van uitgift
 
 's-Gravenhage 25 februari 1987
 
-De\
-minister\
-Financiën\
+De minister van Financiën,\
 H. O. C. R. Ruding

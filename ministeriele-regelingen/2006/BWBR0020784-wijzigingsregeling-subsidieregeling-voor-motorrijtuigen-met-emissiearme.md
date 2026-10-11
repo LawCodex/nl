@@ -41,7 +41,5 @@ Deze regeling zal met de toelichting in de S taatscourant worden geplaatst.
 
 Den Haag 12 december 2006
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.L.B.A. vanGeel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+P.L.B.A. van Geel

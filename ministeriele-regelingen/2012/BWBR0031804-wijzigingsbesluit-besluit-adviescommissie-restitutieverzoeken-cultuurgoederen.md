@@ -39,7 +39,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-H.Zijlstra
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+H. Zijlstra

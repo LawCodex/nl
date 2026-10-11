@@ -59,7 +59,5 @@ Indien het bij koninklijke boodschap van 22 december 2011 ingediende voorstel va
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën,\
-F.H.H.Weekers
+De Staatssecretaris van Financiën,\
+F.H.H. Weekers

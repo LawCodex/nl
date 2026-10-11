@@ -78,7 +78,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 18 februari 2009
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-J.Klijnsma
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma

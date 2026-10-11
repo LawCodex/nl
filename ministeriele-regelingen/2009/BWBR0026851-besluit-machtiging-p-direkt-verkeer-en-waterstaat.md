@@ -81,9 +81,5 @@ De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van 
 
 3\. Alle besluiten van voor inwerkingtreding van dit besluit, inhoudende een machtiging aan P-Direkt of zijn rechtsvoorganger tot het verrichten van feitelijke handelingen op het gebied van personeels- en salarisadministratie, worden ingetrokken per datum van inwerkingtreding van dit besluit.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-namens deze:\
-Secretaris-Generaal\
-S.Riedstra
+De Minister van Verkeer en Waterstaat, namens deze: De Secretaris-Generaal,\
+S. Riedstra

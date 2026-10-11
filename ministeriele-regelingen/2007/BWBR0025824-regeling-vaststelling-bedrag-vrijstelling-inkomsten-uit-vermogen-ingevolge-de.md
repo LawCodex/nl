@@ -39,6 +39,5 @@ Deze regeling treedt in werking ingang van 1 januari 2008.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-M.Bussemaker
+De Staatssecretaris voornoemd,\
+M. Bussemaker

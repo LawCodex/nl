@@ -195,7 +195,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 1 november 2017
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-M.H.G. Konings\
-Directeur Organisatie, Bedrijfsvoering en Personeel
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze,\
+M.H.G. Konings Directeur Organisatie, Bedrijfsvoering en Personeel

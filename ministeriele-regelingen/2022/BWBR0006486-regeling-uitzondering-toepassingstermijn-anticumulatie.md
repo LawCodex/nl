@@ -44,6 +44,5 @@ Deze regeling wordt aangehaald als: Regeling uitzondering toepassingstermijn ant
 
 's-Gravenhage 22 februari 1994
 
-De\
-Staatssecretaris\
-J.Wallage
+De Staatssecretaris voornoemd,\
+J. Wallage

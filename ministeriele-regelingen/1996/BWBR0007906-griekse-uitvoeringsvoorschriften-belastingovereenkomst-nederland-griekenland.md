@@ -93,7 +93,5 @@ De regeling van de Staatssecretaris van Financiën van 27 november 1990, nr. IFZ
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, vierde lid, toepassing met betrekking tot Griekse inkomsten die betaald zijn of betaalbaar zijn gesteld in belastingjaren en -tijdvakken die op of na 1 januari 1981 aanvangen.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

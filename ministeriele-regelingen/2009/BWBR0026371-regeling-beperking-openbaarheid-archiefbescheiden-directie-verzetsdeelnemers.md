@@ -50,10 +50,8 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 ## Bijlage
 

@@ -47,9 +47,5 @@ Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezo
 
 ‘s-Gravenhage 21 augustus 2015
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-namens deze;\
-J.P.Hoogeveen\
-directeur-generaal van Agro en Natuur
+De Staatssecretaris van Economische Zaken,namens deze;\
+J.P. Hoogeveendirecteur-generaal van Agro en Natuur

@@ -51,13 +51,8 @@ Deze regeling wordt met bijlage in de Staatscourant geplaatst met uitzondering v
 
 Den Haag 5 april 2017
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-M.Visser\
-Algemeen Directeur\
-Dienst Justis
+De Minister van Veiligheid en Justitie,namens deze,\
+M. VisserAlgemeen DirecteurDienst Justis
 
 ## Bijlage
 

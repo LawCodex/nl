@@ -187,7 +187,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de aanvulling op het archief van het Directoraat-Generaal voor de Bijzondere Rechtspleging (DGBR), 1945–1958 (1983) 1945 – 1993’.
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-M. van Rooij\
-Plaatsvervangend directeur
+De Minister van Justitie en Veiligheid, namens deze,\
+M. van Rooij Plaatsvervangend directeur Dienstencentrum

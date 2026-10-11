@@ -173,7 +173,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling wordt aangehaald als Regeling verstrekkingen bepaalde categorieën vreemdelingen, afgekort als Rvb.
 
-De\
-Staatssecretaris\
-Justitie\
-E.M.A.Schmitz
+De Staatssecretaris van Justitie,\
+E.M.A. Schmitz

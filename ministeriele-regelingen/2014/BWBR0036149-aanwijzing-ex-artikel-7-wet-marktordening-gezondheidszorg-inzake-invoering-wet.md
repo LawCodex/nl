@@ -27,13 +27,11 @@ Na op 12 november 2014 schriftelijk mededeling te hebben gedaan aan de Eerste en
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit stelt vanaf de datum van inwerkingtreding van de Wet langdurige zorg (beleids)regels vast voor zorg als omschreven bij of krachtens deze wet.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

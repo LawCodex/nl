@@ -599,10 +599,8 @@ Deze regeling wordt aangehaald als: Regeling veiligheid Arubaanse, Curaçaose en
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
 ## Bijlage 1 — Model nationaal veiligheidscertificaat
 

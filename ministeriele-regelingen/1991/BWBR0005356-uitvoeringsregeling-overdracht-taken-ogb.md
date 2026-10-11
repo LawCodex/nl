@@ -58,7 +58,5 @@ In afwijking in zoverre van het bepaalde in de artikelen 6a en 7 van de Eerste u
 
 2\. Zij kan worden aangehaald als Uitvoeringsregeling overdracht taken OGB.
 
-De\
-staatssecretaris\
-Financiën\
+De staatssecretaris van Financiën,\
 M.J.J. van Amelsvoort

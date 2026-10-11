@@ -99,7 +99,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 14 december 2001
 
-De\
-Staatssecretaris\
-Economische Zaken\
-G.Ybema
+De Staatssecretaris van Economische Zaken,\
+G. Ybema

@@ -199,7 +199,5 @@ Deze regeling wordt aangehaald als: Regeling examinatoren voor luchtvarenden 200
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-M.H.Schultz van Haegen
+De Staatssecretaris van Verkeer en Waterstaat,\
+M.H. Schultz van Haegen

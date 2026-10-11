@@ -213,10 +213,8 @@ Deze regeling treedt in werking op 1 januari 2013.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus.
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus.
 
 ## Bijlage — bij artikel 6 van de Regeling sturing van en toezicht op de dienst voor het Kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster
 

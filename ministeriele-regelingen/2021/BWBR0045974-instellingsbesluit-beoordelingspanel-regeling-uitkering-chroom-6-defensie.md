@@ -119,7 +119,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Beoordelingspanel Regeling 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De Minister van Defensie\
-Voor deze\
-De Hoofddirecteur Personeel\
+De Minister van Defensie Voor deze De Hoofddirecteur Personeel\
 W. Hoogendoorn

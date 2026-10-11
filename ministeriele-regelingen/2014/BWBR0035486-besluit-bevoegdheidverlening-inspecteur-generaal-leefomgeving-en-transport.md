@@ -59,10 +59,8 @@ Dit besluit wordt aangehaald als: Besluit bevoegdheidverlening Inspecteur- Gener
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld
 
 ## Bijlage — bij het Besluit bevoegdheidverlening Inspecteur Generaal leefomgeving en Transport
 

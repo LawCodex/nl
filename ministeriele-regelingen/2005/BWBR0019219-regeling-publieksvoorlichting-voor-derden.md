@@ -59,6 +59,5 @@ De Postbus 51 Informatiedienst neemt bij het verrichten van de in artikel 3 geno
 
 2\. Deze regeling wordt aangehaald als: Regeling publieksvoorlichting voor derden.
 
-De Minister-President, Minister\
-Algemene Zaken\
-J.P.Balkenende
+De Minister-President, Minister van Algemene Zaken,\
+J.P. Balkenende

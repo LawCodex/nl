@@ -33,12 +33,9 @@ Dit besluit treedt in werking met ingang van 1 maart 1992. Zij wordt opgenomen i
 
 Apeldoorn 21-02-1992
 
-De\
-staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 voor deze,
 
-de\
-hoofddirecteur van het Kadaster en de Openbare Registers,\
-J. W. J.Besemer.
+de hoofddirecteur van het Kadaster en de Openbare Registers,\
+J. W. J. Besemer.

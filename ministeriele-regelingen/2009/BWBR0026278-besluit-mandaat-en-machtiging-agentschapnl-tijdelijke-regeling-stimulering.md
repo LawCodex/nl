@@ -76,7 +76,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat en machtiging AgentschapNL Tij
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

@@ -371,20 +371,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ‘s-Gravenhage 26 maart 2015
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-K.H.D.M.Dijkhoff
+De Staatssecretaris van Veiligheid en Justitie,\
+K.H.D.M. Dijkhoff
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher
 
 ## Bijlage A — behorende bij artikel 4, onderdeel a
 

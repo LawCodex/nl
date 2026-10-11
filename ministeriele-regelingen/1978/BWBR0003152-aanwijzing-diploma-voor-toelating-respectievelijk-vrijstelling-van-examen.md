@@ -43,7 +43,5 @@ De kandidaat, die in het bezit is van het getuigschrift met aanvullende bewijsst
 
 's-Gravenhage 26 januari 1978
 
-De\
-Staatssecretaris\
-Economische Zaken\
+De Staatssecretaris van Economische Zaken,\
 Th. M. Hazekamp

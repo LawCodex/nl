@@ -90,10 +90,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de *‘Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke en consulaire vertegenwoordiging te Bulgarije 1907–1941, het archief van het gezantschap te Bulgarije (Sofia), 1947–1953 en van het archief van het gezantschap te Bulgarije (Sofia), gevestigd te Belgrado, (1940–1941) 1947–1954’* worden gevoegd.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

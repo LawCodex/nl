@@ -64,9 +64,5 @@ Dit besluit treedt in werking met ingang van 1 juli 2006.
 
 Den Haag 24 juli 2006
 
-De\
-Staatssecretaris\
-Defensie\
-voor deze:\
-Hoofddirecteur Personeel\
-B.H.J.J.M.Völkers
+De Staatssecretaris van Defensie, voor deze:de Hoofddirecteur Personeel,\
+B.H.J.J.M. Völkers

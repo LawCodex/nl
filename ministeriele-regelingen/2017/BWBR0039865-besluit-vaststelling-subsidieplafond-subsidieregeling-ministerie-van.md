@@ -37,9 +37,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-Namens deze,\
-De plv. Directeur-Generaal Internationale Samenwerking,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, Namens deze, De plv. Directeur-Generaal Internationale Samenwerking,\
 R. Buijs
 
 [^n1]: 1 Stcrt 2016, 11200; 2017, 11298

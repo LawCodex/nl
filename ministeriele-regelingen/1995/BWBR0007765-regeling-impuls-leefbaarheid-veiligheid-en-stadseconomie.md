@@ -75,7 +75,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ’s-Gravenhage 19 december 1995
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken\
-J.Kohnstamm
+De Staatssecretaris van Binnenlandse Zaken,\
+J. Kohnstamm

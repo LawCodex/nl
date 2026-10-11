@@ -41,7 +41,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 24 december 2010
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma

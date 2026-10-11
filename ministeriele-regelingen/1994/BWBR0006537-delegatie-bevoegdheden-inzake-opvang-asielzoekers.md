@@ -35,6 +35,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-H. d'Ancona
+De Minister voornoemd,\
+H. d' Ancona

@@ -62,9 +62,7 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-M.J.M.Verhagen
+De Minister van Buitenlandse Zaken,\
+M.J.M. Verhagen
 
 [^n1]: 1 Laatstelijk gewijzigd bij Besluit 2009/1003/GBVB van de Raad van de Europese Unie van 22 december 2009 houdende wijziging van Gemeenschappelijk Standpunt 2009/788/GBVB betreffende beperkende maatregelen tegen de Republiek Guinee (Pb EG L 346).

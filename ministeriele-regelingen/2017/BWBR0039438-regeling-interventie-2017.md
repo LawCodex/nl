@@ -324,10 +324,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 3 april 2017
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-M.H.P. vanDam
+De Staatssecretaris van Economische Zaken,\
+M.H.P. van Dam
 
 ## Bijlage 1 — als bedoeld in artikel 14
 

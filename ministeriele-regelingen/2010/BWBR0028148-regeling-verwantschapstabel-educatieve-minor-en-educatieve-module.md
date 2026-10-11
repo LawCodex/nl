@@ -54,10 +54,8 @@ Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-J.M. vanBijsterveldt-Vliegenthart
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart
 
 ## Bijlage — als bedoeld in artikel 2, tweede lid
 

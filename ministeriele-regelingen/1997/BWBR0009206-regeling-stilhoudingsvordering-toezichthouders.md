@@ -48,7 +48,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 18 december 1997
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie ,\
+W. Sorgdrager

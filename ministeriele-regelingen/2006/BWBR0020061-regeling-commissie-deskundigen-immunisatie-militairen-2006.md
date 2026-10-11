@@ -112,7 +112,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 6 juli 2006
 
-De\
-Staatssecretaris\
-Defensie\
-C. van derKnaap
+De Staatssecretaris van Defensie,\
+C. van der Knaap

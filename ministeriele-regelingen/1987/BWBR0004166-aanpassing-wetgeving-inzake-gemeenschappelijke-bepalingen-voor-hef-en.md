@@ -126,6 +126,5 @@ Vervallen
 
 's-Gravenhage 16 juni 1987
 
-De\
-staatssecretaris\
-L. deGraaf
+De staatssecretaris voornoemd,\
+L. de Graaf

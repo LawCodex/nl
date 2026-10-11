@@ -302,10 +302,8 @@ Deze regeling wordt aangehaald als: Regeling politiehonden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes
 
 ## Bijlage 1
 

@@ -37,12 +37,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 's-Gravenhage 24 december 1992
 
-De\
-Staatssecretaris\
-Landbouw, Natuurbeheer en Visserij,
+De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,
 
 Voor deze:
 
 De secretaris-generaal,\
-G. A. Koopstra,\
-loco-Secretaris-Generaal
+G. A. Koopstra, loco-Secretaris-Generaal

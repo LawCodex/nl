@@ -44,7 +44,5 @@ Deze regeling zal in de Staatscourant en het Algemeen Politieblad worden geplaat
 
 's-Gravenhage 25 maart 1994
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

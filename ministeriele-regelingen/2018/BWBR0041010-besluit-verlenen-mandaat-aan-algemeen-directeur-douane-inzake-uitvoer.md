@@ -64,7 +64,5 @@ naam van de gemandateerde.
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt daarbij terug tot en met 1 juli 2016.
 
-De Minister van Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de directeur van de Erfgoedinspectie\
+De Minister van Onderwijs, Cultuur en Wetenschap, namens deze, de directeur van de Erfgoedinspectie\
 S.E.B. Siregar

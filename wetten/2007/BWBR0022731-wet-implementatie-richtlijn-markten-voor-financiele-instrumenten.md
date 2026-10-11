@@ -84,10 +84,10 @@ Gegeven te 's-Gravenhage 30 oktober 2007
 
 Beatrix
 
-De Minister van Financiën\
-W. J.Bos
+De Minister van Financiën,\
+W. J. Bos
 
 de *eenendertigste* oktober 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -47,10 +47,8 @@ Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staats
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 ## Bijlage I — bij de Warenwetregeling nadere eisen kinderbedden en -boxen
 

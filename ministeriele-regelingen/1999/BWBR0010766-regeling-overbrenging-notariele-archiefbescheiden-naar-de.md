@@ -53,12 +53,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 11 oktober 1999
 
-De\
-Staatssecretaris\
-Justitie\
-M.J.Cohen
+De Staatssecretaris van Justitie,\
+M.J. Cohen
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschappen\
-F. van derPloeg
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,\
+F. van der Ploeg

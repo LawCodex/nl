@@ -80,7 +80,5 @@ Deze regeling kan worden aangehaald als Regeling tot instelling van de Centrale 
 
 's-Gravenhage 13 maart 1990
 
-De\
-staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

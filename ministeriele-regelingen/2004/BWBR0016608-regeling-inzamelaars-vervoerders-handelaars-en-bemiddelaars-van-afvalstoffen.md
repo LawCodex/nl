@@ -116,10 +116,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Den Haag 13 april 2004
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.L.B.A. vanGeel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+P.L.B.A. van Geel
 
 ## Bijlage 1
 

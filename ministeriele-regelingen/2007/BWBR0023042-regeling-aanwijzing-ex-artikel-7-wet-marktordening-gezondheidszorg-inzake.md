@@ -54,10 +54,5 @@ De taakstellingsbedragen worden verwerkt als nominale bedragen en zijn onderhevi
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-namens deze:\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De Minister van Volksgezondheid, Welzijn en Sport, namens deze: de Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker

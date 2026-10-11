@@ -47,5 +47,5 @@ Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
 ’s-Gravenhage 26 juli 2018
 
-De Minister\
-F.B.J.Grapperhaus
+De Minister van Justitie en Veiligheid,\
+F.B.J. Grapperhaus

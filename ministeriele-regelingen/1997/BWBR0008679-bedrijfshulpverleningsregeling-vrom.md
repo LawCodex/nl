@@ -186,12 +186,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 13 mei 1997
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 voor deze,
 
-de\
-secretaris-generaal\
-R. denDunnen
+de secretaris-generaal,\
+R. den Dunnen

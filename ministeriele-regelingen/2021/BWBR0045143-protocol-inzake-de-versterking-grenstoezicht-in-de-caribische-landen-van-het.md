@@ -241,6 +241,5 @@ K. Gijsbertha
 De Minister van Justitie, Sint Maarten,\
 A. Richardson,
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
-mede namens de Minister van Defensie, de Staatssecretaris van Justitie en Veiligheid en de Staatssecretaris van Financiën, Nederland,\
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, mede namens de Minister van Defensie, de Staatssecretaris van Justitie en Veiligheid en de Staatssecretaris van Financiën, Nederland,\
 R.W. Knops

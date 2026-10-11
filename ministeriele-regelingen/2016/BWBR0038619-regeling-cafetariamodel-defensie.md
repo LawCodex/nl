@@ -120,10 +120,8 @@ Deze regeling wordt aangehaald als Regeling cafetariamodel defensie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Defensie\
-J.A.Hennis-Plasschaert
+De Minister van Defensie\
+J.A. Hennis-Plasschaert
 
 ## Tabel 1
 

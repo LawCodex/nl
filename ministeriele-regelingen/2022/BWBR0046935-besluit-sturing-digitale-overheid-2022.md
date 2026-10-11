@@ -284,6 +284,5 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
-Digitalisering en Koninkrijksrelaties\
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, Digitalisering en Koninkrijksrelaties\
 A.C. van Huffelen

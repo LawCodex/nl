@@ -51,10 +51,8 @@ Dit besluit wordt aangehaald als: Besluit digitale vervanging papieren archiefbe
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 26 oktober 2017. Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Staatstoezicht op de Mijnen.
 
-De Minister van Economische Zaken en Klimaat,\
-namens deze:\
-T.F. Kockelkoren\
-Inspecteur-Generaal der Mijnen
+De Minister van Economische Zaken en Klimaat, namens deze:\
+T.F. Kockelkoren Inspecteur-Generaal der Mijnen
 
 ## Bijlage
 

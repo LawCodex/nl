@@ -417,15 +417,13 @@ Deze regeling wordt aangehaald als: Gemeenschappelijke regeling Historisch Centr
 De Minister voor Basis- en Voortgezet Onderwijs en Media,\
 A. Slob
 
-Burgemeester en wethouders van de gemeente Heerlen\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Heerlen De burgemeester,\
 E.G.M. Roemer
 
 De secretaris,\
 N. Bex
 
-Burgemeester en wethouders van de gemeente Maastricht\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Maastricht De burgemeester,\
 A. Penn-te Strake
 
 De secretaris,\

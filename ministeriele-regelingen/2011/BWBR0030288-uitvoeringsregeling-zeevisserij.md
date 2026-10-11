@@ -1953,10 +1953,8 @@ De volgende regelingen worden ingetrokken:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Economische Zaken, Landbouw en Innovatie,\
-H.Bleker
+De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,\
+H. Bleker
 
 ## Bijlage a1 — behorende bij de artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij
 

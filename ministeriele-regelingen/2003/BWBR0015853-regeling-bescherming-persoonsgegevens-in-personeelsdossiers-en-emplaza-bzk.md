@@ -234,10 +234,8 @@ Deze regeling wordt aangehaald als: Regeling bescherming persoonsgegevens in per
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes
 
 ## Bijlage 1 — behorende bij artikel 10
 

@@ -41,7 +41,5 @@ Dit besluit kan worden aangehaald als: Besluit vacatiegeld leden kamers Commissi
 
 Den Haag 20 maart 2008
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak

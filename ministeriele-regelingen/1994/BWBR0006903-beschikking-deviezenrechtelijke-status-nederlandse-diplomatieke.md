@@ -41,7 +41,5 @@ Deze beschikking wordt in de Staatscourant bekend gemaakt. Zij treedt in werking
 
 's-Gravenhage 5 september 1994
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

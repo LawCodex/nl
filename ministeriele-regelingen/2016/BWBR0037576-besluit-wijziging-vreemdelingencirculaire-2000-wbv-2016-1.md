@@ -41,9 +41,5 @@ Dit besluit zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 22 januari 2016
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-voor deze,\
-J.C.Goet\
-Directeur-generaal Vreemdelingenzaken
+De Staatssecretaris van Veiligheid en Justitie,voor deze,\
+J.C. GoetDirecteur-generaal Vreemdelingenzaken

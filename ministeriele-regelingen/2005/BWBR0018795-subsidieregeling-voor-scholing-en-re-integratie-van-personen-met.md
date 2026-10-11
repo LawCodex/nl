@@ -229,10 +229,8 @@ Deze regeling zal met de toelichting en bijlage 1 in de Staatscourant worden gep
 
 Den Haag 22 september 2005
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-A.J. deGeus
+De Minister van Sociale Zaken en Werkgelegenheid,\
+A.J. de Geus
 
 ## Bijlage 1
 

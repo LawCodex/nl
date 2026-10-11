@@ -27,6 +27,5 @@ De ingevolge art. 30*a* der Auteurswet 1912 voor het als bedrijf verleenen van b
 
 's-Gravenhage 24 maart 1933
 
-De\
-Minister\
-J.Donner
+De Minister voornoemd,\
+J. Donner

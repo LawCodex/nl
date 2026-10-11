@@ -159,12 +159,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 23 februari 2011
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-P. deKom
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+P. de Kom

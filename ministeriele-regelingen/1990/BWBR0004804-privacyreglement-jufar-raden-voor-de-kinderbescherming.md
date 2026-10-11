@@ -181,13 +181,9 @@ De persoonsgegevens die in de registratie zijn opgenomen zijn slechts afkomstig 
 
 's-Gravenhage 25 juni 1990
 
-De\
-staatssecretaris\
-Justitie
+De staatssecretaris van Justitie,
 
-namens de\
-staatssecretaris
+namens de staatssecretaris,
 
-de\
-Directeur-Generaal Jeugdbescherming en Delinkwentenzorg\
-mr. H.Greven
+de Directeur-Generaal Jeugdbescherming en Delinkwentenzorg\
+mr. H. Greven

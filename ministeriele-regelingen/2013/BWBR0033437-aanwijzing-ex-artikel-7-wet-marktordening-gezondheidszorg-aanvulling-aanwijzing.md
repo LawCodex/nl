@@ -29,13 +29,11 @@ Gezien de motie-Bergkamp/Van Dijk (Kamerstukken II 2012/13, 25 847, nr. 113) die
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit (hierna: zorgautoriteit) verhoogt de op grond van de Aanwijzing contracteerruimte AWBZ 2013 door haar berekende contracteerruimte voor 2013 met € 25 miljoen ten behoeve van de tarieven voor het in die aanwijzing bedoelde vervoer ten behoeve van de doelgroep kinderen en de doelgroep gehandicapte rolstoelgebonden cliënten. Zij onderzoekt welke eventuele knelpunten zich voordoen bij het vervoer voor deze doelgroepen en rapporteert mij hierover tijdig voor 1 september 2013.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

@@ -83,9 +83,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Den Haag 7 februari 2008
 
-De\
-Minister\
-Economische Zaken\
+De Minister van Economische Zaken\
 M.J.A. van der Hoeven
 
 ## Bijlage I — behorend bij artikel 2, eerste lid, van de Regeling aanvraag vergunning ruimtevaartactiviteiten en registratie

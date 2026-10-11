@@ -48,9 +48,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 19 december 2008
 
-De\
-Staatssecretaris\
-Justitie\
-namens deze,\
-directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken\
-R.K.Visser
+De Staatssecretaris van Justitie, namens deze, de directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken,\
+R.K. Visser

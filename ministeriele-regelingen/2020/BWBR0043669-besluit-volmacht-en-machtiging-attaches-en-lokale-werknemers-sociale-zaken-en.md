@@ -69,7 +69,5 @@ Deze volmacht en machtiging treedt in werking met ingang van de dag na de datum 
 
 ’s-Gravenhage 9 juni 2020
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-G.J. Buitendijk,\
-de directeur-generaal Werk
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze,\
+G.J. Buitendijk, de directeur-generaal Werk

@@ -124,14 +124,12 @@ De houder en de bewerker zien er op toe dat ten aanzien van de organisatie en be
 
 's-Gravenhage 22 oktober 1985
 
-De\
-minister
+De minister voornoemd,
 
 Voor deze,
 
-De\
-secretaris-generaal\
-P. C. deMan
+De secretaris-generaal\
+P. C. de Man
 
 ## Bijlage A — Samenstelling registratie
 

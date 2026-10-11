@@ -191,7 +191,5 @@ Dit besluit zal met bijbehorende toelichting worden gepubliceerd in de Nederland
 
 's-Gravenhage 18 januari 1991
 
-De\
-minister\
-Binnenlandse Zaken\
-C. I.Dales
+De minister van Binnenlandse Zaken,\
+C. I. Dales

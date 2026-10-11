@@ -141,9 +141,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 20 januari 2014
 
-De\
-Minister\
-Economische Zaken,\
-Namens deze:\
-M.R.P.M.Camps,\
-Secretaris-generaal.
+De Minister van Economische Zaken,Namens deze:\
+M.R.P.M. Camps,Secretaris-generaal.

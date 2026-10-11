@@ -29,7 +29,5 @@ Gelet hierop keur ik goed dat voorshands de huidige tarieven nog worden toegepas
 
 De nieuwe tarieven zullen worden toegepast nadat de ratificatie is voltooid op een datum die in overleg met de andere eurovignetlanden zal worden bepaald. Van die datum zal twee weken tevoren kennis worden gegeven in de Staatscourant.
 
-De\
-Staatssecretaris\
-Financiën\
-W.J.Bos
+De Staatssecretaris van Financiën,\
+W.J. Bos

@@ -59,10 +59,8 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Ambtelijke adviescommissie 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
 ## Bijlage
 

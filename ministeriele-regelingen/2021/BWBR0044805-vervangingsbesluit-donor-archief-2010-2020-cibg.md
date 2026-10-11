@@ -49,10 +49,8 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst met uitzond
 
 Den Haag 2 februari 2021
 
-De Minister van Volksgezondheid, Welzijn en Sport,\
-Namens deze,\
-N.A. Laagland\
-Directeur CIBG
+De Minister van Volksgezondheid, Welzijn en Sport, Namens deze,\
+N.A. Laagland Directeur CIBG
 
 ## Handboek substitutie Donorregister 2010-2020
 

@@ -58,6 +58,5 @@ De beschikking, welke in de Staatscourant zal worden geplaatst, treedt in werkin
 
 's-Gravenhage 25 juni 1976
 
-De\
-Minister\
+De Minister voornoemd,\
 J. Boersma

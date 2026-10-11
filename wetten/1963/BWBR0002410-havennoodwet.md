@@ -190,8 +190,7 @@ Gegeven ten Paleize Soestdijk 9 mei 1963.
 
 JULIANA.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 J. DE QUAY.
 
 De Minister van Verkeer en Waterstaat,\

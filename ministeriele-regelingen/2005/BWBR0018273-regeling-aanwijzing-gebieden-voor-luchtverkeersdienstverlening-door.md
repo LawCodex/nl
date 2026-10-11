@@ -416,15 +416,11 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing gebieden voor luchtverke
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-M.H.Schultz van Haegen
+De Staatssecretaris van Verkeer en Waterstaat,\
+M.H. Schultz van Haegen
 
-De\
-Staatssecretaris\
-Defensie\
-C. van derKnaap
+De Staatssecretaris van Defensie,\
+C. van der Knaap
 
 ## Bijlage A — behorende bij artikel 2 van de Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties
 

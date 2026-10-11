@@ -45,7 +45,5 @@ Dit besluit treedt in werking met ingang van de dag na publicatie in de Staatsco
 
 Namens de Staat der Nederlanden,
 
-de\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+de Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes

@@ -79,9 +79,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie ORIO.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Ontwikkelingssamenwerking\
-namens deze:\
-Directeur Generaal Internationale Samenwerking\
-J.M.G.Brandt
+De minister voor Ontwikkelingssamenwerking, namens deze: de Directeur Generaal Internationale Samenwerking,\
+J.M.G. Brandt

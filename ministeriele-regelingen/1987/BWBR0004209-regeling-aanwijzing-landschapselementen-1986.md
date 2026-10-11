@@ -175,12 +175,9 @@ De Regeling aanwijzing landschapselementen (Stcrt. 1981, 20) wordt ingetrokken.
 
 's-Gravenhage 7 september 1987
 
-De\
-minister\
-Landbouw en Visserij
+De minister van Landbouw en Visserij,
 
 Voor deze,
 
-De\
-plv. secretaris-generaal\
-M.Brabers
+De plv. secretaris-generaal,\
+M. Brabers

@@ -45,7 +45,5 @@ Het Besluit van de Minister van Economische Zaken en Klimaat, houdende specifiek
 
 Dit besluit wordt bekend gemaakt door publicatie in de Staatscourant.
 
-De Minister van Economische Zaken en Klimaat,\
-namens deze\
-A.F. Gaastra\
-Directeur-Generaal Klimaat en Energie
+De Minister van Economische Zaken en Klimaat, namens deze\
+A.F. Gaastra Directeur-Generaal Klimaat en Energie

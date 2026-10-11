@@ -52,7 +52,5 @@ Deze regeling wordt aangehaald als: Regeling toezicht Wet toelating zorginstelli
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

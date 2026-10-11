@@ -75,14 +75,11 @@ Deze regeling kan worden aangehaald als ‘Mandateringsregeling zelfbeheer Volke
 
 Deze regeling treedt in werking met ingang van 1 januari 1991 en wordt geplaatst in de Nederlandse Staatscourant.
 
-De\
-Minister\
-Defensie
+De Minister van Defensie,
 
 Voor deze,
 
-De\
-Directeur Personeel Koninklijke Luchtmacht
+De Directeur Personeel Koninklijke Luchtmacht,
 
 De Generaal-Majoor\
-J. F. G. A. M.Maas
+J. F. G. A. M. Maas

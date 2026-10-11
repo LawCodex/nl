@@ -30,7 +30,6 @@ Besluit:
 
 's-Gravenhage 22 januari 1964
 
-De\
-minister
+De minister voornoemd,
 
 Y. Scholten

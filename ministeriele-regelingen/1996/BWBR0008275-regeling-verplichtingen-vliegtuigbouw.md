@@ -74,7 +74,5 @@ Deze regeling wordt aangehaald als: Regeling verplichtingen vliegtuigbouw.
 
 ’s-Gravenhage 10 oktober 1996
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

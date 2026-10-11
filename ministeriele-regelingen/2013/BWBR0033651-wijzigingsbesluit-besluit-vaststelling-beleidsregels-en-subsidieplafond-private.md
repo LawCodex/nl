@@ -45,9 +45,5 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze:\
-De Plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
-C.Rebergen
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens deze:De Plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
+C. Rebergen

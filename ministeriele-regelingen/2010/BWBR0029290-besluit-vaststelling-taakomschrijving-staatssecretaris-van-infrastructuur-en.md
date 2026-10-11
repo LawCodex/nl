@@ -35,7 +35,5 @@ De staatssecretaris van Infrastructuur en Milieu is, binnen de grenzen van het d
 - 4. Het Koninklijk Nederlands Meteorologische Instituut;
 - 5. Onderwerpen die van geval tot geval door de minister worden aangewezen.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus

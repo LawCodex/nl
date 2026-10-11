@@ -50,7 +50,5 @@ Deze regeling wordt aangehaald als: Regeling tegemoetkoming adoptiekosten.
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

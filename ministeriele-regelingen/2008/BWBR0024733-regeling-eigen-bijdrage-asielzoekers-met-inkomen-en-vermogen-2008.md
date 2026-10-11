@@ -144,7 +144,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en tre
 
 Den Haag 12 november 2008
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak

@@ -110,7 +110,5 @@ Deze regeling wordt aangehaald als: Regeling beheer wapens en munitie politie 20
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

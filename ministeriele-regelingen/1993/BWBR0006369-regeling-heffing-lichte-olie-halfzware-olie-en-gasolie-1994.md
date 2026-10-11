@@ -43,7 +43,5 @@ De belasting wordt overeenkomstig de aangifte voldaan uiterlijk 31 januari 1994.
 
 Deze regeling treedt in werking met ingang van 1 januari 1994.
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën,\
 J.J. van Amelsvoort

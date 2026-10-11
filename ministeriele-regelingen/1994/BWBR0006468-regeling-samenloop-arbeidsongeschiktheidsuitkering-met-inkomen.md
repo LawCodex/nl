@@ -176,6 +176,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 15 februari 1994
 
-de\
-Staatssecretaris\
-J.Wallage
+de Staatssecretaris voornoemd,\
+J. Wallage

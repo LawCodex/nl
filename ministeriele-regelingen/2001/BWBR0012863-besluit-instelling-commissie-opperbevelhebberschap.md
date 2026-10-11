@@ -73,12 +73,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 28 september 2001.
 
-De\
-Minister\
-Defensie\
-F.H.G. deGrave
+De Minister van Defensie,\
+F.H.G. de Grave
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-K.G. deVries
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.G. de Vries

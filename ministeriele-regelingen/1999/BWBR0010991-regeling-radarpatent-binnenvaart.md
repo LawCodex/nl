@@ -45,7 +45,5 @@ Deze regeling wordt aangehaald als: Regeling radarpatent binnenvaart.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

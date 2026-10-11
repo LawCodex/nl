@@ -93,10 +93,8 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Den Haag 17 juli 2012
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-P. deKrom
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+P. de Krom
 
 ## Bijlage 1 — Overzicht kenmerken bijstandsuitkeringenstatistiek
 

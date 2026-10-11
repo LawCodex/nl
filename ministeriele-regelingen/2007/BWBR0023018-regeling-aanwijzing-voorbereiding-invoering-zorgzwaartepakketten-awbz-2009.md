@@ -56,7 +56,5 @@ De zorgautoriteit houdt bij de voorbereiding van de invoering van een bekostigin
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker

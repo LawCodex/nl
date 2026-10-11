@@ -125,7 +125,5 @@ Deze regeling wordt aangehaald als: Subsidieregeling andere erkende doorstroomto
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker

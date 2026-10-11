@@ -39,7 +39,5 @@ Deze regeling treedt in werking op het tijdstip waarop de wet van 30 september 2
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M. H.Schultz van Haegen
+De Ministervan Infrastructuur en Milieu,\
+M. H. Schultz van Haegen

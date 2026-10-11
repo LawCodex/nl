@@ -59,10 +59,8 @@ Deze regeling wordt aangehaald als: Regeling algemene onkostenvergoeding rechter
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten
 
 ## Bijlage — als bedoeld in artikel 3 van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 

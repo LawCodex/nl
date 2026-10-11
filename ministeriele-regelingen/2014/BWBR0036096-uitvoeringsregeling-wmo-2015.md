@@ -506,15 +506,11 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling Wmo 2015.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven
 
 ## Bijlage A — bij artikel 7 van de Uitvoeringsregeling Wmo 2015
 

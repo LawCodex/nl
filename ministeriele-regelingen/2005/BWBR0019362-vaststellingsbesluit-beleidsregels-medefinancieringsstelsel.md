@@ -35,12 +35,8 @@ Dit besluit treedt in werking met ingang van 1 januari 2006.
 
 Dit besluit zal in de Staatscourant worden geplaatst. De bijlage bij dit besluit zal worden bekendgemaakt door terinzagelegging bij het ministerie van Buitenlandse Zaken en door plaatsing op internet (www.minbuza.nl).
 
-De\
-Minister\
-Ontwikkelingssamenwerking\
-namens deze:\
-Directeur-Generaal Internationale Samenwerking\
-R.J.Treffers
+De Minister voor Ontwikkelingssamenwerking, namens deze:de Directeur-Generaal Internationale Samenwerking,\
+R.J. Treffers
 
 ## Bijlage
 

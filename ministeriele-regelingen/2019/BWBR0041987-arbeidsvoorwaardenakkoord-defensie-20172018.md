@@ -93,8 +93,5 @@ Deze regeling treedt in werking op de datum van ondertekening, met dien verstand
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Defensie,\
-voor deze\
-De Hoofddirecteur Personeel\
-P.F.M. Reesink\
-Schout bij nacht
+De Staatssecretaris van Defensie, voor deze De Hoofddirecteur Personeel\
+P.F.M. Reesink Schout bij nacht

@@ -211,8 +211,7 @@ Rapallo 9 augustus 1958.
 
 JULIANA.
 
-De Minister van Sociale Zaken\
-en Volksgezondheid a.i.,\
+De Minister van Sociale Zaken en Volksgezondheid a.i.,\
 W. DREES.
 
 de vijfde september 1958.

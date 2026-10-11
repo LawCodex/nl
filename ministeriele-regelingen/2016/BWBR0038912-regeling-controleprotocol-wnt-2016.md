@@ -39,10 +39,8 @@ Deze regeling wordt aangehaald als: Regeling controleprotocol WNT 2016.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
+R.H.A. Plasterk
 
 ## Bijlage — bij de Regeling Controleprotocol WNT 2016
 
@@ -203,6 +201,6 @@ Indien de belastinginspecteur achteraf toch tot een naheffingsaanslag voor de lo
 
 [^n6]: 6 Zie voor voorbeeldteksten www.NBA.nl, NBA-Handleiding 1115 of deel 3 Handleiding Regelgeving Accountancy.
 
-[^n7]: 7 In de verantwoordingsjaren 2014 en 2015 is de door de RvC vastgestelde klassenindeling op grond van de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector geen onderdeel geweest van accountantscontrole. Dit is in de betreffende jaren tot uitdrukking gebracht in de controleverklaring. Vanaf 2016 is de toepassing van een klassenindeling op grond van de Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp wel onderdeel van de accountantscontrole. Bij de WNT-verantwoording 2016 kan in de volgende situaties de klassenindeling 2014 of 2015 relevant zijn voor het oordeel van de accountant: In deze situaties maakt de accountant in zijn controleverklaring melding van het feit dat de klassenindeling van 2014 of 2015 niet is gecontroleerd, in overeenstemming met de door de NBA hiervoor beschikbaar te stellen tekst.
+[^n7]: 7 In de verantwoordingsjaren 2014 en 2015 is de door de RvC vastgestelde klassenindeling op grond van de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector geen onderdeel geweest van accountantscontrole. Dit is in de betreffende jaren tot uitdrukking gebracht in de controleverklaring. Vanaf 2016 is de toepassing van een klassenindeling op grond van de Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp wel onderdeel van de accountantscontrole. Bij de WNT-verantwoording 2016 kan in de volgende situaties de klassenindeling 2014 of 2015 relevant zijn voor het oordeel van de accountant: indien in 2016 overgangsrecht van toepassing is als gevolg van bestaande rechten die in 2014 of 2015 zijn overeengekomen binnen de in dat jaar toepasselijke norm welke is gebaseerd op de (niet gecontroleerde) klassenindeling van dat jaar; indien in 2016 over 2014 of 2015 foutenherstel wordt verantwoord waarbij hertoetsing aan de toepasselijke norm van 2014 of 2015 plaats vindt. In deze situaties maakt de accountant in zijn controleverklaring melding van het feit dat de klassenindeling van 2014 of 2015 niet is gecontroleerd, in overeenstemming met de door de NBA hiervoor beschikbaar te stellen tekst.
 
 [^n8]: 8 Kamerstukken I 2015/16, 34 036, nr. I.

@@ -88,7 +88,5 @@ In de regeling wordt verstaan onder:
 
 Zoetermeer 20 september 1985
 
-De\
-staatssecretaris\
-Onderwijs en Wetenschappen\
-G. vanLeijenhorst
+De staatssecretaris van Onderwijs en Wetenschappen,\
+G. van Leijenhorst

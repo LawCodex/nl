@@ -61,13 +61,13 @@ Gegeven te 's-Gravenhage 10 april 2008
 
 Beatrix
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap\
-J. M.van Bijsterveldt-Vliegenthart
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+J. M. van Bijsterveldt-Vliegenthart
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
 de *negenentwintigste* april 2008
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

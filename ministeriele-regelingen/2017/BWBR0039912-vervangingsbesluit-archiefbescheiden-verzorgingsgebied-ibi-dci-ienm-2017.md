@@ -53,9 +53,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Infrastructuur en Milieu.
 
-De Minister van Infrastructuur en Milieu,\
-namens deze,\
-DE ALGEMEEN DIRECTEUR INTEGRALE BEDRIJFSVOERING IENM,\
+De Minister van Infrastructuur en Milieu, namens deze, DE ALGEMEEN DIRECTEUR INTEGRALE BEDRIJFSVOERING IENM,\
 M.P.J. Bouten
 
 ## Bijlage I — behorend bij artikel 4 van het Vervangingsbesluit archiefbescheiden verzorgingsgebied IBI/DCI IenM 2017

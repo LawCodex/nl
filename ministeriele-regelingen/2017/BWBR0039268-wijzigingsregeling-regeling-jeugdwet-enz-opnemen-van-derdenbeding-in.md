@@ -55,12 +55,8 @@ Deze regeling treedt in werking met ingang van 1 april 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-K.H.D.M.Dijkhoff
+De Staatssecretaris van Veiligheid en Justitie,\
+K.H.D.M. Dijkhoff

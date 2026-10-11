@@ -177,9 +177,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 21 januari 2003
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
 P.L.B.A. van Geel
 
 ## Bijlage — behorend bij de artikelen 8, tweede lid, en 13, tweede lid

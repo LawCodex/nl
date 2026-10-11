@@ -157,10 +157,8 @@ Deze regeling wordt aangehaald als: Regeling tegemoetkoming schade bij dijkdoorb
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes
 
 ## Bijlage — behorend bij artikel 2, tweede lid
 

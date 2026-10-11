@@ -85,7 +85,5 @@ Dit beslút wurdt oanhelle as: Ynstellingsbeslút Konsultatyf Orgaan Frysk 2010.
 
 Dit beslút wurdt mei de taljochting yn de Nederlânske taal en de Fryske taal yn de Staatscourant publisearre. In ôfskrift fan dit beslút wurdt stjoerd oan de Algemiene Rekkenkeamer en oan it KO Frysk.
 
-De\
-Minister\
-Ynlanske Saken en Keninkryksrelaasjes\
-G. terHorst
+De Minister fan Ynlanske Saken en Keninkryksrelaasjes,\
+G. ter Horst

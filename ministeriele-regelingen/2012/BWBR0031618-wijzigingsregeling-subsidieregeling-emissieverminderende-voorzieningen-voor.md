@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 30 mei 2012
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma

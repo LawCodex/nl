@@ -95,10 +95,8 @@ Voor het kalenderjaar 2000 wordt voor de toepassing van artikel 2b, eerste lid, 
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën,\
+J.G. Wijn
 
 ## Bijlage
 

@@ -93,9 +93,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 29 juli 2015
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-namens deze,\
-S.M.A.C. vanWeert\
-Afdelingsmanager V&T
+De Staatssecretaris van Veiligheid en Justitie,namens deze,\
+S.M.A.C. van WeertAfdelingsmanager V&T

@@ -104,10 +104,8 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing bromfietsen of motorfiet
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
 ## Bijlage — behorend bij artikel 4 van de Regeling aanwijzing tweewielers ten behoeve van vrijstelling van de helmdraagplicht
 

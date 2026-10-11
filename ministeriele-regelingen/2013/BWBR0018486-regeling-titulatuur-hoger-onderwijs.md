@@ -50,10 +50,8 @@ Deze regeling wordt aangehaald als: Regeling titulatuur hoger onderwijs.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-staatssecretaris\
-onderwijs, cultuur en wetenschap\
-drs. M.Rutte
+De staatssecretaris van onderwijs, cultuur en wetenschap,\
+drs. M. Rutte
 
 ## Bijlage — Referentielijst internationale herkenbaarheid titulatuur hoger beroepsonderwijs
 

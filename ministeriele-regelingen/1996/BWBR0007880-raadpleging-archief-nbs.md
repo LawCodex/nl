@@ -37,12 +37,9 @@ Inventarisnummer 12 van het in de algemene rijksarchiefbewaarplaats berustende a
 
 Dit besluit, dat zal worden gepubliceerd in de Nederlandse Staatscourant, werkt terug tot 1 januari 1996.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschappen
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,
 
 namens deze,
 
-De\
-Algemene Rijksarchivaris\
-F.C.J.Ketelaar
+De Algemene Rijksarchivaris,\
+F.C.J. Ketelaar.

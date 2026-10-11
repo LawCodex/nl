@@ -33,7 +33,5 @@ Dit besluit wordt geplaatst in de Staatscourant.
 
 ’s-Gravenhage 26 november 1999
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.P.Pronk
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.P. Pronk

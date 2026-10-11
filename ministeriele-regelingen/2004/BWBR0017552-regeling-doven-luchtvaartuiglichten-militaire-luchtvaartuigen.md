@@ -51,7 +51,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 19 november 2004
 
-De\
-Staatssecretaris\
-Defensie\
+De Staatssecretaris van Defensie,\
 C. van der Knaap

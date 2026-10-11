@@ -87,7 +87,5 @@ Ter uitvoering van artikel 1 is van IJslandse zijde de volgende regeling getroff
 
 4\. Deze regeling vindt toepassing met betrekking tot IJslandse inkomsten die zijn verkregen op of na 1 januari 1999.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

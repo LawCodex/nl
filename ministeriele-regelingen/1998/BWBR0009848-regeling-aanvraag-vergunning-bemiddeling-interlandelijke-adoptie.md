@@ -42,7 +42,5 @@ Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
 ’s-Gravenhage 17 augustus 1998
 
-De\
-Staatssecretaris\
-Justitie\
-J.Cohen
+De Staatssecretaris van Justitie,\
+J. Cohen

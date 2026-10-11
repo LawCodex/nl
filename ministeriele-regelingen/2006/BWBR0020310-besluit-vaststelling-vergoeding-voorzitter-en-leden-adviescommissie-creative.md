@@ -37,9 +37,5 @@ Voor de voorbereidende werkzaamheden in het kader van het beoordelen van subsidi
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken\
-namens deze:\
-DG Ondernemen en Innovatie\
-C.P.Buijink
+De Minister van Economische Zaken, namens deze: de DG Ondernemen en Innovatie,\
+C.P. Buijink

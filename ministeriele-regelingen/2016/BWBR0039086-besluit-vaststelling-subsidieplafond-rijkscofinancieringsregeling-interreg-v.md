@@ -35,9 +35,5 @@ Dit besluit treedt in werking met ingang van 1 februari 2017.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-Namens deze,\
-De directeur-generaal Milieu en Internationaal,\
-C.B.F.Kuijpers
+De Staatssecretaris van Infrastructuur en Milieu,Namens deze,De directeur-generaal Milieu en Internationaal,\
+C.B.F. Kuijpers

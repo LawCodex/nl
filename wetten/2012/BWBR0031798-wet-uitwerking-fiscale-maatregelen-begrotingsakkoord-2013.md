@@ -153,8 +153,8 @@ Gegeven te
 
 Beatrix
 
-De Staatssecretaris van Financiën\
-F. H. H.Weekers
+De Staatssecretaris van Financiën,\
+F. H. H. Weekers
 
 de *zeventiende* juli 2012
 

@@ -48,7 +48,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 13 december 2010
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-H.G.J.Kamp
+De Minister van Sociale Zaken en Werkgelegenheid,\
+H.G.J. Kamp

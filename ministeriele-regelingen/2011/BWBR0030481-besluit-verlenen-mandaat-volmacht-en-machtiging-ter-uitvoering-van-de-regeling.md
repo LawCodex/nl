@@ -58,7 +58,5 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop de Regeling teg
 
 Het besluit wordt met toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

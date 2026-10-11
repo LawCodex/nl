@@ -90,7 +90,5 @@ Deze regeling wordt aangehaald als: ‘Regeling schuldregisters Nederlandse staa
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

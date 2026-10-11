@@ -75,7 +75,5 @@ Dit besluit wordt bekend gemaakt door publikatie in de Staatscourant.
 
 ’s-Gravenhage 12 december 1996
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

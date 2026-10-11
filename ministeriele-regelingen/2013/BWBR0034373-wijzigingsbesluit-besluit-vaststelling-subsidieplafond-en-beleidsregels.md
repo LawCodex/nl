@@ -37,11 +37,5 @@ Vervallen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens dezen:\
-de plv. Directeur-Generaal Internationale Samenwerking,\
-A.C.C.Rebergen
+De Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens dezen:de plv. Directeur-Generaal Internationale Samenwerking,\
+A.C.C. Rebergen

@@ -77,7 +77,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 Den Haag 23 juni 2008
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak

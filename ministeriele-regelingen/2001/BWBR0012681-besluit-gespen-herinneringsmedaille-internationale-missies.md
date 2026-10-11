@@ -173,7 +173,5 @@ Dit besluit wordt aangehaald als: Besluit gespen Herinneringsmedaille Internatio
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Defensie\
-F.H.G. deGrave
+De Minister van Defensie,\
+F.H.G. de Grave

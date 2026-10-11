@@ -70,7 +70,5 @@ DE DIRECTEUR-GENERAAL LUCHTVAART,’
 
 gevolgd door de handtekening en de naam van de directeur-generaal Luchtvaart.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs

@@ -55,7 +55,5 @@ Deze regeling treedt in werking met ingang van 1 januari 1995.
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing ambtenaren rijksbelastingdienst overgifte kentekenbewijs.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

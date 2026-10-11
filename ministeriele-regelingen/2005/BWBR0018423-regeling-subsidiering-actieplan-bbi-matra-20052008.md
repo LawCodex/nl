@@ -279,10 +279,8 @@ Deze regeling wordt aangehaald als: Regeling subsidiëring Actieplan BBI-Matra 2
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-C.P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+C.P. Veerman
 
 ## Bijlage 1 — Model-accountantsverklaring, als bedoeld in artikel 22, vijfde lid, van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008
 

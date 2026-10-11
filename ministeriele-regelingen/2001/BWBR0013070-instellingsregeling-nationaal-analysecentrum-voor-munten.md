@@ -59,7 +59,5 @@ Deze regeling treedt in werking met ingang van de dag waarop de Muntwet 2002 in 
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-W.J.Bos
+De Staatssecretaris van Financiën,\
+W.J. Bos

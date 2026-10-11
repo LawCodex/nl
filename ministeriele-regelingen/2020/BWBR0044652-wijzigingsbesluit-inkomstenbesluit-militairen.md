@@ -23,7 +23,7 @@ Gelet op: artikel 26 van het Inkomstenbesluit militairen
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 1\. Wijzigt het Inkomstenbesluit militairen.
 
@@ -31,8 +31,5 @@ Besluit:
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Defensie\
-Voor deze\
-De Hoofddirecteur Personeel\
-P.F.M. Reesink\
-Schout-bij-nacht
+De Staatssecretaris van Defensie Voor deze De Hoofddirecteur Personeel\
+P.F.M. Reesink Schout-bij-nacht

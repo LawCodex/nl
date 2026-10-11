@@ -60,7 +60,5 @@ Ter uitvoering van deze aanwijzing stelt de zorgautoriteit een beleidsregel vast
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

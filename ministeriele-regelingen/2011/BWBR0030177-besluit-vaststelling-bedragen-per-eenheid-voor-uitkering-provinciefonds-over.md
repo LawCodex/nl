@@ -35,12 +35,8 @@ Voor het uitkeringsjaar 2010 worden de bedragen per eenheid voor de uitkering ui
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-voor deze:\
-de waarnemend directeur Openbaar Bestuur en Democratie,\
-C.A.M.E.Mattijssen
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,voor deze:de waarnemend directeur Openbaar Bestuur en Democratie,\
+C.A.M.E. Mattijssen
 
 ## Bijlage 1
 

@@ -54,9 +54,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de plv. Secretaris-Generaal,\
-G.E.A. vanCraaikamp
+De Minister van Volksgezondheid, Welzijn en Sport,namens deze,de plv. Secretaris-Generaal,\
+G.E.A. van Craaikamp

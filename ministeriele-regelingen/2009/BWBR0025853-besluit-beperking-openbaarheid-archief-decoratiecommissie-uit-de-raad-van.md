@@ -548,12 +548,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Decoratiecommissie uit de Raad van Minister van het Ministerie van Buitenlandse Zaken 1946–1995’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-namens deze:\
-wnd. directeur van de Directie Documentaire Informatievoorziening\
-M.H.D.Rauner
+De Minister van Buitenlandse Zaken, namens deze:wnd. directeur van de Directie Documentaire Informatievoorziening,\
+M.H.D. Rauner
 
 ## Formulier voor toestemming tot raadpleging van niet-openbare archieven
 

@@ -52,9 +52,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 28 maart 1996
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 M. de Boer
 

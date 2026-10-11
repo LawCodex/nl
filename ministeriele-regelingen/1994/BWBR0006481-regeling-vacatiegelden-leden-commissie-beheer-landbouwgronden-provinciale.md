@@ -93,12 +93,9 @@ Deze regeling wordt aangehaald als: Regeling vacatiegelden leden commissie behee
 
 's-Gravenhage 16 februari 1994
 
-De\
-Staatssecretaris\
-Landbouw, Natuurbeheer en Visserij
+De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,
 
 Voor deze:
 
-De\
-directeur-generaal Landbouw, Natuurbeheer en Visserij\
-G. van derLely
+De directeur-generaal Landbouw, Natuurbeheer en Visserij,\
+G. van der Lely

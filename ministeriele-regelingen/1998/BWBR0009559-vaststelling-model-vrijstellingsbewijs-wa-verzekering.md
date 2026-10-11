@@ -43,10 +43,8 @@ Deze regeling treedt in werking met ingang van 1 mei 1998 en werkt terug tot en 
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
 ## Bijlage
 

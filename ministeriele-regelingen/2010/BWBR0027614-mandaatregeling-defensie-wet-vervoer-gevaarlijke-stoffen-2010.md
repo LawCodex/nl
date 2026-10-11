@@ -68,7 +68,5 @@ Deze regeling zal met de toelichting worden geplaatst in de Staatscourant en de 
 
 ’s-Gravenhage 20 april 2010
 
-De\
-Staatssecretaris\
-Defensie\
-J.G. deVries
+De Staatssecretaris van Defensie,\
+J.G. de Vries

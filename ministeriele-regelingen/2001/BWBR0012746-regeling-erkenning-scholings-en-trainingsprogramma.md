@@ -102,7 +102,5 @@ Deze regeling wordt aangehaald als: Regeling erkenning scholings- en trainingspr
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals

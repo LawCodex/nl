@@ -161,5 +161,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 21 december 2018
 
-G.M. Keijzer-Baldé\
-de algemeen directeur van de Dienst ICT Uitvoering
+G.M. Keijzer-Baldé de algemeen directeur van de Dienst ICT Uitvoering

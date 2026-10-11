@@ -53,17 +53,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 8 oktober 2002
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.J.Bomhoff
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.J. Bomhoff
 
 3 oktober 2002
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-M.Rutte
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+M. Rutte
 
 ## Bijlage I
 

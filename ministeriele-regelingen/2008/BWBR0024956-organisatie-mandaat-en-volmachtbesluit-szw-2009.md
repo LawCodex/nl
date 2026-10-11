@@ -547,7 +547,5 @@ Deze regeling zal met de toelichting (en de bijlage(n)) in de Staatscourant word
 
 Den Haag 10 december 2008
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-J.P.H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J.P.H. Donner

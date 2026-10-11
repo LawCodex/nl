@@ -37,12 +37,8 @@ Voor het uitkeringsjaar 2008 worden de bedragen, bedoeld in artikel 6 van de Inv
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-voor deze:\
-de directeur Openbaar Bestuur en Democratie\
-G.J.Buitendijk
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de directeur Openbaar Bestuur en Democratie,\
+G.J. Buitendijk
 
 ## Bijlage 1
 

@@ -46,7 +46,5 @@ Deze regeling wordt aangehaald als: Regeling nadere beroepsvereisten rechterlijk
 
 Deze regeling zal met de toelichting in de Staatscourant geplaatst worden.
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

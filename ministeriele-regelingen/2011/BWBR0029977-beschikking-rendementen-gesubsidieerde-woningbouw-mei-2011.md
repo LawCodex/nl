@@ -37,11 +37,5 @@ Voor de woningen, ten aanzien waarvan de toelatingsbeschikking voor 1 januari 19
 
 Den Haag 17 mei 2011
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-voor deze:\
-de algemeen directeur van Agentschap NL,\
-op last:\
-A.W.J.Bischoff,\
-Opdrachtmanager.
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,voor deze:de algemeen directeur van Agentschap NL,op last:\
+A.W.J. Bischoff,Opdrachtmanager.

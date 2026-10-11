@@ -76,7 +76,5 @@ Deze regeling kan worden aangehaald als: Regeling vergoeding schade persoonlijk 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en werkt terug tot en met 1 oktober 2008.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst

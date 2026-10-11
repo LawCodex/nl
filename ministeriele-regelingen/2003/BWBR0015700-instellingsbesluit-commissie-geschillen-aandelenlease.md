@@ -55,7 +55,5 @@ De Commissie bepaalt de wijze waarop zij haar taak zal uitvoeren.
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van de datum waarop de Commissie de laatste in artikel 2 bedoelde rapportage uitbrengt. Afschrift van het besluit zal worden gezonden aan de Algemene Rekenkamer.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën\
+G. Zalm

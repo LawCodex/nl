@@ -43,9 +43,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-Namens deze:\
-De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, Namens deze: De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 J. Brandt
 
 [^n1]: 1 Stcrt 2017, nr 13493.

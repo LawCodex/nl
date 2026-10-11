@@ -85,12 +85,9 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Amsterdam 9 juni 1994
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 namens deze,
 
-De Plv.\
-Agent van het Ministerie van Financiën\
-M.A.B.Harmsen
+De Plv. Agent van het Ministerie van Financiën,\
+M.A.B. Harmsen

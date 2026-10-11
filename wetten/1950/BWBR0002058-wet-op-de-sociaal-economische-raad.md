@@ -27,7 +27,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is ten aanzien van het 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## hoofdstuk Eerste — Van de Sociaal-Economische Raad
+## Eerste hoofdstuk — Van de Sociaal-Economische Raad
 
 ### Titel I — Van de zetel en de taak
 
@@ -436,7 +436,7 @@ Vervallen
 
 3\. De Raad houdt het verslag gedurende ten minste twee jaren op elektronische wijze ter inzage.
 
-## hoofdstuk Tweede — Van de bedrijfslichamen
+## Tweede hoofdstuk — Van de bedrijfslichamen
 
 ### Titel I — Van de instelling en de taak
 
@@ -794,7 +794,7 @@ Vervallen
 
 Vervallen
 
-## hoofdstuk Derde — Slotbepalingen
+## Derde hoofdstuk — Slotbepalingen
 
 ### Artikel 138
 
@@ -906,8 +906,7 @@ Gegeven ten Paleize Soestdijk 27 Januari 1950.
 
 JULIANA
 
-De Minister-President,\
-Minister van Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 W. DREES.
 
 De Minister van Economische Zaken,\

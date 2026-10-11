@@ -45,7 +45,5 @@ Dit besluit zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 Den Haag 15 mei 2001
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 A.H. Korthals

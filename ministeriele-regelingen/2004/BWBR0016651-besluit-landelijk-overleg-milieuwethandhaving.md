@@ -167,7 +167,5 @@ Dit besluit wordt met de daarbij behorende toelichting in de Staatscourant gepla
 
 Den Haag 26 april 2004
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+S.M. Dekker

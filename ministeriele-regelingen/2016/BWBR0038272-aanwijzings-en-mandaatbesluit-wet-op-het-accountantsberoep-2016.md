@@ -90,7 +90,5 @@ Dit besluit wordt aangehaald als: Aanwijzings- en mandaatbesluit Wet op het acco
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem

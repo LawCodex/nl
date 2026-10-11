@@ -45,13 +45,8 @@ Dit besluit wordt als bijlage gevoegd bij de Verklaring van overbrenging archief
 
 Den Haag 28 februari 2012
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-namens deze:\
-A.F.M.Litjens,\
-Manager Digitale Informatie,\
-Directie Bedrijfsvoering
+De Minister van Economische Zaken, Landbouw en Innovatie,namens deze:\
+A.F.M. Litjens,Manager Digitale Informatie,Directie Bedrijfsvoering
 
 ## Bijlage
 

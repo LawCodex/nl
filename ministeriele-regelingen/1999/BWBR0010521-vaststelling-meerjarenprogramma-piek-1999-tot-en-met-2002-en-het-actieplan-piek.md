@@ -27,7 +27,5 @@ Besluit:
 
 vast te stellen het meerjarenprogramma Piek 1999 tot en met 2002 en het actieplan Piek 1999 van de Subsidie-regeling stiller, schoner en zuiniger verkeer en vervoer, overeenkomstig de bij dit besluit gevoegde bijlagen.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

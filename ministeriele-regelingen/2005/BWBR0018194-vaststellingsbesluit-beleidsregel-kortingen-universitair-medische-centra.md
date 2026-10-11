@@ -73,7 +73,5 @@ Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekeni
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

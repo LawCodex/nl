@@ -99,10 +99,8 @@ Deze regeling wordt aangehaald als: Subsidieregeling huisvestingslasten gesloten
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn
 
 ## Bijlage — schema invoering normatieve huisvestingscomponent (NHC)
 

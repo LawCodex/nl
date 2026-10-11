@@ -41,11 +41,5 @@ Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoning
 
 Den Haag 14 mei 2007
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-voor deze:\
-algemeen directeur van SenterNovem\
-op last:\
-opdrachtmanager Regelingen Gebouwde Omgeving\
-W.H.B.Hoondert
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze:de algemeen directeur van SenterNovem, op last:de opdrachtmanager Regelingen Gebouwde Omgeving,\
+W.H.B. Hoondert

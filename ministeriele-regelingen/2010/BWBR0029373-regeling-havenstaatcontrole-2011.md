@@ -372,7 +372,5 @@ Deze regeling wordt aangehaald als: Regeling havenstaatcontrole 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Ministervan Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus

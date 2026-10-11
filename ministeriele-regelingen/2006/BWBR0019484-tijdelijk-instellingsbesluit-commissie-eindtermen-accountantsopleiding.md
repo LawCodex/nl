@@ -65,9 +65,5 @@ De Commissie stelt een bestuursreglement vast. Het bestuursreglement en elke wij
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 december 2005.
 
-De\
-Minister\
-Financiën\
-namens deze:\
-plv. Thesaurier-Generaal\
-B. terHaar
+De Minister van Financiën, namens deze:de plv. Thesaurier-Generaal,\
+B. ter Haar

@@ -97,10 +97,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 9 februari 2009
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer
 
 ## Bijlage — bij de artikelen 1a en 2 van de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009
 

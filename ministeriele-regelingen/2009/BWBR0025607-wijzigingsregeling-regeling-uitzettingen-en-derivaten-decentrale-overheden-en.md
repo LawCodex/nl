@@ -45,7 +45,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-A.Th.B.Bijleveld-Schouten
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+A.Th.B. Bijleveld-Schouten

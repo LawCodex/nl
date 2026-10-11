@@ -25,16 +25,13 @@ Gelet op artikel 8, eerste lid, van het Kaderbesluit subsidies I en M en artikel
 
 BESLUIT:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond, bedoeld in artikel 4, tweede lid, van de Subsidieregeling VeiligheidNL wordt voor de periode vanaf 1 augustus 2022 tot en met 30 september 2022 vastgesteld op € 100.000,– voor het doen van onderzoek en € 100.000,– voor het geven van voorlichting.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Infrastructuur en Waterstaat,\
-Namens deze,\
-De Directeur-Generaal Milieu en Internationaal,
+De Staatssecretaris van Infrastructuur en Waterstaat, Namens deze, De Directeur-Generaal Milieu en Internationaal,
 
-b.a.\
-DE DIRECTEUR DUURZAME LEEFOMGEVING EN CIRCULAIRE ECONOMIE,\
+b.a. DE DIRECTEUR DUURZAME LEEFOMGEVING EN CIRCULAIRE ECONOMIE,\
 E.E. de Kleuver

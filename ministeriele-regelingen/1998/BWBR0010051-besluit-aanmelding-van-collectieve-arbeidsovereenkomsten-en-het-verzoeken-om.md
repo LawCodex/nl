@@ -183,9 +183,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ’s- Gravenhage 2 december 1998
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
+De Minister van Sociale Zaken en Werkgelegenheid,\
 K.G. de Vries
 
 ## Bijlage 1

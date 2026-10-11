@@ -71,7 +71,5 @@ Ten behoeve van een efficiënte en verantwoorde evaluatie in het kader van het E
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.L.L.E.Veldhuijzen van Zanten-Hyllner
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.L.L.E. Veldhuijzen van Zanten-Hyllner

@@ -47,7 +47,5 @@ Dit besluit wordt aangehaald als: Benoemingsbesluit leden Transitiecommissie Soc
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden verzonden aan betrokkenen.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk

@@ -40,7 +40,5 @@ Deze bekendmaking zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 1 december 2016
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-de directeur Stelsel en Volksverzekeringen,\
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze, de directeur Stelsel en Volksverzekeringen,\
 J.A.A. Dikmans

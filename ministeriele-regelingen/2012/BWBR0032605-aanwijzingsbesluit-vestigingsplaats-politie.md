@@ -35,7 +35,5 @@ Dit besluit treedt in werking op 1 januari 2013.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

@@ -315,10 +315,8 @@ Deze regeling wordt aangehaald als: Examenreglement voor luchtvarenden 2004.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-M.H.Schultz van Haegen
+De Staatssecretaris van Verkeer en Waterstaat,\
+M.H. Schultz van Haegen
 
 ## Bijlage — behorende bij artikel 8, vierde lid, van het Examenreglement voor luchtvarenden 2004
 

@@ -132,11 +132,9 @@ Deze beschikking met bijbehorende toelichting en bijlagen wordt tezamen met de t
 
 's-Gravenhage 10 april 1980
 
-De\
-Minister
+De Minister voornoemd,
 
 Namens de Minister,
 
-De\
-secretaris-generaal\
-L.Oranje
+De secretaris-generaal,\
+L. Oranje

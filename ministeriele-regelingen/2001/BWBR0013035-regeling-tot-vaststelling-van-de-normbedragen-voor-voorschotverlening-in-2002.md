@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 26 november 2001.
 
-De\
-Staatssecretaris\
-Justitie,\
+De Staatssecretaris van Justitie,\
 N.A. Kalsbeek.

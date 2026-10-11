@@ -40,7 +40,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit zal in de Staatscourant worden geplaatst.
 
 De Directeur Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies,\
-T.H. Maas\
-Voor akkoord,\
-de Secretaris-Generaal,\
+T.H. Maas Voor akkoord, de Secretaris-Generaal,\
 E. Gerritsen

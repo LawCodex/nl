@@ -70,10 +70,8 @@ De in artikel 3 bedoelde Directeur onderscheidenlijk de Directeur van de Belasti
 
 's-Gravenhage 26 januari 1981
 
-De\
-Minister\
-Financiën\
-G. M. V. vanAardenne
+De Minister van Financiën a.i.,\
+G. M. V. van Aardenne
 
 ## 1 — Bijlage 1 Bewijs van Consignatie
 

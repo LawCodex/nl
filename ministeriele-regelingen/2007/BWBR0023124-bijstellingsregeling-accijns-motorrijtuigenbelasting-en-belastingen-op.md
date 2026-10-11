@@ -49,7 +49,5 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 13 december 2007
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

@@ -53,12 +53,9 @@ Voor wat betreft het mandaat onderscheidenlijk de volmacht, bedoeld in dit beslu
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt gepubliceerd en werkt terug tot en met 1 januari 2001.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 
 voor deze,
 
-de\
-waarnemend directeur Personeelsmanagement Rijksdienst\
-A.J.M.Warnier
+de waarnemend directeur Personeelsmanagement Rijksdienst,\
+A.J.M. Warnier

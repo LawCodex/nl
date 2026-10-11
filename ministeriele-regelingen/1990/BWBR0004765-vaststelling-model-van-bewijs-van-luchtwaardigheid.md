@@ -37,7 +37,5 @@ De in deze regeling genoemde bijlage ligt ter inzage bij de Directie Luchtvaarti
 
 's-Gravenhage 29 mei 1990
 
-De\
-minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen

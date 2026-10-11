@@ -30,7 +30,6 @@ in overeenstemming met de Minister van Volksgezondheid en Milieuhygiëne,
 
 's-Gravenhage 25 november 1971
 
-De\
-Minister
+De Minister voornoemd,
 
 Van Agt

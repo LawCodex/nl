@@ -1,0 +1,32 @@
+---
+title: "Besluit ter uitvoering van artikel 5, eerste lid, van de Faillissementswet BES"
+identifier: "BWBR0028299"
+type: decree
+bwb_type: "AMvB-BES"
+jurisdiction: nl
+language: nl
+date: 2010-09-16
+last_amended: 2010-10-10
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0028299/2010-10-10"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0028299/2010-10-10_0/xml/BWBR0028299_2010-10-10_0.xml"
+authority: "Veiligheid en Justitie"
+rechtsgebied: ["Insolventierecht", "Faillissement"]
+retrieved: 2026-10-11
+---
+
+# Besluit ter uitvoering van artikel 5, eerste lid, van de Faillissementswet BES
+
+## Enig artikel
+
+De in artikel 5, lid 1 van de Faillissementswet BES bedoelde oproeping door de griffier geschiedt door middel van de post, van de telegraaf of van een dienaar van de openbare macht.
+
+Indien de griffier de oproeping per post verzendt, geschiedt de verzending per aangetekende brief.
+
+Indien de griffier de oproeping doet door middel van de telegraaf voorziet hij het telegram van de aanwijzing «kennisgeving van aflevering» of «P.C.».
+
+Indien de griffier de oproeping verzendt door middel van een dienaar van de openbare macht, doet hij de oproeping in een gesloten omslag, waarop hij als afzender wordt genoemd; zo nodig vermeldt de omslag het adres van de schuldenaar.
+
+De bezorging geschiedt tegen een door of namens de geadresseerde te ondertekenen ontvangstbewijs, waarop dag en uur van de ontvangst moeten worden vermeld. Wordt de brief niet aangenomen, dan laat de dienaar van de openbare macht aan het aangewezen adres een kennisgeving achter, dat de brief ter griffie van het in de kennisgeving vermelde gerecht kan worden afgehaald. Zo spoedig mogelijk wordt het ontvangstbewijs of, in geval van niet-afgifte van de brief, deze zelf ter griffie bezorgd.
+
+De griffier kan ook aan een dienaar van de openbare macht opdracht geven de oproeping te doen bij exploit. Deze laat afschrift van het exploit aan de persoon of aan de woonplaats van de schuldenaar en doet het oorspronkelijke zo spoedig mogelijk aan de griffier toekomen.

@@ -43,7 +43,7 @@ Wijzigt de Wet algemene regels herindeling.
 
 ## Hoofdstuk 2 — Ministerie van Buitenlandse Zaken
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905.
 
@@ -227,7 +227,7 @@ Wijzigt het Wetboek van Strafvordering.
 
 ## Hoofdstuk 6 — Ministerie van Landbouw, Natuurbeheer en Visserij
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Zaaizaad- en Plantgoedwet.
 
@@ -361,7 +361,7 @@ Wijzigt de Uitvoeringswet EG-betekeningsverordening.
 
 ## Hoofdstuk 13 — Overgangsrecht
 
-### artikel Enig
+### Enig artikel
 
 Het recht zoals dat gold voor de inwerkingtreding van deze wet blijft van toepassing in gevallen waarin ingevolge artikel VII van de wet van 6 december 2001 tot herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Stb. 580) het recht zoals dat gold voor inwerkingtreding van die wet van toepassing blijft.
 

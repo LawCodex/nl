@@ -62,14 +62,10 @@ Deze regeling wordt aangehaald als: Warenwetregeling residuen van bestrijdingsmi
 
 Leidschendam 31 januari 1984
 
-De\
-Staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur,\
-J. P. van derReijden
+De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+J. P. van der Reijden
 
-De\
-Staatssecretaris\
-Landbouw en Visserij\
+De Staatssecretaris van Landbouw en Visserij,\
 A. Ploeg
 
 ## Bijlage I

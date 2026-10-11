@@ -294,9 +294,5 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 28 oktober 2009
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-namens deze:\
-Secretaris-Generaal\
-J.F. deLeeuw
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze: de Secretaris-Generaal,\
+J.F. de Leeuw

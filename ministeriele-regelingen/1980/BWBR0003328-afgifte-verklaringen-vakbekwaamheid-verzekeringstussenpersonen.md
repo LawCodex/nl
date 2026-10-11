@@ -39,7 +39,5 @@ Deze beschikking treedt in werking met ingang van 15 juli 1980 en wordt in de Ne
 
 's-Gravenhage 7 juli 1980
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

@@ -84,7 +84,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Toetsingscommissie Getuigen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker

@@ -51,6 +51,5 @@ Wanneer op de dag, waarop de artikelen 8 en 13 van de Algemene Weduwen- en Wezen
 
 's-Gravenhage 13 juli 1959
 
-De\
-staatssecretaris\
+De staatssecretaris voornoemd,\
 B. Roolvink

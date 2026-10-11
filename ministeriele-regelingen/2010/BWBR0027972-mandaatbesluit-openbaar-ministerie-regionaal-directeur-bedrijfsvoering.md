@@ -164,16 +164,8 @@ Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie region
 
 Breda 20 april 2010
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-de hoofdofficier van Justitie,\
-H.M.P.Hillenaar.
+De Minister van Justitie,namens deze:de hoofdofficier van Justitie,\
+H.M.P. Hillenaar.
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-de hoofdofficier van Justitie,\
-D.Greive.
+De Minister van Justitie,namens deze:de hoofdofficier van Justitie,\
+D. Greive.

@@ -27,13 +27,11 @@ Na op 16 december 2015 schriftelijk mededeling te hebben gedaan aan de Eerste en
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit stelt met ingang van 1 januari 2017 voor logopedie vrije tarieven als bedoeld in artikel 50, eerste lid, onderdeel a van de Wet marktordening gezondheidszorg vast.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

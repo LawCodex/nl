@@ -65,9 +65,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 2 januari 2017
 
-De\
-Minister\
-Economische Zaken\
-namens deze:\
-A.A.J.M.Martens\
-Manager Concernstaf van de Rijksdienst voor Ondernemend Nederland
+De Minister van Economische Zaken, namens deze:\
+A.A.J.M. MartensManager Concernstaf van de Rijksdienst voor Ondernemend Nederland

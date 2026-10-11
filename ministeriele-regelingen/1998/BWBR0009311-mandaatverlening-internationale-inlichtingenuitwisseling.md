@@ -34,6 +34,5 @@ De volgende functionarissen aan te wijzen om namens de Staatssecretaris van Fina
 
 Het Hoofd van Belastingdienst/FIOD, het Hoofd Belastingdienst/Douane Informatiecentrum en het Hoofd Belastingdienst/Centrale eenheid Intra Communautaire Transacties te machtigen om met betrekking tot het nemen van besluiten ingevolge de artikelen 5 en 7 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen, ondermandaat te verlenen aan daartoe aan te wijzen functionarissen.
 
-De\
-Directeur Algemene Fiscale Zaken,\
+De Directeur Algemene Fiscale Zaken,\
 B.J. van der Zee

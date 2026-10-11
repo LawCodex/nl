@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting en de bijlagen, met uitzondering van het co
 
 Den Haag 17 december 2003
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-M.Rutte
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid\
+M. Rutte

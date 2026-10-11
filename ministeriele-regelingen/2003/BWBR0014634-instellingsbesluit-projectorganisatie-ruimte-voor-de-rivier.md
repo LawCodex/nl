@@ -49,7 +49,5 @@ De projectorganisatie bestaat uit:
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin het wordt geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 Roelf H. de Boer

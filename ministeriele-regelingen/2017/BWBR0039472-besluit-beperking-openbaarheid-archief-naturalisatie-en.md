@@ -47,9 +47,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Rijswijk 12 april 2017
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-R.J.T. vanLint\
-De hoofddirecteur van de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie
+De Minister van Veiligheid en Justitie,namens deze,\
+R.J.T. van LintDe hoofddirecteur van de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie

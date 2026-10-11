@@ -85,7 +85,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 's-Gravenhage 21 februari 1995
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

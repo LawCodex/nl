@@ -89,10 +89,8 @@ Dit besluit wordt aangehaald als: Besluit financiën en personeel Kabinetten van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.P.H.Donner
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.P.H. Donner
 
 ## Bijlage 1
 

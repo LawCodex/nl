@@ -241,7 +241,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 juli 2019
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze:\
-G.J. Buitendijk\
-Directeur-Generaal Werk
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze:\
+G.J. Buitendijk Directeur-Generaal Werk

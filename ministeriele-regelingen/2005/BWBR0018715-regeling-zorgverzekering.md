@@ -1896,10 +1896,8 @@ Deze regeling wordt aangehaald als: Regeling zorgverzekering.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst
 
 ## Bijlage 0 — horende bij artikel 2.1, onderdeel k, van de Regeling zorgverzekering
 

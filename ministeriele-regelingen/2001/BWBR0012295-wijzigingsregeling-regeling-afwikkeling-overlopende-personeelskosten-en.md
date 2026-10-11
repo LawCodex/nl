@@ -43,7 +43,5 @@ Deze regeling treedt in werking met ingang van de derde dag na de datum van uitg
 
 Deze regeling zal (met de toelichting) in Uitleg OCenW-regelingen worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
-De\
-staatssecretaris van\
-onderwijs, cultuur en wetenschappen,\
+De staatssecretaris vanvan onderwijs, cultuur en wetenschappen,\
 drs. K.Y.I.J. Adelmund.

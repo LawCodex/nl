@@ -43,7 +43,5 @@ Dit besluit treedt in werking met ingang van 1 oktober 2012.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.W.E.Spies
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W.E. Spies

@@ -229,9 +229,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 5 augustus 2015
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-M.H.Houpt,\
-Directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+M.H. Houpt,Directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden

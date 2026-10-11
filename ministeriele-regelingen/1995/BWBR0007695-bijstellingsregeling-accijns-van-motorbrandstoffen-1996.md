@@ -37,7 +37,5 @@ Artikel 84a van de Wet op de accijns vindt geen toepassing.
 
 2\. Deze regeling wordt aangehaald als: Bijstellingsregeling accijns van motorbrandstoffen 1996.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

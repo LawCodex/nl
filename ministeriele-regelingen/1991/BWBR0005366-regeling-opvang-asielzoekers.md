@@ -294,7 +294,5 @@ Deze regeling kan worden aangehaald als Regeling opvang asielzoekers.
 
 Een afschrift van deze regeling wordt gezonden aan de Algemene Rekenkamer.
 
-De\
-minister\
-Welzijn, Volksgezondheid en Cultuur\
-H. d'Ancona
+De minister van Welzijn, Volksgezondheid en Cultuur,\
+H. d' Ancona

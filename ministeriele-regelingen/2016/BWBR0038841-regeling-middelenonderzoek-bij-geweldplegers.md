@@ -110,10 +110,8 @@ Deze regeling wordt aangehaald als: Regeling middelenonderzoek bij geweldplegers
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur
 
 ## Bijlage 1 — behorende bij artikel 5 van de Regeling middelenonderzoek bij geweldplegers
 

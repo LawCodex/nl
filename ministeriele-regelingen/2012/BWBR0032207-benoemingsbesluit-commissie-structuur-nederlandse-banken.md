@@ -79,7 +79,5 @@ Dit besluit wordt aangehaald als: Benoemingsbesluit Commissie Structuur Nederlan
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.C. deJager
+De Minister van Financiën,\
+J.C. de Jager

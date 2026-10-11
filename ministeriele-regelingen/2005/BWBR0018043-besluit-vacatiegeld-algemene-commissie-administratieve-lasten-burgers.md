@@ -37,7 +37,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Den Haag 21 februari 2005
 
-De\
-Minister\
-Bestuurlijke Vernieuwing en Koninkrijksrelaties\
-Th.C. deGraaf
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties,\
+Th.C. de Graaf

@@ -1883,11 +1883,5 @@ Dit besluit wordt als bijlage gevoegd bij de Verklaring van overbrenging van het
 
 Den Haag 1 september 2011
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-namens deze:\
-A.F.M.Litjens,\
-hoofd Informatie,\
-Vakeenheid Informatie,\
-Directie Bedrijfsvoering (voormalig EZ).
+De Minister van Economische Zaken, Landbouw en Innovatie,namens deze:\
+A.F.M. Litjens,hoofd Informatie,Vakeenheid Informatie,Directie Bedrijfsvoering (voormalig EZ).

@@ -83,11 +83,8 @@ Deze regeling wordt gepubliceerd in de Staatscourant en in het Algemeen politieb
 
 's-Gravenhage 22 februari 1994
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-J. J. H. Suyver\
-directeur-generaal Politie en Criminaliteitsbestrijding
+J. J. H. Suyver , directeur-generaal Politie en Criminaliteitsbestrijding

@@ -39,10 +39,8 @@ Het betreft:
 
 Den Haag 9 augustus 2000
 
-De\
-Minister\
-Verkeer en Waterstaat\
-B.Westerduin
+De Minister van Verkeer en Waterstaat,\
+B. Westerduin
 
 ## Bijlage 1 — Nieuwe en gewijzigde verkeersscheidingsstelsels en daarmee verband houdende routeringsmaatregelen
 

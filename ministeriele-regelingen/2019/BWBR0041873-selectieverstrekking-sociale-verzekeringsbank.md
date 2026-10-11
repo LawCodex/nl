@@ -85,10 +85,8 @@ Het besluit en de bijlage bij het besluit worden gepubliceerd in de Staatscouran
 
 Den Haag 25 januari 2019
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
-namens deze,\
-R. Maas\
-Directeur Rijksdienst voor Identiteitsgegevens
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, namens deze,\
+R. Maas Directeur Rijksdienst voor Identiteitsgegevens
 
 ## Bijlage — bij artikel 2 van dit besluit
 

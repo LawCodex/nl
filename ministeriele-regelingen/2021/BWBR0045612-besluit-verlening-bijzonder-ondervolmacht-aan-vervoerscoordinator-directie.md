@@ -38,6 +38,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 De Directeur Organisatie, Bedrijfsvoering en Personeel,\
 M.A.H. Salimans
 
-Voor akkoord,\
-de Secretaris-Generaal a.i.,\
+Voor akkoord, de Secretaris-Generaal a.i.,\
 S. Riedstra

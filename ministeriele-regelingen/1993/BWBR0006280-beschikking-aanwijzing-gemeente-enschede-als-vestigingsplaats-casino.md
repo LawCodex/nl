@@ -39,14 +39,10 @@ Deze beschikking wordt in de Staatscourant gepubliceerd en treedt in werking met
 
 's-Gravenhage 1 december 1993
 
-De\
-Staatssecretaris\
-Justitie
+De Staatssecretaris van Justitie,
 
 A. Kosto
 
-De\
-Minister\
-Economische Zaken
+De Minister van Economische Zaken,
 
 J. E. Andriessen

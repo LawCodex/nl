@@ -166,10 +166,8 @@ Deze beleidsregel kan worden aangehaald als: Beleidsregel trillinghinder spoor.
 
 Deze beleidsregel wordt met toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma
 
 ## Bijlage — behorend bij artikel 1 van de Beleidsregel trillinghinder spoor
 

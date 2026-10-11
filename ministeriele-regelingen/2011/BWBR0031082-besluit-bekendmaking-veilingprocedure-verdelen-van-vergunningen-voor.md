@@ -47,7 +47,5 @@ Dit besluit wordt met de toelichting in de Staatscourant geplaatst. Het besluit 
 
 Den Haag 22 december 2011
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen

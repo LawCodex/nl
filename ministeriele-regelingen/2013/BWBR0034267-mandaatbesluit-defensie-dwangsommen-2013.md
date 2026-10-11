@@ -73,6 +73,5 @@ Dit besluit zal met de toelichting worden geplaatst in de Staatscourant en in de
 
 ´s-Gravenhage 18 november 2013
 
-De\
-Secretaris-Generaal,\
-E.S.M.Akerboom
+De Secretaris-Generaal,\
+E.S.M. Akerboom

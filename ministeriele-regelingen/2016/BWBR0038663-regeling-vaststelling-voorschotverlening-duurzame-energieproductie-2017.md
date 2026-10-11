@@ -430,7 +430,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 24 oktober 2016
 
-De\
-Minister\
-Economische Zaken,\
-G. J.Kamp
+De Minister van Economische Zaken,\
+G. J. Kamp

@@ -85,10 +85,8 @@ Deze regeling wordt aangehaald als: Warenwetregeling extractiemiddelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-Hans J.Simons
+De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+Hans J. Simons
 
 ## Bijlage — Extractiemiddelen die mogen worden gebruikt bij de bereiding van grondstoffen, eet- of drinkwaren, of bestanddelen daarvan, zoals bedoeld in artikel 2, eerste lid, onder c
 

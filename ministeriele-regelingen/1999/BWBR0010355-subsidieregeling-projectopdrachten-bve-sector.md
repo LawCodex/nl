@@ -121,7 +121,5 @@ Deze regeling treedt in werking met ingang van de derde dag na de datum van uitg
 
 Deze regeling wordt aangehaald als: Subsidieregeling projectopdrachten Bve-sector.
 
-De\
-minister\
-onderwijs, cultuur en wetenschappen\
+De minister van onderwijs, cultuur en wetenschappen,\
 drs. L.M.L.H.A. Hermans

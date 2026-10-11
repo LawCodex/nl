@@ -98,7 +98,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 27 oktober 2004
 
-De\
-Staatssecretaris\
-Defensie\
-C. van derKnaap
+De Staatssecretaris van Defensie,\
+C. van der Knaap

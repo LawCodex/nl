@@ -35,9 +35,5 @@ Dit besluit treedt in werking met ingang van 1 januari 2013.
 
 Dit besluit wordt in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-namens deze:\
-de directeur-generaal Curatieve Zorg,\
-L.A.M. vanHalder.
+De Minister van Volksgezondheid, Welzijn en Sport,namens deze:de directeur-generaal Curatieve Zorg,\
+L.A.M. van Halder.

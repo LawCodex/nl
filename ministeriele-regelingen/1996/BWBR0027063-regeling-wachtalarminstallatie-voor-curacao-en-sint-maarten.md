@@ -63,9 +63,7 @@ Deze regeling zal met de toelichting in de Staatscourant en de Curaçaosche Cour
 
 ’s-Gravenhage 11 september 1996.
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 A. Jorritsma-Lebbink
 
 ## Bijlage

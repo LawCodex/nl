@@ -109,10 +109,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Staatssecretaris van Defensie\
-J. G. deVries
+De Staatssecretaris van Defensie,\
+J. G. de Vries
 
 de *tweede* maart 2010
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

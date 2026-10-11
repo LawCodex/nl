@@ -64,7 +64,5 @@ Dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift w
 
 Den Haag 11 september 1995
 
-De\
-minister\
-Justitie\
-W.Sorgdrager
+De minister van Justitie,\
+W. Sorgdrager

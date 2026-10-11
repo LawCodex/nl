@@ -411,10 +411,8 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Den Haag 28 november 2014
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher
 
 ## Bijlage 1 — Arbeidsmarktregio’s
 

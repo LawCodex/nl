@@ -77,10 +77,8 @@ Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat,\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
 ## Bijlage — bij de regeling medische uitrusting aan boord van nederlandse vissersvaartuigen
 

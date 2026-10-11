@@ -131,9 +131,5 @@ Bij afwezigheid van de directeur Participatie en Decentrale Voorzieningen worden
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-C.Bronda\
-Directeur Participatie en Decentrale Voorzieningen
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+C. BrondaDirecteur Participatie en Decentrale Voorzieningen

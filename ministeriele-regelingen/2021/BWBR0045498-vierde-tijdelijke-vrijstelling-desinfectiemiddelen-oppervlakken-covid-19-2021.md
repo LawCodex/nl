@@ -50,10 +50,8 @@ Dit besluit wordt aangehaald als: Vierde tijdelijke vrijstelling desinfectiemidd
 
 Dit besluit zal met bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,\
-Namens deze,\
-R.P. Lapperre\
-directeur-generaal Milieu en Internationaal
+DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT, Namens deze,\
+R.P. Lapperre directeur-generaal Milieu en Internationaal
 
 ## Bijlage — bedoeld in artikelen 1 en 2
 

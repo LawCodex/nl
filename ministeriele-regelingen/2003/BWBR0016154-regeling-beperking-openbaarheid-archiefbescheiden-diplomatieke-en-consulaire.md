@@ -249,10 +249,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de *‘Verklaring van Overbrenging van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963)’* worden gevoegd.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

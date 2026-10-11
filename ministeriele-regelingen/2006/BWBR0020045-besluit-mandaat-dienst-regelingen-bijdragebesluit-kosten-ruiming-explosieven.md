@@ -124,7 +124,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat Dienst Regelingen Bijdragebesl
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes

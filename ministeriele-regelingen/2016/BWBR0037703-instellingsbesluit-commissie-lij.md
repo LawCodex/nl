@@ -91,7 +91,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Commissie LIJ
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

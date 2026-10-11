@@ -79,16 +79,10 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers\
-Ten blijke van instemming:\
-de directeur van de Stichting Waarborgfonds voor de Zorgsector,\
-H.J.Bellers\
-Ten blijke van instemming:\
-de plv. directeur van Stichting Waarborgfonds voor de Zorgsector,\
-T.P.Kösters
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. SchippersTen blijke van instemming:de directeur van de Stichting Waarborgfonds voor de Zorgsector,\
+H.J. BellersTen blijke van instemming:de plv. directeur van Stichting Waarborgfonds voor de Zorgsector,\
+T.P. Kösters
 
 ## Bijlage
 

@@ -25,7 +25,7 @@ Gelet op artikel 8, tweede lid, onderdeel e, van het Kaderbesluit subsidies IenM
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond, bedoeld in artikel 4, tweede lid, van de Subsidieregeling verwijderen asbestdaken wordt voor het jaar 2019 vastgesteld op € 8.800.000,00. Hiermee is het totaal beschikbare budget voor deze subsidieregeling bereikt.
 

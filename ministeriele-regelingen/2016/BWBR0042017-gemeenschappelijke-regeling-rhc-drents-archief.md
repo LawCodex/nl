@@ -362,8 +362,7 @@ Deze regeling wordt aangehaald als: Gemeenschappelijke regeling RHC Drents Archi
 De Minister van Onderwijs, Cultuur en Wetenschap,\
 M. Bussemaker
 
-Burgemeester en wethouders van de gemeente Assen,\
-De burgemeester
+Burgemeester en wethouders van de gemeente Assen, De burgemeester
 
 De secretaris
 

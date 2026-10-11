@@ -95,7 +95,5 @@ Ter uitvoering van artikel 1 is van Braziliaanse zijde de volgende regeling getr
 
 3\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty's die betaald zijn of betaalbaar zijn gesteld op of na 1 januari 1992.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

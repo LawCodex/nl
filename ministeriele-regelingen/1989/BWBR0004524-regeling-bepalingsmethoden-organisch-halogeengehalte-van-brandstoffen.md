@@ -41,9 +41,7 @@ Indien door onderzoek van vloeibare brandstoffen of grondstoffen voor brandstoff
 
 's-Gravenhage 11 april 1989
 
-De\
-minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
 E. H. T. M. Nijpels
 
 ## Bijlage B — Meetmethode voor de bepaling van het gehalte aan organische halogeenverbindingen in minerale smeer- en systeemolie

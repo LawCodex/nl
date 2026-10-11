@@ -48,7 +48,5 @@ Voor de verdeling van de vermelde taakstelling over de ziekenhuizen gelden de vo
 
 Het op basis van voorgaande per individuele instelling berekende taakstellingsbedrag wordt verwerkt als nominaal bedrag in het A-segment en is onderhevig aan nominale aanpassingen (indexering).
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

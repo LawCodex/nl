@@ -43,10 +43,8 @@ Dit besluit wordt aangehaald als: Vaststellingsbesluit Rijkshuisvestingsstelsel 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok
 
 ## Bijlage I
 

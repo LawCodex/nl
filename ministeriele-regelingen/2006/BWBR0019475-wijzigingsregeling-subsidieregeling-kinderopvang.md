@@ -41,7 +41,5 @@ Deze regeling zal met de daarbij behorende toelichting en bijlage in de Staatsco
 
 Den Haag 23 januari 2006
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-A.J. deGeus
+De Minister van Sociale Zaken en Werkgelegenheid,\
+A.J. de Geus

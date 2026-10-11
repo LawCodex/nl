@@ -25,7 +25,7 @@ Gelet op artikel 8, eerste lid, van het Kaderbesluit subsidies I en M en artikel
 
 BESLUIT:
 
-## artikel Enig
+## Enig artikel
 
 Het bij besluit van 17 maart 2020, nr. IENW/BSK-2020/29116, op grond van artikel 4, derde lid, van de Subsidieregeling versterking omgevingsveiligheid industriële activiteiten voor 2020 vastgestelde subsidieplafond voor project a, project b en project c, van € 1.000.000 wordt verhoogd tot € 1.900.000.
 

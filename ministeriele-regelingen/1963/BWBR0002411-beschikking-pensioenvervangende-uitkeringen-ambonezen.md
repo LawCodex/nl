@@ -44,6 +44,5 @@ Deze beschikking, die in de *Staatscourant* zal worden geplaatst en waarvan afsc
 
 's-Gravenhage 13 mei 1963
 
-De\
-minister\
+De minister voornoemd,\
 M. Klompé

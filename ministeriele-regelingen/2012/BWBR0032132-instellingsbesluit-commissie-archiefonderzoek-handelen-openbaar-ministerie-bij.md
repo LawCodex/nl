@@ -92,7 +92,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Archiefonderzoek 
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

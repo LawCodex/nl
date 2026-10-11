@@ -37,7 +37,5 @@ De Nederlandse Zorgautoriteit voorziet in een uitzonderingsbepaling bij de verpl
 
 De Nederlandse Zorgautoriteit voorziet erin dat in 2013 bij de registratie en declaratievoorschriften voor de gespecialiseerde geestelijke gezondheidszorg het kenmerk bedbezetting van de verblijfsprestaties E, F en G zo wordt omschreven dat patiënten doorgaans ten tijde van de behandeling in de kliniek verblijven, en niet per definitie gedurende de gehele behandeling.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

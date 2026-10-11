@@ -75,6 +75,5 @@ Deze regeling kan worden aangehaald als: Algemene bij- en toeslagregeling AOR 20
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-E.Borst-Eilers
+De Minister voornoemd,\
+E. Borst-Eilers

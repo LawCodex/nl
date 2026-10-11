@@ -194,7 +194,5 @@ Deze regeling kan worden aangehaald als: Uitvoeringsregeling schenk- en erfbelas
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

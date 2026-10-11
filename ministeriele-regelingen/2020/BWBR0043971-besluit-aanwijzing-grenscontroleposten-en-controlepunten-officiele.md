@@ -78,11 +78,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-en de Minister voor Medische Zorg,\
-namens deze:\
-M.A. Ruys\
-De waarnemend inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit
+De Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister voor Medische Zorg, namens deze:\
+M.A. Ruys De waarnemend inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit
 
 ## Bijlage I — Levende dieren en dierlijke producten, als bedoeld in artikel 2, eerste lid
 

@@ -36,7 +36,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit zal in de Staatscourant worden geplaatst.
 
 De directeur Organisatie, Bedrijfsvoering en Personeel,\
-M.A.H. Salimans\
-Voor akkoord,\
-de Secretaris-Generaal\
+M.A.H. Salimans Voor akkoord, de Secretaris-Generaal\
 E. Gerritsen

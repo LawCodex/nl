@@ -81,12 +81,8 @@ Deze beschikking kan worden aangehaald als ‘Richtlijnen voor het gebruik van C
 
 's-Gravenhage 30 december 1983
 
-De\
-Minister\
-Binnenlandse Zaken\
-J. G. Rietkerk
+De Minister van Binnenlandse Zaken,\
+J. G. Rietkerk 's-Gravenhage 8 februari 1984
 
-De\
-Minister\
-Justititie\
-F.Korthals Altes
+De Minister van Justititie,\
+F. Korthals Altes

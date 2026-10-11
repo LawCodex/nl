@@ -41,7 +41,5 @@ Dit besluit treedt in werking met ingang van 1 januari 2016.
 
 Dit besluit zal met toelichting worden geplaatst in de Staatscourant.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus

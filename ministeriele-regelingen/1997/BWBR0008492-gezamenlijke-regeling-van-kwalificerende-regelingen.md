@@ -66,17 +66,11 @@ Deze regeling kan worden aangehaald als: Gezamenlijke regeling van kwalificerend
 
 Willemstad 9 januari 1997
 
-De\
-Staatssecretari\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën van Nederland,\
+W.A. Vermeend
 
-De\
-Minister\
-Financiën van de Nederlandse Antillen\
-H.Henriquez
+De Minister van Financiën van de Nederlandse Antillen,\
+H. Henriquez
 
-De\
-Minister\
-Financiën van Aruba\
-A.W.Engelbrecht
+De Minister van Financiën van Aruba,\
+A.W. Engelbrecht .

@@ -39,6 +39,5 @@ Dit besluit, dat met de daarbij behorende toelichting in de Nederlandse Staatsco
 
 's-Gravenhage 29 juni 1987
 
-De\
-staatssecretaris\
-L. deGraaf
+De staatssecretaris voornoemd,\
+L. de Graaf

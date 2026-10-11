@@ -57,7 +57,5 @@ Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politie
 
 ’s-Gravenhage 21 mei 1996
 
-De\
-Minister\
-Binnenlandse Zaken\
-H. F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H. F. Dijkstal

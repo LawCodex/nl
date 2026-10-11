@@ -33,7 +33,5 @@ Het collectieve aandeel van de decentrale overheden voor het EMU-saldo, zoals be
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem

@@ -51,9 +51,5 @@ namens deze,
 
 Dit besluit treedt in werking met ingang van 1 januari 2016.
 
-De\
-Staatssecretaris\
-Financiën,\
-Namens deze,\
-H.G.Roodbeen\
-directeur Internationale Zaken en Verbruiksbelastingen
+De Staatssecretaris van Financiën,Namens deze,\
+H.G. Roodbeendirecteur Internationale Zaken en Verbruiksbelastingen

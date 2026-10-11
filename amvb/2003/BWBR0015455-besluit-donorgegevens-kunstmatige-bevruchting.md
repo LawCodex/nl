@@ -84,19 +84,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 J. P. H. Donner
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
 C. I. J. M. Ross-van Dorp
 
 de eenentwintigste augustus 2003
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 J. P. H. Donner

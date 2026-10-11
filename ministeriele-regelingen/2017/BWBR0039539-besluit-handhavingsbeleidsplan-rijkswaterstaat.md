@@ -27,11 +27,7 @@ Tot vaststelling van het Handhavingsbeleidsplan Rijkswaterstaat.
 
 Dit handhavingsbeleidsplan zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-Namens deze,\
-Directeur-Generaal Rijkswaterstaat\
+De Minister van Infrastructuur en Milieu,Namens deze,Directeur-Generaal Rijkswaterstaat\
 J.H Dronkers
 
 ## Nota Handhavingsbeleidsplan Rijkswaterstaat

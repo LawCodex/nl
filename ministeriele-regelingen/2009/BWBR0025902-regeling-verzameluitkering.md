@@ -66,7 +66,5 @@ Deze regeling wordt aangehaald als: Regeling verzameluitkering.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-A.Th.B.Bijleveld-Schouten
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+A.Th.B. Bijleveld-Schouten

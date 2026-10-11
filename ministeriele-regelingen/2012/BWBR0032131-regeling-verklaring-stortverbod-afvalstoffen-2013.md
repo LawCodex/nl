@@ -57,7 +57,5 @@ Deze regeling wordt aangehaald als: Regeling verklaring stortverbod afvalstoffen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma

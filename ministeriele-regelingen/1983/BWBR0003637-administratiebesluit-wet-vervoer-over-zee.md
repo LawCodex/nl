@@ -68,6 +68,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgi
 
 's-Gravenhage 22 november 1983
 
-De\
-Minister\
-N.Smit-Kroes
+De Minister voornoemd,\
+N. Smit-Kroes

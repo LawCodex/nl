@@ -45,9 +45,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt met de bijlage in de Staatscourant geplaatst. De annexen bij de bijlage worden via internet bekend gemaakt.[^n2]
 
-De Minister van Buitenlandse Zaken,\
-namens deze,\
-de Directeur-Generaal Economische Samenwerking,\
+De Minister van Buitenlandse Zaken, namens deze, de Directeur-Generaal Economische Samenwerking,\
 M.E.C. van der Plas
 
 ## Bijlage — Subsidieprogramma creative twinning 2018–2020

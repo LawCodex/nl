@@ -69,10 +69,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S. M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,\
+S. M. Dekker
 
 de *zestiende* februari 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

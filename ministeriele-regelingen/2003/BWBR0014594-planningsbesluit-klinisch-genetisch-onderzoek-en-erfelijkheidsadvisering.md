@@ -51,10 +51,8 @@ Deze regeling wordt aangehaald als: Planningsbesluit klinisch genetisch onderzoe
 
 Deze regeling zal met de daarbij behorende bijlage en toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-C.Ross-van Dorp
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+C. Ross-van Dorp
 
 ## Bijlage — bij artikel 3 van het Planningsbesluit Klinisch genetisch onderzoek en erfelijkheidsadvisering
 

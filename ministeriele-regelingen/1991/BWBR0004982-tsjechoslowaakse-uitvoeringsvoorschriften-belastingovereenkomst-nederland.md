@@ -83,7 +83,5 @@ De beschikking van de Staatssecretaris van Financiën van 12 april 1978, nr. 078
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, vierde lid, toepassing met betrekking tot dividenden, interest en royalty's die op of na 1 januari 1972 zijn betaald of worden betaald.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

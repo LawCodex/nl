@@ -39,7 +39,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant en treedt, met terugwerkende 
 
 Den Haag 25 augustus 2005
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-M.C.F.Verdonk
+De Minister voor Vreemdelingenzaken en Integratie,\
+M.C.F. Verdonk

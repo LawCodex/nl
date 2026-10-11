@@ -49,7 +49,5 @@ Deze regeling treedt in werking met ingang van 1 januari 1996.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
+De Minister van Financiën,\
 G. Zalm

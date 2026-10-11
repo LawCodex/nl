@@ -74,12 +74,9 @@ Dit besluit treedt in werking met ingang van 1 juni 2001.
 
 Dit besluit zal worden gepubliceerd in de Staatscourant.
 
-De\
-Staatssecretaris\
-Defensie
+De Staatssecretaris van Defensie,
 
 voor deze
 
-De\
-directeur-generaal personeel\
+De directeur-generaal personeel,\
 W.J.M. Bunnik

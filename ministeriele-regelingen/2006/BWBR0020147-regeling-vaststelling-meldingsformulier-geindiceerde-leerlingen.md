@@ -51,9 +51,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling meldingsformulier geï
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-M.J.A. van derHoeven
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M.J.A. van der Hoeven
 
 Niet opgenomen.

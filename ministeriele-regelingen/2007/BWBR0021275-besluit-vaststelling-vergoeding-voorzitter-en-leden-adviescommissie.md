@@ -43,7 +43,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 9 februari 2007
 
-De\
-Staatssecretaris\
-Economische Zaken\
-C.E.G. vanGennip
+De Staatssecretaris van Economische Zaken,\
+C.E.G. van Gennip

@@ -48,9 +48,5 @@ Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van 
 
 Den Haag 14 oktober 2010
 
-De\
-Minister\
-Defensie,\
-voor deze:\
-Secretaris-generaal,\
-A.H.C.Annink
+De Minister van Defensie,voor deze:Secretaris-generaal,\
+A.H.C. Annink

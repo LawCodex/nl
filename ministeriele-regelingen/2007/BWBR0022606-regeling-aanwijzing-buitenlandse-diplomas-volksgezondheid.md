@@ -307,10 +307,8 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing buitenlandse diploma’s
 
 De Regeling aanwijzing buitenlandse diploma’s gezondheidszorg wordt ingetrokken.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 ## Bijlage 1 — Titels van diploma’s, certificaten en andere titels in de geneeskunde
 

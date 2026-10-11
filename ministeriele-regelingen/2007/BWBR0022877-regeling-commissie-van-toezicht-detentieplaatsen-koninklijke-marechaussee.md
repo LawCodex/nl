@@ -122,7 +122,5 @@ De regeling kan worden aangehaald als: Regeling commissie van toezicht detentiep
 
 Den Haag 2 november 2007
 
-De\
-Minister\
-Defensie\
+De Minister van Defensie,\
 E. van Middelkoop

@@ -31,7 +31,5 @@ Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-De Staatssecretaris van Infrastructuur en Waterstaat,\
-namens deze,\
-De Inspecteur ILT/Rail en Wegvervoer,\
+De Staatssecretaris van Infrastructuur en Waterstaat, namens deze, De Inspecteur ILT/Rail en Wegvervoer,\
 S.A.C. van Rossum

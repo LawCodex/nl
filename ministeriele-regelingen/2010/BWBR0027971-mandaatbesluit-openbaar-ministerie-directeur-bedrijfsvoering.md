@@ -162,9 +162,5 @@ Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie direct
 
 Den Bosch 24 maart 2010
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-de hoofdofficier van justitie,\
-G.V. van derBurg.
+De Minister van Justitie,namens deze:de hoofdofficier van justitie,\
+G.V. van der Burg.

@@ -49,12 +49,8 @@ Dit besluit wordt met de bijlage in de Staatscourant geplaatst met uitzondering 
 
 Den Haag 5 april 2017
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-R.E.B.Eijsenring\
-directeur Personeel en Organisatie
+De Minister van Veiligheid en Justitie,namens deze,\
+R.E.B. Eijsenringdirecteur Personeel en Organisatie
 
 ## Bijlage — behorend bij artikel 2 van het Vervangingsbesluit personele archiefbescheiden VenJ BD
 
@@ -211,9 +207,5 @@ Voordat de gedigitaliseerde documenten (reproducties) naar de tijdelijke archief
 
 Den Haag 5 april 2017
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-R.E.B.Eijsenring\
-directeur Personeel en Organisatie
+De Minister van Veiligheid en Justitie,namens deze,\
+R.E.B. Eijsenringdirecteur Personeel en Organisatie

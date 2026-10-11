@@ -37,7 +37,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ’s-Gravenhage 19 januari 1999
 
-De\
-Staatssecretaris\
-Landbouw, Natuurbeheer en Visserij\
+De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,\
 G.H. Faber

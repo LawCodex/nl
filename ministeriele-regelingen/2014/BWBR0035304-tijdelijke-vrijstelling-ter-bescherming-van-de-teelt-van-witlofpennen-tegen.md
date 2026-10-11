@@ -45,12 +45,8 @@ Dit besluit wordt aangehaald als: Tijdelijke vrijstelling ter bescherming van de
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-namens deze:\
-J.P.Hoogeveen MPA\
-Directeur-Generaal Agro
+De Staatssecretaris van Economische Zaken,namens deze:\
+J.P. Hoogeveen MPADirecteur-Generaal Agro
 
 ## Bijlage
 

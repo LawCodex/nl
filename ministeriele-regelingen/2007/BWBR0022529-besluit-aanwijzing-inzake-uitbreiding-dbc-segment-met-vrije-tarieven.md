@@ -57,10 +57,8 @@ De zorgautoriteit evalueert op basis van objectieve evaluatiecriteria de ontwikk
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 ## Bijlage — Aandoeningen DBC-segment met vrije prijzen
 

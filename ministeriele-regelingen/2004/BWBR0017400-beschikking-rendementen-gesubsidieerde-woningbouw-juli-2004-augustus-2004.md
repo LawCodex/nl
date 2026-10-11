@@ -51,7 +51,5 @@ Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoning
 
 Den Haag 2 november 2004
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+S.M. Dekker

@@ -49,7 +49,5 @@ Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden verz
 
 ‘s Gravenhage 26 juni 2015
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok

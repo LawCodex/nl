@@ -59,7 +59,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Utrecht 3 december 2019
 
-De Minister van Infrastructuur en Waterstaat,\
-Namens deze,\
-Directeur Nationale Databank Wegverkeersgegevens,\
+De Minister van Infrastructuur en Waterstaat, Namens deze, Directeur Nationale Databank Wegverkeersgegevens,\
 C.P. de Vries

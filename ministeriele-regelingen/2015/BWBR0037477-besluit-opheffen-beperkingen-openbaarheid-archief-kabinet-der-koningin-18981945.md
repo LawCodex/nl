@@ -35,9 +35,5 @@ Dit besluit treedt in werking op 1 januari 2016.
 
 Den Haag 2 december 2015
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de algemene rijksarchivaris\
-M.L.Engelhard
+De Minister van Onderwijs, Cultuur en Wetenschap,namens deze,de algemene rijksarchivaris\
+M.L. Engelhard

@@ -59,12 +59,8 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ’s-Gravenhage 19 december 1997
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-A.P.W.Melkert
+De Minister van Sociale Zaken en Werkgelegenheid,\
+A.P.W. Melkert
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken\
-J.Kohnstamm
+De Staatssecretaris van Binnenlandse Zaken,\
+J. Kohnstamm

@@ -35,9 +35,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de directeur Geneesmiddelen en Medische Technologie,\
-M.T.M. vanRaaij
+De Minister van Volksgezondheid, Welzijn en Sport,namens deze,de directeur Geneesmiddelen en Medische Technologie,\
+M.T.M. van Raaij

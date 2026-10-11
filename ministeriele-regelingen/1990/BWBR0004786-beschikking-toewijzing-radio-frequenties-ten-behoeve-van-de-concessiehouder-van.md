@@ -72,10 +72,8 @@ Indien één of meer toegewezen frequenties of frequentie-banden in het kader va
 
 's-Gravenhage 11 juni 1990
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen
 
 ## Bijlage — behorende bij de Beschikking toewijzing radio-frequenties ten behoeve van de concessiehouder van de telecommunicatie-infrastructuur
 

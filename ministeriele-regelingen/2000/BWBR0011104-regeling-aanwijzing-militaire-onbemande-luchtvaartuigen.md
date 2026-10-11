@@ -42,7 +42,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ‘s-Gravenhage 19 januari 2000
 
-De\
-Staatssecretaris\
-Defensie\
-H.A.L. vanHoof
+De Staatssecretaris van Defensie,\
+H.A.L. van Hoof

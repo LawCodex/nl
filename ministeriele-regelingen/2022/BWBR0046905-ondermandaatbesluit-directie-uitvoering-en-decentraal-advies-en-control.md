@@ -55,7 +55,5 @@ Dit besluit wordt aangehaald als: Ondermandaatbesluit directie Uitvoering en Dec
 
 Dit besluit wordt in de Staatscourant geplaatst.
 
-DE DIRECTEUR UITVOERING EN DECENTRAAL ADVIES EN CONTROL,\
-b.a.\
-De PLV. Secretaris-Generaal\
+DE DIRECTEUR UITVOERING EN DECENTRAAL ADVIES EN CONTROL, b.a. De PLV. Secretaris-Generaal\
 H. Beentjes

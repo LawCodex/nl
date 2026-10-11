@@ -243,9 +243,7 @@ Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden g
 
 's-Gravenhage 19 april 2013
 
-De\
-Minister\
-Economische Zaken
+De Minister van Economische Zaken
 
 ## Bijlage 1
 

@@ -78,12 +78,8 @@ Deze regeling wordt aangehaald als: Regeling instelling Commissie Structuur Nede
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.C. deJager
+De Minister van Financiën,\
+J.C. de Jager
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.W.E.Spies
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W.E. Spies

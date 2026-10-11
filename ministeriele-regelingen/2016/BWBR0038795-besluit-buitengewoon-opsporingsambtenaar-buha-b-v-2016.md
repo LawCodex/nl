@@ -87,9 +87,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 24 november 2016
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-namens deze,\
-S.L. deKoning\
-Wnd. afdelingsmanager V&T
+De Staatssecretaris van Veiligheid en Justitie,namens deze,\
+S.L. de KoningWnd. afdelingsmanager V&T

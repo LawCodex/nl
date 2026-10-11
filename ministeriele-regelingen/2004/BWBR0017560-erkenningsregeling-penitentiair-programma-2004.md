@@ -144,7 +144,5 @@ Deze regeling wordt aangehaald als: Erkenningsregeling penitentiair programma 20
 
 De Erkenningsregeling penitentiair programma wordt ingetrokken.
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner

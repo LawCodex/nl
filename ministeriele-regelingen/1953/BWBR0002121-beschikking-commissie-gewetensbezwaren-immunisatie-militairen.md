@@ -81,7 +81,5 @@ Deze beschikking kan worden aangehaald als: Beschikking commissie gewetensbezwar
 
 's-Gravenhage 27 October 1953
 
-De\
-Minister\
-Oorlog en van Marine\
-C.Staf
+De Minister van Oorlog en van Marine,\
+C. Staf

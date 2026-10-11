@@ -155,16 +155,8 @@ Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie region
 
 Maastricht 29 september 2010
 
-De\
-Minister\
-Justitie\
-namens deze:\
-hoofdofficier van justitie\
-J.M.Penn-te Strake
+De Minister van Justitie, namens deze:de hoofdofficier van justitie,\
+J.M. Penn-te Strake
 
-De\
-Minister\
-Justitie\
-namens deze:\
-hoofdofficier van justitie\
-P.J.D.J.Muijen
+De Minister van Justitie, namens deze:de hoofdofficier van justitie,\
+P.J.D.J. Muijen

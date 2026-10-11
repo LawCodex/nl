@@ -46,10 +46,8 @@ Deze regeling wordt aangehaald als: Regeling accountantscontrole IFV.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten
 
 ## Bijlage — als bedoeld in artikel 2 van de Regeling accountantscontrole IFV
 

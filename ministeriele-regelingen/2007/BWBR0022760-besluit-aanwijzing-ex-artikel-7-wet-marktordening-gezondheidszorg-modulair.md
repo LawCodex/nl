@@ -61,7 +61,5 @@ Het nieuwe tariefsysteem op basis van prestatiebekostiging voor farmaceutische z
 
 Dit besluit treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

@@ -97,7 +97,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 1 november 2017
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-S.L. de Koning\
-Wnd. afdelingsmanager V&T
+De Minister voor Rechtsbescherming, namens deze,\
+S.L. de Koning Wnd. afdelingsmanager V&T

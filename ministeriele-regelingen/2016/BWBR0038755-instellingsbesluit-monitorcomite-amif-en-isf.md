@@ -102,7 +102,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 7 november 2016
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-K.H.D.M.Dijkhoff
+De Staatssecretaris van Veiligheid en Justitie,\
+K.H.D.M. Dijkhoff

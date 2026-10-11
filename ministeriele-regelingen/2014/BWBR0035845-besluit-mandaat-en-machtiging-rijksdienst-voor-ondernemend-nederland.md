@@ -81,7 +81,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Rijksdienst voor
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

@@ -25,7 +25,7 @@ Gelet op artikel 10 van het archiefbesluit 1995;
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Met het oog op;
 
@@ -41,12 +41,8 @@ Met het oog op;
 - 3. Het is niet toegestaan reproducties te vervaardigen van documenten uit de dossiers, waarop deze beperkende bepalingen van toepassing zijn, zonder toestemming van de algemene rijksarchivaris. De algemene rijksarchivaris kan voorwaarden verbinden aan het verlenen van zijn toestemming.
 - 4. Publicatie van gegevens uit de ter inzage gegeven archiefbescheiden is slechts mogelijk na voorafgaande schriftelijk verkregen toestemming van de algemene rijksarchivaris. De algemene rijksarchivaris kan aan publicatie zijn goedkeuring onthouden.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-namens deze:\
-de directeur Facilitair Management en ICT,\
-J.H.J.Kruuk
+De Minister van Onderwijs, Cultuur en Wetenschap,namens deze:de directeur Facilitair Management en ICT,\
+J.H.J. Kruuk
 
 ## Bijlage 1
 

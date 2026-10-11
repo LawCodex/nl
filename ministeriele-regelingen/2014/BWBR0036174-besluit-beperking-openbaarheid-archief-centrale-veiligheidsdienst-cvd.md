@@ -452,9 +452,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Zoetermeer 1 december 2014
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-voor deze\
-Hoofd Algemene Inlichtingen en Veiligheidsdienst\
-R.A.C.Bertholee
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,voor dezeHoofd Algemene Inlichtingen en Veiligheidsdienst\
+R.A.C. Bertholee

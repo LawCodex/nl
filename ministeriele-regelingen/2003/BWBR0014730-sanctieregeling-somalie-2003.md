@@ -87,7 +87,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-J.G. deHoop Scheffer
+De Minister van Buitenlandse Zaken,\
+J.G. de Hoop Scheffer

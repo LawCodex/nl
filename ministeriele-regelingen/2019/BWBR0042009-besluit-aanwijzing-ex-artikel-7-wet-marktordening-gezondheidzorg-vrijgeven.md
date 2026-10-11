@@ -27,7 +27,7 @@ Na op 18 december 2018 schriftelijk mededeling te hebben gedaan aan de Eerste en
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De NZa hanteert per 1 januari 2020 vrije tarieven, als bedoeld in artikel 50, eerste lid, onderdeel a, van de Wet marktordening gezondheidszorg voor de eerstelijnsdiagnostiek in de medisch specialistische zorg.
 

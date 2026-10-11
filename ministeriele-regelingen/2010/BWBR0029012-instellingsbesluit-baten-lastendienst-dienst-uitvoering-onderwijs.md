@@ -47,12 +47,8 @@ Dit besluit wordt aangehaald als: Instellingsbesluit baten-lastendienst Dienst U
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-J.M. vanBijsterveldt-Vliegenthart
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart
 
-De\
-Minister\
-Financiën,\
-J.C. deJager
+De Minister van Financiën,\
+J.C. de Jager

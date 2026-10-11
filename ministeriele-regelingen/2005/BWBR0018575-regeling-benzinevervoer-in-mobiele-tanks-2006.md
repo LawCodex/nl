@@ -93,7 +93,5 @@ Deze regeling wordt aangehaald als: Regeling benzinevervoer in mobiele tanks 200
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs

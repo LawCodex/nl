@@ -39,10 +39,8 @@ Deze regeling wordt aangehaald als: Regeling begroting, beleidsplan en jaarreken
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers
 
 ## Bijlage — bij de Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie
 

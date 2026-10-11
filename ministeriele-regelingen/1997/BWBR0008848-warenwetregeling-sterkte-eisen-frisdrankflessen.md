@@ -89,10 +89,8 @@ Deze regeling wordt aangehaald als: Warenwetregeling sterkte-eisen frisdrankfles
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-EricaTerpstra
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+Erica Terpstra
 
 ## Bijlage I — bij artikel 2, tweede lid van de Warenwetregeling sterkte-eisen frisdrankflessen Bepaling scherfwerking
 

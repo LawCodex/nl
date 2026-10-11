@@ -119,13 +119,7 @@ Van de plaatsing wordt mededeling gedaan in de E-nieuwsbrief die wordt verspreid
 
 Utrecht 4 maart 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze:\
-De Raad voor Rechtsbijstand,\
-P.J.M. van denBiggelaar\
-directeur stelsel
+De Minister van Veiligheid en Justitie,namens deze:De Raad voor Rechtsbijstand,\
+P.J.M. van den Biggelaardirecteur stelsel
 
-J. Wijkstra\
-directeur bedrijfsvoering
+J. Wijkstra directeur bedrijfsvoering

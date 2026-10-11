@@ -57,7 +57,5 @@ Deze regeling wordt aangehaald als: Vergoedingenregeling leden Adviesraad intern
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-J.J. vanAartsen
+De Minister van Buitenlandse Zaken,\
+J.J. van Aartsen

@@ -107,10 +107,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 21 juni 2012
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-H.G.J.Kamp
+De Minister van Sociale Zaken en Werkgelegenheid,\
+H.G.J. Kamp
 
 ## Bijlage I — Normenkader als bedoeld in artikel 3a
 

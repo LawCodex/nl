@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging percentage lev
 
 's-Gravenhage 10 november 1981
 
-De\
-Minister\
-J. deRuiter
+DeMinister voornoemd,\
+J. de Ruiter

@@ -43,7 +43,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 26 augustus 1994
 
-De\
-Minister\
-Binnenlandse Zaken\
+De Minister van Binnenlandse Zaken,\
 H. F. Dijkstal

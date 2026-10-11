@@ -208,7 +208,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt met de bijbehorende toelichting in de Staatscourant geplaatst en als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van het Koninklijk Kabinet van Schilderijen Mauritshuis, over de periode 1816–1944.
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-namens deze,\
-de directeur Organisatie & Bedrijfsvoering,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, namens deze, de directeur Organisatie & Bedrijfsvoering,\
 J.J.H. Been

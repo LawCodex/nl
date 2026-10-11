@@ -41,7 +41,5 @@ Aan asielzoekers die een bedrag van f 150,- hebben ontvangen op grond van artike
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Welzijn, Volksgezondheid en Cultuur\
-H.d'Ancona
+De Minister van Welzijn, Volksgezondheid en Cultuur,\
+H. d'Ancona

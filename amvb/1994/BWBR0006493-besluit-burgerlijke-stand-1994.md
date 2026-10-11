@@ -33,7 +33,7 @@ Hebben goedgevonden en verstaan:
 
 ## Hoofdstuk 1 — De ambtenaar van de burgerlijke stand, de registers van de burgerlijke stand, de akten en de dubbelen, de latere vermeldingen, de afschriften en uittreksels en de in verband met het opmaken van bepaalde akten te verstrekken gegevens en over te leggen bescheiden
 
-### afdeling Eerste — De ambtenaar van de burgerlijke stand
+### Eerste afdeling — De ambtenaar van de burgerlijke stand
 
 #### Artikel 1
 
@@ -57,7 +57,7 @@ Na overleg met de ambtenaren van de burgerlijke stand besluiten burgemeester en 
 
 De ambtenaar van de burgerlijke stand verricht, tenzij gewichtige redenen zich daartegen verzetten, onverwijld de werkzaamheden vereist voor het houden der registers.
 
-### afdeling Tweede — De registers van de burgerlijke stand en de dubbelen van de akten
+### Tweede afdeling — De registers van de burgerlijke stand en de dubbelen van de akten
 
 #### Artikel 6
 
@@ -97,7 +97,7 @@ Onze Minister van Justitie geeft voorschriften betreffende het voor de akten en 
 
 2\. Op de elektronische registers zijn de artikelen 6 tot en met 10 van overeenkomstige toepassing, voor zover de aard van het elektronische register zich daartegen niet verzet.
 
-### afdeling Derde — De klappers op de akten
+### Derde afdeling — De klappers op de akten
 
 #### Artikel 11
 
@@ -125,7 +125,7 @@ In de tienjaarlijkse klappers worden ten minste opgenomen:
 
 Onze Minister kan nadere voorschriften geven omtrent de inrichting van de klappers en de daarbij te hanteren middelen.
 
-### afdeling Vierde — De akten en de latere vermeldingen
+### Vierde afdeling — De akten en de latere vermeldingen
 
 #### Artikel 15
 
@@ -214,7 +214,7 @@ Een ambtenaar van de burgerlijke stand die een akte heeft opgemaakt, waarvan ing
 
 2\. In het geval bedoeld in artikel 19j, tweede lid, onder b, van Boek 1 van het Burgerlijk Wetboek wordt, indien het een overlijden betreft van een militair of van een andere persoon die tot de krijgsmacht behoort op een oorlogsvaartuig of in een militair luchtvaartuig, een uittreksel van de akte aan Onze Minister van Defensie toegezonden.
 
-### Afdeling Vijfde — Afschriften en uittreksels
+### Vijfde Afdeling — Afschriften en uittreksels
 
 #### Artikel 25
 
@@ -228,7 +228,7 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 3\. De in het eerste en tweede lid bedoelde afschriften of uittreksels worden door de bewaarder van het register voorzien van de verklaring dat de daarin vermelde gegevens overeenstemmen met, dan wel zijn ontleend aan het origineel. Zij worden door hem gedagtekend en ondertekend.
 
-### Afdeling Zesde — De in verband met de aangifte van de geboorte te verstrekken verklaring van een arts of een verloskundige
+### Zesde Afdeling — De in verband met de aangifte van de geboorte te verstrekken verklaring van een arts of een verloskundige
 
 #### Artikel 27
 
@@ -254,7 +254,7 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 4\. Onze Minister van Justitie geeft nadere voorschriften betreffende de formulieren bestemd voor het opmaken van de in het eerste en derde lid bedoelde verklaring alsmede de in het tweede lid bedoelde enveloppen.
 
-### Afdeling Zevende — De in verband met de kennisgeving van het huwelijk en de registratie van een partnerschap af te leggen verklaring en de stuiting van het huwelijk en van de registratie van een partnerschap
+### Zevende Afdeling — De in verband met de kennisgeving van het huwelijk en de registratie van een partnerschap af te leggen verklaring en de stuiting van het huwelijk en van de registratie van een partnerschap
 
 #### Artikel 28
 
@@ -275,7 +275,7 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 Indien een verklaring is afgelegd overeenkomstig artikel 55, onder b, van Boek 1 van het Burgerlijk Wetboek, maakt de ambtenaar van de burgerlijke stand waar het huwelijk zou worden voltrokken, dan wel het geregistreerd partnerschap zou worden aangegaan hiervan een akte op, welke door hem en degene die de verklaring heeft afgelegd wordt ondertekend.
 
-### Afdeling Achtste — De centrale bewaarplaats voor de dubbelen of de afschriften van de akten van de burgerlijke stand en voor de latere vermeldingen
+### Achtste Afdeling — De centrale bewaarplaats voor de dubbelen of de afschriften van de akten van de burgerlijke stand en voor de latere vermeldingen
 
 #### Artikel 30
 
@@ -295,7 +295,7 @@ De ambtenaar van de burgerlijke stand zendt maandelijks de tekst van de door hem
 
 2\. De dubbelen of de afschriften en de daarop betrekking hebbende latere vermeldingen worden op zodanige wijze gearchiveerd, dat het verband tussen de latere meldingen en de akten, waarop zij betrekking hebben, kan worden gelegd.
 
-### Afdeling Negende — Bijzondere bepalingen in verband met het houden van registers door consulaire ambtenaren
+### Negende Afdeling — Bijzondere bepalingen in verband met het houden van registers door consulaire ambtenaren
 
 #### Artikel 33
 
@@ -311,7 +311,7 @@ Verzending aan of door consulaire ambtenaren van stukken die betrekking hebben o
 
 ## Hoofdstuk 2 — De indeling en de inhoud van de door de ambtenaar van de burgerlijke stand op te maken akten en de hierop betrekking hebbende latere vermeldingen
 
-### Afdeling Eerste — De indeling van de akten van geboorte, van huwelijk, van registratie van een partnerschap, van omzetting van een registratie van een partnerschap en van overlijden en de akten van inschrijving daarvan
+### Eerste Afdeling — De indeling van de akten van geboorte, van huwelijk, van registratie van een partnerschap, van omzetting van een registratie van een partnerschap en van overlijden en de akten van inschrijving daarvan
 
 #### Artikel 36
 
@@ -321,7 +321,7 @@ De akten van geboorte, van huwelijk, van registratie van een partnerschap, van o
 
 Akten van inschrijving van in het buitenland opgemaakte akten van geboorte, van huwelijk, van registratie van een partnerschap en van overlijden, van rechterlijke uitspraken omtrent de rechtsgeldigheid van zodanige akten in Nederland dan wel van rechterlijke uitspraken als bedoeld in de artikelen 21 en 25 van Boek 1 van het Burgerlijk Wetboek, worden op de in artikel 36 aangegeven wijze ingedeeld.
 
-### Afdeling Tweede — Gegevens die steeds in de akten, de akten van inschrijving, de latere vermeldingen en de uittreksels worden opgenomen
+### Tweede Afdeling — Gegevens die steeds in de akten, de akten van inschrijving, de latere vermeldingen en de uittreksels worden opgenomen
 
 #### Artikel 38
 
@@ -369,7 +369,7 @@ In het hoofd van elke akte worden het woord "Nederland", gevolgd door de letters
 
 2\. Aan de voet van elk afschrift of uittreksel worden de in artikel 26, derde lid, genoemde gegevens opgenomen.
 
-### afdeling Derde — De akte van geboorte en het uittreksel daarvan
+### Derde afdeling — De akte van geboorte en het uittreksel daarvan
 
 #### Artikel 43
 
@@ -419,7 +419,7 @@ De voorlopige akte van geboorte, bedoeld in de artikelen 19*a*, tweede lid, van 
 
 Het uittreksel van de akte van geboorte vermeldt de in artikel 43, eerste lid, onderscheidenlijk artikel 44, eerste en tweede lid, genoemde gegevens, met inachtneming van de gegevens blijkend uit latere vermeldingen dan wel uit een bijvoeging als bedoeld in artikel 66, tweede lid.
 
-### afdeling Vierde — De akte van erkenning, de akte van ontkenning van het vaderschap of moederschap door de moeder uit wie het kind is geboren, de akte van naamskeuze en de latere vermeldingen van deze akten
+### Vierde afdeling — De akte van erkenning, de akte van ontkenning van het vaderschap of moederschap door de moeder uit wie het kind is geboren, de akte van naamskeuze en de latere vermeldingen van deze akten
 
 #### Artikel 49
 
@@ -488,7 +488,7 @@ De latere vermelding van een buiten Nederland opgemaakte akte van erkenning, dan
 
 2\. De latere vermelding van de akte van naamskeuze vermeldt de door het kind gekozen geslachtsnaam.
 
-### afdeling Vijfde — De latere vermelding van een rechterlijke uitspraak inzake adoptie
+### Vijfde afdeling — De latere vermelding van een rechterlijke uitspraak inzake adoptie
 
 #### Artikel 53
 
@@ -504,7 +504,7 @@ De latere vermelding van een rechterlijke uitspraak waarbij adoptie wordt uitges
 
 De latere vermelding van een buiten Nederland gedane rechterlijke uitspraak, waarbij adoptie wordt uitgesproken dan wel herroepen, vermeldt, voor zover deze aan het in te schrijven stuk kunnen worden ontleend, de in artikel 53 genoemde gegevens.
 
-### afdeling Zesde — De akte van huwelijksaangifte en de akte van aangifte van registratie van een partnerschap
+### Zesde afdeling — De akte van huwelijksaangifte en de akte van aangifte van registratie van een partnerschap
 
 #### Artikel 55
 
@@ -514,7 +514,7 @@ Vervallen
 
 Vervallen
 
-### afdeling Zevende — De akte van toestemming tot het huwelijk en tot registratie van een partnerschap
+### Zevende afdeling — De akte van toestemming tot het huwelijk en tot registratie van een partnerschap
 
 #### Artikel 56
 
@@ -524,7 +524,7 @@ Vervallen
 
 Vervallen
 
-### afdeling Achtste — De huwelijksakte en het uittreksel daarvan, de akte van registratie van een partnerschap en het uittreksel daarvan en de akte van omzetting van een registratie van een partnerschap en het uittreksel daarvan
+### Achtste afdeling — De huwelijksakte en het uittreksel daarvan, de akte van registratie van een partnerschap en het uittreksel daarvan en de akte van omzetting van een registratie van een partnerschap en het uittreksel daarvan
 
 #### Artikel 57
 
@@ -599,7 +599,7 @@ Vervallen
 
 4\. Het uittreksel van de akte van omzetting van een huwelijk in een registratie van een partnerschap vermeldt de in artikel 57c, eerste lid, vermelde gegevens, met dien verstande dat voor «de echtgenoten» wordt gelezen «de geregistreerde partners», voor «de registratie van een partnerschap» wordt gelezen «het huwelijk» en voor «een huwelijk» wordt gelezen: een registratie van een partnerschap.
 
-### afdeling Negende — De akte van inschrijving, onderscheidenlijk de latere vermelding van echtscheiding en van ontbinding van een huwelijk na scheiding van tafel en bed, van beëindiging met wederzijds goedvinden van een geregistreerd partnerschap en van de ontbinding daarvan
+### Negende afdeling — De akte van inschrijving, onderscheidenlijk de latere vermelding van echtscheiding en van ontbinding van een huwelijk na scheiding van tafel en bed, van beëindiging met wederzijds goedvinden van een geregistreerd partnerschap en van de ontbinding daarvan
 
 #### Artikel 60
 
@@ -620,7 +620,7 @@ Vervallen
 
 2\. De latere vermelding van een verklaring tot beëindiging met wederzijds goedvinden van een geregistreerd partnerschap en van een rechterlijke uitspraak van een ontbinding van een geregistreerd partnerschap als bedoeld in artikel 80c, onder c onderscheidenlijk d, van Boek 1 van het Burgerlijk Wetboek, vermeldt de in het eerste lid onder b genoemde gegevens, alsmede in het geval van een rechterlijke uitspraak, op verzoek van welke geregistreerde partner de inschrijving geschiedt en op welke datum het verzoek is ontvangen.
 
-### afdeling Tiende — De akte van overlijden en het uittreksel daarvan
+### Tiende afdeling — De akte van overlijden en het uittreksel daarvan
 
 #### Artikel 61
 
@@ -683,7 +683,7 @@ De voorlopige akte van overlijden, bedoeld in artikel 19 g, derde lid, van Boek 
 
 Het uittreksel van de akte van overlijden vermeldt de in artikel 61, eerste lid, onderscheidenlijk artikel 62, eerste lid, genoemde gegevens, met inachtneming van gegevens blijkend uit latere vermeldingen. Indien een akte van inschrijving is opgemaakt ingevolge artikel 417, onderscheidenlijk artikel 426 van Boek 1 van het Burgerlijk Wetboek, wordt dit in het hoofd van het uittreksel vermeld.
 
-### afdeling Elfde — De elektronische kennisgeving van een huwelijk en geregistreerd partnerschap en de elektronische aangifte van overlijden
+### Elfde afdeling — De elektronische kennisgeving van een huwelijk en geregistreerd partnerschap en de elektronische aangifte van overlijden
 
 #### Artikel 67a
 

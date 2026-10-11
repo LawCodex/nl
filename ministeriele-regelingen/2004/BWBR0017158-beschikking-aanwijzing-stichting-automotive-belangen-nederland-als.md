@@ -62,12 +62,9 @@ Deze beschikking treedt in werking met ingang van de tweede dag na dagtekening v
 
 Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 namens deze:
 
-de\
-Directeur-Generaal Personenvervoer\
-M.M.D. vanEeghen
+de Directeur-Generaal Personenvervoer,\
+M.M.D. van Eeghen

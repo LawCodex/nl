@@ -64,11 +64,8 @@ Deze regeling wordt aangehaald als: Regeling Tijdelijke Toelage Luchtverkeerslei
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De Staatssecretaris Van Defensie\
-Voor deze\
-De Hoofddirecteur Personeel\
-P.F.M. Reesink\
-Schout-bij-nacht
+De Staatssecretaris Van Defensie Voor deze De Hoofddirecteur Personeel\
+P.F.M. Reesink Schout-bij-nacht
 
 ## Bijlage A
 

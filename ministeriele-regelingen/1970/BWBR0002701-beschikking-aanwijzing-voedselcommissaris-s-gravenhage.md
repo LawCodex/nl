@@ -39,12 +39,9 @@ De in artikel 1 aangewezen voedselcommissaris staat onder bevelen van de voedsel
 
 's-Gravenhage 13 april 1970
 
-De\
-Minister\
-Landbouw en Visserij
+De Minister van Landbouw en Visserij,
 
 Voor deze:
 
-De\
-secretaris-generaal\
-VanSetten
+De secretaris-generaal,\
+Van Setten

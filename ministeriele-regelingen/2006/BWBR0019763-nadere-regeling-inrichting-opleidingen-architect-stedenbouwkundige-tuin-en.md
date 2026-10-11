@@ -262,17 +262,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en tev
 
 Den Haag 14 april 2006
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+S.M. Dekker
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-C.P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+C.P. Veerman
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-M.C. van derLaan
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+M.C. van der Laan

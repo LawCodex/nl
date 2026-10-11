@@ -85,7 +85,5 @@ Deze regeling met de toelichting zal in de Staatscourant worden geplaatst.
 
 Den Haag 20 juni 2016
 
-De\
-Minister\
-Veiligheid en Justitie\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie\
+G.A. van der Steur

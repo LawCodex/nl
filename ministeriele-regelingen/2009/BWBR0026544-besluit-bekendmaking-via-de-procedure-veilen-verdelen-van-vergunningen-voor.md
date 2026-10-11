@@ -42,7 +42,5 @@ Dit besluit wordt met de toelichting in de Staatscourant geplaatst. Het besluit 
 
 Den Haag 18 oktober 2009
 
-De\
-Staatssecretaris\
-Economische Zaken\
-F.Heemskerk
+De Staatssecretaris van Economische Zaken,\
+F. Heemskerk

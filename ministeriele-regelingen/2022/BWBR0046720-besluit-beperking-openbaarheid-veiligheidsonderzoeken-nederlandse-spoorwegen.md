@@ -238,7 +238,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 20 april 2022
 
-De Minister van Infrastructuur en Waterstaat,\
-Voor deze,\
-Plv. Inspecteur-Generaal Leefomgeving en Transport\
+De Minister van Infrastructuur en Waterstaat, Voor deze, Plv. Inspecteur-Generaal Leefomgeving en Transport\
 M.C. Wassenaar

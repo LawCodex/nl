@@ -76,7 +76,5 @@ Afschrift van deze regeling zal worden gezonden aan:
 
 's-Gravenhage 1 september 1994
 
-De\
-Minister\
-Binnenlandse Zaken\
-H. F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H. F. Dijkstal

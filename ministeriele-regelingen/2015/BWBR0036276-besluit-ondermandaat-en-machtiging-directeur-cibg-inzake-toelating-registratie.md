@@ -61,5 +61,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ‘s-Gravenhage 4 februari 2015
 
-A.A.W. Kalis\
-de directeur van het Centraal Informatiepunt Beroepen Gezondheidszorg
+A.A.W. Kalis de directeur van het Centraal Informatiepunt Beroepen Gezondheidszorg

@@ -55,7 +55,5 @@ Deze regeling treedt in werking met ingang van 15 juni en werkt terug tot en met
 
 Deze regeling zal met de toelichting in de Staatscourant, de Curaçaosche Courant en het Afkondigingsblad van Aruba worden geplaatst.
 
-De\
-Minister\
-Bestuurlijke Vernieuwing en Koninkrijksrelaties\
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties\
 Th.C. de Graaf

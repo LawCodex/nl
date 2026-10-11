@@ -126,10 +126,8 @@ Deze regeling treedt in werking met ingang van 29 april 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage — bij de artikelen 4.1 tot en met 4.3 van de Regeling veiligheid en kwaliteit lichaamsmateriaal
 

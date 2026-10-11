@@ -33,7 +33,5 @@ Gemeente Albrandswaard.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-A.Th.B.Bijleveld-Schouten
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+A.Th.B. Bijleveld-Schouten

@@ -55,12 +55,9 @@ Ingeval voor een motorrijtuig vóór 1 oktober 1966 een belastingkaart is afgege
 
 's-Gravenhage 23 september 1966
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Voor deze:
 
-De\
-directeur-generaal voor Fiscale Zaken in Algemene Dienst\
-C. P.Tuk
+De directeur-generaal voor Fiscale Zaken in Algemene Dienst,\
+C. P. Tuk

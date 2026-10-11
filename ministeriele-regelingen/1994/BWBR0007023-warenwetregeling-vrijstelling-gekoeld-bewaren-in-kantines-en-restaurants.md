@@ -48,15 +48,12 @@ Deze regeling wordt aangehaald als: Warenwetregeling Vrijstelling gekoeld beware
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport
+De Minister van Volksgezondheid, Welzijn en Sport,
 
 namens deze,
 
-de\
-Directeur Voeding en Veiligheid van Produkten\
-S. vanHoogstraten
+de Directeur Voeding en Veiligheid van Produkten,\
+S. van Hoogstraten
 
 ## Bijlage
 

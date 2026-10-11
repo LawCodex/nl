@@ -134,7 +134,5 @@ Deze regeling kan worden aangehaald als: Regeling gegevens aardolieprodukten 198
 
 's-Gravenhage 28 januari 1985
 
-De\
-minister\
-Economische Zaken\
-G. M. V. vanAardenne
+De minister van Economische Zaken,\
+G. M. V. van Aardenne

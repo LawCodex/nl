@@ -112,16 +112,10 @@ Dit reglement kan worden aangehaald als het ‘*Reglement werkwijze Klachtenadvi
 
 Utrecht 8 oktober 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze:\
-De Raad voor Rechtsbijstand,\
-P.J.M. van denBiggelaar,\
-directeur stelsel.
+De Minister van Veiligheid en Justitie,namens deze:De Raad voor Rechtsbijstand,\
+P.J.M. van den Biggelaar,directeur stelsel.
 
-J. Wijkstra,\
-directeur bedrijfsvoering.
+J. Wijkstra, directeur bedrijfsvoering.
 
 ## Contactgegevens Klachtenadviescommissie Wsnp
 

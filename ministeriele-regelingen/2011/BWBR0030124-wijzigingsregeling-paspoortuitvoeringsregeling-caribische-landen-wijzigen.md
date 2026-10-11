@@ -39,7 +39,5 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 Deze regeling zal met de toelichting in de Staatscourant, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten worden geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.P.H.Donner
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.P.H. Donner

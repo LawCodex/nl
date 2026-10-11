@@ -69,7 +69,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat en machtiging op het terrein v
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze:\
-De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze: De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 J. Brandt

@@ -67,7 +67,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat en machtiging directeur van Ar
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld

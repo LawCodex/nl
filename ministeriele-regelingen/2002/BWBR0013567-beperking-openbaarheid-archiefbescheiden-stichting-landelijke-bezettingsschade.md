@@ -43,10 +43,8 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 's-Gravenhage 3 april 2002
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-L.J.Brinkhorst
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+L.J. Brinkhorst
 
 ## Formulier voor toestemming tot raadpleging van niet-openbare archieven
 

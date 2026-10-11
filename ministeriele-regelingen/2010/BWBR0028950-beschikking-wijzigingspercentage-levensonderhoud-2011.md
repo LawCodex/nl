@@ -37,7 +37,5 @@ Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 9 november 2010
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

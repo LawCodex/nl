@@ -180,5 +180,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Utrecht 6 december 2021
 
-G.J.C.M. Bakker\
-inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit
+G.J.C.M. Bakker inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit

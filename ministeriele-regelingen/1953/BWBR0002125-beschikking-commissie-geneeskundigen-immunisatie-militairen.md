@@ -77,7 +77,5 @@ Deze beschikking kan worden aangehaald als: Beschikking commissie geneeskundigen
 
 's-Gravenhage 24 December 1953
 
-De\
-Minister\
-Oorlog en van Marine\
+De Minister van Oorlog en van Marine,\
 C. Staf

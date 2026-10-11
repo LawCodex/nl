@@ -261,7 +261,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 13 juni 2022
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-I.M.M.G. Gerrits\
-directeur Meldingen en Verzoeken
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze,\
+I.M.M.G. Gerrits directeur Meldingen en Verzoeken

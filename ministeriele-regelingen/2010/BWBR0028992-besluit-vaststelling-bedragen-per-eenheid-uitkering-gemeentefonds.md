@@ -33,12 +33,8 @@ Voor het uitkeringsjaar 2009 worden de bedragen per eenheid, bedoeld in artikel 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-voor deze:\
-de waarnemend directeur Openbaar Bestuur en Democratie,\
-M.H.Klijnsma
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,voor deze:de waarnemend directeur Openbaar Bestuur en Democratie,\
+M.H. Klijnsma
 
 ## Bijlage 1
 

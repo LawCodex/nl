@@ -43,7 +43,5 @@ De directeur van het Nationaal Archief verplicht zich de archiefbescheiden in go
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-A.Th.B.Bijleveld-Schouten
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+A.Th.B. Bijleveld-Schouten

@@ -30,7 +30,5 @@ Het besluit van de Minister van Economische Zaken van 8 januari 1998, nr. WJA/JZ
 - c. aanvragen om subsidie die na de inwerkingtreding van dit besluit bij de Nederlandse Onderneming voor Energie en Milieu B.V. worden ingediend op grond van de Uitvoeringsregeling BSE 2001-I, bijlage I, onder A, onderdeel A;
 - d. bezwaarschriften tegen beschikkingen genomen op grond van de onder a, b en c bedoelde aanvragen.
 
-De\
-Minister\
-Economische Zaken\
-A.Jorritsma-Lebbink
+De Minister van Economische Zaken,\
+A. Jorritsma-Lebbink

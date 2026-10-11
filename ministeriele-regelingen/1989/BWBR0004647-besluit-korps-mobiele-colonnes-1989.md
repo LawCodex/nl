@@ -187,12 +187,8 @@ Deze beschikking, waarvan afschrift wordt gezonden aan de Algemene Rekenkamer, w
 
 's-Gravenhage 10 november 1989
 
-De\
-minister\
-Defensie\
-F.Bolkestein
+De minister van Defensie,\
+F. Bolkestein
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken\
-D. IJ. W. deGraaff-Nauta
+De Staatssecretaris van Binnenlandse Zaken,\
+D. IJ. W. de Graaff-Nauta

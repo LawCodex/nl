@@ -72,12 +72,9 @@ De beschikking van de Staatssecretaris van Financiën van 18 mei 1989, nr. IFZ89
 
 2\. Zij vindt toepassing met betrekking tot dividenden, interest, royalty's, vergoedingen voor technische diensten en vergoedingen voor het gebruik van uitrusting die op of na 1 april 1989 zijn opgekomen.
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 namens deze:
 
-De\
-Directeur-Generaal voor Fiscale Zaken,\
-A.Schoemaker
+De Directeur-Generaal voor Fiscale Zaken,\
+A. Schoemaker

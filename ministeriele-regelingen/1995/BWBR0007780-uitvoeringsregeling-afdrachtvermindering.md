@@ -255,7 +255,5 @@ Vervallen
 
 2\. Deze regeling kan worden aangehaald als: Uitvoeringsregeling afdrachtvermindering.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

@@ -49,10 +49,8 @@ Deze regeling wordt aangehaald als: Regeling vaststelling wisselkoers en consume
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
 ## Bijlage I — Behorende bij artikel 1 Vaststelling wisselkoers surinaamse pensioenen
 

@@ -75,13 +75,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. M. Cramer
 
 de *tiende* november 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 ## Bijlage I — Thematische categorieën als bedoeld in artikel 2, eerste lid, onderdeel d, van de wet
 

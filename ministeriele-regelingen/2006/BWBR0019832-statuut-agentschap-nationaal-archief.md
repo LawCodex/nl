@@ -128,7 +128,5 @@ Dit besluit wordt aangehaald als: Statuut agentschap Nationaal Archief.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-M.C. van derLaan
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+M.C. van der Laan

@@ -49,12 +49,8 @@ Deze beschikking zal in de *Nederlandse Staatscourant* worden geplaatst; zij tre
 
 's-Gravenhage 20 oktober 1969
 
-De\
-Minister\
-Justitie\
-C. H. F.Polak
+De Minister van Justitie,\
+C. H. F. Polak
 
-De\
-Minister\
-Cultuur, Recreatie en Maatschappelijk Werk\
-M.Klompé
+De Minister van Cultuur, Recreatie en Maatschappelijk Werk,\
+M. Klompé

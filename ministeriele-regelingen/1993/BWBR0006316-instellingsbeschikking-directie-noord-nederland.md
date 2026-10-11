@@ -43,7 +43,5 @@ Besluit:
 
 's-Gravenhage 15 december 1993
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen

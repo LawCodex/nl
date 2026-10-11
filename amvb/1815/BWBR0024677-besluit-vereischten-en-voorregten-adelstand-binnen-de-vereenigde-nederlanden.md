@@ -49,5 +49,5 @@ Reserverende Wij Ons, om wanneer de door de Provinciale Staten aan Onze goedkeur
 
 Willem
 
-Ter ordonnantie van Zijne Koninklijke Hoogheid\
-A. R.Falck
+Ter ordonnantie van Zijne Koninklijke Hoogheid,\
+A. R. Falck

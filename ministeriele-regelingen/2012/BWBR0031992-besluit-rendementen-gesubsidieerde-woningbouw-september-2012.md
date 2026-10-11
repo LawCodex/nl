@@ -37,11 +37,5 @@ Voor de woningen, ten aanzien waarvan de toelatingsbeschikking voor 1 januari 19
 
 Den Haag 14 september 2012
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-voor deze:\
-de algemeen directeur van Agentschap NL,\
-op last:\
-G. denOude,\
-Unitmanager.
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,voor deze:de algemeen directeur van Agentschap NL,op last:\
+G. den Oude,Unitmanager.

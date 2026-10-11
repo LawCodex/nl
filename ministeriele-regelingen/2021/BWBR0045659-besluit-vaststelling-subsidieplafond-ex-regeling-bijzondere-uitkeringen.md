@@ -29,9 +29,5 @@ Het subsidieplafond, bedoeld in artikel 4, tweede lid, van de Regeling bijzonder
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-DE\
-STAATSSECRETARIS\
-INFRASTRUCTUUR EN WATERSTAAT,\
-namens deze,\
-De Directeur-Generaal Milieu en Internationaal,\
-R.P.Lapperre
+DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT,namens deze,De Directeur-Generaal Milieu en Internationaal,\
+R.P. Lapperre

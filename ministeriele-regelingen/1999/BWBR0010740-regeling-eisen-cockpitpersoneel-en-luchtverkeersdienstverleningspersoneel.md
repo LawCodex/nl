@@ -159,10 +159,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 28 september 1999
 
-De\
-Staatssecretaris\
-Defensie\
-H.A.L. vanHoof
+De Staatssecretaris van Defensie,\
+H.A.L. van Hoof
 
 ## Bijlage — bij artikel 9, tweede lid Eisen inzake de geestelijke en lichamelijke geschiktheid en inzake de keuring van niet tot de krijgsmacht behorende personen die zijn belast met het bedienen van onbemande luchtvaartuigen van en voor de krijgsmacht
 

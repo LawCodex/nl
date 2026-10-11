@@ -37,12 +37,9 @@ Deze regeling zal met toelichting in de Staatscourant geplaatst worden.
 
 's-Gravenhage 24 mei 1994
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij
+De Minister van Landbouw, Natuurbeheer en Visserij,
 
 voor deze:
 
-De\
-directeur-generaal Landbouw, Natuurbeheer en Visserij\
-G. van derLely
+De directeur-generaal Landbouw, Natuurbeheer en Visserij,\
+G. van der Lely

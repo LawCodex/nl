@@ -33,9 +33,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 6 mei 2009
 
-De\
-Minister\
-Economische Zaken\
-namens deze:\
-de directeur-generaal van Ondernemen en Innovatie\
-R.M.Bergkamp
+De Minister van Economische Zaken, namens deze:de directeur-generaal van Ondernemen en Innovatie,\
+R.M. Bergkamp

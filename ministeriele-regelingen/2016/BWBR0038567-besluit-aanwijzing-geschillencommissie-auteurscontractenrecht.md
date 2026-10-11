@@ -29,7 +29,5 @@ Dit besluit wordt in de Staatscourant bekendgemaakt.
 
 Den Haag 13 september 2016
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

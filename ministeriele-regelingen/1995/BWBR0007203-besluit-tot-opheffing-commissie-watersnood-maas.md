@@ -41,7 +41,5 @@ Afschrift van dit besluit wordt gezonden aan: a. de voorzitter, vice-voorzitter,
 
 's-Gravenhage 10 januari 1995
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

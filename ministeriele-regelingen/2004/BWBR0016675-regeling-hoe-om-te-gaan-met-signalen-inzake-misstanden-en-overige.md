@@ -178,12 +178,9 @@ Dit besluit treedt in werking op 15 mei 2004.
 
 Den Haag 3 mei 2004
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 namens deze:
 
-de\
-Secretaris-Generaal\
+de Secretaris-Generaal,\
 R. Gerritse

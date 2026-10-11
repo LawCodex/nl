@@ -157,12 +157,9 @@ Deze regeling wordt aangehaald als: Regeling toelage bedrijfshulpverlening en to
 
 Deze regeling wordt gepubliceerd in de serie ministeriële publicaties waarvan mededeling zal worden gedaan in de Staatscourant.
 
-De\
-Staatssecretaris\
-Defensie
+De Staatssecretaris van Defensie,
 
 voor deze:
 
-de\
-Directeur-Generaal Personeel en Materieel\
+de Directeur-Generaal Personeel en Materieel,\
 B.H.J.J.M. Völkers

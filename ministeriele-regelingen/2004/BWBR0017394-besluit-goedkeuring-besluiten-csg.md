@@ -43,7 +43,5 @@ goed te keuren.
 
 Dit besluit zal samen met de desbetreffende vier besluiten van het College voor Sociale Geneeskunde worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

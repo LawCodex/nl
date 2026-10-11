@@ -43,12 +43,8 @@ Dit besluit wordt aangehaald als: Instellingsbesluit baten-lastendienst Dienst P
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister-President, Minister\
-Algemene Zaken\
+De Minister-President, Minister van Algemene Zaken,\
 J.P. Balkenende
 
-De\
-Minister\
-Financiën\
+De Minister van Financiën,\
 G. Zalm

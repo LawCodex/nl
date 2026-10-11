@@ -47,7 +47,5 @@ Dit besluit treedt in werking met ingang van 1 september 1999 en wordt bekendgem
 
 Den Haag 30 augustus 1999
 
-De\
-Minister\
-Grote Steden- en Integratiebeleid\
-R.H.L.M. vanBoxtel
+De Minister voor Grote Steden- en Integratiebeleid,\
+R.H.L.M. van Boxtel

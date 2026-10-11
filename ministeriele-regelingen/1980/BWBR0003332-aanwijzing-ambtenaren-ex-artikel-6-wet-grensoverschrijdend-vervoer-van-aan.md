@@ -37,13 +37,10 @@ Deze beschikking wordt geplaatst in de Nederlandse Staatscourant en treedt in we
 
 's-Gravenhage 27 juni 1980
 
-De\
-Minister\
-Landbouw en Visserij
+De Minister van Landbouw en Visserij,
 
 Voor deze,
 
-De\
-plv. secretaris-generaal,
+De plv. secretaris-generaal,
 
 G. J. van Dinter

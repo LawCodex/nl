@@ -61,7 +61,5 @@ gevolgd door de handtekening en de naam van de betrokken functionaris.
 
 ’s-Gravenhage 25 oktober 1999
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.P.Pronk
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.P. Pronk

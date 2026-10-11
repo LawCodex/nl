@@ -49,15 +49,11 @@ Deze regeling zal worden geplaatst in de Nederlandse Staatscourant en in afschri
 
 's-Gravenhage 18 augustus 1988
 
-De\
-minister\
-Verkeer en Waterstaat\
-N.Smit-Kroes
+De minister van Verkeer en Waterstaat,\
+N. Smit-Kroes
 
-De\
-minister\
-Financiën\
-H.O.C.R.Ruding
+De minister van Financiën,\
+H.O.C.R. Ruding
 
 ## Artikel — Bijlage
 

@@ -1,0 +1,177 @@
+---
+title: "Cyberbeveiligingsregeling voor de zorg"
+identifier: "BWBR0053034"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2026-08-12
+last_amended: 2026-10-06
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0053034/2026-10-06"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0053034/2026-10-06_0/xml/BWBR0053034_2026-10-06_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Informatierecht", "ICT-recht", "Openbare orde en veiligheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Cyberbeveiligingsregeling voor de zorg
+
+*Regeling van de Minister van Langdurige Zorg, Jeugd en Sport, van 12 augustus 2026, kenmerk 4494559-1102053-DICIO, houdende regels ter uitvoering van de Cyberbeveiligingswet en het Cyberbeveiligingsbesluit voor de sector Gezondheidszorg en de subsector Vervaardiging van medische hulpmiddelen en medische hulpmiddelen voor in-vitrodiagnostiek (Cyberbeveiligingsregeling voor de zorg) \[KetenID WGK028136\]*
+
+De Minister van Langdurige zorg, Jeugd en Sport,
+
+Gelet op de artikelen 20, 24, eerste lid, 27 en 29 van het Cyberbeveiligingsbesluit en artikel 68, eerste lid van de Cyberbeveiligingswet;
+
+Besluit:
+
+## Hoofdstuk 1 — Algemene bepalingen
+
+### Artikel 1.1 — Begripsbepaling
+
+In deze regeling wordt verstaan onder:
+
+- – *besluit:* Cyberbeveiligingsbesluit;
+- – *kritisch bedrijfsproces:* proces dat noodzakelijk is voor de instandhouding van de dienstverlening van een essentiële of belangrijke entiteit;
+- – *de Minister:* de Minister van Langdurige Zorg, Jeugd en Sport;
+- – *wettelijke taken:* verplichtingen die een sectoraal CSIRT heeft op grond van artikel 16, tweede lid, artikel 39, eerste en tweede lid, en artikel 40, tweede lid, van de Cyberbeveiligingswet.
+
+### Artikel 1.2 — Reikwijdte
+
+Deze regeling is van toepassing op de sector Gezondheidszorg en de subsector Vervaardiging van medische hulpmiddelen en medische hulpmiddelen voor in-vitrodiagnostiek, bedoeld in bijlage 1 en bijlage 2 van de wet.
+
+## Hoofdstuk 1A — CSIRT
+
+### Artikel 1a.1 — Aanwijzing CSIRT
+
+Stichting Z-CERT is het CSIRT voor de sector Gezondheidszorg en de subsector Vervaardiging van medische hulpmiddelen en medische hulpmiddelen voor in-vitrodiagnostiek.
+
+### Artikel 1a.2 — Governance
+
+Het aangewezen CSIRT draagt zorg voor:
+
+- a. het instellen van een raad van toezicht die voldoet aan bij statuten te stellen eisen van deskundigheid en onafhankelijkheid;
+- b. het in de statuten en in een reglement vastleggen van de wijze waarop toezicht wordt gehouden door de raad van toezicht;
+- c. het in de statuten vastleggen van de bevoegdheid van de raad van toezicht tot het benoemen van het bestuur;
+- d. het in de statuten vastleggen van de bevoegdheid van de raad van toezicht om het bestuur of een bestuurslid te kunnen ontslaan wegens verwaarlozing van de taak, wegens andere gewichtige redenen of wegens ingrijpende wijziging van de omstandigheden;
+- e. het vastleggen in de statuten dat een wijziging van de statuten enkel mogelijk is nadat de minister daarmee heeft ingestemd; en
+- f. het vastleggen in de statuten dat de rechtspersoon die is aangewezen niet wordt opgeheven voordat de minister daarmee heeft ingestemd.
+
+### Artikel 1a.3 — Financiering en verantwoording
+
+1\. De minister draagt zorg voor de financiering van het CSIRT.
+
+2\. Het CSIRT stelt jaarlijks een begroting en een jaarplan op en zendt deze voor 1 december van het aankomende begrotingsjaar ter goedkeuring naar de minister.
+
+3\. Het CSIRT zendt de minister onverwijld een kopie van de vastgestelde jaarrekening en het bestuursverslag.
+
+4\. De controle van de jaarrekening en het bestuursverslag geschiedt overeenkomstig artikel 393 van Boek 2 van het Burgerlijk Wetboek.
+
+### Artikel 1a.4 — Toezicht
+
+1\. De minister is verantwoordelijk voor het toezicht op de rechtmatigheid, doelmatigheid en doeltreffendheid van de uitvoering van de wettelijke taken door Z-CERT.
+
+2\. Indien het CSIRT naast de taken op grond van de wet ook andere werkzaamheden verricht, geeft het CSIRT de minister jaarlijks inzage in de aard en omvang van deze andere werkzaamheden.
+
+3\. Indien het CSIRT naast de taken op grond van de wet ook andere werkzaamheden verricht, voert het CSIRT een gescheiden administratie voor inkomsten en uitgaven voor enerzijds taken op grond van de wet en anderzijds de andere werkzaamheden.
+
+4\. Het bestuur van het CSIRT organiseert ten minste eenmaal per jaar een overleg met de minister over het jaarplan, de taakuitoefening, de financiële positie van het de stichting en andere aangelegenheden die voor de taakuitvoering als CSIRT van belang zijn.
+
+5\. De raad van toezicht van het CSIRT overlegt met de minister indien de minister dat noodzakelijk acht.
+
+6\. Het CSIRT verstrekt aan de minister desgevraagd alle inlichtingen die van belang zijn voor de taakuitoefening van de minister of voor de taakuitoefening van door de minister aangewezen toezichthouders.
+
+7\. Het CSIRT informeert de minister schriftelijk vooraf over te nemen besluiten die van wezenlijke invloed zijn op de uitoefening van de taken als CSIRT.
+
+### Artikel 1a.5 — Taakverwaarlozing
+
+Indien stichting Z-CERT haar wettelijke taken ernstig verwaarloost, kan de minister algemene en specifieke aanwijzingen geven om de goede taakuitoefening te waarborgen.
+
+### Artikel 1a.6 — Andere activiteiten
+
+Stichting Z-CERT verricht geen activiteiten die de uitvoering van de wettelijke taken belemmeren of anderszins beïnvloeden.
+
+### Artikel 1a.7 — Continuïteit
+
+Indien het aangewezen CSIRT wordt opgeheven of indien haar wettelijke taken door de minister worden overgedragen aan een andere organisatie, verstrekt stichting Z-CERT de archiefbescheiden en systemen die noodzakelijk zijn voor de uitvoering van de wettelijke taken aan de minister.
+
+## Hoofdstuk 2 — Nadere regels cyberbeveiliging
+
+### Artikel 2.1 — Maatregelen
+
+De maatregelen, bedoeld in artikel 21, eerste lid, van de wet en hoofdstuk 4 van het besluit:
+
+- a. voldoen aantoonbaar aan het bepaalde in NEN 7510;
+- b. voldoen aantoonbaar aan het bepaalde de NEN-ISO-IEC 27001 en NEN-ISO-IEC-27002; of
+- c. hebben aantoonbaar een gelijkwaardig beschermingsniveau.
+
+### Artikel 2.2 — Criteria significante incidenten
+
+1\. Van een significant incident in de zin van artikel 25, tweede lid, onderdeel a van de wet, is sprake indien als gevolg van het incident:
+
+- a. een kritisch bedrijfsproces langer dan vier uur gedeeltelijk of geheel stil ligt;
+- b. netwerk- en informatiesystemen die cruciaal zijn voor de instandhouding van de dienstverlening of productie van de belangrijke of essentiële entiteit zijn gecompromitteerd of vernietigd;
+- c. de integriteit, vertrouwelijkheid of beschikbaarheid van bedrijfsgevoelige informatie is aangetast;
+- d. de vertrouwelijkheid van bijzondere persoonsgegevens of BSN-nummers ten gevolge van een vermoedelijke kwaadwillende handeling zijn aangetast; of
+- e. sprake is van blijvend letsel, ziekenhuisopname of overlijden van een persoon.
+
+2\. Van een significant incident is tevens sprake indien een incident de gevolgen omschreven in het eerste lid of artikel 25, tweede lid, onderdeel b van de wet kan veroorzaken.
+
+3\. Dit artikel is niet van toepassing indien sprake is van voorziene gevolgen van geplande onderhoudswerkzaamheden die door of namens de essentiële entiteit of belangrijke entiteit worden uitgevoerd.
+
+### Artikel 2.3 — Vroegtijdige waarschuwing
+
+1\. In aanvulling op artikel 26, eerste lid, van de wet en artikel 25 van het Cyberbeveiligingsbesluit bevat de vroegtijdige waarschuwing eveneens hoe het incident is ontdekt en de ondersteuning die nodig is vanuit het CSIRT om het incident te beheersen.
+
+2\. De in artikel 25, onder b, van het Cyberbeveiligingsbesluit bedoelde gegevens betreffen:
+
+- a. de gevolgen die zijn geïdentificeerd voor het kritisch bedrijfsproces en voor zover bekend bij de leveranciers van de entiteit, die de melding doet en afnemers van producten en diensten van die entiteit; en
+- b. de netwerk- en informatiesystemen en vestigingen die zijn geraakt door het incident.
+
+### Artikel 2.4 — Melding
+
+De gegevens die verstrekt worden bij een melding als bedoeld in artikel 27 van de wet bevatten, voor zover bekend:
+
+- a. de oorzaak van het incident;
+- b. de netwerken en systemen die zijn geraakt door het incident;
+- c. de gevolgen voor het primaire proces;
+- d. de gevolgen voor leveranciers aan de entiteit, die de melding doet en afnemers van producten en diensten van die entiteit; en
+- e. de gevolgen voor de integriteit, beschikbaarheid en vertrouwelijkheid van bijzondere persoonsgegevens, BSN-nummers en bedrijfsgevoelige informatie.
+
+### Artikel 2.5 — Voortgangs- en eindverslag
+
+Het voortgangsverslag en het eindverslag, bedoeld in artikel 29, eerste en tweede lid, van de wet, omvatten naast de gegevens genoemd in dat artikel, tevens:
+
+- a. een beschrijving in hoeverre in de risicoanalyses die voorafgaand aan het incident waren uitgevoerd de in het kader van het incident opgetreden gebeurtenissen waren voorzien, de maatregelen die naar aanleiding van die risicoanalyses zijn genomen en in hoeverre die maatregelen hebben bijgedragen aan beperken van het incident;
+- b. de wijze waarop het continuïteitsplan is gebruikt en de mate waarin dit plan effectief is gebleken;
+- c. de betrokkenheid van bij het incident betrokken leveranciers van netwerk- en informatiesystemen, waaronder de:
+  - 1°. afspraken die met deze partijen zijn gemaakt over het voorkomen van cyberincidenten en over het handelen in geval van een cyberincident;
+  - 2°. wijze waarop is gehandeld door de entiteit om het nakomen van deze afspraken te controleren;
+  - 3°. wijze waarop de afspraken door de leverancier van netwerk- en informatiesystemen zijn nagekomen; en
+  - 4°. gezamenlijke evaluatie van het incident; en
+- d. de lessen die door de entiteit zijn getrokken uit het incident en tot welke maatregelen dit heeft geleid.
+
+## Hoofdstuk 3 — Aanwijzing autoriteit en toezichthouder
+
+### Artikel 3.1 — Aanwijzingen autoriteit
+
+Als autoriteit als bedoeld in artikel 51, tweede lid, onderdeel i, van de wet, worden aangewezen de ambtenaren van de Inspectie Gezondheidszorg en Jeugd die zijn die belast met het toezicht op de naleving van deze wet voor wat betreft de sector Gezondheidszorg en de subsector Vervaardiging van medische hulpmiddelen en medische hulpmiddelen voor in-vitrodiagnostiek, bedoeld in bijlage 1 en bijlage 2 van de wet.
+
+### Artikel 3.2 — Aanwijzing toezichthouder
+
+Als toezichthouders als bedoeld in artikel 68, eerste lid, van de wet, worden aangewezen de ambtenaren van de Inspectie Gezondheidszorg en Jeugd.
+
+## Hoofdstuk 4 — Slotbepalingen
+
+### Artikel 4.1 — Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+### Artikel 4.2 — Citeertitel
+
+Deze regeling wordt aangehaald als: Cyberbeveiligingsregeling voor de zorg.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister van Langdurige Zorg, Jeugd en Sport,\
+W.R.C. Sterk

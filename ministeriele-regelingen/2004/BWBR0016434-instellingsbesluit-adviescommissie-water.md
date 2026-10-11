@@ -73,7 +73,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Water.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
+De Staatssecretaris van Verkeer en Waterstaat\
 M.H. Schultz van Haegen

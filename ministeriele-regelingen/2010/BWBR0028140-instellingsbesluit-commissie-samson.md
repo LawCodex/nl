@@ -114,12 +114,8 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Samson.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie,\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin
 
-De\
-Minister\
-Jeugd en Gezin,\
-A.Rouvoet
+De Minister voor Jeugd en Gezin,\
+A. Rouvoet

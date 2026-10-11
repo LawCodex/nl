@@ -80,10 +80,8 @@ Deze regeling wordt aangehaald als: Bijdrageregeling Antillianengemeenten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Grote Steden- en Integratiebeleid\
-R.H.L.M. vanBoxtel
+De Minister voor Grote Steden- en Integratiebeleid,\
+R.H.L.M. van Boxtel
 
 ## Bijlage 1
 

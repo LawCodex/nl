@@ -53,12 +53,10 @@ Gegeven te ’s-Gravenhage 20 november 2006
 
 Beatrix
 
-De\
-Minister van Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
 de *zevende* december 2006
 
-De\
-Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

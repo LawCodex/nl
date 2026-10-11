@@ -64,6 +64,5 @@ Deze regeling, welke zal worden bekend gemaakt in de Nederlandse Staatscourant, 
 
 Zoetermeer 1 augustus 1986
 
-De\
-minister\
-W. J.Deetman
+De minister voornoemd,\
+W. J. Deetman

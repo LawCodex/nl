@@ -76,10 +76,8 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 18 april 2012
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus
 
 ## Overeenkomst uitvoering VROM-taken door DCMR
 

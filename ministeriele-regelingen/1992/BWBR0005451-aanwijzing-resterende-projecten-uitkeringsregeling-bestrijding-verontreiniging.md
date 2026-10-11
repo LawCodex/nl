@@ -33,14 +33,11 @@ Dit besluit treedt in werking met ingang van heden.
 
 Dit besluit (met bijlagen) zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 namens deze,
 
-De\
-plv. secretaris-generaal\
+De plv. secretaris-generaal,\
 T. J. van Beek
 
 ## Lijst A: — UKR-projekten (goedgekeurde plannen)

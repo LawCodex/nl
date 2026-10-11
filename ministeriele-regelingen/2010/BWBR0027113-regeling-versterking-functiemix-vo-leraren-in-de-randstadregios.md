@@ -120,10 +120,8 @@ Deze regeling wordt aangehaald als: Regeling versterking functiemix vo-leraren i
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-R.H.A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.H.A. Plasterk
 
 ## Bijlage 1 — Gemeenten in Randstadregio’s
 

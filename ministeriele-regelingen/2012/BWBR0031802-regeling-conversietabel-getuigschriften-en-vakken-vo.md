@@ -72,10 +72,8 @@ Deze regeling wordt aangehaald als: Regeling conversietabel getuigschriften en v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-H.Zijlstra
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+H. Zijlstra
 
 ## Bijlage 1 — horende bij artikel 2, eerste lid. Conversietabel getuigschriften voor de algemeen gebruikelijke vakken en programmaonderdelen in het vmbo en in de onderbouw van havo en vwo (leraren in het vo) en in de bovenbouw van havo en vwo (leraren in het vho)
 

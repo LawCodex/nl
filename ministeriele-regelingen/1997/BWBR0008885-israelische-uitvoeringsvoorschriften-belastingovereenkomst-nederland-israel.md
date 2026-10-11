@@ -92,7 +92,5 @@ Exemplaren van het Israëlische formulier ’Claim for reduced rate of withholdi
 - a. deelnemingsdividenden als bedoeld in de onderdelen b en c van artikel 1, die betaald zijn of betaalbaar zijn gesteld op of na 1 januari 1996;
 - b. niet onder onderdeel a vallende deelnemingsdividenden, portfoliodividenden, interest en royalty’s die, met inachtneming van het bepaalde in artikel 2, vierde lid, zijn betaald of betaalbaar zijn gesteld op of na 1 januari 1970.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

@@ -38,6 +38,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 De directeur Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies\
 T.H. Maas
 
-Voor akkoord,\
-De Secretaris-Generaal\
+Voor akkoord, De Secretaris-Generaal\
 E. Gerritsen

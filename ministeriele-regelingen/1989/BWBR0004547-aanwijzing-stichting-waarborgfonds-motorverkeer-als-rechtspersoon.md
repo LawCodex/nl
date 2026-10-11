@@ -33,14 +33,10 @@ Deze beschikking wordt in de Staatscourant bekendgemaakt.
 
 's-Gravenhage 19 mei 1989
 
-De\
-minister\
-Justitie
+De minister van Justitie,
 
-F. Korthals Altes
+F. Korthals Altes,
 
-De\
-minister\
-Financiën
+De minister van Financiën,
 
 H. O. C. R. Ruding

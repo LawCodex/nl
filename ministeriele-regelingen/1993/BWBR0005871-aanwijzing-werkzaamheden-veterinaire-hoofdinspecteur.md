@@ -33,7 +33,5 @@ Deze aanwijzing treedt in werking met ingang van de tweede dag na de dagtekening
 
 Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-Hans J.Simons
+De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+Hans J. Simons

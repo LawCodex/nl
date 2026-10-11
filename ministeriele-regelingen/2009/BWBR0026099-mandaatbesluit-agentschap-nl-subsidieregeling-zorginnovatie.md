@@ -86,7 +86,5 @@ Dit besluit zal worden aangehaald als: Mandaatbesluit Agentschap NL Subsidierege
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

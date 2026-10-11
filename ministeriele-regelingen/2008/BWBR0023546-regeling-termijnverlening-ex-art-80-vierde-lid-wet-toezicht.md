@@ -33,7 +33,5 @@ Deze regeling treedt in werking met ingang van 1 april 2008.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos

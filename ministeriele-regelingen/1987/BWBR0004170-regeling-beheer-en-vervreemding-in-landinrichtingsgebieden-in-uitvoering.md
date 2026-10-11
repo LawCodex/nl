@@ -116,12 +116,9 @@ De beschikking van 23 februari 1983, nr. J. 747 (Stcrt. 41), wordt ingetrokken
 
 's-Gravenhage 18 juni 1987
 
-De\
-minister\
-Landbouw en Visserij
+De minister van Landbouw en Visserij,
 
 Voor deze,
 
-De\
-secretaris-generaal\
-T. H. J.Joustra
+De secretaris-generaal,\
+T. H. J. Joustra

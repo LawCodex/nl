@@ -33,7 +33,5 @@ goed te keuren.
 
 Dit besluit zal samen met de desbetreffende beschikking van de Sociaal-Geneeskundigen Registratie Commissie worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
+De Minister van Volksgezondheid, Welzijn en Sport\
 J.F. Hoogervorst

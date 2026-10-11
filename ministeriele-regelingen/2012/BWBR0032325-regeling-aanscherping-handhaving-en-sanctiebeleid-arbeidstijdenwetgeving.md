@@ -56,7 +56,5 @@ Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
 ‘s-Gravenhage 27 november 2012
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher.
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher.

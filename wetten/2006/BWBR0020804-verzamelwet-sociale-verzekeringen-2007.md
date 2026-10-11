@@ -129,10 +129,10 @@ Gegeven te ’s-Gravenhage 30 november 2006
 
 Beatrix
 
-De Minister van Sociale Zaken en Werkgelegenheid\
-A. J. deGeus
+De Minister van Sociale Zaken en Werkgelegenheid,\
+A. J. de Geus
 
 de *tweeëntwintigste* december 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

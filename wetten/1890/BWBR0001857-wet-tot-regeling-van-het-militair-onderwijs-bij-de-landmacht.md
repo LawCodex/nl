@@ -27,7 +27,7 @@ Alzoo Wij in overweging hebben genomen, dat het noodig is - ter vervanging van d
 
 Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## Hoofdstuk Eerste — Inrichtingen van Militair Onderwijs
+## Eerste Hoofdstuk — Inrichtingen van Militair Onderwijs
 
 ### Artikel 1
 
@@ -69,7 +69,7 @@ Bij Algemeenen Maatregel van Bestuur worden aangewezen:
 
 In *Nederlandsch-Indië* verblijf houdende, tot de Hoogere Krijgsschool, de Koninklijke Militaire Academie, de Cadettenschool of den Hoofdcursus toegelaten leerlingen kunnen, wanneer buitengewone omstandigheden daartoe nopen, naar door Ons te stellen regelen het ingevolge deze wet aan die inrichtingen te geven onderwijs in *Nederlandsch-Indië* ontvangen.
 
-## Hoofdstuk Tweede — Algemeene bepalingen
+## Tweede Hoofdstuk — Algemeene bepalingen
 
 ### Artikel 5
 
@@ -137,7 +137,7 @@ De onderofficieren van den Hoofdcursus en de leerlingen der Koninklijke Militair
 
 In geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden, bedoeld bij art. 185 der Grondwet, kan door Ons het onderwijs aan één of meer der in de artt. 1, 2 en 3 genoemde Inrichtingen worden geschorst, en over de leerlingen, alsmede over het aan die Inrichtingen verbonden militair personeel beschikt worden in het belang van 's Lands verdediging.
 
-## Hoofdstuk Derde — Van het voorbereidend onderwijs tot opleiding voor den officiersrang
+## Derde Hoofdstuk — Van het voorbereidend onderwijs tot opleiding voor den officiersrang
 
 ### § 1 — Van de Cadettenschool
 
@@ -240,7 +240,7 @@ Het leerplan wordt verdeeld over twee studiejaren.
 
 De wijze van toelating tot eenen Cursus, de regelen waarnaar de leerlingen tijdelijk of voor goed daarvan kunnen worden verwijderd, zoomede de inrichting en het bestuur van eenen Cursus, worden door Onzen Minister van Oorlog vastgesteld.
 
-## hoofdstuk Vierde — Van de opleiding voor den officiersrang
+## Vierde hoofdstuk — Van de opleiding voor den officiersrang
 
 ### § 1 — Van de Koninklijke Militaire Academie
 
@@ -446,7 +446,7 @@ Zij, die aan het examen niet voldoen, volgen nog éénmaal het onderwijs aan dez
 
 Het omtrent het examen en de rangschikking in het tweede en derde lid hiervoren bepaalde is ook op hen van toepassing.
 
-## Hoofdstuk Vijfde — Van de Hoogere Krijgsschool
+## Vijfde Hoofdstuk — Van de Hoogere Krijgsschool
 
 ### Artikel 40
 
@@ -497,7 +497,7 @@ Wij behouden Ons voor aan officieren der Zeemacht - het Korps Mariniers daaronde
 
 Ten aanzien van de officieren, die hunne studiën aan de Hoogere Krijgsschool hebben voleindigd, wordt jaarlijks door commissiën, door Onzen Minister van Oorlog te benoemen, aan dien Minister een verslag uitgebracht.
 
-## Hoofdstuk Zesde — Het toezicht, het bestuur en de leeraren
+## Zesde Hoofdstuk — Het toezicht, het bestuur en de leeraren
 
 ### Artikel 44
 
@@ -529,7 +529,7 @@ De onder *b* bedoelde leeraars worden door Ons benoemd, geschorst en ontslagen; 
 
 De reglementaire bepalingen, bedoeld bij de artt. 7, 9, 10, 15, 19, 26, 31, 32, 35, 38, 39, 41 en 42, worden, voor elk der daarbij bedoelde Inrichtingen, bij Algemeenen Maatregel van Bestuur vastgesteld.
 
-## Hoofdstuk Zevende — Overgangsbepalingen
+## Zevende Hoofdstuk — Overgangsbepalingen
 
 ### Artikel 49
 

@@ -39,12 +39,9 @@ De regeling van 25 februari 1994, nr. DGRLD/JBZ/L94.00996, wordt ingetrokken.
 
 's-Gravenhage 22 augustus 1994
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 namens deze,
 
-het\
-Hoofd Juridische en Bestuurlijke Zaken van de Rijksluchtvaartdienst\
-J.S. vanDam
+het Hoofd Juridische en Bestuurlijke Zaken van de Rijksluchtvaartdienst,\
+J.S. van Dam

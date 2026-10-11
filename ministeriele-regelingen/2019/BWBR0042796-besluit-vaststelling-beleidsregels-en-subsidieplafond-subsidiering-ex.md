@@ -47,9 +47,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal met de bijlagen, met uitzondering van de appendices bij de bijlage, in de Staatscourant worden geplaatst. Appendices bij de bijlage worden via internet bekend gemaakt.[^n2]
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de Directeur-Generaal Internationale Samenwerking,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de Directeur-Generaal Internationale Samenwerking,\
 K. van der Heijden
 
 ## Subsidiebeleidskader Drylands Sahel Program

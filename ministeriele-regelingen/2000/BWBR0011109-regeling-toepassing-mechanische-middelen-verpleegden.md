@@ -98,9 +98,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 20 januari 2000
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 A.H. Korthals
 
 - 1. Valhelm of schuimhelm

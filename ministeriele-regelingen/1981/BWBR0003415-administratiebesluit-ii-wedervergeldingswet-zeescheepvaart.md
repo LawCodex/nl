@@ -56,6 +56,5 @@ Dit besluit wordt in de Nederlandse Staatscourant bekendgemaakt en treedt in wer
 
 's-Gravenhage 17 juni 1981
 
-De\
-Minister\
-D. S.Tuijnman
+De Minister voornoemd,\
+D. S. Tuijnman

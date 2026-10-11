@@ -43,7 +43,5 @@ Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staa
 
 Deze regeling zal met bijbehorende bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-E.M.J.Ploumen
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
+E.M.J. Ploumen

@@ -57,10 +57,8 @@ Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscate
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen
 
 ## Bijlage — bij de artikelen 1 en 2 van de Regeling eisen praktijkexamens rijbewijscategorieën D1, E bij D1, D en E bij D
 

@@ -99,10 +99,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 12 juni 2009
 
-De\
-Minister\
-Defensie\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop
 
 ## Bijlage
 

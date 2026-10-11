@@ -161,12 +161,9 @@ Dit besluit kan worden aangehaald als ‘Besluit instelling Commissie van Advies
 
 's-Gravenhage 15 juli 1991
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 Namens de Minister,
 
-De\
-Secretaris-Generaal,\
-G. J. vanDinter
+De Secretaris-Generaal,\
+G. J. van Dinter

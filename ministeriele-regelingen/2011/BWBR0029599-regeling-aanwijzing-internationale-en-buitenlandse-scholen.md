@@ -117,10 +117,8 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing internationale en buiten
 
 Deze regeling zal met de toelichting en bijlagen in de Staatscourant worden geplaatst. Een Engelse vertaling van de regeling zal worden gepubliceerd op www.ocwduo.nl.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-J.M. vanBijsterveldt-Vliegenthart
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart
 
 ## Bijlage 1 — bij artikel 4 van de Regeling aanwijzing internationale en buitenlandse scholen: internationale accreditatieorganisaties
 

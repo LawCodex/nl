@@ -39,9 +39,8 @@ Dit besluit wordt in de Staatscourant geplaatst.
 
 's-Gravenhage 10 april 1992
 
-De\
-Minister-President\
-R. F. M.Lubbers
+De Minister-President,\
+R. F. M. Lubbers
 
 ## Algemene aanwijzingen inzake aangelegenheden van de ministerraad en onderraden, vastgesteld bij besluit van de Minister-President, handelende in overeenstemming met het gevoelen van de ministerraad
 

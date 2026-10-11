@@ -145,10 +145,8 @@ Er is een mandaatregister Rijksvastgoedbedrijf. Het register bevat namen en func
 
 ’s-Gravenhage 21 februari 2020
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
-namens deze,\
-A.H.W. Bertram\
-directeur-generaal Rijksvastgoedbedrijf
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze,\
+A.H.W. Bertram directeur-generaal Rijksvastgoedbedrijf
 
 ## Bijlage — bij Mandaatbesluit Rijksvastgoedbedrijf 2020
 

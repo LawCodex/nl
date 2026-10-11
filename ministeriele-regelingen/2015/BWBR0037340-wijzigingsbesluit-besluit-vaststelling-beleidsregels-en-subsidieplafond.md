@@ -39,9 +39,5 @@ Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken,\
-namens deze,\
-de Directeur-Generaal Politieke Zaken,\
-W.J.P.Geerts
+De Minister van Buitenlandse Zaken,namens deze,de Directeur-Generaal Politieke Zaken,\
+W.J.P. Geerts

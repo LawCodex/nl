@@ -140,7 +140,5 @@ Dit besluit wordt aangehaald als: Besluit Adviescommissie toepassing en gelijkwa
 
 ’s-Gravenhage 15 oktober 2015
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S. A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S. A. Blok

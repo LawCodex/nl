@@ -108,7 +108,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 11 maart 2010
 
-De\
-Minister\
-Wonen, Wijken en Integratie\
-E. vanMiddelkoop
+De Minister voor Wonen, Wijken en Integratie,\
+E. van Middelkoop

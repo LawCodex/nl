@@ -170,7 +170,5 @@ Deze regeling wordt aangehaald als: Regeling aftappen openbare telecommunicatien
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.M. deVries
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.M. de Vries

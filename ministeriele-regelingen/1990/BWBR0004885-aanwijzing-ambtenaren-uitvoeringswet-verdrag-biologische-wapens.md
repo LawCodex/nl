@@ -37,12 +37,9 @@ Deze regeling treedt in werking op de dag van haar bekendmaking in de Staatscour
 
 's-Gravenhage 18 oktober 1990
 
-De\
-minister\
-Landbouw, Natuurbeheer en Visserij
+De minister van Landbouw, Natuurbeheer en Visserij,
 
 voor deze:
 
-De\
-secretaris-generaal\
-T. H. J.Joustra
+De secretaris-generaal,\
+T. H. J. Joustra

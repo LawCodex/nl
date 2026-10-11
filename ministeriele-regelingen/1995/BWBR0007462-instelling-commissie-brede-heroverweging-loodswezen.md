@@ -63,7 +63,5 @@ Van deze beschikking wordt mededeling gedaan door plaatsing in de Staatscourant 
 
 ’s-Gravenhage 26 juni 1995
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

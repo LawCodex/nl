@@ -45,12 +45,8 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 21 juli 2004
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

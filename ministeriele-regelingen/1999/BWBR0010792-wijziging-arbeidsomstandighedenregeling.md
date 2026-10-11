@@ -85,10 +85,8 @@ Deze regeling zal met de bijlagen I en VIII en de toelichting in de Staatscouran
 
 ’s-Gravenhage 25 oktober 1999
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-J.F.Hoogervorst
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J.F. Hoogervorst
 
 ## Bijlage 1 — behorend bij artikel 1.10
 

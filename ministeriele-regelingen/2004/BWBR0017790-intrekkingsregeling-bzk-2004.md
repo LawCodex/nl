@@ -213,12 +213,8 @@ Deze regeling wordt aangehaald als: Intrekkingsregeling BZK 2004.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes
 
-De\
-Minister\
-Bestuurlijke Vernieuwing en Koninkrijksrelaties\
-Th.C. deGraaf
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties,\
+Th.C. de Graaf

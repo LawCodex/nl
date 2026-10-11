@@ -39,13 +39,10 @@ het zak- en kleedgeld voor ter beschikking gestelden en anderszins verpleegden, 
 
 Den Haag 10 oktober 2000
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-de\
-waarnemend sectordirecteur TBS
+de waarnemend sectordirecteur TBS
 
 E. Hooymans

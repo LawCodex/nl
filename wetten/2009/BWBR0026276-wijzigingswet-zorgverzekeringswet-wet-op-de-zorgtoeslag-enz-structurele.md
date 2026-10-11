@@ -96,10 +96,10 @@ Tavarnelle 18 juli 2009
 
 Beatrix
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 de *zesentwintigste* augustus 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

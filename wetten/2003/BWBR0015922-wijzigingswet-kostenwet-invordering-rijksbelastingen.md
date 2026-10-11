@@ -47,14 +47,10 @@ Gegeven te 's-Gravenhage 20 november 2003
 
 Beatrix
 
-De\
-Staatssecretaris\
-Financiën\
-J. G.Wijn
+De Staatssecretaris van Financiën,\
+J. G. Wijn
 
 de zevenentwintigste november 2003
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 J. P. H. Donner

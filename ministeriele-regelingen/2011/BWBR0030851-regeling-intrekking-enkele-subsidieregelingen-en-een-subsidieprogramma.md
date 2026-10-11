@@ -50,7 +50,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 6 december 2011
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen

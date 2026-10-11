@@ -29,13 +29,11 @@ Gezien het verslag van 12 februari 2013 van een schriftelijk overleg met de vast
 
 Besluit:
 
-## Artikel Enig
+## Enig Artikel
 
 De Nederlandse Zorgautoriteit voorziet er met ingang van 2013 in dat de bedragen die zij vaststelt op basis van de overgangsregeling als bedoeld in artikel 7 van de Aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 12 juli 2011 (Stcrt. 2011, 13319), zoals gewijzigd in de Aanwijzing houdende wijziging van de aanwijzing inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ van 8 augustus 2011 (Stcrt. 2011, 16189), voor huisvestingskosten ten behoeve van het verlenen van zorg als bedoeld in artikel 2, eerste lid, sub b, van die aanwijzing, worden verrekend via een beschikbaarheidbijdrage dan wel een afdracht aan het Zorgverzekeringsfonds.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

@@ -103,7 +103,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 7 april 2008
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-A.Aboutaleb
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+A. Aboutaleb

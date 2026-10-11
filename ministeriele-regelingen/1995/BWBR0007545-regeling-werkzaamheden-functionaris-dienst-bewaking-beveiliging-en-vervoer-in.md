@@ -39,11 +39,8 @@ Deze regeling wordt met toelichting gepubliceerd in de Staatscourant en het Alge
 
 Den Haag 11 september 1995.
 
-De\
-Minister\
-Justitie,
+De Ministervan Justitie,
 
 namens deze,
 
-A. van der Meer,\
-het wnd. hoofd van de Directie Politie.
+A. van der Meer, het wnd. hoofd van de Directie Politie.

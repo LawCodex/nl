@@ -39,7 +39,5 @@ Dit besluit treedt in werking op het tijdstip waarop de hoofdstukken 2 tot en me
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld

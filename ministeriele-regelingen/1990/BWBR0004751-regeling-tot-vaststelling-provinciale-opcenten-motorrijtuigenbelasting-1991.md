@@ -37,7 +37,5 @@ Besluit:
 
 's-Gravenhage 9 mei 1990
 
-De\
-staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

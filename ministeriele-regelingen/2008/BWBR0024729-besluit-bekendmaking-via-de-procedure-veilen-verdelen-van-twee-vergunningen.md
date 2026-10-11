@@ -76,7 +76,5 @@ Voor meer informatie over de onderhavige verdeling, zie de website van het Agent
 
 Den Haag 5 november 2008
 
-De\
-Staatssecretaris\
-Economische Zaken\
-F.Heemskerk
+De Staatssecretaris van Economische Zaken,\
+F. Heemskerk

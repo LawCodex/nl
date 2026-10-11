@@ -120,13 +120,7 @@ Dit reglement wordt aangehaald als: Reglement inzake de advisering van de Commis
 
 1 september 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-voor deze,\
-Raad voor Rechtsbijstand\
-P.J.M. van denBiggelaar\
-Directeur Stelsel
+De Minister van Veiligheid en Justitie,voor deze,Raad voor Rechtsbijstand\
+P.J.M. van den BiggelaarDirecteur Stelsel
 
-J. Wijkstra\
-Directeur Bedrijfsvoering
+J. Wijkstra Directeur Bedrijfsvoering

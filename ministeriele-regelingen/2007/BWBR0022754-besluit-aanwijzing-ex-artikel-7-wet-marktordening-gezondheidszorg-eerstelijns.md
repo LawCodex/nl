@@ -43,7 +43,5 @@ Ter uitvoering van dit besluit stelt de Nederlandse Zorgautoriteit, verder te no
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

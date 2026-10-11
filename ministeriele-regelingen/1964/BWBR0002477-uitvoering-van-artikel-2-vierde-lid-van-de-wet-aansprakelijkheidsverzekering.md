@@ -37,12 +37,9 @@ Deze beschikking wordt bekend gemaakt in de *Nederlandse Staatscourant*.
 
 's-Gravenhage 30 december 1964
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 Voor de minister:
 
-De\
-directeur van het binnenlands geldwezen\
-G. L.Popken
+De directeur van het binnenlands geldwezen,\
+G. L. Popken

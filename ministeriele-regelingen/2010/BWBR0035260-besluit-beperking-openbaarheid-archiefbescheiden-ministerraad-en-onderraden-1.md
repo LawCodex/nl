@@ -51,12 +51,10 @@ Er worden geen kopieën of andere reproducties verstrekt van de notulen en besch
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-De\
-Minister-President,
+De Minister-President,
 
-Minister\
-Algemene Zaken,\
-M.Rutte
+Minister van Algemene Zaken,\
+M. Rutte
 
 ## Bijlage
 

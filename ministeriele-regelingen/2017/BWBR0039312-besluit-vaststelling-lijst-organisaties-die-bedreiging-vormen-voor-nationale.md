@@ -39,7 +39,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-S.A.Blok
+De Minister van Veiligheid en Justitie,\
+S.A. Blok

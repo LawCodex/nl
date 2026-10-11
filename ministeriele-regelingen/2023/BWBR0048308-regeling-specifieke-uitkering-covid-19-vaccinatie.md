@@ -1,0 +1,175 @@
+---
+title: "Regeling specifieke uitkering COVID-19-vaccinatie"
+identifier: "BWBR0048308"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2023-06-13
+last_amended: 2026-07-08
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0048308/2026-07-08"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0048308/2026-07-08_0/xml/BWBR0048308_2026-07-08_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Cultureel recht", "Gezondheidsrecht en farmaceutisch recht"]
+retrieved: 2026-10-11
+---
+
+# Regeling specifieke uitkering COVID-19-vaccinatie
+
+*Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 juni 2023, kenmerk 3608755-1047372-PDCV, houdende het verstrekken van een specifieke uitkering aan GGD’en voor het in stand houden van een infrastructuur ten behoeve van de basiscapaciteit COVID-19-vaccinatie en het toedienen van COVID-19-vaccinaties*
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+
+Gelet op artikel 3 van de Kaderwet VWS-subsidies;
+
+Besluit:
+
+## Artikel 1 — Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- *COVID-19-vaccinatieprogramma:* een door de minister met de GGD’en afgestemde hoeveelheid aan COVID-19-vaccinaties die gedurende het jaar voor bepaalde doelgroepen beschikbaar moet zijn;
+- *dienst van algemeen economisch belang:* dienst als bedoeld in artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie;
+- *Gezondheidsraad:* de Gezondheidsraad, genoemd in artikel 21 van de Gezondheidswet;
+- *GGD:* gemeentelijke gezondheidsdienst als bedoeld in artikel 14 van de Wet publieke gezondheid;
+- *infrastructuur:* voorzieningen benodigd voor het kunnen aanbieden, uitvoeren en registreren van COVID-19-vaccinaties;
+- *Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
+- *RIVM:* Rijksinstituut voor Volksgezondheid en Milieu van het Ministerie van Volksgezondheid, Welzijn en Sport genoemd in artikel 2 van de Wet op het RIVM;
+- *SiSa:* Single information, Single audit, eenmalige informatieverstrekking, eenmalige accountantscontrole als wijze waarop provincies, gemeenten en gemeenschappelijke regelingen zich jaarlijks verantwoorden over de besteding van specifieke uitkeringen of provinciale middelen;
+- *uitkering:* een specifieke uitkering als bedoeld in artikel 15a van de Financiële-verhoudingswet.
+
+## Artikel 2 — Toepasselijkheid Awb en Kaderregeling subsidies OCW, SZW en VWS
+
+1\. Op deze regeling zijn de artikelen 4:35, 4:37 tot en met 4:39, 4:46, 4:48 tot en met 4:50, 4:56 en 4:57 van de Algemene wet bestuursrecht van overeenkomstige toepassing.
+
+2\. Op deze regeling is de Kaderregeling subsidies OCW, SZW en VWS niet van toepassing met uitzondering van de artikelen 5.1, 5.2, 5.4 en 5.7.
+
+## Artikel 3 — Uitkering COVID-19-vaccinatie
+
+1\. De minister verstrekt per GGD een uitkering voor de periode van 1 januari 2026 tot en met 31 december 2026 voor het toedienen van COVID-19-vaccinaties in het kader van het COVID-19-vaccinatieprogramma.
+
+2\. De GGD kan de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, in de periode van 1 september 2026 tot en met 31 december 2026 inzetten voor andere activiteiten, voor zover het activiteiten zijn die vallen onder de algemene infectieziektebestrijding op grond van artikel 6, eerste lid, van de Wet publieke gezondheid.
+
+3\. De hoogte van de uitkering wordt bepaald op basis van een vast bedrag per toegediende vaccinatie ter hoogte van € 25,62.
+
+4\. De uitkering per GGD voor het toedienen van COVID-19-vaccinaties bedraagt ten hoogste het bedrag zoals genoemd in de vijfde kolom van de tabel in de bijlage bij deze regeling.
+
+## Artikel 4 — Aanvullende uitkering
+
+1\. In het bedrag per toegediende vaccinatie, genoemd in artikel 3, derde lid, wordt het aandeel dat bestemd is voor indirecte personele kosten vastgesteld op 26,3%.
+
+2\. De minister kan aan een GGD een aanvullende uitkering verstrekken van ten hoogste het verschil tussen:
+
+- a. het totaalbedrag dat bestemd is voor indirecte personele kosten op basis van het aantal gerealiseerde vaccinaties in 2025; en
+- b. het totaalbedrag dat bestemd is voor indirecte personele kosten op basis van het aantal ingeschatte vaccinaties in 2026.
+
+3\. Een aanvullende uitkering per GGD als bedoeld in het tweede lid, bedraagt ten hoogste het bedrag zoals genoemd in de vierde kolom van de bijlage bij deze regeling.
+
+## Artikel 5 — Dienst van algemeen economisch belang
+
+De GGD wordt voor het uitvoeren van de activiteiten, bedoeld in artikel 3, eerste lid, belast met een dienst van algemeen economisch belang.
+
+## Artikel 6 — Dubbelfinanciering
+
+Er wordt geen uitkering verstrekt aan een GGD voor activiteiten waarvoor hij al een vergoeding van overheidswege ontvangt.
+
+## Artikel 7 — Aanvraag, verlening en bevoorschotting
+
+1\. De aanvraag tot verlening van een specifieke uitkering als bedoeld in artikel 3, eerste lid, wordt uiterlijk op 31 augustus 2026 ontvangen.
+
+2\. Voor de aanvraag tot verlening wordt een door de minister vastgesteld formulier gebruikt.
+
+3\. De minister beslist binnen 13 weken na sluiting van de aanvraagtermijn, genoemd in het eerste lid, op een aanvraag tot verlening van een specifieke uitkering.
+
+4\. Het besluit tot verlening vermeldt in elk geval voor welke activiteiten de uitkering wordt verleend, het bedrag van de uitkering, de periode waarvoor de uitkering wordt verleend en de wijze waarop de verantwoording plaatsvindt.
+
+5\. De Minister verleent bij het besluit tot verlening van de uitkering een voorschot van 100% dat in één keer wordt betaald.
+
+## Artikel 8 — Verplichtingen verbonden aan de uitkering
+
+1\. De GGD doet de Minister uiterlijk 4 weken na afloop van elk kwartaal na ontvangst van een uitkering verslag over het toegediende aantal vaccinaties.
+
+2\. Onverminderd het eerste lid informeert de GGD de Minister op verzoek over de voortgang van de activiteiten en de daaraan verbonden aantallen en kosten waarvoor een uitkering is verleend.
+
+3\. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in artikel 3, tweede lid, doet de GGD hiervan onverwijld schriftelijk mededeling aan de Minister.
+
+4\. De GGD draagt er zorg voor:
+
+- a. dat de organisatie, voortgang en planning van het toedienen van COVID-19-vaccinaties onder regie van het RIVM wordt uitgevoerd;
+- b. dat zij meewerkt aan de voorlichting over COVID-19-vaccinaties door het RIVM, die door de Minister of door een andere organisatie in opdracht van de Minister wordt uitgevoerd.
+
+## Artikel 9 — Verantwoording
+
+1\. De GGD legt verantwoording af over de besteding van de uitkering op de wijze als bepaald in artikel 17a van de Financiële-verhoudingswet.
+
+2\. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in artikel 3, tweede lid, rekent de GGD de aan de infrastructuur verbonden kosten naar verhouding toe aan deze andere inzet.
+
+## Artikel 10 — Vaststelling en terugvordering
+
+1\. De Minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in artikel 9, eerste lid, over de vaststelling van de uitkering.
+
+2\. De uitkering wordt vastgesteld op ten hoogste het aantal daadwerkelijk toegediende vaccinaties vermenigvuldigd met het in artikel 3, derde lid, genoemde bedrag.
+
+3\. Indien de gerealiseerde kosten de uitkering, bedoeld in het eerste lid, overstijgen wordt de aanvullende uitkering, bedoeld in artikel 4, vastgesteld op het verschil tussen de gerealiseerde kosten en de uitkering, bedoeld in het eerste lid, tot ten hoogste het bij de verlening van de aanvullende uitkering genoemde bedrag.
+
+4\. Indien het aantal vaccinaties in 2026 85% of lager bedraagt dan het aantal ingeschatte vaccinaties, zoals genoemd in de tweede kolom van de tabel in de bijlage bij deze regeling, wordt de uitkering aan een GGD vastgesteld op 85% van het in de verleningsbeschikking genoemde bedrag.
+
+5\. Indien de informatie ten behoeve van de verantwoording te laat, niet of niet volledig wordt verstrekt, kan de Minister de uitkering op een lager bedrag vaststellen, aan de hand van de gegevens die tot het besluit tot vaststelling beschikbaar zijn gesteld.
+
+## Artikel 11 — Hardheidsclausule
+
+De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
+
+## Artikel 12 — Inwerkingtreding en vervaldatum
+
+1\. Deze regeling treedt in werking met ingang van 1 juli 2023. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 30 juni 2023, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 juli 2023.
+
+2\. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat de regeling van toepassing blijft op uitkeringen die op grond van de regeling zijn verleend.
+
+## Artikel 13 — Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling specifieke uitkering COVID-19-vaccinatie.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.J. Kuipers
+
+## Bijlage — Tabel met het maximale uitkeringsbedrag per GGD voor de periode van 1 januari 2026 tot en met 31 december 2026 (bijlage als bedoeld in artikel 3, vierde lid, en artikel 4, derde lid)
+
+Onderstaand is een lijst opgenomen waarin de GGD’en staan en het maximale uitkeringsbedrag dat zij kunnen ontvangen op grond van artikel 3, vijfde lid, voor de periode 1 januari 2026 tot en met 31 december 2026.
+
+De bedragen zijn per GGD gebaseerd op het door het RIVM geprognotiseerde aantal vaccinaties per GGD en de vergoeding per vaccinatie (artikel 3, derde lid). De vastgestelde aantallen bestaan uit:
+
+- a. het toedienen van vaccinaties aan mensen die op individuele basis worden doorverwezen door hun behandelend arts; en
+- b. het toedienen van vaccinaties tijdens de najaarsronde voor de door de Gezondheidsraad aangegeven doelgroepen.
+
+| | Prognose aantal vaccinaties | uitkering prijs per prik | maximaal aanvullende uitkering | Totaal uitkering |
+| --- | --- | --- | --- | --- |
+| GGD Amsterdam | 73.804 | € 1.890.858 | € 177.575 | € 2.068.433 |
+| GGD Brabant-Zuidoost | 91.747 | € 2.350.558 | € 176.962 | € 2.527.520 |
+| GGD Drenthe | 60.459 | € 1.548.960 | € 139.599 | € 1.688.559 |
+| GGD Flevoland | 30.640 | € 784.997 | € 81.369 | € 866.366 |
+| GGD Fryslân | 62.567 | € 1.602.967 | € 117.552 | € 1.720.519 |
+| GGD Gelderland-Midden | 86.144 | € 2.207.009 | € 181.389 | € 2.388.398 |
+| GGD Gelderland-Zuid | 62.526 | € 1.601.916 | € 133.461 | € 1.735.377 |
+| GGD Gooi en Vechtstreek | 29.839 | € 764.475 | € 68.661 | € 833.136 |
+| GGD Groningen | 62.105 | € 1.591.130 | € 109.803 | € 1.700.934 |
+| GGD Haaglanden | 97.759 | € 2.504.586 | € 287.486 | € 2.792.072 |
+| GGD Hart voor Brabant | 119.279 | € 3.055.928 | € 240.657 | € 3.296.585 |
+| GGD Hollands Midden | 75.869 | € 1.943.764 | € 179.360 | € 2.123.124 |
+| GGD Hollands Noorden | 74.040 | € 1.896.905 | € 149.080 | € 2.045.984 |
+| GGD IJsselland | 54.555 | € 1.397.699 | € 113.604 | € 1.511.303 |
+| GGD Kennemerland | 65.808 | € 1.686.001 | € 117.963 | € 1.803.964 |
+| GGD Limburg-Noord | 57.846 | € 1.482.015 | € 107.883 | € 1.589.898 |
+| GGD Noord- en Oost-Gelderland | 96.604 | € 2.474.994 | € 203.793 | € 2.678.787 |
+| GGD Regio Utrecht | 138.912 | € 3.558.925 | € 297.937 | € 3.856.862 |
+| GGD Rotterdam-Rijnmond | 110.865 | € 2.840.361 | € 165.264 | € 3.005.626 |
+| GGD Twente | 60.312 | € 1.545.193 | € 123.441 | € 1.668.635 |
+| GGD West-Brabant | 79.447 | € 2.035.432 | € 164.146 | € 2.199.578 |
+| GGD Zaanstreek-Waterland | 32.406 | € 830.242 | € 83.121 | € 913.362 |
+| GGD Zeeland | 48.742 | € 1.248.770 | € 115.470 | € 1.364.240 |
+| GGD Zuid-Holland Zuid | 51.262 | € 1.313.332 | € 100.370 | € 1.413.703 |
+| GGD Zuid-Limburg | 63.983 | € 1.639.244 | € 138.487 | € 1.777.732 |
+| **Totaal** | **1.787.520** | **€ 45.796.262** | **€ 3.774.432** | **€ 49.570.695** |

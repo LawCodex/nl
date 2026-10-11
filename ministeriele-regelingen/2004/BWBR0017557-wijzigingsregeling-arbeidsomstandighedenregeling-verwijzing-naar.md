@@ -45,7 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 november 2004
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-H.A.L. vanHoof
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+H.A.L. van Hoof

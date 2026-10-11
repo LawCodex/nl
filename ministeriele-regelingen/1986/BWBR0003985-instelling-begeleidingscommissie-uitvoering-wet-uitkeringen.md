@@ -51,6 +51,5 @@ Afschrift van deze beschikking wordt gezonden aan de leden van de commissie, de 
 
 Rijswijk 6 juni 1986
 
-De\
-staatssecretaris\
+De staatssecretaris voornoemd,\
 J. P. van der Reijden

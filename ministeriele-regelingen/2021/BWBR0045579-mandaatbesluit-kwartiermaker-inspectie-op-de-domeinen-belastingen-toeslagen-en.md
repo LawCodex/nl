@@ -68,5 +68,4 @@ Dit besluit wordt aangehaald als: Mandaatbesluit kwartiermaker inspectie op de d
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-B. van den Dungen\
-secretaris-generaal
+B. van den Dungen secretaris-generaal

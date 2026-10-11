@@ -45,10 +45,8 @@ Deze regeling wordt met de bijlage in de Nederlandse Staatscourant geplaatst.
 
 's-Gravenhage 18 december 1987
 
-De\
-minister\
-Verkeer en Waterstaat\
-N.Smit-Kroes
+De minister van Verkeer en Waterstaat,\
+N. Smit-Kroes
 
 ## Bijlage — Controledocument, als bedoeld in artikel 149, sub c, van het Besluit personenvervoer
 

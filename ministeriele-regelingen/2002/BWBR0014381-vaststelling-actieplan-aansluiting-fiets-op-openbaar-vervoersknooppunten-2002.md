@@ -37,7 +37,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening i
 
 Deze regeling met toelichting zal, met uitzondering van de bijlagen, in de Staatscourant worden geplaatst. De bijlagen worden bekendgemaakt door terinzagelegging ten kantore van de Minister van Verkeer en Waterstaat, Plesmanweg 1-6 te Den Haag.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-Roelf H. deBoer
+De Minister van Verkeer en Waterstaat,\
+Roelf H. de Boer

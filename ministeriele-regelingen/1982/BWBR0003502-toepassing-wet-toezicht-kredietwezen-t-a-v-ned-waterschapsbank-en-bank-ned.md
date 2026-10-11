@@ -33,7 +33,5 @@ Het besluit ondertoezichtstelling overige kapitaalmarktinstellingen is met van t
 
 Deze beschikking, die in de Nederlandse Staatscourant wordt geplaatst, treedt in werking met ingang van 1 juli 1982.
 
-De\
-Minister\
-Financiën\
-Van derStee
+De Minister van Financiën,\
+Van der Stee

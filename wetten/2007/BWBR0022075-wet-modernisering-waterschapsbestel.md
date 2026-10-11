@@ -109,11 +109,11 @@ Gegeven te ’s-Gravenhage 21 mei 2007
 
 Beatrix
 
-De Staatssecretaris van Verkeer en Waterstaat\
-J. C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J. C. Huizinga-Heringa
 
-De Staatssecretaris van Financiën\
-J. C. deJager
+De Staatssecretaris van Financiën,\
+J. C. de Jager
 
 de *veertiende* juni 2007
 

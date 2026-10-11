@@ -96,12 +96,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 \`s-Gravenhage 27 maart 2001
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-W.A.Vermeend
+De Minister van Sociale Zaken en Werkgelegenheid,\
+W.A. Vermeend.
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-J.F.Hoogervorst
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J.F. Hoogervorst

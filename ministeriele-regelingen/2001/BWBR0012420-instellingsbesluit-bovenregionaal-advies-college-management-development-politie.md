@@ -93,7 +93,5 @@ Afschrift van dit besluit wordt gezonden aan:
 - de voorzitter van de Raad van Hoofdcommissarissen
 - de voorzitter van het OM Politieberaad.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-K.G. deVries
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.G. de Vries

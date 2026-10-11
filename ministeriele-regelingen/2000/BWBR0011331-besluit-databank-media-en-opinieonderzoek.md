@@ -47,13 +47,10 @@ Afschrift van dit besluit zal worden gezonden aan de Staatscourant en de directe
 
 ’s-Gravenhage 21 maart 2000
 
-De\
-Minister\
-Algemene Zaken
+De Minister van Algemene Zaken,
 
 namens deze,
 
-De\
-hoofddirecteur van de Rijksvoorlichtingsdienst
+De hoofddirecteur van de Rijksvoorlichtingsdienst,
 
 E. Brouwers

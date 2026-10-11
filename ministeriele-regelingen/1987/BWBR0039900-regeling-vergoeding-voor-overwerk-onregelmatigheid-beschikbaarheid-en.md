@@ -330,8 +330,5 @@ Deze regeling treedt in werking met ingang van 1 maart 1987.
 
 Deze regeling kan worden aangehaald als ‘Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid’, afgekort VROB.
 
-De Minister van Defensie\
-Voor deze\
-De Hoofddirecteur Personeel\
-P.F.M. Reesink\
-Schout-bij-nacht
+De Minister van Defensie Voor deze De Hoofddirecteur Personeel\
+P.F.M. Reesink Schout-bij-nacht

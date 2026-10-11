@@ -43,12 +43,9 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 Den Haag 27 juni 2005
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze:
 
-de\
-Directeur-Generaal Wetgeving, Rechtspleging en Rechtsbijstand\
-P.H.Holthuis
+de Directeur-Generaal Wetgeving, Rechtspleging en Rechtsbijstand,\
+P.H. Holthuis

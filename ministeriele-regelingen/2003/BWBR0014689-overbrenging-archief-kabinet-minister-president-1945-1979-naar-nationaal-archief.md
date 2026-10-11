@@ -47,8 +47,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 's-Gravenhage 10 februari 2003
 
-De\
-Minister-President\
-Minister\
-Algemene Zaken\
-J.P.Balkenende
+De Minister-President, Minister van Algemene Zaken,\
+J.P. Balkenende

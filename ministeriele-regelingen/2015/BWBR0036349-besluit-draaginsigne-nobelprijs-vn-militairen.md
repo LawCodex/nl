@@ -76,10 +76,8 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 16 februari 2015
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert
 
 ## Bijlage — behorende bij artikel 1, tweede lid, Besluit draaginsigne Nobelprijs VN-militairen
 

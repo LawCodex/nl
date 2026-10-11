@@ -71,7 +71,5 @@ Het met hen gevoerde overleg had de volgende inhoud:
 
 ’s-Gravenhage 4 november 2019
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze\
-H.J.I.M. de Rooij\
-Plaatsvervangend SG
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze\
+H.J.I.M. de Rooij Plaatsvervangend SG

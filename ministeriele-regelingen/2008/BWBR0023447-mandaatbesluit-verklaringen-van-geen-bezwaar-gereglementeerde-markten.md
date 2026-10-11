@@ -68,7 +68,5 @@ Dit besluit wordt aangehaald als: Mandaatbesluit verklaringen van geen bezwaar g
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos

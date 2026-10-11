@@ -66,6 +66,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van de Staatscou
 
 's-Gravenhage 20 juni 1985
 
-De\
-staatssecretaris\
-L. deGraaf
+De staatssecretaris voornoemd,\
+L. de Graaf

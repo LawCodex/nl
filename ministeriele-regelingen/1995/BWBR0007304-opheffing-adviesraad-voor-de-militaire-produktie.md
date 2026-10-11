@@ -39,17 +39,11 @@ Afschrift van dit besluit zal worden gezonden aan de Algemene Rekenkamer.
 
 's-Gravenhage 29 maart 1995
 
-De\
-minister\
-Economische Zaken\
-G.J.Wijers
+De minister van Economische Zaken,\
+G.J. Wijers
 
-De\
-minister\
-Defensie\
-J.J.C.Voorhoeve
+De minister van Defensie,\
+J.J.C. Voorhoeve
 
-De\
-minister\
-Buitenlandse Zaken\
-H.A.F.M.O. vanMierlo
+De minister van Buitenlandse Zaken,\
+H.A.F.M.O. van Mierlo

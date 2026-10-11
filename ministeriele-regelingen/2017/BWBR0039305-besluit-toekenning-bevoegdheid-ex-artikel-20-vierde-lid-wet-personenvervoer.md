@@ -54,7 +54,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-S.A.M.Dijksma
+De Staatssecretaris van Infrastructuur en Milieu,\
+S.A.M. Dijksma

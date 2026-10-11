@@ -7830,9 +7830,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972.’
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-Directeur Dienstencentrum,\
-voor deze,\
-M. van Rooij\
-plv. directeur Dienstencentrum
+De Minister van Justitie en Veiligheid, namens deze, Directeur Dienstencentrum, voor deze,\
+M. van Rooij plv. directeur Dienstencentrum

@@ -148,7 +148,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2016, met dien verstand
 - g. artikel IV, onderdeel E, onder 2, terugwerkt tot en met de datum waarop de Uitkeringsregeling Backpay in werking treedt indien dat eerder is dan 1 januari 2016;
 - h. artikel VIII voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2016.
 
-De\
-Staatssecretaris\
-Financiën,\
-E.D.Wiebes
+De Staatssecretaris van Financiën,\
+E.D. Wiebes

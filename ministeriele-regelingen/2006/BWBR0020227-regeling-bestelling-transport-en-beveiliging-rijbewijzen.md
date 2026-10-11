@@ -167,10 +167,8 @@ Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdelen A, 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen 1 tot en met 6 die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat te Den Haag.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
 ## Bijlage
 

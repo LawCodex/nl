@@ -63,13 +63,10 @@ Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezo
 
 's-Gravenhage 7 december 2001
 
-De\
-Minister\
-Algemene Zaken
+De Minister van Algemene Zaken,
 
 namens deze,
 
-de\
-secretaris-generaal
+de secretaris-generaal,
 
 W.J. Kuijken

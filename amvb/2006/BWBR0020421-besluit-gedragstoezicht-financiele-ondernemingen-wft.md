@@ -5160,13 +5160,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
 de *tweede* november 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 ## Bijlage A — inhoudende de basisvergelijking en aanvullende hypothesen voor consumptief krediet, bedoeld in de definitie van jaarlijks kostenpercentage in artikel 1
 

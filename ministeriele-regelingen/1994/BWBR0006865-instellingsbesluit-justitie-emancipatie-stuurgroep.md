@@ -92,12 +92,9 @@ Dit besluit treedt in werking met ingang van 1 september 1994.
 
 Den Haag 11 augustus 1994
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 Voor deze,
 
-De\
-secretaris-generaal\
-J. J. H.Suyver
+De secretaris-generaal,\
+J. J. H. Suyver

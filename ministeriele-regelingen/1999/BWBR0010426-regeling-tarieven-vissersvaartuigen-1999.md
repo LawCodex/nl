@@ -125,10 +125,8 @@ Deze regeling wordt aangehaald als: Regeling tarieven vissersvaartuigen 1999.
 
 Deze regeling zal met de toelichting worden geplaatst in de Staatscourant, de Curaçaosche Courant en het Afkondigingsblad van Aruba.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
 ## Bijlage
 

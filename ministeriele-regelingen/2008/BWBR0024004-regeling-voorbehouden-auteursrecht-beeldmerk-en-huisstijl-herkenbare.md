@@ -33,10 +33,7 @@ De Staat der Nederlanden (Ministerie van Algemene Zaken) maakt een voorbehoud al
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met de toelichting en bijlage in de Staatscourant worden geplaatst.
 
-De\
-Minister-President\
-Minister\
-Algemene Zaken\
+De Minister-President, Minister van Algemene Zaken,\
 J.P. Balkenende
 
 ## Bijlage

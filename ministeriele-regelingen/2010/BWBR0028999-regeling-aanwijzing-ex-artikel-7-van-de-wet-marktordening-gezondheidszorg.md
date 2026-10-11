@@ -57,10 +57,8 @@ Voor ambulancezorg wordt per 1 januari 2011 voor drie achtereenvolgende jaren ee
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage 1
 
@@ -178,10 +176,8 @@ Na de inwerkingtreding van dit convenant wordt de tekst daarvan gepubliceerd in 
 
 Aldus overeengekomen en in tweevoud ondertekend te Den Haag op 11 maart 2010:
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 De Voorzitter Ambulancezorg Nederland\
 G.E.L. Worm

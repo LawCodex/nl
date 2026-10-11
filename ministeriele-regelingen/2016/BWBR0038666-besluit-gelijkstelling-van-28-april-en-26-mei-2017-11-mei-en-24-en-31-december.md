@@ -37,7 +37,5 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van verschijn
 
 Onze Minister van Veiligheid en Justitie is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

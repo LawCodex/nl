@@ -39,12 +39,9 @@ Dit besluit zal worden geplaatst in de Staatscourant en in het Algemeen Politieb
 
 's-Gravenhage 9 december 1994
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-het\
-hoofd van de Directie Politie\
-H. P.Wooldrik
+het hoofd van de Directie Politie,\
+H. P. Wooldrik

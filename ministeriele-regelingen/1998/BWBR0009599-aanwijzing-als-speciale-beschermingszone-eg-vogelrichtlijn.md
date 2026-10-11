@@ -37,7 +37,5 @@ Deze beschikking zal, met uitzondering van toelichtende nota en de kaart, met de
 
 ’s-Gravenhage 6 mei 1998
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-J.J. vanAartsen
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+J.J. van Aartsen

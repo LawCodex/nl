@@ -51,8 +51,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 12 januari 2005
 
-De\
-Minister\
-Justitie\
-a.i.\
-M.C.F.Verdonk
+De Minister van Justitie a.i.,\
+M.C.F. Verdonk

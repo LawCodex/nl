@@ -35,7 +35,5 @@ Dit besluit treedt in werking met ingang van 15 februari 2018.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Infrastructuur en Waterstaat,\
-Namens deze,\
-De Directeur-Generaal Milieu en Internationaal,\
+De Staatssecretaris van Infrastructuur en Waterstaat, Namens deze, De Directeur-Generaal Milieu en Internationaal,\
 ir. R.P. Laperre

@@ -275,10 +275,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 27 november 2009
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven
 
 ## Bijlage — behorende bij de artikelen 1, 15, eerste en derde lid, 16, eerste lid,18, eerste lid, en 19, eerste lid
 

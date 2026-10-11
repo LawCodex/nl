@@ -128,10 +128,8 @@ Deze regeling wordt aangehaald als: Regeling milieu-informatie luchthaven Schiph
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 8 welke bij het Ministerie van Verkeer en Waterstaat ter inzage zal worden gelegd.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-M.H.Schultz van Haegen
+De Staatssecretaris van Verkeer en Waterstaat,\
+M.H. Schultz van Haegen
 
 ## Bijlage 1 — Gegevens over de milieu- en veiligheidsbelasting
 

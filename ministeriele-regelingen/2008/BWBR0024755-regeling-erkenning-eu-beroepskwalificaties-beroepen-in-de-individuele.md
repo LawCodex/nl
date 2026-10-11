@@ -120,7 +120,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties beroepen in de individuele gezondheidszorg.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

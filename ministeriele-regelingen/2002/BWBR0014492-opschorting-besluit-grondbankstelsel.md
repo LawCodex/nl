@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 18 december 2002
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-C.P.Veerman
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+C.P. Veerman

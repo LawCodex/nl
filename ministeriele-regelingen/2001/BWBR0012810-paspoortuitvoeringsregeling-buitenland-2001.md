@@ -1202,9 +1202,8 @@ Deze regeling wordt aangehaald als: Paspoortuitvoeringsregeling Buitenland 2001.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-DE\
-MINISTER VOOR GROTE STEDEN- EN INTEGRATIEBELEID\
-R.H.L.M. vanBoxtel
+DE MINISTER VOOR GROTE STEDEN- EN INTEGRATIEBELEID,\
+R.H.L.M. van Boxtel
 
 ## Bijlagen — Paspoortuitvoeringsregeling Buitenland 2001
 

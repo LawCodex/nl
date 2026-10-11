@@ -90,7 +90,5 @@ Een ieder die betrokken is bij de werkzaamheden van de commissie en daarbij de b
 
 2\. Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.
 
-De\
-Staatssecretaris\
-Financiën\
-W.Vermeend
+De Staatssecretaris van Financiën,\
+W. Vermeend

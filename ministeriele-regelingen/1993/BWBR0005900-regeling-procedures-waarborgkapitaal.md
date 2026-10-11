@@ -53,12 +53,9 @@ De directeur douane, (loco).
 
 Deze regeling treedt in werking op de dag dat deze in de Staatscourant wordt bekendgemaakt.
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 namens deze,
 
-De\
-Directeur-Generaal der Belastingen,\
-C.Boersma
+De Directeur-Generaal der Belastingen,\
+C. Boersma

@@ -49,13 +49,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap\
-M.Rutte
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap ,\
+M. Rutte
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-C. P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit ,\
+C. P. Veerman
 
 de *zevenentwintigste* juli 2006
 
-De Minister van Justitie a.i.\
-S. M.Dekker
+De Minister van Justitie a.i. ,\
+S. M. Dekker

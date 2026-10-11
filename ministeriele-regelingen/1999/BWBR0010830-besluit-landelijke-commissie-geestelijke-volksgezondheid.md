@@ -88,7 +88,5 @@ Dit Besluit wordt aangehaald als: Besluit Landelijke Commissie Geestelijke Volks
 
 Deze regeling zal (met toelichting) in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers

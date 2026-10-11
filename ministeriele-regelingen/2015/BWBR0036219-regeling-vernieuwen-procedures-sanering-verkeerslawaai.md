@@ -43,7 +43,5 @@ Dit besluit wordt aangehaald als: Regeling vernieuwen procedures sanering verkee
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu\
+W.J. Mansveld

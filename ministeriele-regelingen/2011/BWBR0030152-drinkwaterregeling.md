@@ -342,9 +342,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 14 juni 2011
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,
+De Staatssecretaris van Infrastructuur en Milieu,
 
 ## Bijlage 1 — behorend bij artikel 4 van de Drinkwaterregeling
 

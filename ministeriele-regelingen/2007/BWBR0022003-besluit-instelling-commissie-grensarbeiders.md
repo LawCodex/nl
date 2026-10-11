@@ -86,9 +86,5 @@ Een ieder die betrokken is bij de werkzaamheden van de commissie en daarbij de b
 
 Den Haag 30 mei 2007
 
-De\
-Staatssecretaris\
-Financiën\
-namens deze:\
-directeur-generaal Belastingdienst\
-J.Thunnissen
+De Staatssecretaris van Financiën, namens deze: de directeur-generaal Belastingdienst,\
+J. Thunnissen

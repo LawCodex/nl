@@ -57,7 +57,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 17 december 2002.
 
-De\
-Staatssecretaris\
-Economische Zaken\
-J.G.Wijn
+De Staatssecretaris van Economische Zaken,\
+J.G. Wijn

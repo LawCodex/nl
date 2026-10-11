@@ -111,22 +111,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 7 december 2007
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-A.Aboutaleb
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+A. Aboutaleb

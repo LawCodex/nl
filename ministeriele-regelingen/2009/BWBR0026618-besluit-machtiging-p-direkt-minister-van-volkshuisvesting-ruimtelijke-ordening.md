@@ -83,9 +83,5 @@ De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van 
 
 Den Haag 21 oktober 2009
 
-De\
-Minister\
-Volkhuisvesting, Ruimtelijke Ordening en Milieubeheer\
-namens deze:\
-de plaatsvervangend Secretaris-Generaal\
-S.M.M.Borgers
+De Minister van Volkhuisvesting, Ruimtelijke Ordening en Milieubeheer, namens deze:de plaatsvervangend Secretaris-Generaal,\
+S.M.M. Borgers

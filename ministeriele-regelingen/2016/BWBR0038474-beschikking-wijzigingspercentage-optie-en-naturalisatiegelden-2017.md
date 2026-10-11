@@ -39,7 +39,5 @@ Deze beschikking treedt in werking op 1 januari 2017. Zij wordt aangehaald als: 
 
 Den Haag 20 augustus 2016
 
-De\
-Minister\
-Veiligheid en Justitie\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

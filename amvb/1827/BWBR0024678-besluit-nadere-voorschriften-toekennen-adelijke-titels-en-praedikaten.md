@@ -43,11 +43,10 @@ Brussel den 24sten Mei 1827
 
 Willem
 
-Van wege den Koning\
-J. G. deMey van Streefkerk
+Van wege den Koning,\
+J. G. de Mey van Streefkerk
 
 den *derden* Juni 1827.
 
-De\
-Secretaris van Staat\
-J. G. deMey van Streefkerk
+De Secretaris van Staat,\
+J. G. de Mey van Streefkerk

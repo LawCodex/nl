@@ -41,9 +41,7 @@ Dit besluit kan worden aangehaald als: Besluit routinematige vervanging archiefb
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. De bijlage wordt op de internetsite van DUO (www.duo.nl) geplaatst en is daar te raadplegen.
 
-De Minister van Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de directeur-Generaal van de Dienst Uitvoering Onderwijs,\
+De Minister van Onderwijs, Cultuur en Wetenschap, namens deze, de directeur-Generaal van de Dienst Uitvoering Onderwijs,\
 J.H. Schutte
 
 Gepubliceerd op www.duo.nl.

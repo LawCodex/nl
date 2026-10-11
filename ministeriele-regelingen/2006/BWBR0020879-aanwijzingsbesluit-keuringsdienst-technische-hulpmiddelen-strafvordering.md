@@ -41,7 +41,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 19 december 2006
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

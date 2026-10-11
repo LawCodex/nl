@@ -82,7 +82,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 Den Haag 9 juli 2004
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner

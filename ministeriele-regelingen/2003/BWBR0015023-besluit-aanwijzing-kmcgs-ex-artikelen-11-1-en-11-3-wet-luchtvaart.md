@@ -43,7 +43,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 28 april 2003
 
-De\
-Minister\
-Defensie\
+De Minister van Defensie,\
 H.G.J. Kamp

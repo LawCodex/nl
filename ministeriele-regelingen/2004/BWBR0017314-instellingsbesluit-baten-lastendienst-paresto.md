@@ -45,12 +45,8 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 13 oktober 2004
 
-De\
-Staatssecretaris\
-Defensie\
-C. van derKnaap
+De Staatssecretaris van Defensie,\
+C. van der Knaap
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

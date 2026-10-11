@@ -53,10 +53,10 @@ Gegeven te 's-Gravenhage 4 november 2004
 
 Beatrix
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner
 
 de *zestiende* november 2004
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

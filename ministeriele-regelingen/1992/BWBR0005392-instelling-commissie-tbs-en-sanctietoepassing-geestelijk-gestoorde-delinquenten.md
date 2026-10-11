@@ -100,7 +100,5 @@ Dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift z
 
 's-Gravenhage 28 januari 1992
 
-De\
-Staatssecretaris\
-Justitie\
-A.Kosto
+De Staatssecretaris van Justitie,\
+A. Kosto

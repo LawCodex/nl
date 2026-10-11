@@ -101,6 +101,5 @@ Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscou
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Interdepartementale Commissie Verkoop Defensiematerieel.
 
-De Staatssecretaris van Financiën - Fiscaliteit en Belastingdienst,\
-mede namens de Staatssecretaris van Defensie, de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
+De Staatssecretaris van Financiën - Fiscaliteit en Belastingdienst, mede namens de Staatssecretaris van Defensie, de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
 M.L.A. van Rij

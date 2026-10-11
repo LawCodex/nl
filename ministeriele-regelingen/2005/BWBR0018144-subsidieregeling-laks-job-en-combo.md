@@ -206,7 +206,5 @@ Deze regeling wordt aangehaald als Subsidieregeling LAKS, JOB en Combo.
 
 Deze regeling zal met de toelichting in het Gele Katern worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
-De\
-minister\
-onderwijs, cultuur en wetenschap\
-M.J.A. van derHoeven
+De minister van onderwijs, cultuur en wetenschap,\
+M.J.A. van der Hoeven

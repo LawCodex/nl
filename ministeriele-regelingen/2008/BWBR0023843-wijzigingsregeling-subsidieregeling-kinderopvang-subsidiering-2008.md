@@ -43,10 +43,8 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal met de toelichting en de daarbij behorende bijlagen in de Staatscourant worden geplaatst, met uitzondering van bijlage 2, die met ingang van het tijdstip van inwerkingtreding van deze regeling ter inzage ligt bij de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-S.A.M.Dijksma
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S.A.M. Dijksma
 
 ## Bijlage 1
 

@@ -83,7 +83,5 @@ Deze regeling zal met de daarbij behorende toelichting worden geplaatst in de St
 
 Den Haag 7 oktober 2003
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+S.M. Dekker

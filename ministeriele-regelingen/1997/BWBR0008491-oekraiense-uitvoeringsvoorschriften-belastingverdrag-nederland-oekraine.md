@@ -92,7 +92,5 @@ In de gevallen waarin teruggaaf wordt verzocht van de op de dividenden, interest
 
 3\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty’s die zijn betaald of worden betaald in een belastingjaar of belastingtijdvak dat aanvangt op of na 1 januari 1997.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

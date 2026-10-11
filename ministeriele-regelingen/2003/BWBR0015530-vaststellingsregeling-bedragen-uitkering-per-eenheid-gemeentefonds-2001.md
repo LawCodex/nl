@@ -39,15 +39,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën,\
+J.G. Wijn
 
 ## Bijlage 1 — De bedragen per eenheid, bedoeld in artikel 9 van de Financiële-verhoudingswet, over het uitkeringsjaar 2001 (bijlage bij artikel 1)
 

@@ -39,9 +39,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 20 mei 2007
 
-De\
-Minister\
-Economische Zaken\
-namens deze:\
-wnd. Directeur-Generaal van Ondernemen en Innovatie\
-E.J. deVries
+De Minister van Economische Zaken, namens deze:wnd. Directeur-Generaal van Ondernemen en Innovatie,\
+E.J. de Vries

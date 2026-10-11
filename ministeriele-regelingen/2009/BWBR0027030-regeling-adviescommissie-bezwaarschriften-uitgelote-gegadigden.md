@@ -116,9 +116,5 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 Deze regeling kan worden aangehaald als Regeling adviescommissie bezwaarschriften uitgelote gegadigden.
 
-De\
-minister\
-Onderwijs, Cultuur en Wetenschap\
-namens deze:\
-Directeur-Generaal DUO\
-R.J.A.Kerstens
+De minister van Onderwijs, Cultuur en Wetenschap, namens deze:Directeur-Generaal DUO,\
+R.J.A. Kerstens

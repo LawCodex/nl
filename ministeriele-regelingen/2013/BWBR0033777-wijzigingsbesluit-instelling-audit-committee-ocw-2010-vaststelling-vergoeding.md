@@ -41,7 +41,5 @@ Artikel 10 van het Besluit instelling Audit Committee OCW 2010 zoals dat luidde 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

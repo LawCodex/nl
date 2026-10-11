@@ -86,9 +86,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 3 augustus 2012
 
-De\
-minister\
-Veiligheid en Justitie,\
-namens deze:\
-G.N.Roes,\
-directeur-generaal Rechtspleging en Rechtshandhaving.
+De minister van Veiligheid en Justitie,namens deze:\
+G.N. Roes,directeur-generaal Rechtspleging en Rechtshandhaving.

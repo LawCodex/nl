@@ -57,12 +57,8 @@ Deze regeling wordt aangehaald als: Regeling rekenmethode inhoudingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken\
-H.F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H.F. Dijkstal
 
-De\
-Staatssecretaris\
-Defensie\
-J.C.Gmelich Meijling
+De Staatssecretaris van Defensie,\
+J.C. Gmelich Meijling

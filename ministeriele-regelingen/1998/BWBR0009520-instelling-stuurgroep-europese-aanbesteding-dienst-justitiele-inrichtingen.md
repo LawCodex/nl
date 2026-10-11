@@ -67,6 +67,5 @@ Den Haag 31 maart 1998
 
 Namens de Minister.
 
-De waarnemend\
-hoofddirecteur Dienst Justitiële Inrichtingen\
-M.A.G.Rutten
+De waarnemend hoofddirecteur Dienst Justitiële Inrichtingen.\
+M.A.G. Rutten

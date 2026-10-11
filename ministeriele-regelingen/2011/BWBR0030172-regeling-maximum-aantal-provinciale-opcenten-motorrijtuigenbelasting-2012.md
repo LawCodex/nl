@@ -39,7 +39,5 @@ De regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 30 juni 2011
 
-De staat\
-secretaris\
-Financiën,\
-F.H.H.Weekers
+De staatsecretaris van Financiën,\
+F.H.H. Weekers

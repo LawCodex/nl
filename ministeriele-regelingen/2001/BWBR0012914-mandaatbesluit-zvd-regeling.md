@@ -53,9 +53,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Zvd-regeling.
 
 Dit besluit treedt in werking met ingang van 1 augustus 2001 en zal worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Defensie,
+De Ministervan Defensie,
 
 voor deze,
 

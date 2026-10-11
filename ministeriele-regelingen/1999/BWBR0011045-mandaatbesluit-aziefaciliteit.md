@@ -59,13 +59,10 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal in de Staatscourant geplaatst worden.
 
-De\
-Minister\
-Buitenlandse Zaken
+De Minister van Buitenlandse Zaken,
 
 namens deze,
 
-de\
-plv. Directeur-Generaal Regio- en Landenbeleid
+de plv. Directeur-Generaal Regio- en Landenbeleid,
 
 M. E. P. Dierikx

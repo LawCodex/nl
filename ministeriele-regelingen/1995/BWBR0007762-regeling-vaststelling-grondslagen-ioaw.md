@@ -47,6 +47,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 19 december 1995
 
-de\
-Minister\
-A.P.W.Melkert
+de Minister voornoemd,\
+A.P.W. Melkert

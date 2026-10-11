@@ -47,7 +47,5 @@ Deze regeling treedt in werking op het tijdstip waarop de Vreemdelingenwet 2000 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Justitie\
-N.A.Kalsbeek
+De Staatssecretaris van Justitie\
+N.A. Kalsbeek

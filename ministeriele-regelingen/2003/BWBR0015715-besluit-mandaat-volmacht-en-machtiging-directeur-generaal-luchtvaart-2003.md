@@ -59,7 +59,5 @@ DE DIRECTEUR-GENERAAL LUCHTVAART,’
 
 gevolgd door de handtekening en de naam van de directeur-generaal Luchtvaart.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-M.H.Schultz van Haegen
+De Staatssecretaris van Verkeer en Waterstaat\
+M.H. Schultz van Haegen

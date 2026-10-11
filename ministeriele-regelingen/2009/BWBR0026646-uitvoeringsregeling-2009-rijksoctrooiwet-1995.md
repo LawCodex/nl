@@ -264,10 +264,8 @@ Deze regeling zal met de toelichting in de Staatscourant en in de Curaçaosche C
 
 Den Haag 6 november 2009
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken\
+M.J.A. van der Hoeven
 
 ## Bijlage — bij artikel 5
 

@@ -51,10 +51,8 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap\
+M. Bussemaker
 
 ## Bijlage 1 — Vaststelling regio’s, behorende bij artikel 1 van de Regeling regio’s en contactgemeenten educatie
 

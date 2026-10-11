@@ -51,9 +51,7 @@ Deze regeling wordt met bijlage in de Staatscourant geplaatst met uitzondering v
 
 Utrecht 15 december 2016
 
-De Minister van Veiligheid en Justitie,\
-Namens deze,\
-De voorzitter van het College Gerechtelijke Deskundigen,\
+De Minister van Veiligheid en Justitie, Namens deze, De voorzitter van het College Gerechtelijke Deskundigen,\
 F.A.M. Bakker
 
 ## Bijlage

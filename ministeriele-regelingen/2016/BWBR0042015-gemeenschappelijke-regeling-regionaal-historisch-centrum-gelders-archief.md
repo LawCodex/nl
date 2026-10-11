@@ -364,29 +364,25 @@ Deze regeling kan worden aangehaald als: gemeenschappelijke regeling Regionaal H
 De Minister van Onderwijs, Cultuur en Wetenschap,\
 .........................................................
 
-Burgemeester en wethouders van de gemeente Arnhem,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Arnhem, De burgemeester,\
 .........................................................
 
 de secretaris,\
 .........................................................
 
-Burgemeester en wethouders van de gemeente Renkum,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Renkum, De burgemeester,\
 .........................................................
 
 de secretaris,\
 .........................................................
 
-Burgemeester en wethouders van de gemeente Rheden,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Rheden, De burgemeester,\
 .........................................................
 
 de secretaris,\
 .........................................................
 
-Burgemeester en wethouders van de gemeente Rozendaal,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Rozendaal, De burgemeester,\
 .........................................................
 
 de secretaris,\

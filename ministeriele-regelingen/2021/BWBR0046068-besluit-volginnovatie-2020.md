@@ -65,7 +65,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 8 december 2021
 
-De Minister van Economische Zaken en Klimaat,\
-namens deze:\
-A.A.J.M. Martens\
-Afdelingsmanager Concernstaf, Personeel en Organisatie Rijksdienst voor Ondernemend Nederland
+De Minister van Economische Zaken en Klimaat, namens deze:\
+A.A.J.M. Martens Afdelingsmanager Concernstaf, Personeel en Organisatie Rijksdienst voor Ondernemend Nederland

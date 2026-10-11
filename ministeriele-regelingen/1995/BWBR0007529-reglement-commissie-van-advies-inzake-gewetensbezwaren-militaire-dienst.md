@@ -29,10 +29,8 @@ Het bij deze beschikking gevoegde reglement, op 23 mei 1995 vastgesteld door de 
 
 Deze beschikking wordt gepubliceerd in de Staatscourant.
 
-De\
-Staatssecretaris\
-Defensie\
-J. C.Gmelich Meijling
+De Staatssecretaris van Defensie,\
+J. C. Gmelich Meijling
 
 ## Reglement commissie van advies inzake gewetensbezwaren militaire dienst Vastgesteld op grond van artikel 4, eerste lid, van het Besluit gewetensbezwaren militaire dienst door de Commissie van advies inzake gewetensbezwaren militaire dienst op 23 mei 1995.
 

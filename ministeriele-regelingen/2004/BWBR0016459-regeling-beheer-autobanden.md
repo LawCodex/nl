@@ -47,10 +47,8 @@ Deze regeling wordt aangehaald als: Regeling beheer autobanden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.L.B.A. vanGeel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+P.L.B.A. van Geel
 
 ## Bijlage 1 — behorende bij artikel 1
 

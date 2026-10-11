@@ -87,9 +87,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Kralendijk 28 november 2016
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-G. deGroot,\
-Hoofd RCN-unit SZW
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+G. de Groot,Hoofd RCN-unit SZW

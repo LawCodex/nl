@@ -77,7 +77,5 @@ Voor de berekening van het in aanmerking te nemen bedrag van deelnemingsverreken
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003.
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën\
+J.G. Wijn

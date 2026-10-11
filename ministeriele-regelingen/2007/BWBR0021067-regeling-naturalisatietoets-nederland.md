@@ -184,10 +184,8 @@ Deze regeling wordt aangehaald als: Regeling naturalisatietoets Nederland.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Integratie, Jeugdbescherming, Preventie en Reclassering\
-M.C.F.Verdonk
+De Minister voor Integratie, Jeugdbescherming, Preventie en Reclassering,\
+M.C.F. Verdonk
 
 ## Bijlage — Examenreglement naturalisatietoets buitenland Bijlage als bedoeld in artikel 3, vijfde lid, Regeling naturalisatietoets Nederland
 

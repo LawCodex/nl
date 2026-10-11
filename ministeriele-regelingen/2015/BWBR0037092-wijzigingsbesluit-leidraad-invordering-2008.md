@@ -37,9 +37,5 @@ Dit besluit wordt in de Staatscourant gepubliceerd.
 
 Den Haag 9 oktober 2015
 
-De\
-Staatssecretaris\
-Financiën,\
-namens deze,\
-J. deBlieck\
-Lid van het managementteam Belastingdienst
+De Staatssecretaris van Financiën,namens deze,\
+J. de BlieckLid van het managementteam Belastingdienst

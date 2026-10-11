@@ -48,7 +48,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 3 februari 2021
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-Namens deze;\
-De algemene rijksarchivaris\
-M.L.Engelhard
+De Minister voor Basis- en Voortgezet Onderwijs en Media, Namens deze; De algemene rijksarchivaris,\
+M.L. Engelhard

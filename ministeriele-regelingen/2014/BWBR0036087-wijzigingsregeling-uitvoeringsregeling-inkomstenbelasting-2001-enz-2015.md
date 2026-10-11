@@ -132,7 +132,5 @@ Met betrekking tot een belastingaanslag inkomstenbelasting over het kalenderjaar
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën,\
-E.D.Wiebes
+De Staatssecretaris van Financiën,\
+E.D. Wiebes

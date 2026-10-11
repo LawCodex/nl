@@ -37,7 +37,5 @@ Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 11 november 2014
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

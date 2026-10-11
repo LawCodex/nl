@@ -43,12 +43,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Den Haag 2 juni 2003
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid
+De Minister van Sociale Zaken en Werkgelegenheid,
 
 namens deze,
 
-de\
-waarnemend plaatsvervangend secretaris-generaal\
-J.H.Maas
+de waarnemend plaatsvervangend secretaris-generaal,\
+J.H. Maas

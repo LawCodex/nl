@@ -83,7 +83,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 20 december 2017
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-S.L. de Koning\
-Wnd. afdelingsmanager V&T
+De Minister voor Rechtsbescherming, namens deze,\
+S.L. de Koning Wnd. afdelingsmanager V&T

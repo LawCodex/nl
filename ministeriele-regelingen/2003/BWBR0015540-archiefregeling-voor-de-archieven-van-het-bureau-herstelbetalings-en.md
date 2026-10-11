@@ -41,7 +41,5 @@ Deze regeling wordt aangehaald als: Archiefregeling voor de archieven van het Bu
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

@@ -66,8 +66,7 @@ Dit besluit kan worden aangehaald als: Besluit digitale vervanging ministerie va
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Algemene Zaken.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 M. Rutte
 
 ## Bijlage

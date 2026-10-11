@@ -127,7 +127,5 @@ Deze beschikking, die zal worden geplaatst in de Staatscourant, kan worden aange
 
 's-Gravenhage 26 januari 1976
 
-De\
-Minister\
-Volkshuisvesting en Ruimtelijke Ordening\
-J.P.A.Gruijters
+De Minister van Volkshuisvesting en Ruimtelijke Ordening,\
+J.P.A. Gruijters

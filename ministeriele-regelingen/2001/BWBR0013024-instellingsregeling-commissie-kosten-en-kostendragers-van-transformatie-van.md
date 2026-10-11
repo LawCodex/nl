@@ -59,7 +59,5 @@ deze beschikking in de Nederlandse Staatscourant te plaatsen en in afschrift toe
 
 's-Gravenhage 16 november 2001.
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+DeStaatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
 J. W. Remkes.

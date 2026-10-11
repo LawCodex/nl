@@ -39,7 +39,5 @@ Deze beschikking treedt in werking met ingang van 1 januari 1997.
 
 ’s-Gravenhage 23 december 1996
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-J.J. vanAartsen
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+J.J. van Aartsen

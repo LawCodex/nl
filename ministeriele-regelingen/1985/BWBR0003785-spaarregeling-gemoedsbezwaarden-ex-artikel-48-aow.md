@@ -73,13 +73,10 @@ Deze beschikking treedt in werking met ingang van de dag na bekendmaking in de N
 
 's-Gravenhage 23 april 1985
 
-De\
-staatssecretaris\
-L. deGraaf
+De staatssecretaris voornoemd,\
+L. de Graaf
 
 's-Gravenhage, 24 april 1985
 
-De\
-staatssecretaris\
-Financiën\
-H. E.Koning
+De staatssecretaris van Financiën,\
+H. E. Koning

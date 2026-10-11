@@ -192,7 +192,5 @@ Deze regeling kan worden aangehaald als: Regeling eenmalige uitkering zelfstandi
 
 's-Gravenhage 29 september 1988
 
-De\
-staatssecretaris\
-Economische Zaken\
-A. J.Evenhuis
+De staatssecretaris van Economische Zaken,\
+A. J. Evenhuis

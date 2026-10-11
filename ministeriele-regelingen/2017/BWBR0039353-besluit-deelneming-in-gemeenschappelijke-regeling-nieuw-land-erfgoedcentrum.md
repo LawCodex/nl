@@ -33,7 +33,5 @@ Het Rijk neemt deel aan de Gemeenschappelijke Regeling Nieuw Land Erfgoedcentrum
 
 Dit besluit treedt in werking op een bij besluit van de Minister van Onderwijs, Cultuur en Wetenschap te bepalen tijdstip.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

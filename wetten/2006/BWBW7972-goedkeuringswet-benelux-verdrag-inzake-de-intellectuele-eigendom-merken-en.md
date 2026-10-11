@@ -49,13 +49,13 @@ Gegeven te ’s-Gravenhage 10 mei 2006
 
 Beatrix
 
-De Staatssecretaris van Economische Zaken\
-C. E. G.van Gennip
+De Staatssecretaris van Economische Zaken ,\
+C. E. G. van Gennip
 
-De Minister van Buitenlandse Zaken\
-B. R.Bot
+De Minister van Buitenlandse Zaken ,\
+B. R. Bot
 
 de *dertiende* juni 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

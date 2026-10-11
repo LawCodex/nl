@@ -74,10 +74,8 @@ Deze regeling wordt aangehaald als: Regeling eindtermen en toetstermen examens f
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem
 
 ## Bijlage 1 — Eindtermen en toetstermen module basis
 

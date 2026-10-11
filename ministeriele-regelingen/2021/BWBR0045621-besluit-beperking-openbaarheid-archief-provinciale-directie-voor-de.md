@@ -52,7 +52,5 @@ Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de
 
 Voedselkwaliteit, (1962) 1963-1983 (1985)
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-E. Heijblom\
-Plaatsvervangend secretaris-generaal
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+E. Heijblom Plaatsvervangend secretaris-generaal

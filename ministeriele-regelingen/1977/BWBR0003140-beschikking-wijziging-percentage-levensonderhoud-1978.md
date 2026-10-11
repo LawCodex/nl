@@ -39,7 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging-percentage lev
 
 's-Gravenhage 11 november 1977
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 W. F. de Gaay Fortman

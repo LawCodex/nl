@@ -40,7 +40,5 @@ De Nederlandse Zorgautoriteit voorziet erin dat de beleidsregel innovatie ook va
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

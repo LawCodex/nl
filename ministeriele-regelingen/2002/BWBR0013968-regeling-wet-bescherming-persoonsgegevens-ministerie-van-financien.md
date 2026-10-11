@@ -212,12 +212,9 @@ Deze regeling, alsmede de wijziging of intrekking daarvan wordt geplaatst in de 
 
 's-Gravenhage 19 augustus 2002
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 voor deze,
 
-de\
-secretaris-generaal\
-G.H.O. vanMaanen
+de secretaris-generaal,\
+G.H.O. van Maanen

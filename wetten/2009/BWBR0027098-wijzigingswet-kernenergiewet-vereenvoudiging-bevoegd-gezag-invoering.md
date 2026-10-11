@@ -55,14 +55,14 @@ Gegeven te
 
 Beatrix
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. M. Cramer
 
-De Minister van Economische Zaken\
-M. J. A. van derHoeven
+De Minister van Economische Zaken,\
+M. J. A. van der Hoeven
 
-De Minister van Sociale Zaken en Werkgelegenheid\
-J. P. H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J. P. H. Donner
 
 de *eenentwintigste* januari 2010
 

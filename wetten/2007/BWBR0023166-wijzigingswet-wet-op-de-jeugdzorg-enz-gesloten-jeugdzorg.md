@@ -85,13 +85,13 @@ Gegeven te 's-Gravenhage 20 december 2007
 
 Beatrix
 
-DeMinistervoorJeugd en Gezin\
-A.Rouvoet
+DeMinistervoorJeugd en Gezin,\
+A. Rouvoet
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 de *achtentwintigste* december 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

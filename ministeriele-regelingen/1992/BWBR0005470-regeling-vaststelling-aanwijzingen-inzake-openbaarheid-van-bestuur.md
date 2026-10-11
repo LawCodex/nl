@@ -43,5 +43,5 @@ Dit besluit wordt in de Staatscourant geplaatst.
 
 De
 
-Minister-President\
-R. F. M.Lubbers.
+Minister-President,\
+R. F. M. Lubbers.

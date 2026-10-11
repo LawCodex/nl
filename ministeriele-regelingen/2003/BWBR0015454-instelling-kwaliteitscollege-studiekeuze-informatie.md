@@ -84,7 +84,5 @@ In deze beschikking wordt verstaan onder:
 
 Deze beschikking treedt in werking met ingang van de dag van bekendmaking in de Staatscourant.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschappen\
-A.D.S.M.Nijs
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen\
+A.D.S.M. Nijs

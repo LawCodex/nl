@@ -1521,20 +1521,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 14 juli 2008
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
-De\
-Staatssecretaris\
-Economische Zaken\
-F.Heemskerk
+De Staatssecretaris van Economische Zaken,\
+F. Heemskerk
 
 ## Bijlage I
 

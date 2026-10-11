@@ -61,7 +61,5 @@ Deze regeling wordt aangehaald als: Tijdelijke regeling verlof met elektronisch 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak

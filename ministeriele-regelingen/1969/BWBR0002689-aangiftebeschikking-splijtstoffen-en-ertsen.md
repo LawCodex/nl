@@ -60,10 +60,8 @@ Deze beschikking kan worden aangehaald als: Aangiftebeschikking splijtstoffen en
 
 's-Gravenhage 5 december 1969
 
-De\
-Minister\
-Economische Zaken\
-L. deBlock
+De Minister van Economische Zaken,\
+L. de Block
 
 ## Bijlage I — Aangifte als bedoeld in artikel 14 der Kernenergiewet (Stb. 1963, 82), betreffende het ontvangen van splijtstoffen of ertsen
 

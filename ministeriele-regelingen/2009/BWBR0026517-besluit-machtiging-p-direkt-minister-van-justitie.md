@@ -83,9 +83,5 @@ De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van 
 
 Den Haag 6 oktober 2009
 
-De\
-Minister\
-Justitie\
-namens deze:\
-plv. secretaris-generaal\
-J.M. vanZanen-Nieberg
+De Minister van Justitienamens deze: de plv. secretaris-generaal,\
+J.M. van Zanen-Nieberg

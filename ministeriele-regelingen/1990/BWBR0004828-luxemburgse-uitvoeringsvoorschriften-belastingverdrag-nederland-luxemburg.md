@@ -85,12 +85,9 @@ De beschikking van de Staatssecretaris van Financiën van 16 februari 1970, nr. 
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, onderdeel e, toepassing met betrekking tot dividenden, auteursrechten en royalty's, alsmede aandelen in de winst van een onderneming, toekomende aan een geldschieter, voor zover die inkomsten verschuldigd of verschuldigd zijn geworden op of na 1 januari 1967.
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Namens deze,
 
-De\
-Directeur-Generaal voor Fiscale Zaken\
-A.Schoemaker
+De Directeur-Generaal voor Fiscale Zaken,\
+A. Schoemaker

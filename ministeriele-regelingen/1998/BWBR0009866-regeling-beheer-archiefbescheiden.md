@@ -73,7 +73,5 @@ Deze regeling zal in de Staatscourant worden geplaatst. Een afschrift van dit be
 
 Den Haag 26-08-1998
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 A. Peper

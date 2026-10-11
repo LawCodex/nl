@@ -37,7 +37,5 @@ Dit besluit wordt in de Staatscourant geplaatst.
 
 's-Gravenhage 6 februari 1998
 
-De\
-Staatssecretaris\
-Justitie\
-E.M.A.Schmitz
+De Staatssecretaris van Justitie\
+E.M.A. Schmitz

@@ -819,10 +819,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 december 2011
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen
 
 ## Bijlage I — als bedoeld in artikel 8, tiende lid, van de Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz
 

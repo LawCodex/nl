@@ -65,9 +65,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 5 november 2021
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-Namens deze,\
-De algemene rijksarchivaris,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, Namens deze, De algemene rijksarchivaris,\
 A.J.M. Doek
 
 ## Bijlage — bij het Besluit tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in de archieven BKZ Zuivering Ambtenaren (2.04.67), Nederlandse gezantschappen te Zweden en Finland (2.05.219), BZK Bureau Invordering (2.04.77) en Militair Gezag Zuid-Holland (3.09.34)

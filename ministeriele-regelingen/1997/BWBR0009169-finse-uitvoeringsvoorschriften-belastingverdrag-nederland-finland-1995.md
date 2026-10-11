@@ -88,7 +88,5 @@ De regeling van 23 juni 1997, nr. IFZ97/680U ( Stcrt. van 17 juni 1997, nr. 112)
 
 3\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty’s die betaald zijn of betaalbaar zijn gesteld op of na 1 januari 1998.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

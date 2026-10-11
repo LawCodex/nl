@@ -75,7 +75,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 30 november 1994
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-D. K. J.Tommel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+D. K. J. Tommel

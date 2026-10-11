@@ -64,10 +64,8 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst, met uitz
 
 Den Haag 10 mei 2016
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem
 
 ## Handboek digitale vervanging financiële archiefbescheiden SZW systeem SAP
 

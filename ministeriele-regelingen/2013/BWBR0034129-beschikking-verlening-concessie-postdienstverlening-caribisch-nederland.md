@@ -227,10 +227,8 @@ Deze beschikking wordt bekendgemaakt door publicatie in de Staatscourant en in C
 
 ’s Gravenhage 17 oktober 2013
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp
 
 ## Bijlage — bij de Beschikking van de Minister van Economische Zaken tot verlening van de concessie voor postdienstverlening voor Caribisch Nederland
 

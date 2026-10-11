@@ -107,7 +107,5 @@ Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties p
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 G. ter Horst

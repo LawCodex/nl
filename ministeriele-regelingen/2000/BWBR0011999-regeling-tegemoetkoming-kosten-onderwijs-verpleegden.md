@@ -66,7 +66,5 @@ Deze regeling wordt aangehaald als: Regeling tegemoetkoming kosten onderwijs ver
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
+DeMinistervan Justitie\
 A.H. Korthals

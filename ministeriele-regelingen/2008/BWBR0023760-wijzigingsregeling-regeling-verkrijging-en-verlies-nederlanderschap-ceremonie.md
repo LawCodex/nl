@@ -37,7 +37,5 @@ Deze regeling wordt met de toelichting in de Staatscourant, het Publicatieblad v
 
 Deze regeling treedt in werking op 1 augustus 2008.
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

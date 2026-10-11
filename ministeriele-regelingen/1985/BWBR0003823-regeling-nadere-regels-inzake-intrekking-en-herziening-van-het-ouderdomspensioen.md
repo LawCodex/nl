@@ -59,6 +59,5 @@ Deze regeling wordt aangehaald als: Regeling nadere regels inzake intrekking en 
 
 's-Gravenhage 12 juli 1985
 
-De\
-staatssecretaris\
-L. deGraaf
+De staatssecretaris voornoemd,\
+L. de Graaf

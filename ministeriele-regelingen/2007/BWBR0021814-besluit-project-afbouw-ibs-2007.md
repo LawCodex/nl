@@ -71,7 +71,5 @@ Dit besluit wordt geplaatst in de Staatscourant.
 
 Den Haag 3 mei 2007
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer

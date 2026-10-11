@@ -1184,13 +1184,13 @@ Gegeven te ’s-Gravenhage 19 januari 2006
 
 Beatrix
 
-De Minister van Financiën\
-G.Zalm
+De Minister van Financiën ,\
+G. Zalm
 
 de *drieëntwintigste* februari 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner
 
 ## Bijlage — bij artikel 1, eerste lid, onderdeel p, van de wet
 

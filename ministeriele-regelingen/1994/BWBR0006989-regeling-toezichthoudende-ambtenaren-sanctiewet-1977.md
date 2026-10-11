@@ -48,32 +48,20 @@ Deze regeling wordt aangehaald als: Regeling toezichthoudende ambtenaren Sanctie
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-H.A.F.M.O. vanMierlo
+De Minister van Buitenlandse Zaken,\
+H.A.F.M.O. van Mierlo;
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend;
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink;
 
-De\
-Staatssecretaris\
-Economische Zaken\
-A. vanDok-Van Weele
+De Staatssecretaris van Economische Zaken,\
+A. van Dok-Van Weele;
 
-De\
-minister\
-Landbouw, Natuurbeheer en Visserij\
-J.J. vanAartsen
+De minister van Landbouw, Natuurbeheer en Visserij,\
+J.J. van Aartsen
 
-De\
-Minister\
-Defensie\
+De Minister van Defensie,\
 J.J.C. Voorhoeve

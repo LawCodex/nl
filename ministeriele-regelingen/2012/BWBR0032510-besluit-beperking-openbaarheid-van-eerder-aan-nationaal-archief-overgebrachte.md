@@ -57,9 +57,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-De\
-minister\
-Financiën,\
-namens deze,\
-R. vanZwol\
-Secretaris-generaal
+De minister van Financiën,namens deze,\
+R. van ZwolSecretaris-generaal

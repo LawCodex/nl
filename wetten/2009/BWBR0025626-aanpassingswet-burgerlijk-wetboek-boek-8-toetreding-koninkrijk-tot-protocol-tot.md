@@ -47,13 +47,13 @@ Gegeven te
 
 Beatrix
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
-De Staatssecretaris van Verkeer en Waterstaat\
-J. C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J. C. Huizinga-Heringa
 
 de *zevende* april 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

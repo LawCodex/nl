@@ -99,7 +99,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in af
 
 Den Haag 9 december 2009
 
-De\
-Staatssecretaris\
-Economische Zaken\
-F.Heemskerk
+De Staatssecretaris van Economische Zaken,\
+F. Heemskerk

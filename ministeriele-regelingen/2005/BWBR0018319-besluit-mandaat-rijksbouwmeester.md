@@ -59,7 +59,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 11 mei 2005
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+S.M. Dekker

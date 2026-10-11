@@ -98,6 +98,5 @@ Dit besluit wordt in de Staatscourant bekend gemaakt.
 
 's-Gravenhage 20 maart 1995
 
-De\
-Minister\
+De Minister voornoemd,\
 W. Sorgdrager

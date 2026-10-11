@@ -89,10 +89,10 @@ Gegeven te 's-Gravenhage 22 december 2005
 
 Beatrix
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner
 
 de *twaalfde* januari 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

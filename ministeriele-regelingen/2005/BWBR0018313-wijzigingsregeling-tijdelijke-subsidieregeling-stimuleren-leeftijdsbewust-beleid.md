@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bi
 
 Den Haag 9 mei 2005
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-H.A.L. vanHoof
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+H.A.L. van Hoof

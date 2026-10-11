@@ -45,12 +45,9 @@ Dit besluit treedt in werking met ingang van 1 februari 1993. Zij wordt opgenome
 
 Apeldoorn 5 januari 1993
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 voor deze,
 
-De\
-hoofddirecteur van het Kadaster en de Openbare Registers\
-J. W. J.Besemer
+De hoofddirecteur van het Kadaster en de Openbare Registers,\
+J. W. J. Besemer

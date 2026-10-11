@@ -94,7 +94,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 ## Titel II — Het gerecht en de raad van beroep in ambtenarenzaken
 
-### Hoofdstuk Eerste — Het gerecht in ambtenarenzaken
+### Eerste Hoofdstuk — Het gerecht in ambtenarenzaken
 
 #### § 1 — Samenstelling
 
@@ -178,7 +178,7 @@ De rechter, de griffier of enig ander ambtenaar, die zich voor plaatselijk onder
 
 2\. Bij wraking of vermeende reden van verschoning van de griffier beslist de rechter in hoogste ressort.
 
-### Hoofdstuk Tweede — De raad van beroep
+### Tweede Hoofdstuk — De raad van beroep
 
 #### § 1 — Samenstelling
 
@@ -322,7 +322,7 @@ Artikel 16 vindt ten deze overeenkomstige toepassing.
 
 ## Titel III — Procedure op bezwaarschriften
 
-### Hoofdstuk Eerste — Gewoon geding in eerste aanleg Inleidende bepalingen
+### Eerste Hoofdstuk — Gewoon geding in eerste aanleg Inleidende bepalingen
 
 #### Artikel 35
 
@@ -761,7 +761,7 @@ De uitspraak wordt door de rechter die over de zaak geoordeeld heeft en de griff
 
 Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de bescheiden van het geding, die zich onder zijn berusting bevinden, terug aan de rechthebbenden.
 
-### Hoofdstuk Tweede — Enige bijzondere gedingen in eerste aanleg
+### Tweede Hoofdstuk — Enige bijzondere gedingen in eerste aanleg
 
 #### § 1 — Beslissing bij voorraad
 
@@ -801,7 +801,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 ## Titel IV
 
-### Hoofdstuk Eerste — Gewoon geding in hoger beroep Inleidende bepalingen
+### Eerste Hoofdstuk — Gewoon geding in hoger beroep Inleidende bepalingen
 
 #### Artikel 97
 
@@ -1077,7 +1077,7 @@ In geen geval mag de uitspraak later dan drie weken na het sluiten van het onder
 
 De artikelen 92 en 93 vinden overeenkomstige toepassing.
 
-### Hoofdstuk Tweede — Enige bijzondere gedingen in hoger beroep
+### Tweede Hoofdstuk — Enige bijzondere gedingen in hoger beroep
 
 #### § 1 — Beroep vóór disciplinaire strafoplegging
 

@@ -59,7 +59,5 @@ De niet-ambtelijke leden van de commissie als bedoeld in artikel 1 ontvangen een
 
 Deze regeling, waarvan afschrift wordt verzonden aan de Algemene Reken-kamer, treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2000.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers

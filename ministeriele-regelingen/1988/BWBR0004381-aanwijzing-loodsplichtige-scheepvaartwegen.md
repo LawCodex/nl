@@ -46,9 +46,7 @@ Deze regeling zal worden geplaatst in de Nederlandse Staatscourant.
 
 's-Gravenhage 18 augustus 1988
 
-De\
-minister\
-Verkeer en Waterstaat\
+De minister van Verkeer en Waterstaat,\
 N. Smit-Kroes
 
 ## Bijlage

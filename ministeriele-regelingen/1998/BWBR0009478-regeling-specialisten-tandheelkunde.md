@@ -39,7 +39,5 @@ Deze regeling wordt aangehaald als: Regeling specialisten tandheelkunde.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
+De Minister vanVolksgezondheid, Welzijn en Sport,\
 E. Borst-Eilers

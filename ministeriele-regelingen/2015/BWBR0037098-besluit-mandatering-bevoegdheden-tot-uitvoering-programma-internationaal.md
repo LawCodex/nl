@@ -40,9 +40,5 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-Namens deze,\
-Waarnemend Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
-R. vanRoeden
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,Namens deze,Waarnemend Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+R. van Roeden

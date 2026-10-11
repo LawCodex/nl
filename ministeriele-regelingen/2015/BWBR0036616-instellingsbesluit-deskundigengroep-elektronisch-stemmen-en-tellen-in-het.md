@@ -121,7 +121,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Deskundigengroep Elektronis
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk

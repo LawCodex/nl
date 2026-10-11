@@ -39,10 +39,8 @@ Deze regeling treedt in werking met ingang van 1 januari 2016.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister-President, Minister\
-Algemene Zaken,\
-M.Rutte
+De Minister-President, Minister van Algemene Zaken,\
+M. Rutte
 
 ## Aanwijzingen inzake de rijksinspecties
 

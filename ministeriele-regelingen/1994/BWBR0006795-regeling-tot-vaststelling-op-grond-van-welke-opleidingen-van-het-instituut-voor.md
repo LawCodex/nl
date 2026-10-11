@@ -39,7 +39,5 @@ Deze regeling zal met de toelichting in Uitleg OenW-Regelingen worden geplaatst.
 
 Deze regeling treedt in werking met ingang van de derde dag na de datum van uitgifte van Uitleg OenW-Regelingen, waarin deze regeling is bekendgemaakt.
 
-De\
-staatssecretaris\
-onderwijs en wetenschappen\
-mr. M.J.Cohen
+De staatssecretaris van onderwijs en wetenschappen,\
+mr. M.J. Cohen

@@ -70,6 +70,5 @@ Aan de bezitter van een buiten Nederland behaald bewijs van bekwaamheid, tenzij 
 
 Zoetermeer 3 november 1987
 
-De\
-minister\
-W. J.Deetman
+De minister voornoemd,\
+W. J. Deetman

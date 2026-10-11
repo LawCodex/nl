@@ -41,11 +41,5 @@ Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoning
 
 Den Haag 16 september 2010
 
-de\
-Minister\
-Wonen, Wijken en Integratie,\
-voor deze:\
-algemeen directeur van Agentschap NL,\
-op last:\
-G. denOude,\
-Opdrachtmanager.
+de Minister voor Wonen, Wijken en Integratie,voor deze: de algemeen directeur van Agentschap NL,op last:\
+G. den Oude,Opdrachtmanager.

@@ -23,11 +23,9 @@ Gelet op artikel 4, tweede lid, van de Subsidieregeling Stichting Deltares;
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond, bedoeld in artikel 4, tweede lid van de Subsidieregeling Stichting Deltares, wordt, voor zover het betrekking heeft op toegepast onderzoek als genoemd in artikel 2, eerste lid van de Subsidieregeling Stichting Deltares, voor het jaar 2011 vastgesteld op € 40.000.000,–.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma

@@ -97,8 +97,6 @@ Deze regeling zal in de Nederlandse Staatscourant worden geplaatst.
 Den Haag 13 maart 1997
 
 De Minister-president van Aruba,\
-J.H.A Eman\
-De Minister voor Nederlands-Antilliaanse en Arubaanse Zaken,\
-J.J.C. Voorhoeve\
-De Staatssecretaris van Binnenlandse Zaken,\
+J.H.A Eman De Minister voor Nederlands-Antilliaanse en Arubaanse Zaken,\
+J.J.C. Voorhoeve De Staatssecretaris van Binnenlandse Zaken,\
 J. Kohnstamm

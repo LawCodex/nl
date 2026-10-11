@@ -35,5 +35,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 31 januari 1994.
 
-De Staatssecretaris\
+De Staatssecretaris voornoemd,\
 J. Wallage.

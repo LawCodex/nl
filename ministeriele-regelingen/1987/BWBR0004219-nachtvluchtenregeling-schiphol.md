@@ -81,7 +81,5 @@ Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van de N
 
 's-Gravenhage 9 oktober 1987
 
-De\
-minister\
-Verkeer en Waterstaat\
-N.Smit-Kroes
+De minister van Verkeer en Waterstaat,\
+N. Smit-Kroes

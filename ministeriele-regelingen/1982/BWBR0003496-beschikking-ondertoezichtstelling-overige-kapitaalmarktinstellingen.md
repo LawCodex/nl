@@ -45,10 +45,7 @@ Deze beschikking treedt in werking met ingang van de dag na de datum van uitgift
 
 's-Gravenhage 17 mei 1982
 
-De\
-Minister\
-Financiën
+De Minister van Financiën, namens deze,
 
-De\
-Secretaris-Generaal,\
+De Secretaris-Generaal,\
 Van Setten.

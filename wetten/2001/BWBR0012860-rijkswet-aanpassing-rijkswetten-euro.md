@@ -35,19 +35,19 @@ Wijzigt de Wet herziening Wet instelling Militaire Willems-Orde.
 
 ## Hoofdstuk II — Ministerie van Buitenlandse Zaken
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Wet op de Kanselarijrechten 1948.
 
 ## Hoofdstuk III — Ministerie van Defensie
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Marinescheepsongevallenwet 1935 en de Wet militair tuchtrecht .
 
 ## Hoofdstuk IV — Ministerie van Economische Zaken
 
-### Artikel Enig
+### Enig Artikel
 
 Wijzigt de Rijksoctrooiwet.
 

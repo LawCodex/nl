@@ -35,7 +35,5 @@ Dit besluit zal worden geplaatst in de Staatscourant.
 
 's-Gravenhage 1 maart 1995
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

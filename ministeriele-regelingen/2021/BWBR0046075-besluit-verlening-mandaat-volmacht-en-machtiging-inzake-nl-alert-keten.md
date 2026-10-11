@@ -97,7 +97,5 @@ Dit besluit treedt in werking met ingang na de dag van uitgifte van de Staatscou
 
 Dit besluit wordt aangehaald als: Besluit verlening mandaat, volmacht en machtiging inzake NL-Alert keten.
 
-De Minister van Justitie en Veiligheid\
-namens deze,\
-Directeur-generaal Politie en Veiligheidsregio's\
+De Minister van Justitie en Veiligheid namens deze, Directeur-generaal Politie en Veiligheidsregio's\
 M. Vogelzang

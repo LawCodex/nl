@@ -42,7 +42,5 @@ In de Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland-Canada (Re
 
 3\. Deze regeling treedt in werking met ingang van de tweede dag na die van de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

@@ -46,10 +46,8 @@ De directeur van het Algemeen Rijksarchief verplicht zich de archiefbescheiden i
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-K.G. deVries
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.G. de Vries
 
 ## Bijlage
 

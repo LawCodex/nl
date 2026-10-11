@@ -59,7 +59,5 @@ Het vervaardigen van reproducties van de archiefbescheiden geborgen onder de inv
 
 Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-E. Heijblom\
-Plaatsvervangend secretaris-generaal
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+E. Heijblom Plaatsvervangend secretaris-generaal

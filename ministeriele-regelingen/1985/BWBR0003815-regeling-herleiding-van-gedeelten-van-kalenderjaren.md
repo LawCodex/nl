@@ -65,6 +65,5 @@ Deze regeling wordt aangehaald als: Regeling herleiding van gedeelten van kalend
 
 's-Gravenhage 27 juni 1985
 
-De\
-staatssecretaris\
-L. deGraaf
+De staatssecretaris voornoemd,\
+L. de Graaf

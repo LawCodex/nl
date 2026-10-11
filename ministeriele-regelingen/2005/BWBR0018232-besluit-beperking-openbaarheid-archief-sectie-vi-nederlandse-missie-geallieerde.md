@@ -143,10 +143,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van Sectie VI (Consulaire aangelegenheden) van de Nederlandse Missie bij de Geallieerde Bestuursraad te Berlijn 1945–1957 (1969)’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

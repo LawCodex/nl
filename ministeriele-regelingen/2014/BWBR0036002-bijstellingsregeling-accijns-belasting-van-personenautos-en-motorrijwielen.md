@@ -67,7 +67,5 @@ Artikel 84a van de Wet op de accijns vindt geen toepassing op de in artikel III,
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-E.D.Wiebes
+De Staatssecretaris van Financiën,\
+E.D. Wiebes

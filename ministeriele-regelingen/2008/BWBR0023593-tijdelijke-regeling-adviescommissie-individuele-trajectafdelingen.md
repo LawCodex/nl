@@ -123,7 +123,5 @@ Deze tijdelijke regeling zal met toelichting in de Staatscourant worden geplaats
 
 Den Haag 29 februari 2008
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak

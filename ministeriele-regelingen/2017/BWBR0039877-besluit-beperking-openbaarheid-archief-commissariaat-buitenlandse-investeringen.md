@@ -473,7 +473,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van het Commissariaat Buitenlandse Investeringen in Nederland 1967 – 2000.
 
-De Minister van Economische Zaken,\
-namens deze:\
-J.H. Maas\
-Directeur Bedrijfsvoering
+De Minister van Economische Zaken, namens deze:\
+J.H. Maas Directeur Bedrijfsvoering

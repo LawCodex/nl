@@ -43,20 +43,14 @@ Deze regeling wordt aangehaald als: Warenwetregeling methoden van onderzoek draa
 
 Rijswijk 25 april 1986
 
-De\
-staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-J.P. van derReijden
+De staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+J.P. van der Reijden
 
-De\
-staatssecretaris\
-Economische Zaken\
-P.H. vanZeil
+De staatssecretaris van Economische Zaken,\
+P.H. van Zeil
 
-De\
-staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-A.Kappeyne van de Coppello
+De staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+A. Kappeyne van de Coppello
 
 ## Bijlage — Beproevingen van de stabiliteit, sterkte en stijfheid van draagbaar klimmaterieel
 

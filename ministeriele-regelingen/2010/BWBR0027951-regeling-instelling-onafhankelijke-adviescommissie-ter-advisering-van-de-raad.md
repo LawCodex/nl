@@ -55,7 +55,5 @@ Deze regeling treedt in werking met ingang van de eerste dag na de datum van uit
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Jeugd en Gezin,\
-A.Rouvoet
+De Minister voor Jeugd en Gezin,\
+A. Rouvoet

@@ -39,7 +39,5 @@ Besluit:
 
 's-Gravenhage 11 november 1983
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën,\
 H. E. Koning

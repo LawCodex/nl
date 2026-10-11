@@ -123,7 +123,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Commissie vangnet lumpsum.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
+De Minister van Onderwijs, Cultuur en Wetenschap,\
 M.J.A. van der Hoeven

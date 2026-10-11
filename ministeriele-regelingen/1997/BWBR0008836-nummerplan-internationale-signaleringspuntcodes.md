@@ -65,9 +65,7 @@ Dit besluit met bijbehorende bijlage en toelichting wordt ter inzage gelegd bij 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 A. Jorritsma-Lebbink
 

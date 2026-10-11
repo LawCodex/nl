@@ -39,7 +39,6 @@ Besluit:
 
 's-Gravenhage 25 januari 1956
 
-De\
-Minister
+De Minister voornoemd,
 
 L. A. Donker

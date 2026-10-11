@@ -39,7 +39,5 @@ Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
 Den Haag 28 maart 2011
 
-De\
-Minister\
-Defensie,\
-J.S.J.Hillen
+De Minister van Defensie,\
+J.S.J. Hillen

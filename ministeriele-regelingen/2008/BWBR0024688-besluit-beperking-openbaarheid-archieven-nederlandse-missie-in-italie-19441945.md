@@ -62,12 +62,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van de Nederlandse Missie in Italië 1944–1945 en van het gezantschap/de ambassade te Italië (Rome) 1945–1954’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-namens deze:\
-directeur van Directie Documentaire Informatievoorziening\
-H.Y.Buijs
+De Minister van Buitenlandse Zaken, namens deze: de directeur van Directie Documentaire Informatievoorziening,\
+H.Y. Buijs
 
 ## Bijlage
 

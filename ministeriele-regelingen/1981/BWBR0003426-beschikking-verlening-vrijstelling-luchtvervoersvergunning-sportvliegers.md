@@ -37,6 +37,5 @@ De gezagvoerder, die van de in het vorige artikel bedoelde vrijstelling gebruik 
 
 's-Gravenhage 6 augustus 1981
 
-De\
-Staatssecretaris\
+De Staatssecretaris voornoemd,\
 N. Smit-Kroes

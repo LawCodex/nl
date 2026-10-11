@@ -51,13 +51,13 @@ Gegeven te ’s-Gravenhage 15 juni 2006
 
 Beatrix
 
-De Staatssecretaris van Volksgezondheid, Welzijn en Sport\
-C. I. J. M.Ross-van Dorp
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport ,\
+C. I. J. M. Ross-van Dorp
 
-De Minister van Justitie a.i.\
-S. M.Dekker
+De Minister van Justitie a.i. ,\
+S. M. Dekker
 
 de *eerste* augustus 2006
 
-De Minister van Justitie a.i.\
-S. M.Dekker
+De Minister van Justitie a.i. ,\
+S. M. Dekker

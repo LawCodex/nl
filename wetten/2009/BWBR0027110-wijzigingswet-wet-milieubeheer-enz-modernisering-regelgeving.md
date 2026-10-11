@@ -81,16 +81,16 @@ Gegeven te
 
 Beatrix
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. M. Cramer
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
-De Minister van Onderwijs, Cultuur en Wetenschap\
-R. H. A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R. H. A. Plasterk
 
 de *zesentwintigste* januari 2010
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -81,10 +81,8 @@ Voor zover mogelijk dienen dergelijke activiteiten tussen 16 augustus en 14 maar
 
 Dit besluit met de toelichting, coördinatenbijlage en de bijbehorende kaart ligt gedurende zes weken na bekendmaking in de Staatscourant, op werkdagen tijdens kantooruren, ter inzage bij het ministerie van EZ, Bezuidenhoutseweg 73 te Den Haag. Tevens worden de besluiten geplaatst op de website www.overheid.nl/vergunningenbank. Vanaf deze website kunnen kopieën gedownload worden.
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-M.H.P. vanDam
+De Staatssecretaris van Economische Zaken,\
+M.H.P. van Dam
 
 ## Bijlage
 

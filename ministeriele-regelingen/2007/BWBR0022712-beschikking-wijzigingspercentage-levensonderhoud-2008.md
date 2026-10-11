@@ -37,7 +37,5 @@ Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 oktober 2007
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

@@ -54,7 +54,5 @@ Dit besluit wordt aangehaald als: Besluit vaste vergoeding Programmaraad.
 
 Onze Minister van Volksgezondheid, Welzijn en Sport is belast met de uitvoering van dit besluit, dat in de Staatscourant zal worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

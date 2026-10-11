@@ -134,7 +134,5 @@ De zorgautoriteit stuurt mij uiterlijk 1 september 2013 een onderbouwde, kwalita
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

@@ -36,10 +36,5 @@ Voor de voorbereidende werkzaamheden in het kader van het beoordelen van project
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Economische Zaken\
-namens deze:\
-Directeur-Generaal\
-Buitenlandse Economische Betrekkingen\
-D.J.Bruinsma
+De Staatssecretaris van Economische Zaken, namens deze:de Directeur-Generaal van de Buitenlandse Economische Betrekkingen,\
+D.J. Bruinsma

@@ -18212,6 +18212,8 @@ Bij de metingen is de microfoon op de reflecterende plaat bevestigd met de hartl
 
 ![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045528/2026-10-06_0/xml/266423.png)
 
+Figuur 1.3 weergave van de meetopstelling
+
 Meetcondities
 
 Bij dichte mist of neerslag mag niet worden gemeten.

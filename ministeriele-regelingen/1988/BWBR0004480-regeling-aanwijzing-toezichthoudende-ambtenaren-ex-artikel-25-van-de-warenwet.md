@@ -37,12 +37,9 @@ Deze regeling treedt in werking met ingang van de dag na die van haar publikatie
 
 's-Gravenhage 30 december 1988
 
-De\
-minister\
-Landbouw en Visserij
+De minister van Landbouw en Visserij,
 
 Voor deze,
 
-De\
-secretaris-generaal\
-T. H. J.Joustra
+De secretaris-generaal,\
+T. H. J. Joustra

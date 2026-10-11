@@ -198,7 +198,5 @@ Deze regeling wordt aangehaald als: Regeling openstelling en subsidieplafonds EZ
 
 Den Haag 8 december 2008
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven

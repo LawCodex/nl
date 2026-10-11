@@ -46,11 +46,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de plv. Directeur-Generaal Internationale Samenwerking,\
-R.M.Buijs
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens deze,de plv. Directeur-Generaal Internationale Samenwerking,\
+R.M. Buijs
 
 [^n1]: 1 Stcrt. 2014, nr. 13509.

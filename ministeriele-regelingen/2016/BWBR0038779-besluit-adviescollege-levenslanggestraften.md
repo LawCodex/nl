@@ -168,7 +168,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 25 november 2016
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-K.H.D.M.Dijkhoff
+De Staatssecretaris van Veiligheid en Justitie,\
+K.H.D.M. Dijkhoff

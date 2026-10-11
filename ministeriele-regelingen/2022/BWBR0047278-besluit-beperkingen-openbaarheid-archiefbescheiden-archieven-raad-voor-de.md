@@ -111,7 +111,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 20 september 2022
 
-De Staatssecretaris voor Cultuur en Media,\
-Namens deze,\
-De algemene rijksarchivaris,\
+De Staatssecretaris voor Cultuur en Media, Namens deze, De algemene rijksarchivaris,\
 A.J.M. Doek

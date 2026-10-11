@@ -65,10 +65,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de *‘Verklaring van Overbrenging van het archief van de Nederlandse Vertegenwoordiging in Quito’* worden gevoegd.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken\
+B.R. Bot
 
 ## Bijlage
 

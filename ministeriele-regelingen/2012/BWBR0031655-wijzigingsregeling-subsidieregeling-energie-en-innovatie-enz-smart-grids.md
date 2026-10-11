@@ -45,7 +45,5 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ’s-Gravenhage 13 juni 2012
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen

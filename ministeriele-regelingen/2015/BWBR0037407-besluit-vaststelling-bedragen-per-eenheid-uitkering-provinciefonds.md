@@ -33,13 +33,8 @@ Voor het uitkeringsjaar 2014 worden de bedragen per eenheid, bedoeld in artikel 
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-namens deze,\
-T.Livius\
-Directeur\
-Financiën
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,namens deze,\
+T. LiviusDirecteur Bestuur, Democratie en Financiën
 
 ## Bijlage 1
 

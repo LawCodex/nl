@@ -158,10 +158,8 @@ Deze regeling wordt aangehaald als: Regeling toelating en weigering bezoek en be
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner
 
 ## Bijlage
 

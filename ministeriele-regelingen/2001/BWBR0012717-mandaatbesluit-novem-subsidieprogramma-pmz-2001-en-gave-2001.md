@@ -73,7 +73,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 \`s-Gravenhage 27 juli 2001
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.P.Pronk
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.P. Pronk

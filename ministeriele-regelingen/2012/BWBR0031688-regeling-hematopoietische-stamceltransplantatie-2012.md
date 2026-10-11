@@ -47,10 +47,8 @@ Deze regeling wordt aangehaald als: Regeling hematopoietische stamceltransplanta
 
 Deze regeling zal met toelichting in de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage 1 — Omvang van de behoefte en de wijze waarop in de behoefte kan worden voorzien
 

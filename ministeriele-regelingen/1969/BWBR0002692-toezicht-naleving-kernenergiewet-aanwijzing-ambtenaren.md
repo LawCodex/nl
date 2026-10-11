@@ -43,6 +43,5 @@ Als ambtenaren van de Rijkswaterstaat, overeenkomstig het bepaalde in artikel 7,
 
 's-Gravenhage 12 december 1969
 
-De\
-Minister\
+De Minister voornoemd,\
 J. A. Bakker

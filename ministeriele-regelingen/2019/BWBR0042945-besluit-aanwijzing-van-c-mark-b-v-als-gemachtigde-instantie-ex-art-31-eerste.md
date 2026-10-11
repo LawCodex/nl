@@ -83,7 +83,5 @@ Dit besluit wordt bekend gemaakt door toezending aan C-Mark B.V. en door plaatsi
 
 's-Gravenhage 13 december 2019
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-J.C. Goet\
-Secretaris-generaal
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+J.C. Goet Secretaris-generaal

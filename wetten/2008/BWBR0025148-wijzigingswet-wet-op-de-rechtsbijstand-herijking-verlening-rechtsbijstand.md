@@ -51,10 +51,10 @@ Gegeven te
 
 Beatrix
 
-De Staatssecretaris van Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak
 
 de *dertiende* januari 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

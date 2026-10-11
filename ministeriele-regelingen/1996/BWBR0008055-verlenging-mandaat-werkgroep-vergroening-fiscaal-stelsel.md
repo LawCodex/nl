@@ -39,7 +39,5 @@ In de benoeming van nieuwe leden kan op voorstel van de voorzitter worden voorzi
 
 2\. Een afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

@@ -46,11 +46,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Buitenlandse Zaken,\
-namens deze:\
-Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
-E.Kronenburg
+De Staatssecretaris van Buitenlandse Zaken,namens deze: de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+E. Kronenburg
 
 [^n1]: 1 Besluit van de Staatssecretaris van Buitenlandse Zaken van 17 november 2011, nr. DCM/MO-188/11, tot vaststelling van beleidsregels alsmede een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Beleidsregels en subsidieplafond Migratie en Ontwikkelingsprogramma 2012), Staatscourant 2011 nr. 22649.

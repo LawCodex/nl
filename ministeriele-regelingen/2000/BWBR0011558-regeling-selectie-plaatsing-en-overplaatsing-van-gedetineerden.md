@@ -482,10 +482,8 @@ Deze regeling wordt aangehaald als: Regeling selectie, plaatsing en overplaatsin
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie\
+A.H. Korthals
 
 ## Bijlage 1 — Stimuleren en ontmoedigen
 

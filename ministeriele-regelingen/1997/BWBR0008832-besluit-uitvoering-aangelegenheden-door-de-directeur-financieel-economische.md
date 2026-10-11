@@ -39,7 +39,5 @@ Dit besluit kan worden aangehaald als: Besluit uitvoering aangelegenheden door d
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift gezonden aan de Algemene Rekenkamer, de Minister van Financiën, de Secretaris-Generaal en diens plaatsvervanger en de diensthoofden.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

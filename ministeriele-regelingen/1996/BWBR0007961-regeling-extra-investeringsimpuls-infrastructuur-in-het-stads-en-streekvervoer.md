@@ -250,7 +250,5 @@ Deze regeling wordt met toelichting maar zonder bijlagen in de Staatscou-rant ge
 
 ’s-Gravenhage 25 maart 1996
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

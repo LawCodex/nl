@@ -56,9 +56,7 @@ Deze regeling wordt aangehaald als: Regeling burgerservicenummer.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
 A.Th. B. Bijleveld-Schouten
 
 ## Bijlage — Logisch Ontwerp BSN, versie 2025.Q4

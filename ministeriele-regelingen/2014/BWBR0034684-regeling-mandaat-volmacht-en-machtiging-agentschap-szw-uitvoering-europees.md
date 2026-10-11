@@ -45,9 +45,5 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 13 januari 2014
 
-de\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-Namens deze:\
-De directeur Integratie en Samenleving,\
-A.M.C. vanRijn
+de Minister van Sociale Zaken en Werkgelegenheid,Namens deze:De directeur Integratie en Samenleving,\
+A.M.C. van Rijn

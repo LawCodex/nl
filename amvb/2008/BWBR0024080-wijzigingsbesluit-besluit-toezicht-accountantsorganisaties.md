@@ -52,10 +52,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Financiën\
-W. J.Bos
+De Minister van Financiën,\
+W. J. Bos
 
 de *zevenentwintigste* juni 2008
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

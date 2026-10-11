@@ -41,8 +41,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 14 november 1994
 
-De\
-Staatssecretaris\
+De Staatssecretaris voornoemd,\
 E. M. A. Schmitz
 
 ## Bijlage 1 — Verklaring van geboorte ex artikel 19e, elfde lid, Boek 1 van het Burgerlijk Wetboek, op te maken door een arts of een verloskundige

@@ -83,7 +83,5 @@ Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Socia
 
 Den Haag 2 november 2021
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-I.M. Koster-Boer\
-Operationeel manager V&T
+De Minister voor Rechtsbescherming, namens deze,\
+I.M. Koster-Boer Operationeel manager V&T

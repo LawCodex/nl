@@ -43,7 +43,5 @@ Deze regeling wordt aangehaald als: Instellingsbesluit baten-lastendienst Domein
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

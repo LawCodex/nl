@@ -94,7 +94,5 @@ Deze regeling kan worden aangehaald als Regeling geldelijke steun warmte-isolati
 
 's-Gravenhage 10 juli 1992
 
-De\
-staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.\
+E. Heerma

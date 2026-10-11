@@ -29,12 +29,8 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 3 juli 2003.
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 J.P.H. Donner
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

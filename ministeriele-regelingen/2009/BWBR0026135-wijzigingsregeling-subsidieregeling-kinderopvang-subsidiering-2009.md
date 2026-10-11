@@ -39,7 +39,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-S.A.M.Dijksma
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S.A.M. Dijksma

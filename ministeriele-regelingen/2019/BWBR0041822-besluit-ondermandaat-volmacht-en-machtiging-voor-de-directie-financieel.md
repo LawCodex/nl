@@ -79,5 +79,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 2 januari 2019
 
-R.M.M.W. van Lier\
-directeur Financieel-Economische Zaken
+R.M.M.W. van Lier directeur Financieel-Economische Zaken

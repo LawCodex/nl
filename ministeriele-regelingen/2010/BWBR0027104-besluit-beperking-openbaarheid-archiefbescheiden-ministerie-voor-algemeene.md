@@ -41,17 +41,8 @@ Besluiten:
 
 Den Haag 18 januari 2010
 
-De\
-Minister-President\
-Minister\
-Algemene Zaken\
-namens deze:\
-Secretaris-Generaal\
-R. vanZwol
+De Minister-President, Minister van Algemene Zaken, namens deze: de Secretaris-Generaal,\
+R. van Zwol
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-namens deze:\
-Algemene Rijksarchivaris\
-M. J.Berendse
+De Minister van Onderwijs, Cultuur en Wetenschap, namens deze: de Algemene Rijksarchivaris,\
+M. J. Berendse

@@ -54,10 +54,8 @@ Dit besluit wordt aangehaald als: Derde tijdelijke vrijstelling desinfectie luch
 
 Dit besluit zal met bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Infrastructuur en Waterstaat,\
-Namens deze,\
-R.P. Lapperre\
-directeur-generaal Milieu en Internationaal
+De Minister van Infrastructuur en Waterstaat, Namens deze,\
+R.P. Lapperre directeur-generaal Milieu en Internationaal
 
 ## Bijlage — bedoeld in artikel 2
 

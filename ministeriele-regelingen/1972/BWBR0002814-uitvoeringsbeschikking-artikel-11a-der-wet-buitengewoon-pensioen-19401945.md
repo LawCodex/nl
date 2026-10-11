@@ -85,6 +85,5 @@ Deze beschikking treedt in werking met ingang van de tweede dag na die van haar 
 
 Rijswijk (Z.H.) 3 mei 1972
 
-De\
-Staatssecretaris\
-S. vanVeenendaal-van Meggelen
+De Staatssecretaris voornoemd,\
+S. van Veenendaal-van Meggelen

@@ -37,7 +37,5 @@ Dit besluit wordt aangehaald als: Besluit vaststelling bedrag goedkeuring overee
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

@@ -41,7 +41,5 @@ en bepaalt dat, in afwijking van het besluit tot goedkeuring van de Specialismen
 
 Dit besluit zal samen met het desbetreffende besluit van het College Specialismen Gezondheidszorgpsycholoog worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

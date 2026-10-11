@@ -35,12 +35,9 @@ In afwijking in zoverre van artikel 15, eerste lid, van de Uitvoeringsbeschikkin
 
 Deze regeling treedt in werking met ingang van 1 oktober 1992.
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Namens deze,
 
-De\
-Directeur-Generaal voor Fiscale Zaken\
-D.E.Witteveen
+De Directeur-Generaal voor Fiscale Zaken,\
+D.E. Witteveen

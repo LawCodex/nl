@@ -39,10 +39,5 @@ De directeur van het Nationaal Archief verplicht zich de archiefbescheiden in go
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplubiceerd.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-namens deze:\
-Plaatsvervangend Secretaris-Generaal\
-Verkeer en Waterstaat\
-P.R.Heij
+De Minister van Verkeer en Waterstaat, namens deze:de Plaatsvervangend Secretaris-Generaal van Verkeer en Waterstaat,\
+P.R. Heij

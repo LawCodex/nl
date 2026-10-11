@@ -29,7 +29,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Hoofdstuk 1 — Ministerie van Algemene Zaken
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Coördinatiewet uitzonderingstoestanden.
 
@@ -69,13 +69,13 @@ Wijzigt de Remigratiewet.
 
 ## Hoofdstuk 3 — Ministerie van Buitenlandse Zaken
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Sanctiewet 1977.
 
 ## Hoofdstuk 4 — Ministerie van Financiën
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Wet identificatie bij financiële dienstverlening 1993 .
 
@@ -211,7 +211,7 @@ Wijzigt de Wet arbeid vreemdelingen.
 
 ## Hoofdstuk 8 — Ministerie van Verkeer en Waterstaat
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Wegenverkeerswet 1994.
 

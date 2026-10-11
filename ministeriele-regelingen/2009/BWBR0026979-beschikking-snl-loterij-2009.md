@@ -167,9 +167,5 @@ Deze beschikking wordt aangehaald als: Beschikking SNL Loterij 2009.
 
 Den Haag 7 december 2009
 
-De\
-Minister\
-Justitie\
-namens deze:\
-directeur Sanctie- en Preventiebeleid\
-M.C.J.Groothuizen
+De Minister van Justitie, namens deze: de directeur Sanctie- en Preventiebeleid,\
+M.C.J. Groothuizen

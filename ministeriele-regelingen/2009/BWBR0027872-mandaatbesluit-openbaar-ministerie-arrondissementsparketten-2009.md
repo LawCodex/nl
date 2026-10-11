@@ -236,9 +236,5 @@ Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie (arron
 
 ’s-Gravenhage 18 december 2009
 
-De\
-Minister\
-Justitie,\
-namens deze,\
-Voorzitter van het College van procureurs generaal,\
-H.M.Brouwer
+De Minister van Justitie,namens deze,Voorzitter van het College van procureurs generaal,\
+H.M. Brouwer

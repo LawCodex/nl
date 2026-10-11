@@ -159,7 +159,5 @@ Deze regeling wordt aangehaald als: Regeling op de consulaire tarieven.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken\
+B.R. Bot

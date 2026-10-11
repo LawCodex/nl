@@ -201,9 +201,7 @@ Deze regeling wordt aangehaald als: Regeling EFRO doelstelling 2 programmaperiod
 
 Den Haag 12 november 2007
 
-De\
-Minister\
-Economische Zaken\
+De Minister van Economische Zaken,\
 M.J.A. van der Hoeven
 
 ## Bijlage — bedoeld in artikel 9a van de regeling efro doestelling 2 programmaperiode 2007–2013

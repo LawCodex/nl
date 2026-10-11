@@ -25,7 +25,7 @@ Gelet op artikel 5 van de regeling tot instelling van het Comité van Experts su
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 1\. Aan de voorzitter en aan de leden van het Comité van experts Subsidieregeling ESF 2007-2013/ Actie A wordt, voor zover zij daarvan niet zijn uitgesloten, een vaste vergoeding toegekend ter hoogte van het bedrag, dat met toepassing van het bepaalde in artikel 4 van het Besluit vergoedingen adviescolleges en commissies wordt bepaald.
 
@@ -39,7 +39,5 @@ Dit besluit treedt in werking met ingang van de eerste dag na dagtekening van de
 
 Den Haag 11 oktober 2010
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-J.P.H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J.P.H. Donner

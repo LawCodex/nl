@@ -271,7 +271,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 31 augustus 2017
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-M.J. Kuipers\
-inspecteur-generaal Sociale Zaken en Werkgelegenheid
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze,\
+M.J. Kuipers inspecteur-generaal Sociale Zaken en Werkgelegenheid

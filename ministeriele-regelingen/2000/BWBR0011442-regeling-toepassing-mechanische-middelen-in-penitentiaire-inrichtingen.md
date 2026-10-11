@@ -98,9 +98,7 @@ Deze regeling wordt aangehaald als: Regeling mechanische middelen in penitentiai
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 A.H. Korthals
 
 ## Bijlage toegestane mechanische middelen

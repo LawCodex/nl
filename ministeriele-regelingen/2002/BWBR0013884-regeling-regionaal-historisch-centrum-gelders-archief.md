@@ -361,84 +361,54 @@ Deze regeling kan worden aangehaald als: Regeling Regionaal Historisch Centrum \
 
 Deze regeling zal met de toelichting door de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschappen
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,
 
 F. van der Ploeg
 
-De\
-raad van de gemeente Arnhem
+De raad van de gemeente Arnhem,
 
-de\
-voorzitter
+de voorzitter
 
-de\
-secretaris
+de secretaris
 
-Burgemeester\
-wethouders\
-gemeente Arnhem
+Burgemeester en wethouders van de gemeente Arnhem,
 
-de\
-burgemeester
+de burgemeester
 
-de\
-secretaris
+de secretaris
 
-De\
-raad van de gemeente Renkum
+De raad van de gemeente Renkum,
 
-de\
-voorzitter
+de voorzitter
 
-de\
-secretaris
+de secretaris
 
-Burgemeester\
-wethouders\
-gemeente Renkum
+Burgemeester en wethouders van de gemeente Renkum,
 
-de\
-burgemeester
+de burgemeester
 
-de\
-secretaris
+de secretaris
 
-De\
-raad van de gemeente Rheden
+De raad van de gemeente Rheden,
 
-de\
-voorzitter
+de voorzitter
 
-de\
-secretaris
+de secretaris
 
-Burgemeester\
-wethouders\
-gemeente Rheden
+Burgemeester en wethouders van de gemeente Rheden,
 
-de\
-burgemeester
+de burgemeester
 
-de\
-secretaris
+de secretaris
 
-De\
-raad van de gemeente Rozendaal
+De raad van de gemeente Rozendaal,
 
-de\
-voorzitter
+de voorzitter
 
-de\
-secretaris
+de secretaris
 
-Burgemeester\
-wethouders\
-gemeente Rozendaal
+Burgemeester en wethouders van de gemeente Rozendaal,
 
-de\
-burgemeester
+de burgemeester
 
-de\
-secretaris
+de secretaris

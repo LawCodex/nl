@@ -50,7 +50,5 @@ Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezo
 
 ’s-Gravenhage 27 april 2010
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg

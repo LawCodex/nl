@@ -112,9 +112,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 1 april 2013
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-namens deze:\
-de Directeur-generaal Vreemdelingenzaken,\
-L.Mulder
+De Staatssecretaris van Veiligheid en Justitie,namens deze:de Directeur-generaal Vreemdelingenzaken,\
+L. Mulder

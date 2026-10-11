@@ -31,9 +31,5 @@ Besluit:
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Ontwikkelingssamenwerking\
-namens deze:\
-Directeur-Generaal Internationale Samenwerking\
-J.M.G.Brandt
+De Minister voor Ontwikkelingssamenwerking, namens deze:de Directeur-Generaal Internationale Samenwerking,\
+J.M.G. Brandt

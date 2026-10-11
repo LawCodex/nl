@@ -64,7 +64,5 @@ De beschikking van de Staatssecretaris van Sociale Zaken en Volksgezondheid, van
 
 2\. Deze regeling, die met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst, treedt in werking met ingang van de derde maand na die van de dagtekening van de Staatscourant waarin zij is geplaatst.
 
-De\
-Staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-Hans J.Simons
+De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+Hans J. Simons

@@ -144,7 +144,5 @@ Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken wo
 
 Den Haag 7 februari 2020
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-J.A.G. Clerx\
-wnd. directeur FEZ
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze,\
+J.A.G. Clerx wnd. directeur FEZ

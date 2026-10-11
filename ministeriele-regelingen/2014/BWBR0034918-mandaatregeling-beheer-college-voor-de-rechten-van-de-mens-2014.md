@@ -65,7 +65,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 6 maart 2014
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten.
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten.

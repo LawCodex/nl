@@ -62,9 +62,5 @@ Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van 
 
 Den Haag 17 september 2009
 
-De\
-Minister\
-Defensie\
-namens deze:\
-Secretaris-generaal\
-A.H.C.Annink
+De Minister van Defensie, namens deze:Secretaris-generaal,\
+A.H.C. Annink

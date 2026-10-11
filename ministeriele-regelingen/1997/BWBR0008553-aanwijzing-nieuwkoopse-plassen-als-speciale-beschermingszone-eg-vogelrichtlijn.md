@@ -35,7 +35,5 @@ Deze beschikking treedt in werking met ingang van de tweede dag na de dagtekenin
 
 ’s-Gravenhage 14 februari 1997
 
-De\
-Minister\
-Landbouw, Natuur-beheer en Visserij\
-J.J. vanAartsen
+De Minister van Landbouw, Natuur-beheer en Visserij,\
+J.J. van Aartsen

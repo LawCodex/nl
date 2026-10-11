@@ -45,7 +45,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem.
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem.

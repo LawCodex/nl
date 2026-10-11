@@ -69,12 +69,9 @@ Deze beschikking, die zal worden gepubliceerd in de Nederlandse Staatscourant en
 
 's-Gravenhage 14 december 1994
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 Namens de Minister,
 
-De\
-Secretaris-Generaal,\
-J. J. H.Suyver
+De Secretaris-Generaal,\
+J. J. H. Suyver

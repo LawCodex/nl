@@ -39,7 +39,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De Minister voor Medische Zorg,\
-namens deze,\
-de waarnemend directeur-generaal Curatieve Zorg,\
+De Minister voor Medische Zorg, namens deze, de waarnemend directeur-generaal Curatieve Zorg,\
 B.E. Westgren

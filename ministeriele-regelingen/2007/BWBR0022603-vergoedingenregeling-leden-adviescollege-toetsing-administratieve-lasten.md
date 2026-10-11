@@ -41,7 +41,5 @@ Deze regeling wordt aangehaald als: Vergoedingenregeling leden Adviescollege toe
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos

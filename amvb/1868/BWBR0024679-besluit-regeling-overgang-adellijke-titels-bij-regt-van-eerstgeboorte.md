@@ -45,14 +45,10 @@ Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in h
 
 Willem
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 Wintgens
 
 den *dertigsten* Maart 1868.
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 Wintgens

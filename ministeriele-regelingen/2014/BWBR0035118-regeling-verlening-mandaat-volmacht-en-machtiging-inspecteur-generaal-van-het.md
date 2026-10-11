@@ -55,7 +55,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 13 mei 2014
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher

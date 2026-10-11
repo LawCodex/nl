@@ -41,7 +41,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 20 juni 2011
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-P. deKrom
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+P. de Krom

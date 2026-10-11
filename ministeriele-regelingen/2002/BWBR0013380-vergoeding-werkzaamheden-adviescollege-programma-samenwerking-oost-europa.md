@@ -35,10 +35,7 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 28 januari 2002
 
-De\
-Staatssecretaris\
-Economische Zaken
+De Staatssecretaris van Economische Zaken,
 
 namens deze:\
-D.J.Bruinsma\
-directeur-generaal van de Buitenlandse Economische Betrekkingen
+D.J. Bruinsma, directeur-generaal van de Buitenlandse Economische Betrekkingen.

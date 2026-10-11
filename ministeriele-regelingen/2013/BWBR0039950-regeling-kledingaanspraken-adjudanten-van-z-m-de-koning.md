@@ -73,11 +73,8 @@ Deze regeling kan worden aangehaald als de ‘Regeling kledingaanspraken adjudan
 
 Deze regeling wordt gepubliceerd in de serie ministeriële publicaties waarvan mededeling zal worden gedaan in de Staatscourant.
 
-De Minister van Defensie\
-Voor deze\
-De Hoofddirecteur Personeel\
-H. Itzig Heine\
-Schout-bij-nacht
+De Minister van Defensie Voor deze De Hoofddirecteur Personeel\
+H. Itzig Heine Schout-bij-nacht
 
 ## Bijlage I — Aanvulling persoonlijke standaarduitrusting voor adjudanten van Z.M. de Koning
 

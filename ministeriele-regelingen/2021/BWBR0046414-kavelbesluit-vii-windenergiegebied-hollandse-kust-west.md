@@ -29,8 +29,7 @@ Gelet op de artikelen 3 tot en met 7 van de Wet windenergie op zee en gelet op d
 
 ’s-Gravenhage 26 november 2021
 
-D. Yeşilgöz-Zegerius\
-Staatssecretaris van Economische Zaken en Klimaat – Klimaat en Energie
+D. Yeşilgöz-Zegerius Staatssecretaris van Economische Zaken en Klimaat – Klimaat en Energie
 
 ## II — Toelichting kavelbesluit VII windenergiegebied Hollandse Kust (west)
 

@@ -74,6 +74,5 @@ Deze regeling kan worden aangehaald als: ‘Regeling inkomsten Uitkeringswet gew
 
 's-Gravenhage 5 augustus 1987
 
-De\
-staatssecretaris\
-J. vanHouwelingen
+De staatssecretaris voornoemd,\
+J. van Houwelingen

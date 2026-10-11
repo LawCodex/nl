@@ -95,9 +95,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 15 januari 2013
 
-De\
-Minister\
-Economische Zaken,\
-namens deze:\
-Chr.P.Buijink,\
-secretaris-generaal.
+De Minister van Economische Zaken,namens deze:\
+Chr.P. Buijink,secretaris-generaal.

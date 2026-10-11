@@ -58,12 +58,8 @@ Een jeugdhulpaanbieder die andere jeugdhulp dan geestelijke gezondheidszorg of e
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn
 
-De\
-Minister\
-Veiligheid en Justitie\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

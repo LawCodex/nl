@@ -71,7 +71,5 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 ’s-Gravenhage 14 mei 1996
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

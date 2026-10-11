@@ -85,10 +85,8 @@ Deze regeling wordt aangehaald als: Regeling vaststelling inhaaltoelage bezwaren
 
 Deze regeling met de daarbij behorende bijlage zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten
 
 ## Bijlage — behorende bij artikel 2, tweede lid
 

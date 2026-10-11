@@ -191,15 +191,11 @@ Deze regeling wordt aangehaald als: Regeling erkende instanties vervoer gevaarli
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa
 
 ## Bijlage — behorend bij artikel 2, tweede lid, onder a en b, van de Regeling erkende instanties vervoer gevaarlijke stoffen
 

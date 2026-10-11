@@ -48,7 +48,5 @@ Deze regeling treedt in werking met ingang van 1 januari 1994.
 
 deze regeling wordt in de Staatscourant geplaatst.
 
-De\
-Minister\
-Financiën\
-W.Kok
+De Minister van Financiën,\
+W. Kok

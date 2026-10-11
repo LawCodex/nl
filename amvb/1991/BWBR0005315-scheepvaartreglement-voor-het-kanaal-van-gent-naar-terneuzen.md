@@ -1691,7 +1691,7 @@ De ingangen van havens, zijvaarten, aftakkingen, e.d. kunnen als volgt zijn gema
 | --- | --- | --- |
 | dagmerk | rood-wit horizontaal gestreepte paal met rood cilindervormig topteken | ![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005315/2012-09-26_0/xml/65685.png) |
 
-[^n1]: 3 - in de Waddenzee wordt de markering toegepast volgens het Maritieme Betonningsstelsel A (IALA).
+[^n1]: 3 \- in de Waddenzee wordt de markering toegepast volgens het Maritieme Betonningsstelsel A (IALA).
 
 [^n2]: 3 \<\<van boven naar beneden\>\> gerekend.
 

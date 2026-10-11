@@ -307,10 +307,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 14 september 2007
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
 ## Bijlage I — als bedoeld in artikel 4 van de Landbouwkwaliteitsregeling 2007
 

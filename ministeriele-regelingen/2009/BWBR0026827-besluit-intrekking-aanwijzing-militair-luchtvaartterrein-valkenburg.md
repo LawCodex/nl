@@ -55,7 +55,5 @@ Dit besluit wordt bekendgemaakt in de Staatscourant en de daarvoor in aanmerking
 
 Den Haag 4 december 2009
 
-De\
-Staatssecretaris\
-Defensie\
-J.G. deVries
+De Staatssecretaris van Defensie,\
+J.G. de Vries

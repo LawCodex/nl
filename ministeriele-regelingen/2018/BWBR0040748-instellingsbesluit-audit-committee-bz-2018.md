@@ -75,7 +75,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Audit Committee BZ 2018.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Buitenlandse Zaken,\
-Namens deze,\
-De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+De Minister van Buitenlandse Zaken, Namens deze, De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 J. Brandt

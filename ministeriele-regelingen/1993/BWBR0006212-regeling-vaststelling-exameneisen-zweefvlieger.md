@@ -37,15 +37,12 @@ Deze regeling treedt in werking 2 dagen na publikatie in de Staatscourant en wer
 
 's-Gravenhage 29 oktober 1993
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 Namens de minister,
 
-De\
-adjunct-directeur Luchtvaartinspectie\
-E.Hofstee
+De adjunct-directeur Luchtvaartinspectie,\
+E. Hofstee
 
 ## Bijlage
 

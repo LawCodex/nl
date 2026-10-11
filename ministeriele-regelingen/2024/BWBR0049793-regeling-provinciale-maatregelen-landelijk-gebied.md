@@ -1,0 +1,203 @@
+---
+title: "Regeling provinciale maatregelen landelijk gebied"
+identifier: "BWBR0049793"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2024-06-07
+last_amended: 2025-04-12
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0049793/2025-04-12"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0049793/2025-04-12_0/xml/BWBR0049793_2025-04-12_0.xml"
+authority: "Landbouw, Natuur en Voedselkwaliteit"
+rechtsgebied: ["Ondernemingspraktijk"]
+retrieved: 2026-10-11
+---
+
+# Regeling provinciale maatregelen landelijk gebied
+
+*Regeling van de Minister voor Natuur en Stikstof van 7 juni 2024, nr. WJZ/ 58032956, houdende regels voor het verstrekken van specifieke uitkeringen aan provincies voor de gebiedsgerichte aanpak voor natuur, stikstof, water en klimaat (Regeling provinciale maatregelen landelijk gebied)*
+
+De Minister voor Natuur en Stikstof,
+
+Gelet op de artikelen 2a, eerste lid, en 3 van de Kaderwet EZK- en LNV-subsidies;
+
+Besluit:
+
+## Paragraaf 1 — Begripsbepalingen
+
+### Artikel 1 — Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- *directe uitvoeringskosten:* apparaatskosten van de provincie of andere betrokken decentrale overheden die samenhangen met de regievoering van voorbereiding en uitvoering van maatregelen waarvoor op grond van artikel 5 een uitkering kan worden verstrekt en direct zijn toe te rekenen aan die maatregelen;
+- *gebiedsgerichte aanpak:* gebiedsgerichte aanpak als bedoeld in artikel 5, eerste lid;
+- *indirecte uitvoeringskosten:* apparaatskosten van de provincie die samenhangen met de gebiedsgerichte aanpak, maar niet direct zijn toe te rekenen aan de gebiedsprocessen en maatregelen waarvoor op grond van artikel 5 een uitkering kan worden verstrekt;
+- *kaderrichtlijn water:* Richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid;
+- *minister:* Minister voor Natuur en Stikstof.
+
+## Paragraaf 2 — Specifieke uitkering voor indirecte uitvoeringskosten
+
+### Artikel 2 — Uitkering voor indirecte uitvoeringskosten 2024
+
+1\. De minister verstrekt aan de provincies ambtshalve een specifieke uitkering voor de financiering van de indirecte uitvoeringskosten die zij in 2024 maken of hebben gemaakt.
+
+2\. De uitkering wordt niet verstrekt voor:
+
+- a. de omzetbelasting die de provincie kan aftrekken op grond van de Wet op de omzetbelasting 1968;
+- b. kosten waarvoor al uit anderen hoofde een uitkering of subsidie is of wordt verstrekt.
+
+### Artikel 3 — Uitkeringsplafond en beschikbaar budget
+
+1\. Het uitkeringsplafond bedraagt € 38.534.177, inclusief de omzetbelasting waarvoor de provincie op grond van de Wet op het BTW-compensatiefonds voor compensatie in aanmerking komt.
+
+2\. Het beschikbare budget, inclusief de in het eerste lid bedoelde omzetbelasting, bedraagt per provincie:
+
+| | |
+| --- | --- |
+| **Drenthe** | € 2.064.331 |
+| **Flevoland** | € 458.740 |
+| **Fryslân** | € 5.734.253 |
+| **Gelderland** | € 5.734.253 |
+| **Groningen** | € 1.605.591 |
+| **Limburg** | € 2.752.441 |
+| **Noord-Brabant** | € 6.881.102 |
+| **Noord-Holland** | € 1.834.961 |
+| **Overijssel** | € 5.275.512 |
+| **Utrecht** | € 2.064.331 |
+| **Zeeland** | € 1.376.221 |
+| **Zuid-Holland** | € 2.752.441 |
+
+### Artikel 4 — Verlening en voorschot
+
+1\. De minister geeft binnen zes weken na inwerkingtreding van deze regeling een beschikking tot verlening van de uitkering.
+
+2\. De beschikking vermeldt het bedrag van de uitkering en het bedrag van de compensabele omzetbelasting, dat wordt toegevoegd aan het BTW-compensatiefonds.
+
+3\. De minister verleent bij de beschikking tot verlening een voorschot van 100%.
+
+## Paragraaf 3 — Specifieke uitkering voor kosten van gebiedsprocessen en maatregelen
+
+### Artikel 5 — Uitkering voor kosten van gebiedsprocessen en maatregelen
+
+1\. De minister kan aan een provincie op aanvraag een of meer specifieke uitkeringen verstrekken voor de financiering van een of meer gebiedsprocessen en maatregelen die de provincie wil uitvoeren als onderdeel van een brede, langjarige gebiedsgerichte aanpak om de stikstofbelasting van de natuur terug te dringen en de natuur te beschermen en te ontwikkelen, een bijdrage te leveren aan het tijdig voldoen aan de kaderrichtlijn water, de emissie van broeikasgassen door de landbouw en door landgebruik te verminderen en een bijdrage te leveren aan de verduurzaming van de landbouw.
+
+2\. De uitkering kan alleen worden verstrekt voor de kosten van verplichtingen die door de provincie zijn of worden aangegaan vanaf 1 juli 2023 tot en met 31 december 2028.
+
+3\. De uitkering wordt niet verstrekt voor:
+
+- a. indirecte uitvoeringskosten;
+- b. de koop van onroerende zaken;
+- c. de omzetbelasting die de provincie kan aftrekken op grond van de Wet op de omzetbelasting 1968;
+- d. kosten waarvoor al uit anderen hoofde een specifieke uitkering of subsidie is of wordt verstrekt.
+
+### Artikel 6 — Uitkeringsplafond en beschikbaar budget
+
+1\. Het uitkeringsplafond bedraagt € 1.586.590.274, inclusief de omzetbelasting waarvoor de provincie op grond van de Wet op het BTW-compensatiefonds voor compensatie in aanmerking komt.
+
+2\. Het beschikbare budget, inclusief de in het eerste lid bedoelde omzetbelasting, bedraagt per provincie:
+
+| | |
+| --- | --- |
+| **Drenthe** | € 269.897.285 |
+| **Flevoland** | € 16.188.000 |
+| **Fryslân** | € 179.862.000 |
+| **Gelderland** | € 32.700.000 |
+| **Groningen** | € 59.992.730 |
+| **Limburg** | € 55.000.000 |
+| **Noord-Brabant** | € 231.200.000 |
+| **Noord-Holland** | € 41.869.000 |
+| **Overijssel** | € 233.710.694 |
+| **Utrecht** | € 249.487.565 |
+| **Zeeland** | € 28.433.000 |
+| **Zuid-Holland** | € 188.250.000 |
+
+### Artikel 7 — Aanvraag
+
+1\. De aanvraag bevat in ieder geval gegevens of bescheiden waaruit blijkt dat de minister van oordeel is dat de betrokken gebiedsprocessen en maatregelen in aanmerking komen voor de door de provincie gewenste uitkering.
+
+2\. Het aangevraagde bedrag kan:
+
+- a. maximaal 10% directe uitvoeringskosten bevatten;
+- b. rekening houden met de geraamde ontwikkeling van de consumentenprijsindex.
+
+3\. Voor de toepassing van het tweede lid, onder a, worden de kosten van gebiedsprocessen niet aangemerkt als directe uitvoeringskosten.
+
+4\. Bij de toepassing van het tweede lid, onder b, hanteert de provincie de raming in het centraal economisch plan van het Centraal Planbureau.
+
+5\. Een aanvraag voor het extra budget dat voor de provincies Flevoland, Noord-Holland en Zeeland beschikbaar is gesteld bij de Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, nr. WJZ/86195654, tot wijziging van de Regeling provinciale maatregelen landelijk gebied (tweede verhoging budget) kan worden ingediend tot 1 september 2025.
+
+### Artikel 8 — Beslistermijn, verlening en voorschot
+
+1\. De minister geeft binnen acht weken na het indienen van de aanvraag een beschikking omtrent verlening van de uitkering.
+
+2\. De beschikking vermeldt het bedrag van de uitkering en, voor 2024, het bedrag van de compensabele omzetbelasting dat wordt toegevoegd aan het BTW-compensatiefonds.
+
+3\. De minister verleent bij de beschikking een voorschot van 100% van het uitkeringsbedrag en betaalt dat voorschot binnen een of meer in de beschikking vermelde termijnen.
+
+4\. Een uitkering ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.
+
+### Artikel 9 — Verplichtingen
+
+1\. De provincie spant zich ervoor in de uitkering zodanig aan te wenden dat de meest doelmatige en doeltreffende bijdrage wordt geleverd aan de doelen, genoemd in artikel 5, eerste lid.
+
+2\. De provincie neemt bij de besteding van de uitkering het Unierecht met betrekking tot mededinging, aanbesteding en staatssteun in acht.
+
+3\. De provincie rapporteert jaarlijks voor 1 mei over het voorgaande kalenderjaar aan de minister over de voortgang van de gebiedsprocessen en maatregelen. De rapportage bespreekt in ieder geval de in de beschikking tot verlening opgenomen elementen.
+
+4\. De provincie deelt voor 1 oktober 2024 en 1 oktober 2025 aan de minister het bedrag mee dat zij voor 2025, respectievelijk 2026 raamt als compensabele omzetbelasting.
+
+5\. De minister kan in de beschikking tot verlening verplichtingen opleggen over de wijze van vastlegging van de gegevens die zijn gebruikt bij het in kaart brengen van de effecten van de gebiedsprocessen of maatregelen waarvoor de uitkering is verstrekt.
+
+6\. De minister kan in de beschikking tot verlening andere verplichtingen opleggen die bijdragen aan de in het eerste lid bedoelde doelen.
+
+### Artikel 10 — Periode voor afronden gebiedsprocessen en maatregelen
+
+1\. De minister bepaalt in de beschikking tot verlening tot wanneer de gebiedsprocessen en maatregelen kunnen worden uitgevoerd.
+
+2\. De minister kan voor een of meer gebiedsprocessen of maatregelen de in het eerste lid bedoelde periode op verzoek van de provincie eenmalig verlengen met ten hoogste vier jaar.
+
+3\. De minister kan voor een of meer gebiedsprocessen of maatregelen de in artikel 5, tweede lid, bedoelde periode op verzoek van de provincie eenmalig verlengen met ten hoogste vier jaar.
+
+## Paragraaf 4 — Slotbepalingen
+
+### Artikel 11 — Verwerking van gegevens
+
+1\. De minister kan voor een beoordeling van de juistheid van de informatie die is verstrekt bij de indiening van aanvragen op grond van deze regeling gebruikmaken van de daarvoor noodzakelijke gegevens die zijn opgenomen in registraties op grond van de volgende wettelijke voorschriften:
+
+- a. Meststoffenwet;
+- b. Wet dieren;
+- c. Landbouwwet;
+- d. Verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidswetgeving’);
+- e. Gedelegeerde verordening (EU) 2019/2035 van de Commissie van 28 juni 2019 tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat betreft regels voor inrichtingen waar landdieren worden gehouden en broederijen, alsmede voor de traceerbaarheid van bepaalde gehouden landdieren en broedeieren.
+
+2\. De minister kan gegevens die in het kader van deze regeling zijn verstrekt:
+
+- a. ook verwerken voor de toepassing van artikel 20.1, eerste lid, van de Omgevingswet, de artikelen 11.68, 11.69, 11.69a, 11.69c, 12.26b en 12.26c van het Besluit kwaliteit leefomgeving en de artikelen 10.36dc en 15.5 van het Omgevingsbesluit;
+- b. verstrekken aan kennisinstellingen met het oog op monitoring, voortgang en evaluatie.
+
+### Artikel 12 — Verantwoording en vaststelling
+
+1\. De provincie legt verantwoording af over de besteding van de in de artikelen 2 en 5 bedoelde uitkeringen op de wijze, bedoeld in artikel 17a van de Financiële-verhoudingswet.
+
+2\. Voor zover de provincie een uitkering heeft verstrekt aan een gemeente, legt die gemeente verantwoording af over de besteding van de uitkering met toepassing van artikel 17a, tweede lid, van de Financiële-verhoudingswet.
+
+3\. Nadat de minister voor een uitkering de relevante verantwoordingsinformatie, bedoeld in artikel 17a van de Financiële-verhoudingswet, heeft ontvangen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, stelt de minister die uitkering binnen 22 weken na die ontvangst ambtshalve vast.
+
+### Artikel 13 — Inwerkingtreding en horizonbepaling
+
+1\. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2\. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
+
+### Artikel 14 — Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling provinciale maatregelen landelijk gebied.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+’s-Gravenhage 7 juni 2024
+
+De Minister voor Natuur en Stikstof,\
+C. van der Wal-Zeggelink

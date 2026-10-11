@@ -45,10 +45,5 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Van dit besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Staatssecretaris\
-Buitenlandse Zaken,\
-namens deze:\
-Secretaris-Generaal\
-Ministerie van Buitenlandse Zaken,\
-E.Kronenburg
+De Staatssecretaris van Buitenlandse Zaken,namens deze:De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+E. Kronenburg

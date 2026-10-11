@@ -92,10 +92,8 @@ Deze regeling treedt in werking met ingang van de datum waarop de Wet financieri
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling financiering decentrale overheden.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
 ## Bijlage
 

@@ -171,6 +171,8 @@ Het spectrummasker, bedoeld in artikel 4, tweede lid, is als volgt:
 
 *Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non critical cases*
 
+*Bron: GE06 pagina 169*
+
 De technische beschrijving, bedoeld in artikel 4, eerste lid, luidt als volgt:
 
 ### Overzicht frequentieblok 9C (205,584 MHz–207,120 MHz)

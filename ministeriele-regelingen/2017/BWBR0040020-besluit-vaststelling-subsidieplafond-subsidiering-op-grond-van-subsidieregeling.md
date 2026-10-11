@@ -41,9 +41,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal met de bijlage, inclusief de annexen, in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de plaatsvervangend Directeur-Generaal Internationale Samenwerking,\
 R.M. Buijs
 
 [^n1]: 1 Stcrt. 2016, nr. 44953.

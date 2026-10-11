@@ -97,10 +97,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het St
 
 Beatrix
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
 de *dertigste* augustus 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

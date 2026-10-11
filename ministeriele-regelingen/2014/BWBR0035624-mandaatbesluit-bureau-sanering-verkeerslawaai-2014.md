@@ -84,7 +84,5 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Bureau Sanering Verkeerslawaai 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus

@@ -49,12 +49,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 8 mei 2012
 
-De\
-Minister\
-Economische Zaken Landbouw en Innovatie,\
-namens deze:\
-A.F.M.Litjens,\
-Manager Digitale informatie.
+De Minister van Economische Zaken Landbouw en Innovatie,namens deze:\
+A.F.M. Litjens,Manager Digitale informatie.
 
 ## Bijlage — Besluit db / 12037616
 

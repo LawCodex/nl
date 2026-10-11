@@ -74,7 +74,5 @@ Deze beschikking wordt in de Staatscourant bekendgemaakt. Zij treedt in werking 
 
 's-Gravenhage 13 november 1973
 
-De\
-Minister\
-Economische Zaken\
+De Minister van Economische Zaken,\
 R. F. M. Lubbers

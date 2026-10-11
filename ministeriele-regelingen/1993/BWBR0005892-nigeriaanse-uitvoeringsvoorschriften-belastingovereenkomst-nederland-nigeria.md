@@ -83,7 +83,5 @@ Ter uitvoering van artikel 1 is van Nigeriaanse zijde de volgende regeling getro
 
 3\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty's die op of na 1 januari 1993 zijn verkregen.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

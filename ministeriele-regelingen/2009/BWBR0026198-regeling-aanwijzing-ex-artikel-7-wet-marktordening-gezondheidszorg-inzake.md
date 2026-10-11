@@ -63,7 +63,5 @@ De zorgautoriteit past met ingang van 1 januari 2010 een aanvullende opschoning 
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

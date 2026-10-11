@@ -74,10 +74,5 @@ Dit besluit treedt in werking met ingang van de datum van ondertekening en werkt
 
 Dit besluit zal worden gepubliceerd in de Staatscourant.
 
-De\
-Staatssecretaris\
-Defensie\
-voor deze:\
-de Hoofddirecteur Personeel\
-Luitenant-generaal\
-J.G.A.Leijh
+De Staatssecretaris Van Defensie, voor deze:de Hoofddirecteur Personeel, Luitenant-generaal,\
+J.G.A. Leijh

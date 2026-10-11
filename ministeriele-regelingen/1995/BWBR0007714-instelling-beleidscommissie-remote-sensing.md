@@ -122,7 +122,5 @@ Deze beschikking treedt in werking met ingang van 1 januari 1996.
 
 Deze beschikking zal worden gepubliceerd in de Staatscourant en in afschrift worden gezonden aan: a. belanghebbenden; b. de Minister van Onderwijs, Cultuur en Wetenschappen; c. de Minister van Landbouw, Natuurbeheer en Visserij; d. de Minister van Economische Zaken; e. de Minister van Ontwikkelings-samenwerking; f. de Minister van Defensie; g. de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; h. de voorzitter van de Adviesraad voor het Wetenschaps- en Technologiebeleid; i. de voorzitter van het Interdeparte-mentaal Overleg voor het Wetenschapsbeleid; j. de voorzitter van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek; k. de president van de Koninklijke Nederlandse Akademie van Weten-schappen; l. de Directeur-Generaal van de Rijkswaterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

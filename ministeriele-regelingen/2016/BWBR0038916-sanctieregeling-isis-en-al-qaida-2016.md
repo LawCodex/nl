@@ -71,9 +71,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken,\
-A.G.Koenders
+De Minister van Buitenlandse Zaken,\
+A.G. Koenders
 
 [^n1]: 1 http://www.un.org/sc/committees/1267/pdf/AQList.pdf

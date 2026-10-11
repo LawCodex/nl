@@ -62,10 +62,8 @@ De zorgautoriteit onderzoekt op basis van uitbreidingscriteria jaarlijks de wens
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink
 
 ## Bijlage
 

@@ -35,13 +35,7 @@ De Minister van Veiligheid en Justitie, namens deze de Raad voor Rechtsbijstand,
 
 Utrecht 8 oktober 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze\
-de Raad voor Rechtsbijstand,\
-P.J.M. van denBiggelaar,\
-Directeur stelsel.
+De Minister van Veiligheid en Justitie,namens dezede Raad voor Rechtsbijstand,\
+P.J.M. van den Biggelaar,Directeur stelsel.
 
-J. Wijkstra,\
-Directeur bedrijfsvoering.
+J. Wijkstra, Directeur bedrijfsvoering.

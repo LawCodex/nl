@@ -91,7 +91,5 @@ Deze regeling wordt aangehaald als de Regeling onkostenvergoedingen gewezen defe
 
 Deze regeling wordt gepubliceerd in de serie Ministeriële Publicaties (MP 31 400 reg. nr. 1270). Deze regeling met toelichting wordt gepubliceerd in de Staatscourant.
 
-De\
-Staatssecretaris\
-Defensie\
-J.G. deVries
+De Staatssecretaris van Defensie,\
+J.G. de Vries

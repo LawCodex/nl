@@ -43,7 +43,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 10 september 2002
 
-De\
-Minister\
-Economische Zaken\
-H.Ph.J.B.Heinsbroek
+De Minister van Economische Zaken,\
+H.Ph.J.B. Heinsbroek

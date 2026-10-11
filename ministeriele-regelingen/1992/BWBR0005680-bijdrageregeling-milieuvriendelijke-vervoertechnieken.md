@@ -127,7 +127,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 8 oktober 1992
 
-De\
-minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De minister van Verkeer en Waterstaat\
+J. R. H. Maij-Weggen

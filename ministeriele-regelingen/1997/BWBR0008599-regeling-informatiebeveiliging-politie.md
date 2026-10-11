@@ -125,15 +125,11 @@ Deze regeling zal met de toelichting en de bijbehorende bijlage in de Staatscour
 
 ’s-Gravenhage 17 maart 1997
 
-De\
-Minister\
-Binnenlandse Zaken\
-H.F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H.F. Dijkstal
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager
 
 ## Bijlage I — Betrouwbaarheidscriteria en -normklassen
 

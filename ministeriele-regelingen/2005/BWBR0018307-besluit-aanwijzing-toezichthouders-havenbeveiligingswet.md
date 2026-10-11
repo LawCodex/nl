@@ -37,7 +37,5 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Havenbeveil
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs

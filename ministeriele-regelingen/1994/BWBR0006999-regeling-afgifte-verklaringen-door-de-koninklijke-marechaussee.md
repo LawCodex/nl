@@ -43,11 +43,8 @@ Deze regeling zal met bijbehorende toelichting in de Staatscourant worden geplaa
 
 Den Haag 2 november 1994
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-H. P. Wooldrik\
-hoofd van de Directie Politie
+H. P. Wooldrik, hoofd van de Directie Politie

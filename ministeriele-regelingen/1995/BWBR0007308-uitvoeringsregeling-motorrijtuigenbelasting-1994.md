@@ -166,10 +166,8 @@ Vervallen
 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend
 
 ## Bijlage
 

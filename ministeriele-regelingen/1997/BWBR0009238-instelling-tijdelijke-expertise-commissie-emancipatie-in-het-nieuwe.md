@@ -72,6 +72,5 @@ Dit besluit zal worden gepubliceerd in de Staatscourant en treedt in werking met
 
 ’s-Gravenhage 19 december 1997
 
-De\
-Minister\
-A.P.W.Melkert
+De Minister voornoemd,\
+A.P.W. Melkert

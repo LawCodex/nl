@@ -87,7 +87,5 @@ Deze regeling wordt aangehaald als: Regeling beperking geluidhinder luchtvaart.
 
 's-Gravenhage 31 augustus 1984
 
-De\
-staatssecretaris\
-Defensie\
-J. vanHouwelingen
+De staatssecretaris van Defensie,\
+J. van Houwelingen

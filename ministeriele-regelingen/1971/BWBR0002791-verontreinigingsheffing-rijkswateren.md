@@ -35,6 +35,5 @@ Deze beschikking zal worden geplaatst in de Nederlandse Staatscourant.
 
 's-Gravenhage 10 november 1971
 
-De\
-Minister\
-W.Drees
+De Minister voornoemd,\
+W. Drees

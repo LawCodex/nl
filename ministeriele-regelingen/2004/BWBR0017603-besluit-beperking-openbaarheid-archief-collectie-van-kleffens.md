@@ -43,10 +43,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit wordt als bijlage gevoegd bij de *Verklaring van Overbrenging van het archief ‘Collectie Van Kleffens II 1947–1951’*.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Formulier voor toestemming tot raadpleging van niet-openbare archieven
 

@@ -507,10 +507,8 @@ Deze regeling wordt aangehaald als: Regeling eisen goedkeuring kentekenplaten 20
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen die ter inzage worden gelegd bij het Ministerie van Verkeer en Water-staat, directie voorlichting, Plesman-weg 1-6, \`s-Gravenhage alsmede de Dienst Wegverkeer, Europaweg 205, Zoetermeer.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+DeMinister van Verkeer en Waterstaat,\
+T. Netelenbos
 
 ## Bijlage 1 — Retroreflectie waarden van gelakte platen
 

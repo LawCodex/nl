@@ -130,7 +130,7 @@ De accountant voert hiertoe de in paragraaf 2.2 genoemde basiswerkzaamheden uit.
 
 De accountant voert de basiswerkzaamheden in deze paragraaf uit indien en voor zover de betreffende situatie zich heeft voorgedaan. De basiswerkzaamheden bestaan uit drie fasen: een risicoanalyse (2.2.1), kennisname van de interne beheersing rondom uitvoering WNT (2.2.2) en specifieke werkzaamheden per aandachtsgebied (2.2.3).
 
-##### Fase 1: 2.2.1 — Risicoanalyse
+##### 2.2.1 Fase 1: — Risicoanalyse
 
 De accountant voert een initiële risicoanalyse uit en betrekt daarbij de in onderstaande tabel A genoemde aandachtspunten. Indicatoren voor een verhoogd risico zijn voor de accountant aanleiding tot het uitvoeren van de aanvullende werkzaamheden genoemd in paragraaf 2.3.
 
@@ -144,7 +144,7 @@ De accountant voert een initiële risicoanalyse uit en betrekt daarbij de in ond
 <tr><td>4</td><td>Het risico dat een topfunctionaris een onverschuldigde betaling inzake vergoeding einde dienstverband heeft ontvangen.</td><td>• Het individueel toepasselijke maximum met betrekking tot de uitkeringen wegens beëindiging van het dienstverband minus de werkelijke (totale) ontslaguitkeringen is kleiner dan minimale materialiteit.</td></tr>
 </table>
 
-##### Fase 2: 2.2.2 — Kennisname van interne beheersing rondom uitvoering WNT
+##### 2.2.2 Fase 2: — Kennisname van interne beheersing rondom uitvoering WNT
 
 De instelling is verantwoordelijk voor de naleving van de WNT. Om aan deze verantwoordelijkheid invulling te geven wordt verwacht dat de instelling ten minste beschikt over de in onderstaande tabel B genoemde maatregelen van administratieve organisatie / interne beheersing (AO/IB). De accountant neemt hiervan kennis en betrekt eventuele tekortkomingen hierin bij de verdere uitvoering van zijn werkzaamheden. Vastgestelde tekortkomingen in de interne beheersing kunnen voor de accountant aanleiding zijn tot het uitvoeren van de aanvullende werkzaamheden genoemd in paragraaf 2.3.
 
@@ -158,7 +158,7 @@ De instelling is verantwoordelijk voor de naleving van de WNT. Om aan deze veran
 <tr><td>4</td><td>De instelling beschikt per topfunctionaris over een overzicht met alle betalingen aan en ontvangsten van die topfunctionaris gedurende het kalenderjaar (zowel in salarisadministratie als daarbuiten).</td><td>Materiële bedragen blijven buiten het beeld van de WNT toetsing met een verhoogd risico op onverschuldigde betalingen.</td></tr>
 </table>
 
-##### Fase 3: 2.2.3 — Specifieke werkzaamheden per aandachtsgebied
+##### 2.2.3 Fase 3: — Specifieke werkzaamheden per aandachtsgebied
 
 De accountant voert ongeacht de uitkomsten van fase 1 (paragraaf 2.2.1) en fase 2 (paragraaf 2.2.2) in ieder geval de in deze paragraaf genoemde werkzaamheden uit, uitgezonderd de werkzaamheden die betrekking hebben op een situatie die zich bij de instelling in het betreffende jaar niet heeft voorgedaan.[^n2] Onderstaande opsomming van werkzaamheden is limitatief in die zin dat de accountant met deze werkzaamheden kan volstaan voor de controle van de WNT-verantwoording indien hij op grond van fase 1 en 2 geen aanvullende werkzaamheden dient uit te voeren (zie paragraaf 2.3). Deze paragraaf is ingedeeld naar aandachtsgebied. Indien dit relevant is voor de uit te voeren werkzaamheden is aangegeven voor welk type functionaris(sen) de genoemde werkzaamheden gelden. In de bijlage is een samenvatting opgenomen waarin per type functionaris per aandachtsgebied is aangegeven waar in deze paragraaf de specifieke werkzaamheden zijn te vinden.
 

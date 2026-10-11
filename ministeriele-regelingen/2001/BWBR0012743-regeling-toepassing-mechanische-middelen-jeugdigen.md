@@ -115,7 +115,5 @@ Deze regeling wordt aangehaald als: Regeling toepassing mechanische middelen jeu
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 A.H. Korthals

@@ -41,7 +41,5 @@ Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
 Den Haag 7 december 2011
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-P. deKrom
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+P. de Krom

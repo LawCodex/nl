@@ -55,9 +55,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Rijswijk 13 november 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-Voor deze:\
-De plaatsvervangend Hoofddirecteur van de Immigratie- en Naturalisatiedienst,\
-C.Postma
+De Minister van Veiligheid en Justitie, Voor deze:De plaatsvervangend Hoofddirecteur van de Immigratie- en Naturalisatiedienst,\
+C. Postma

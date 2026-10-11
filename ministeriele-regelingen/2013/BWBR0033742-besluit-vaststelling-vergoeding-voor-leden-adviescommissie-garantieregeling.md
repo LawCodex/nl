@@ -23,7 +23,7 @@ Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commis
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 1\. Aan de voorzitter van de Adviescommissie Garantieregeling scheepsnieuwbouwfinanciering wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984 en de arbeidsduurfactor op 0,0525.
 
@@ -33,9 +33,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 23 juli 2013
 
-De\
-Minister\
-Economische Zaken,\
-namens deze:\
-J.K.Wesseling,\
-plv. directeur-generaal van Bedrijfsleven en Innovatie.
+De Minister van Economische Zaken,namens deze:\
+J.K. Wesseling,plv. directeur-generaal van Bedrijfsleven en Innovatie.

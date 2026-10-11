@@ -45,9 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 27 november 2007
 
-De\
-Staatssecretaris\
-Justitie\
-namens deze:\
-directeur Rechtsbestel\
+De Staatssecretaris van Justitie, namens deze:de directeur Rechtsbestel,\
 M.J.J. van den Honert

@@ -25,7 +25,7 @@ Gelet op artikel 4, derde en vierde lid, van de Regeling regionaal investeringsf
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond voor het kalenderjaar 2016, bedoeld in artikel 4, derde lid, van de Regeling regionaal investeringsfonds mbo wordt:
 
@@ -34,7 +34,5 @@ Het subsidieplafond voor het kalenderjaar 2016, bedoeld in artikel 4, derde lid,
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

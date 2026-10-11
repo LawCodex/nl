@@ -55,7 +55,5 @@ Dit besluit treedt in werking op het tijdstip waarop de wet van 28 oktober 1999,
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.M. deVries
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.M. de Vries

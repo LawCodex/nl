@@ -39,9 +39,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Nederlands Gezantschap, later de Ambassade in Noorwegen van het Ministerie van Buitenlandse Zaken, 1955–1974’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-Namens deze:\
-directeur van de Directie Documentaire Informatievoorziening\
-H.Y.Buijs
+De Minister van Buitenlandse Zaken, Namens deze:de directeur van de Directie Documentaire Informatievoorziening ,\
+H.Y. Buijs

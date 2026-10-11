@@ -35,9 +35,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-J.H.Rosema\
-Directeur Sector Bedrijfsvoering en Uitvoeringsbeleid
+De Minister van Veiligheid en Justitie,namens deze,\
+J.H. RosemaDirecteur Sector Bedrijfsvoering en Uitvoeringsbeleid

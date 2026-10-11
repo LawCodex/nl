@@ -39,8 +39,6 @@ Deze regeling wordt aangehaald als: Regeling exameneisen theorie beroeps- en ver
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd bij de Rijksluchtvaartdienst, Saturnusstraat 71 in Hoofddorp.
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 A. Jorritsma-Lebbink

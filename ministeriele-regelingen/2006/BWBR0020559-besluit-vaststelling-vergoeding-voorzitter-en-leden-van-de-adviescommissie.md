@@ -39,9 +39,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 22 november 2006
 
-De\
-Staatssecretaris\
-Economische Zaken\
-namens deze:\
-de directeur-generaal van Ondernemen en Innovatie\
+De Staatssecretaris van Economische Zaken, namens deze:de directeur-generaal van Ondernemen en Innovatie,\
 Chr.P. Buijink

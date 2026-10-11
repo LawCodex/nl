@@ -67,10 +67,8 @@ Dit besluit wordt aangehaald als: Nummerplan voor identiteitsnummers ten behoeve
 
 Dit besluit met bijbehorende bijlage en toelichting zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.M. deVries
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.M. de Vries
 
 ## Bijlage — bedoeld in artikel 2, tweede lid, van het Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)
 

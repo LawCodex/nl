@@ -53,15 +53,11 @@ Besluiten:
 
 2\. Dit besluit met bijbehorende bijlage wordt in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-Hans J.Simons
+De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+Hans J. Simons
 
-De\
-Minister\
-Economische Zaken\
-J.E.Andriessen
+De Minister van Economische Zaken,\
+J.E. Andriessen
 
 ## Aanwijzing op grond van artikel 14 van de Wet tarieven gezondheidszorg
 

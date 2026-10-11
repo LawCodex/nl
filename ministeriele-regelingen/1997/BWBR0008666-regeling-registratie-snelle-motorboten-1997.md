@@ -59,10 +59,8 @@ Deze regeling met de daarbij behorende bijlagen wordt in de Staatscourant geplaa
 
 Den Haag 28 april 1997
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink
 
 ## Bijlage 1 — behorende bij artikel 2 van de Regeling registratie snelle motorboten 1997
 

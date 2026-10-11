@@ -27,13 +27,11 @@ Na op 4 september 2015 schriftelijk mededeling te hebben gedaan aan de Eerste en
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit voorziet erin dat met ingang van 1 januari 2016 de uitzonderingen op de stapsgewijze afbouw als bedoeld in artikel 1 lid 2 van de aanwijzing van 11 december 2014 inzake de beschikbaarheidsbijdrage curatieve geestelijke gezondheidszorg (Stcrt. 2014, 36863) ook gelden ten aanzien van de verrekenfactor in 2016.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

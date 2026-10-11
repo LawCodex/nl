@@ -53,13 +53,13 @@ Gegeven te ’s-Gravenhage 24 november 2005
 
 Beatrix
 
-De Staatssecretaris van Volksgezondheid, Welzijn en Sport\
-C. I. J. M.Ross-van Dorp
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport ,\
+C. I. J. M. Ross-van Dorp
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner
 
 de *twaalfde* januari 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

@@ -61,9 +61,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 20 januari 2019
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-Namens deze;\
-De algemene rijksarchivaris,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, Namens deze; De algemene rijksarchivaris,\
 M.L. Engelhard
 
 ## Bijlage — bij het Besluit tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in de archieven DBRB (2.09.08), COOM (2.09.61), STPD (2.09.42.01), CABR (2.09.09), Bureau Bijzondere Jeugdzorg (2.09.42.02) en de Provinciale Inspecties en Tehuizen voor de Bijzondere Jeugdzorg in Groningen, Drenthe, Overijssel, Gelderland, Utrecht, Limburg, Noord-Brabant, Zeeland, Zuid-Holland en Noord-Holland

@@ -106,7 +106,5 @@ De beschikking van de Staatssecretaris van Financiën van 15 december 1988, nr. 
 
 3\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty's die op of na 1 januari 1989 zijn verkregen of worden verkregen.
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën\
 M.J.J. van Amelsvoort

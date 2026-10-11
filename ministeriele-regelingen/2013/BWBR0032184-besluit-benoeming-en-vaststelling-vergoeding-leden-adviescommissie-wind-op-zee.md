@@ -43,9 +43,5 @@ Te rekenen vanaf 1 oktober 2012 worden voor een periode van vier jaar tot lid va
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen en aan de Adviescommissie Wind op Zee.
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie\
-namens deze:\
-M.E.P.Dierikx,\
-directeur-generaal van Energie, Telecom en Mededinging.
+De Minister van Economische Zaken, Landbouw en Innovatienamens deze:\
+M.E.P. Dierikx,directeur-generaal van Energie, Telecom en Mededinging.

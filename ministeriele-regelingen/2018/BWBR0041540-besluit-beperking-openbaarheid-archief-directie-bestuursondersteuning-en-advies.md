@@ -696,7 +696,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt met de daarbij horende toelichting in de Staatscourant geplaatst en als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de directie Bestuursondersteuning en Advies (BOA) van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1954) 1968 – 2008 (2010)’.
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-namens deze,\
-de directeur Organisatie & Bedrijfsvoering,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, namens deze, de directeur Organisatie & Bedrijfsvoering,\
 J.J.H. Been

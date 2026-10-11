@@ -1184,10 +1184,8 @@ Deze regeling wordt aangehaald als: Paspoortuitvoeringsregeling Caribische lande
 
 Deze regeling zal in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-DE\
-MINISTER\
-GROTE STEDEN- EN INTEGRATIEBELEID\
-R.H.L.M. vanBoxtel
+DE MINISTER VOOR GROTE STEDEN- EN INTEGRATIEBELEID,\
+R.H.L.M. van Boxtel
 
 ## Bijlagen — Paspoortuitvoeringsregeling Caribische landen
 

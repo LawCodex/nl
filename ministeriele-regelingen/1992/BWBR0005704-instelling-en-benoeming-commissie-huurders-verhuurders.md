@@ -55,7 +55,5 @@ VI deze beschikking in de Nederlandse Staatscourant te plaatsen en in afschrift 
 
 's-Gravenhage 4 november 1992
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

@@ -156,10 +156,8 @@ Deze regeling wordt met de toelichting in de Staatscourant en het Afkondigingsbl
 
 Den Haag 15 december 2010
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.P.H.Donner
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.P.H. Donner
 
 ## Bijlage 1 — behorend bij artikel 2, derde lid, van de Regeling naturalisatietoets Aruba 2011
 

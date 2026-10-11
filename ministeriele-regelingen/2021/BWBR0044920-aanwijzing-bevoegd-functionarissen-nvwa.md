@@ -49,7 +49,5 @@ Dit besluit wordt aangehaald als Aanwijzing bevoegd functionarissen NVWA.
 
 Dit besluit zal in Staatscourant worden geplaatst.
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-voor deze:\
-De Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit\
+De Minister van Landbouw, Natuur en Voedselkwaliteit, voor deze: De Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit\
 M.A. Ruys

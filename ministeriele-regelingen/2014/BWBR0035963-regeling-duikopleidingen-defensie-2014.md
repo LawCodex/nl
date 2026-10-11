@@ -104,7 +104,5 @@ Deze regeling zal met de toelichting in de Staatcourant worden geplaatst.
 
 ’s-Gravenhage 10 december 2014
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert

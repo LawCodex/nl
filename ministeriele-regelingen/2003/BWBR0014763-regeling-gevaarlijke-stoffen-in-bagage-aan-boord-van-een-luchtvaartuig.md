@@ -39,7 +39,5 @@ Deze regeling wordt aangehaald als: Regeling gevaarlijke stoffen in bagage aan b
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat,\
+De Staatssecretarisvan Verkeer en Waterstaat,\
 M. H. Schutz van Haegen.

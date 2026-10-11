@@ -1332,7 +1332,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 18 januari 2022
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-namens deze,\
-de directeur Organisatie, Bedrijfsvoering en Personeel (OBP)\
+De Minister van Volksgezondheid, Welzijn en Sport namens deze, de directeur Organisatie, Bedrijfsvoering en Personeel (OBP)\
 H. Tigchelaar-Wu

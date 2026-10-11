@@ -50,5 +50,4 @@ Dit besluit wordt aangehaald als: Ondermandaat-, volmacht- en machtigingsbesluit
 Dit besluit zal met de toelichting worden geplaatst op de MP (10-003)-site. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
 De Directeur Militaire Luchtvaart Autoriteit,\
-S.H.P.M. Pellemans,\
-Kolonel-vlieger
+S.H.P.M. Pellemans, Kolonel-vlieger

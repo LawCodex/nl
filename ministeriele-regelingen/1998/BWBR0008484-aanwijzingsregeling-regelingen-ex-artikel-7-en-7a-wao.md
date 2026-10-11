@@ -73,6 +73,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 16 december 1997
 
-De\
-Staatssecretaris\
+De Staatssecretaris voornoemd,\
 F.H.G. de Grave

@@ -82,10 +82,8 @@ Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politie
 
 's-Gravenhage 25 maart 1994
 
-De\
-minister\
-Binnenlandse Zaken\
-E. vanThijn
+De minister van Binnenlandse Zaken,\
+E. van Thijn
 
 ## Bijlage
 

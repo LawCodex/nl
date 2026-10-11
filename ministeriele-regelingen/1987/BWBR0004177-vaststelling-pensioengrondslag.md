@@ -41,7 +41,5 @@ Deze regeling treedt in werking met ingang van de dag na de bekendmaking in de N
 
 Rijswijk 26 juni 1987
 
-De\
-minister\
-Welzijn, Volksgezondheid en Cultuur\
+De minister van Welzijn, Volksgezondheid en Cultuur,\
 L. C. Brinkman

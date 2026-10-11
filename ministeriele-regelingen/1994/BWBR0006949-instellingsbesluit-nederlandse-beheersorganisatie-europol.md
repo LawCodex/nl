@@ -37,12 +37,9 @@ Dit besluit zal worden gepubliceerd in de Nederlandse Staatscourant en het Algem
 
 's-Gravenhage 5 oktober 1994
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 Namens de Minister,
 
-Het\
-Hoofd van de directie Politie,\
+Het Hoofd van de directie Politie,\
 H.P. Wooldrik

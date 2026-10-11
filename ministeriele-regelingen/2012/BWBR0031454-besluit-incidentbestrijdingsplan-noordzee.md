@@ -43,10 +43,8 @@ Dit besluit wordt aangehaald als: Besluit Incidentbestrijdingsplan Noordzee.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Noordzeeloket van de dienst Noordzee van Rijkswaterstaat.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen
 
 ## Bijlage
 

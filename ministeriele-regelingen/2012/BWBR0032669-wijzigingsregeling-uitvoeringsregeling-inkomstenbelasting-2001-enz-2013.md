@@ -181,7 +181,5 @@ Op een verzoek om teruggaaf gedaan op de voet van artikel XXXIII, eerste lid, va
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-F.H.H.Weekers
+De Staatssecretaris van Financiën,\
+F.H.H. Weekers

@@ -57,7 +57,5 @@ Dit besluit treedt in werking met ingang van de dag waarop het besluit bekend is
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Verkeer en Waterstaat, Johan de Wittlaan 3-7, 2500 EX, te Den Haag, en zal in afschrift worden gezonden aan het College van burgemeester en wethouders van Amsterdam.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

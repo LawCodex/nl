@@ -37,7 +37,5 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing certificaat Overgangsopl
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers

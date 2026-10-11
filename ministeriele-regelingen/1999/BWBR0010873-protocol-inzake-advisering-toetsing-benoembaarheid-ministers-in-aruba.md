@@ -77,11 +77,8 @@ Het besluit wordt geplaatst in de Staatscourant en in de Landscourant van Aruba.
 
 Den Haag 12 november 1999
 
-De Gevolmachtigde\
-Minister\
-A.G.Croes
+De Gevolmachtigde Minister van Aruba,\
+A.G. Croes .
 
-De\
-staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G.M. deVries
+De staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+G.M. de Vries .

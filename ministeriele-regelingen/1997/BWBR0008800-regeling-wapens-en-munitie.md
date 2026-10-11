@@ -944,10 +944,8 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 ’s-Gravenhage 4 juli 1997
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager
 
 ## Bijlage I
 

@@ -110,10 +110,8 @@ Deze regeling wordt aangehaald als: Regeling standaard luchtverkeerscircuits.
 
 's-Gravenhage 11 oktober 1993
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen
 
 ## Bijlage
 

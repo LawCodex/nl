@@ -86,9 +86,7 @@ De Beleidsregel ambtseed burgerambtenaren Centrale Organisatie (PCO 2002000047) 
 
 Deze regeling kan worden aangehaald als de Regeling ambtseed burgerambtenaren Defensie.
 
-De Staatssecretaris van Defensie,\
-Voor deze\
-De Directeur-Generaal Personeel en Materieel,\
+De Staatssecretaris van Defensie, Voor deze De Directeur-Generaal Personeel en Materieel,\
 B.H.J.J.M. Volkers (wnd.).
 
 ## Bijlage — bij de Regeling ambtseed burgerambtenaren Defensie

@@ -86,10 +86,8 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 29 juni 2007
 
-De\
-Minister\
-Wonen, Wijken en Integratie\
-C.P.Vogelaar
+De Minister voor Wonen, Wijken en Integratie,\
+C.P. Vogelaar
 
 ## Bijlage — als bedoeld in artikel 4
 

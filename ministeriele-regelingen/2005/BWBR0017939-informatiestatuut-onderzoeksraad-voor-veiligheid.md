@@ -120,10 +120,8 @@ Deze regeling wordt aangehaald als: Informatiestatuut Onderzoeksraad voor veilig
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes
 
 ## Bijlage — bij de regeling als bedoeld in artikel 6, derde lid
 

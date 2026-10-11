@@ -255,10 +255,10 @@ Gegeven te
 
 Beatrix
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties\
-A. Th. B.Bijleveld-Schouten
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+A. Th. B. Bijleveld-Schouten
 
 de *eerste* april 2010
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

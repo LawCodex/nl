@@ -81,7 +81,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 \`s-Gravenhage 24 februari 2003
 
-De\
-Minister\
-Defensie\
-H.G.J.Kamp
+De Minister van Defensie,\
+H.G.J. Kamp

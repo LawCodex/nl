@@ -89,7 +89,5 @@ Dit besluit treedt met ingang van heden in werking en vervalt op een nader door 
 
 Dit besluit wordt geplaatst in de Staatscourant.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

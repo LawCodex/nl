@@ -90,6 +90,5 @@ De ambtenaar, bedoeld in artikel 3, tweede lid, draagt behoudens de in dat artik
 
 Deze beschikking zal worden gepubliceerd in de Nederlandse Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer.
 
-De\
-Minister\
-M. H. M. F.Gardeniers-Berendsen
+De Minister voornoemd,\
+M. H. M. F. Gardeniers-Berendsen

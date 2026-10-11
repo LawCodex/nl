@@ -139,7 +139,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 december 2009
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-J.P.H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J.P.H. Donner

@@ -44,12 +44,8 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst met uitzo
 
 Den Haag 10 september 2010
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze:\
-de plaatsvervangend Secretaris-Generaal,\
-H.J.M.I.M. deRooij
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze:de plaatsvervangend Secretaris-Generaal,\
+H.J.M.I.M. de Rooij
 
 ## Handboek vervanging archiefbescheiden van actieve Arbo- en ATW zaken bij de Arbeidsinspectie
 

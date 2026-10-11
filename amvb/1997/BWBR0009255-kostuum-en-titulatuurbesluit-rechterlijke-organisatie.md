@@ -31,7 +31,7 @@ Gezien het nader rapport van Onze Minister van Justitie van 17 december 1997, Di
 
 Hebben goedgevonden en verstaan:
 
-## hoofdstuk Eerste — De titulatuur
+## Eerste hoofdstuk — De titulatuur
 
 ### Artikel 1
 
@@ -42,7 +42,7 @@ De rechterlijke ambtenaren voeren de volgende titulatuur:
 - c. de rechterlijke ambtenaren met rechtspraak belast, die werkzaam zijn bij de Hoge Raad, de procureur-generaal, de plaatsvervangend procureur-generaal, de advocaten-generaal en de advocaten-generaal in buitengewone dienst bij de Hoge Raad, alsmede de griffier en de substituut-griffier van de Hoge Raad: die van edelhoogachtbare heer of vrouwe;
 - d. de procureurs-generaal die het College van procureurs-generaal vormen: die van edelgrootachtbare heer of vrouwe.
 
-## hoofdstuk Tweede — Het ambtskostuum
+## Tweede hoofdstuk — Het ambtskostuum
 
 ### Artikel 2
 
@@ -150,7 +150,7 @@ De rechterlijk ambtenaar, werkzaam bij het openbaar ministerie, die wordt belast
 
 2\. Het bestuur van een gerecht of de president van de Hoge Raad is bevoegd ter gelegenheid van een terechtzitting of plechtigheid als in het eerste lid bedoeld, het dragen van ridderorden en eretekenen voor te schrijven. Deze dienen alsdan door hen, die daartoe gerechtigd zijn, gedragen te worden in modelformaat overeenkomstig het gebruik en overeenkomstig de desbetreffende statuten en reglementen.
 
-## hoofdstuk Derde — Het galakostuum
+## Derde hoofdstuk — Het galakostuum
 
 ### Artikel 21
 
@@ -194,7 +194,7 @@ Vervallen
 
 Het in artikel 21 bedoelde kostuum voor de substituut-griffier van de Hoge Raad is gelijk aan het kostuum dat in artikel 22 is voorgeschreven voor de griffier van de Hoge Raad, met dien verstande dat het borduursel op de omslagen van de mouwen de halve breedte heeft.
 
-## hoofdstuk Vierde — Het kostuum van de advocaten
+## Vierde hoofdstuk — Het kostuum van de advocaten
 
 ### Artikel 27
 
@@ -224,7 +224,7 @@ De toga van de advocaten is gelijk aan die, welke is omschreven in artikel 3, me
 
 2\. De door de advocaten gedragen baret is gelijk aan die, welke is omschreven in artikel 11, met dien verstande, dat de baret moet zijn van dezelfde stof als waarvan de daarbij gedragen toga is vervaardigd.
 
-## hoofdstuk Vijfde — Slotbepalingen
+## Vijfde hoofdstuk — Slotbepalingen
 
 ### Artikel 31
 

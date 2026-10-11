@@ -41,6 +41,5 @@ Dit besluit zal in de Nederlandse Staatscourant worden geplaatst.
 
 's-Gravenhage 6 maart 1978
 
-De\
-Minister\
+De Minister voornoemd,\
 J. de Ruiter

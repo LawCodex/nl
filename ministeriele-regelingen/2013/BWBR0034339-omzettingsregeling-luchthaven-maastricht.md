@@ -103,10 +103,8 @@ Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Maastricht.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld
 
 ## Bijlage 1 — bedoeld in de artikelen 2, 3 en 6 van de Omzettingsregeling luchthaven Maastricht: kaart van het luchthavengebied van de luchthaven Maastricht met ligging van de baan, de plaats van de handhavingspunten en een tabel met de handhavingspunten en de daarbij behorende grenswaarde
 

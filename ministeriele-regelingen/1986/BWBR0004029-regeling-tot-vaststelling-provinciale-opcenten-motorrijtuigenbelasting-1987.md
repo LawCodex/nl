@@ -37,10 +37,8 @@ Besluit:
 
 's-Gravenhage 16 september 1986
 
-De\
-staatssecretaris\
-Financiën\
-H. E.Koning
+De staatssecretaris van Financiën,\
+H. E. Koning
 
 ## Bijlage — Toelichting berekeningswijze maximum aantal opcenten motorrijtuigenbelasting 1987
 

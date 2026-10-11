@@ -127,28 +127,28 @@ Gegeven te
 
 Beatrix
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
-De Minister van Economische Zaken\
-M. J. A. van derHoeven
+De Minister van Economische Zaken,\
+M. J. A. van der Hoeven
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
-De Minister van Sociale Zaken en Werkgelegenheid\
-J. P. H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J. P. H. Donner
 
-De Minister van Verkeer en Waterstaat\
-C. M. P. S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C. M. P. S. Eurlings
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. M.Cramer
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. M. Cramer
 
 de *eenentwintigste* december 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

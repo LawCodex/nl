@@ -81,7 +81,5 @@ Deze regeling wordt aangehaald als: Regeling aanvraag autorisatie classificatiec
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-Roelf H. deBoer
+De Minister van Verkeer en Waterstaat,\
+Roelf H. de Boer

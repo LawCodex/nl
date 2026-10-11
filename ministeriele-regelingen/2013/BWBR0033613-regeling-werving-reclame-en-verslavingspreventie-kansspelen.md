@@ -392,10 +392,8 @@ Deze Regeling wordt aangehaald als: Regeling werving, reclame en verslavingsprev
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven
 
 ## Bijlage A — behorend bij artikel 26 van de Regeling werving, reclame en verslavingspreventie kansspelen
 

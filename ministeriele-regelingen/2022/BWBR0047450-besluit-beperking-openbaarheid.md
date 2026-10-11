@@ -50,7 +50,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 21 oktober 2022
 
-De Minister van Financiën,\
-namens deze:\
-J.H. van Gelder\
-Plaatsvervangend Secretaris-generaal
+De Minister van Financiën, namens deze:\
+J.H. van Gelder Plaatsvervangend Secretaris-generaal

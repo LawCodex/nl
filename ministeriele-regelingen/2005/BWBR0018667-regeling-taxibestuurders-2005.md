@@ -129,10 +129,8 @@ Deze regeling wordt aangehaald als: Regeling taxibestuurders 2005.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
 ## Bijlage 1 — behorende bij artikel 3 van de Regeling taxibestuurders 2005
 

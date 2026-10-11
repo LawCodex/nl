@@ -55,7 +55,5 @@ Deze beschikking, die in de *Nederlandse Staatscourant* zal worden geplaatst, ka
 
 's-Gravenhage 10 September 1949
 
-De\
-Minister\
-Financiën\
-P.Lieftinck
+De Minister van Financiën,\
+P. Lieftinck

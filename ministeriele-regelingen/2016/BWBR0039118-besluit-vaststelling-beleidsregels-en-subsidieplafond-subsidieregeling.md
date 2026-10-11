@@ -66,9 +66,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage, met uitzondering van de appendices bij die bijlage, in de Staatscourant worden geplaatst. De appendices bij de bijlage worden via internet bekend gemaakt.[^n4]
 
-De Minister van Buitenlandse Zaken, en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de Secretaris-Generaal,\
+De Minister van Buitenlandse Zaken, en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de Secretaris-Generaal,\
 J.M.G. Brandt
 
 ## Subsidiebeleidskader mensenrechtenfonds 2017–2020

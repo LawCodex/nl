@@ -95,9 +95,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 17 november 2020
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-Namens deze;\
-De algemene rijksarchivaris,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, Namens deze; De algemene rijksarchivaris,\
 M.L. Engelhard
 
 ## Bijlage — bij het Besluit tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in de archieven BZK Zuivering Ambtenaren (2.04.67), Militair Gezag (2.13.25), BRIOP (2.13.208), Defensie Collectie Zuiveringen (2.13.99), Financiën Bureau Zuivering (2.08.79), BZK Bureau Invordering (2.04.77), Justitie Afdeling Politie (2.09.107), Justitie RVD (2.09.45) en NEFIS (2.10.62)

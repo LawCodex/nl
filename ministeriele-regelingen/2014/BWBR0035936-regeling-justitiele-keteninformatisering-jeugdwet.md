@@ -106,15 +106,11 @@ Deze regeling wordt aangehaald als: Regeling justitiële keteninformatisering Je
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn
 
 ## Bijlage 1 — bij de Regeling justitiële keteninformatisering Jeugdwet
 

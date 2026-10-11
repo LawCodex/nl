@@ -95,7 +95,5 @@ Afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer.
 
 ’s-Gravenhage 2 februari 1999
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

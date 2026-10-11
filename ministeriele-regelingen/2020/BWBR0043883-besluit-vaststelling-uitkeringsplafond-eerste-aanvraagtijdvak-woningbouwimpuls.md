@@ -25,7 +25,7 @@ Gelet op artikel 3, derde lid, van het Besluit Woningbouwimpuls 2020;
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het bedrag dat ten hoogste aan specifieke uitkeringen kan worden verstrekt ten behoeve van de aanvragen die zijn ingediend in het aanvraagtijdvak, bedoeld in artikel 4, tweede lid van het Besluit Woningbouwimpuls 2020, is € 347.500.000.
 

@@ -63,12 +63,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 4 september 2007
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-A.Aboutaleb
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+A. Aboutaleb
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

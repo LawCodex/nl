@@ -88,7 +88,5 @@ Ter uitvoering van artikel 1 is van Estse zijde de volgende regeling getroffen:
 
 4\. Deze regeling vindt toepassing met betrekking tot Estse inkomsten die zijn verkregen op of na 1 januari 1995.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

@@ -66,7 +66,5 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 Den Haag 26 juni 2006
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+S.M. Dekker

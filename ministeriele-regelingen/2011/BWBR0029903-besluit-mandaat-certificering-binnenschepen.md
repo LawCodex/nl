@@ -96,11 +96,8 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de gemandateerden.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas-Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas-Geesteranus
 
-De Inspecteur-Generaal Verkeer en Waterstaat,\
-tevens handelend in de hoedanigheid van bevoegde autoriteit, bedoeld in de artikelen 1.16.2 en 1.16.13 van bijlage 1a van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen (ADN) en als voorzitter van de commissie voor deskundigen, bedoeld in artikel 1.19 van de Binnenvaartregeling,\
+De Inspecteur-Generaal Verkeer en Waterstaat, tevens handelend in de hoedanigheid van bevoegde autoriteit, bedoeld in de artikelen 1.16.2 en 1.16.13 van bijlage 1a van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen (ADN) en als voorzitter van de commissie voor deskundigen, bedoeld in artikel 1.19 van de Binnenvaartregeling,\
 J. Thunnissen

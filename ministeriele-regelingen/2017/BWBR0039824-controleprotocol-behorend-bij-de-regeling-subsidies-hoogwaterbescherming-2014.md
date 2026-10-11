@@ -63,9 +63,7 @@ Bij de uitvoering van de controle van de financiële verantwoording dient, met i
 
 Dit protocol zal met bijlagen in de Staatscourant worden geplaatst en treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, onder gelijktijdige intrekking van het op 11 mei 2015 (Stcr. 2015, nr. 12529) gepubliceerde controleprotocol.
 
-De Minister van Infrastructuur en Milieu,\
-namens deze,\
-de Directeur-Generaal Rijkswaterstaat,
+De Minister van Infrastructuur en Milieu, namens deze, de Directeur-Generaal Rijkswaterstaat,
 
 ## Bijlage 1 — Format financiële (jaarlijkse en eind-)verantwoording HWBP
 

@@ -27,7 +27,7 @@ Alzoo Wij in overweging genomen hebben, dat het wenschelijk is aan arbeiders een
 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## afdeling Eerste — Algemene bepalingen
+## Eerste afdeling — Algemene bepalingen
 
 ### § 1 — Algemeen
 
@@ -345,7 +345,7 @@ Vervallen
 
 Vervallen
 
-## afdeling Tweede — Van de verzekering van uitkering van ziekengeld
+## Tweede afdeling — Van de verzekering van uitkering van ziekengeld
 
 ### Artikel 19
 
@@ -1463,7 +1463,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen stelt nadere regels met betrekk
 
 Met betrekking tot het bepaalde bij of krachtens dit hoofdstuk zijn, met inachtneming van de wijzigingen, welke de aard van het onderwerp vordert, de overige bepalingen van deze wet en de ter uitvoering van die bepalingen genomen besluiten, voor zoveel nodig, van overeenkomstige toepassing, voor zover daarvan in het bij of krachtens dit hoofdstuk bepaalde niet is afgeweken.
 
-## afdeling Derde — Bepalingen in verband met de Algemene wet bestuursrecht en het beroep in cassatie
+## Derde afdeling — Bepalingen in verband met de Algemene wet bestuursrecht en het beroep in cassatie
 
 ### § 1 — Algemeen
 
@@ -1587,7 +1587,7 @@ In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termi
 
 2\. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen de uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij de Centrale Raad van Beroep de plaats inneemt van een gerechtshof.
 
-## afdeling Vierde — Aanspraak op bezoldiging en reïntegratieverplichtingen overheidspersoneel
+## Vierde afdeling — Aanspraak op bezoldiging en reïntegratieverplichtingen overheidspersoneel
 
 ### Artikel 76
 
@@ -1669,7 +1669,7 @@ Indien betrokkene voor de aanvang van zijn dienstbetrekking of ambtsvervulling e
 
 6\. Dit artikel is van overeenkomstige toepassing op de eigenrisicodrager, bedoeld in artikel 1, eerste lid, onderdeel h, en de personen, bedoeld in artikel 29, tweede lid, onderdelen a, b en c, die laatstelijk tot hem in dienstbetrekking stonden, gedurende de periode dat de eigenrisicodrager aan die personen ziekengeld moet betalen.
 
-## afdeling Vijfde — Straf-, overgangs- en slotbepalingen
+## Vijfde afdeling — Straf-, overgangs- en slotbepalingen
 
 ### Hoofdstuk I — Strafbepalingen
 

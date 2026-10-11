@@ -59,10 +59,8 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 11 februari 2021
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-J.C. Goet\
-Secretaris-Generaal
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+J.C. Goet Secretaris-Generaal
 
 ## Bijlage
 

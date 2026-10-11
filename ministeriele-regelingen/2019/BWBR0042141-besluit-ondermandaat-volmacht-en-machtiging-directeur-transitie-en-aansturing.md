@@ -48,5 +48,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 18 april 2019
 
-J.C. Goet\
-secretaris-generaal
+J.C. Goet secretaris-generaal

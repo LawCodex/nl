@@ -43,7 +43,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 4 april 2013
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok

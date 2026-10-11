@@ -105,7 +105,5 @@ Deze regeling wordt aangehaald als: Regeling aanvraag plaatsing op een andere da
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

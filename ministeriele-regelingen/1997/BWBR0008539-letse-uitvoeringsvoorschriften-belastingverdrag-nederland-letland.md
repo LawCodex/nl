@@ -121,7 +121,5 @@ LV-1978.
 
 Letse belasting die voor de inwerkingtreding van de Letse uitvoeringsvoorschriften op grond van het Nederlands-Letse belastingverdrag te veel is geheven, zal worden teruggeven nadat daartoe een verzoek is ingediend op de wijze zoals omschreven in artikel 2, derde lid, hiervoor (onderdelen 8 tot en met 10 van de Letse uitvoeringsvoorschriften).
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging percentage lev
 
 's-Gravenhage 8 november 1974
 
-De\
-Minister\
+De Minister voornoemd,\
 A. A. M. van Agt

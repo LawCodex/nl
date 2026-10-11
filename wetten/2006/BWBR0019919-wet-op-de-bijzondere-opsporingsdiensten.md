@@ -195,22 +195,22 @@ Gegeven te ’s-Gravenhage 29 mei 2006
 
 Beatrix
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner
 
-De Minister van Financiën\
-G.Zalm
+De Minister van Financiën ,\
+G. Zalm
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S. M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,\
+S. M. Dekker
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-C. P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit ,\
+C. P. Veerman
 
-De Minister van Sociale Zaken en Werkgelegenheid\
-A. J.de Geus
+De Minister van Sociale Zaken en Werkgelegenheid ,\
+A. J. de Geus
 
 de *zevenentwintigste* juni 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

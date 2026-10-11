@@ -35,7 +35,5 @@ Deze regeling wordt in de Staatscourant geplaatst. Deze regeling treedt in werki
 
 's-Gravenhage 12 juni 1991
 
-De\
-minister\
-Financiën\
-W.Kok
+De minister van Financiën.\
+W. Kok

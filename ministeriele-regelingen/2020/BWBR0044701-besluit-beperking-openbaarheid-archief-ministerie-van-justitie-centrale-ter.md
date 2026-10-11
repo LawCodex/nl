@@ -43,7 +43,5 @@ Het vervaardigen van reproducties van documenten geborgen onder het inventarisnu
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Ministerie van Justitie, Centrale ter bestrijding van de handel in vrouwen en kinderen en van de handel in ontuchtige uitgaven en taakvoorgangers, (1904) 1908–1968)
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-M. van Rooij\
-Plaatsvervangend directeur van het Dienstencentrum
+De Minister van Justitie en Veiligheid, namens deze,\
+M. van Rooij Plaatsvervangend directeur van het Dienstencentrum

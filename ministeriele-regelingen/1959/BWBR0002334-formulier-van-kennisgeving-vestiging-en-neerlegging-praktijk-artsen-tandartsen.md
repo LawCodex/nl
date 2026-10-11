@@ -27,14 +27,12 @@ vast te stellen het model van het formulier van kennisgeving van vestiging en va
 
 's-Gravenhage 18 november 1959
 
-De\
-minister
+De minister voornoemd,
 
 Voor deze:
 
-De\
-secretaris-generaal\
-J. H.Klatte
+De secretaris-generaal,\
+J. H. Klatte
 
 FORMULIER van kennisgeving van vestiging en neerlegging van de praktijk door artsen, tandartsen, apothekers, vroedvrouwen en tandheelkundigen, zoals bedoeld in artikel 3 van het Koninklijk besluit van 14 juli 1959, *Stb.* 284 (Besluit kennisgeving mutaties Gezondheidswet). Bestemd voor de geneeskundige/farmaceutische hoofdinspecteur van de volksgezondheid, te 's-Gravenhage.
 
@@ -52,6 +50,5 @@ Behoort bij beschikking van de Minister van Sociale Zaken en Volksgezondheid van
 
 Mij bekend,
 
-De\
-secretaris-generaal\
-J. H.Klatte
+De secretaris-generaal,\
+J. H. Klatte

@@ -159,10 +159,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 2 oktober 2008
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer
 
 ## Bijlage 1 — behorende bij artikel 3, derde lid, van de Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen
 

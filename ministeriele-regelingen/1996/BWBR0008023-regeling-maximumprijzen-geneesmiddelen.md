@@ -37,10 +37,8 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers
 
 ## Bijlage — behorende bij artikel 1 van de Regeling maximumprijzen geneesmiddelen
 

@@ -60,9 +60,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit raad voor Koninkrijksrelati
 
 Dit besluit zal met de toelichting in de Staatscourant, de Curaçaosche Courant en de Landscourant van Aruba worden geplaatst.
 
-De\
-Minister-President\
-Minister\
-Algemene Zaken\
-Voorzitter van de raad van ministers van het Koninkrijk\
-J.P.Balkenende
+De Minister-President, Minister van Algemene Zaken, Voorzitter van de raad van ministers van het Koninkrijk,\
+J.P. Balkenende

@@ -45,7 +45,5 @@ Deze regeling wordt aangehaald als: Regeling vrijstelling arbeidstijden trawlvis
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa

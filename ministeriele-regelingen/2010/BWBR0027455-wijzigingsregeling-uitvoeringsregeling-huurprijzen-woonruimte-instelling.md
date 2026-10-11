@@ -41,7 +41,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 26 maart 2010
 
-De\
-Minister\
-Wonen, Wijken en Integratie\
-E. vanMiddelkoop
+De Minister voor Wonen, Wijken en Integratie,\
+E. van Middelkoop

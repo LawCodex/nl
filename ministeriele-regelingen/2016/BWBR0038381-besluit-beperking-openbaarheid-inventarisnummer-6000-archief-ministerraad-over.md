@@ -35,9 +35,5 @@ Dit besluit treedt in werking met ingang van de dag van plaatsing in de Staatsco
 
 Den Haag 19 juli 2016
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de algemene rijksarchivaris\
-M.L.Engelhard
+De Minister van Onderwijs, Cultuur en Wetenschap,namens deze,de algemene rijksarchivaris\
+M.L. Engelhard

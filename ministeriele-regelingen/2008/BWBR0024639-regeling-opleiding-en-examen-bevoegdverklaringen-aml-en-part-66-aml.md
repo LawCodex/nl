@@ -192,10 +192,8 @@ Deze regeling wordt aangehaald als: Regeling opleiding en examen bevoegdverklari
 
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlagen die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
 ## Bijlage 1 — Basiskenniseisen bevoegdverklaring A
 

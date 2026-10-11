@@ -89,7 +89,5 @@ Dit besluit wordt aangehaald als: Besluit Denktank complexe zorg.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.L.L.E. vanVeldhuijzen van Zanten-Hyllner
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.L.L.E. van Veldhuijzen van Zanten-Hyllner

@@ -49,12 +49,7 @@ Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoning
 
 Den Haag 19 september 2008
 
-De\
-Minister\
-Wonen, Wijken en Integratie\
-voor deze:\
-algemeen directeur van SenterNovem,\
-op last:
+De Minister voor Wonen, Wijken en Integratie, voor deze: de algemeen directeur van SenterNovem,op last:
 
-opdrachtmanager\
-A.Klink
+opdrachtmanager,\
+A. Klink

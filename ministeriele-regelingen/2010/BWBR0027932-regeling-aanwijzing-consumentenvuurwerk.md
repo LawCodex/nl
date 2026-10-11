@@ -107,10 +107,8 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 13 juli 2010
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
-J.C.Huizinga-Heringa
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.C. Huizinga-Heringa
 
 ## Bijlage I — Consumentenvuurwerk, met uitzondering van fop- en schertsvuurwerk (artikel 2)
 

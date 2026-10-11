@@ -67,8 +67,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 31 maart 1994
 
-De\
-Minister-President\
-Minister\
-Algemene Zaken\
-R.F.M.Lubbers
+De Minister-President, Minister van Algemene Zaken,\
+R.F.M. Lubbers

@@ -42,7 +42,5 @@ Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscou
 
 ’s-Gravenhage 15 oktober 2015,
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok

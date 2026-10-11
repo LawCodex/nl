@@ -47,7 +47,5 @@ Deze regeling treedt in werking met ingang van 1 mei 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën,\
-F.H.H.Weekers
+De Staatssecretaris van Financiën,\
+F.H.H. Weekers

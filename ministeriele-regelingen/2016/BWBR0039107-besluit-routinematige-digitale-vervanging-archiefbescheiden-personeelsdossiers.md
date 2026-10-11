@@ -53,10 +53,8 @@ Dit besluit kan worden aangehaald als: Besluit routinematige digitale vervanging
 
 Dit besluit zal met de bijlage en toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage
 

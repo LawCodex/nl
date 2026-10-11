@@ -121,7 +121,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.L.L.E.Veldhuijzen van Zanten-Hyllner
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.L.L.E. Veldhuijzen van Zanten-Hyllner

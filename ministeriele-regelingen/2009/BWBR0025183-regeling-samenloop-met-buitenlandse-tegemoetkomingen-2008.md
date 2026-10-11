@@ -77,12 +77,8 @@ Deze regeling wordt aangehaald als: Regeling samenloop met buitenlandse tegemoet
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Jeugd en Gezin\
-A.Rouvoet
+De Minister voor Jeugd en Gezin,\
+A. Rouvoet
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

@@ -80,7 +80,5 @@ Deze beschikking en de daarbij behorende toelichting zullen worden bekendgemaakt
 
 ’s-Gravenhage 6 december 1999
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
 J.P. Pronk

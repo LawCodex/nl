@@ -123,9 +123,7 @@ Een toegekende frequentie kan worden ingetrokken indien:
 
 Deze beschikking treedt in werking met ingang van 1 april 1995.
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,
+De Minister van Economische Zaken, Landbouw en Innovatie,
 
 ## Bijlage — behorende bij de beschikking van 15 maart 1995 kenmerk HDTP/95/5823/HP
 

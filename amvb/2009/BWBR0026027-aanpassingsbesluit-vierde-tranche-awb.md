@@ -161,7 +161,7 @@ Wijzigt het Subsidiebesluit raden voor rechtsbijstand.
 
 ## Hoofdstuk 5 — Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.
 

@@ -123,31 +123,21 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De\
-Minister\
-Economische Zaken\
-L. J.Brinkhorst
+De Minister van Economische Zaken,\
+L. J. Brinkhorst
 
-De\
-Minister\
-Justitie\
-J. P. H.Donner
+De Minister van Justitie,\
+J. P. H. Donner
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J. W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J. W. Remkes
 
-De\
-Minister\
-Defensie\
-H. G. J.Kamp
+De Minister van Defensie,\
+H. G. J. Kamp
 
 de vijfentwintigste november 2003
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 J. P. H. Donner
 
 ## Bijlage — als bedoeld in artikel 2, derde lid, van het Besluit beveiliging gegevens aftappen telecommunicatie

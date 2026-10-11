@@ -72,5 +72,4 @@ Het subsidieplafond van het Deelreglement Filmactiviteiten voor het kalenderjaar
 Amsterdam 1 maart 2021
 
 Het bestuur van de Stichting Nederlands Fonds voor de Film,\
-B. Beyer\
-Directeur - Bestuurder
+B. Beyer Directeur - Bestuurder

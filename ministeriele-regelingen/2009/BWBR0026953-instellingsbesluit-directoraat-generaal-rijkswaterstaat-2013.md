@@ -73,7 +73,5 @@ Dit besluit wordt met de daarbij behorende toelichting in de Staatscourant gepla
 
 Dit besluit is met terugwerkende kracht inwerking getreden vanaf 22 december 2009.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings

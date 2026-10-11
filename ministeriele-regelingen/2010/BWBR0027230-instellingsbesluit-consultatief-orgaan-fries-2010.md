@@ -85,7 +85,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Consultatief Orgaan Fries 2
 
 Dit besluit zal met de toelichting in de Nederlandse taal en de Friese taal in de Staatscourant worden geplaatst. Een afschrift van dit besluit wordt gezonden aan de Algemene Rekenkamer en aan het CO Fries.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst

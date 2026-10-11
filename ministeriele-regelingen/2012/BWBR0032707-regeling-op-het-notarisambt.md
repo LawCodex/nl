@@ -165,7 +165,5 @@ Deze regeling met toelichting zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 11 december 2012
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

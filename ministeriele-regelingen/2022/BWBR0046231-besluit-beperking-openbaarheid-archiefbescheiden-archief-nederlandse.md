@@ -1871,8 +1871,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in België (Ambassade Brussel en CG Antwerpen).
 
-De Minister van Buitenlandse Zaken,\
-Voor deze,\
-W. Blott-Cappenberg\
-Hoofd Informatiemanagement\
-Directie Informatievoorziening en Digitale Innovatie
+De Minister van Buitenlandse Zaken, Voor deze,\
+W. Blott-Cappenberg Hoofd Informatiemanagement Directie Informatievoorziening en Digitale Innovatie

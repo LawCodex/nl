@@ -118,16 +118,6 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 1 juli 2013
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-de Nationaal Coördinator Terrorismebestrijding en Veiligheid,
+De Minister van Veiligheid en Justitie,namens deze,de Nationaal Coördinator Terrorismebestrijding en Veiligheid,
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-Minister\
-Buitenlandse Zaken,\
-namens dezen,\
-de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, en de Minister van Buitenlandse Zaken,namens dezen,de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,

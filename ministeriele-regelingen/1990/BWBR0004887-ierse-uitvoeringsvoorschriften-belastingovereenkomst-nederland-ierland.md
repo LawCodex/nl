@@ -68,7 +68,5 @@ De beschikking van de staatssecretaris van Financiën van 20 december 1971, nr. 
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, onderdeel d, toepassing met betrekking tot interest, royalty's, pensioenen, niet zijnde overheidspensioenen, en lijfrenten die betaald of betaalbaar zijn gesteld op of na 6 april 1965.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

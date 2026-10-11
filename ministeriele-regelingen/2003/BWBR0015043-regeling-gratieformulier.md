@@ -37,10 +37,8 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 7 mei 2003
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner
 
 ## Bijlage
 

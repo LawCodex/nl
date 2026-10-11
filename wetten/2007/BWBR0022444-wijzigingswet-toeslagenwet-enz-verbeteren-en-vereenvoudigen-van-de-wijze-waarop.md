@@ -57,10 +57,10 @@ Gegeven te Tavarnelle 21 juli 2007
 
 Beatrix
 
-De Minister van Sociale Zaken en Werkgelegenheid\
-J. P. H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J. P. H. Donner
 
 de *dertigste* augustus 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

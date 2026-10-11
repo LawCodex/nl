@@ -59,7 +59,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 7 december 2010
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

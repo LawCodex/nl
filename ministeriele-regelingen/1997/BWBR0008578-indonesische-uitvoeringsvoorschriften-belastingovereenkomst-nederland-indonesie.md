@@ -128,7 +128,5 @@ De regeling van de Staatssecretaris van Financiën van 23 februari 1996, nr. IFZ
 - a. dividenden, interest en royalty’s, die betaald zijn of betaalbaar zijn gesteld op of na 1 juni 1994;
 - b. andere inkomsten, die betaald zijn of betaalbaar zijn gesteld op of na 1 januari 1995.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

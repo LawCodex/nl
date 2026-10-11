@@ -102,10 +102,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-DeMinistervoorWonen, Wijken en Integratie\
-C. P.Vogelaar
+DeMinistervoorWonen, Wijken en Integratie,\
+C. P. Vogelaar
 
 de *negende* september 2008
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

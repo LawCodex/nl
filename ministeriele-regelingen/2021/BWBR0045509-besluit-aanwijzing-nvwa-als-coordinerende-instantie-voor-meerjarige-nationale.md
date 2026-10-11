@@ -37,7 +37,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ’s-Gravenhage 3 augustus 2021
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-J-K Goet\
-Secretaris-Generaal van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+J-K Goet Secretaris-Generaal van het Ministerie van Landbouw, Natuur en Voedselkwaliteit

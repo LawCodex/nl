@@ -37,15 +37,11 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 25 mei 2005
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.L.B.A. vanGeel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+P.L.B.A. van Geel
 
-De\
-Minister\
-Economische Zaken\
-L.J.Brinkhorst
+De Minister van Economische Zaken,\
+L.J. Brinkhorst
 
 ## Bijlagen
 

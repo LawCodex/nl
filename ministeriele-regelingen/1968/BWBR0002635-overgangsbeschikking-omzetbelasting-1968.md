@@ -80,7 +80,5 @@ De teruggaaf op grond van artikel 45, derde lid, van de wet vindt slechts plaats
 
 2\. Deze beschikking kan worden aangehaald als Overgangsbeschikking omzetbelasting 1968.
 
-De\
-Staatssecretaris\
-Financiën\
-F. H. M.Grapperhaus
+De Staatssecretaris van Financiën,\
+F. H. M. Grapperhaus

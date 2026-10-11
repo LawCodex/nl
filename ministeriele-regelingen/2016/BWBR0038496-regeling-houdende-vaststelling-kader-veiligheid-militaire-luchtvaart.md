@@ -58,7 +58,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst; de re
 
 ´s-Gravenhage 24 augustus 2016
 
-De\
-Minister\
-Defensie\
-J.A.Hennis-Plasschaert
+De Minister van Defensie\
+J.A. Hennis-Plasschaert

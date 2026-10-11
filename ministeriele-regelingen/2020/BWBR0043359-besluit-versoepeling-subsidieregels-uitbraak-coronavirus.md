@@ -60,7 +60,5 @@ Dit besluit wordt aangehaald als: Besluit versoepeling subsidieregels uitbraak C
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de plv. secretaris-generaal,\
+De Minister van Volksgezondheid, Welzijn en Sport, namens deze, de plv. secretaris-generaal,\
 A.I. Norville MSc

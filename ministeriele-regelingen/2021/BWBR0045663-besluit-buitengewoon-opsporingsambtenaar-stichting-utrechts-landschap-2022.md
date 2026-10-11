@@ -97,7 +97,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 21 september 2021
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-I.M. Koster-Boer\
-Operationeel manager V&T
+De Minister voor Rechtsbescherming, namens deze,\
+I.M. Koster-Boer Operationeel manager V&T

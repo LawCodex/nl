@@ -48,7 +48,5 @@ Voor de verdeling van het vermelde macro taakstellingsbedrag over de ziekenhuize
 
 Het op basis van voorgaande per individuele instelling berekende taakstellingsbedrag wordt verwerkt als nominaal bedrag in het A-segment en is onderhevig aan nominale aanpassingen (indexering). De eerste nominale aanpassing vindt plaats over het jaar 2010 waarmee de taakstelling op prijspeil 2010 wordt gebracht.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

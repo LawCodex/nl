@@ -65,7 +65,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 2 januari 2019
 
-De Minister van Economische Zaken en Klimaat,\
-namens deze:\
-A.A.J.M. Martens\
-Manager Concernstaf en P&O van de Rijksdienst voor Ondernemend Nederland
+De Minister van Economische Zaken en Klimaat, namens deze:\
+A.A.J.M. Martens Manager Concernstaf en P&O van de Rijksdienst voor Ondernemend Nederland

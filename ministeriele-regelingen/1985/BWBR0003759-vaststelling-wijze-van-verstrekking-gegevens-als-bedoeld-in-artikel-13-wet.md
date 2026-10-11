@@ -115,6 +115,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de datum van uit
 
 's-Gravenhage 24 januari 1985
 
-De\
-staatssecretaris\
-J. F.Scherpenhuizen
+De staatssecretaris voornoemd,\
+J. F. Scherpenhuizen

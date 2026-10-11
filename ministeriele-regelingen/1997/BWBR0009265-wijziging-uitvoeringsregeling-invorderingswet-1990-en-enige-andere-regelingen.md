@@ -59,7 +59,5 @@ Deze regeling treedt in werking met ingang van 1 januari 1998, met dien verstand
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

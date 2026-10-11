@@ -68,5 +68,4 @@ Dit besluit wordt aangehaald als: Machtigingsbesluit UBR|Advocaten en Adviseurs 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
 Namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
-M.R. Schurink,\
-Secretaris-generaal
+M.R. Schurink, Secretaris-generaal

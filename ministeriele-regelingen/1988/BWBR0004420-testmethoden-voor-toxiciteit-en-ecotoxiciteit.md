@@ -35,12 +35,8 @@ Dit besluit treedt in werking met ingang van 1 januari 1989 en wordt met de bijb
 
 's-Gravenhage 21 oktober 1988
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E. H. T. M.Nijpels
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. H. T. M. Nijpels,
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-L. deGraaf
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+L. de Graaf

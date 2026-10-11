@@ -88,14 +88,10 @@ Dit besluit wordt geplaatst in de Staatscourant en treedt in werking met ingang 
 
 Den Haag 10 juli 2008
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
 [^n1]: 1 o.a. ‘De wereld achter de wietteelt’, Spapens 2007 en de Pilot ‘hennep en georganiseerde criminaliteit’, Openbaar Ministerie 2007.

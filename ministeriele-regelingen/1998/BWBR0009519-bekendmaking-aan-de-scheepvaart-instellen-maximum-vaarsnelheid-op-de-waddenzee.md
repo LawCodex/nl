@@ -49,13 +49,10 @@ Dit Besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Leeuwarden 31 maart 1998
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 Namens deze,
 
-De\
-hoofdingenieur-directeur van de Rijkswaterstaat in de Directie Noord-Nederland
+De hoofdingenieur-directeur van de Rijkswaterstaat in de Directie Noord-Nederland,
 
 J.R. Hoogland

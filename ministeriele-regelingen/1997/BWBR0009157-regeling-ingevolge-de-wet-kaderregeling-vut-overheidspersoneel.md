@@ -59,7 +59,5 @@ De artikelen 2 en 3 zijn niet van toepassing ten aanzien van een instelling die 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken\
-H. F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H. F. Dijkstal

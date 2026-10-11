@@ -150,10 +150,8 @@ Deze regeling kan worden aangehaald als: Regeling gelijkstelling buitenlandse be
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. E.Andriessen
+De Minister van Verkeer en Waterstaat, a.i.\
+J. E. Andriessen
 
 ## Bijlage A
 

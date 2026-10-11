@@ -35,13 +35,10 @@ Dit besluit zal worden geplaatst in de Nederlandse Staatscourant en treedt in we
 
 's-Gravenhage 30 december 1986
 
-De\
-Staatssecretaris
+De Staatssecretaris voornoemd,
 
-Namens de\
-staatssecretaris,
+Namens de staatssecretaris,
 
-Het\
-Hoofd van de Hoofdafdeling Staats- en Strafrecht
+Het Hoofd van de Hoofdafdeling Staats- en Strafrecht,
 
 J. R. H. Kuyper

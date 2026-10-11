@@ -94,8 +94,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in Chili (Ambassade Santiago de Chile).
 
-De Minister van Buitenlandse Zaken,\
-Voor deze,\
-H.H. Hilderink\
-Waarnemend Hoofd Informatiemanagement\
-Directie Informatievoorziening en Digitale Innovatie
+De Minister van Buitenlandse Zaken, Voor deze,\
+H.H. Hilderink Waarnemend Hoofd Informatiemanagement Directie Informatievoorziening en Digitale Innovatie

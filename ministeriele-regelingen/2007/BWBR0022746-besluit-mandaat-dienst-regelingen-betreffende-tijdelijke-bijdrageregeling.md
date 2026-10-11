@@ -116,7 +116,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat Dienst Regelingen betreffende 
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 G. ter Horst

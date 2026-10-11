@@ -100,6 +100,5 @@ Deze regeling zal worden gepubliceerd in de Nederlandse Staatscourant.
 
 's-Gravenhage 8 september 1987
 
-De\
-minister\
-W. F. vanEekelen
+De minister voornoemd,\
+W. F. van Eekelen

@@ -99,10 +99,8 @@ Vervallen
 
 Deze regeling met de daarbij behorende bijlage zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink
 
 ## Bijlage
 

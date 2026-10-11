@@ -165,16 +165,8 @@ Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie region
 
 Haarlem 1 juli 2010
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-De hoofdofficier van justitie,\
-B.W.Streefland
+De Minister van Justitie,namens deze:De hoofdofficier van justitie,\
+B.W. Streefland
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-De hoofdofficier van justitie,\
-B.W.J.Steensma
+De Minister van Justitie,namens deze:De hoofdofficier van justitie,\
+B.W.J. Steensma

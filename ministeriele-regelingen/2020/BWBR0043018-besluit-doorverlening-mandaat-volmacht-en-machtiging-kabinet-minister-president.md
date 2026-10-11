@@ -75,6 +75,5 @@ Dit besluit wordt aangehaald als: Besluit doorverlening mandaat, volmacht en mac
 
 Dit besluit zal in de Staatscourant worden geplaatst. Een afschrift van dit besluit wordt gezonden naar de Algemene Rekenkamer.
 
-Het hoofd van het Kabinet Minister-President,\
-secretariaat Ministerraad,\
+Het hoofd van het Kabinet Minister-President, secretariaat Ministerraad,\
 P.H.A.M. Huijts

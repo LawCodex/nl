@@ -35,11 +35,8 @@ Voor de voorbereidende werkzaamheden in het kader van het beoordelen van subsidi
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken
+De Minister van Economische Zaken,
 
 namens deze:
 
-N. van Hulst\
-directeur-generaal van Marktordening en Energie
+N. van Hulst , directeur-generaal van Marktordening en Energie

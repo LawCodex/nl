@@ -49,12 +49,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 9 november 2004
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze:
 
-de\
-Directeur-Generaal Wetgeving, Rechtspleging en Rechtsbijstand\
-P.H.Holthuis
+de Directeur-Generaal Wetgeving, Rechtspleging en Rechtsbijstand,\
+P.H. Holthuis

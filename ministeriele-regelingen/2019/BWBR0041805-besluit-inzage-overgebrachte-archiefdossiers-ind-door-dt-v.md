@@ -45,7 +45,5 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Den Haag 21 januari 2019
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-De hoofddirecteur van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid\
+De Minister van Justitie en Veiligheid, namens deze, De hoofddirecteur van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid\
 A. van Berckel-Van de Langemheen

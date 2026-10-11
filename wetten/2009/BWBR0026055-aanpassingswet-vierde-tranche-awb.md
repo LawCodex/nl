@@ -83,7 +83,7 @@ Wijzigt de Sanctiewet 1977.
 
 ## Hoofdstuk 4 — Ministerie van Defensie
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Inkwartieringswet.
 
@@ -889,10 +889,10 @@ Beatrix
 De Minister van Justitie\
 E. M. H. Hirsch Ballin
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
 de *dertigste* juni 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

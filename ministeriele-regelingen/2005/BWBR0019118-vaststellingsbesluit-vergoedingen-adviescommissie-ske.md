@@ -41,9 +41,5 @@ Het besluit van 16 december 2004, nr. OI/O/ISM/4078792, houdende vaststelling va
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Economische Zaken\
-namens deze:\
-Directeur-Generaal Ondernemen en Innovatie\
-Chr.P.Buijink
+De Staatssecretaris van Economische Zaken, namens deze:Directeur-Generaal Ondernemen en Innovatie,\
+Chr.P. Buijink

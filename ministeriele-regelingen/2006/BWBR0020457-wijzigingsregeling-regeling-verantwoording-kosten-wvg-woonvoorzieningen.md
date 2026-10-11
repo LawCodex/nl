@@ -45,10 +45,8 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal met toelichting en bijbehorende bijlagen in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-C.I.J.M.Ross-van Dorp
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+C.I.J.M. Ross-van Dorp
 
 ## Bijlage 1
 

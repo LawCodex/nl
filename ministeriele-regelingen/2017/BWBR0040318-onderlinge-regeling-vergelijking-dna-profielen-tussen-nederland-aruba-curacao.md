@@ -123,14 +123,11 @@ Deze onderlinge regeling wordt aangehaald als: Onderlinge regeling vergelijking 
 
 Deze onderlinge regeling zal met de toelichting in de Staatscourant, de Landscourant van Aruba, het Publicatieblad van Curaçao en het Afkondigingsblad van Sint Maarten worden geplaatst.
 
-Voor Nederland:\
-De Minister van Veiligheid en Justitie,\
+Voor Nederland: De Minister van Veiligheid en Justitie,\
 S.A. Blok
 
-Voor Aruba:\
-De Minister van Justitie,\
+Voor Aruba: De Minister van Justitie,\
 A.L. Dowers
 
-Voor Sint Maarten:\
-De Minister van Justitie,\
+Voor Sint Maarten: De Minister van Justitie,\
 R.A. Boasman

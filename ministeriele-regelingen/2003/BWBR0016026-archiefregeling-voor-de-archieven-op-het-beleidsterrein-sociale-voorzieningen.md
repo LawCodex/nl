@@ -41,12 +41,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Den Haag 8 december 2003
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid
+De Minister van Sociale Zaken en Werkgelegenheid
 
 namens deze:
 
-de\
-plv. Secretaris-Generaal\
+de plv. Secretaris-Generaal,\
 P. Hennephof

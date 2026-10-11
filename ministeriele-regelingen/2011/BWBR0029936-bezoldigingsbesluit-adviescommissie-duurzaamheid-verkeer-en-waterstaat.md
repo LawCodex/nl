@@ -23,7 +23,7 @@ Gelet op artikel 2, eerste lid, en artikel 4, tweede lid, van de Wet vergoedinge
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 1\. Aan de voorzitter van de adviescommissie duurzaamheid verkeer en waterstaat, die belast is met de advisering omtrent de aanvragen tot subsidie in het kader van het Subsidieprgramma Proeftuinen duurzame mobiliteit: truck van de toekomst, wordt een vaste vergoeding per maand eenmalig toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984 en de arbeidsduurfactor op 0,0219.
 
@@ -31,7 +31,5 @@ Besluit:
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen

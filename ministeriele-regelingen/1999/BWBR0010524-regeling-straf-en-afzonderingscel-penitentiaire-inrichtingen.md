@@ -246,7 +246,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 juni 1999
 
-De\
-Minister\
-Justitie\
+De Minister vanJustitie\
 A.H. Korthals

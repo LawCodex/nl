@@ -57,9 +57,7 @@ Dit besluit zal in de Staatscourant en het Algemeen Politieblad worden geplaatst
 
 ’s-Gravenhage 21 augustus 1995
 
-De\
-Minister\
-Justitie
+De Minister van Justitie.
 
 Voor deze,
 

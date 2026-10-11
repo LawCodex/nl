@@ -128,10 +128,8 @@ Deze regeling wordt aangehaald als: Regeling dienstkleding Dienst Justitiële In
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-K.H.D.M.Dijkhoff
+De Staatssecretaris van Veiligheid en Justitie,\
+K.H.D.M. Dijkhoff
 
 ## Bijlage — behorende bij artikel 3, eerste lid, van de Regeling dienstkleding Dienst Justitiële Inrichtingen
 

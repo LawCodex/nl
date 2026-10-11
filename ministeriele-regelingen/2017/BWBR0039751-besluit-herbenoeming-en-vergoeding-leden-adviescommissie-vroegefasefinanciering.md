@@ -44,7 +44,5 @@ Met ingang van 2 juli 2017 worden voor een periode van twee jaar tot lid van de 
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen en aan de Adviescommissie vroegefasefinanciering MKB-ondernemers en innovatieve starters.
 
-De Minister van Economische Zaken,\
-namens deze:\
-B. Leeftink\
-directeur-generaal van Bedrijfsleven en Innovatie
+De Minister van Economische Zaken, namens deze:\
+B. Leeftink directeur-generaal van Bedrijfsleven en Innovatie

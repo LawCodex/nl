@@ -43,9 +43,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 9 december 2015
 
-De\
-Minister\
-Veiligheid en Justitie\
-namens deze,\
-G.N.Roes,\
-de Directeur-generaal Rechtspleging en Rechtshandhaving
+De Minister van Veiligheid en Justitienamens deze,\
+G.N. Roes,de Directeur-generaal Rechtspleging en Rechtshandhaving

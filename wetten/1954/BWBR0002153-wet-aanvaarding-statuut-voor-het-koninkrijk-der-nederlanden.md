@@ -27,7 +27,7 @@ Alzo Wij in overweging genomen hebben, dat de aanvaarding door Nederland van de 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## artikel Enig
+## Enig artikel
 
 Het Statuut voor het Koninkrijk der Nederlanden, zoals het bij deze wet is gevoegd, wordt aanvaard.
 
@@ -37,8 +37,7 @@ Gegeven ten Paleize Soestdijk 28 October 1954.
 
 JULIANA.
 
-De Minister-President,\
-Minister van Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 W. DREES.
 
 De Minister van Buitenlandse Zaken,\

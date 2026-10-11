@@ -67,7 +67,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 ’s-Gravenhage 20 december 2012
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven.
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven.

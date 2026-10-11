@@ -1,0 +1,172 @@
+---
+title: "Instellingsbesluit beoordelingscommissie Npuls CTL"
+identifier: "BWBR0048591"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2023-08-24
+last_amended: 2026-07-24
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0048591/2026-07-24"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0048591/2026-07-24_0/xml/BWBR0048591_2026-07-24_0.xml"
+authority: "Onderwijs, Cultuur en Wetenschap"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Ambtenarenrecht"]
+retrieved: 2026-10-11
+---
+
+# Instellingsbesluit beoordelingscommissie Npuls CTL
+
+*Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 24 augustus 2023, nr. 40196764, houdende instelling van de beoordelingscommissie Subsidieregeling Npuls CTL voor de periode 2023 tot en met 2026 (Instellingsbesluit beoordelingscommissie Subsidieregeling Npuls CTL)*
+
+De Minister van Onderwijs, Cultuur en Wetenschap,
+
+Gelet op de artikelen 1 en 2 van de Wet vergoedingen adviescolleges en commissies, artikel 2 van het Besluit vergoedingen adviescolleges en commissies en artikel 14, eerste lid, van de Subsidieregeling Npuls CTL;
+
+Besluit:
+
+## Artikel 1 — Begripsbepalingen
+
+In dit besluit wordt verstaan onder:
+
+- *commissie:* beoordelingscommissie als bedoeld in artikel 2;
+- *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen;
+- *kalibreervergadering:* gezamenlijke bijeenkomst van de leden van de commissie waarin de onderlinge afstemming van de beoordelingscriteria wordt besproken met als doel de betrouwbaarheid van de beoordeling te verhogen en de toepasselijke criteria te verduidelijken;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
+- *subsidieaanvraag:* aanvraag voor een projectsubsidie op grond van de regeling;
+- *regeling:* Subsidieregeling Npuls CTL.
+
+## Artikel 2 — Instelling van de commissie
+
+1\. Er is een beoordelingscommissie Npuls CTL.
+
+2\. De commissie wordt ingesteld met ingang van 1 september 2023 en wordt opgeheven met ingang van 1 januari 2031.
+
+3\. De periode van instelling van de commissie kan worden verlengd indien het programma Npuls CTL in een volgende periode wordt voortgezet.
+
+## Artikel 3 — Samenstelling, benoeming, ontslag
+
+1\. De commissie bestaat uit een voorzitter en uit niet meer dan vijftien leden.
+
+2\. De minister benoemt de voorzitter en de overige leden.
+
+3\. De minister kan de voorzitter of een overig lid schorsen of tussentijds ontslaan, indien:
+
+- a. daarom door de betreffende persoon is verzocht;
+- b. het functioneren van de voorzitter of van het betreffende lid daartoe aanleiding geeft; of
+- c. de schijn van het hebben van een persoonlijk belang niet meer kan worden uitgesloten.
+
+4\. Bij tussentijds ontslag van een lid kan de minister een ander lid benoemen.
+
+5\. Bij de omgang met een persoonlijk belang hanteert de commissie de bepaling over persoonlijk belangen binnen beoordelingscommissies, zoals opgenomen in de werkwijze, bedoeld in artikel 7.
+
+6\. De voorzitter en de overige leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
+
+## Artikel 4 — De taak van de commissie
+
+1\. Per aanvraagronde beoordeelt de commissie de subsidieaanvragen die zijn ingediend op grond van de regeling op basis van de beoordelingscriteria die zijn opgenomen in de bijlagen bij de regeling.
+
+2\. De commissie beoordeelt de ingediende subsidieaanvragen die voldoen aan de beoordelingscriteria volgens de voorschriften, bedoeld in artikel 14 van de regeling.
+
+3\. De commissie adviseert de minister over de subsidieverstrekking, bedoeld in artikel 3 van de regeling.
+
+4\. Per kalenderjaar brengt de commissie een verslag uit over de wijze waarop de beoordeling, bedoeld in artikel 14 van de regeling, heeft plaatsgevonden.
+
+5\. Voor de taken, bedoeld in het eerste en tweede lid, adviseert de commissie de minister binnen 22 weken na afloop van de aanvraagperiode, bedoeld in artikel 5, eerste lid, van de regeling.
+
+6\. Leden van de commissie zijn ook na 1 januari 2031 te consulteren door de minister in verband met de rechten en plichten die voortvloeien uit de taken van de commissie, bedoeld in het derde lid.
+
+## Artikel 4a — Aanvullende taken van de commissie
+
+1\. Bij de aanvraagronden als bedoel in artikel 15a van de subsidieregeling heeft de commissie ook tot taak:
+
+- a. het voeren van een onlinegesprek met de aanvrager als bedoeld in artikel 14, achtste lid van de Subsidieregeling, en
+- b. het opnieuw beoordelen van gewijzigde aanvraag als bedoeld in artikel 15a, derde lid van de Subsidieregeling.
+
+2\. De commissie kan over de uitvoering van deze taken in haar werkwijze regels stellen.
+
+## Artikel 5 — Benoeming leden
+
+De voorzitter en de overige leden worden in een separaat besluit door de minister benoemd. Dit benoemingsbesluit wordt in de Staatscourant geplaatst.
+
+## Artikel 6 — Secretariaat
+
+1\. De commissie wordt ondersteund door een secretariaat vanuit DUS-I.
+
+2\. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de commissie.
+
+3\. In het secretariaat wordt voorzien door de minister.
+
+4\. Tot de taken van het secretariaat behoren in elk geval:
+
+- a. het organiseren van een kennismakingsbijeenkomst en een kalibreervergadering voor commissieleden;
+- b. het doen van de eerste formele toetsing van de ingediende aanvragen en het op basis van deze eerste toetsing opstellen van een preadvies aan de beoordelingscommissie;
+- c. het plannen van alle gesprekken en het opstellen van een eenduidig communicatieprotocol met de aanvragers met betrekking tot de behandeling van de betreffende subsidieaanvraag;
+- d. het uitwerken van notulen van de gesprekken met de aanvragers en het opstellen van een adviestekst;
+- e. het opstellen van de rangschikkingslijsten ingeval van een aanvraag als bedoeld in artikel 15 van de subsidieregeling en van een overzicht van het advies bij beoordeelde aanvragen;
+- f. het organiseren van een beoordelingsvergadering;
+- g. het organiseren van de procedurele afhandeling, daaronder begrepen het schrijven van het advies aan de minister, het onderhouden van het contact met de aanvragers over het resultaat van de beoordeling, het opstellen en op de juiste wijze verzenden van de beschikking en het zorgdragen voor de correcte betalingen;
+- h. het opstellen van het verslag van bevindingen.
+
+## Artikel 7 — Werkwijze
+
+1\. De commissie stelt haar eigen werkwijze vast binnen de kaders van de regeling.
+
+2\. Na toestemming van de minister kan de commissie zich door andere personen laten bijstaan voor zover dat voor de vervulling van haar taak nodig is.
+
+3\. De werkwijze bevat in ieder geval bepalingen over de omgang met persoonlijk belangen van commissieleden en voorzitter. De commissieleden en voorzitter tekenen een verklaring waarmee zij instemmen met deze bepalingen.
+
+4\. De werkwijze wordt gepubliceerd.
+
+## Artikel 8 — Informatieplicht
+
+De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+
+## Artikel 9 — Vergoeding
+
+1\. De leden van de commissie ontvangen per vergadering een vergoeding. Twee of meer vergaderingen die op dezelfde dag vallen tellen daarbij als één vergadering.
+
+2\. Iedere losstaande activiteit die door een commissielid wordt uitgeoefend in het kader van een beoordeling door de commissie en als zodanig is geadministreerd, wordt aangemerkt als een vergadering.
+
+3\. De vergoeding per vergadering bedraagt 3% van salarisschaal 18, trede 5, zoals overeengekomen in de laatstelijk afgesloten CAO Rijk, met dien verstande dat aan de voorzitter een vergoeding per vergadering wordt toegekend van 130% van de hoogte van de vergoeding per vergadering die aan de andere leden wordt toegekend.
+
+4\. Naast de vergoeding voor de werkzaamheden komen de eventuele reis- en verblijfkosten van de voorzitter en andere leden voor vergoeding in aanmerking. De leden ontvangen een vergoeding voor reiskosten gebaseerd op de regeling, bedoeld in artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies.
+
+## Artikel 9a — Vergoeding vanaf 1 januari 2027
+
+1\. De vergoeding van de voorzitter van de commissie bedraagt € 481,48. per dagdeel.
+
+2\. De vergoeding van de overige leden bedraagt € 370,37 euro per dagdeel.
+
+3\. Per beoordeelde aanvraag worden voor een commissielid ten hoogste drie dagdelen vergoed, blijkend uit de taakverdeling tussen de commissieleden.
+
+4\. De reiskostenvergoeding is gekoppeld aan het maximale bedrag dat belastingvrij mag worden vergoed per kilometer of de werkelijk gemaakte kosten met openbaar vervoer.
+
+## Artikel 10 — Kosten van de commissie
+
+1\. Voor zover goedgekeurd komen de kosten van de commissie voor rekening van de minister.
+
+2\. Onder kosten worden in ieder geval verstaan de kosten voor de faciliteiten van vergaderingen.
+
+## Artikel 11 — Openbaarmaking
+
+Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt maar uitsluitend aan de minister uitgebracht of overgedragen.
+
+## Artikel 12 — Archiefbescheiden
+
+De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Hoger Onderwijs en Studiefinanciering van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+## Artikel 13 — Inwerkingtreding en vervaldatum
+
+1\. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst.
+
+2\. Dit besluit vervalt met ingang van 1 januari 2031.
+
+## Artikel 14 — Citeertitel
+
+Dit besluit wordt aangehaald als: Instellingsbesluit beoordelingscommissie Npuls CTL.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.H. Dijkgraaf

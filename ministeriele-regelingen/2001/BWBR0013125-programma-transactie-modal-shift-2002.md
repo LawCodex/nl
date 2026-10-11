@@ -150,7 +150,5 @@ Dit programma treedt in werking met ingang van 1 januari 2002.
 
 Dit programma zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

@@ -47,7 +47,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 25 januari 2002
 
-De\
-Minister\
-Economische Zaken\
-A.Jorritsma
+De Minister van Economische Zaken,\
+A. Jorritsma

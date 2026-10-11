@@ -23,7 +23,7 @@ Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commis
 
 Besluit:
 
-## Artikel Enig
+## Enig Artikel
 
 1\. Aan de voorzitter van de Commissie maatschappelijke dialoog nanotechnologie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18.10 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984 en de arbeidsduurfactor op 0,146.
 
@@ -33,7 +33,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 3 april 2009
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven

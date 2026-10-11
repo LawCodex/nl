@@ -53,7 +53,5 @@ De in artikel 1 en 2 genoemde bedragen worden jaarlijks geïndexeerd met de jaar
 
 Het besluit van 24 december 1998 inzake de vaststelling van de bijdrage in de reis- en verblijfkosten, Staatscourant 1998, 247, wordt ingetrokken
 
-De Minister voor Rechtsbescherming,\
-Namens deze,\
-M. Schippers\
-Divisiedirecteur Gevangeniswezen en Vreemdelingenbewaring
+De Minister voor Rechtsbescherming, Namens deze,\
+M. Schippers Divisiedirecteur Gevangeniswezen en Vreemdelingenbewaring

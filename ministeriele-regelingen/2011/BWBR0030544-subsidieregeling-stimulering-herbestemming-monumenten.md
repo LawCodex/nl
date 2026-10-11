@@ -417,10 +417,8 @@ Deze regeling wordt aangehaald als: Subsidieregeling stimulering herbestemming m
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-H.Zijlstra
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+H. Zijlstra
 
 ## Bijlage 1 — Eisen inhoud verduurzamingsonderzoek
 

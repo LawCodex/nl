@@ -176,12 +176,9 @@ Dit besluit kan worden aangehaald als Reglement klachtencommissie sexuele intimi
 
 Den Haag 19 april 1995
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 Namens de Minister,
 
-De\
-Secretaris-Generaal\
-J.J.H.Suyver
+De Secretaris-Generaal\
+J.J.H. Suyver

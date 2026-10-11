@@ -45,12 +45,9 @@ Dit besluit, dat zal worden gepubliceerd in de Nederlandse Staatscourant, werkt 
 
 Den Haag 6 maart 2002
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschappen
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,
 
-namens deze, De\
-Algemene Rijksarchivaris\
-M.W. vanBoven
+namens deze, De Algemene Rijksarchivaris,\
+M.W. van Boven
 
 Een belanghebbende kan tegen dit besluit beroep instellen bij de rechtbank binnen het rechtsgebied waarvan hij zijn woonplaats heeft. Voordat hij beroep instelt, moet hij binnen zes weken na de inwerkingtreding van dit besluit bij de Staatssecretaris een bezwaarschrift indienen. Dit bezwaarschrift moet worden gestuurd naar CFI/FJZ, ter attentie van het secretariaat van de Commissie voor de bezwaarschriften, Postbus 606, 2700 ML Zoetermeer.

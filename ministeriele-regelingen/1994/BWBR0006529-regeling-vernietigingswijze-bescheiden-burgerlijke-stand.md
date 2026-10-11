@@ -41,6 +41,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 18 maart 1994
 
-De\
-Staatssecretaris\
-A.Kosto
+De Staatssecretaris voornoemd,\
+A. Kosto

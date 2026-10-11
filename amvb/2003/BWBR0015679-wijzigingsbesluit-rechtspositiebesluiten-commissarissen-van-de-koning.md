@@ -64,14 +64,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J. W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J. W. Remkes
 
 de vierde november 2003
 
-De\
-Minister\
-Justitie\
-J. P. H.Donner
+De Minister van Justitie,\
+J. P. H. Donner

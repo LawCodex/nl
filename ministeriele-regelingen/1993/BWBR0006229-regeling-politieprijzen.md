@@ -80,12 +80,8 @@ Deze regeling zal in het Algemeen Politieblad en met de toelichting in de Staats
 
 's-Gravenhage 4 november 1993
 
-De\
-Minister\
-Binnenlandse Zaken\
-C. I.Dales
+De Minister van Binnenlandse Zaken,\
+C. I. Dales
 
-De\
-Minister\
-Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -33,7 +33,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening in 
 
 Dit besluit zal, met uitzondering van de bijlagen, in de Staatscourant worden geplaatst. De bijlagen worden bekendgemaakt door terinzagelegging bij het Ministerie van Verkeer en Waterstaat, Plesmanweg 1-6 te Den Haag en bij de Nederlandse Onderneming voor Energie en Milieu, Catharijnesingel 59 te Utrecht.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

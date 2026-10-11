@@ -39,7 +39,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 30 januari 2001
 
-De\
-Staatssecretaris\
-Economische Zaken\
-G.Ybema
+De Staatssecretaris van Economische Zaken,\
+G. Ybema

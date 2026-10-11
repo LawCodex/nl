@@ -64,14 +64,10 @@ Dit besluit, dat zal worden geplaatst in de Staatscourant, treedt in werking de 
 
 Den Haag 7 april 1997
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
-De\
-Secretaris-Generaal
+De Secretaris-Generaal,
 
-Namens de\
-Minister
+Namens de Minister,
 
 H. C. J. L. Borghouts

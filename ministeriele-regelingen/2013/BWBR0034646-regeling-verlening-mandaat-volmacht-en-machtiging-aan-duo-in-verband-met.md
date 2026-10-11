@@ -31,9 +31,5 @@ Besluit:
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-M.J.Boereboom\
-Directeur generaal Werk
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+M.J. BoereboomDirecteur generaal Werk

@@ -54,9 +54,7 @@ Dit besluit zal met de daarbij behorende toelichting worden geplaatst in de Staa
 
 's-Gravenhage 16 september 1994
 
-De\
-Minister-President
+De Minister-President,
 
-Minister\
-Algemene Zaken\
-W.Kok
+Minister van Algemene Zaken,\
+W. Kok

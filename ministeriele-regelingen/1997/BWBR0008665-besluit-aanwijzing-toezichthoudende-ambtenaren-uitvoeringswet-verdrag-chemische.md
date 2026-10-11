@@ -39,7 +39,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 28 april 1997
 
-De\
-Staatssecretaris\
-Economische Zaken\
+De Staatssecretaris van Economische Zaken,\
 A. van Dok-Van Weele

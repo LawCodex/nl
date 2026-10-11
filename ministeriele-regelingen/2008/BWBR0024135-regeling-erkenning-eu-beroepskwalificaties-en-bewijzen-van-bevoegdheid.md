@@ -97,7 +97,5 @@ Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties e
 
 Deze regeling zal met de toelichting de in Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings

@@ -45,10 +45,8 @@ Deze regeling wordt aangehaald als: ‘Regeling certificaten middelbaar beroepso
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage 1 — behorend bij artikel 1
 

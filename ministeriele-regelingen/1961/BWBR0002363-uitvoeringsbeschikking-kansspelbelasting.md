@@ -60,12 +60,9 @@ De aanslagbiljetten van de naheffingsaanslagen worden in afwijking van artikel 8
 
 's-Gravenhage 30 oktober 1961
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Voor deze:
 
-De\
-directeur-generaal voor fiscale zaken in algemene dienst\
-C. P.Tuk
+De directeur-generaal voor fiscale zaken in algemene dienst,\
+C. P. Tuk

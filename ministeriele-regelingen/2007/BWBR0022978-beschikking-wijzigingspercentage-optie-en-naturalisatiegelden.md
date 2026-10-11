@@ -39,6 +39,5 @@ Deze beschikking treedt in werking op 1 januari 2008. Zij wordt aangehaald als: 
 
 Den Haag 29 november 2007
 
-De\
-Minister\
-E.M.H.Hirsch Ballin
+De Minister voornoemd,\
+E.M.H. Hirsch Ballin

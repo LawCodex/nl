@@ -37,12 +37,8 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-voor deze:\
-wnd. directeur Bestuurlijke en Financiële Organisatie\
-HermanSchartman
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de wnd. directeur Bestuurlijke en Financiële Organisatie,\
+Herman Schartman
 
 ## Bijlage 1 — De bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2006
 

@@ -65,7 +65,5 @@ Dit besluit zal in de Staatscourant worden geplaatst. Dit besluit treedt in werk
 
 Den Haag 5 november 2010
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-H.G.J.Kamp
+De Minister van Sociale Zaken en Werkgelegenheid,\
+H.G.J. Kamp

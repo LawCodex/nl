@@ -60,7 +60,5 @@ De Beschikking van de staatssecretaris van Financiën van 12 januari 1973, nr. B
 - a. met betrekking tot dividenden en interest: op opbrengsten die op of na 1 januari 1968 betaald of betaalbaar zijn gesteld;
 - b. met betrekking tot de overige inkomsten: op opbrengsten die behoren tot belastingjaren die op of na 1 januari 1968 aanvangen of aangevangen zijn.
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort

@@ -80,9 +80,5 @@ Dit besluit treedt in werking met ingang de tweede dag na dagtekening van de Sta
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-voor deze:\
-Directeur-Generaal Veiligheid\
-H.W.M.Schoof
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de Directeur-Generaal Veiligheid,\
+H.W.M. Schoof

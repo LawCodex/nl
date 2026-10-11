@@ -328,10 +328,8 @@ Deze regeling wordt aangehaald als: Regeling bewijzen van bevoegdheid en bevoegd
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
 ## Bijlage 1 — behorende bij artikel 4 van de Regelingen bewijzen van bevoegdheid voor de luchtvaart 2001
 

@@ -77,7 +77,5 @@ Afschrift van dit besluit dat wordt geplaatst in de Staatscourant wordt gezonden
 
 ’s-Gravenhage 24 mei 1996
 
-De\
-Minister\
-Nederlands-Antilliaanse en Arubaanse Zaken\
-J. J. C.Voorhoeve
+De Minister voor Nederlands-Antilliaanse en Arubaanse Zaken,\
+J. J. C. Voorhoeve

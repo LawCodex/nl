@@ -43,13 +43,10 @@ Dit besluit kan worden aangehaald als: Besluit vacatiegeld Raad van Advies Colle
 
 Den Haag 22 januari 2002
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze,
 
-de\
-directeur Strategie Rechtspleging
+de directeur Strategie Rechtspleging,
 
 J.A.A.A. Samson

@@ -37,6 +37,5 @@ Deze regeling treedt in werking met ingang van 1 januari 1993.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Hans J.Simons
+De Staatssecretaris voornoemd,\
+Hans J. Simons

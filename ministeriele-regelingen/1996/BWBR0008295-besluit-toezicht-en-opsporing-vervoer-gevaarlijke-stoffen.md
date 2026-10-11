@@ -80,7 +80,5 @@ Dit besluit wordt aangehaald als: Besluit toezicht en opsporing vervoer gevaarli
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. Tegen dit besluit staan voor belanghebbenden bezwaar en beroep open ingevolge de Algemene wet bestuursrecht. Het gemotiveerde bezwaarschrift moet binnen zes weken na de bekendmaking van deze beschikking worden ingediend bij de Minister van Verkeer en Waterstaat, t.a.v. het Directoraat-Generaal voor het Vervoer, Hoofdafdeling Transport Gevaarlijke Stoffen en Externe Veiligheid, postbus 20901, 2500 EX Den Haag.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

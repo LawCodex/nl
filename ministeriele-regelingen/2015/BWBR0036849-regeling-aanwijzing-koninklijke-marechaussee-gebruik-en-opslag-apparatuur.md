@@ -42,7 +42,5 @@ Deze regeling zal met de toelichting worden geplaatst in de Staatscourant.
 
 ´s-Gravenhage 30 juni 2015
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert

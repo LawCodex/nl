@@ -123,7 +123,5 @@ Ter uitvoering van artikel 1 is van Mexicaanse zijde de volgende regeling getrof
 
 3\. Zij vindt toepassing met betrekking tot interest en royalty’s, die betaald zijn of betaalbaar zijn gesteld op of na 1 januari 1995.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

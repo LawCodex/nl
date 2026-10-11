@@ -41,7 +41,5 @@ Voor de toepassing van artikel 9, eerste lid, van het Uitvoeringsbesluit loonbel
 
 2\. Deze regeling kan worden aangehaald als: Overgangsregeling loonbelasting 1984–1985.
 
-De\
-Staatssecretaris\
-Financiën\
-H. E.Koning
+De Staatssecretaris van Financiën,\
+H. E. Koning

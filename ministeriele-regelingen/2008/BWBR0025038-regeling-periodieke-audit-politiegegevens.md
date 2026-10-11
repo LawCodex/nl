@@ -145,17 +145,11 @@ Deze regeling wordt aangehaald als: Regeling periodieke audit politiegegevens.
 
 Deze regeling, met de daarbij behorende toelichting, zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
-De\
-Minister\
-Defensie\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop

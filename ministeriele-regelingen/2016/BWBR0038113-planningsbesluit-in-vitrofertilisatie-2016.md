@@ -63,10 +63,8 @@ Deze regeling wordt aangehaald als: Planningsbesluit in-vitrofertilisatie 2016.
 
 Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage 1
 

@@ -48,7 +48,5 @@ Het vervaardigen van reproducties van de archiefbescheiden geborgen onder de in 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de plv. Secretaris-Generaal,\
+De Minister van Volksgezondheid, Welzijn en Sport, namens deze, de plv. Secretaris-Generaal,\
 G.E.A. van Craaikamp

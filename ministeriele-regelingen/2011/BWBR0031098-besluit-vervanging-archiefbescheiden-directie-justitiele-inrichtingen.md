@@ -38,9 +38,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 19 november 2011
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze:\
-de hoofddirecteur Dienst Justitiële Inrichtingen,\
-P.Hennephof
+De Minister van Veiligheid en Justitie,namens deze:de hoofddirecteur Dienst Justitiële Inrichtingen,\
+P. Hennephof

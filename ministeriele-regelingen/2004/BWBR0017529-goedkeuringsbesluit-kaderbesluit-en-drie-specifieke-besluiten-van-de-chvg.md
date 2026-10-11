@@ -36,7 +36,5 @@ goed te keuren.
 
 Dit besluit zal samen met de desbetreffende besluiten van het College voor Huisartsgeneeskunde en Verpleeghuisgeneeskunde worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

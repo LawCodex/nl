@@ -70,7 +70,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 Den Haag 22 december 2006
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

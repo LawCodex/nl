@@ -39,7 +39,5 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthoudende ambtenaren
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten.
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten.

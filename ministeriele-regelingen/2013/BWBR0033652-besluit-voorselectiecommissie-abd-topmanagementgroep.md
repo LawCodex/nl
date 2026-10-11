@@ -73,7 +73,5 @@ Het Besluit Instelling Voorselectiecommissie Topmanagementgroep ABD (Stcrt. 2001
 
 ’s-Gravenhage 28 mei 2013
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok

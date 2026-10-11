@@ -56,13 +56,10 @@ Voor motorrijtuigen waarvoor door de inspecteur vóór 1 januari 1973 met toepas
 
 's-Gravenhage 27 december 1972
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën,\
 Mr. W. Scholten.
 
 Voor deze:
 
-De\
-directeur-generaal voor fiscale zaken in algemene dienst,\
+De directeur-generaal voor fiscale zaken in algemene dienst,\
 C. P. Tuk

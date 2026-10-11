@@ -54,7 +54,5 @@ Besluit:
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting geplaatst in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

@@ -37,6 +37,5 @@ Deze regeling, die met de bijbehorende toelichting in de Staatscourant zal worde
 
 's-Gravenhage 5 december 1994
 
-De\
-Minister\
-A. P. W.Melkert
+De Minister voornoemd,\
+A. P. W. Melkert

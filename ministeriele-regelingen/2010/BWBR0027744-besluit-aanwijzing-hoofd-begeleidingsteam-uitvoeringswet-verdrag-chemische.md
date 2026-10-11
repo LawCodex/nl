@@ -47,7 +47,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 7 juni 2010
 
-De\
-Minister\
-Economische Zaken,\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven

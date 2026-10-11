@@ -39,12 +39,9 @@ Dit besluit wordt geplaatst in de Staatscourant.
 
 Den Haag 31 december 2003
 
-De\
-Minister\
-Justitie
+De Minister van Justitie
 
 namens deze:
 
-de\
-Projectdirecteur Tolken en Vertalers\
-C.J. vanDijk
+de Projectdirecteur Tolken en Vertalers,\
+C.J. van Dijk

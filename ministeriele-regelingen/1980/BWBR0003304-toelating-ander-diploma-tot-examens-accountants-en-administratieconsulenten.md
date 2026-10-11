@@ -37,6 +37,5 @@ Tot het afleggen van het examen, bedoeld in artikel 60 van de Wet op de Accounta
 
 's-Gravenhage 25-3-1980
 
-De\
-Staatssecretaris\
-Th. M.Hazekamp
+De Staatssecretaris voornoemd,\
+Th. M. Hazekamp

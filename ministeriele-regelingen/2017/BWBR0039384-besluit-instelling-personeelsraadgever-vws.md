@@ -86,11 +86,7 @@ Dit besluit wordt aangehaald als Besluit instelling personeelsraadgever VWS.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de Secretaris-Generaal,\
-E.Gerritsen
+De Minister van Volksgezondheid, Welzijn en Sport,namens deze,de Secretaris-Generaal,\
+E. Gerritsen
 
 [^n1]: 1 Daar waar personeelsraadgever staat kan ook raadsman of raadsvrouw worden gelezen.

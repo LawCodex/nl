@@ -49,7 +49,5 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Den Haag 19 juni 2012
 
-De\
-Staatssecretaris\
-Economische Zaken, Landbouw en Innovatie,\
-H.Bleker
+De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,\
+H. Bleker

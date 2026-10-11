@@ -69,6 +69,5 @@ De beschikking van 13 mei 1983 kenmerk VO/WJ/BZ-614.286 wordt ingetrokken.
 
 Deze beschikking, die bekend zal worden gemaakt in de Nederlandse Staatscourant, treedt in werking met ingang van 1 augustus 1984.
 
-De\
-staatssecretaris\
-N. J.Ginjaar-Maas
+De staatssecretaris voornoemd,\
+N. J. Ginjaar-Maas

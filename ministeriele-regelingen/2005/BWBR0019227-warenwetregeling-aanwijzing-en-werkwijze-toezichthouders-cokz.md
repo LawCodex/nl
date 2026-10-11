@@ -76,7 +76,5 @@ Deze regeling wordt aangehaald als: Warenwetregeling aanwijzing en werkwijze toe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

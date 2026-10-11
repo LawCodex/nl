@@ -39,7 +39,5 @@ Dit besluit wordt aangehaald als: Vacatiegeldenbesluit Toetsingscommissie Getuig
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker

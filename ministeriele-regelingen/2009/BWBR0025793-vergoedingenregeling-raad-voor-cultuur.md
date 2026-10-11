@@ -52,7 +52,5 @@ Deze regeling wordt aangehaald als: Vergoedingenregeling Raad voor cultuur.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-R.H.A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.H.A. Plasterk

@@ -57,12 +57,9 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 19 augustus 1999
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 Namens deze,
 
-Het\
-Hoofd Algemene Secretarie\
+Het Hoofd Algemene Secretarie,\
 J.Ch.P. Simons

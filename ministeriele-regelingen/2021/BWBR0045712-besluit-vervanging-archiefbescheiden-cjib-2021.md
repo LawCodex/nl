@@ -71,7 +71,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Leeuwarden 18 augustus 2021
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-De Algemeen Directeur van het Centraal Justitieel Incassobureau van het Ministerie van Justitie en Veiligheid,\
+De Minister van Justitie en Veiligheid, namens deze, De Algemeen Directeur van het Centraal Justitieel Incassobureau van het Ministerie van Justitie en Veiligheid,\
 A. Hazelhoff

@@ -39,7 +39,5 @@ Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in de
 
 Beatrix
 
-De\
-minister\
-Justitie\
-E. M. H.Hirsch Ballin
+De minister van Justitie,\
+E. M. H. Hirsch Ballin

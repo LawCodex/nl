@@ -128,7 +128,5 @@ Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die 
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

@@ -78,10 +78,8 @@ Het Besluit mandaat Regeling Nadeelcompensatie Betuweroute van 20 november 1996 
 
 2\. Indien het bij koninklijke boodschap van 14 december 2004 ingediende voorstel van wet tot aanvulling van de Algemene wet bestuursrecht met de mogelijkheid van dwangsom bij niet tijdig beslissen door een bestuursorgaan (Wet dwangsom bij niet tijdig beslissen, 29934, nadat het tot wet is verheven, in werking treedt, treden de artikelen 3 en 7, op hetzelfde tijdstip in werking.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
 ## Bijlage. Algemene instructie uitoefening mandaat
 
@@ -122,7 +120,5 @@ Het bezwaarschrift dient te zijn ondertekend en ten minste het volgende te bevat
 - c. een omschrijving van het besluit waartegen het bezwaarschrift zich richt (datum en nummer of kenmerk);
 - d. een opgave van de redenen waarom men zich met het besluit niet kan verenigen.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings

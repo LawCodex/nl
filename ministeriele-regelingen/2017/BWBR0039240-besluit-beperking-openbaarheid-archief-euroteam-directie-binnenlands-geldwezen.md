@@ -69,9 +69,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 17 februari 2017
 
-De\
-Minister\
-Financiën,\
-namens deze:\
-De secretaris-generaal,\
-M.R.Leijten
+De Minister van Financiën,namens deze:De secretaris-generaal,\
+M.R. Leijten

@@ -39,7 +39,5 @@ Deze beschikking treedt in werking op 1 januari 2014. Zij wordt aangehaald als: 
 
 Den Haag 26 juli 2013
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

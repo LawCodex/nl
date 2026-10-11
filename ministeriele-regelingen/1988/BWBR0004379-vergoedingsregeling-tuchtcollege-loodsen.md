@@ -72,12 +72,8 @@ Deze regeling zal worden geplaatst in de Nederlands Staatscourant en in afschrif
 
 's-Gravenhage 18 augustus 1988
 
-De\
-minister\
-Verkeer en Waterstaat\
-N.Smit- Kroes
+De minister van Verkeer en Waterstaat,\
+N. Smit- Kroes
 
-De\
-minister\
-Justitie\
-F.Korthals Altes
+De minister van Justitie,\
+F. Korthals Altes

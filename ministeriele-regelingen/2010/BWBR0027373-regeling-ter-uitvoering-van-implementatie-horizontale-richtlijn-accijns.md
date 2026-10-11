@@ -35,7 +35,5 @@ Artikel III, eerste lid, van het Besluit van 23 december 2009, Stb. 2009, 614, i
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-J.C. deJager
+De Minister van Financiën,\
+J.C. de Jager

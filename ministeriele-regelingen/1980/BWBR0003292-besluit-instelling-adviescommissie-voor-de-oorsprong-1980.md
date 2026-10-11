@@ -69,17 +69,11 @@ Dit besluit kan worden aangehaald als; Besluit instelling adviescommissie voor d
 
 's-Gravenhage 30 januari 1980
 
-De\
-Staatssecretaris\
-Economische Zaken\
-K. H.Beyen
+De Staatssecretaris van Economische Zaken,\
+K. H. Beyen
 
-De\
-Staatssecretaris\
-Financiën\
-A.Nooteboom
+De Staatssecretaris van Financiën.\
+A. Nooteboom
 
-De\
-Minister\
-Landbouw en Visserij\
-A. P. J. M. M. van derStee
+De Minister van Landbouw en Visserij,\
+A. P. J. M. M. van der Stee

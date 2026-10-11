@@ -76,10 +76,8 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 Den Haag 30 maart 2005
 
-De\
-Minister\
-Economische Zaken\
-L.J.Brinkhorst
+De Minister van Economische Zaken,\
+L.J. Brinkhorst
 
 ## Bijlage
 

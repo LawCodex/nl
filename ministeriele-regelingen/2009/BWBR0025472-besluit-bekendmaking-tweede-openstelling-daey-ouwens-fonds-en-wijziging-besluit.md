@@ -41,9 +41,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Ontwikkelingssamenwerking\
-namens deze:\
-Directeur-Generaal Internationale Samenwerking\
-J.M.G.Brandt
+De Minister voor Ontwikkelingssamenwerking, namens deze:de Directeur-Generaal Internationale Samenwerking ,\
+J.M.G. Brandt

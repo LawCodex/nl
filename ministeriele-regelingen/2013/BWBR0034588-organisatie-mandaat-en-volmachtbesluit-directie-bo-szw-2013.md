@@ -165,9 +165,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 17 december 2013
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-Namens deze,\
-De directeur Bestuursondersteuning,\
-N. deGroot
+De Minister van Sociale Zaken en Werkgelegenheid,Namens deze,De directeur Bestuursondersteuning,\
+N. de Groot

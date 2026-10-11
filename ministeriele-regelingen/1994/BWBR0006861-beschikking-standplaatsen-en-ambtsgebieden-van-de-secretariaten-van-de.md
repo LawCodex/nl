@@ -61,12 +61,9 @@ Afschriften van deze beschikking worden gezonden aan gedeputeerde staten der ond
 
 's-Gravenhage 8 augustus 1994
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 voor deze:
 
-De\
-secretaris-generaal\
-R. denDunnen
+De secretaris-generaal,\
+R. den Dunnen

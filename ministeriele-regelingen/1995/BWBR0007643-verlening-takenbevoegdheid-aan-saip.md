@@ -45,7 +45,5 @@ De SAIP wordt de bevoegdheid verleend om namens de Minister van Binnenlandse Zak
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken\
+De Minister van Binnenlandse Zaken,\
 H. F. Dijkstal

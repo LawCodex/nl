@@ -86,10 +86,6 @@ Dit besluit wordt aangehaald als: Mandaatbesluit boeten en dwangsommen toezicht 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-namens deze,\
-De Directeur Financiële Markten
+De Minister van Financiën, namens deze, De Directeur Financiële Markten,
 
 J.J.M. Kremers

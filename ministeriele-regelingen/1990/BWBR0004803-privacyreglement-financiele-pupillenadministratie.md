@@ -183,13 +183,9 @@ Rechtstreekse toegang tot de registratie en zelfstandige raadpleging van de daar
 
 's-Gravenhage 25 juni 1990
 
-De\
-staatssecretaris\
-Justitie
+De staatssecretaris van Justitie,
 
-namens de\
-staatssecretaris
+namens de staatssecretaris,
 
-De\
-Directeur-Generaal Jeugdbescherming en Delinkwentenzorg\
-mr H. B.Greven
+De Directeur-Generaal Jeugdbescherming en Delinkwentenzorg\
+mr H. B. Greven

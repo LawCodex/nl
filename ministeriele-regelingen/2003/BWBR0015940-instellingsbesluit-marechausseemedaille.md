@@ -93,7 +93,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 november 2003
 
-De\
-Minister\
-Defensie\
-H.G.J.Kamp
+De Minister van Defensie\
+H.G.J. Kamp

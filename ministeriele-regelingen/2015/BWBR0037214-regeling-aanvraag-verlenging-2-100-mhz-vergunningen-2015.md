@@ -74,10 +74,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 17 november 2015
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp
 
 ## Bijlage — behorende bij artikel 2, vierde lid, van de Regeling aanvraag verlenging 2.100 MHz-vergunningen 2015
 

@@ -45,14 +45,10 @@ Gegeven te 's-Gravenhage 18 maart 2004
 
 Beatrix
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-M. C. van derLaan
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+M. C. van der Laan
 
 de *eenendertigste* maart 2004
 
-De\
-Minister\
-Justitie\
-J. P. H.Donner
+De Minister van Justitie,\
+J. P. H. Donner

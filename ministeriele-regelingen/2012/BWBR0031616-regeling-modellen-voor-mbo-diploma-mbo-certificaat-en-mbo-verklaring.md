@@ -97,10 +97,8 @@ Deze regeling wordt aangehaald als: Regeling modellen voor mbo-diploma, mbo-cert
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-J.M. vanBijsterveldt-Vliegenthart
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart
 
 ## Bijlage 1 — behorende bij artikel 3, eerste lid, van de Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 

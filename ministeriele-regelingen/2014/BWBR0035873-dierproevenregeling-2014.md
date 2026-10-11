@@ -197,10 +197,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 3 december 2014
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma
 
 ## Bijlage 1 — behorende bij artikel 2, eerste lid, van de Dierproevenregeling 2014
 

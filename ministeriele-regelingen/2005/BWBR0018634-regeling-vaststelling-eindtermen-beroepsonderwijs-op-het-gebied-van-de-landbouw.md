@@ -54,15 +54,12 @@ Deze regeling wordt aangehaald als: Regeling vaststelling eindtermen beroepsonde
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit
+De Minister van Landbouw, Natuur en Voedselkwaliteit,
 
 namens deze:
 
-de\
-Directeur-Generaal\
-R.M.Bergkamp
+de Directeur-Generaal,\
+R.M. Bergkamp
 
 ## Bijlage
 

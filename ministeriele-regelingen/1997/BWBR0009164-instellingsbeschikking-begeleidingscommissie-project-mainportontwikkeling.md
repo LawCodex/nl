@@ -85,7 +85,5 @@ De commissie regelt haar werkzaamheden naar eigen inzicht.
 
 Deze beschikking zal bekend worden gemaakt in de Staatscourant en in afschrift worden gezonden aan belanghebbenden.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

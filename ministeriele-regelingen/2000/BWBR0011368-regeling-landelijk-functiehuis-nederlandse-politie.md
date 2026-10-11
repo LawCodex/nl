@@ -37,7 +37,5 @@ Deze regeling wordt aangehaald als: Regeling Landelijk Functiehuis Nederlandse P
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-K.G. deVries
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.G. de Vries

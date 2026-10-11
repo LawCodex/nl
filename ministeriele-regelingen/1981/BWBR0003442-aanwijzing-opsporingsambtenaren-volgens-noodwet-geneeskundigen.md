@@ -35,6 +35,5 @@ Dit besluit wordt met de daarbij behorende toelichting in de Nederlandse Staatsc
 
 's-Gravenhage 30 september 1981
 
-De\
-Minister\
+De Minister voornoemd,\
 J. de Ruiter

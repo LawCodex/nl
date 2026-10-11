@@ -47,10 +47,8 @@ Dit Besluit, waarvan afschrift wordt gezonden aan de Hoge Raad van Adel, wordt m
 
 's-Gravenhage 6 december 2001
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
 ## Bijlage
 

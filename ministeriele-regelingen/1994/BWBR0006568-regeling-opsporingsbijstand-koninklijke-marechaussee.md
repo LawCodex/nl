@@ -57,7 +57,5 @@ Deze regeling zal worden gepubliceerd in het Staatscourant en het Algemeen Polit
 
 's-Gravenhage 29 maart 1994
 
-De\
-Minister\
-Justitie\
-E. vanThijn
+De Minister van Justitie, a.i.\
+E. van Thijn

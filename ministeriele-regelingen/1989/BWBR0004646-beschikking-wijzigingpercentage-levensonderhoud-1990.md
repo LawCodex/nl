@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingpercentage leve
 
 's-Gravenhage 10 november 1989
 
-De\
-staatssecretaris\
+De staatssecretaris voornoemd,\
 A. Kosto

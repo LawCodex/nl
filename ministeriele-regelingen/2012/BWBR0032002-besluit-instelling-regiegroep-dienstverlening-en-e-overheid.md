@@ -78,7 +78,5 @@ Het besluit van 9 oktober 2007/Nr. 0000337648, Instellingsbeschikking Regiegroep
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.W.E.Spies
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W.E. Spies

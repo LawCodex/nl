@@ -45,7 +45,5 @@ Dit besluit wordt aangehaald als: Besluit tijdelijk voor toekenning beschikbaar 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken\
-L.J.Brinkhorst
+De Minister van Economische Zaken,\
+L.J. Brinkhorst

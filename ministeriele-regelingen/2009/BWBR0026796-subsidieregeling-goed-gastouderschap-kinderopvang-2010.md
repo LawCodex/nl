@@ -181,7 +181,5 @@ Deze regeling wordt aangehaald als: Subsidieregeling goed gastouderschap kindero
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-S.A.M.Dijksma
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S.A.M. Dijksma

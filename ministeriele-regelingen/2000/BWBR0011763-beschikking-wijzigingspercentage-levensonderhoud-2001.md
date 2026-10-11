@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingspercentage lev
 
 Den Haag 6 november 2000
 
-De\
-Staatssecretaris\
-M.J.Cohen
+De Staatssecretaris voornoemd,\
+M.J. Cohen

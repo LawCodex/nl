@@ -395,8 +395,7 @@ Dit besluit wordt aangehaald als: Organisatiebesluit Directoraten-Generaal Belas
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-B. van den Dungen\
-Secretaris-generaal
+B. van den Dungen Secretaris-generaal
 
 [^n1]: 1 In het O&F-rapport genoemd: Directie Interactie en Dienstverlening resp. Directie Operatie
 

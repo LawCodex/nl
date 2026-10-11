@@ -51,7 +51,5 @@ Wijzigt de Regeling innovatiebox beroepsonderwijs 2006 tot en met 2009.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-J.M. vanBijsterveldt-Vliegenthart
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart

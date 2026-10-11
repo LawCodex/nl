@@ -33,6 +33,5 @@ Dit besluit treedt in werking met ingang van de dag van plaatsing in de *Staatsc
 
 's-Gravenhage 10 juli 1969
 
-De\
-Minister\
-B.Roolvink
+De Minister voornoemd,\
+B. Roolvink

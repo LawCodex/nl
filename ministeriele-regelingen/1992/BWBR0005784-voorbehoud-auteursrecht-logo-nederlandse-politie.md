@@ -39,12 +39,8 @@ Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de 
 
 's-Gravenhage 23 december 1992
 
-De\
-Minister\
-Justitie\
-C. I.Dales
+De Minister van Justitie, a.i.\
+C. I. Dales.
 
-De\
-Minister\
-Binnenlandse Zaken\
-C. I.Dales
+De Minister van Binnenlandse Zaken,\
+C. I. Dales

@@ -178,7 +178,5 @@ Deze regeling kan worden aangehaald als: Collectieve Schadecompensatieregeling M
 
 's-Gravenhage 6 mei 1986
 
-De\
-minister\
-Verkeer en Waterstaat\
-N.Smit-Kroes
+De minister van Verkeer en Waterstaat,\
+N. Smit-Kroes

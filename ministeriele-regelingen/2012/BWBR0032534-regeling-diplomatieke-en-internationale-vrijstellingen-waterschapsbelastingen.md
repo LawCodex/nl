@@ -114,12 +114,8 @@ Deze regeling wordt aangehaald als: Regeling diplomatieke en internationale vrij
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus.
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus.
 
-De\
-Staatssecretaris\
-Financiën,\
-F.H.H.Weekers.
+De Staatssecretaris van Financiën,\
+F.H.H. Weekers.

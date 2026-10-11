@@ -43,7 +43,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 17 januari 2013
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

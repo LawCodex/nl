@@ -104,7 +104,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 18 november 2016
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-J.Klijnsma
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma

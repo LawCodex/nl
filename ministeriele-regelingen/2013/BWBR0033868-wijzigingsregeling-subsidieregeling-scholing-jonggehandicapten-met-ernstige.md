@@ -41,7 +41,5 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Den Haag 10 september 2013
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-J.Klijnsma
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma

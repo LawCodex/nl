@@ -51,7 +51,5 @@ Vast te stellen de in de bijlage dezes vervatte methodiek ter bepaling van de ge
 
 's-Gravenhage 12 december 2001
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.W.Remkes
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.W. Remkes

@@ -70,7 +70,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 20 juni 2007
 
-De\
-Minister-President, Minister\
-Algemene Zaken\
-J.P.Balkenende
+De Minister-President, Minister van Algemene Zaken,\
+J.P. Balkenende

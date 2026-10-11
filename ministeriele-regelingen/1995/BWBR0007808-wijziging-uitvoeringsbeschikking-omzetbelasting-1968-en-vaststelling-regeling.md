@@ -49,7 +49,5 @@ Indien op het tijdstip waarop de Wet van 18 december 1995, Stb. 659, in werking 
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt voor artikel I terug tot en met 31 maart 1995, 18.00 uur.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

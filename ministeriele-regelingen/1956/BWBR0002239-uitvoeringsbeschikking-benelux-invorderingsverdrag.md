@@ -54,15 +54,12 @@ De kosten van vervolging voor de invordering hier te lande van een Belgische of 
 
 's-Gravenhage 10 december 1956
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 Voor de minister:
 
-De\
-directeur-generaal voor fiscale zaken in algemene dienst\
-A. J. van denTempel
+De directeur-generaal voor fiscale zaken in algemene dienst,\
+A. J. van den Tempel
 
 ## Bijlage
 

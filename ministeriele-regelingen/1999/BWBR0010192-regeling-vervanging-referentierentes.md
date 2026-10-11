@@ -47,7 +47,5 @@ De artikelen 3 en 4 vervallen met ingang van 1 januari 2002.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
+De Minister van Financiën,\
 G. Zalm

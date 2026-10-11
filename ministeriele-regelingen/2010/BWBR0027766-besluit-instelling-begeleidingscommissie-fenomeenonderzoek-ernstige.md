@@ -97,7 +97,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 Den Haag 4 juni 2010
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-E.M.H.Hirsch Ballin
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+E.M.H. Hirsch Ballin

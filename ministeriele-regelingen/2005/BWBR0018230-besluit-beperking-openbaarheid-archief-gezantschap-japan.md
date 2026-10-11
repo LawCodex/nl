@@ -60,10 +60,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het gezantschap te Japan (Tokio) (1880) 1923–1941 (1942) en de diplomatieke vertegenwoordiging te Japan (Tokio), 1946–1954’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

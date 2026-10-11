@@ -43,6 +43,5 @@ Afschrift van deze beschikking zal worden gezonden volgens de als bijlage bij de
 
 's-Gravenhage 26 juni 1986
 
-De\
-minister\
-J. deRuiter
+De minister voornoemd,\
+J. de Ruiter

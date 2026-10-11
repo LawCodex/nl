@@ -77,7 +77,5 @@ Dit besluit wordt aangehaald als: OCW-mandaatbesluit Europese beroepskaartproced
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

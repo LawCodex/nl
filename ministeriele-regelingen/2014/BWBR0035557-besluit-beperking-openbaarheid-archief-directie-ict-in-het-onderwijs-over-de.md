@@ -48,9 +48,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Directie ICT in het Onderwijs over de periode 1997–2005’.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de programmadirecteur Bedrijfsvoering OCW,\
-J.H.J.Kruuk
+De Minister van Onderwijs, Cultuur en Wetenschap,namens deze,de programmadirecteur Bedrijfsvoering OCW,\
+J.H.J. Kruuk

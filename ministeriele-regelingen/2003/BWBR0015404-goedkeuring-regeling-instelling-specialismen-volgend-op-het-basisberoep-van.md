@@ -35,7 +35,5 @@ De titels, verbonden aan de specialismen die krachtens de in het eerste lid van 
 
 Dit besluit en de regeling inzake de instelling van specialismen volgend op het basisberoep van gezondheidszorgpsycholoog zullen in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

@@ -41,7 +41,5 @@ Deze regeling treedt in werking op 1 januari 1990 en zal worden geplaatst in de 
 
 's-Gravenhage 9 juni 1989
 
-De\
-minister\
-Verkeer en Waterstaat\
-N.Smit-Kroes
+De minister van Verkeer en Waterstaat,\
+N. Smit-Kroes

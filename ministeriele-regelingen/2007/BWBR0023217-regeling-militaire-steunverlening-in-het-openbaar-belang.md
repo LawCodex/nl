@@ -119,7 +119,5 @@ Deze regeling wordt aangehaald als Regeling militaire steunverlening in het open
 
 Den Haag 19 december 2007
 
-De\
-Minister\
-Defensie\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop

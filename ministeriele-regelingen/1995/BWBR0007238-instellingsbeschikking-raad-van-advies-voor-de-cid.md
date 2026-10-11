@@ -98,22 +98,16 @@ Deze beschikking zal worden gepubliceerd in de Staatscourant en in het Algemeen 
 
 's-Gravenhage 15 februari 1995
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 Namens de Minister,
 
-Het\
-Hoofd van de Directie Politie\
-H.P.Wooldrik
+Het Hoofd van de Directie Politie,\
+H.P. Wooldrik
 
-De\
-Minister\
-Binnenlandse Zaken
+De Minister van Binnenlandse Zaken,
 
 Namens de Minister,
 
-De\
-Directeur Politie\
-J.Kapsenberg
+De Directeur Politie,\
+J. Kapsenberg

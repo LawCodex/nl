@@ -101,7 +101,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 15 juni 2017
 
-De Staatssecretaris van Veiligheid en Justitie,\
-namens deze,\
-S.L. de Koning\
-Wnd. afdelingsmanager V&T
+De Staatssecretaris van Veiligheid en Justitie, namens deze,\
+S.L. de Koning Wnd. afdelingsmanager V&T

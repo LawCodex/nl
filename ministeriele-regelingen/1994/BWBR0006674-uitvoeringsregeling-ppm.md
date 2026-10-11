@@ -43,9 +43,7 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 's-Gravenhage 16 mei 1994
 
-De\
-minister\
-Economische Zaken\
+De minister van Economische Zaken,\
 J.E. Andriessen
 
 [^n1]: 1 De terinzagelegging geschiedt bij het ministerie van Economische Zaken, Directie Voorlichting, Bezuidenhoutseweg 30, 's-Gravenhage.

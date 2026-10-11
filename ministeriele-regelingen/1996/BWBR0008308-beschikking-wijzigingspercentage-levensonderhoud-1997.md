@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingsper-centage le
 
 ’s-Gravenhage 31 oktober 1996
 
-De\
-Staatssecretaris\
+De Staatssecretaris voornoemd,\
 E.M.A. Schmitz

@@ -43,7 +43,5 @@ De Nederlandse Zorgautoriteit stelt met ingang van 1 januari 2009 prestatiebesch
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-J.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+J. Bussemaker

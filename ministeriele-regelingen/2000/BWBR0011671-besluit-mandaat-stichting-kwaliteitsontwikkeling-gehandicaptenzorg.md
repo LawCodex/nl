@@ -86,6 +86,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-A.M.Vliegenthart
+De Staatssecretaris voornoemd,\
+A.M. Vliegenthart

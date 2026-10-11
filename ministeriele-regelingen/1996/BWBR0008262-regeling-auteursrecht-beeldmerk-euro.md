@@ -35,7 +35,5 @@ Deze regeling treedt in werking met ingang van 7 oktober 1996.
 
 Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die vanaf 15 oktober 1996 ter inzage worden gelegd op de Afdeling Bibliotheek en Documentatie van het Ministerie van Financiën.
 
-De\
-Minister\
-Financiën\
-W.Kok
+De Minister van Financiën a.i.,\
+W. Kok

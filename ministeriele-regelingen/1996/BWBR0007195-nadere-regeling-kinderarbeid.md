@@ -382,7 +382,6 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 13 december 1995
 
-De\
-Minister
+De Minister voornoemd,
 
 A.P.W. Melkert

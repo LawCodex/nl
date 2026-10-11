@@ -61,10 +61,8 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ’s-Gravenhage 12 december 2013
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven
 
 ## Bijlage
 

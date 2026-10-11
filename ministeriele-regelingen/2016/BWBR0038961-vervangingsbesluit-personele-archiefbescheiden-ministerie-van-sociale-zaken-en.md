@@ -49,12 +49,8 @@ Deze regeling wordt met bijlage in de Staatscourant geplaatst met uitzondering v
 
 Den Haag 23 november 2016
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-I.D.Nijboer,\
-Plv. Secretaris-generaal
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+I.D. Nijboer,Plv. Secretaris-generaal
 
 ## Bijlage
 

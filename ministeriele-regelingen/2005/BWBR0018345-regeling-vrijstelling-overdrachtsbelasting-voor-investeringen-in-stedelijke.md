@@ -60,7 +60,5 @@ De belasting die door toepassing van deze regeling niet is geheven, is alsnog ve
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.G.Wijn
+De Staatssecretaris van Financiën,\
+J.G. Wijn

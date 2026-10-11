@@ -582,7 +582,5 @@ Deze regeling wordt aangehaald als: OCW-intrekkingsregeling 2004.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-M.J.A. van derHoeven
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M.J.A. van der Hoeven

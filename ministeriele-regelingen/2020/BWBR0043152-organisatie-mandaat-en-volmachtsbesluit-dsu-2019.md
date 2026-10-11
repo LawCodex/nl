@@ -247,7 +247,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 3 februari 2020
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-W.L.J. van de Griendt\
-Directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze,\
+W.L.J. van de Griendt Directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering

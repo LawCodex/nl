@@ -41,7 +41,5 @@ Deze regeling wordt aangehaald als: Regeling vaststelling premiepercentage AWBZ 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-J.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+J. Bussemaker

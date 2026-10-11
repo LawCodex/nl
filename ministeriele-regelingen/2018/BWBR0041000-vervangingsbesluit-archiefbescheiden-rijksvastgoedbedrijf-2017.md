@@ -53,7 +53,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 1 juni 2018
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
-namens deze,\
-J.J.C.M. Gudde\
-Chief Information Officer BZK
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze,\
+J.J.C.M. Gudde Chief Information Officer BZK

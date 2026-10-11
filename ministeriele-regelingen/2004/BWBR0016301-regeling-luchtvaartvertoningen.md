@@ -446,9 +446,7 @@ Deze regeling wordt aangehaald als: Regeling luchtvaartvertoningen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
+De Staatssecretaris van Verkeer en Waterstaat,\
 M.H. Schultz van Haegen
 
 ## Bijlage

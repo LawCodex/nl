@@ -43,7 +43,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 29 mei 2018
 
-De Minister van Onderwijs, Cultuur en Wetenschap,\
-Voor deze,\
-De Algemene Rijksarchivaris,\
+De Minister van Onderwijs, Cultuur en Wetenschap, Voor deze, De Algemene Rijksarchivaris,\
 M.L. Engelhard

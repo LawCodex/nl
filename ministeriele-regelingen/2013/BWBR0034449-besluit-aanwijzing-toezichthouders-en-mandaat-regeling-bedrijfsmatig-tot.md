@@ -67,10 +67,8 @@ Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en mandaat 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld
 
 ## Bijlage 1 — bedoeld in artikel 1
 

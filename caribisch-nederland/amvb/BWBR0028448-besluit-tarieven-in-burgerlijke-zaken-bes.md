@@ -33,7 +33,7 @@ In dit besluit wordt verstaan onder:
 
 Dit besluit berust op artikel 59 van de Rijkswet Gemeenschappelijk Hof van Justitie.
 
-### afdeling Eerste — Deurwaarders
+### Eerste afdeling — Deurwaarders
 
 #### Artikel 2
 
@@ -113,7 +113,7 @@ Aan ieder van de getuigen die de deurwaarder moet vergezellen wordt de helft van
 - k. de eerste vrijdag in de maand december voor wat betreft het openbaar lichaam Saba;
 - l. elke andere dag bij besluit aangewezen.
 
-### afdeling Tweede — Bewaarders, deskundigen, getuigen en tolken
+### Tweede afdeling — Bewaarders, deskundigen, getuigen en tolken
 
 #### Artikel 9
 
@@ -159,7 +159,7 @@ De vergoeding voor schriftelijke vertalingen bedraagt 28 USD per pagina vertalin
 
 Voor niet-beroepstolken en niet-beroepsvertalers worden de vergoedingen, als bedoeld in de artikelen 16 en 17, gesteld op 70% van de daarin genoemde bedragen.
 
-### afdeling Derde — Heffing van rechten
+### Derde afdeling — Heffing van rechten
 
 #### § 1 — Vast recht
 

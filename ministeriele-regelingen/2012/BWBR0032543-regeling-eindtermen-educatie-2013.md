@@ -70,10 +70,8 @@ Deze regeling wordt aangehaald als: Regeling eindtermen educatie 2013.
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-J.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+J. Bussemaker
 
 ## Bijlagen — Vaststelling eindtermen Nederlandse taal en rekenen
 

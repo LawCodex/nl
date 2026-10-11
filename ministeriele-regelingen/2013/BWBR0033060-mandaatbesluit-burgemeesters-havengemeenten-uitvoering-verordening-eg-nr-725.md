@@ -56,7 +56,5 @@ Dit besluit wordt aangehaald als: Mandaatbesluit burgemeesters havengemeenten ui
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen

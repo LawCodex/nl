@@ -42,7 +42,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 16 oktober 2009
 
-De\
-Staatssecretaris\
-Defensie,\
-J.G.de Vries
+De Staatssecretaris van Defensie,\
+J.G. de Vries

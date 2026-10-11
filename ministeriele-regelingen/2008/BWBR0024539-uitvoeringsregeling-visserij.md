@@ -1101,10 +1101,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
 Den Haag 19 september 2008
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
 ## Bijlage 1 — Vissen, schaal- en schelpdieren, bedoeld in artikel 1, tweede lid, onderdelen a en b, van de wet, behorend bij artikel 2
 

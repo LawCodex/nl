@@ -248,6 +248,5 @@ Deze regeling wordt aangehaald als: Warenwetregeling containers.
 
 's-Gravenhage 28 januari 1985
 
-De\
-staatssecretaris\
-A.Kappeyne van de Coppello
+De staatssecretaris voornoemd,\
+A. Kappeyne van de Coppello

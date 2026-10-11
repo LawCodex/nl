@@ -54,7 +54,5 @@ Deze regeling kan worden aangehaald als: Regeling aanwijzing opsporingsambtenare
 
 's-Gravenhage 14 december 1989
 
-De\
-minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen

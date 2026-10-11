@@ -75,7 +75,5 @@ Dit besluit berust tevens op de artikelen 62, eerste en tweede lid, 64, eerste l
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 T. Netelenbos

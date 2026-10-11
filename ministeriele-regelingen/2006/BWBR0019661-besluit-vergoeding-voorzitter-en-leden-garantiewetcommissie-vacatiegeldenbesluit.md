@@ -33,9 +33,5 @@ Besluit:
 
 Dit besluit zal in de Staatscourant worden geplaatst. Van dit besluit zal afschrift worden gezonden aan: de Garantiewetcommissie; de Directeur Financieel Economische Zaken en Control; de Directeur Financiële Bedrijfsvoering.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-voor deze:\
-Directeur Arbeidszaken Openbare Sector\
-C.J.A.Maas
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de Directeur Arbeidszaken Openbare Sector,\
+C.J.A. Maas

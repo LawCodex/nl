@@ -328,7 +328,5 @@ Deze regeling wordt aangehaald als: Regeling vaststelling correcties voorschotve
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp

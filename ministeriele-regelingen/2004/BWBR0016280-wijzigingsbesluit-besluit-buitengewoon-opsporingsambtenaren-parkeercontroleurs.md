@@ -49,9 +49,7 @@ Dit besluit zal met de toelichting in de Staatscourant en het Algemeen Politiebl
 
 Den Haag 14 januari 2004
 
-De\
-Minister\
-Justitie
+De Minister van Justitie
 
 namens deze: de coördinator Buitengewoon Opsporingsambtenaar,\
-A.A.A.M.Huldy
+A.A.A.M. Huldy

@@ -51,9 +51,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage, met uitzondering van de appendices bij die bijlage, in de Staatscourant worden geplaatst. De appendices bij de bijlage worden via internet bekend gemaakt.[^n2]
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de plaatsvervangend directeur-generaal Internationale Samenwerking,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de plaatsvervangend directeur-generaal Internationale Samenwerking,\
 R.M. Buijs
 
 ## Bijlage — – Fonds European Partnership for Responsible Minerals (EPRM)

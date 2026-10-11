@@ -41,7 +41,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 17 december 2010
 
-De\
-Staatssecretaris\
-Economische Zaken, Landbouw en Innovatie\
-H.Bleker
+De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,\
+H. Bleker

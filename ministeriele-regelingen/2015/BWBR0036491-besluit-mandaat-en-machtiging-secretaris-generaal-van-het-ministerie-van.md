@@ -51,7 +51,5 @@ Dit besluit zal in de Staatcourant worden geplaatst.
 
 ’s-Gravenhage 30 maart 2015
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp

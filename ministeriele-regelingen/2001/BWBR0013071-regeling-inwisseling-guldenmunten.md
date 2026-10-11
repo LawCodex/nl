@@ -49,7 +49,5 @@ Deze regeling treedt in werking met ingang van de dag waarop de Muntwet 1987 wor
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-W.J.Bos
+De Staatssecretaris van Financiën,\
+W.J. Bos

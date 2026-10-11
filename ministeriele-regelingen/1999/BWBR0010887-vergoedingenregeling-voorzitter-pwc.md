@@ -53,7 +53,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 23 november 1999
 
-De\
-Minister\
-Economische Zaken\
-A.Jorritsma-Lebbink
+De Minister van Economische Zaken,\
+A. Jorritsma-Lebbink

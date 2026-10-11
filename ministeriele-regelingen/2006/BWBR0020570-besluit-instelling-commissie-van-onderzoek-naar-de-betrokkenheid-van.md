@@ -95,7 +95,5 @@ Dit besluit wordt aangehaald als: Besluit instelling Commissie van onderzoek naa
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Defensie\
-H.G.J.Kamp
+De Minister van Defensie,\
+H.G.J. Kamp

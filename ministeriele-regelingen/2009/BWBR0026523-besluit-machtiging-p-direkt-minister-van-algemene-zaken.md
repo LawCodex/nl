@@ -83,13 +83,9 @@ De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van 
 
 Den Haag 17 september 2009
 
-De\
-Minister-President
+De Minister-President,
 
-De\
-Minister\
-Algemene Zaken
+De Minister van Algemene Zaken,
 
-namens deze:\
-Secretaris-Generaal\
-R. vanZwol
+namens deze: Secretaris-Generaal,\
+R. van Zwol

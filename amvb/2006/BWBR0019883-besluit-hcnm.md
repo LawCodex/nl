@@ -49,10 +49,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Buitenlandse Zaken\
-B. R.Bot
+De Minister van Buitenlandse Zaken ,\
+B. R. Bot
 
 de *twintigste* juni 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

@@ -37,7 +37,5 @@ Het door de provincies te heffen aantal opcenten voor de periode 1 april 2011 to
 
 De regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-J.C. deJager
+De Minister van Financiën,\
+J.C. de Jager

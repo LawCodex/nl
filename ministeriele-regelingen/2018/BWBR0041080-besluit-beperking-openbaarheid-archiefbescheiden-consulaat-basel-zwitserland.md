@@ -81,7 +81,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het consulaat te Basel, Zwitserland’.
 
-De Minister van Buitenlandse Zaken,\
-Voor deze,\
-N. van Heezik\
-Hoofd Informatiemanagement Directie Bedrijfsvoering
+De Minister van Buitenlandse Zaken, Voor deze,\
+N. van Heezik Hoofd Informatiemanagement Directie Bedrijfsvoering

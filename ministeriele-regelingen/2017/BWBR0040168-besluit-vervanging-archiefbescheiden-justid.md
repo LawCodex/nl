@@ -73,7 +73,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van afgifte van 
 
 Almelo 31 oktober 2017
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-J.J. Wiltvank,\
-de algemeen directeur van de Justitiële Informatiedienst
+De Minister van Justitie en Veiligheid, namens deze,\
+J.J. Wiltvank, de algemeen directeur van de Justitiële Informatiedienst

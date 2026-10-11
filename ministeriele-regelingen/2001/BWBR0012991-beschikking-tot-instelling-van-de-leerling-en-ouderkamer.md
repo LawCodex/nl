@@ -71,7 +71,5 @@ Deze beschikking treedt in werking met ingang van de derde dag na datum van uitg
 
 Deze beschikking wordt aangeduid als: Beschikking tot instelling van de Leerling- en Ouderkamer.
 
-De\
-staatssecretaris van\
-onderwijs, cultuur en wetenschappen,\
+De staatssecretaris vanvan onderwijs, cultuur en wetenschappen,\
 (drs. K.Y.I.J. Adelmund)

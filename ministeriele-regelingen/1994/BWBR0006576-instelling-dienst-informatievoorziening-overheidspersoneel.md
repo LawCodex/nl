@@ -88,7 +88,5 @@ VII Afschrift van dit besluit zal worden gezonden aan de Algemene Rekenkamer en 
 
 's-Gravenhage 30 maart 1994
 
-De\
-Minister\
-Binnenlandse Zaken\
-E. vanThijn
+De Minister van Binnenlandse Zaken,\
+E. van Thijn

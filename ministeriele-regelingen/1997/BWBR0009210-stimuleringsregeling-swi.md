@@ -82,12 +82,10 @@ Indien de samenwerking binnen een SWI-centrum overeenkomstig een samenwerkingsov
 
 ’s-Gravenhage 18 december 1997
 
-De\
-Minister\
-A.P.W.Melkert
+De Minister voornoemd,\
+A.P.W. Melkert
 
 's-Gravenhage, 18 december 1997
 
-De\
-Staatssecretaris\
-F.H.G. deGrave
+De Staatssecretaris voornoemd,\
+F.H.G. de Grave

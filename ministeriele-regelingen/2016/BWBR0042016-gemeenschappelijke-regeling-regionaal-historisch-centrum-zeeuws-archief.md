@@ -368,15 +368,13 @@ Deze regeling kan worden aangehaald als: Gemeenschappelijke regeling Regionaal H
 De Minister van Onderwijs, Cultuur en Wetenschap,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Middelburg,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Middelburg, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Veere,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Veere, De burgemeester,\
 ......................................................
 
 de secretaris,\

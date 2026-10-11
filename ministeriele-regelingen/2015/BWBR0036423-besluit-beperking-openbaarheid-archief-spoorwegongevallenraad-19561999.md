@@ -147,9 +147,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 10 maart 2015
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-Voor deze\
-de plaatsvervangend directeur-generaal Bereikbaarheid,\
-M.Sonnema
+De Minister van Infrastructuur en Milieu, Voor dezede plaatsvervangend directeur-generaal Bereikbaarheid,\
+M. Sonnema

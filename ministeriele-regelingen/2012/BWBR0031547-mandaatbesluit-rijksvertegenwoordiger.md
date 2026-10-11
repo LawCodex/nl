@@ -41,7 +41,5 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Rijksvertegenwoordiger.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.W.E.Spies
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W.E. Spies

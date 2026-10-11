@@ -39,10 +39,8 @@ Deze regeling wordt aangehaald als: Regeling normenkader jeugdbescherming en jeu
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven
 
 ## Bijlage — Certificatieschema voor toetsing van het kwaliteitsmanagementsysteem van uitvoerende organisaties voor Jeugdbescherming en Jeugdreclassering versie 2.1
 

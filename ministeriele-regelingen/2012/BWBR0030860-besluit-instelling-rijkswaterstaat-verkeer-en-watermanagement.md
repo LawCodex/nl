@@ -49,7 +49,5 @@ Dit besluit treedt in werking met ingang van 1 januari 2012.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus

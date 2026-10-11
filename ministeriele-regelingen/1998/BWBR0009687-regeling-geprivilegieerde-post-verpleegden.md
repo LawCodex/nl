@@ -69,7 +69,5 @@ Deze regeling wordt aangehaald als: Regeling geprivilegieerde post verpleegden.
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

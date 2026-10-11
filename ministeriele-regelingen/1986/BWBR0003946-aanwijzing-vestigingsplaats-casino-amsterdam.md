@@ -39,8 +39,6 @@ Deze beschikking wordt in de Staatscourant gepubliceerd en treedt in werking met
 
 's-Gravenhage 7 april 1986
 
-De\
-staatssecretaris\
-Justitie
+De staatssecretaris van Justitie,
 
 V.N.M. Korte-van Hemel

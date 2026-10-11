@@ -62,7 +62,5 @@ Dit besluit wordt aangehaald als: Besluit digitale vervanging archiefbescheiden 
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-De Secretaris-Generaal,\
+De Minister van Justitie en Veiligheid, namens deze, De Secretaris-Generaal,\
 S. Riedstra

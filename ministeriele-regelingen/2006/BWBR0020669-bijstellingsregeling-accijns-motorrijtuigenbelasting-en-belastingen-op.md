@@ -49,7 +49,5 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 7 december 2006
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

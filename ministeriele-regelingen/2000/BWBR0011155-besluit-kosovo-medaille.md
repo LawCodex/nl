@@ -88,7 +88,5 @@ Dit besluit zal in de Staatscourant worden geplaatst. Tevens zal het besluit wor
 
 ‘s-Gravenhage 9 februari 2000
 
-De\
-Minister\
-Defensie\
-F.H.G. deGrave
+De Minister van Defensie,\
+F.H.G. de Grave

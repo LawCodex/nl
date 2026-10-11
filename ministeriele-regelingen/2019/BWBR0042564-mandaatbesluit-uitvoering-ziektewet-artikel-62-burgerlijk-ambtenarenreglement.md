@@ -66,8 +66,5 @@ Alle lopende uitkeringsrechten die zijn ingestroomd voor 1 januari 2019 worden u
 
 Den Haag 3 september 2019
 
-De Staatssecretaris van Defensie\
-voor deze,\
-De Hoofddirecteur Personeel,\
-P.F.M. Reesink\
-Schout-bij-nacht
+De Staatssecretaris van Defensie voor deze, De Hoofddirecteur Personeel,\
+P.F.M. Reesink Schout-bij-nacht

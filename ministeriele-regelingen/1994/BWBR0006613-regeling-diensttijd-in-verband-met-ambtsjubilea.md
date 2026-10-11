@@ -63,7 +63,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 20 april 1994
 
-De\
-Minister\
-Binnenlandse Zaken\
+De Minister van Binnenlandse Zaken,\
 E. van Thijn

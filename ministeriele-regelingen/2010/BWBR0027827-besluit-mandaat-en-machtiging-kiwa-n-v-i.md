@@ -111,10 +111,8 @@ Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Kiwa N.V. (I)
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat,\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
 ## Bijlage A1a — Taken namens de Minister van Verkeer en Waterstaat
 

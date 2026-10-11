@@ -113,7 +113,5 @@ Deze regeling wordt aangehaald als: Regeling eisen persoonlijke verblijfsruimte 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie\
 A.H. Korthals

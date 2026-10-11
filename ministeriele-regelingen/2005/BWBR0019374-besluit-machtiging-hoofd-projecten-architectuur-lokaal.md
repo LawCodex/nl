@@ -35,7 +35,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 22 december 2005
 
-De\
-Minister\
-Economische Zaken\
-L.J.Brinkhorst
+De Minister van Economische Zaken,\
+L.J. Brinkhorst

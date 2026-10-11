@@ -27,7 +27,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treff
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## Afdeling Eerste — Begripsomschrijvingen
+## Eerste Afdeling — Begripsomschrijvingen
 
 ### Artikel 1
 
@@ -39,7 +39,7 @@ In deze wet wordt verstaan onder:
 - d. weduwenpensioen: een pensioen als bedoeld in artikel 10 van het pensioenreglement;
 - e. wezenpensioen: een pensioen als bedoeld in artikel 11 van het pensioenreglement.
 
-## Afdeling Tweede — Toekenning van invaliditeitstoeslagen
+## Tweede Afdeling — Toekenning van invaliditeitstoeslagen
 
 ### Artikel 2
 
@@ -57,7 +57,7 @@ Vervallen
 
 Vervallen
 
-## Afdeling Derde — Vervallen
+## Derde Afdeling — Vervallen
 
 ### Artikel 6
 
@@ -75,9 +75,9 @@ Vervallen
 
 Vervallen
 
-## Afdeling Vierde — Samenloop van pensioen met een bodempensioen
+## Vierde Afdeling — Samenloop van pensioen met een bodempensioen
 
-### hoofdstuk Eerste
+### Eerste hoofdstuk
 
 #### Artikel 9
 
@@ -105,7 +105,7 @@ Voor de toepassing van de bepalingen van deze afdeling geldt het volgende.
 - f. Diensttijd, waarnaar een pensioen geacht wordt te zijn berekend en die niet daadwerkelijk in dienstverhouding is doorgebracht, wordt geacht aan te sluiten bij het einde van de dienstverhouding waaraan het recht op pensioen is ontleend; voor zover dientengevolge deze diensttijd zich uitstrekt na het tijdstip waarop de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, is of zou worden bereikt wordt die diensttijd, te rekenen van dat tijdstip, geacht te zijn doorgebracht, voor zoveel mogelijk gedurende tijdvakken van onderbreking van de daadwerkelijk in dienstverhouding doorgebrachte tijd en voor het overige onmiddellijk voor de aanvang van de diensttijd waarnaar het pensioen is berekend.
 - g. De vakantie-uitkeringen, bedoeld in de Algemene Ouderdomswet en de Algemene nabestaandenwet, worden geacht op overeenkomstige wijze als het ouderdomspensioen, de uitkering op grond van de Algemene nabestaandenwet in termijnen te worden uitbetaald.
 
-### hoofdstuk Tweede — Samenloop van pensioen met algemeen ouderdomspensioen
+### Tweede hoofdstuk — Samenloop van pensioen met algemeen ouderdomspensioen
 
 #### Artikel 11
 
@@ -155,7 +155,7 @@ Vervallen
 
 6\. Het eerste tot en met het vijfde lid is van overeenkomstige toepassing indien uit hoofde van aanspraak op algemeen ouderdomspensioen een vermindering plaatsvindt van een andere pensioenuitkering toekomend aan de echtgenoot van degene voor wie aanspraak bestaat of geacht wordt te bestaan op pensioen.
 
-### hoofdstuk Derde — Samenloop van weduwe- of wezenpensioen met een uitkering op grond van de Algemene nabestaandenwet
+### Derde hoofdstuk — Samenloop van weduwe- of wezenpensioen met een uitkering op grond van de Algemene nabestaandenwet
 
 #### Artikel 16
 
@@ -221,7 +221,7 @@ Op schriftelijk verzoek van de weduwe, die aantoont, dat een rente of uitkering,
 
 Bij gelijktijdige aanspraak op meerdere pensioenen of uitkeringen waarop een naar aard en strekking soortgelijke toeslag wordt verleend als bedoeld in de artikelen 19b en 19c, wordt de in die artikelen bedoelde toeslag zodanig verminderd, dat het totaal van de toeslagen gelijk is aan de maximaal op grond van genoemde artikelen toe te kennen toeslag.
 
-### hoofdstuk Vierde — Uitvoeringsbepalingen
+### Vierde hoofdstuk — Uitvoeringsbepalingen
 
 #### Artikel 20
 
@@ -243,7 +243,7 @@ Indien een algemeen ouderdomspensioen, een algemene nabestaandenuitkering of een
 
 De bepalingen van deze afdeling blijven buiten toepassing ten aanzien van degenen, die op grond van gemoedsbezwaren hun aanspraak op algemeen ouderdomspensioen, of een uitkering op grond van de Algemene nabestaandenwet niet geldig maken.
 
-## afdeling Vijfde — Overgangs- en slotbepalingen
+## Vijfde afdeling — Overgangs- en slotbepalingen
 
 ### Artikel 24
 

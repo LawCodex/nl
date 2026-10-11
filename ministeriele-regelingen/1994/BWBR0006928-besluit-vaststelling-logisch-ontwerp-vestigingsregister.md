@@ -35,7 +35,5 @@ Dit besluit zal in de Staatscourant worden geplaatst, met uitzondering van de bi
 
 's-Gravenhage 19 september 1994
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken\
-J.Kohnstamm
+De Staatssecretaris van Binnenlandse Zaken,\
+J. Kohnstamm

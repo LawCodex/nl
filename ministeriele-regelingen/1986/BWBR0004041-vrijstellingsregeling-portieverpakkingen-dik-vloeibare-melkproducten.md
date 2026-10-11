@@ -42,17 +42,11 @@ Deze regeling wordt in de Nederlandse Staatscourant bekendgemaakt en treedt in w
 
 Rijswijk 28 oktober 1986
 
-De\
-staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-D. J. D.Dees
+De staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+D. J. D. Dees
 
-De\
-minister\
-Landbouw en Visserij\
-G. J. M.Braks
+De minister van Landbouw en Visserij,\
+G. J. M. Braks
 
-De\
-staatssecretaris\
-Economische Zaken\
-A. J.Evenhuis
+De staatssecretaris van Economische Zaken,\
+A. J. Evenhuis

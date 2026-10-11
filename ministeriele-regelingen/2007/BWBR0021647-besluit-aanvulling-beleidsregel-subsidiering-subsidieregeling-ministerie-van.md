@@ -27,13 +27,9 @@ Gelet op de artikelen 9.1 en 9.2 van de Subsidieregeling Ministerie van Buitenla
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Voor subsidieverlening in het kader van het programma Stage en uitwisseling voor jongeren geldt in aanvulling op het bij Besluit van de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking van 22 februari 2006, nr. DJZ/BR/0201-2006 onder de werkingssfeer van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 gebrachte Besluit van de Minister voor Ontwikkelingssamenwerking van 10 mei 2005, nr. DSI/MY-169/05: Jongeren die vervolgd worden in verband met een misdrijf komen niet in aanmerking voor een stage of uitwisseling ten laste van dit programma.
 
-De\
-Minister\
-Ontwikkelingssamenwerking\
-namens deze:\
-Directeur-Generaal Internationale Samenwerking\
-R.J.Treffers
+De Minister voor Ontwikkelingssamenwerking, namens deze:de Directeur-Generaal Internationale Samenwerking,\
+R.J. Treffers

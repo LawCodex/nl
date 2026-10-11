@@ -97,7 +97,5 @@ Afschrift van deze beschikking, die in de Nederlandse Staatscourant zal worden g
 
 ’s-Gravenhage 23 mei 1996
 
-De\
-Minister\
-Binnenlandse Zaken\
+De Minister van Binnenlandse Zaken,\
 H. F. Dijkstal

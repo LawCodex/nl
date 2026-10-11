@@ -37,7 +37,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 's-Gravenhage 16 juni 1994
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
 J.G.M. Alders

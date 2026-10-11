@@ -43,12 +43,8 @@ Dit besluit wordt aangehaald als: Instellingsbesluit baten-lastendienst Rijkswat
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

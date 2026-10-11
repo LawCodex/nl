@@ -144,7 +144,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 29 april 2004
 
-De\
-Minister\
-Defensie\
-H.G.J.Kamp
+De Minister van Defensie\
+H.G.J. Kamp

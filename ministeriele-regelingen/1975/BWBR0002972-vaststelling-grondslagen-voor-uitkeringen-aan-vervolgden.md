@@ -54,6 +54,5 @@ Deze beschikking treedt in werking met ingang van de dag na die van plaatsing in
 
 Rijswijk 2 juni 1975
 
-De\
-Staatssecretaris\
+De Staatssecretaris voornoemd,\
 W. Meijer

@@ -238,7 +238,5 @@ Klachten over de uitvoering van dit reglement kunnen door geregistreerden worden
 
 ’s-Gravenhage 13 december 1996
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

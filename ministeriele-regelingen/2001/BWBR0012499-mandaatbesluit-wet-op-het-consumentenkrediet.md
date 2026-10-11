@@ -78,7 +78,5 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit kan worden aangehaald als \`Mandaatbesluit Wet op het consumentenkrediet'.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

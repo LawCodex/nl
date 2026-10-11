@@ -56,7 +56,5 @@ De aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 23 juli
 
 Deze aanwijzing treedt terstond in werking, werkt terug tot en met 23 juli 2007, en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

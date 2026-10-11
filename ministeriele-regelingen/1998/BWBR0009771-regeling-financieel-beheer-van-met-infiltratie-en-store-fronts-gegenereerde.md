@@ -84,7 +84,5 @@ Deze regeling treedt in werking twee weken na publicatie in de Staatscourant.
 
 ’s-Gravenhage 9 juli 1998
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

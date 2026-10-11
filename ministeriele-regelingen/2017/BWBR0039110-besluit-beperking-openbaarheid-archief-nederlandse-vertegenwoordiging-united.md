@@ -57,9 +57,5 @@ Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van 
 
 Den Haag 17 januari 2017
 
-De\
-Minister\
-Buitenlandse Zaken,\
-Namens deze,\
-N. vanHeezik\
-Hoofd DBV/IA
+De Minister van Buitenlandse Zaken,Namens deze,\
+N. van HeezikHoofd DBV/IA

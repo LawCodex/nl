@@ -1082,10 +1082,8 @@ Deze regeling wordt aangehaald als: Regeling op het specifiek cultuurbeleid.
 
 Deze regeling zal met de bijlagen en toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-J.M. vanBijsterveldt-Vliegenthart
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+J.M. van Bijsterveldt-Vliegenthart
 
 ## Bijlage Ia — , als bedoeld in artikel 2.28 van de Regeling op het specifiek cultuurbeleid
 

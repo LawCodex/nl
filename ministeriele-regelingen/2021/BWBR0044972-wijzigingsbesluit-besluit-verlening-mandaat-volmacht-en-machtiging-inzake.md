@@ -39,7 +39,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van de Staatscou
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 P. Huijts

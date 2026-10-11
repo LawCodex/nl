@@ -39,12 +39,8 @@ Raadpleging of gebruik binnen de expiratieperiode van de in het vorige artikel b
 
 Dit besluit treedt in werking op de dag na de datum van publicatie in de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Minister\
-Financien,\
-namens deze:\
-plv. Secretaris-generaal,\
-A.S.M.Koeleman
+De Minister van Financien,namens deze:plv. Secretaris-generaal,\
+A.S.M. Koeleman
 
 ## Bijlage
 

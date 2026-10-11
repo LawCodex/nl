@@ -79,12 +79,10 @@ Dit besluit, waarvan afschrift zal worden gezonden aan de Algemene Rekenkamer, z
 
 's-Gravenhage 27 maart 1992
 
-De\
-Minister\
-E. M. H.Hirsch Ballin
+De Minister voornoemd,\
+E. M. H. Hirsch Ballin
 
 's-Gravenhage, 10 februari 1992
 
-De\
-Staatssecretaris\
-B. J. M. baron vanVoorst tot Voorst
+De Staatssecretaris voornoemd,\
+B. J. M. baron van Voorst tot Voorst

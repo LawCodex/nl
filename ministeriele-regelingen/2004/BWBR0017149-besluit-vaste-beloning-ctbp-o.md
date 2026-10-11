@@ -51,7 +51,5 @@ Den Haag 27 augustus 2004
 
 Beatrix
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-M.J.A. van derHoeven
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M.J.A. van der Hoeven

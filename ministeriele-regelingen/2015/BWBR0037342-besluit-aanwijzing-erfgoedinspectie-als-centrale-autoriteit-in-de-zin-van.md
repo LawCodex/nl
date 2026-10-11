@@ -31,7 +31,5 @@ De Erfgoedinspectie aan te wijzen als centrale autoriteit in de zin van Richtlij
 
 Dit besluit, dat strekt ter vervanging van het besluit van 1 december 2011, nr. DCE/303694, zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

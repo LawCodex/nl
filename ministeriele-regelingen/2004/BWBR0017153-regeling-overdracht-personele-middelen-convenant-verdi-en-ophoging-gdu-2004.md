@@ -128,10 +128,8 @@ Deze regeling wordt aangehaald als: Regeling overdracht personele middelen conve
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
 ## Bijlage — Controleprotocol VERDI en ophoging GDU 2004
 

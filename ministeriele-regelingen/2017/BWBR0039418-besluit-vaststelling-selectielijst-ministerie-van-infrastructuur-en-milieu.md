@@ -126,19 +126,11 @@ De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van
 
 Den Haag 24 februari 2017
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-De algemene rijksarchivaris,\
-M.L.Engelhard
+De Minister van Onderwijs, Cultuur en Wetenschap,namens deze,De algemene rijksarchivaris,\
+M.L. Engelhard
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-namens deze,\
-De algemeen directeur integrale Bedrijfsvoering Infrastructuur en Milieu,\
-M.P.J.Bouten
+De Minister van Infrastructuur en Milieu,namens deze,De algemeen directeur integrale Bedrijfsvoering Infrastructuur en Milieu,\
+M.P.J. Bouten
 
 ## Selectielijst
 

@@ -55,9 +55,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-namens deze,\
-S.M.Roos\
-directeur-generaal Overheidsorganisatie
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,namens deze,\
+S.M. Roosdirecteur-generaal Overheidsorganisatie

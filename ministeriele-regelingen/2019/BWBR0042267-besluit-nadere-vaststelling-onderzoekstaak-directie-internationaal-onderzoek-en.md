@@ -41,9 +41,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-De Minister van Buitenlandse Zaken,\
-Namens deze,\
-De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+De Minister van Buitenlandse Zaken, Namens deze, De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 J. Brandt
 
 ## Bijlage — behorende bij artikel 2

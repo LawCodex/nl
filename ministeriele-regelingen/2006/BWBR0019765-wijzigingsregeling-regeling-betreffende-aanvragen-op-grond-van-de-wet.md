@@ -41,8 +41,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 18 april 2006
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid
+De Minister van Sociale Zaken en Werkgelegenheid,
 
 A.J. de Geus

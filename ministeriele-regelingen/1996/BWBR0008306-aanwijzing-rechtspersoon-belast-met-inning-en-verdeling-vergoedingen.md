@@ -33,6 +33,5 @@ Dit besluit wordt in de Staatscourant bekendgemaakt. Het treedt in werking met i
 
 ’s-Gravenhage 30 oktober 1996
 
-De\
-Minister\
-W.Sorgdrager
+De Minister voornoemd,\
+W. Sorgdrager

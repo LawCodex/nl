@@ -75,7 +75,5 @@ Deze beschikking treedt in werking met ingang van 1 februari 1987. Ze wordt met 
 
 's-Gravenhage 9 januari 1987
 
-De\
-minister\
-Justitie\
+De minister van Justitie,\
 F. Korthals Altes

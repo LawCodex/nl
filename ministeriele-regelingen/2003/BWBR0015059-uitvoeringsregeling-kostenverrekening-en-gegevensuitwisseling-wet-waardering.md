@@ -83,7 +83,5 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling kostenverrekening en geg
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën,\
 S.R.A. van Eijck

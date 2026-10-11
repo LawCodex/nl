@@ -45,9 +45,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen en aan de Referendumcommissie.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-namens deze,\
-R.Bagchus\
-Directeur democratie en burgerschap
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,namens deze,\
+R. BagchusDirecteur democratie en burgerschap

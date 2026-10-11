@@ -107,7 +107,5 @@ Met ingang van datzelfde tijdstip vervallen de Richtlijnen opneming buitenlandse
 
 \`s-Gravenhage 10 november 2000
 
-De\
-Staatssecretaris\
-Justitie\
-M.J.Cohen
+De Staatssecretaris van Justitie,\
+M.J. Cohen

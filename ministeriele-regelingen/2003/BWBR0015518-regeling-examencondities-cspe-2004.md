@@ -68,6 +68,5 @@ De regeling treedt in werking met ingang van de derde dag na datum van uitgifte 
 
 De regeling wordt aangehaald als ’Regeling Examencondities cspe 2004’.
 
-De\
-voorzitter van de CEVO\
-drs. J.Bouwsma
+De voorzitter van de CEVO,\
+drs. J. Bouwsma

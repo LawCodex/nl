@@ -25,15 +25,11 @@ Gelet op artikel 10, derde lid, van de Projectstimuleringsregeling Interreg V;
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond, bedoeld in artikel 10, derde lid, van de Projectstimuleringsregeling Interreg V wordt voor het jaar 2016 vastgesteld op € 1.000.000,00.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-Namens deze,\
-De directeur-generaal Milieu en Internationaal,\
-C.B.F.Kuijpers
+De Staatssecretaris van Infrastructuur en Milieu,Namens deze,De directeur-generaal Milieu en Internationaal,\
+C.B.F. Kuijpers

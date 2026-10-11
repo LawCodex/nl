@@ -43,7 +43,5 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 13 juni 2003
 
-De\
-Minister\
-Economische Zaken\
-L.J.Brinkhorst
+De Minister van Economische Zaken,\
+L.J. Brinkhorst

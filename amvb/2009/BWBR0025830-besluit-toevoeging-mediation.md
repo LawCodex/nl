@@ -142,10 +142,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Staatssecretaris van Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak
 
 de *veertiende* mei 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -37,7 +37,5 @@ Het Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 13 
 
 Dit besluit treedt in werking op een bij besluit van de Minister van Onderwijs, Cultuur en Wetenschap te bepalen tijdstip.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

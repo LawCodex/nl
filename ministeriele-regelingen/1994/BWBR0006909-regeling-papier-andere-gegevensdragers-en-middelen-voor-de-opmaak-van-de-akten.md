@@ -68,6 +68,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 6 september 1994
 
-De\
-Staatssecretaris\
-E. M. A.Schmitz
+De Staatssecretaris voornoemd,\
+E. M. A. Schmitz

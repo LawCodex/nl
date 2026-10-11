@@ -25,7 +25,7 @@ Gelet op artikel 8, eerste lid, van het Kaderbesluit subsidies I en M en artikel
 
 BESLUIT:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond, bedoeld in artikel 4, tweede lid, van de Subsidieregeling VeiligheidNL wordt voor de periode vanaf 23 oktober 2019 tot en met 31 december 2019 vastgesteld op € 80.000,– voor het doen van onderzoek en € 100.000,– voor het geven van voorlichting.
 

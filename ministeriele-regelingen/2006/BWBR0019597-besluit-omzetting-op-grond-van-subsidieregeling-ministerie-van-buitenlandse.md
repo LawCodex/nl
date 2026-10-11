@@ -37,14 +37,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-Minister\
-Ontwikkelingssamenwerking\
-namens dezen:\
-Secretaris-Generaal\
-Ph. deHeer
+De Minister van Buitenlandse Zaken, de Minister voor Ontwikkelingssamenwerkingnamens dezen: de Secretaris-Generaal,\
+Ph. de Heer
 
 ## Bijlage
 

@@ -51,7 +51,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 14 september 1999
 
-De\
-Staatssecretaris\
-Justitie\
-A.H.Korthals
+De Staatssecretaris van Justitie,\
+A.H. Korthals

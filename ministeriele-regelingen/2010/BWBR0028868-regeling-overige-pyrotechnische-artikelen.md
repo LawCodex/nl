@@ -719,10 +719,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 11 oktober 2010
 
-De\
-minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
-J.C.Huizinga-Heringa
+De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.C. Huizinga-Heringa
 
 ## Bijlage 1 — Het registermodel waarnaar in artikel 27a, derde lid wordt verwezen
 

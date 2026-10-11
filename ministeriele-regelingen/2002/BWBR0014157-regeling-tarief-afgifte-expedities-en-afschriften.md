@@ -43,7 +43,5 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 's-Gravenhage 29 oktober 2002
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie,\
+J.P.H. Donner

@@ -47,32 +47,20 @@ De regeling van 24 december 1992 (Stcrt. 251), houdende de aanwijzing van ambten
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-P. H.Kooijmans
+De Minister van Buitenlandse Zaken,\
+P. H. Kooijmans
 
-De\
-Minister\
-Financiën\
+De Minister van Financiën,\
 W. Kok
 
-De\
-Minister\
-Defensie\
-A. L. terBeek
+De Minister van Defensie,\
+A. L. ter Beek
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-P.Bukman
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+P. Bukman
 
-De\
-Staatssecretaris\
-Economische Zaken\
-Y. C. M. T. vanRooy
+De Staatssecretaris van Economische Zaken,\
+Y. C. M. T. van Rooy

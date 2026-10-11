@@ -64,9 +64,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 15 november 2013
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-namens deze:\
-De directeur Facilitair Management en ICT\
-J.H.J.Kruuk
+De Minister van Onderwijs, Cultuur en Wetenschap,namens deze:De directeur Facilitair Management en ICT\
+J.H.J. Kruuk

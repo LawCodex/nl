@@ -78,7 +78,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 Den Haag 17 maart 1999
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals

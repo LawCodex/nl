@@ -89,6 +89,5 @@ Deze beschikking treedt in werking met ingang van de tweede dag na die van haar 
 
 Rijswijk 19 september 1973
 
-De\
-Staatssecretaris\
-W.Meijer
+De Staatssecretaris voornoemd,\
+W. Meijer

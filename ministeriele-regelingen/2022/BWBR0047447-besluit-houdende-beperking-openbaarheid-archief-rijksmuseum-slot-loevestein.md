@@ -45,7 +45,5 @@ Het vervaardigen van reproducties van documenten geborgen onder het inventarisnu
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt voorts als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van het Rijksmuseum Slot Loevestein, over de periode 1946–1995.
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de directeur Organisatie & Bedrijfsvoering,\
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze, de directeur Organisatie & Bedrijfsvoering,\
 J.J.H. Been

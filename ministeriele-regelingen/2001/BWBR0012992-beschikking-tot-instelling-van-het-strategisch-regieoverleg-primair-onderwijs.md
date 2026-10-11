@@ -95,7 +95,5 @@ Deze beschikking treedt in werking met ingang van de derde dag na de datum van u
 
 Deze beschikking wordt aangeduid als: Beschikking tot instelling van het Strategisch Regieoverleg primair onderwijs en Strategisch Regieoverleg voortgezet onderwijs.
 
-De\
-staatssecretaris\
-onderwijs, cultuur en wetenschappen\
-drs. K.Y.I.J.Adelmund
+De staatssecretaris van onderwijs, cultuur en wetenschappen\
+drs. K.Y.I.J. Adelmund

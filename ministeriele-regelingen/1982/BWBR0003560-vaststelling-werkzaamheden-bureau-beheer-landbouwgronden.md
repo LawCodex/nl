@@ -61,12 +61,9 @@ Deze beschikking treedt met ingang van 1 januari 1983 in werking en wordt gepubl
 
 's-Gravenhage 28 december 1982.
 
-De\
-Staatssecretaris\
-Landbouw en Visserij
+De Staatssecretaris van Landbouw en Visserij,
 
 Voor deze
 
-De\
-secretaris-generaal\
-G. J. vanDinter
+De secretaris-generaal,\
+G. J. van Dinter

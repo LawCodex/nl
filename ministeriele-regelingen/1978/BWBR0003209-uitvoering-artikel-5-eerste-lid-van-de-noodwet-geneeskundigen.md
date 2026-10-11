@@ -61,6 +61,5 @@ De in artikel 1 als bevoegd gezag aangewezen autoriteit oefent – onverminderd 
 
 Leidschendam 29 november 1978
 
-De\
-Staatssecretaris\
+De Staatssecretaris voornoemd,\
 L. Veder-Smit

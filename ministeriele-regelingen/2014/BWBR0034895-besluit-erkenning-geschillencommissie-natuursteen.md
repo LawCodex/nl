@@ -45,9 +45,5 @@ Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met inga
 
 ´s-Gravenhage 27 februari 2014
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze:\
-H.Schipper-Spanninga,\
-Directeur Rechtsbestel.
+De Minister van Veiligheid en Justitie,namens deze:\
+H. Schipper-Spanninga,Directeur Rechtsbestel.

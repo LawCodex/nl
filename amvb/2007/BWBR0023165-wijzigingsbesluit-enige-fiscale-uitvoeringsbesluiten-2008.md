@@ -79,10 +79,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Staatssecretaris van Financiën\
-J. C. deJager
+De Staatssecretaris van Financiën,\
+J. C. de Jager
 
 de *achtentwintigste* december 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

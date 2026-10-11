@@ -53,9 +53,7 @@ De directeuren worden voor het uitoefenen van de in artikel 2 genoemde bevoegdhe
 
 's-Gravenhage 1 september 1989
 
-De minister voornoemd,\
-Namens de minister,\
-Het hoofd van de Directie Jeugdbescherming en Reclassering,\
+De minister voornoemd, Namens de minister, Het hoofd van de Directie Jeugdbescherming en Reclassering,\
 M. J. M. Brand-Koolen
 
 ## Bijlage I

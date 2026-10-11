@@ -102,7 +102,5 @@ Vervallen
 
 's-Gravenhage 13 december 1994
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

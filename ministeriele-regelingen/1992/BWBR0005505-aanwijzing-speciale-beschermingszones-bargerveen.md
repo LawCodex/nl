@@ -35,7 +35,5 @@ Deze regeling treedt in werking met ingang van de dag na die van haar bekendmaki
 
 's-Gravenhage 12 mei 1992
 
-De\
-Staatssecretaris\
-Landbouw, Natuurbeheer en Visserij\
-J. D.Gabor
+De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,\
+J. D. Gabor

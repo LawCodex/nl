@@ -39,7 +39,5 @@ Dit besluit treedt in werking met ingang van de dag na die van zijn bekendmaking
 
 's-Gravenhage 10 november 1989
 
-De\
-minister\
-Landbouw, Natuurbeheer en Visserij\
-G. J. M.Braks
+De minister van Landbouw, Natuurbeheer en Visserij,\
+G. J. M. Braks

@@ -45,9 +45,5 @@ Het vervaardigen van reproducties van documenten geborgen onder het inventarisnu
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Nederlands consulaat te Zwitserland (Basel), 1946–1974’.
 
-De\
-Minister\
-Buitenlandse Zaken,\
-namens deze:\
-De directeur van de Directie Informatiediensten\
-R.J. van denDool
+De Minister van Buitenlandse Zaken,namens deze:De directeur van de Directie Informatiediensten\
+R.J. van den Dool

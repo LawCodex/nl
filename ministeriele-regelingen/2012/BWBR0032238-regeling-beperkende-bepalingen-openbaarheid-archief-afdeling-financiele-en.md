@@ -61,7 +61,5 @@ De directeur van het Nationaal Archief verplicht zich de archiefbescheiden in go
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-Dr. R.H.A.Plasterk
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+Dr. R.H.A. Plasterk

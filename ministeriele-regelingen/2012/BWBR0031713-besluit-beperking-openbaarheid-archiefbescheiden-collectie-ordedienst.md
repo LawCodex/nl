@@ -71,9 +71,5 @@ Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van 
 
 Den Haag 21 mei 2012
 
-De\
-Minister\
-Defensie,\
-voor deze:\
-secretaris-generaal,\
-A.H.C.Annink
+De Minister van Defensie,voor deze:secretaris-generaal,\
+A.H.C. Annink

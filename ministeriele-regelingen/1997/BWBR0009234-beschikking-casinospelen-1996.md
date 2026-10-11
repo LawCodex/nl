@@ -332,12 +332,8 @@ Deze Beschikking wordt aangehaald als: Beschikking casinospelen 1996.
 
 ’s-Gravenhage 19 december 1997
 
-De\
-Staatssecretaris\
-Justitie\
-E.M.H.Schmitz
+De Staatssecretaris van Justitie,\
+E.M.H. Schmitz
 
-De\
-Minister\
-Economische Zaken\
-H.Wijers
+De Minister van Economische Zaken,\
+H. Wijers

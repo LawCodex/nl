@@ -209,9 +209,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 11 april 2012
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-namens deze:\
-Chr.P.Buijink,\
-secretaris-generaal.
+De Minister van Economische Zaken, Landbouw en Innovatie,namens deze:\
+Chr.P. Buijink,secretaris-generaal.

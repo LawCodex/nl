@@ -30,7 +30,6 @@ In overeenstemming met de Minister van Economische Zaken:
 
 's-Gravenhage 5 november 1979
 
-De\
-Minister
+De Minister voornoemd,
 
 J. de Ruiter

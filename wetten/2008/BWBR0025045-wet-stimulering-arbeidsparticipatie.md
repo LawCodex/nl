@@ -103,13 +103,13 @@ Gegeven te
 
 Beatrix
 
-De Minister van Sociale Zaken en Werkgelegenheid\
-J. P. H.Donner
+De Minister van Sociale Zaken en Werkgelegenheid,\
+J. P. H. Donner
 
-De Staatssecretaris van Sociale Zaken en Werkgelegenheid\
-J.Klijnsma
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma
 
 de *dertigste* december 2008
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

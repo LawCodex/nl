@@ -61,10 +61,8 @@ De SAIP is bevoegd tot het opvragen en inzien van bij het Ministerie van Binnenl
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes
 
 ## Bijlage
 

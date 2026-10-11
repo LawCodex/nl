@@ -67,7 +67,5 @@ Dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift z
 
 's-Gravenhage 23 maart 1992
 
-De\
-Staatssecretaris\
-Justitie\
-A.Kosto
+De Staatssecretaris van Justitie,\
+A. Kosto

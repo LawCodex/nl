@@ -83,7 +83,5 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt met toelichting gepubliceerd in de Staatscourant.
 
-De Minister van Defensie\
-Voor deze\
-De Hoofddirecteur Personeel\
+De Minister van Defensie Voor deze De Hoofddirecteur Personeel\
 W. Hoogendoorn

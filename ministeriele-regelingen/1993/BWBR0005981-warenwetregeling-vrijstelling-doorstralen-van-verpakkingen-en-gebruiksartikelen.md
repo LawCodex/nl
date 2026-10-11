@@ -37,12 +37,9 @@ Vrijstelling wordt verleend van artikel 5, eerste en tweede lid, van het Warenwe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur
+De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,
 
 namens deze,
 
-de\
-Directeur Voeding en Veiligheid van Produkten\
-S. vanHoogstraten
+de Directeur Voeding en Veiligheid van Produkten, Mr.\
+S. van Hoogstraten

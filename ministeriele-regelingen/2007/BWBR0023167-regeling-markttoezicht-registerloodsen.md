@@ -141,10 +141,8 @@ Deze regeling wordt aangehaald als: Regeling markttoezicht registerloodsen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
 ## Bijlage 1 — bij artikel 3a, eerste lid, Regeling markttoezicht registerloodsen
 

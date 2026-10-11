@@ -39,7 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging-percentage lev
 
 's-Gravenhage 7 februari 1983
 
-De\
-Staatssecretaris\
-Justitie\
+De Staatssecretaris van Justitie,\
 V. N. M. Korte- van Hemel

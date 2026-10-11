@@ -39,7 +39,5 @@ Deze beschikking treedt in werking op 1 januari 2013. Zij wordt aangehaald als: 
 
 Den Haag 13 augustus 2012
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.W.E.Spies
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W.E. Spies

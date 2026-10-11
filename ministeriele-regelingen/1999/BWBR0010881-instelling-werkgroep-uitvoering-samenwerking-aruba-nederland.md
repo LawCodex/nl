@@ -99,16 +99,11 @@ Deze regeling zal worden geplaatst in de Arubaanse Landscourant en de Nederlands
 
 Aruba 20 november 1999
 
-De\
-minister-president\
-J.H.A.Eman
+De minister-presidentvan Aruba,\
+J.H.A. Eman
 
-De\
-minister\
-Financiën\
-R.R.Croes
+De minister van Financiën,\
+R.R. Croes
 
-De\
-staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G.M. deVries
+De staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
+G.M. de Vries

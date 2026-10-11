@@ -294,5 +294,4 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 Den Haag 16 maart 2022
 
 De Commandant der Strijdkrachten\
-O. Eichelsheim\
-Generaal
+O. Eichelsheim Generaal

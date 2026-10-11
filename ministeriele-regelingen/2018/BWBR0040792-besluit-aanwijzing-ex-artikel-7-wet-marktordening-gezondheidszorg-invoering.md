@@ -27,7 +27,7 @@ Na op 24 januari schriftelijk mededeling te hebben gedaan aan de Eerste en Tweed
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit stelt met ingang van 1 januari 2019 voor de eerstelijnsdiagnostiek binnen de overige zorgproducten in de medisch specialistische zorg, vrije tarieven vast voor de prestatiebeschrijvingen die op gezamenlijk verzoek van de zorgaanbieder en zorgverzekeraar worden aangevraagd.
 

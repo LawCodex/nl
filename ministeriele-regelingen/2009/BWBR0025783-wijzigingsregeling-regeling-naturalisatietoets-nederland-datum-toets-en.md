@@ -41,7 +41,5 @@ Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
 Den Haag 27 april 2009
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

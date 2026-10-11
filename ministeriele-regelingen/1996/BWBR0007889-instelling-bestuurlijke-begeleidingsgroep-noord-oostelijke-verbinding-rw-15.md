@@ -79,7 +79,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum waarop dit beslu
 
 ’s-Gravenhage 5 februari 1996
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

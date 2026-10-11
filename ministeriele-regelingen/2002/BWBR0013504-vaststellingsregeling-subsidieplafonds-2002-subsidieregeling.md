@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 12 maart 2002
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
 J.F. Hoogervorst

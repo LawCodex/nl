@@ -53,10 +53,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Volksgezondheid, Welzijn en Sport\
-J. F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J. F. Hoogervorst
 
 de *drieëntwintigste* januari 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

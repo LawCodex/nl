@@ -41,7 +41,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 1 februari 2010
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer

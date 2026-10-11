@@ -39,7 +39,5 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing besteedbare middelen beheerskos
 
 Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.L.L.E.Veldhuijzen van Zanten-Hyllner
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.L.L.E. Veldhuijzen van Zanten-Hyllner

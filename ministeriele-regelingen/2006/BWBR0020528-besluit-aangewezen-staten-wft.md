@@ -64,7 +64,5 @@ Dit besluit treedt in werking met ingang van 1 januari 2007.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm

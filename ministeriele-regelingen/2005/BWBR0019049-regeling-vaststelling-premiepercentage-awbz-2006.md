@@ -39,7 +39,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2006.
 
 Deze regeling wordt aangehaald als: Regeling vaststelling premiepercentage AWBZ 2006.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

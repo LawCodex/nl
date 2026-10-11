@@ -67,7 +67,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 25 juni 2016
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-M.H.P. vanDam
+De Staatssecretaris van Economische Zaken,\
+M.H.P. van Dam

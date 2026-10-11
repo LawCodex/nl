@@ -27,11 +27,9 @@ Na op 27 mei 2013 schriftelijk mededeling te hebben gedaan aan beide Kamers der 
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit (hierna: zorgautoriteit) voorziet erin dat de bekostiging van ADL-assistentie met ingang van 1 januari 2014 kan blijven plaatsvinden op dezelfde voet als aangegeven in de Aanwijzing van 25 oktober 2011 inzake de bekostiging van ADL-assistentie 2012-2013 (Stcrt. 2011, 19623).
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

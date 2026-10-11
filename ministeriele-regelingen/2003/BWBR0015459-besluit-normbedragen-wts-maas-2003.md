@@ -127,7 +127,5 @@ De volgende normbedragen vast te stellen ten aanzien van de berekening van de te
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
+J.W. Remkes

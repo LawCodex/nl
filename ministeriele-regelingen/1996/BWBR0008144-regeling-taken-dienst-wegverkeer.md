@@ -139,9 +139,7 @@ Deze regeling wordt aangehaald als: Regeling taken Dienst Wegverkeer.
 
 Deze regeling zal met de toeliching 'toeliching' moet zijn 'toelichting' in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink
 
 [^n1]: 1 Te raadplegen via United Nations Economic Commission for Europe/Transport/Vehicle Regulations/Agreements Regulations and Rules/UNECE Regulation (http://live.unece.org/trans/main/wp29/wp29regs.html).

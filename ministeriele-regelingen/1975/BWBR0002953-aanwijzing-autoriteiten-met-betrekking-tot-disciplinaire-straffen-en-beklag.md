@@ -47,13 +47,10 @@ Deze beschikking treedt in werking met ingang van de dag na die van haar bekendm
 
 's-Gravenhage 17 januari 1975
 
-De\
-Minister
+De Minister voornoemd,
 
-Namens de\
-Minister
+Namens de Minister:
 
-De\
-secretaris-generaal
+De secretaris-generaal,
 
 W. A. van den Berg

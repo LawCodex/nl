@@ -45,7 +45,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 11 augustus 2008
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer

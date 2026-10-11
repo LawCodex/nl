@@ -27,13 +27,11 @@ Na op 21 november 2011 schriftelijk mededeling te hebben gedaan aan de Eerste en
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het experiment bij epilepsie-inrichtingen als bedoeld in de aanwijzing van 14 december 2007 (Staatscourant 2007, nr. 248) wordt verlengd tot en met 31 december 2012.
 
 Van deze aanwijzing wordt door plaatsing met de toelichting in de Staatscourant mededeling gedaan.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport\
+E.I. Schippers

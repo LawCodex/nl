@@ -38,12 +38,9 @@ Besluit:
 
 2\. Deze regeling wordt in de Nederlandse Staatscourant geplaatst.
 
-De\
-minister\
-Financiën
+De minister van Financiën,
 
 namens deze,
 
-De\
-directeur Binnenlands Geldwezen\
-M. J. L.Jonkhart
+De directeur Binnenlands Geldwezen,\
+M. J. L. Jonkhart

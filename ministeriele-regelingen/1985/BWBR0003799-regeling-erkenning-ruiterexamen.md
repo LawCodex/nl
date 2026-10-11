@@ -72,7 +72,5 @@ Een erkend ruiterexamen staat onder toezicht van een door de minister aangewezen
 
 's-Gravenhage 29 mei 1985
 
-De\
-minister\
-Landbouw en Visserij\
-G.J.M.Braks
+De minister van Landbouw en Visserij,\
+G.J.M. Braks

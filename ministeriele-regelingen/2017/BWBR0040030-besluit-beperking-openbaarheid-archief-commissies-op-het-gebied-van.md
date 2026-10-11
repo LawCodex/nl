@@ -53,7 +53,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Commissies op het gebied van Personeelsbeleid, (1966) 1978–1986.’
 
-De Minister van Buitenlandse Zaken,\
-Namens deze:\
-Hoofd DVB/IA,\
+De Minister van Buitenlandse Zaken, Namens deze: Hoofd DVB/IA,\
 N. van Heezik

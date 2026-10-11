@@ -55,7 +55,5 @@ Deze regeling wordt aangehaald als: Vergoedingenregeling centrale commissie medi
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-C.I.J.M.Ross-van Dorp
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport\
+C.I.J.M. Ross-van Dorp

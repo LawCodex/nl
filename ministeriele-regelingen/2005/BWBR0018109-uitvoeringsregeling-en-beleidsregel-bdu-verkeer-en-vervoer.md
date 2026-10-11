@@ -86,10 +86,8 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling en beleidsregel BDU verk
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen I en II, die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-K.M.H.Peijs
+De Minister van Verkeer en Waterstaat,\
+K.M.H. Peijs
 
 ## Bijlage I — , behorende bij artikel 5, eerste lid, van de Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer
 

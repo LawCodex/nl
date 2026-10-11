@@ -101,10 +101,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit zal als bijlage bij de *‘Verklaring van Overbrenging van het archief van het consulaat-generaal te Londen (Groot-Brittannië) (1824) 1890–1949, het Nederlandse gezantschap, later de Nederlandse Ambassade in Groot-Brittannië (Londen), (1920) 1937–1945 en het archief van de Nederlandse Ambassade te Londen (1917) 1945–1954’* worden gevoegd.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

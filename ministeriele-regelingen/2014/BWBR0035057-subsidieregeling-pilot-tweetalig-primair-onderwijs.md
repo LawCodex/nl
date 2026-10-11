@@ -140,7 +140,5 @@ Deze regeling wordt aangehaald als: Subsidieregeling pilot tweetalig primair ond
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker.
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker.

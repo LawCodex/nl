@@ -222,10 +222,8 @@ Deze regeling wordt aangehaald als: Bekostigingsregeling Wuvo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.L.L.E.Veldhuijzen van Zanten-Hyllner
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.L.L.E. Veldhuijzen van Zanten-Hyllner
 
 ## Bijlage — bij artikel 1 van de Bekostigingsregeling Wuvo
 

@@ -73,12 +73,9 @@ Regeling tarieven Kamer voor de Binnenvisserij.
 
 's-Gravenhage 11 maart 1980
 
-De\
-Minister\
-Landbouw en Visserij
+De Minister van Landbouw en Visserij,
 
 Voor deze,
 
-De\
-secretaris-generaal\
+De secretaris-generaal,\
 Van Setten

@@ -45,9 +45,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 22 november 2021
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-Namens deze,\
-De algemene rijksarchivaris,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, Namens deze, De algemene rijksarchivaris,\
 A.J.M. Doek
 
 [^n1]: 1 Besluit van de Minister-President, Minister van Algemene Zaken van 10 februari 2003, nr. 03M449318, houdende beperkingen van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het ministerie voor Algemeene Oorlogvoering van het Koninkrijk (1942–1946), het Kabinet van de Minister-President (1946–1947) en het Ministerie van Algemene Zaken van de Minister-President (1947–heden), over het tijdvak (1924) 1942–1979 (1989).

@@ -2076,10 +2076,8 @@ Deze regeling kan worden aangehaald onder de titel: Voorschrift Vreemdelingen 20
 
 's-Gravenhage 18 december 2000
 
-De\
-Staatssecretaris\
-Justitie\
-M.J.Cohen
+De Staatssecretaris van Justitie,\
+M.J. Cohen
 
 ## Bijlage 1 — behorend bij artikel 2.1, eerste lid, onderdeel a, Voorschrift Vreemdelingen 2000
 

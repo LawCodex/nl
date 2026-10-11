@@ -85,7 +85,5 @@ De beschikking van de Staatssecretaris van Financiën van 17-7-198517 juli 1985,
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, eerste lid, onderdeel d, toepassing met betrekking tot dividenden, interest en royalty's die op of na 1 januari 1981 tegoedgeschreven zijn of betaalbaar zijn.
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën,\
 M. J. J. van Amelsvoort

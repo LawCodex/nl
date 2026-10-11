@@ -136,7 +136,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2010, met dien verstand
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

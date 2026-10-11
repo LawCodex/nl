@@ -35,7 +35,5 @@ goed te keuren.
 
 Dit besluit zal samen het betreffende besluit worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F. Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst.

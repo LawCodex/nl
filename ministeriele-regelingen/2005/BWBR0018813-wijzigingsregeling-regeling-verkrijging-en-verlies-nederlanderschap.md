@@ -37,7 +37,5 @@ Het eerste lid van artikel 5, zoals dat komt te luiden na inwerkingtreding van d
 
 2\. Deze regeling treedt in werking op 1 januari 2006.
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-M.C.F.Verdonk
+De Minister voor Vreemdelingenzaken en Integratie,\
+M.C.F. Verdonk

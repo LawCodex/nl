@@ -79,7 +79,5 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling Opiumwet.
 
 Deze regeling treedt in werking op het tijdstip waarop de Wet van 13 juli 2002 tot wijziging van de Opiumwet (Stb. 2002, 520) in werking treedt.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
+De Minister van Volksgezondheid, Welzijn en Sport,\
 A.J. de Geus

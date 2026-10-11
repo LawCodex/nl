@@ -104,8 +104,7 @@ Gegeven te
 Willem-Alexander
 
 De Minister van Onderwijs, Cultuur en Wetenschap,\
-I.K. van Engelshoven\
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
+I.K. van Engelshoven De Minister voor Basis- en Voortgezet Onderwijs en Media,\
 A. Slob
 
 de *vijftiende* november 2021

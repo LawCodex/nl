@@ -52,7 +52,5 @@ Deze regeling treedt in werking met ingang van 1 januari 1995.
 
 De regeling wordt aangehaald als: Uitvoeringsregeling uitgezonderde objecten Wet waardering onroerende zaken.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

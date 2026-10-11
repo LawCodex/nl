@@ -154,10 +154,8 @@ Deze regeling wordt aangehaald als: Regeling Yakovlev-52 vliegtuigen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld
 
 ## Bijlage 1 — bedoeld in artikel 2, derde lid, van de Regeling Yakovlev-52 vliegtuigen
 

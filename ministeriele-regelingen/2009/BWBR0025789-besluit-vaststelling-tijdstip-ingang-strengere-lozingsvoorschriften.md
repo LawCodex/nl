@@ -25,13 +25,11 @@ Gelet op resolutie MEPC.172(57) van de Mariene Milieucommissie van de Internatio
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Voorschrift 5 van Bijlage V van het Verdrag met betrekking tot lozingen in bijzondere gebieden wordt met ingang van 1 mei 2009 van toepassing in het gebied van de Middellandse zee, zoals omschreven in dat voorschrift.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa

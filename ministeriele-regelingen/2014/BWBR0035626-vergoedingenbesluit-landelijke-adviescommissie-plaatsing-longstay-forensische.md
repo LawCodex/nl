@@ -50,7 +50,5 @@ Dit besluit wordt aangehaald als: Vergoedingenbesluit Landelijke adviescommissie
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

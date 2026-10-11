@@ -75,9 +75,5 @@ Dit besluit wordt aangehaald als: Besluit aansluiting bezwarenadviescommissie pe
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De Minister-President,\
-Minister\
-Algemene Zaken,\
-namens deze:\
-De Secretaris-Generaal\
-K.H.Ollongren,
+De Minister-President, Minister van Algemene Zaken,namens deze:De Secretaris-Generaal\
+K.H. Ollongren,

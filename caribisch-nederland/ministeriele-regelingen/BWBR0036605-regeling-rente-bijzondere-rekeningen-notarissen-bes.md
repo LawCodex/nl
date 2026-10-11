@@ -60,7 +60,5 @@ Deze regeling met toelichting zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 29 april 2015
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-K.H.D.M.Dijkhoff
+De Staatssecretaris van Veiligheid en Justitie,\
+K.H.D.M. Dijkhoff

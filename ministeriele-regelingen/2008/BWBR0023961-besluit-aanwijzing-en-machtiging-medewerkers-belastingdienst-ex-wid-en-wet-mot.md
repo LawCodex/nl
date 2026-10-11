@@ -33,9 +33,5 @@ De volgende functionarissen zijn gemandateerd om besluiten te nemen en gemachtig
 
 de voorzitter van het managementteam van de Belastingdienst/Holland-Midden.
 
-De\
-Minister\
-Financiën\
-namens deze:\
-plv. Thesaurier-Generaal\
-B. terHaar
+De Minister van Financiën, namens deze: de plv. Thesaurier-Generaal,\
+B. ter Haar

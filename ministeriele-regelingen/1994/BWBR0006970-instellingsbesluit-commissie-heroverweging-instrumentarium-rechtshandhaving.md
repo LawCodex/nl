@@ -76,7 +76,5 @@ Dit besluit wordt bekend gemaakt door publikatie in de Staatscourant.
 
 's-Gravenhage 14 oktober 1994
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

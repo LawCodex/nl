@@ -158,15 +158,11 @@ Deze regeling zal met de toelichting en de bijbehorende bijlage in de Staatscour
 
 ’s-Gravenhage 12 oktober 1999
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-A.Peper
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+A. Peper
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals
 
 ## Bijlage — behorend bij artikel 2
 

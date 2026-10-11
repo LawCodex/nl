@@ -39,7 +39,5 @@ Dit besluit treedt in werking op 1 januari 2020.
 
 Dit besluit wordt bekend gemaakt in de Staatscourant.
 
-De Minister van Infrastructuur en Waterstaat,\
-Namens deze,\
-DE DIRECTEUR MARITIEME ZAKEN,\
+De Minister van Infrastructuur en Waterstaat, Namens deze, DE DIRECTEUR MARITIEME ZAKEN,\
 B.C.M. Gijsbers

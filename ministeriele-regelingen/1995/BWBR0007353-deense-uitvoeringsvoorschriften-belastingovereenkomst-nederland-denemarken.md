@@ -84,7 +84,5 @@ De regeling van de Staatssecretaris van Financiën van 26 november 1990, nr. IFZ
 
 3\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty's die op of na 1 april 1992 zijn betaald of betaalbaar zijn gesteld.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend

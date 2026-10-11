@@ -98,12 +98,8 @@ De Regeling bijdragen aanleg snelgroeiend bos (Stcrt. 1984, 253) wordt ingetrokk
 
 's-Gravenhage 14 oktober 1988
 
-De\
-minister\
-Landbouw en Visserij\
-G. J. M.Braks
+De minister van Landbouw en Visserij,\
+G. J. M. Braks ,
 
-De\
-minister\
-Economische Zaken\
-R. W. deKorte
+De minister van Economische Zaken,\
+R. W. de Korte

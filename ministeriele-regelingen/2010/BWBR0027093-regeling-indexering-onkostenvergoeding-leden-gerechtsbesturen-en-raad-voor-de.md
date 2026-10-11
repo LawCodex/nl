@@ -47,10 +47,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 5 januari 2010
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin
 
 ## Bijlage 1 — als bedoeld in artikel 3, eerste lid
 

@@ -93,7 +93,5 @@ Dit besluit zal worden aangehaald als: Instellingsbesluit Voorlichtingsraad Rijk
 
 Dit besluit wordt in de Staatscourant geplaatst.
 
-De\
-Minister-President\
-Algemene Zaken,\
+De Minister-President, Minister van Algemene Zaken,\
 W. Kok

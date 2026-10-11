@@ -43,9 +43,5 @@ De regeling treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 7 november 2011
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze:\
-H.J.I.M. deRooij,\
-plaatsvervangend secretaris-generaal.
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze:\
+H.J.I.M. de Rooij,plaatsvervangend secretaris-generaal.

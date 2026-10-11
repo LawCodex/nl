@@ -44,7 +44,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2003.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-J.F.Hoogervorst
+De Minister van Financiën,\
+J.F. Hoogervorst

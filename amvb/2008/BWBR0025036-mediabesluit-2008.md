@@ -506,13 +506,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Onderwijs, Cultuur en Wetenschap\
-R. H. A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R. H. A. Plasterk
 
 de *dertigste* december 2008
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 ## Bijlage — behorende bij het Mediabesluit 2008
 

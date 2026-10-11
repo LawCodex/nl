@@ -127,10 +127,8 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus.
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus.
 
 ## Bijlage — bij artikel 3 van de Regeling sturing van en toezicht op de NIWO
 

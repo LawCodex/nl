@@ -31,7 +31,5 @@ De artikelen 39 en 42 van de Uitvoeringsregeling loonbelasting 1990 (Stcrt. 1989
 
 Deze regeling treedt in werking met ingang van de tweede dag na die van dagtekening van de Staatscourant, waarin zij is geplaatst.
 
-De\
-staatssecretaris\
-Financiën\
+De staatssecretaris van Financiën,\
 M. J. J. van Amelsvoort

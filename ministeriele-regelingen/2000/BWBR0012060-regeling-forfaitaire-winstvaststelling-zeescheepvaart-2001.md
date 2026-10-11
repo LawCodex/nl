@@ -87,7 +87,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 20 december 2000
 
-De\
-Staatssecretaris\
-Financiën\
-W.J.Bos
+De Staatssecretaris van Financiën,\
+W.J. Bos

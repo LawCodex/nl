@@ -76,10 +76,8 @@ Deze regeling wordt aangehaald als: Regeling nevenwerkzaamheden Defensie.
 
 Deze regeling zal met de toelichting worden gepubliceerd in de serie ministeriële publicaties (MP-32); deze regeling zal tevens worden geplaatst in de Staatscourant.
 
-De\
-Staatssecretaris\
-Defensie\
-H.A.L. vanHoof
+De Staatssecretaris van Defensie,\
+H.A.L. van Hoof
 
 ## Bijlage
 

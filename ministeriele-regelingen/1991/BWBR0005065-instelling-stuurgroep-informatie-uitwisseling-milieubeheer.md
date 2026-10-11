@@ -79,7 +79,5 @@ Dit besluit wordt bekendgemaakt in de Staatscourant.
 
 's-Gravenhage 25 april 1991
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. G. M.Alders
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. G. M. Alders

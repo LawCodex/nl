@@ -44,14 +44,10 @@ Deze beschikking kan worden aangehaald als: Beschikking aanwijzing landen Kernen
 
 's-Gravenhage 5 december 1969
 
-De\
-Minister\
-Economische Zaken
+De Minister van Economische Zaken,
 
 L. de Block
 
-De\
-Staatssecretaris\
-Sociale Zaken en Volksgezondheid
+De Staatssecretaris van Sociale Zaken en Volksgezondheid,
 
 R. J. H. Kruisinga

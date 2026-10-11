@@ -80,6 +80,13 @@ retrieved: 2026-10-11
 - Explanatory memoranda (*memorie van toelichting*), except where the BWB text itself includes a
   *toelichting* (some ministerial regulations do).
 
+Known gaps in this snapshot:
+
+- `BWBR0015091` (*Inhaalverbod voor vrachtauto's op diverse autosnelwegen in beheer bij het Rijk*,
+  ministeriële regeling) is listed by the SRU service but its XML and manifest are not available
+  in the official repository (HTTP redirect loop), so it is missing.
+- The SRU service listed 7,922 ministeriële regelingen in force; 7,921 are included.
+
 ## Sources
 
 - List of regelingen: KOOP SRU search service, connection `BWB`

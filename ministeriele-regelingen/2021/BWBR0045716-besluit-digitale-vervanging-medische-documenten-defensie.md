@@ -58,9 +58,7 @@ Dit besluit zal in de Staatscourant worden geplaatst. Het handboek wordt ter inz
 
 ’s Gravenhage 5 oktober 2021
 
-De Minister van Defensie,\
-Namens deze\
-De Directeur-Generaal Beleid\
+De Minister van Defensie, Namens deze De Directeur-Generaal Beleid\
 J.C.S. Wijnands
 
 [^n1]: 1 In de loop van 2021 wordt deze instructie vervangen door de Aanwijzing DGB Informatiebeheer Defensie

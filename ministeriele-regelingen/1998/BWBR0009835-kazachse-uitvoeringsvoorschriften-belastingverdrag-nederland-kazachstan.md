@@ -156,7 +156,5 @@ Ter uitvoering van artikel 1 is van Kazachse zijde de volgende regeling getroffe
 
 3\. Zij vindt toepassing met betrekking tot dividenden, interest en royalty’s die zijn betaald of worden betaald in een belastingjaar of belastingtijdvak dat aanvangt op of na 1 januari 1996.
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

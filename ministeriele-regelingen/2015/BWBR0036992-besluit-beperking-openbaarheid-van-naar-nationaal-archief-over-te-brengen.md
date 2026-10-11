@@ -49,9 +49,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 1 september 2015
 
-de\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-I.D.Nijboer\
-plaatsvervangend secretaris-generaal
+de Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+I.D. Nijboerplaatsvervangend secretaris-generaal

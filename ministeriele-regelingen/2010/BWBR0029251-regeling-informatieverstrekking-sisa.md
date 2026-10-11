@@ -85,10 +85,8 @@ Deze regeling wordt aangehaald als: Regeling informatieverstrekking sisa.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.P.H.Donner
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.P.H. Donner
 
 ## Bijlage 1 — bij artikel 3 van de Regeling informatieverstrekking sisa: SiSa-bijlage verantwoordingsinformatie 2018 + Tabel van fouten en onzekerheden 2018
 

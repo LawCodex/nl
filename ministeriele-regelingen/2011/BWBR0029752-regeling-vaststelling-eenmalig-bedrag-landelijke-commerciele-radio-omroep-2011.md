@@ -101,10 +101,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 17 maart 2011
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen
 
 ## Bijlage — Model voor een bankgarantie als bedoeld in artikel 3, tweede lid, van de Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011
 
@@ -142,4 +140,4 @@ In aanmerking nemende:
 
   .....
 
-[^n1]: 1 dit model dient te worden gebruikt voor een bankgarantie
+[^n1]: 1 dit model dient te worden gebruikt voor een bankgarantie voor het stellen van zekerheid in het kader van de aanvraagprocedure (i.v.m. de verplichting bedoeld in de verklaring onder I.C) of met het oog op het verkrijgen van uitstel van betaling (i.v.m. de verplichting bedoeld in de verklaring onder I.D) of ten behoeve van beide. In het eerste geval (a) geldt de bankgarantie in beginsel voor maximaal één jaar. Bij toepassing als bedoeld onder (b) en (c), als de bankgarantie (mede) dient als zekerheid voor de verlening van uitstel van betaling, geldt de bankgarantie in beginsel voor maximaal zes jaar. De aanvrager kan al bij de aanvraag om verlenging en verlening een verzoek om uitstel van betaling doen en dan zekerheid verschaffen met behulp van een bankgarantie voor in beginsel maximaal zes jaar.

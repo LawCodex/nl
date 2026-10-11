@@ -173,12 +173,9 @@ Dit reglement wordt bekend gemaakt in de Staatscourant en ligt ter inzage bij:
 
 's-Gravenhage 25 juni 1990
 
-De\
-staatssecretaris\
-Justitie
+De staatssecretaris van Justitie,
 
 namens de staatssecretaris,
 
-De\
-directeur-generaal Jeugdbescherming en Delinkwentenzorg\
-mr. H.B.Greven
+De directeur-generaal Jeugdbescherming en Delinkwentenzorg,\
+mr. H.B. Greven

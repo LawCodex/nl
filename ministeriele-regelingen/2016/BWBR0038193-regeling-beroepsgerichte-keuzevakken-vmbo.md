@@ -103,10 +103,8 @@ Deze regeling wordt aangehaald als: Regeling beroepsgerichte keuzevakken vmbo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker
 
 ## Bijlage 1 — behorende bij artikel 3, tweede lid, van de Regeling beroepsgerichte keuzevakken vmbo
 

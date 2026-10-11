@@ -49,8 +49,5 @@ Het in artikel 1 bedoelde reglement kan worden aangehaald als: Privacyreglement 
 
 ’s-Gravenhage 31 juli 1998
 
-De\
-Ministerie\
-Justitie\
-plv. secretaris-generaal\
-H.W.M.Schoof
+De Ministerie van Justitie, Namens deze, De plv. secretaris-generaal,\
+H.W.M. Schoof

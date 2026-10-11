@@ -55,13 +55,7 @@ Dit besluit vervangt het Instellingsbesluit Klachtenadviescommissie Wsnp van 4 m
 
 Utrecht 20 mei 2014
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-de Raad voor Rechtsbijstand\
-P.J.M. van denBiggelaar\
-Directeur stelsel
+De Minister van Veiligheid en Justitie,namens deze,de Raad voor Rechtsbijstand\
+P.J.M. van den BiggelaarDirecteur stelsel
 
-J. Wijkstra\
-Directeur bedrijfsvoering
+J. Wijkstra Directeur bedrijfsvoering

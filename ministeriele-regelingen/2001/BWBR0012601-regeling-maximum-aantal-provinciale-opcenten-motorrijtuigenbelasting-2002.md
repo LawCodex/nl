@@ -35,7 +35,5 @@ Het door de provincies te heffen aantal opcenten voor de periode 1 april 2002 to
 
 De regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën,\
 W. Bos

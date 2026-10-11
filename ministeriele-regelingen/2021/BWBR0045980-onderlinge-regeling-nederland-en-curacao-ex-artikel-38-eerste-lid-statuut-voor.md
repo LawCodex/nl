@@ -128,12 +128,10 @@ Binnen een maand na ondertekening wordt de tekst van deze onderlinge regeling in
 
 Den Haag 2 december 2021
 
-De Minister van Economische Zaken en Klimaat,\
-van Nederland,\
+De Minister van Economische Zaken en Klimaat, van Nederland,\
 S.A. Blok
 
 Willemstad 29 november 2021
 
-De Minister van Justitie\
-van Curaçao,\
+De Minister van Justitie van Curaçao,\
 G.S. Pisas

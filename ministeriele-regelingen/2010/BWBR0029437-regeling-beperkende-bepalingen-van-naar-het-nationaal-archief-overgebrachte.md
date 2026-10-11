@@ -41,7 +41,5 @@ De Algemene Rijksarchivaris verplicht zich de archiefbescheiden in goede staat t
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.P.H.Donner
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.P.H. Donner

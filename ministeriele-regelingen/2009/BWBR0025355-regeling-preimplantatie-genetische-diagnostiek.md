@@ -49,10 +49,8 @@ Deze regeling wordt aangehaald als: Regeling preïmplantatie genetische diagnost
 
 Deze regeling zal met de daarbij behorende bijlagen en toelichting in de Staatscourant worden geplaatst.
 
-De\
-staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker
 
 ## Bijlage 1
 

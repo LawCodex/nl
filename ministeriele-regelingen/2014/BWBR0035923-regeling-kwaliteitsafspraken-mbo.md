@@ -427,10 +427,8 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage 1 — bij artikel 1.4, tweede lid, aanhef en onder a, van de Regeling kwaliteitsafspraken mbo
 

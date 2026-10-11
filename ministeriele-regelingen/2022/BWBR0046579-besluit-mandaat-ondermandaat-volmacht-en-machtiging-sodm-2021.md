@@ -186,5 +186,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 23 maart 2022
 
-T.F. Kockelkoren,\
-Inspecteur-generaal der Mijnen
+T.F. Kockelkoren, Inspecteur-generaal der Mijnen

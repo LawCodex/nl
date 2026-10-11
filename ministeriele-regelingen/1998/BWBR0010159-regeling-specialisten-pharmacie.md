@@ -39,7 +39,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 22 december 1998
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
+De Minister van Volksgezondheid, Welzijn en Sport,\
 E. Borst-Eilers

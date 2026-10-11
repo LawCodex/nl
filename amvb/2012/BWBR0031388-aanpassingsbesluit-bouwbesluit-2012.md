@@ -49,7 +49,7 @@ Wijzigt het Experimentenbesluit excellente gebieden.
 
 ## Hoofdstuk 2 — Ministerie van Defensie
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt het Besluit militaire luchthavens.
 
@@ -97,13 +97,13 @@ Wijzigt het Vuurwerkbesluit.
 
 ## Hoofdstuk 4 — Ministerie van Sociale Zaken en Werkgelegenheid
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
 ## Hoofdstuk 5 — Ministerie van Volksgezondheid, Welzijn en Sport
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt het Besluit eisen inrichtingen Drank- en Horecawet.
 

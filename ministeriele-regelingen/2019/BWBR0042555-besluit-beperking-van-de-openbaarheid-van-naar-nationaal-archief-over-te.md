@@ -83,7 +83,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging’ van de archieven van de Rijkswerkinrichting Veenhuizen / Esserheem uit de periode 1940–1956.
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-M.A. Schippers\
-directeur Divisie Gevangeniswezen en Vreemdelingenbewaring Dienst Justitiële Inrichtingen
+De Minister van Justitie en Veiligheid, namens deze,\
+M.A. Schippers directeur Divisie Gevangeniswezen en Vreemdelingenbewaring Dienst Justitiële Inrichtingen

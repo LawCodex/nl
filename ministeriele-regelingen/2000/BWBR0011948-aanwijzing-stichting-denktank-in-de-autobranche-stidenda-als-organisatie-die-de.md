@@ -61,7 +61,5 @@ De verstrekking van de in artikel 1 bedoelde gegevens aan de Stichting Denktank 
 
 's-Gravenhage 13 december 2000
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos

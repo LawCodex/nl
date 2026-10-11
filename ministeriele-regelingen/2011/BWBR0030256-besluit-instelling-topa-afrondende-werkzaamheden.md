@@ -106,7 +106,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 6 juli 2011
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.P.H.Donner
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.P.H. Donner

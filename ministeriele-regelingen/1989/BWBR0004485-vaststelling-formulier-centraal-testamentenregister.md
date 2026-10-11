@@ -31,11 +31,9 @@ Besluit:
 
 's-Gravenhage 13 januari 1989
 
-De\
-staatssecretaris
+De staatssecretaris voornoemd,
 
 Namens de staatssecretaris,
 
-Het\
-hoofd van de Hoofdafdeling Privaatrecht,\
-W.Breukelaar
+Het hoofd van de Hoofdafdeling Privaatrecht,\
+W. Breukelaar

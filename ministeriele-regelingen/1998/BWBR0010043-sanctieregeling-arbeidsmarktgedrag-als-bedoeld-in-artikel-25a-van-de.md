@@ -122,7 +122,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als Sanctieregeling arbeidsmarktgedrag als bedoeld in artikel 25a van de Uitkeringsregeling 1966.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
 A. Peper

@@ -86,7 +86,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 augustus 2012
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-H.G.J.Kamp
+De Minister van Sociale Zaken en Werkgelegenheid,\
+H.G.J. Kamp

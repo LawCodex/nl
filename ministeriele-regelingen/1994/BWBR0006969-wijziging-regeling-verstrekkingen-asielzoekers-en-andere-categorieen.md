@@ -37,8 +37,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 's-Gravenhage 14 oktober 1994
 
-De\
-Staatssecretaris
+De Staatssecretaris van
 
-Justitie\
-E.M.A.Schmitz
+Justitie,\
+E.M.A. Schmitz

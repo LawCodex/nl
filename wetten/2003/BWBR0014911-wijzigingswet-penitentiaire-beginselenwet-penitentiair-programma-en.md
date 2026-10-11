@@ -45,14 +45,10 @@ Gegeven te 's-Gravenhage 3 april 2003
 
 Beatrix
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 J. P. H. Donner
 
 de vijftiende april 2003
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 J. P. H. Donner

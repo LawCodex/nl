@@ -115,7 +115,5 @@ Aldus vastgesteld.
 
 's-Gravenhage 18 mei 1971
 
-De\
-examencommissie,\
-A. E. M.Ribberink\
-voorzitter
+Deexamencommissie,\
+A. E. M. Ribberink, voorzitter

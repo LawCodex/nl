@@ -65,12 +65,8 @@ Afschrift van deze beschikking, die in de Nederlandse Staatscourant zal worden b
 
 's-Gravenhage 10 april 1972
 
-De\
-Staatssecretaris\
-Economische Zaken\
-J. J. M.Oostenbrink
+De Staatssecretaris van Economische Zaken,\
+J. J. M. Oostenbrink
 
-De\
-Minister\
-Onderwijs en Wetenschappen\
-C. vanVeen
+De Minister van Onderwijs en Wetenschappen,\
+C. van Veen

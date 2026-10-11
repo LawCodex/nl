@@ -59,11 +59,7 @@ Deze regeling wordt aangehaald als: Samenwerkingsregeling politie-Koninklijke ma
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 
-K.G. de Vries\
-Minister\
-Justitie\
+K.G. de VriesDe Minister van Justitie,\
 A.H. Korthals

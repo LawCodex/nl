@@ -45,19 +45,19 @@ Gegeven te ’s-Gravenhage 2 november 2006
 
 Beatrix
 
-DeMinister-President, MinistervanAlgemene Zaken\
-J. P.Balkenende
+DeMinister-President, MinistervanAlgemene Zaken,\
+J. P. Balkenende
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-J. W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J. W. Remkes
 
-De Minister van Defensie\
-H. G. J.Kamp
+De Minister van Defensie,\
+H. G. J. Kamp
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 de *achtentwintigste* november 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

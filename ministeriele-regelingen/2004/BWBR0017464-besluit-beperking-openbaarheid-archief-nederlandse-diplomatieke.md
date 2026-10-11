@@ -102,10 +102,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Nederlandse vertegenwoordiging te Montauban 1930–1944, de Nederlandse vertegenwoordiging te Nice (Frankrijk) (1896) 1919–1952, het vice consulaat Noumea 1934–1952, het gezantschap te Frankrijk (Parijs) 1866–1940, het consulaat, vice consulaat en Office Neerlandais Toulouse (1940–1946), en het consulaat-generaal Vichy (1940–1945)’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

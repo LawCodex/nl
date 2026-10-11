@@ -27,11 +27,9 @@ Na op 3 mei 2013 schriftelijk mededeling te hebben gedaan aan de Eerste en de Tw
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 In afwijking van artikel 5 van de Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juni 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het Experiment regelarme instellingen in de langdurige zorg, nr. MC-U-3117725 (Stcrt. 2012, 13948), eindigt een experiment als bedoeld in die aanwijzing uiterlijk met ingang van 1 januari 2015.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn

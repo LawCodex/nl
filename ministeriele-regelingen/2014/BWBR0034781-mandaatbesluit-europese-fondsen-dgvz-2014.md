@@ -62,7 +62,5 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Europese fondsen DGVZ 2014.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

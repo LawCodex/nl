@@ -93,7 +93,5 @@ Deze regeling wordt aangehaald als: Regeling elektronische bekendmaking Tractate
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-De\
-Staatssecretaris\
-Buitenlandse Zaken\
-F.C.G.M.Timmermans
+De Staatssecretaris van Buitenlandse Zaken,\
+F.C.G.M. Timmermans

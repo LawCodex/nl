@@ -74,7 +74,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 6 december 1999
 
-De\
-Minister\
-Economische Zaken\
-A.Jorritsma-Lebbink
+De Minister van Economische Zaken,\
+A. Jorritsma-Lebbink

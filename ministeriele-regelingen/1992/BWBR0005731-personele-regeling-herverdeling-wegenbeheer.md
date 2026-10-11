@@ -378,7 +378,5 @@ Dit besluit kan worden aangehaald als: Personele regeling herverdeling wegenbehe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J.R.H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J.R.H. Maij-Weggen

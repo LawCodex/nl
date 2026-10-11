@@ -27,7 +27,7 @@ Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is een nieuw Wetboe
 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze, vast te stellen de volgende bepalingen, welke zullen uitmaken het WETBOEK VAN MILITAIR STRAFRECHT.
 
-## Boek Eerste — Algemene bepalingen
+## Eerste Boek — Algemene bepalingen
 
 ### Inleiding Toepasselijkheid van het gemene strafrecht
 
@@ -477,7 +477,7 @@ Voor de toepassing van de artikelen 164, 166 en 169 worden onder rij-, voer-, va
 
 Vervallen
 
-## Boek Tweede — Misdrijven
+## Tweede Boek — Misdrijven
 
 ### Titel I — Misdrijven tegen de veiligheid van de Staat
 
@@ -1065,7 +1065,7 @@ Voor de toepassing van de artikelen 163 en 164 wordt met alcoholhoudende drank g
 
 Hij die opzettelijk wederrechtelijk enig motorrijtuig, vaartuig of luchtvaartuig gebruikt, dat bij de krijgsmacht in gebruik is, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de tweede categorie.
 
-## Boek Derde — Overtredingen
+## Derde Boek — Overtredingen
 
 ### Titel I — Verkeersovertredingen
 

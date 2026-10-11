@@ -35,7 +35,5 @@ Dit besluit, waarvan afschrift zal worden gezonden aan de Minister van Landbouw,
 
 ’s-Gravenhage 19 januari 1996
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-M. deBoer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+M. de Boer

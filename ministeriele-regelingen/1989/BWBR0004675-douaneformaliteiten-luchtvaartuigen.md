@@ -63,12 +63,9 @@ Afschrift van dit besluit wordt gezonden aan de minister van Verkeer en Watersta
 
 's-Gravenhage 22 december 1989
 
-De\
-staatssecretaris\
-Financiën
+De staatssecretaris van Financiën,
 
 namens deze:
 
-De\
-directeur-generaal der belastingen,\
-C.Boersma
+De directeur-generaal der belastingen,\
+C. Boersma

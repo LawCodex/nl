@@ -67,7 +67,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-Namens deze:\
-Chief Veterinary Inspector van de Nederlandse Voedsel- en Warenautoriteit,\
+De Minister van Landbouw, Natuur en Voedselkwaliteit, Namens deze: Chief Veterinary Inspector van de Nederlandse Voedsel- en Warenautoriteit,\
 P.F. de Klerk

@@ -51,9 +51,7 @@ Dit besluit treedt in werking met ingang van de eerste werkdag na de dagtekening
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst en op www.government.nl.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking\
-namens deze,\
-de Directeur-Generaal Internationale Samenwerking,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking namens deze, de Directeur-Generaal Internationale Samenwerking,\
 K.M. van der Heijden
 
 ## Bijlage

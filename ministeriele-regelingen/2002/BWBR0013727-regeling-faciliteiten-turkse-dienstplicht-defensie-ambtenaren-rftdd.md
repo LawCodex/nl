@@ -109,10 +109,8 @@ Deze regeling wordt aangehaald als: Regeling faciliteiten Turkse dienstplicht de
 
 Deze regeling zal in de MP 31-108 en MP 33-205 worden opgenomen en in de Staatscourant worden gepubliceerd.
 
-De\
-Staatssecretaris\
-Defensie\
-H.A.L. vanHoof
+De Staatssecretaris van Defensie,\
+H.A.L. van Hoof
 
 ## Bijlage
 

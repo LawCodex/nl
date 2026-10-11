@@ -1028,10 +1028,8 @@ Deze regeling wordt aangehaald als: Regeling genetisch gemodificeerde organismen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld
 
 ## Bijlage 1 — behorende bij artikel 3 en artikel 4 van de Regeling genetisch gemodificeerde organismen milieubeheer 2013
 

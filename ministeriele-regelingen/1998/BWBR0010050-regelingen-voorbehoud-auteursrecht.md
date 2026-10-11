@@ -31,10 +31,8 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd op de afdeling Bibliotheek en Documentatie van het Ministerie van Financiën.
 
-De\
-Minister\
-Financiën,\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
 ## Bijlage
 

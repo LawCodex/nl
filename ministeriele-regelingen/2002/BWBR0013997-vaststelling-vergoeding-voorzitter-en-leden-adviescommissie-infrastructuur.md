@@ -35,11 +35,8 @@ Voor de voorbereidende werkzaamheden in het kader van het beoordelen van subsidi
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken
+De Minister van Economische Zaken,
 
 namens deze:
 
-R. Bemer\
-directeur-generaal van Innovatie
+R. Bemer , directeur-generaal van Innovatie

@@ -29,7 +29,7 @@ Gezien mijn inbreng van het schriftelijk verslag van 27 oktober 2008 (Kamerstukk
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Voor het maken van productieafspraken voor 2009 voor zorg met verblijf voor sterk gedragsgestoorde licht verstandelijk gehandicapten op verblijfplaatsen die ten behoeve van die categorie van gehandicapten na 30 juni 2009 zijn toegelaten op grond van de Wet toelating zorginstellingen zijn extra financiële middelen tot ten hoogste € 47 miljoen beschikbaar.
 
@@ -37,7 +37,5 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsregels op die 
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-M.Bussemaker
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M. Bussemaker

@@ -64,10 +64,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van de gezantschappen te Zweden (Stockholm) (1868) 1910–1946 (1948) en te Finland (Helsinki) 1919–1940, het consulaat-generaal te Stockholm (Zweden) 1896–1946 en het gezantschap te Zweden (Stockholm) (1944) 1946–1954’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

@@ -37,7 +37,5 @@ Dit besluit kan worden aangehaald als het Besluit vaststelling percentage heffin
 
 ’s-Gravenhage 14 maart 1996
 
-De\
-Minister\
-Binnenlandse Zaken\
-C.J. A.Maas
+De Minister van Binnenlandse Zaken,\
+C.J. A. Maas

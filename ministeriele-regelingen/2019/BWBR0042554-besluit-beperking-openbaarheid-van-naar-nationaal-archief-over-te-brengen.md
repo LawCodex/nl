@@ -243,7 +243,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging’ van de archieven van de gevangenissen in Breda uit de periode 1940–1975, en ’s-Hertogenbosch / Leuvense Poort uit de periode 1855–1975.
 
-De Minister van Justitie en Veiligheid,\
-namens deze,\
-A. M. Schippers\
-Directeur Divisie Gevangeniswezen en Vreemdelingenbewaring, Dienst Justitiële Inrichtingen
+De Minister van Justitie en Veiligheid, namens deze,\
+A. M. Schippers Directeur Divisie Gevangeniswezen en Vreemdelingenbewaring, Dienst Justitiële Inrichtingen

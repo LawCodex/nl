@@ -45,10 +45,8 @@ Dit besluit zal, met uitzondering van de bijlage, met de toelichting in de Staat
 
 Den Haag 4 november 2004
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-C.P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+C.P. Veerman
 
 ## Bijlage — behorende bij artikel 1 van het Besluit Rode lijsten flora en fauna
 

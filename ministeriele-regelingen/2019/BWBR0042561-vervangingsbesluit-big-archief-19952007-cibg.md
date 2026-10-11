@@ -49,7 +49,5 @@ Dit besluit zal in de Staatscourant worden geplaatst met uitzondering van het Ha
 
 Den Haag 4 juli 2019
 
-De Minister van Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-N.A. Laagland\
-Directeur CIBG
+De Minister van Volksgezondheid, Welzijn en Sport, namens deze,\
+N.A. Laagland Directeur CIBG

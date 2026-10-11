@@ -86,8 +86,6 @@ Het Mandaatbesluit Wet op het consumentenkrediet wordt ingetrokken.
 
 Dit besluit kan worden aangehaald als \`Mandaatbesluit 2002 Wet op het consumentenkrediet'.
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 G. Zalm

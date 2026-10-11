@@ -55,7 +55,5 @@ Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de
 
 Dit besluit wordt overeenkomstig artikel 10 van het Archiefbesluit 1995 als bijlage gevoegd bij de Verklaring van Overbrenging van de archieven van de Rijksconsulentschappen in de provincie Drenthe van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, 1901–1986
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-E. Heijblom\
-Plaatsvervangend secretaris-generaal
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+E. Heijblom Plaatsvervangend secretaris-generaal

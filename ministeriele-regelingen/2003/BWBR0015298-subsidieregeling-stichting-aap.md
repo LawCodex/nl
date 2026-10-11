@@ -147,7 +147,5 @@ Deze regeling wordt aangehaald als: Subsidieregeling Stichting AAP.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschappen\
-M.J.A. van derHoeven
+De Minister van Onderwijs, Cultuur en Wetenschappen,\
+M.J.A. van der Hoeven

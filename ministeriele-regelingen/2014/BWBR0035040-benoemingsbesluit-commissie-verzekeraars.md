@@ -65,7 +65,5 @@ Dit besluit wordt aangehaald als: Benoemingsbesluit Commissie verzekeraars.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem.
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem.

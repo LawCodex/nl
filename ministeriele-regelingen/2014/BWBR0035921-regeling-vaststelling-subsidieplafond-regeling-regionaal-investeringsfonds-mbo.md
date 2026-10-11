@@ -25,13 +25,11 @@ Gelet op artikel 4, derde lid, van de Regeling regionaal investeringsfonds mbo,
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond voor het kalenderjaar 2015, bedoeld in artikel 4, derde lid, van de Regeling regionaal investeringsfonds mbo wordt vastgesteld op € 34 miljoen.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-J.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+J. Bussemaker

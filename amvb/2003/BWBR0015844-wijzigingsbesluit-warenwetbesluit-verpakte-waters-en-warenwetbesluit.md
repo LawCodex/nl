@@ -59,14 +59,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
+De Minister van Volksgezondheid, Welzijn en Sport,\
 J. F. Hoogervorst
 
 de vijfentwintigste november 2003
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 J. P. H. Donner

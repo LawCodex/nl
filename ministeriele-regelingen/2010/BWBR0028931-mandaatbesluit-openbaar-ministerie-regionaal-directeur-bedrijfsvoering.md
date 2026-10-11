@@ -141,18 +141,10 @@ Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie region
 
 Dordrecht 23 juni 2010
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-hoofdofficier van justitie,\
-G.P. van deBeek
+De Minister van Justitie,namens deze:de hoofdofficier van justitie,\
+G.P. van de Beek
 
 Rotterdam 23 juni 2010
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-hoofdofficier van justitie,\
-H.C.D.Korvinus
+De Minister van Justitie,namens deze:de hoofdofficier van justitie,\
+H.C.D. Korvinus

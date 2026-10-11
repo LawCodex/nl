@@ -65,7 +65,5 @@ Dit besluit wordt aangehaald als: Mandaatbesluit AgentschapNL uitvoering van de 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
 M.C. van der Laan

@@ -110,7 +110,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ‘s-Gravenhage 5 september 2016
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert

@@ -12796,10 +12796,8 @@ Deze regeling wordt aangehaald als: Regeling voertuigen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
 ## Bijlage I — behorende bij artikel 2.1, derde lid
 

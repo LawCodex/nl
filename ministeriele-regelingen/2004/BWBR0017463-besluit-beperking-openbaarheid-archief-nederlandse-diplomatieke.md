@@ -83,10 +83,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt bekendgemaakt door kennisgeving daarvan in de Staatscourant. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging te China (Peking, Chunking, Nanking) (1862) 1872–1954; het consulaat te T’ièn-tsin 1899–1951; het consulaat te Amoy 1928–1949; het consulaat-generaal te Shanghai (1852) 1877–1945 en (1936) 1942–1951’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

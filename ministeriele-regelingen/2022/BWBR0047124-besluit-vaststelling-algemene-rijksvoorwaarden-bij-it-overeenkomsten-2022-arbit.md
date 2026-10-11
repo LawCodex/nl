@@ -39,8 +39,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit zal met de bijbehorende bijlage in de Staatscourant worden geplaatst.
 
-De Minister-President,\
-De Minister van Algemene Zaken,\
+De Minister-President, De Minister van Algemene Zaken,\
 M. Rutte
 
 ## Algemene Rijksvoorwaarden bij IT overeenkomsten 2022 (ARBIT-2022)

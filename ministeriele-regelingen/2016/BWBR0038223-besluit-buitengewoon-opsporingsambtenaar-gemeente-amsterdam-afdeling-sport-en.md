@@ -97,9 +97,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 1 juli 2016
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-namens deze,\
-S.L. deKoning\
-Wnd. Afdelingsmanager V&T
+De Staatssecretaris van Veiligheid en Justitie,namens deze,\
+S.L. de KoningWnd. Afdelingsmanager V&T

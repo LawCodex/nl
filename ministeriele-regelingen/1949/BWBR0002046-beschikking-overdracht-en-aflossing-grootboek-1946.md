@@ -123,7 +123,5 @@ Deze beschikking, die in de *Nederlandse Staatscourant* zal worden geplaatst, ka
 
 's-Gravenhage 9 februari 1949
 
-De\
-Minister\
-Financiën\
-P.Lieftinck
+De Minister van Financiën,\
+P. Lieftinck

@@ -107,7 +107,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 \`s-Gravenhage 21 december 2000
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-J.F.Hoogervorst
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J.F. Hoogervorst

@@ -41,9 +41,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 17 december 2009
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-voor deze:\
-directeur-generaal Ruimte\
-C.B.F.Kuijpers
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: de directeur-generaal Ruimte,\
+C.B.F. Kuijpers

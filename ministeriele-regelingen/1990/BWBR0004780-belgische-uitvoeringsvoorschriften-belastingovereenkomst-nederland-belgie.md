@@ -93,12 +93,9 @@ De beschikking van de Staatssecretaris van Financiën van 5 september 1985, nr. 
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, vijfde lid, onderdeel d, toepassing met betrekking tot dividenden, interest en royalty's die betaald of betaalbaar zijn gesteld op of na 1 januari 1971.
 
-De\
-staatssecretaris\
-Financiën
+De staatssecretaris van Financiën,
 
 namens deze,
 
-De\
-directeur-generaal voor Fiscale Zaken\
-A.Schoemaker
+De directeur-generaal voor Fiscale Zaken,\
+A. Schoemaker

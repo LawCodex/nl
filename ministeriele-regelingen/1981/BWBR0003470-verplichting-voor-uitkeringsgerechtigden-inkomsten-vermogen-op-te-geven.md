@@ -45,6 +45,5 @@ De Uitkeringsraad is gehouden de belanghebbenden van deze mogelijkheid in kennis
 
 Deze beschikking treedt in werking met ingang van de dag na die van plaatsing in de Nederlandse Staatscourant.
 
-De\
-Staatssecretaris\
-J. G.Kraaijeveld-Wouters
+De Staatssecretaris voornoemd,\
+J. G. Kraaijeveld-Wouters

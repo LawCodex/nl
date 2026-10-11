@@ -69,7 +69,5 @@ Dit besluit wordt aangehaald als: Machtigingsbesluit UBR|Advocaten en Adviseurs 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-L. Mulder\
-Secretaris-Generaal
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze,\
+L. Mulder Secretaris-Generaal

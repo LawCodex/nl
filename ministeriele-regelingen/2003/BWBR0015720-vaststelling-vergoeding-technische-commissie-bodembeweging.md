@@ -39,11 +39,8 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 \`s-Gravenhage 14 oktober 2003
 
-De\
-Minister\
-Economische Zaken
+De Minister van Economische Zaken,
 
 namens deze:
 
-G.J. Lankhorst\
-wnd. directeur-generaal voor Marktordening en Energie
+G.J. Lankhorst, wnd. directeur-generaal voor Marktordening en Energie

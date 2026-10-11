@@ -218,10 +218,8 @@ Deze regeling zal worden geplaatst in de Staatscourant en in de serie MinisteriÃ
 
 Den Haag 3 augustus 2009
 
-De\
-Minister\
-Defensie\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop
 
 ## Bijlage
 

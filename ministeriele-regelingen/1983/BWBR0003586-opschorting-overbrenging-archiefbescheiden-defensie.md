@@ -29,12 +29,9 @@ De Minister van Defensie wordt gemachtigd de overbrenging naar de rijksarchiefbe
 
 Rijswijk 12 april 1983
 
-De\
-Minister\
-Welzijn, Volksgezondheid en Cultuur
+De Minister van Welzijn, Volksgezondheid en Cultuur
 
 Namens deze,
 
-Het\
-hoofd van de Directie Musea,Monumenten en Archieven,\
+Het hoofd van de Directie Musea,Monumenten en Archieven,\
 Th. J. Meijer

@@ -57,14 +57,10 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Beatrix
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-M. C.van der Laan
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+M. C. van der Laan
 
 de *eerste* december 2003
 
-De\
-Minister\
-Justitie\
-J. P. H.Donner
+De Minister van Justitie,\
+J. P. H. Donner

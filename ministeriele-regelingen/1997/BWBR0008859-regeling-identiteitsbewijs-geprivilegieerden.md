@@ -65,10 +65,8 @@ Deze regeling wordt aangehaald als Regeling identiteitsbewijs geprivilegieerden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-G.Zalm
+De Minister van Buitenlandse Zaken, a.i.\
+G. Zalm
 
 ## Bijlage 1 — Organisaties zonder zetelovereenkomst en/of Internationale rechtspersoonlijkheid en personen in de openbare dienst van een vreemde staat
 

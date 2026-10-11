@@ -43,12 +43,10 @@ Gegeven te 's-Gravenhage 2 oktober 2003
 
 Beatrix
 
-De\
-Minister van Volksgezondheid, Welzijn en Sport,\
+De Minister van Volksgezondheid, Welzijn en Sport,\
 J. F. Hoogervorst
 
 de achtentwintigste oktober 2003
 
-De\
-Minister van Justitie,\
+De Minister van Justitie,\
 J. P. H. Donner

@@ -478,7 +478,5 @@ Deze regeling treedt in werking de tweede dag na dagtekening van de Staatscouran
 
 Deze regeling kan wordt aangehaald als de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005.
 
-De\
-Minister\
-Vreemdelingenzaken en Integratie\
-M.C.F.Verdonk
+De Minister voor Vreemdelingenzaken en Integratie,\
+M.C.F. Verdonk

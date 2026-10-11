@@ -88,21 +88,16 @@ Deze onderlinge regeling treedt in werking op het tijdstip van inwerkingtreding 
 
 Deze onderlinge regeling wordt in de Staatscourant, het Afkondigingsblad van Aruba, het Afkondigingsblad van Curaçao en het Afkondigingsblad van Sint Maarten geplaatst. Aldus in viervoud opgemaakt en getekend,
 
-Voor Nederland:\
-Minister\
-Justitie,\
-E.M.H.Hirsch Ballin
+Voor Nederland:De Minister van Justitie,\
+E.M.H. Hirsch Ballin
 
-Voor Aruba:\
-De Minister-President,\
+Voor Aruba: De Minister-President,\
 M.G. Eman
 
-Voor Curaçao:\
-De Gedeputeerde voor Constitutionele Zaken,\
+Voor Curaçao: De Gedeputeerde voor Constitutionele Zaken,\
 S.P. Osepa
 
-Voor Sint Maarten:\
-De Minister-President,\
+Voor Sint Maarten: De Minister-President,\
 S.A. Wescot-Williams
 
 ## Format implementatieplan verdragen

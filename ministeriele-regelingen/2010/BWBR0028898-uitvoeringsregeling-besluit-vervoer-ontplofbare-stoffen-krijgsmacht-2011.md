@@ -172,10 +172,8 @@ Deze regeling zal met de toelichting worden geplaatst in de Staatscourant en in 
 
 Den Haag 15 oktober 2010
 
-De\
-Minister\
-Defensie\
-J.S.J.Hillen
+De Minister van Defensie,\
+J.S.J. Hillen
 
 ## Bijlage A — Model voor het militair keuringsbewijs, bedoeld in artikel 6
 

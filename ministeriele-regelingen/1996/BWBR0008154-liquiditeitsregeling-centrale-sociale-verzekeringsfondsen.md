@@ -106,17 +106,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ’s-Gravenhage 3 juli 1996
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-F.H.G. deGrave
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+F.H.G. de Grave .
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers.

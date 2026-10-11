@@ -89,9 +89,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 24 maart 2017
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-namens deze,\
-S.L. deKoning\
-Wnd. afdelingsmanager V&T
+De Staatssecretaris van Veiligheid en Justitie,namens deze,\
+S.L. de KoningWnd. afdelingsmanager V&T

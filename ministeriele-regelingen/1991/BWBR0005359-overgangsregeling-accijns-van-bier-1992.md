@@ -101,15 +101,12 @@ De bepaling van het aantal hectolitergraden bedoeld in de artikelen 6 en 7 gesch
 
 2\. Deze regeling kan worden aangehaald als de Overgangsregeling accijns van bier 1992.
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Namens deze,
 
-De\
-Directeur-Generaal voor Fiscale Zaken\
-D.E.Witteveen
+De Directeur-Generaal voor Fiscale Zaken,\
+D.E. Witteveen
 
 ## Bijlage — Tabel, bedoeld in artikel 6, vierde lid
 

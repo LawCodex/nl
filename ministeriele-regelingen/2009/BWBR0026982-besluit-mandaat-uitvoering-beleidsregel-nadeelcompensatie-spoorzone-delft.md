@@ -72,10 +72,8 @@ Bij de uitoefening van zijn mandaat en machtiging neemt de Directeur Projecten v
 
 Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
 ## Bijlage — . Algemene Instructie uitoefening mandaat
 

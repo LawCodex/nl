@@ -79,12 +79,9 @@ Deze beschikking wordt aangehaald als: Instellingsbeschikking Raad van Advies vo
 
 Den Haag 5 december 1998
 
-De\
-ministerie\
-Justitie
+De ministerie van Justitie,
 
 namens deze,
 
-de\
-directeur-generaal Rechtshandhaving (wnd.)\
-H.C.J.L.Borghouts
+de directeur-generaal Rechtshandhaving (wnd.),\
+H.C.J.L. Borghouts

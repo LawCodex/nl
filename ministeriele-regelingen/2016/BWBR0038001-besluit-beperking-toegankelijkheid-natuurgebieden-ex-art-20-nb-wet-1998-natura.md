@@ -56,9 +56,7 @@ Het gebied, bedoeld in artikel 1, sub B, is gelegen binnen de volgende hoekpunte
 
 Dit besluit treedt in werking op de dag na publicatie in de Staatscourant
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-M.H.P. vanDam
+De Staatssecretaris van Economische Zaken,\
+M.H.P. van Dam
 
 ![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038001/2016-06-02_0/xml/257177.png)

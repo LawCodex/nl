@@ -1,0 +1,335 @@
+---
+title: "Subsidieregeling start-ups Big Chemistry"
+identifier: "BWBR0052638"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2026-05-12
+last_amended: 2026-05-27
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0052638/2026-05-27"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0052638/2026-05-27_0/xml/BWBR0052638_2026-05-27_0.xml"
+authority: "Onderwijs, Cultuur en Wetenschap"
+rechtsgebied: ["Cultureel recht", "Onderwijsrecht"]
+retrieved: 2026-10-11
+---
+
+# Subsidieregeling start-ups Big Chemistry
+
+*Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 mei 2026, nr. 63286153, houdende regels voor de subsidieverstrekking aan startende ondernemingen in het kader van het Nationaal Groeifondsproject Big Chemistry (Subsidieregeling start-ups Big Chemistry)*
+
+Gelet op de artikelen 4 en 5 van de Wet overige OCW-subsidies en de artikelen 1.3 en 2.1 van de Kaderregeling subsidies OCW, SZW en VWS;
+
+**Besluit:**
+
+## Artikel 1 — Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- *aanvrager:* startende onderneming die subsidie aanvraagt op grond van deze regeling;
+- *AGVV:* Verordening (EU) nr. 651/2014 van de Europese Commissie van 17 juni 2014, waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187/1);
+- *Big Chemistry:* Nationaal Groeifondsproject Big Chemistry dat zich richt op een nieuwe aanpak van moleculair onderzoek die chemie verbindt met big data en kunstmatige intelligentie;
+- *kaderregeling:* Kaderregeling subsidies OCW, SZW en VWS;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
+- *project:* geheel van activiteiten waarvoor subsidie wordt gevraagd op grond van deze regeling;
+- *startende onderneming:* startende onderneming als bedoeld in artikel 22, tweede lid, van de AGVV;
+- *toepassingsgebied:*
+  - a. polymeren;
+  - b. emulsies en surfactanten;
+  - c. coatings en colloïden;
+  - d. smaak- en geurstoffen; of
+  - e. lijmen en elektrolyten.
+
+## Artikel 2 — Toepassing Kaderregeling subsidies OCW, SZW en VWS
+
+Deze regeling geldt in aanvulling op de Kaderregeling subsidies OCW, SZW en VWS.
+
+## Artikel 3 — Activiteiten
+
+De minister kan aan een startende onderneming subsidie verstrekken voor activiteiten in een project dat zich richt op het ontwikkelen en combineren van chemie met automatisering of kunstmatige intelligentie binnen één of meerdere toepassingsgebieden, en dat past in het kader van Big Chemistry. Subsidie kan worden aangevraagd voor activiteiten die:
+
+- a. gericht zijn op technologische ontwikkeling, validatie en demonstratie en betrekking hebben op:
+  - 1°. ontwikkeling, integratie en verfijning van technologie, processen of prototypes;
+  - 2°. technische validatie en verificatie van lab-, pilot- of pre-demonstratieactiviteiten;
+  - 3°. demonstratie van technische haalbaarheid;
+- b. gericht zijn op probleemvalidatie en oplossingsvalidatie en betrekking hebben op:
+  - 1°. het aantonen van technische haalbaarheid;
+  - 2°. het aantonen van economische haalbaarheid in een toepassingscontext;
+- c. gericht zijn op het beschermen en onderzoeken van intellectueel eigendom en betrekking hebben op:
+  - 1°. octrooionderzoek en freedom-to-operate-analyses;
+  - 2°. opstellen en indienen van octrooiaanvragen;
+  - 3°. juridische ondersteuning ten behoeve van het beschermen en onderhouden van intellectueel eigendom.
+
+## Artikel 4 — Subsidieplafond en aanvraagrondes
+
+1\. Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van € 1.500.000 beschikbaar.
+
+2\. Op grond van deze regeling kan subsidie worden aangevraagd in de eerste aanvraagronde van 27 mei 2026 tot en met 31 december 2026 voor een project met een maximale looptijd van 24 maanden.
+
+3\. Het subsidieplafond voor de aanvraagronde bedoeld in het vorige lid bedraagt € 1.500.000.
+
+## Artikel 5 — Hoogte van de subsidie
+
+1\. De subsidie bedraagt per aanvraag ten minste € 125.000 en ten hoogste € 200.000.
+
+2\. De subsidie bedraagt ten hoogste 90% van de kosten van het project die op grond van artikel 6 voor subsidie in aanmerking komen.
+
+3\. De aanvrager levert een eigen bijdrage aan het project van ten minste 10% van het subsidiebedrag. Deze bijdrage kan in natura geleverd worden.
+
+## Artikel 6 — Subsidiabele kosten
+
+1\. Voor subsidie komen uitsluitend de volgende kosten in aanmerking, voor zover deze noodzakelijk zijn voor het project en aantoonbaar en direct gerelateerd zijn aan de activiteiten, bedoeld in artikel 3:
+
+- a. personeelskosten voor onderzoekers, technici en ander ondersteunend personeel, voor zover het desbetreffende personeel zich met het project bezighoudt;
+- b. materiële kosten, inhoudende:
+  - 1°. kosten voor grondstoffen, materialen en hulpmiddelen; of
+  - 2°. kosten voor huur of gebruik van laboratoria, testfaciliteiten, apparatuur en infrastructuur;
+- c. externe kosten, inhoudende:
+  - 1°. kosten van inhuur van gespecialiseerde expertise, advisering of ondersteuning die noodzakelijk is voor technologische ontwikkeling of technische validatie;
+  - 2°. kosten van externe partijen die bijdragen aan probleemvalidatie of technische of economische haalbaarheidsstudies;
+  - 3°. kosten voor het beschermen van intellectueel eigendom, voor zover deze betrekking hebben op de in artikel 3, onderdeel c, bedoelde activiteiten; of
+- d. kosten voor de controleverklaring bij het in artikel 7.8, eerste lid, van de kaderregeling bedoelde financiële verslag.
+
+2\. De kosten, bedoeld in het eerste lid, onderdeel c, subonderdeel 3°, zijn subsidiabel tot een maximum van € 10.000 per project.
+
+3\. Wanneer de kosten, bedoeld in het eerste lid, niet voor hun volledige levensduur voor het project worden gebruikt, worden alleen de afschrijvingskosten overeenstemmend met de looptijd van het project, berekend volgens algemeen erkende boekhoudkundige beginselen, als subsidiabele kosten beschouwd.
+
+4\. Niet voor subsidie komen in aanmerking:
+
+- a. kosten die zijn gericht op verkoop, marketing, branding, promotie of marktcommunicatie;
+- b. reguliere bedrijfsvoeringskosten, zoals huisvesting, administratie, algemene overhead en managementkosten die niet direct aan de subsidiabele activiteiten zijn toe te rekenen;
+- c. kosten die vóór de aanvraag zijn gemaakt of na afronding van de projectactiviteiten worden gemaakt;
+- d. investeringen in machines, hardware of kapitaalgoederen die niet hoofdzakelijk voor de activiteiten, bedoeld in artikel 3 worden ingezet;
+- e. kosten voor opleidingstrajecten of trainingen of HR-gerelateerde kosten;
+- f. kosten voor vergunningen, juridische geschillen of proceskosten.
+
+## Artikel 7 — Aanvraag
+
+1\. Een aanvrager kan subsidie aanvragen gedurende een aanvraagperiode als bedoeld in artikel 4, tweede lid. Aanvragen die worden ingediend na afloop van een aanvraagperiode worden afgewezen.
+
+2\. De aanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat is bekendgemaakt op de website van Oost NL.
+
+3\. De aanvraag bevat:
+
+- a. een activiteitenplan, inclusief een omschrijving van de looptijd van het project;
+- b. een begroting;
+- c. een afschrift van de meest recente versie van ofwel de oprichtingsakte van de aanvrager, dan wel van de statuten zoals deze laatstelijk zijn gewijzigd;
+- d. het laatst opgemaakte jaarverslag van de aanvrager.
+
+4\. Indien de documentatie, bedoeld in het derde lid, onderdelen c en d, niet beschikbaar is, bevat de aanvraag een toelichting omtrent het ontbreken van deze documentatie en een toelichting op de organisatie en financiële staat van de aanvrager.
+
+5\. Onverminderd artikel 3.4 van de kaderregeling bevat het activiteitenplan:
+
+- a. een omschrijving van de te behalen projectmijlpalen;
+- b. een omschrijving van de locatie of locaties waar de projectactiviteiten worden uitgevoerd.
+
+6\. Onverminderd artikel 3.5 van de kaderregeling vermeldt de begroting een eigen bijdrage van de aanvrager van ten minste 10% van het gevraagde subsidiebedrag.
+
+## Artikel 8 — Beoordeling
+
+1\. De minister besluit op een aanvraag als bedoeld in artikel 7 aan de hand van de volgende criteria:
+
+- a. past het project binnen de doelstellingen van Big Chemistry;
+- b. heeft het project een innovatief karakter en past het project een geïntegreerde aanpak van kennis- en technologiegebieden toe;
+- c. dragen de activiteiten bij aan het technologisch, economisch en organisatorisch toekomstperspectief van het project en de aanvrager;
+- d. draagt het project bij aan duurzame ontwikkeling en maatschappelijke impact;
+- e. draagt het project bij aan kennisdeling, versterking van het ecosysteem en het borgen van intellectueel eigendom en kennisoverdracht.
+
+2\. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader dat als bijlage bij deze regeling is gevoegd.
+
+3\. Subsidie wordt slechts verleend indien alle criteria met ten minste een voldoende worden beoordeeld.
+
+## Artikel 9 — Verdeling beschikbare middelen
+
+Het bedrag dat beschikbaar is voor de te verstrekken subsidies wordt over de aanvragen verdeeld op volgorde van binnenkomst van de volledige aanvragen, die voldoen aan artikel 8, derde lid.
+
+## Artikel 10 — Weigeringsgronden
+
+Onverminderd artikel 4:35 van de Algemene wet bestuursrecht kan de subsidieverstrekking worden geweigerd, indien:
+
+- a. ten aanzien van de aanvrager een bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, onder a, van de AGVV;
+- b. gegronde reden bestaat om aan te nemen dat de te verlenen subsidie niet of in onvoldoende mate zal worden besteed of bijdragen aan het doel waarvoor de subsidie is bedoeld;
+- c. de aanvrager een onderneming in moeilijkheden is als bedoeld in artikel 1, vierde lid, onder c, van de AGVV.
+
+## Artikel 11 — Verlening subsidie
+
+1\. De minister besluit binnen 13 weken na ontvangst van de aanvraag tot subsidieverlening.
+
+2\. In de beschikking tot verlening van subsidie wordt een voorschot toegekend van ten hoogste 80 procent van het toegekende subsidiebedrag. Het resterende bedrag wordt toegekend na vaststelling van de subsidie.
+
+## Artikel 12 — Verplichtingen subsidie
+
+1\. Aan de aanvrager worden de volgende verplichtingen opgelegd:
+
+- a. de aanvrager start uiterlijk binnen drie maanden na verlening van de subsidie met de projectactiviteiten;
+- b. de aanvrager voert de activiteiten waarvoor subsidie wordt verstrekt uit binnen de looptijd van het project als omschreven in haar activiteitenplan, gerekend vanaf de start de projectactiviteiten;
+- c. ingeval een project een looptijd heeft van 12 maanden of langer, rapporteert de aanvrager halverwege de looptijd van haar project, gerekend vanaf de start van het project, over de start en de voortgang van het project;
+- d. de aanvrager spant zich in de resultaten van de subsidiabele activiteiten waar geen intellectuele eigendomsrechten op rusten te verspreiden, via conferenties, publicaties, open access-repositories of gratis of opensource-software;
+- e. de aanvrager werkt desgevraagd mee aan publicaties en publiciteitsactiviteiten in het kader van deze regeling;
+- f. uiterlijk tot vijf jaar na het moment van subsidievaststelling is de aanvrager verplicht desgevraagd mee te werken aan rapportages en onderzoeksdoeleinden, monitoring en evaluaties.
+
+2\. In geval van overmacht of uitzonderlijke omstandigheden op grond waarvan de aanvrager niet zal kunnen voldoen aan de verplichting als omschreven in het vorige lid, onderdeel b, kan de aanvrager een verzoek indienen bij de minister om de looptijd van het project te verlengen.
+
+## Artikel 13 — Verantwoording en vaststelling
+
+1\. De aanvrager legt rekening en verantwoording af aan de hand van een activiteitenverslag en een financieel verslag onder toepassing van artikel 7.8 van de kaderregeling.
+
+2\. In afwijking van artikel 7.2, eerste lid, van de kaderregeling, wordt een aanvraag tot vaststelling van de subsidie ingediend binnen 13 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht.
+
+3\. De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor deze wordt verleend. Niet-bestede middelen worden teruggevorderd.
+
+## Artikel 14 — Inwerkingtreding en vervaldatum
+
+1\. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2\. Deze regeling vervalt met ingang van 1 januari 2031 met dien verstande dat de regeling van toepassing blijft op subsidies die zijn verleend op grond van deze regeling.
+
+## Artikel 15 — Citeertitel
+
+Deze regeling wordt aangehaald als: Subsidieregeling start-ups Big Chemistry.
+
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.M. Letschert
+
+## Bijlage — Beoordelingscriteria aanvragen
+
+*Deze bijlage hoort bij artikel 9 van de Subsidieregeling start-ups Big Chemistry.*
+
+De Subsidieregeling start-ups Big Chemistry (hierna: subsidieregeling) regelt dat aanvragers binnen een aanvraagperiode een aanvraag kunnen doen voor daarvoor in aanmerking komende activiteiten. De subsidieregeling omschrijft in artikel 4 de activiteiten die in aanmerking komen voor subsidie.
+
+De minister beoordeelt subsidieaanvragen op grond van een aantal beoordelingscriteria, die in de subsidieregeling zijn opgenomen in artikel 9. In deze bijlage zijn de beoordelingscriteria nader uitgewerkt en uitgelegd.
+
+Om de besluitvorming zorgvuldig voor te bereiden wordt onder verantwoordelijkheid van de uitvoerder van de subsidieregeling, de Regionale Ontwikkelingsmaatschappij Oost NL, een groep van deskundige partijen samengesteld om de aanvragen te toetsen aan de beoordelingscriteria die in deze regeling zijn vastgesteld. In deze bijlage wordt de groep aangeduid als de beoordelingscommissie. De leden van deze commissie conformeren zich aan de *Code persoonlijke belangen* van NWO.
+
+Een aanvraag wordt beoordeeld aan de hand van vijf beoordelingscriteria; A tot en met E. Criterium A toetst of de activiteiten waarvoor subsidie wordt aangevraagd aansluiten bij het doel van de regeling en zich richten op de toepassingsgebieden als gedefinieerd in artikel 1 van de regeling. Dit criterium kan met ‘ja’ of ‘nee’ worden beoordeeld. Als een aanvraag niet aan criterium A voldoet wordt de aanvraag direct afgewezen zonder verdere inhoudelijke beoordeling op de overige criteria.
+
+Als een aanvraag aan criterium A voldoet wordt de kwaliteit van een aanvraag beoordeeld aan de hand van beoordelingscriterium B tot en met E. Voor ieder van deze beoordelingscriteria kan een puntentotaal van 50 worden behaald, en ieder afzonderlijk criterium moet ten minste met een voldoende worden beoordeeld. Een voldoende wordt gehaald met een puntenaantal van ten minste 30. De totale score van een aanvraag die voor subsidie in aanmerking komt bedraagt derhalve minimaal 120 punten, evenredig verdeeld over de vier beoordelingscriteria. Een onvoldoende voor een beoordelingscriterium kan niet worden gecompenseerd met een goed of zeer goed op een ander beoordelingscriterium. Aan het geheel van activiteiten kan een score van maximaal 200 punten worden toegekend.
+
+<table>
+<tr><th colspan="2">Duiding van de scores</th></tr>
+<tr><td><b>10</b></td><td>Zwaar onvoldoende</td></tr>
+<tr><td><b>20</b></td><td>Onvoldoende</td></tr>
+<tr><td><b>30</b></td><td>Voldoende</td></tr>
+<tr><td><b>40</b></td><td>Goed</td></tr>
+<tr><td><b>50</b></td><td>Zeer goed</td></tr>
+</table>
+
+### Criterium A — Bijdrage aan het Programma Big Chemistry
+
+Knock-out criterium
+
+Voor dit criterium wordt beoordeeld of de activiteiten waarvoor subsidie wordt aangevraagd aansluiten bij het doel van de regeling en zich richten op de toepassingsgebieden als gedefinieerd in artikel 1 van de regeling.
+
+De activiteiten binnen een project dienen een bijdrage te leveren aan het ontwikkelen, combineren en toepassen van (experimentele) chemie met automatisering of kunstmatige intelligentie. Het gaat daarbij om de integratie van technologische reactieplatforms voor parallelle of seriële experimenten, robothulpmiddelen voor lab-automatisering, dan wel de ontwikkeling van op de chemie toegespitste artificiële intelligentie-modellen. De activiteiten richten zich op een of meerdere toepassingsgebieden, op een manier of met een doelstelling als hieronder toegelicht.
+
+- 1. Polymeren
+  - a. <u>Context:</u> Het gaat om de productie van polymeren, in het bijzonder innovatieve milieuvriendelijke of energiebesparende productieprocessen van (supersterke) vezels.
+  - b. <u>Vereiste projectbijdrage:</u> Projecten dragen binnen dit toepassingsgebied bij aan de ontwikkeling, optimalisatie of toepassing van nieuwe productieprocessen, materialen, technologieën of modellen voor de ontwikkeling van nieuwe of verbeterde polymeren of (supersterke) vezels.
+- 2. Emulsies en surfactanten
+  - a. <u>Context:</u> Bij mengsels van complexe moleculen kunnen fysisch-chemische eigenschappen, zoals oppervlaktespanning en het fasediagram van toestanden, sterk veranderen bij kleine variaties in de parameters.
+  - b. <u>Vereiste projectbijdrage:</u> Projecten dragen binnen dit toepassingsgebied bij aan de ontwikkeling, toepassing of verbetering van technologieën, processen of modellen gericht op de ontwikkeling van nieuwe of verbeterde emulsies of surfactanten.
+- 3. Coatings en colloïden
+  - a. <u>Context:</u> Afhankelijk van de toepassing moeten de eigenschappen van coatings zeer precies ingesteld kunnen worden, of moeten geheel nieuwe coatings worden ontworpen. Voorbeelden zijn coatings met zelfherstellend vermogen, coatings die spatvrij kunnen worden aangebracht, of coatings die bestand zijn tegen (extreme) externe omstandigheden.
+  - b. <u>Vereiste projectbijdrage:</u> Projecten dragen binnen dit toepassingsgebied bij aan de ontwikkeling, verfijning of toepassing van technologieën, processen of modellen gericht op de ontwikkeling van nieuwe of verbeterde coatings, colloïdale systemen of onderliggende technologieën.
+- 4. Smaak- en geurstoffen
+  - a. <u>Context:</u> Smaakstoffen in dranken en voedsel vertonen complexe interacties die grote invloed hebben op de perceptie door de mens. Dit hangt onder meer samen met de oplosbaarheid van smaakstoffen en verdampingsprocessen. Een bekend voorbeeld is het verschil in smaak tussen bier en wijn met en zonder alcohol.
+  - b. <u>Vereiste projectbijdrage:</u> Projecten dragen binnen dit toepassingsgebied bij aan de ontwikkeling, toepassing of verbetering van technologieën, modellen of processen gericht op de ontwikkeling van nieuwe of verbeterde smaak- of geurstoffen.
+- 5. Lijmen en elektrolyten
+  - a. <u>Context:</u> Er bestaat een grote behoefte aan milieuvriendelijke lijmen en aan bijbehorende productieprocessen voor een breed scala aan toepassingen.
+  - b. <u>Vereiste projectbijdrage:</u> Projecten dragen binnen dit toepassingsgebied bij aan de ontwikkeling, toepassing of optimalisatie van technologieën, processen of modellen gericht op de ontwikkeling van milieuvriendelijke lijmen, elektrolyten of productieprocessen daarvan.
+
+### Criterium B — Innovatie & integrale aanpak
+
+*Score: Aan dit criterium kunnen maximaal 50 punten worden toegekend.*
+
+Bij dit criterium wordt het innovatieve karakter van het project en de mate waarin een geïntegreerde aanpak wordt toegepast beoordeeld, zowel inhoudelijk als organisatorisch.
+
+De mate van technologische en methodologische innovatie wordt beoordeeld op basis van:
+
+- • De mate van vernieuwing van het beoogde product, proces of dienst.
+- • De aansluiting op relevante wetenschappelijke en industriële ontwikkelingen in binnen- en buitenland.
+- • De valorisatiepotentie van de innovatie, waaronder verbetering op het gebied van kosten, duurzaamheid, kwaliteit of snelheid voor de eindgebruiker.
+
+De mate van integraliteit wordt beoordeeld op basis van:
+
+- • De wijze waarop het project experimentele en digitale methodieken samenbrengt, zoals chemische experimenten en datagedreven modellering.
+- • De integratie van supramoleculaire chemie met minimaal één van de twee volgende gebieden:
+  - ○ automatisering en robotica;
+  - ○ artificiële intelligence en data-analyse.
+- • De aanwezigheid van samenhangende, geïntegreerde experimentele en digitale werkprocessen waarbij data, experimenten en modellering elkaar systematisch versterken.
+
+### Criterium C — Economisch, technologisch en organisatorisch toekomstperspectief
+
+*Score: Aan dit criterium kunnen maximaal 50 punten worden toegekend.*
+
+Dit criterium beoordeelt de uitvoeringsgereedheid van het project, de technologische en economische haalbaarheid, en de mate waarin het project bijdraagt aan een solide toekomstperspectief voor opschaling, marktintroductie en duurzame bedrijfsvoering.
+
+De uitvoeringsgereedheid wordt beoordeeld op basis van:
+
+- • Een onderbouwing dat de activiteiten uitvoerbaar zijn binnen de projectperiode.
+
+De technologische haalbaarheid wordt beoordeeld op basis van:
+
+- • De technische haalbaarheid van de innovatie en businesscase.
+- • De risicoanalyse en strategie voor risicobeperking.
+- • De schaalbaarheid van de technologie en het verdienmodel.
+
+De economische haalbaarheid en het marktperspectief worden beoordeeld op basis van:
+
+- • De aanwezigheid en borging van relevante expertise en marktkennis.
+- • De betrokkenheid van relevante netwerk- en ketenpartners, inclusief een toelichting op nog ontbrekende partijen.
+- • De stappen die nodig zijn tot marktintroductie.
+- • De strategie voor marktvalidatie.
+- • Aantoonbare marktvraag of interesse.
+- • De mate waarmee het product of de dienst zich onderscheidt van andere reeds bestaande of in ontwikkeling zijnde producten of diensten op de markt en het groeipotentieel van het product of de dienst.
+- • De marketingstrategie.
+- • De concurrentieanalyse en marktdynamiek.
+- • De commerciële risico’s en de strategie om deze te hanteren.
+
+De financiële haalbaarheid wordt beoordeeld op basis van:
+
+- • De onderbouwing van de eigen bijdrage en de herkomst van middelen.
+- • De financiële draagkracht na afloop van het project om de businesscase te realiseren.
+
+### Criterium D — – Duurzame ontwikkeling & maatschappelijke impact
+
+*Score: Aan dit criterium kunnen maximaal 50 punten worden toegekend.*
+
+Dit criterium beoordeelt de mate waarin het project bijdraagt aan duurzame ontwikkeling en maatschappelijke waarde creatie binnen de chemische en maakindustrie.
+
+De duurzaamheidsbijdrage wordt beoordeeld op basis van:
+
+- • De vermindering van milieu-impact, bijvoorbeeld door middel van energiegebruik, grondstoffengebruik, circulariteit of biobased input.
+- • De bijdrage aan duurzamere productieketens en gebruiksfases.
+
+De bijdrage aan gezondheid, veiligheid en welzijn wordt beoordeeld op basis van:
+
+- • De mate waarin het project leidt tot veiligere, gezondere of maatschappelijk wenselijke toepassingen.
+
+De maatschappelijke en economische meerwaarde wordt beoordeeld op basis van:
+
+- • De bijdrage aan maatschappelijke uitdagingen, zoals bijvoorbeeld het klimaat, grondstoffen, gezondheid, of digitalisering.
+- • De stimulering van bedrijvigheid, werkgelegenheid en kennisontwikkeling.
+
+De lange termijn impact en opschaalbaarheid worden beoordeeld op basis van:
+
+- • De verwachte doorwerking via vervolgprojecten, spin-offs, open kennisdeling of duurzame bedrijfsmodellen.
+
+### Criterium E — – Ecosysteem, kennisdeling & IP-strategie
+
+*Score: Aan dit criterium kunnen maximaal 50 punten worden toegekend.*
+
+Bij dit criterium wordt beoordeeld in welke mate het project bijdraagt aan versterking van het Nederlandse innovatiesysteem binnen Big Chemistry, door middel van kennisdeling, samenwerking en effectieve omgang met intellectueel eigendom.
+
+De kwaliteit van kennisdeling en ecosysteemvorming wordt beoordeeld op basis van:
+
+- • De kwaliteit en uitvoerbaarheid van activiteiten gericht op kennisdeling, waaronder publicaties, pilotresultaten en zichtbare toepassingen binnen het Big Chemistry-ecosysteem.
+- • De verwachte impact van deze activiteiten op het innovatie-ecosysteem.
+- • De duurzaamheid en borging van samenwerking en kennisdeling na afloop van het project.
+
+De strategie voor intellectueel eigendom, waaronder inbegrepen bedrijfsgeheimen (hierna: IP), en kennisoverdracht wordt beoordeeld op basis van:
+
+- • De duidelijkheid en kwaliteit van het IP-beschermingsplan.
+- • De concretisering van kennisoverdracht.
+- • De duurzame benutting van ontwikkelde kennis en technologie.

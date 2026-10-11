@@ -90,7 +90,5 @@ De archiefbescheiden van de Commissie worden na haar opheffing, of zo de omstand
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 december 2006.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-J.W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.W. Remkes

@@ -49,7 +49,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 4 juli 2012
 
-De\
-Staatssecretaris\
-Economische Zaken, Landbouw en Innovatie,\
-H.Bleker
+De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,\
+H. Bleker

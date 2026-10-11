@@ -35,11 +35,8 @@ Dit besluit treedt in werking met ingang van 16 augustus 1993. Het wordt opgenom
 
 Apeldoorn 26 juli 1993
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 voor deze,
 
-De\
-hoofddirecteur van het Kadaster en de Openbare Registers
+De hoofddirecteur van het Kadaster en de Openbare Registers.

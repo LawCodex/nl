@@ -386,9 +386,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 9 augustus 2016
 
-de\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-I.D.Nijboer\
-plaatsvervangend Secretaris-Generaal
+de Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+I.D. Nijboerplaatsvervangend Secretaris-Generaal

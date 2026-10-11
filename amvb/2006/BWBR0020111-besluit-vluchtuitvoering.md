@@ -140,10 +140,10 @@ Tavarnelle 13 juli 2006
 
 Beatrix
 
-De Staatssecretaris van Verkeer en Waterstaat\
-M. H.Schultz van Haegen-Maas Geesteranus
+De Staatssecretaris van Verkeer en Waterstaat ,\
+M. H. Schultz van Haegen-Maas Geesteranus
 
 de *tweeëntwintigste* augustus 2006
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

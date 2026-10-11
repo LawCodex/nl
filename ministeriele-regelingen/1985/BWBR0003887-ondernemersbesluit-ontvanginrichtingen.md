@@ -66,6 +66,5 @@ Besluit:
 
 's-Gravenhage 25 november 1985
 
-De\
-staatssecretaris\
-J. F.Scherpenhuizen
+De staatssecretaris voornoemd,\
+J. F. Scherpenhuizen

@@ -49,10 +49,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-DeMinistervoorWonen, Wijken en Integratie\
-E. E. van derLaan
+DeMinistervoorWonen, Wijken en Integratie,\
+E. E. van der Laan
 
 de *negenentwintigste* december 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

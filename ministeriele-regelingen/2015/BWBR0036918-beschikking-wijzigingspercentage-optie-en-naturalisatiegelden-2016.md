@@ -41,7 +41,5 @@ Deze beschikking treedt in werking op 1 januari 2016. Zij wordt aangehaald als: 
 
 Den Haag 28 juli 2015
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-K.H.D.M.Dijkhoff
+De Staatssecretaris van Veiligheid en Justitie,\
+K.H.D.M. Dijkhoff

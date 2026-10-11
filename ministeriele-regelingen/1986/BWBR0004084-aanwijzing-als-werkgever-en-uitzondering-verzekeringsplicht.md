@@ -95,8 +95,7 @@ Dit besluit, dat met de daarbij behorende toelichting in de Nederlandse Staatsco
 
 's-Gravenhage 23 december 1986
 
-De\
-staatssecretaris\
+De staatssecretaris voornoemd,\
 L. de Graaf
 
 ## Bijlage — Model-overeenkomst voor bemiddeling inzake bedrijfsgerichte gastouderopvang tussen een gastouderbureau en een werkgever

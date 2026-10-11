@@ -45,7 +45,5 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Den Haag 24 november 2015
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-J.Klijnsma
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma

@@ -89,12 +89,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van het Gezantschap, later de Ambassade in Italië te Rome (1955–1974), het Consulaat, later het Consulaat-Generaal in Italië te Genua (1945–1958), het Consulaat-Generaal in Italië te Milaan (1955–1974) en het Consulaat in Italië te Napels (1943–1970) van het Ministerie van Buitenlandse Zaken’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-namens deze:\
-directeur van de Directie Documentaire Informatievoorziening\
-H.Y.Buijs
+De Minister van Buitenlandse Zaken, namens deze: de directeur van de Directie Documentaire Informatievoorziening,\
+H.Y. Buijs
 
 ## Formulier voor toestemming tot raadpleging van niet-openbare archieven
 

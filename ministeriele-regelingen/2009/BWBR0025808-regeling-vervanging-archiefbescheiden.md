@@ -45,9 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 april 2009
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-namens deze:\
-plaatsvervangend Secretaris-Generaal\
-P.Hennephof
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze: de plaatsvervangend Secretaris-Generaal,\
+P. Hennephof

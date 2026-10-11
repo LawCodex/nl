@@ -44,17 +44,11 @@ Deze regeling wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad
 
 's-Gravenhage 29 maart 1994
 
-De\
-Minister\
-Justitie\
-E. vanThijn
+De Minister van Justitie, a.i.\
+E. van Thijn
 
-De\
-Minister\
-Binnenlandse Zaken\
-E. vanThijn
+De Minister van Binnenlandse Zaken,\
+E. van Thijn
 
-De\
-Minister\
-Defensie\
-A.L. terBeek
+De Minister van Defensie,\
+A.L. ter Beek

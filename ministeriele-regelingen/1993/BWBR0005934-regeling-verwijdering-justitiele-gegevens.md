@@ -57,6 +57,5 @@ Uit het archiefbestand worden geen inlichtingen verstrekt.
 
 's-Gravenhage 26 maart 1993
 
-De\
-Minister\
-E. M. H.Hirsch Ballin
+De Minister voornoemd,\
+E. M. H. Hirsch Ballin

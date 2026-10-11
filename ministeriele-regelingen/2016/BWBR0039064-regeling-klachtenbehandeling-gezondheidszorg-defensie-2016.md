@@ -216,7 +216,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2017.
 
 Deze regeling wordt aangehaald als: Regeling klachtenbehandeling gezondheidszorg Defensie 2016.
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis-Plasschaert
+De Minister van Defensie,\
+J.A. Hennis-Plasschaert

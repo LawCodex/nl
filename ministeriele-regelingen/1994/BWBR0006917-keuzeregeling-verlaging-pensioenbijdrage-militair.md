@@ -71,7 +71,5 @@ Keuzeregeling verlaging pensioenbijdrage militair.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Defensie\
-J. C.Gmelich Meijling
+De Staatssecretaris van Defensie,\
+J. C. Gmelich Meijling

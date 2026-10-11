@@ -75,7 +75,5 @@ De zorgautoriteit stelt voor het jaar 2013 per instelling het verschil vast tuss
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers.
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers.

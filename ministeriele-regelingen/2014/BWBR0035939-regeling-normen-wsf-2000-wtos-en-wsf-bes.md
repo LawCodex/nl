@@ -260,7 +260,5 @@ Deze regeling wordt aangehaald als: Regeling normen WSF 2000, WTOS en WSF BES.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

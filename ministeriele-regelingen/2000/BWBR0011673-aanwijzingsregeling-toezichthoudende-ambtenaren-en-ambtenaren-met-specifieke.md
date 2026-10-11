@@ -326,22 +326,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 28 september 2000
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-W.A.Vermeend.
+De Minister van Sociale Zaken en Werkgelegenheid,\
+W.A. Vermeend.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos.
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos.
 
-De\
-Minister\
-Economische Zaken\
-A.Jorritsma-Lebbink
+De Minister van Economische Zaken,\
+A. Jorritsma-Lebbink
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-E.Borst-Eilers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E. Borst-Eilers

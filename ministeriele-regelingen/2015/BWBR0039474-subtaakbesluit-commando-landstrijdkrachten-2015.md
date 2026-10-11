@@ -297,5 +297,4 @@ Dit subtaakbesluit treedt in werking de dag na de datum van uitgifte van de Staa
 Dit subtaakbesluit wordt aangehaald als Subtaakbesluit Commando Landstrijdkrachten 2015.
 
 De Commandant der Strijdkrachten\
-T.A. Middendorp\
-Generaal
+T.A. Middendorp Generaal

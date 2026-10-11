@@ -89,10 +89,8 @@ Deze regeling wordt aangehaald als: Regeling financiering politieke partijen.
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
 
 ## Bijlage 1 — behorend bij artikel 5 van de Regeling financiering politieke partijen
 

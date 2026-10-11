@@ -35,5 +35,4 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-S. Riedstra\
-secretaris-generaal
+S. Riedstra secretaris-generaal

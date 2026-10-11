@@ -93,10 +93,8 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling pacht.
 
 Deze regeling zal met de toelichting en bijlagen in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Landbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
 ## Bijlage 1 — behorend bij artikel 1 van de Uitvoeringsregeling pacht
 

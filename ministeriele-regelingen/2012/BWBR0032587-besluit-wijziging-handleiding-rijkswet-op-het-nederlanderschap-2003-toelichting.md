@@ -41,9 +41,5 @@ Dit besluit zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 13 december 2012
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-namens deze:\
-L.Mulder,\
-Directeur-generaal Vreemdelingenzaken.
+De Staatssecretaris van Veiligheid en Justitie,namens deze:\
+L. Mulder,Directeur-generaal Vreemdelingenzaken.

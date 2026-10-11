@@ -53,12 +53,8 @@ Dit besluit wordt in de Staatscourant gepubliceerd; de bijlage ligt voor de bela
 
 Rijswijk 24 maart 2015
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-het hoofd van de Immigratie- en Naturalisatiedienst,\
-R.J.T. vanLint
+De Minister van Veiligheid en Justitie,namens deze,het hoofd van de Immigratie- en Naturalisatiedienst,\
+R.J.T. van Lint
 
 ## Bijlage
 

@@ -573,10 +573,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 Den Haag 6 december 2006
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.L.B.A. vanGeel
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+P.L.B.A. van Geel
 
 ## Bijlage A — Rekenbedragen
 

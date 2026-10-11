@@ -88,17 +88,11 @@ De artikelen 2, 3, 9, 10, 11 en 12 van de Onderling regeling boedelscheiding Soc
 
 Aldus overeengekomen en ondertekend,
 
-Voor Willemstad, Curaçao:\
-minister\
-Gezondheid, Milieu en Natuur,\
-J.Constancia
+Voor Willemstad, Curaçao: De minister van Gezondheid, Milieu en Natuur,\
+J. Constancia
 
-Voor Philipsburg, Sint Maarten:\
-minister\
-Volksgezondheid, Sociale Ontwikkeling en Arbeid,\
-S.Wescott-Williams
+Voor Philipsburg, Sint Maarten: De minister van Volksgezondheid, Sociale Ontwikkeling en Arbeid,\
+S. Wescott-Williams
 
-Voor Den Haag:\
-minister\
-Sociale Zaken en Werkgelegenheid,\
-H.G.J.Kamp
+Voor Den Haag: De minister van Sociale Zaken en Werkgelegenheid,\
+H.G.J. Kamp

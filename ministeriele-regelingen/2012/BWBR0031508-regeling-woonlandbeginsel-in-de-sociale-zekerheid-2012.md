@@ -63,10 +63,8 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Den Haag 20 april 2012
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-H.G.J.Kamp
+De Minister van Sociale Zaken en Werkgelegenheid,\
+H.G.J. Kamp
 
 ## Bijlage — als bedoeld in artikel 1 van de Regeling woonlandbeginsel in de sociale zekerheid 2012
 

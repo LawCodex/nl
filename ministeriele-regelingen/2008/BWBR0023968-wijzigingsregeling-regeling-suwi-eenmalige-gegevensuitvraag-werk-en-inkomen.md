@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting en de bijlagen I, II, III, XI en XX in de S
 
 Den Haag 30 mei 2008
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
-A.Aboutaleb
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+A. Aboutaleb

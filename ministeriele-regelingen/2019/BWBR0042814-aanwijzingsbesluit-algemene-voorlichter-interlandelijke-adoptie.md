@@ -43,5 +43,5 @@ Dit besluit wordt aangehaald als: Aanwijzingsbesluit algemene voorlichter interl
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister voor Rechtsbescherming\
-S.Dekker
+De Minister voor Rechtsbescherming,\
+S. Dekker

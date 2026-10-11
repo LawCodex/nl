@@ -41,9 +41,7 @@ De Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van
 
 Den Haag 28 april 2017
 
-De Minister van Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de algemene rijksarchivaris,\
+De Minister van Onderwijs, Cultuur en Wetenschap, namens deze, de algemene rijksarchivaris,\
 M.L. Engelhard
 
 ## Selectielijst

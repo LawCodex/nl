@@ -106,7 +106,5 @@ Afschrift van deze beschikking wordt gezonden aan:
 - de voorzitter van het Hoofdofficierenberaad;
 - de voorzitter van het college van procureurs-generaal.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-A.Peper
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+A. Peper

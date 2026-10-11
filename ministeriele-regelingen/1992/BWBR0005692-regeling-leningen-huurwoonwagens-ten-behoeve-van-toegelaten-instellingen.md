@@ -103,9 +103,7 @@ Deze regeling kan worden aangehaald als: Regeling leningen huurwoonwagens ten be
 
 's-Gravenhage 15 oktober 1992
 
-De\
-Staatssecretaris\
-Volkshuisvesting. Ruimtelijke Ordening en Milieubeheer\
+De Staatssecretaris van Volkshuisvesting. Ruimtelijke Ordening en Milieubeheer,\
 E. Heerma
 
 ## Bijlage — Aanvraagformulier

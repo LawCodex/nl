@@ -111,10 +111,8 @@ De Staat sluit in ieder geval geen verzekering, indien:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.C. deJager
+De Minister van Financiën,\
+J.C. de Jager
 
 ## Bijlage 1 — Lijst van multilaterale instellingen als bedoeld in artikel 1e, sub iv
 

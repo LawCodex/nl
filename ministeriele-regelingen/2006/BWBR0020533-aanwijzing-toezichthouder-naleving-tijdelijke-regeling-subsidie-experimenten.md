@@ -29,7 +29,5 @@ Besluit:
 
 Als toezichthouder aan te wijzen: de inspecteur-generaal van het onderwijs en de onder haar ressorterende inspectieambtenaren.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap\
-B.Bruins
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+B. Bruins

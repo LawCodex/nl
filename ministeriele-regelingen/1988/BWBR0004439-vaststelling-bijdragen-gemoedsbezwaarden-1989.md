@@ -38,9 +38,5 @@ Besluit:
 
 's-Gravenhage 24 november 1988
 
-De\
-minister\
-Financiën\
-directeur\
-Binnenlandse Geldwezen\
+De minister van Financiën, namens deze, De directeur Binnenlandse Geldwezen,\
 L. C. F. A. J. S. de Leur

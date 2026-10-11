@@ -58,7 +58,5 @@ Deze regeling wordt aangehaald als: Regeling aandachtspunten voor de accountants
 
 Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de bijlage Nota Tarieven bij Verkeer en Waterstaat, die ter inzage zal worden gelegd bij de Hoofddirectie Telecommunicatie en Post, Plesmanweg 1-6, \`s-Gravenhage.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

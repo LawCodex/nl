@@ -49,10 +49,8 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 18 september 2006
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-S.M.Dekker
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+S.M. Dekker
 
 ## Bijlage I — bij artikel 1
 

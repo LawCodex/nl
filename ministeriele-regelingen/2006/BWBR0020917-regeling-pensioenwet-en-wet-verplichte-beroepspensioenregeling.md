@@ -589,10 +589,8 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 Den Haag 19 december 2006
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-A.J. deGeus
+De Minister van Sociale Zaken en Werkgelegenheid,\
+A.J. de Geus
 
 ## Bijlage 1 — als bedoeld in artikel 2
 

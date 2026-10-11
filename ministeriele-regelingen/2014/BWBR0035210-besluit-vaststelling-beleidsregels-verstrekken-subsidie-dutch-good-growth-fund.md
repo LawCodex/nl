@@ -52,10 +52,8 @@ Dit besluit treedt in werking met ingang van 1 juli 2014.
 
 Dit besluit wordt met de bijlage in de Staatscourant geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-E.K.J.Ploumen
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
+E.K.J. Ploumen
 
 ## Bijlage
 

@@ -43,9 +43,5 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
 
-De\
-minister\
-Buitenlandse Zaken\
-voor deze:\
-de plaatsvervangend directeur-generaal Internationale Samenwerking\
-A.Haspels
+De minister van Buitenlandse Zaken, voor deze:de plaatsvervangend directeur-generaal Internationale Samenwerking,\
+A. Haspels

@@ -1640,10 +1640,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 28 juni 2015
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma
 
 ## Bijlage 1 — behorende bij artikel 1.9 Regeling Europese EZ-subsidies
 

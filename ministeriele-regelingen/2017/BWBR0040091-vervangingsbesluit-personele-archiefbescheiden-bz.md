@@ -47,9 +47,7 @@ Dit besluit wordt aangehaald als: Vervangingsbesluit personele archiefbescheiden
 
 Dit besluit wordt met de bijlage in de Staatscourant geplaatst. Het Handboek Digitale Vervanging Personeelsdossiers wordt op verzoek[^n1] digitaal ter beschikking gesteld.
 
-De Minister van Buitenlandse Zaken,\
-namens deze,\
-Plaatsvervangend Secretaris-Generaal,\
+De Minister van Buitenlandse Zaken, namens deze, Plaatsvervangend Secretaris-Generaal,\
 W. van Ee
 
 ## Bijlage

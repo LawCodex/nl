@@ -111,13 +111,10 @@ Binnen een maand na ondertekening wordt de tekst van deze onderlinge regeling in
 
 Den Haag 22 september 2016
 
-Voor Nederland:\
-Staatssecretaris\
-Economische Zaken,\
-M.H.P. vanDam
+Voor Nederland:De Staatssecretaris van Economische Zaken,\
+M.H.P. van Dam
 
 Philipsburg 17 oktober 2016
 
-Voor Sint Maarten:\
-De Minister van Toerisme, Economische Zaken, Vervoer en Telecommunicatie,\
+Voor Sint Maarten: De Minister van Toerisme, Economische Zaken, Vervoer en Telecommunicatie,\
 I.I. Arrindell

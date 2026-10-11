@@ -39,6 +39,5 @@ Deze beschikking treedt in werking op 1 januari 2004. Zij wordt aangehaald als: 
 
 Den Haag 12 november 2003
 
-De\
-Minister\
-M.C.F.Verdonk
+De Minister voornoemd,\
+M.C.F. Verdonk

@@ -53,12 +53,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage, met uitzondering van de appendices bij die bijlage, in de Staatscourant worden geplaatst. De appendices bij de bijlage worden via internet bekend gemaakt.[^n2]
 
-De\
-Minister\
-Buitenlandse Zaken,\
-namens deze,\
-De Directeur-Generaal Europese Samenwerking,\
-T. van derPlas
+De Minister van Buitenlandse Zaken,namens deze,De Directeur-Generaal Europese Samenwerking,\
+T. van der Plas
 
 De Directeur-Generaal Politieke Zaken\
 A. Haspels

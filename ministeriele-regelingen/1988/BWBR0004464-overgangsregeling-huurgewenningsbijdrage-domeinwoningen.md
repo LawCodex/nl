@@ -46,7 +46,5 @@ Overgangsregeling huurgewenningsbijdrage domeinwoningen.
 
 's-Gravenhage 20 december 1988
 
-De\
-staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-E.Heerma
+De staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+E. Heerma

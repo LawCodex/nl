@@ -41,7 +41,5 @@ Dit besluit treedt in werking op 1 april 2004.
 
 Namens de Staat der Nederlanden,
 
-de\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-M.J.A. van derHoeven
+de Minister van Onderwijs, Cultuur en Wetenschap,\
+M.J.A. van der Hoeven

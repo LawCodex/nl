@@ -56,10 +56,8 @@ Deze regeling zal met de toelichting in de Staatscourant en het Algemeen Politie
 
 Den Haag 29 mei 1998
 
-De\
-Minister\
-Binnenlandse Zaken\
-H.F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+H.F. Dijkstal
 
 ## Bijlage — als bedoeld in artikel 2, tweede lid, van de Regeling detachering politie
 

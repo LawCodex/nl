@@ -105,10 +105,8 @@ Deze regeling wordt aangehaald als: Warenwetregeling Diepgevroren levensmiddelen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur\
-Hans J.Simons
+De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,\
+Hans J. Simons
 
 ## Bijlage — Analysemethode voor meting van de temperatuur van diepgevroren levensmiddelen
 
@@ -171,8 +169,6 @@ De werkwijze is als volgt:
 
 Deze bijlage behoort bij de Warenwetregeling Diepgevroren levensmiddelen.
 
-De\
-Staatssecretaris\
-Welzijn, Volksgezondheid en Cultuur
+De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,
 
 Hans J. Simons

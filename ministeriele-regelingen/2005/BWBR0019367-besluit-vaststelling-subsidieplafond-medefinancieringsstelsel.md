@@ -55,12 +55,8 @@ Dit besluit treedt in werking met ingang van 1 januari 2006.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Ontwikkelingssamenwerking\
-namens deze:\
-de Directeur-Generaal Internationale Samenwerking\
-R.J.Treffers
+De Minister voor Ontwikkelingssamenwerking, namens deze:de Directeur-Generaal Internationale Samenwerking,\
+R.J. Treffers
 
 ## Bijlage
 

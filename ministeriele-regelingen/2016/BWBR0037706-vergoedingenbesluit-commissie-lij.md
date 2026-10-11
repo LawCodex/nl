@@ -45,7 +45,5 @@ Dit besluit wordt aangehaald als: Vergoedingenbesluit Commissie LIJ.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-G.A. van derSteur
+De Minister van Veiligheid en Justitie,\
+G.A. van der Steur

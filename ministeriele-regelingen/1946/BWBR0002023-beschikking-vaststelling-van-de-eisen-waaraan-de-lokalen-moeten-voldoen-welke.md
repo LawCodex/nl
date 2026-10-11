@@ -53,6 +53,5 @@ Mocht volgens het oordeel van degene die met de herkeuring is belast, het beschi
 
 's-Gravenhage 24 December 1946
 
-De\
-Minister\
-Huysmans
+De Minister voornoemd,\
+Huysmans .

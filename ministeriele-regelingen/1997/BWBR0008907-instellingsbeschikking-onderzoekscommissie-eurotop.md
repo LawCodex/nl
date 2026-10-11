@@ -53,7 +53,5 @@ Tot secretaris van de werkgroep te benoemen:
 
 Den Haag 12 september 1997
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

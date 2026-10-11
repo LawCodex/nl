@@ -257,7 +257,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 7 november 2019
 
-De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-H.C. van Hoorn\
-directeur Opsporing
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid, namens deze,\
+H.C. van Hoorn directeur Opsporing

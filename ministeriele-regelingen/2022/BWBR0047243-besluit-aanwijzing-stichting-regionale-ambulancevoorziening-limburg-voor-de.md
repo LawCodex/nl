@@ -39,7 +39,5 @@ Dit besluit treedt in werking met ingang van 1 januari 2023.
 
 Dit besluit wordt in de Staatscourant geplaatst.
 
-De Minister van Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-wnd. directeur-generaal Curatieve Zorg,\
+De Minister van Volksgezondheid, Welzijn en Sport, namens deze, wnd. directeur-generaal Curatieve Zorg,\
 B. Goezinne

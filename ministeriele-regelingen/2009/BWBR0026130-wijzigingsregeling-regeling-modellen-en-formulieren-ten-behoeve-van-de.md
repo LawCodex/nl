@@ -39,7 +39,5 @@ Deze regeling treedt in werking met ingang van de eerste dag na de plaatsing in 
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-E.M.H.Hirsch Ballin
+De Minister van Justitie,\
+E.M.H. Hirsch Ballin

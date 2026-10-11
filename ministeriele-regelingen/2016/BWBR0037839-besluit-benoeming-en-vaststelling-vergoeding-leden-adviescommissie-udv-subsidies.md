@@ -51,9 +51,5 @@ Het Besluit houdende vaststelling van een vergoeding voor de voorzitter en een l
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-namens deze:\
-J.P.Hoogeveen MPA\
-directeur-generaal van Agro
+De Staatssecretaris van Economische Zaken,namens deze:\
+J.P. Hoogeveen MPAdirecteur-generaal van Agro

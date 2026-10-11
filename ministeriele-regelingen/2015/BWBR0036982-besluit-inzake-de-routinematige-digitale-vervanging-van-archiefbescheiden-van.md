@@ -34,10 +34,8 @@ Over te gaan tot (routinematige) digitale vervanging van archiefbescheiden die n
 - c. overeenkomstig de eisen, opgenomen in de Archiefregeling 2009 (Stcrt. 2010, 70); en
 - d. met inachtneming van de waarde en het belang, bedoeld in artikel 2, eerste lid, onderdeel c onderscheidenlijk d, van het Archiefbesluit 1995.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Handboek digitale vervanging archiefbescheiden Rijksdienst voor het Cultureel Erfgoed
 

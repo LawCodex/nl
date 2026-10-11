@@ -452,9 +452,7 @@ Deze regeling wordt aangehaald als: Voorzieningenstelsel buitenland defensiepers
 
 Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A) en in de bundel Uitvoering bezoldiging burgerpersoneel defensie (MP 33-310/320). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
 
-De Staatssecretaris van Defensie,\
-voor deze:\
-de Directeur Arbeidsvoorwaardenbeleid,\
+De Staatssecretaris van Defensie, voor deze: de Directeur Arbeidsvoorwaardenbeleid,\
 B.H.J.J.M. Völkers
 
 **Tabel 1.**

@@ -43,7 +43,5 @@ Dit besluit wordt aangehaald als: Besluit versoepeling regels verantwoording Sub
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister voor Medische Zorg,\
-namens deze,\
-de directeur Macro-Economische Vraagstukken en Arbeidsmarkt,\
+De Minister voor Medische Zorg, namens deze, de directeur Macro-Economische Vraagstukken en Arbeidsmarkt,\
 L.M.N. Kroon

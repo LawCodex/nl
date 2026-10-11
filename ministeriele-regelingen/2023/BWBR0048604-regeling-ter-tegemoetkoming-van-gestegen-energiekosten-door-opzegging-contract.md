@@ -1,0 +1,110 @@
+---
+title: "Regeling ter tegemoetkoming van gestegen energiekosten door opzegging contract SEFE Energy Ltd."
+identifier: "BWBR0048604"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2023-08-31
+last_amended: 2023-09-09
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0048604/2023-09-09"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0048604/2023-09-09_0/xml/BWBR0048604_2023-09-09_0.xml"
+authority: "Economische Zaken en Klimaat"
+rechtsgebied: ["Ondernemingspraktijk"]
+retrieved: 2026-10-11
+---
+
+# Regeling ter tegemoetkoming van gestegen energiekosten door opzegging contract SEFE Energy Ltd.
+
+*Regeling van de Minister voor Klimaat en Energie van 31 augustus 2023, nr. WJZ/34404290, houdende tijdelijke regels betreffende subsidie voor aanbestedende diensten en speciale-sectorbedrijven ter tegemoetkoming van gestegen energiekosten door opzegging contract SEFE Energy Ltd. (Regeling ter tegemoetkoming van gestegen energiekosten door opzegging contract SEFE Energy Ltd.)*
+
+De Minister voor Klimaat en Energie,
+
+Gelet op artikel 3 van de Kaderwet EZK- en LNV-subsidies;
+
+Besluit:
+
+## Artikel 1 — Begripsomschrijvingen
+
+In deze regeling wordt verstaan onder:
+
+- *aanbestedende dienst:* aanbestedende dienst als bedoeld in artikel 1.1 van de Aanbestedingswet 2012, uitgezonderd de Staat;
+- *gastarief:* leveringstarief voor gas, exclusief energiebelasting, opslag duurzame energie en verrekenbare omzetbelasting;
+- *minister:* Minister voor Klimaat en Energie;
+- *speciale-sectorbedrijf:* speciale-sectorbedrijf als bedoeld in artikel 1.1 van de Aanbestedingswet 2012;
+- *tariefafspraak:* afspraak waarmee het gastarief per m<sup>3</sup> voor een bepaalde periode wordt vastgelegd.
+
+## Artikel 2 — Subsidieverstrekking
+
+1\. De minister verstrekt op aanvraag subsidie aan een aanbestedende dienst of speciale-sectorbedrijf als tegemoetkoming in de energiekosten, die door opzegging van een contract met SEFE Energy Ltd. zijn gestegen.
+
+2\. Per aanbestedende dienst of speciale-sectorbedrijf wordt slechts éénmaal subsidie verstrekt, tenzij sprake is van bijzondere omstandigheden.
+
+3\. De subsidie wordt verstrekt voor de energiekosten gemaakt in de periode van 10 oktober 2022, of indien dit later is de begindatum van een contract met een nieuwe energieleverancier, tot en met de oorspronkelijke einddatum van een gemaakte tariefafspraak met SEFE Energy Ltd.
+
+4\. De subsidie wordt niet verstrekt voor kosten die reeds uit anderen hoofde zijn of worden gesubsidieerd.
+
+## Artikel 3 — Subsidieaanvraag
+
+Een aanvraag voor subsidie wordt in de periode van 1 november 2023 09:00 tot en met 31 maart 2025 17:00 ingediend met gebruikmaking van een door de minister beschikbaar gesteld middel.
+
+## Artikel 4 — Hoogte subsidie
+
+1\. De hoogte van de subsidie wordt vastgesteld met inachtneming van de formule:
+
+(gastarief nieuw – gastarief oud) × gasverbruik
+
+waarbij wordt verstaan onder:
+
+- a. *gastarief nieuw:* gastarief per m<sup>3</sup> op basis van het contract met een nieuwe energieleverancier;
+- b. *gastarief oud:* gastarief per m<sup>3</sup> op basis van het contract met SEFE Energy Ltd;
+- c. *gasverbruik:* gasverbruik in m<sup>3</sup> in de periode van 10 oktober 2022, of indien dit later is de begindatum van een contract met een nieuwe energieleverancier, tot en met de oorspronkelijke einddatum van een gemaakte tariefafspraak met SEFE Energy Ltd.
+
+2\. Indien de tarieven, bedoeld in het eerste lid, onderdeel a *(gastarief nieuw)* en b *(gastarief oud)*, variëren gedurende de periode van 10 oktober 2022, of indien dit later is de begindatum van een contract met een nieuwe energieleverancier, tot en met de oorspronkelijke einddatum van een gemaakte tariefafspraak met SEFE Energy Ltd., wordt de formule voor ieder tarief afzonderlijk ingevuld en de resultaten daarvan bij elkaar opgeteld.
+
+3\. Indien er sprake is van bijzondere omstandigheden als bedoeld in artikel 2, tweede lid, gaat het mogelijk slechts om het gasverbruik in een deel van de periode, bedoeld in het eerste lid, onderdeel c *(gasverbruik)*. Bij het invullen van de formule wordt hiermee rekening gehouden.
+
+## Artikel 5 — Afwijzingsgronden
+
+De minister beslist afwijzend op een aanvraag, indien:
+
+- a. de aanvraag niet voldoet aan de bij deze regeling gestelde eisen;
+- b. subsidie wordt aangevraagd door een aanbestedende dienst die of een speciale-sectorbedrijf dat opzegging van een contract met SEFE Energy Ltd. heeft ingediend voor 8 april 2022;
+- c. subsidie wordt aangevraagd door een aanbestedende dienst die of een speciale-sectorbedrijf dat opzegging van een contract met SEFE Energy Ltd. heeft ingediend na 30 november 2022;
+- d. door een aanbestedende dienst of speciale-sectorbedrijf onvoldoende kan worden aangetoond dat is getracht na opzegging van een contract met SEFE Energy Ltd. een zo gunstig mogelijk contract met een nieuwe energieleverancier te sluiten, zonder dat daarbij rekening is gehouden met onderhavige subsidie.
+
+## Artikel 6 — Informatieverplichtingen
+
+De aanvraag voor subsidie bevat ten minste:
+
+- a. gegevens over de aanbestedende dienst of het speciale-sectorbedrijf, waaronder het post- en bezoekadres en het rekeningnummer;
+- b. gegevens over de contactpersoon bij de aanbestedende dienst of het speciale-sectorbedrijf, waaronder de naam, het telefoonnummer en het e-mailadres;
+- c. aanvullende gegevens indien het een aanvraag betreft van een samenwerkingsverband: een opgave van alle in het samenwerkingsverband verbonden aanbestedende diensten en speciale-sectorbedrijven, het rekeningnummer van de subsidieaanvrager, waarop de subsidie kan worden bijgeschreven, alsmede gegevens over de contactpersoon bij het samenwerkingsverband, waaronder de naam, het telefoonnummer en het e-mailadres;
+- d. EAN-code van de gasmeter van de aanbestedende dienst of het speciale-sectorbedrijf, inclusief het adres en stukken waaruit blijkt dat de betreffende EAN-code bij de betreffende aanbestedende dienst of het speciale-sectorbedrijf behoort;
+- e. een afschrift van het contract dat de aanbestedende dienst of het speciale-sectorbedrijf met SEFE energy Ltd. had gesloten;
+- f. indien het contract, bedoeld in onderdeel e, geen gastarief vermeldt: een bewijsstuk waaruit het gastarief blijkt dat op het moment van opzegging van het contract gold, inclusief de geldigheidsduur ervan;
+- g. een bewijsstuk waaruit de opzegging van het contract, bedoeld in onderdeel e, blijkt, inclusief de datum waarop deze is ingediend;
+- h. een afschrift van het contract dat de aanbestedende dienst of het speciale-sectorbedrijf met een nieuwe energieleverancier heeft gesloten;
+- i. afschriften van voldoende gespecificeerde afrekeningsfacturen die de aanbestedende dienst of het speciale-sectorbedrijf van de nieuwe energieleverancier heeft ontvangen, betrekking hebbend op de periode waarvoor subsidie wordt aangevraagd.
+
+## Artikel 7 — Beslistermijn
+
+De minister beslist binnen twaalf weken na ontvangst van een aanvraag. Indien niet binnen deze termijn kan worden beslist, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beslissing wel kan worden genomen.
+
+## Artikel 8 — Inwerkingtreding en vervaldatum
+
+1\. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2\. Deze regeling vervalt met ingang van 8 september 2028, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn aangevraagd.
+
+## Artikel 9 — Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling ter tegemoetkoming van gestegen energiekosten door opzegging contract SEFE Energy Ltd.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+’s-Gravenhage 31 augustus 2023
+
+De Minister voor Klimaat en Energie,\
+R.A.A. Jetten

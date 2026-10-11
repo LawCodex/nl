@@ -103,9 +103,5 @@ Bij afwezigheid of verhindering van de directeur S&I worden, voor de duur van de
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-A.M.C. vanRijn\
-directeur Samenleving en Integratie
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+A.M.C. van Rijndirecteur Samenleving en Integratie

@@ -50,9 +50,7 @@ Dit besluit wordt aangehaald als: Besluit routinematige digitale vervanging arch
 
 Dit besluit met de daarbij behorende bijlage zal in de Staatscourant worden geplaatst.
 
-De Minister van Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de secretaris-generaal,\
+De Minister van Onderwijs, Cultuur en Wetenschap, namens deze, de secretaris-generaal,\
 M. Hammersma
 
 De Inspecteur-generaal van het onderwijs,\

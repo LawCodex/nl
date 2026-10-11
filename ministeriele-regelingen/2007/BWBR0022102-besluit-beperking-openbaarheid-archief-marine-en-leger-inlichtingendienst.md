@@ -263,10 +263,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Marine en Leger Inlichtingendienst, de Netherlands Forces Intelligence Service en de Centrale Militaire Inlichtingendienst in Nederlands-Indië, 1942–1949 (1960)’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-M.J.M.Verhagen
+De Minister van Buitenlandse Zaken,\
+M.J.M. Verhagen
 
 ## Bijlage
 

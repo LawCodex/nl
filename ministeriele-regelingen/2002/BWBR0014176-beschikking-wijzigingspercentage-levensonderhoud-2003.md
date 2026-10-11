@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingspercentage lev
 
 Den Haag 4 november 2002
 
-De\
-Minister\
-J.P.H.Donner
+De Minister voornoemd,\
+J.P.H. Donner

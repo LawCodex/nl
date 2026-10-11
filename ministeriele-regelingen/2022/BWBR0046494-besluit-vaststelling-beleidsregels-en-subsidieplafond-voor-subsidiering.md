@@ -73,9 +73,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
 
-De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de plaatsvervangend Directeur-Generaal Buitenlandse Economische Betrekkingen,\
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, namens deze, de plaatsvervangend Directeur-Generaal Buitenlandse Economische Betrekkingen,\
 P. Potman
 
 ## Bijlage

@@ -37,9 +37,5 @@ Het zorgdragerschap van in het besluit van 15 december 2010 genoemde archief lig
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatcourant waarin het wordt geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-namens deze:\
-de hoofddirecteur Financiën Management en Control,\
-J.W.Lintsen
+De Minister van Infrastructuur en Milieu,namens deze:de hoofddirecteur Financiën Management en Control,\
+J.W. Lintsen

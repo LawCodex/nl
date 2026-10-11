@@ -37,7 +37,5 @@ Besluit:
 
 's-Gravenhage 25 september 1981
 
-De\
-Minister\
-Financiën\
+De Minister van Financiën a.i.,\
 J. C. Terlouw

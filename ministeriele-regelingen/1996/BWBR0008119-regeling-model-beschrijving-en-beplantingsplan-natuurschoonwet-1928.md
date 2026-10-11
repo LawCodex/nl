@@ -47,15 +47,11 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 20 juni 1996
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-J.J. vanAartsen
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+J.J. van Aartsen
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.F.G.Vermeend
+De Staatssecretaris van Financiën,\
+W.A.F.G. Vermeend
 
 ## Bijlage A — behorende bij artikel 1 van de Regeling model beschrijving en beplantingsplan Natuurschoonwet 1928
 

@@ -1144,10 +1144,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 17 februari 2012
 
-De\
-Minister\
-Economische Zaken, Landbouw en Innovatie,\
-M.J.M.Verhagen
+De Minister van Economische Zaken, Landbouw en Innovatie,\
+M.J.M. Verhagen
 
 ## Bijlage 1 — behorende bij artikel 2, vijfde lid, van de Regeling aanwijzing categorieën duurzame energieproductie 2012
 

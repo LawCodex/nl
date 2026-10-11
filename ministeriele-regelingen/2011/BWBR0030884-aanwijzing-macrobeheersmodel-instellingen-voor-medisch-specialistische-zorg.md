@@ -105,10 +105,8 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing macrobeheersmodel instellingen 
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 [^n1]: 1 Zoals de Wet marktordening gezondheidszorg komt te luiden nadat het bij koninklijk besluit op 25 mei 2010 ingediende voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging (Wet aanvulling instrumenten bekostiging WMG) (Kamerstukken 32 393) tot wet is verheven en in werking is getreden.
 

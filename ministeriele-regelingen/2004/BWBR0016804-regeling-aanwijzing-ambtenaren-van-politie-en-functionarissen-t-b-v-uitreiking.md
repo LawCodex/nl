@@ -58,7 +58,5 @@ Dit besluit zal in de Staatscourant en het Algemeen Politieblad worden geplaatst
 
 Den Haag 3 juni 2004
 
-De\
-Minister\
-Justitie\
-J.P.H.Donner
+De Minister van Justitie\
+J.P.H. Donner

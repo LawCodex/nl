@@ -58,6 +58,5 @@ Deze regeling treedt in werking op 1 januari 1998. Zij zal met de toelichting in
 
 ’s-Gravenhage 18 december 1997
 
-De\
-Staatssecretaris\
-E. M. A.Schmitz
+DeStaatssecretarisvoornoemd,\
+E. M. A. Schmitz

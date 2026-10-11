@@ -77,7 +77,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 26 juli 2017.
 
-De Staatssecretaris van Veiligheid en Justitie,\
-namens deze,\
-S.L. de Koning\
-Wnd. afdelingsmanager V&T
+De Staatssecretaris van Veiligheid en Justitie, namens deze,\
+S.L. de Koning Wnd. afdelingsmanager V&T

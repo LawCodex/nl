@@ -69,7 +69,5 @@ Deze regeling treedt in werking met ingang van de datum van ondertekening en wer
 
 Deze regeling kan worden aangehaald als de ‘*Regeling bedrijfsvakanties*’.
 
-De Minister van Defensie\
-Voor deze\
-Het Hoofd van de afdeling Arbeidsvoorwaardenbeleid\
+De Minister van Defensie Voor deze Het Hoofd van de afdeling Arbeidsvoorwaardenbeleid\
 B.H.J.J.M. Völkers

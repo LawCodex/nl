@@ -135,7 +135,5 @@ Deze regeling wordt aangehaald als: Regeling toezichtsbevoegdheden functionariss
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-A.Rouvoet
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+A. Rouvoet

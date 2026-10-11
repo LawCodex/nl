@@ -60,7 +60,5 @@ Deze regeling wordt aangehaald als: Anticumulatieregeling RPU Politie.
 
 Deze regeling zal met de toelichting in de Staatscourant en het Algemene Politieblad worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken\
-A.F.Dijkstal
+De Minister van Binnenlandse Zaken,\
+A.F. Dijkstal

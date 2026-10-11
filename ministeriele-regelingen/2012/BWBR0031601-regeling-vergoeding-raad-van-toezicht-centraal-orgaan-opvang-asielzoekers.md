@@ -53,7 +53,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 24 mei 2012
 
-De\
-Minister\
-Immigratie, Integratie en Asiel,\
-G.B.M.Leers
+De Minister voor Immigratie, Integratie en Asiel,\
+G.B.M. Leers

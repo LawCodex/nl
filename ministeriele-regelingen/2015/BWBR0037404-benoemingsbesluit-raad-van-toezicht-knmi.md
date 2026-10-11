@@ -68,7 +68,5 @@ Dit besluit wordt aangehaald als: Benoemingsbesluit raad van toezicht KNMI.
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-S.A.M.Dijksma
+De Staatssecretaris van Infrastructuur en Milieu,\
+S.A.M. Dijksma

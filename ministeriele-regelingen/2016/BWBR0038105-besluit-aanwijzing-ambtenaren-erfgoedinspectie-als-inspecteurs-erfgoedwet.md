@@ -40,7 +40,5 @@ De volgende besluiten worden ingetrokken:
 
 Dit besluit treedt in werking met ingang van 1 juli 2016, en zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

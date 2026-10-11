@@ -132,5 +132,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 22 februari 2019
 
-M. Sonnema\
-directeur-generaal Agro
+M. Sonnema directeur-generaal Agro

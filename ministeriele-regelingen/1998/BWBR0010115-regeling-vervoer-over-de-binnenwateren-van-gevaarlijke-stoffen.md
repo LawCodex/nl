@@ -77,10 +77,8 @@ Deze regeling wordt aangehaald als: Regeling vervoer over de binnenwateren van g
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen 1 en 2, die ter inzage worden gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat,\
+T. Netelenbos
 
 ## Bijlage 1 — als bedoeld in de artikelen 2, eerste lid, onderdeel a, en 3 van de Regeling vervoer over de binnenwateren van gevaarlijke stoffen
 

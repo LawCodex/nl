@@ -79,7 +79,5 @@ De commissie behandelt alle verzamelde informatie personeelsvertrouwelijk. Met u
 
 Dit besluit treedt in werking op de datum van ondertekening.
 
-De Staatssecretaris van Defensie,\
-voor deze\
-De Secretaris-Generaal\
+De Staatssecretaris van Defensie, voor deze De Secretaris-Generaal\
 W.J.P. Geerts

@@ -79,7 +79,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 13 juni 2017
 
-De Minister van Infrastructuur en Milieu,\
-Voor deze\
-Directeur van de Integrale Bedrijfsvoering IenM (IBI)\
+De Minister van Infrastructuur en Milieu, Voor deze Directeur van de Integrale Bedrijfsvoering IenM (IBI)\
 M.P.J. Bouten

@@ -80,6 +80,5 @@ Deze regeling kan worden aangehaald als: Tijdelijke vergoedingsregeling psychoth
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-E.Borst-Eilers
+De Minister voornoemd,\
+E. Borst-Eilers

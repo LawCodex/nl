@@ -158,7 +158,5 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Directoraat-generaal Cultuur en Media van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1945) 1965 – 2008.
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de directeur Organisatie & Bedrijfsvoering,\
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, namens deze, de directeur Organisatie & Bedrijfsvoering,\
 J.J.H. Been

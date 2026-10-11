@@ -96,7 +96,5 @@ Ik zal de zorgautoriteit verzoeken mij periodiek te berichten over de effecten v
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst en werkt terug tot en met 1 januari 2010.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

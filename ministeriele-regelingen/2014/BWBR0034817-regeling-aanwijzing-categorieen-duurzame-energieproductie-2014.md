@@ -1079,10 +1079,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 10 februari 2014
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp
+De Minister van Economische Zaken,\
+H.G.J. Kamp
 
 ## Bijlage 1 — behorende bij artikel 2, vijfde lid, van de Regeling aanwijzing categorieën duurzame energieproductie 2014
 

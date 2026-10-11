@@ -124,10 +124,8 @@ Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tariev
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.C.Huizinga-Heringa
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.C. Huizinga-Heringa
 
 ## Bijlage
 

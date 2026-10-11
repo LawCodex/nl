@@ -38,12 +38,9 @@ Deze beschikking zal worden toegezonden aan de direct betrokkenen en in afschrif
 
 's-Gravenhage 15 juni 1994
 
-De\
-Minister\
-Verkeer en Waterstaat
+De Minister van Verkeer en Waterstaat,
 
 namens deze,
 
-De\
-Directeur-Generaal van de Rijksluchtvaartdienst\
-J. W.Weck
+De Directeur-Generaal van de Rijksluchtvaartdienst,\
+J. W. Weck

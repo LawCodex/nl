@@ -25,7 +25,7 @@ Gelet op artikel 2.2, eerste lid, van de Regeling kwaliteitsafspraken mbo;
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond voor het kalenderjaar 2016, bedoeld in artikel 2.2, eerste lid, van de Regeling kwaliteitsafspraken mbo wordt:
 
@@ -34,7 +34,5 @@ Het subsidieplafond voor het kalenderjaar 2016, bedoeld in artikel 2.2, eerste l
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

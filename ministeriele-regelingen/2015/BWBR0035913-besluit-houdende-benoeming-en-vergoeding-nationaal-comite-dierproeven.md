@@ -45,7 +45,5 @@ Met ingang van 18 december 2014 worden voor een periode van vijf jaar tot lid va
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen en aan het nationaal comité dierproeven.
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma

@@ -25,7 +25,7 @@ Gelet op artikel 4, tweede en derde lid, van de Regeling regionaal investeringsf
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond, bedoeld in artikel 4, tweede en derde lid, van de Regeling regionaal investeringsfonds mbo 2019-2022 voor het kalenderjaar 2021 wordt:
 

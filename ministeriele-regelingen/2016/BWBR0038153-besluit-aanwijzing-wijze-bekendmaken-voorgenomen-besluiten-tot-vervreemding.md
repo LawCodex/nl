@@ -27,11 +27,9 @@ Gelet op de Wet Elektronische Bekendmakingen.
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Met ingang van 1 juli 2016 publiceren de Minister van Onderwijs, Cultuur en Wetenschap, gedeputeerde staten en het college van burgemeester en wethouders een voorgenomen besluit tot vervreemding van een cultuurgoed of een verzameling als bedoeld in artikel 4.17 van de Erfgoedwet in de Afstotingsdatabase van het Museum Register of in de Staatscourant, het provinciaal blad, onderscheidenlijk het gemeenteblad.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker

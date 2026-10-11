@@ -37,6 +37,5 @@ De bij het besluit behorende bijlage wordt opgenomen in het Handboek routering v
 
 's-Gravenhage 13 oktober 1981
 
-De\
-Minister\
-H. J.Zeevalking
+De Minister voornoemd,\
+H. J. Zeevalking

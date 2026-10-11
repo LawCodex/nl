@@ -265,5 +265,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 Den Haag 31 augustus 2017
 
 De Minister van Sociale Zaken en Werkgelegenheid,\
-R.G. de Boer,\
-directeur Analyse, Programmering en Strategie
+R.G. de Boer, directeur Analyse, Programmering en Strategie

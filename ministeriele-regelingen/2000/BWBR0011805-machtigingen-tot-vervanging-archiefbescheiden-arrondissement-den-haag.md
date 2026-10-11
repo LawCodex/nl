@@ -54,7 +54,5 @@ De machtiging wordt verleend onder de vaststelling, dat de bovengenoemde archief
 
 Den Haag 20 november 2000
 
-De\
-Minister\
-Justitie\
-J.A.A.A.Samson
+De Minister van Justitie,\
+J.A.A.A. Samson

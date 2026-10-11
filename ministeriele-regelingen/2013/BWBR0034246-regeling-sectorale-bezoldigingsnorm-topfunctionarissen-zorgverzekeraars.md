@@ -66,7 +66,5 @@ Deze regeling wordt aangehaald als: Regeling sectorale bezoldigingsnorm topfunct
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

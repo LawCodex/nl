@@ -95,7 +95,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit commissie evaluatie pilots 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk

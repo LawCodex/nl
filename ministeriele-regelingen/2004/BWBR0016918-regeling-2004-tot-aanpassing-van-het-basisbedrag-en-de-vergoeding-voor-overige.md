@@ -43,12 +43,9 @@ Deze regeling wordt aangehaald als: Regeling 2004 tot aanpassing van het basisbe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
 namens deze:
 
-de\
-directeur Toegang Rechtsbestel\
-M.Brandsma
+de directeur Toegang Rechtsbestel,\
+M. Brandsma

@@ -31,9 +31,5 @@ Besluit:
 
 3\. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt gepubliceerd.
 
-De\
-Minister\
-Financiën\
-namens deze:\
-plv. secretaris-generaal\
-M.A.Verhoef
+De Minister van Financiën, namens deze: de plv. secretaris-generaal,\
+M.A. Verhoef

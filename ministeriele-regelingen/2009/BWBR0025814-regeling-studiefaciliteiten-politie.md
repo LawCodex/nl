@@ -166,10 +166,8 @@ Deze regeling wordt aangehaald als: Regeling studiefaciliteiten politie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
 ## Bijlage — bij artikel 10, eerste lid, onder a, van de Regeling studiefaciliteiten politie
 

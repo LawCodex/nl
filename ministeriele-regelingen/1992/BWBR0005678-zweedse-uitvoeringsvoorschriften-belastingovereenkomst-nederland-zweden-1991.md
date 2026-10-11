@@ -73,7 +73,5 @@ De regeling van de Staatssecretaris van Financiën van 5 oktober 1990, nr. IFZ90
 
 2\. Zij treedt in werking met ingang van 1 januari 1993 en vindt toepassing met betrekking tot dividenden die op of na die datum betaald of betaalbaar zijn gesteld.
 
-De\
-Staatssecretaris\
-Financiën\
-M.J.J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M.J.J. van Amelsvoort

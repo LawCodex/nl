@@ -41,7 +41,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na die van de dagte
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-J.C. deJager
+De Staatssecretaris van Financiën,\
+J.C. de Jager

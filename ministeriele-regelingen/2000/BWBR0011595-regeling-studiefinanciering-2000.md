@@ -374,10 +374,8 @@ Deze regeling wordt aangehaald als: Regeling studiefinanciering 2000.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschappen\
-L.M.L.H.A.Hermans
+De Minister van Onderwijs, Cultuur en Wetenschappen,\
+L.M.L.H.A. Hermans
 
 ## Bijlage — behorende bij artikel 6a.1
 

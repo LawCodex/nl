@@ -543,9 +543,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 28 september 2004
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
+De Minister van Sociale Zaken en Werkgelegenheid,\
 A.J. de Geus
 
 ## Bijlage 1 — behorende bij artikel 5

@@ -699,10 +699,8 @@ Deze regeling treedt in werking op het tijdstip waarop de wet van 26 april 2016 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport,\
-M.J. vanRijn
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+M.J. van Rijn
 
 ## Bijlage 1 — behorende bij artikel 2.2
 

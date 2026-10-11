@@ -88,7 +88,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Agents
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-J.P.H.Donner
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J.P.H. Donner

@@ -39,14 +39,10 @@ Deze beschikking wordt in de Staatscourant bekendgemaakt en treedt in werking me
 
 19 februari 1976
 
-De\
-Staatssecretaris\
-Justitie
+De Staatssecretaris van Justitie,
 
 H.J. Zeevalking
 
-De\
-Staatssecretaris\
-Economische Zaken
+De Staatssecretaris van Economische Zaken,
 
 Th. M. Hazekamp

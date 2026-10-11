@@ -92,10 +92,5 @@ Deze regeling treedt in werking twee dagen na publicatie in de Staatscourant.
 
 Utrecht 7 april 2016
 
-De\
-Minister\
-Veiligheid en Justitie,\
-voor deze,\
-De Raad voor Rechtsbijstand,\
-J.H.Gerritsen\
-Algemeen directeur / Bestuurder
+De Minister van Veiligheid en Justitie,voor deze,De Raad voor Rechtsbijstand,\
+J.H. GerritsenAlgemeen directeur / Bestuurder

@@ -44,10 +44,8 @@ Deze regeling wordt aangehaald als: Regeling bestemming openbare weg Westerschel
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-Roelf H. deBoer
+De Minister van Verkeer en Waterstaat,\
+Roelf H. de Boer
 
 ## Bijlage 1 — behorende bij de Regeling bestemming openbare weg Westerscheldetunnel
 

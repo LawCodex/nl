@@ -39,7 +39,5 @@ Dit besluit treedt in werking met ingang van 1 juli 2009.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak

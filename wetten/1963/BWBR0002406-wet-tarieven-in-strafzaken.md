@@ -29,7 +29,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Artikel I
 
-## Titel Eerste — Vergoedingen voor werkzaamheden, tijdverzuim en reis- en verblijfkosten
+## Eerste Titel — Vergoedingen voor werkzaamheden, tijdverzuim en reis- en verblijfkosten
 
 ### § 1 — Algemene bepalingen
 
@@ -164,7 +164,7 @@ Vergoedingen verschuldigd door de verdachte of de gerekwestreerde worden, nadat 
 
 5\. Onze Minister van Justitie kan nadere regelen stellen.
 
-## Titel Tweede — Kosten van afschriften, uittreksels en inlichtingen
+## Tweede Titel — Kosten van afschriften, uittreksels en inlichtingen
 
 ### Artikel 17
 
@@ -172,13 +172,13 @@ Vergoedingen verschuldigd door de verdachte of de gerekwestreerde worden, nadat 
 
 2\. Geen recht wordt geheven van openbare colleges en van ambtenaren van openbare lichamen, die afschriften, uittreksels of inlichtingen behoeven in het belang van de uitoefening van de dienst, noch in gevallen waarin bij bijzondere wetten gratis afgifte van afschriften of uittreksels of verstrekking van inlichtingen is voorgeschreven.
 
-## Titel Derde — Uitreiken van gerechtelijke stukken en uitbrengen van exploten
+## Derde Titel — Uitreiken van gerechtelijke stukken en uitbrengen van exploten
 
 ### Artikel 18
 
 Wij stellen bij algemene maatregel van bestuur de tarieven vast voor het uitbrengen van exploiten ingevolge bijzondere wetten.
 
-## Titel Vierde — Slotbepalingen
+## Vierde Titel — Slotbepalingen
 
 ### Artikel 19
 

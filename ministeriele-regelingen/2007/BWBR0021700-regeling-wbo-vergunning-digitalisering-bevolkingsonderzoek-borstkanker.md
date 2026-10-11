@@ -64,9 +64,5 @@ Binnen de gestelde periode kan de vergunning worden ingetrokken op gronden genoe
 
 Van het verlenen van deze vergunning wordt mededeling gedaan in de Staatscourant.
 
-De\
-Minister van Volksgezondheid, Welzijn en Sport\
-namens deze,\
-directeur\
-Publieke Gezondheid\
-D.Ruwaard
+De Minister van Volksgezondheid, Welzijn en Sport, namens deze, de directeur Publieke Gezondheid,\
+D. Ruwaard

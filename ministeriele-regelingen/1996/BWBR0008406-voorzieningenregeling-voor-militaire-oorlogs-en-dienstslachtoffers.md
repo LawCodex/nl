@@ -484,7 +484,5 @@ De regeling zal worden geplaatst in de MP-31-serie.
 
 Deze regeling wordt aangehaald als: Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
 
-De\
-Staatssecretaris\
-Defensie\
-J.C.Gmelich Meijling
+De Staatssecretaris van Defensie,\
+J.C. Gmelich Meijling

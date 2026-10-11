@@ -43,7 +43,5 @@ Tarieven binnen het domein van de zorg als bedoeld in artikel 1 worden per 1-1-2
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

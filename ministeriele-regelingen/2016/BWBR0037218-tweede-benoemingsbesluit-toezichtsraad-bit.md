@@ -45,7 +45,5 @@ Dit besluit wordt aangehaald als: Tweede Benoemingsbesluit Toezichtsraad BIT.
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden verzonden aan betrokkene.
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok

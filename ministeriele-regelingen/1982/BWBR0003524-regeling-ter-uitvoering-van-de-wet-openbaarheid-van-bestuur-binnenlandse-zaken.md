@@ -181,7 +181,5 @@ Afschrift van deze beschikking, welke zal worden gepubliceerd in de Nederlandse 
 
 's-Gravenhage 18 oktober 1982
 
-De\
-Minister\
-Binnenlandse Zaken\
+De Minister van Binnenlandse Zaken,\
 M. G. Rood

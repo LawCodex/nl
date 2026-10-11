@@ -161,10 +161,8 @@ Deze regeling wordt aangehaald als: Subsidieregeling stageplaatsen zorg II.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage 1 — Codes beroepsopleidende leerweg (bol) Centraal Register Beroepsopleidingen (voorheen CREBO)
 

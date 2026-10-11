@@ -37,9 +37,5 @@ Deze mededeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 24 juni 2016
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-J.A.A.Dikmans\
-Directeur Stelsel en Volksverzekeringen
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,namens deze,\
+J.A.A. DikmansDirecteur Stelsel en Volksverzekeringen

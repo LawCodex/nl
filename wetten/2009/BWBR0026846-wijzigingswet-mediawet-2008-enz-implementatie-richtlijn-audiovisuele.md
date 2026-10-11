@@ -69,10 +69,10 @@ Gegeven te
 
 Beatrix
 
-De Minister van Onderwijs, Cultuur en Wetenschap\
-R. H. A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R. H. A. Plasterk
 
 de *achttiende* december 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

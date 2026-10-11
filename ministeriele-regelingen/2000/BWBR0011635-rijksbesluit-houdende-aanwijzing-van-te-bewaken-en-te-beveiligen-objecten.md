@@ -45,10 +45,8 @@ Dit besluit zal met de daarbij behorende bijlage in de Staatscourant, in de Cura
 
 \`s-Gravenhage 14 september 2000
 
-De\
-Minister\
-Defensie\
-F.H.G. deGrave
+De Minister van Defensie,\
+F.H.G. de Grave
 
 ## Bijlage bij artikel 1 van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten
 

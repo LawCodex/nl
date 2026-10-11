@@ -42,7 +42,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 18 december 2006
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-P.Winsemius
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+P. Winsemius

@@ -53,11 +53,9 @@ Draagt op aan het hoofd van de centrale afdeling post- en archiefzaken: dit besl
 
 Afschrift van dit besluit zal worden gezonden aan: het hoofd van de centrale afdeling post- en archiefzaken.
 
-De\
-Minister
+De Minister voornoemd,
 
 voor deze,
 
-De\
-Directeur Personeel Koninklijke Marine\
-N. W. G.Buis
+De Directeur Personeel Koninklijke Marine,\
+N. W. G. Buis

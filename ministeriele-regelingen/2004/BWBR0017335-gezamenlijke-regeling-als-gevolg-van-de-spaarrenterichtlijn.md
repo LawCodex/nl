@@ -79,17 +79,11 @@ Deze regeling kan worden aangehaald als: Gezamenlijke regeling als gevolg van de
 
 Deze regeling zal in de Nederlandse Staatscourant, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba worden geplaatst. Aldus in drievoud opgemaakt in de Nederlandse taal.
 
-De\
-Staatssecretaris\
-Financiën van Nederland\
-J.G.Wijn
+De Staatssecretaris van Financiën van Nederland,\
+J.G. Wijn
 
-De\
-Minister\
-Financiën van de Nederlandse Antillen\
-E.Th.N. DeLannooy
+De Minister van Financiën van de Nederlandse Antillen,\
+E.Th.N. De Lannooy
 
-De\
-Minister\
-Financiën en Economische Zaken van Aruba\
-N.J.J.Swaen
+De Minister van Financiën en Economische Zaken van Aruba,\
+N.J.J. Swaen

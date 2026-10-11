@@ -30,7 +30,5 @@ Besluit
 
 Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant en werkt terug tot en met 20 november 2019.
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze,\
-L.E.M. Hendrix,\
-Directeur Dierlijke Agroketens en Dierenwelzijn
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze,\
+L.E.M. Hendrix, Directeur Dierlijke Agroketens en Dierenwelzijn

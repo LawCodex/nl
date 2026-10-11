@@ -31,10 +31,7 @@ De gevormde of nog te vormen Dubbelen van de akten van de Burgerlijke Stand over
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie
+De Minister van Justitie,
 
-namens deze,\
-Hoofd Centrale Justitiële Documentatie\
-F.P.M.J.Boots
+namens deze, Hoofd Centrale Justitiële Documentatie,\
+F.P.M.J. Boots

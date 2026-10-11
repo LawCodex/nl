@@ -53,9 +53,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 3 augustus 2012
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze:\
-G.N.Roes,\
-directeur-generaal Rechtspleging en Rechtshandhaving.
+De Minister van Veiligheid en Justitie,namens deze:\
+G.N. Roes,directeur-generaal Rechtspleging en Rechtshandhaving.

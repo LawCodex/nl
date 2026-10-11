@@ -39,17 +39,11 @@ Deze beschikking kan worden aangehaald als: Gezamenlijke beschikking omtrent win
 
 's-Gravenhage 17 december 1964,
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën van Nederland,\
 Van den Berge
 
-Paramaribo, 17 december 1964, De\
-Minister\
-Financiën\
+Paramaribo, 17 december 1964, De Minister van Financiën van Suriname,\
 J. A. Pengel
 
-Willemstad, 17 december 1964, De\
-Minister\
-Financiën\
+Willemstad, 17 december 1964, De Minister van Financiën van de Nederlandse Antillen,\
 Ern. Petronia

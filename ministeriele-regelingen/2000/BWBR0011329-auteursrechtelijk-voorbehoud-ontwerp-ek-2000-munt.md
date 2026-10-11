@@ -31,10 +31,8 @@ De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als be
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-W.J.Bos
+De Staatssecretaris van Financiën,\
+W.J. Bos
 
 ## Bijlage
 

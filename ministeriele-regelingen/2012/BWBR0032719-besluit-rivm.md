@@ -72,7 +72,5 @@ Dit besluit wordt aangehaald als: Besluit RIVM.
 
 Dit besluit wordt in de Staatscourant geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

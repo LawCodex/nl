@@ -206,10 +206,8 @@ Deze regeling wordt aangehaald als: Regeling regionale aanpak voortijdig schoolv
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage A — behorende bij artikel 2.6 van de Regeling regionale aanpak voortijdig schoolverlaten 2017
 

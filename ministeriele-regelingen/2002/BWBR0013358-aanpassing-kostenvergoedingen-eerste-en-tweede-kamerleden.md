@@ -77,7 +77,5 @@ Per 1 oktober 2001 bedraagt de vergoeding, genoemd in artikel 4 van de Wet vergo
 
 Gelet op artikel 10 van de Wet vergoedingen leden Eerste Kamer bedraagt de vergoeding voor secundaire voorzieningen, bedoeld in artikel 10 eerste lid van genoemde wet, voor het jaar 2002 € 1.571,30 op jaarbasis.
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-K.G.de Vries
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.G. de Vries

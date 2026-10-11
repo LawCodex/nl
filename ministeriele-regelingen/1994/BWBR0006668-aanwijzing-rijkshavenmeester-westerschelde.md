@@ -37,7 +37,5 @@ Van deze beschkking wordt mededeling gedaan in de Staatscourant.
 
 's-Gravenhage 10 mei 1994
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen

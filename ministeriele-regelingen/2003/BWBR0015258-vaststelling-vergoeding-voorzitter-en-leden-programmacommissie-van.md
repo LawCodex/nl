@@ -43,11 +43,8 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 20 juni 2003
 
-De\
-Staatssecretaris\
-Economische Zaken
+De Staatssecretaris van Economische Zaken,
 
 namens deze:
 
-J.W. Oosterwijk\
-secretaris-generaal
+J.W. Oosterwijk, secretaris-generaal

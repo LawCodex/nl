@@ -31,7 +31,5 @@ Besluit inzake het tarief voor (hernieuwde) inschrijving in de registers van Hui
 
 Dit besluit, alsmede mijn goedkeuring, zullen worden gepubliceerd in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

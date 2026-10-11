@@ -161,15 +161,12 @@ Vervallen
 
 's-Gravenhage 28 december 1965
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Voor deze:
 
-De\
-directeur-generaal voor fiscale zaken in algemene dienst\
-C. P.Tuk
+De directeur-generaal voor fiscale zaken in algemene dienst,\
+C. P. Tuk
 
 ## Bijlage — behorende bij de Uitvoeringsbeschikking dividendbelasting 1965
 

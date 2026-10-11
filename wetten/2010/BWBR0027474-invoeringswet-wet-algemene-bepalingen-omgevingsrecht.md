@@ -416,13 +416,13 @@ Gegeven te
 
 Beatrix
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J. C.Huizinga-Heringa
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J. C. Huizinga-Heringa
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap\
-J. M. vanBijsterveldt-Vliegenthart
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+J. M. van Bijsterveldt-Vliegenthart
 
 de *eerste* april 2010
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

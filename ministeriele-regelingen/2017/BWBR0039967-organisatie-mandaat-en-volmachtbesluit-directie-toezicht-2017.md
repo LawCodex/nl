@@ -285,13 +285,9 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 31 augustus 2017
 
-De Minister van Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-H.C. van Hoorn\
-directeur Toezicht
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze,\
+H.C. van Hoorn directeur Toezicht
 
-L.M.N. Kroon\
-directeur Toezicht
+L.M.N. Kroon directeur Toezicht
 
-M.A. Zuurbier\
-directeur Toezicht
+M.A. Zuurbier directeur Toezicht

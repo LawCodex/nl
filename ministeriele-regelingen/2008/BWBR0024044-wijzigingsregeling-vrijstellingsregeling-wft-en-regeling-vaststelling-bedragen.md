@@ -48,7 +48,5 @@ Wijzigt de Regeling vaststelling bedragen 2008 ex artikelen 2 en 3, Besluit beko
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-W.J.Bos
+De Minister van Financiën,\
+W.J. Bos

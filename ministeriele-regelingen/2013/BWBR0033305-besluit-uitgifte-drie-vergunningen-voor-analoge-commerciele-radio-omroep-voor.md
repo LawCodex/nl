@@ -63,9 +63,7 @@ Dit besluit wordt bekendgemaakt in de Staatscourant, met uitzondering van de bij
 
 Dit besluit treedt in werking op de dag na publicatie in de Staatscourant.
 
-De\
-Minister\
-Economische Zaken,
+De Minister van Economische Zaken,
 
 ## Bijlage A
 

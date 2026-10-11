@@ -37,7 +37,5 @@ Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 15 oktober 2013
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-F.Teeven
+De Staatssecretaris van Veiligheid en Justitie,\
+F. Teeven

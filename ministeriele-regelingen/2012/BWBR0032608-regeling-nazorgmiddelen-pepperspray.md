@@ -87,7 +87,5 @@ Deze regeling wordt aangehaald als: Regeling nazorgmiddelen pepperspray.
 
 Deze regeling zal met toelichting worden geplaatst in de Staatscourant.
 
-De\
-Minister\
-Veiligheid en Justitie,\
-I.W.Opstelten
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

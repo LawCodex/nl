@@ -85,4 +85,4 @@ Een ieder die betrokken is bij de werkzaamheden van de commissie en daarbij de b
 ‘s-Gravenhage 10 februari 2000
 
 De directeur-generaal voor Fiscale Zaken,\
-D.E.Witteveen
+D.E. Witteveen

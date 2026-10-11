@@ -33,9 +33,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 24 juli 2014
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-Namens deze,\
-De algemene rijksarchivaris,\
-K.J.P.F.M.Jeurgens
+De Minister van Onderwijs, Cultuur en Wetenschap,Namens deze,De algemene rijksarchivaris,,\
+K.J.P.F.M. Jeurgens

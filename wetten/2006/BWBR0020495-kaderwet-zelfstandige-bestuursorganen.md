@@ -369,10 +369,10 @@ Gegeven te ’s-Gravenhage 2 november 2006
 
 Beatrix
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-J. W.Remkes
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+J. W. Remkes
 
 de *dertigste* november 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -25,7 +25,7 @@ Gelet op artikel 2.2, eerste lid, artikel 3.3, eerste lid, en artikel 4.3, tweed
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 1\. Het subsidieplafond, bedoeld in artikel 2.2, eerste lid, van de Regeling kwaliteitsafspraken mbo, voor het kalenderjaar 2018 wordt:
 

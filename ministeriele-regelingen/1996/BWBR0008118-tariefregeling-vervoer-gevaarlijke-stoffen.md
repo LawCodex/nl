@@ -73,7 +73,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 20 juni 1996
 
-De\
-Minister\
-Verkeer en Waterstaat\
-M. deBoer
+De Minister van Verkeer en Waterstaat, a.i.,\
+M. de Boer

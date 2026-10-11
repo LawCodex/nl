@@ -89,7 +89,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 27 september 2018
 
-De Minister voor Rechtsbescherming,\
-namens deze,\
-C. Huizinga\
-Operationeel manager V&T
+De Minister voor Rechtsbescherming, namens deze,\
+C. Huizinga Operationeel manager V&T

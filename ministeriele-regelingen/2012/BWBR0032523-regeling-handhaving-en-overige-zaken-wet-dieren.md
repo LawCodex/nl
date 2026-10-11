@@ -957,10 +957,8 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 12 december 2012
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp.
+De Minister van Economische Zaken,\
+H.G.J. Kamp.
 
 ## Bijlage — als bedoeld in artikel 1.2 van de Regeling handhaving en overige zaken Wet dieren
 

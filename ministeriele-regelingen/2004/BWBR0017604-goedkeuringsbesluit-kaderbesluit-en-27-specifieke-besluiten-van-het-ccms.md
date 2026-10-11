@@ -38,7 +38,5 @@ goed te keuren.
 
 Dit besluit zal samen met de desbetreffende besluiten van het Centraal College Medische Specialismen worden gepubliceerd in de Staatscourant, met uitzondering van de 16 bijlagen met eindtermen uit de specifieke besluiten, deze worden gepubliceerd op de web site van de KNMG www.knmg.nl/ore.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

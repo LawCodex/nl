@@ -83,12 +83,9 @@ Als ambtenaren, bedoeld in artikel 35, tweede lid, van de wet, worden aangewezen
 
 's-Gravenhage 17 augustus 1982
 
-De\
-Minister\
-Landbouw en Visserij
+De Minister van Landbouw en Visserij,
 
 Voor deze,
 
-De\
-plv. secretaris-generaal\
-J. P. vanZutphen
+De plv. secretaris-generaal,\
+J. P. van Zutphen

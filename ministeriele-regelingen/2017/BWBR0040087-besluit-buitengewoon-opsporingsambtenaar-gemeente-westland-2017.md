@@ -89,7 +89,5 @@ Dit besluit in de Staatscourant worden geplaatst.
 
 Den Haag 10 oktober 2017
 
-De Minister van Veiligheid en Justitie,\
-namens deze,\
-S.L. de Koning\
-Wnd. afdelingsmanager V&T
+De Minister van Veiligheid en Justitie, namens deze,\
+S.L. de Koning Wnd. afdelingsmanager V&T

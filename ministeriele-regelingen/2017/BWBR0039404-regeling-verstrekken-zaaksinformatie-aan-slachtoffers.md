@@ -119,7 +119,5 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 29 maart 2017
 
-De\
-Minister\
-Veiligheid en Justitie\
-S.A.Blok
+De Minister van Veiligheid en Justitie,\
+S.A. Blok

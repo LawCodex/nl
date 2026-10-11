@@ -45,6 +45,5 @@ Dit besluit zal met de toelichting in de Nederlandse Staatscourant worden geplaa
 
 ’s-Gravenhage 12 juli 1996
 
-De\
-Minister-President\
-W.Kok
+De Minister-President,\
+W. Kok

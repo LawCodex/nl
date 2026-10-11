@@ -67,7 +67,5 @@ Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
 Deze beleidsregel treedt op 1 januari 2006 in werking.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

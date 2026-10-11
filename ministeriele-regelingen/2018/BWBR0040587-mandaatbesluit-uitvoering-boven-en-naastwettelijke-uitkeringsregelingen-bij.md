@@ -70,8 +70,5 @@ Dit besluit treedt in werking met ingang van de datum van ondertekening en werkt
 
 Dit besluit zal worden gepubliceerd in de serie Ministeriele Publicaties van het Ministerie van Defensie en met de toelichting in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Defensie\
-voor deze,\
-De Hoofddirecteur Personeel,\
-P.F.M. Reesink\
-Schout-bij-nacht
+De Staatssecretaris van Defensie voor deze, De Hoofddirecteur Personeel,\
+P.F.M. Reesink Schout-bij-nacht

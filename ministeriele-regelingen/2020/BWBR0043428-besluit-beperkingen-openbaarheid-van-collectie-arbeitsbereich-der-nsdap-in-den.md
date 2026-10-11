@@ -63,7 +63,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt met de daarbij behorende toelichting in de Staatscourant geplaatst en als bijlage gevoegd bij de ‘Verklaring van Overbrenging van collecties bruikleen NIOD 2020’.
 
-De Minister voor Basis- en Voortgezet Onderwijs en Media,\
-namens deze,\
-de directeur Organisatie & Bedrijfsvoering,\
+De Minister voor Basis- en Voortgezet Onderwijs en Media, namens deze, de directeur Organisatie & Bedrijfsvoering,\
 J.J.H. Been

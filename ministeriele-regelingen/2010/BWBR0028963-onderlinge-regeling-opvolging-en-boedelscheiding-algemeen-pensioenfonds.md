@@ -220,21 +220,16 @@ Met het oog op een goede uitvoering van of ter uitwerking van het bepaalde in de
 
 Aldus ondertekend,
 
-Namens het land Nederlandse Antillen,\
-minister\
-Financiën,\
-E.T.M. deLannooy
+Namens het land Nederlandse Antillen, De minister van Financiën,\
+E.T.M. de Lannooy
 
-Namens Nederland,\
-De Staatssecretaris van BZK,\
+Namens Nederland, De Staatssecretaris van BZK,\
 A.Th.B. Bijleveld-Schouten
 
-Namens Curaçao,\
-De gedeputeerde van Constitutionele Zaken,\
+Namens Curaçao, De gedeputeerde van Constitutionele Zaken,\
 S. Osepa
 
-Namens Sint Maarten,\
-De gedeputeerde van Constitutionele Zaken,\
+Namens Sint Maarten, De gedeputeerde van Constitutionele Zaken,\
 W. Marlin
 
 ## Bijlage 1

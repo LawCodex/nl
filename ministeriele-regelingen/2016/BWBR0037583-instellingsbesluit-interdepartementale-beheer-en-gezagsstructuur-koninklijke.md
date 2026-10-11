@@ -124,7 +124,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 januari 2016
 
-De\
-Minister\
-Defensie,\
-J.A.Hennis Plasschaert
+De Minister van Defensie,\
+J.A. Hennis Plasschaert

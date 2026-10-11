@@ -67,12 +67,9 @@ De navolgende ministeriële regelingen worden ingetrokken:
 
 Deze regeling treedt in werking met ingang van 1 januari 1992. Deze regeling kan worden aangehaald als Invoeringsregeling accijns.
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Namens deze,
 
-De\
-Directeur-Generaal voor Fiscale Zaken\
-D.E.Witteveen
+De Directeur-Generaal voor Fiscale Zaken,\
+D.E. Witteveen

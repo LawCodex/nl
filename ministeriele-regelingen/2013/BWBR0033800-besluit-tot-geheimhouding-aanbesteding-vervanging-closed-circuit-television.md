@@ -43,9 +43,5 @@ Dit Besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 19 augustus 2013
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-namens deze:\
-P.Hennephof,\
-Hoofddirecteur DJI.
+De Staatssecretaris van Veiligheid en Justitie,namens deze:\
+P. Hennephof,Hoofddirecteur DJI.

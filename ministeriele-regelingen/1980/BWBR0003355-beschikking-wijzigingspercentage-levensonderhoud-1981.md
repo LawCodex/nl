@@ -41,6 +41,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingspercentage lev
 
 's-Gravenhage 17 november 1980
 
-De\
-Minister\
+De Minister voornoemd,\
 J. de Ruiter

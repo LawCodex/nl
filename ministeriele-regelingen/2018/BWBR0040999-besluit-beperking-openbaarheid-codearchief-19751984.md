@@ -1774,9 +1774,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het codearchief van het ministerie van Buitenlandse Zaken, 1975–1984’.
 
-De Minister van Buitenlandse Zaken,\
-Namens deze:\
-N. van Heezik\
-Hoofd Informatiemanagement
+De Minister van Buitenlandse Zaken, Namens deze:\
+N. van Heezik Hoofd Informatiemanagement
 
 [^n1]: 1 Stcrt. 2018, 23568

@@ -27,9 +27,8 @@ tot het vaststellen van de hier bijgevoegde Aanwijzingen inzake de bescherming v
 
 's-Gravenhage 7 maart 1975
 
-De\
-Minister-President\
-J.M. denUyl
+De Minister-President,\
+J.M. den Uyl
 
 ## Aanwijzingen inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid
 

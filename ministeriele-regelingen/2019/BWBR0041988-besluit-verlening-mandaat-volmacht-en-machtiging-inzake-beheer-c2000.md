@@ -94,7 +94,5 @@ Dit besluit treedt in werking met ingang na de dag van uitgifte van de Staatscou
 
 Dit besluit wordt aangehaald als: Besluit verlening mandaat, volmacht en machtiging inzake beheer C2000.
 
-De Minister van Justitie en Veiligheid\
-namens deze,\
-Directeur-generaal Politie, Straffen en Beschermen\
+De Minister van Justitie en Veiligheid namens deze, Directeur-generaal Politie, Straffen en Beschermen\
 W.F. Saris

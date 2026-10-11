@@ -57,12 +57,8 @@ Dit besluit wordt in de Staatscourant gepubliceerd; de bijlage ligt voor de bela
 
 Den Haag 8 februari 2011
 
-De\
-Minister\
-Justitie\
-namens deze:\
-het College van procureurs-generaal,\
-H.A. vanBrummen
+De Minister van Justitienamens deze:het College van procureurs-generaal,\
+H.A. van Brummen
 
 ## Bijlage
 

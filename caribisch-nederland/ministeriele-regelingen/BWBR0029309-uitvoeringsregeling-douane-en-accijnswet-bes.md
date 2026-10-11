@@ -1472,10 +1472,8 @@ Als distilleertoestellen als bedoeld in artikel 4.66 van de wet worden aangeweze
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën,\
-F.H.H.Weekers
+De Staatssecretaris van Financiën,\
+F.H.H. Weekers
 
 ## Bijlagen
 

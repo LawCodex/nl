@@ -33,12 +33,9 @@ De navordering van de accijns van minerale oliën ter zake van de verhoging met 
 
 2\. Deze regeling kan worden aangehaald als Regeling navordering van accijns van benzine en dieselolie 1991.
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Namens deze,
 
-De\
-Directeur-Generaal voor Fiscale Zaken\
-D. E.Witteveen
+De Directeur-Generaal voor Fiscale Zaken,\
+D. E. Witteveen

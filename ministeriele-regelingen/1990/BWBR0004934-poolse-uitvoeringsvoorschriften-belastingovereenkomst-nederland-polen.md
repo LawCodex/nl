@@ -83,7 +83,5 @@ De beschikking van de staatssecretaris van Financiën van 5 april 1982, nr. 082-
 
 3\. Zij vindt met inachtneming van het bepaalde in artikel 2, onderdeel a, derde lid, toepassing met betrekking tot dividenden, interest en royalty's die op of na 1 januari 1978 zijn betaald of worden betaald.
 
-De\
-Staatssecretaris\
-Financiën\
+De Staatssecretaris van Financiën,\
 M. J. J. van Amelsvoort

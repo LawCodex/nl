@@ -61,6 +61,5 @@ Deze beschikking wordt in de Nederlandse Staatscourant bekendgemaakt.
 
 's-Gravenhage 5 februari 1987
 
-De\
-minister\
-L. deGraaf
+De minister voornoemd,\
+L. de Graaf

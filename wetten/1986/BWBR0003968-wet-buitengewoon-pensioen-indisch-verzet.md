@@ -27,7 +27,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen te stellen b
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-## hoofdstuk Eerste — Algemene bepalingen
+## Eerste hoofdstuk — Algemene bepalingen
 
 ### Artikel 1
 
@@ -78,7 +78,7 @@ Vervallen
 
 De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de *Staatscourant* is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
 
-## hoofdstuk Tweede — Het buitengewoon pensioen van de deelnemers aan het verzet
+## Tweede hoofdstuk — Het buitengewoon pensioen van de deelnemers aan het verzet
 
 ### § 1 — Het recht op buitengewoon pensioen
 
@@ -224,7 +224,7 @@ Het bedrag, genoemd in artikel 16, tweede lid, onder b, ten derde, wordt door On
 
 2\. Het geneeskundig onderzoek zal, op last van de Raad of de Sociale verzekeringsbank éénmaal worden herhaald, indien de belanghebbende daartoe de wens te kennen geeft in zijn bezwaarschrift, als bedoeld in artikel 44 en voorts in elk geval waarin een herhaling door de Raad of de Sociale verzekeringsbank wenselijk wordt geacht.
 
-## hoofdstuk Derde — Het pensioen der nagelaten betrekkingen
+## Derde hoofdstuk — Het pensioen der nagelaten betrekkingen
 
 ### § 1 — Het recht op buitengewoon pensioen
 
@@ -323,7 +323,7 @@ Het bepaalde in de derde volzin van het derde lid van dit artikel is van overeen
 
 6\. Het ingevolge het eerste tot en met het vijfde lid met het buitengewoon pensioen van de weduwe en/of de gewezen echtgenote wegens het genot van neveninkomsten verrekenbare bedrag wordt beperkt tot het bedrag, waarmede het buitengewoon pensioen, vermeerderd met die neveninkomsten, 65% van de in artikel 16, tweede lid, onder a, bedoelde grondslag overschrijdt, met dien verstande evenwel, dat de verrekening van een pensioen of uitkering als bedoeld in artikel 16, derde lid, zomede de verrekening ter zake van een genoten uitkering ingevolge de Algemene nabestaandenwet en ter zake van een genoten pensioen ingevolge de Algemene Ouderdomswet onverkort gehandhaafd blijft.
 
-## hoofdstuk Vierde
+## Vierde hoofdstuk
 
 ### Artikel 24
 
@@ -333,7 +333,7 @@ Vervallen
 
 Vervallen
 
-## hoofdstuk Vijfde — De aanvraag en de toekenning
+## Vijfde hoofdstuk — De aanvraag en de toekenning
 
 ### Artikel 26
 
@@ -387,7 +387,7 @@ Vervallen
 
 2\. Bij algemene maatregel van bestuur kunnen regelen worden gesteld omtrent de vergoeding welke verschuldigd is, indien afschrift wordt verstrekt van de op de beschikking betrekking hebbende bescheiden.
 
-## hoofdstuk Zesde — Ingang en einde der buitengewone pensioenen
+## Zesde hoofdstuk — Ingang en einde der buitengewone pensioenen
 
 ### Artikel 30
 
@@ -430,7 +430,7 @@ Het buitengewoon pensioen van de weduwe en dat van een gewezen echtgenote worden
 
 5\. Indien meer pensioen is uitbetaald dan overeenstemt met artikel 31, wordt het te veel betaalde teruggevorderd, voor zover verrekening daarvan kan plaatsvinden met een overlijdensuitkering krachtens dit artikel.
 
-## hoofdstuk Zevende — De welvaartsvastheid der buitengewone pensioenen
+## Zevende hoofdstuk — De welvaartsvastheid der buitengewone pensioenen
 
 ### Artikel 35
 
@@ -481,7 +481,7 @@ De garantietoeslag gaat in op de eerste dag van de maand, waarin het recht op de
 
 4\. Op de toeslagen, bedoeld in het eerste en tweede lid, is het achtste hoofdstuk van toepassing, met uitzondering van de artikelen 36 en 41.
 
-## hoofdstuk Achtste — Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
+## Achtste hoofdstuk — Bijzondere bepalingen aan alle buitengewone pensioenen en garantietoeslagen gemeen
 
 ### Artikel 36
 
@@ -538,7 +538,7 @@ De Sociale verzekeringsbank is bevoegd geheel of gedeeltelijk van invordering af
 
 Vervallen
 
-## hoofdstuk Negende — Bezwaar en beroep
+## Negende hoofdstuk — Bezwaar en beroep
 
 ### Artikel 44
 
@@ -574,7 +574,7 @@ Vervallen
 
 Vervallen
 
-## hoofdstuk Tiende — Wijziging en herziening van gegeven beschikkingen
+## Tiende hoofdstuk — Wijziging en herziening van gegeven beschikkingen
 
 ### Artikel 47
 
@@ -621,7 +621,7 @@ Op een beschikking, voortvloeiende uit de toepassing van de artikelen 47 en 49 i
 
 3\. Op een beschikking, voortvloeiende uit de toepassing van het eerste lid, is artikel 28, vijfde lid, van overeenkomstige toepassing.
 
-## hoofdstuk Elfde — Verstrekken van inlichtingen
+## Elfde hoofdstuk — Verstrekken van inlichtingen
 
 ### Artikel 50
 
@@ -635,7 +635,7 @@ Vervallen
 
 Vervallen
 
-## hoofdstuk Twaalfde — Ministerieel toezicht
+## Twaalfde hoofdstuk — Ministerieel toezicht
 
 ### Artikel 53
 
@@ -655,7 +655,7 @@ Vervallen
 
 6\. Het bepaalde in het vierde en vijfde lid vindt geen toepassing indien en voor zolang geen beschikking is genomen ter zake van een bezwaarschrift dan wel een beroepschrift tenzij Onze Minister de Raad of de Sociale verzekeringsbank om inlichtingen, bedoeld in het derde lid, heeft verzocht ter zake van een uitspraak of onderdeel daarvan waartegen het bezwaarschrift of het beroep zich niet richt.
 
-## hoofdstuk Dertiende — Wijziging andere wetten
+## Dertiende hoofdstuk — Wijziging andere wetten
 
 ### Artikel 55
 
@@ -677,7 +677,7 @@ Bevat wijzigingen in andere regelgeving.
 
 Bevat wijzigingen in andere regelgeving.
 
-## hoofdstuk Veertiende — Slotbepalingen
+## Veertiende hoofdstuk — Slotbepalingen
 
 ### Artikel 60
 

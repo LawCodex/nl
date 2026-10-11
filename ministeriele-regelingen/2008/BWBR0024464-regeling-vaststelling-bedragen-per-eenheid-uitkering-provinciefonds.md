@@ -37,12 +37,8 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken en Koninkrijksrelaties\
-voor deze:\
-directeur Bestuurlijke en Financiële Organisatie\
-P.P.L. vanKalmthout
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:, de directeur Bestuurlijke en Financiële Organisatie,\
+P.P.L. van Kalmthout
 
 ## Bijlage 1 — De bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2007
 

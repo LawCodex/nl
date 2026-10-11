@@ -184,10 +184,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ‘s-Gravenhage 25 mei 2000
 
-De\
-Minister\
-Economische Zaken\
-A.Jorritsma-Lebbink
+De Minister van Economische Zaken,\
+A. Jorritsma-Lebbink
 
 ## Bijlage I — bij de Speelautomatenregeling 2000
 

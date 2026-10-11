@@ -35,7 +35,5 @@ Besluit:
 
 Dit besluit zal in de Staatscourant worden geplaatst en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin hij wordt geplaatst.
 
-De\
-Staatssecretaris\
-Binnenlandse Zaken\
-J.Kohnstamm
+De Staatssecretaris van Binnenlandse Zaken,\
+J. Kohnstamm

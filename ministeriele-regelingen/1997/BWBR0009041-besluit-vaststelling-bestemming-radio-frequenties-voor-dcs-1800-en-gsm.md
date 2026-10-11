@@ -48,7 +48,5 @@ Dit besluit wordt aangehaald als: Besluit vaststelling bestemming radio-frequent
 
 Dit besluit zal in de Staatscourant worden geplaatst. Tegen dit besluit kunnen belanghebbenden, binnen zes weken nadat dit op de voorgeschreven wijze is bekendgemaakt, een bezwaarschrift indienen bij de Minister van Verkeer en Waterstaat.
 
-De\
-minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingspercentage lev
 
 's-Gravenhage 14 november 1991
 
-De\
-Staatssecretaris\
+De Staatssecretaris voornoemd,\
 A. Kosto

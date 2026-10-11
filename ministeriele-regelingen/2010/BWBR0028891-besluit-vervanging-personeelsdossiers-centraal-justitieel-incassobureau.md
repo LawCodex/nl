@@ -51,12 +51,8 @@ Dit besluit wordt in de Staatscourant gepubliceerd; de bijlage ligt voor de bela
 
 Leeuwarden 2 september 2010
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-hoofddirecteur van het Centraal Justitieel Incassobureau,\
-A.Regtop
+De Minister van Justitie,namens deze: de hoofddirecteur van het Centraal Justitieel Incassobureau,\
+A. Regtop
 
 ## Bijlage
 

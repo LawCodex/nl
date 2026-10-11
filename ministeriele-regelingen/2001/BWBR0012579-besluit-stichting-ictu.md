@@ -77,7 +77,5 @@ In dit Besluit wordt verstaan onder:
 
 Afdeling 4.2.8 van de Algemene wet bestuursrecht is niet van toepassing op de in de artikel 3 genoemde overbruggingsbijdrage.
 
-De\
-Minister\
-Grote Steden- en Integratiebeleid\
-R.H.L.M. vanBoxtel
+De Minister voor Grote Steden- en Integratiebeleid,\
+R.H.L.M. van Boxtel

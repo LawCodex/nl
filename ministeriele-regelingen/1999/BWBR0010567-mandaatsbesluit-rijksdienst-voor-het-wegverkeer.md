@@ -29,12 +29,9 @@ Dit besluit vervalt op het moment dat artikel 1.9. van het Voertuigreglement in 
 
 Den Haag 30 juni 1999.
 
-De\
-Minister\
-Financiën,
+De Minister van Financiën,
 
 Namens deze,
 
-De\
-directeur-generaal\
-J.N. vanLunteren
+De directeur-generaal der Belastingen\
+J.N. van Lunteren

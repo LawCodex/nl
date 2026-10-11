@@ -63,9 +63,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 26 november 2014
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-namens deze:\
-J.A. van denBos\
-Inspecteur-generaal Sociale Zaken en Werkgelegenheid
+De Minister van Volksgezondheid, Welzijn en Sport,namens deze:\
+J.A. van den BosInspecteur-generaal Sociale Zaken en Werkgelegenheid

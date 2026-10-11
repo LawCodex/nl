@@ -29,7 +29,5 @@ Opdrachten betreffende de productie van identiteitsbewijzen voor geprivilegieerd
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Buitenlandse Zaken,\
-Namens deze:\
-De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+De Minister van Buitenlandse Zaken, Namens deze: De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
 J. Brandt

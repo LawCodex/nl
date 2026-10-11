@@ -29,7 +29,5 @@ Te rekenen van 1 januari 2011 is de Pensioen- en Uitkeringsraad, bedoeld in arti
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

@@ -101,15 +101,11 @@ Een ieder die betrokken is bij de werkzaamheden van de commissie en daarbij de b
 
 's-Gravenhage 4 april 1990
 
-De\
-Minister\
-Financiën\
-W.Kok
+De Minister van Financiën,\
+W. Kok
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M. J. J. van Amelsvoort
 
 ## Bijlage — Bijlage Paragraaf 1, punt 24 van het Regeerakkoord (Kamerstukken II, 1989–1990, 21 132, nr. 9 blz. 13–14)
 

@@ -39,12 +39,8 @@ Dit besluit zal met de toelichting in de Staatscourant en het Afkondigingsblad v
 
 Den Haag 21 december 2009
 
-De\
-Minister\
-Justitie van het Koninkrijk\
-namens deze:\
-directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken\
-R.K.Visser
+De Minister van Justitie van het Koninkrijk, namens deze: de directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken,\
+R.K. Visser
 
 ## Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba
 

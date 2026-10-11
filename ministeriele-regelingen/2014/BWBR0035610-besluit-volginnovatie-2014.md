@@ -141,9 +141,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 1 oktober 2014
 
-De\
-Minister\
-Economische Zaken,\
-namens deze:\
-M.R.P.M.Camps,\
-secretaris-generaal
+De Minister van Economische Zaken,namens deze:\
+M.R.P.M. Camps,secretaris-generaal

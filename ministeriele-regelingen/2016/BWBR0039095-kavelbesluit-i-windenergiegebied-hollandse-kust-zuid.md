@@ -186,6 +186,8 @@ Het aangewezen windenergiegebied Hollandse Kust (zuid) ligt in de Nederlandse ex
 
 Figuur 1 Ligging van windenergiegebied Hollandse Kust (zuid)<sup>1</sup>
 
+<sup>1</sup> Intussen zijn als gevolg van de Rijksstructuurvisie Windenergie op Zee Aanvulling gebied Hollandse Kust deze gebieden aangewezen.
+
 ##### 4.1.2 — Windopbrengst en kostenefficiëntie
 
 Er is onderzoek[^n12] gedaan naar de geschiktheid van het gebied voor de aanleg van windparken vanuit windopbrengst en kostenefficiëntie. Om een beeld te verkrijgen van de kosten per eenheid opgewekte energie (euro/megawattuur) binnen het windenergiegebied, is dit aan de hand van de meest bepalende factoren nagegaan. Deze factoren zijn waterdiepte, windsnelheid en de afstand tot de kust. Uit dit onderzoek komt het beeld naar voren dat het opwekken van windenergie op een kosten-efficiënte wijze gerealiseerd kan worden.
@@ -197,6 +199,8 @@ Tot op heden heeft het gebied meerdere gebruiksfuncties. Er lopen geen scheepvaa
 ![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039095/2026-07-17_0/xml/258208.png)
 
 Figuur 2 Windenergiegebied Hollandse Kust met gebruiksfuncties in de directe omgeving<sup>1</sup>
+
+<sup>1</sup> Intussen zijn als gevolg van de Rijksstructuurvisie Windenergie op Zee Aanvulling gebied Hollandse Kust deze gebieden aangewezen.
 
 ##### 4.1.4 — Bodemsamenstelling
 
@@ -226,6 +230,8 @@ Vanwege de omvang van de beoogde platforms op zee van TenneT van elk circa 700 M
 ![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039095/2026-07-17_0/xml/258209.png)
 
 Figuur 3 Schematische verkaveling van windenergiegebied Hollandse Kust (zuid)<sup>1</sup>
+
+1 Intussen zijn als gevolg van de Rijksstructuurvisie Windenergie op Zee Aanvulling gebied Hollandse Kust deze gebieden aangewezen.
 
 ##### 4.2.2 — Kavelbegrenzing
 

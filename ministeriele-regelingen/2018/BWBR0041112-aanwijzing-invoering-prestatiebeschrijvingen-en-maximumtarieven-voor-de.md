@@ -27,7 +27,7 @@ Na op 26 april 2018 schriftelijk mededeling te hebben gedaan aan de Eerste en Tw
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit stelt met ingang van 1 januari 2019 voor de Gecombineerde Leefstijl Interventie prestatiebeschrijvingen en maximumtarieven vast.
 

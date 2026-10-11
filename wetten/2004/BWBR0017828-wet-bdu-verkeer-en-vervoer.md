@@ -221,10 +221,10 @@ Gegeven te 's-Gravenhage 23 december 2004
 
 Beatrix
 
-De Minister van Verkeer en Waterstaat\
-K. M. H.Peijs
+De Minister van Verkeer en Waterstaat ,\
+K. M. H. Peijs
 
 de *vijfentwintigste* januari 2005
 
-De Minister van Justitie\
-J. P. H.Donner
+De Minister van Justitie ,\
+J. P. H. Donner

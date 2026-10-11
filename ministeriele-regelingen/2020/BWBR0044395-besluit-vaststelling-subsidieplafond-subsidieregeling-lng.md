@@ -25,7 +25,7 @@ Gelet op artikel 8, eerste lid, van het Kaderbesluit subsidies I en M en artikel
 
 BESLUIT:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond, bedoeld in artikel 5, tweede lid, van de Subsidieregeling LNG wordt voor 2021 vastgesteld op € 4.600.000.
 

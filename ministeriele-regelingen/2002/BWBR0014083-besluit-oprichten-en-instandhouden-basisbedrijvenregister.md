@@ -42,8 +42,6 @@ De directeur ICT van het directoraat-generaal Innovatie draagt er zorg voor dat 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Economische Zaken
+De Minister van Economische Zaken,
 
 H.Ph.J.B. Heinsbroek

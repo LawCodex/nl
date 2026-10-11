@@ -78,7 +78,5 @@ Deze regeling wordt aangehaald als: Regeling functionele valuta.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Financiën\
-W.Vermeend
+De Staatssecretaris van Financiën,\
+W. Vermeend

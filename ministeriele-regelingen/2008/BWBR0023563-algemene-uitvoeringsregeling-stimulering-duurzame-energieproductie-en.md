@@ -681,10 +681,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Den Haag 28 februari 2008
 
-De\
-Minister\
-Economische Zaken\
-M.J.A. van derHoeven
+De Minister van Economische Zaken,\
+M.J.A. van der Hoeven
 
 ## Bijlage 1 — behorende bij artikel 3, derde lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie en klimaattransitie
 

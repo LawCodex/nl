@@ -35,10 +35,8 @@ Voor het uitkeringsjaar 2016 worden de bedragen per eenheid voor de algemene uit
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
-namens deze,\
-R.R. ter Kuile\
-Directeur Bestuur en Financiën
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze,\
+R.R. ter Kuile Directeur Bestuur en Financiën
 
 ## Bijlage 1 — de bedragen per eenheid voor de algemene uitkering uit het gemeentefonds over het uitkeringsjaar 2016 (bijlage bij artikel 1)
 

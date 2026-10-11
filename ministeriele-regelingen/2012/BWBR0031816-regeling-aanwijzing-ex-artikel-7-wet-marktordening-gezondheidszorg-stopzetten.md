@@ -43,13 +43,11 @@ de op 5 juli 2012 door de Tweede Kamer der Staten-Generaal aangenomen motie-Kuik
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 De Nederlandse Zorgautoriteit stelt met ingang van 1 januari 2013 maximumtarieven vast als bedoeld in artikel 50, eerste lid, aanhef en onder c, van de Wet marktordening gezondheidszorg voor mondzorg als bedoeld in artikel 1 van de aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 21 juli 2011, nr. MC-U-3072981, inzake invoering vrije tarieven mondzorg, en beëindigt met ingang van diezelfde datum het experiment als bedoeld in die aanwijzing.
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.
 
-De\
-minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

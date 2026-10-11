@@ -41,17 +41,11 @@ Deze beschikking kan worden aangehaald als: Gezamenlijke beschikking plaatselijk
 
 's-Gravenhage 28 juni 1990
 
-De\
-Staatssecretaris\
-Financiën\
-M. J. J. vanAmelsvoort
+De Staatssecretaris van Financiën van Nederland,\
+M. J. J. van Amelsvoort
 
-Willemstad, 26 juni 1990. De\
-Minister\
-Financiën\
-G. de Paula
+Willemstad, 26 juni 1990. De Minister van Financiën van de Nederlandse Antillen,\
+G. de Paulajr.
 
-Oranjestad, 25 juni 1990. De\
-Minister\
-Financiën\
-G. P.Trinidad
+Oranjestad, 25 juni 1990. De Minister van Financiën van Aruba,\
+G. P. Trinidad

@@ -46,12 +46,9 @@ Deze regeling treedt in werking met terugwerkende kracht per 1 januari 1992 en w
 
 's-Gravenhage 29 januari 1992
 
-De\
-minister\
-Verkeer en Waterstaat
+De minister van Verkeer en Waterstaat,
 
 Namens deze,
 
-De\
-secretaris-generaal,\
+De secretaris-generaal,\
 H. N. J. Smits

@@ -188,7 +188,5 @@ Deze regeling zal met toelichting worden geplaatst in de Staatscourant. Van de p
 
 Den Haag 22 september 2006
 
-De\
-Minister\
-Justitie\
-M.C.F.Verdonk
+De Minister van Justitie a.i.,\
+M.C.F. Verdonk

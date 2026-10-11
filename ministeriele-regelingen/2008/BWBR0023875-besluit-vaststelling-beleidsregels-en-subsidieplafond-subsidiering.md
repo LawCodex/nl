@@ -57,10 +57,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal in de Staatscourant worden geplaatst. De bijlage bij dit besluit zal worden bekendgemaakt door terinzagelegging bij het Ministerie van Buitenlandse Zaken en door plaatsing op internet (www.minbuza.nl).
 
-De\
-Minister\
-Ontwikkelingssamenwerking\
-A.G.Koenders
+De Minister voor Ontwikkelingssamenwerking,\
+A.G. Koenders
 
 ## Bijlage
 

@@ -118,13 +118,13 @@ Gegeven te
 
 Beatrix
 
-De Minister van Economische Zaken\
-M. J. A. van derHoeven
+De Minister van Economische Zaken,\
+M. J. A. van der Hoeven
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties\
-G. terHorst
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
 
 *tiende* november 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

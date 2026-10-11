@@ -51,13 +51,10 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal in de Staatscourant geplaatst worden.
 
-De\
-Minister\
-Ontwikkelingssamenwerking
+De Minister voor Ontwikkelingssamenwerking,
 
 namens deze:
 
-De\
-Directeur-Generaal Internationale Samenwerking
+De Directeur-Generaal Internationale Samenwerking
 
 J. N. M. Richelle

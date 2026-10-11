@@ -87,10 +87,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 20 december 2000
 
-De\
-Staatssecretaris\
-Financiën\
-W.Bos
+De Staatssecretaris van Financiën,\
+W. Bos
 
 ## Bijlage — behorende bij artikel 2 van de Uitvoeringsregeling energie-investeringsaftrek 2001
 

@@ -422,8 +422,7 @@ Dit subtaakbesluit treedt in werking met ingang van de tweede dag na dagtekening
 Dit besluit wordt aangehaald als: *Subtaakbesluit Koninklijke Marechaussee 2019.*
 
 De Commandant Koninklijke Marechaussee\
-J.A.J. Leijtens\
-Luitenant-generaal
+J.A.J. Leijtens Luitenant-generaal
 
 ## Bijlage 1 — Organigram KMar
 

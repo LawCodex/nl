@@ -119,9 +119,9 @@ Vervallen
 
 Vervallen
 
-### titel Zevende — Van huur en verhuur
+### Zevende titel — Van huur en verhuur
 
-#### afdeeling Eerste — Algemeene bepaling
+#### Eerste afdeeling — Algemeene bepaling
 
 ##### Artikel 1584
 
@@ -131,7 +131,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Tweede — Van de regelen, welke gemeen zijn aan verhuringen van huizen en van andere zaken
+#### Tweede afdeeling — Van de regelen, welke gemeen zijn aan verhuringen van huizen en van andere zaken
 
 ##### Artikel 1586
 
@@ -249,7 +249,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Derde — Van de regelen welke bijzonder betrekkelijk zijn tot huur van huizen en huisraad
+#### Derde afdeeling — Van de regelen welke bijzonder betrekkelijk zijn tot huur van huizen en huisraad
 
 ##### Artikel 1619
 
@@ -271,7 +271,7 @@ Vervallen
 
 Vervallen
 
-#### afdeling Vierde — Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van woonruimte
+#### Vierde afdeling — Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van woonruimte
 
 ##### Artikel 1623a
 
@@ -333,7 +333,7 @@ Vervallen
 
 Vervallen
 
-#### afdeling Vijfde — Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van bedrijfsruimte
+#### Vijfde afdeling — Van de regelen welke bijzonder betrekkelijk zijn tot huur en verhuur van bedrijfsruimte
 
 ##### Artikel 1624
 
@@ -429,7 +429,7 @@ Vervallen
 
 ### Zevende titel A
 
-#### afdeeling Eerste — Algemeene bepalingen
+#### Eerste afdeeling — Algemeene bepalingen
 
 ##### Artikel 1637
 
@@ -447,7 +447,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Tweede — Van de arbeidsovereenkomst in het algemeen
+#### Tweede afdeeling — Van de arbeidsovereenkomst in het algemeen
 
 ##### Artikel 1637d
 
@@ -541,7 +541,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Derde — Van de verplichtingen des werkgevers
+#### Derde afdeeling — Van de verplichtingen des werkgevers
 
 ##### Artikel 1638
 
@@ -715,7 +715,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Vierde — Van de verplichtingen des arbeiders
+#### Vierde afdeeling — Van de verplichtingen des arbeiders
 
 ##### Artikel 1639a
 
@@ -737,7 +737,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Vijfde — Van de verschillende wijzen waarop de dienstbetrekking, door arbeidsovereenkomst ontstaan, eindigt
+#### Vijfde afdeeling — Van de verschillende wijzen waarop de dienstbetrekking, door arbeidsovereenkomst ontstaan, eindigt
 
 ##### Artikel 1639e
 
@@ -837,7 +837,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Zesde — Van aanneming van werk
+#### Zesde afdeeling — Van aanneming van werk
 
 ##### Artikel 1639
 
@@ -887,9 +887,9 @@ Vervallen
 
 Vervallen
 
-### titel Negende — Van maatschap
+### Negende titel — Van maatschap
 
-#### afdeeling Eerste — Algemeene bepalingen
+#### Eerste afdeeling — Algemeene bepalingen
 
 ##### Artikel 1655
 
@@ -911,7 +911,7 @@ De algeheele maatschap van winst bevat slechts hetgeen partijen, onder welke ben
 
 De bijzondere maatschap is de zoodanige welke slechts betrekking heeft tot zekere bepaalde goederen, of tot derzelver gebruik, of tot de vruchten die daarvan zullen getrokken worden, of tot eene bepaalde onderneming, of tot de uitoefening van eenig bedrijf of beroep.
 
-#### afdeeling Tweede — Van de verbindtenissen der vennooten onderling
+#### Tweede afdeeling — Van de verbindtenissen der vennooten onderling
 
 ##### Artikel 1661
 
@@ -978,7 +978,7 @@ Bij gebreke van bijzondere bedingen omtrent de wijze van beheer, moeten de volge
 
 Elk der vennooten mag, zelfs zonder toestemming der overige, eenen derden persoon aannemen als deelgenoot in het aandeel hetwelk hij in de maatschap heeft; doch hij kan denzelven, zonder zoodanige toestemming, niet als medelid der maatschap toelaten, al mogt hij ook met het beheer der zaken van de maatschap belast zijn.
 
-#### afdeeling Derde — Van de verbindtenissen der vennooten ten aanzien van derden
+#### Derde afdeeling — Van de verbindtenissen der vennooten ten aanzien van derden
 
 ##### Artikel 1679
 
@@ -996,7 +996,7 @@ Het beding dat eene handeling voor rekening der maatschap is aangegaan, verbindt
 
 Indien een der vennooten in naam der maatschap eene overeenkomst heeft aangegaan, kan de maatschap de uitvoering daarvan vorderen.
 
-#### afdeeling Vierde — Van de verschillende wijzen waarop de maatschap eindigt
+#### Vierde afdeeling — Van de verschillende wijzen waarop de maatschap eindigt
 
 ##### Artikel 1683
 
@@ -1027,9 +1027,9 @@ Een maatschap wordt ontbonden:
 
 2\. In het tweede geval, heeft de erfgenaam des overledenen geen verder regt dan op de verdeeling der maatschap, overeenkomstig de gesteldheid waarin dezelve zich ten tijde van dat overlijden bevond; doch hij deelt in de voordeelen en draagt in de verliezen, die de noodzakelijke gevolgen zijn van verrigtingen, welke vóór het overlijden van den vennoot, wiens erfgenaam hij is, hebben plaats gehad.
 
-### titel Elfde — Vervallen
+### Elfde titel — Vervallen
 
-#### afdeeling Eerste — Vervallen
+#### Eerste afdeeling — Vervallen
 
 ##### Artikel 1703
 
@@ -1071,7 +1071,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Tweede — Vervallen
+#### Tweede afdeeling — Vervallen
 
 ##### Artikel 1713
 
@@ -1089,7 +1089,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Derde — Vervallen
+#### Derde afdeeling — Vervallen
 
 ##### Artikel 1719
 
@@ -1111,7 +1111,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Vierde — Vervallen
+#### Vierde afdeeling — Vervallen
 
 ##### Artikel 1725
 
@@ -1125,9 +1125,9 @@ Vervallen
 
 Vervallen
 
-### titel Dertiende — Van bruikleening
+### Dertiende titel — Van bruikleening
 
-#### afdeeling Eerste — Algemeene bepalingen
+#### Eerste afdeeling — Algemeene bepalingen
 
 ##### Artikel 1777
 
@@ -1143,7 +1143,7 @@ De uitleener blijft eigenaar van de geleende zaak.
 
 2\. Maar indien men de uitleening gedaan heeft alleen uit aanmerking van dengenen die ter leen ontvangt, en aan deszelfs persoon in het bijzonder, kunnen deszelfs erfgenamen het verder genot van de geleende zaak niet blijven behouden.
 
-#### afdeeling Tweede — Van de verpligtingen van dengenen die iets ter bruikleening ontvangt
+#### Tweede afdeeling — Van de verpligtingen van dengenen die iets ter bruikleening ontvangt
 
 ##### Artikel 1781
 
@@ -1171,7 +1171,7 @@ Indien de gebruiker, om van de geleende zaak gebruik te kunnen maken, eenige onk
 
 Indien een zaak in bruikleen is gegeven aan twee of meer personen tezamen, zijn zij hoofdelijk verbonden tot teruggave daarvan en tot vergoeding van de schade die het gevolg is van een tekortschieten in de nakoming van die verplichting, tenzij de tekortkoming aan geen van hen kan worden toegerekend.
 
-#### afdeeling Derde — Van de verpligtingen van den uitleener
+#### Derde afdeeling — Van de verpligtingen van den uitleener
 
 ##### Artikel 1787
 
@@ -1189,9 +1189,9 @@ Indien de gebruiker, gedurende de bruikleening tot behoud der zaak eenige buiten
 
 Indien de ter leen gegevene zaak zoodanige gebreken heeft, dat daardoor aan dengenen die zich van dezelve bedient nadeel zoude kunnen worden toegebragt, is de uitleener, zoo hij die gebreken gekend, en daarvan aan den gebruiker geene kennis gegeven heeft, voor de gevolgen verantwoordelijk.
 
-### titel Veertiende — Van verbruikleening
+### Veertiende titel — Van verbruikleening
 
-#### afdeeling Eerste — Algemeene bepalingen
+#### Eerste afdeeling — Algemeene bepalingen
 
 ##### Artikel 1791
 
@@ -1205,7 +1205,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Tweede — Van de verpligtingen des uitleeners
+#### Tweede afdeeling — Van de verpligtingen des uitleeners
 
 ##### Artikel 1796
 
@@ -1223,7 +1223,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Derde — Van de verpligtingen des leeners
+#### Derde afdeeling — Van de verpligtingen des leeners
 
 ##### Artikel 1800
 
@@ -1233,7 +1233,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Vierde — Van het ter leen geven op interessen
+#### Vierde afdeeling — Van het ter leen geven op interessen
 
 ##### Artikel 1804
 
@@ -1247,7 +1247,7 @@ Vervallen
 
 Vervallen
 
-### titel Vijftiende — Van gevestigde of altijddurende renten
+### Vijftiende titel — Van gevestigde of altijddurende renten
 
 #### Artikel 1807
 
@@ -1271,15 +1271,15 @@ De schuldenaar eener altijddurende rente kan tot de aflossing genoodzaakt worden
 
 In de twee eerste gevallen, bij het vorige artikel vermeld, kan de schuldenaar zich van de verpligting tot aflossing ontheffen, indien hij binnen de twintig dagen, te rekenen van de geregtelijke aanmaning, alle de verschenen termijnen betaalt of de beloofde zekerheid stelt.
 
-### titel Zestiende — Van kans-overeenkomsten
+### Zestiende titel — Van kans-overeenkomsten
 
-#### afdeeling Eerste — Algemeene bepalingen
+#### Eerste afdeeling — Algemeene bepalingen
 
 ##### Artikel 1811
 
 Vervallen
 
-#### afdeeling Tweede — Van de overeenkomst van lijfrenten en derzelver gevolgen
+#### Tweede afdeeling — Van de overeenkomst van lijfrenten en derzelver gevolgen
 
 ##### Artikel 1813
 
@@ -1305,7 +1305,7 @@ Vervallen
 
 Vervallen
 
-#### afdeeling Derde — Van spel en weddingschap
+#### Derde afdeeling — Van spel en weddingschap
 
 ##### Artikel 1825
 
@@ -1325,7 +1325,7 @@ Van de vorige twee artikelen kan op generlei wijze worden afgeweken.
 
 In geen geval, kan hij die het verlorene vrijwillig betaald heeft hetzelve terug eischen, ten ware, van den kant van dengenen die gewonnen heeft, bedrog, list of opligting hebbe plaats gehad.
 
-### titel Zeventiende — Van lastgeving
+### Zeventiende titel — Van lastgeving
 
 #### Artikel 1829
 
@@ -1439,7 +1439,7 @@ Vervallen
 
 Vervallen
 
-### titel Negentiende — Van dading
+### Negentiende titel — Van dading
 
 #### Artikel 1889
 

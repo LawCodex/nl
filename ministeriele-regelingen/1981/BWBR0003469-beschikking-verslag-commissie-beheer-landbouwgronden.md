@@ -41,12 +41,9 @@ Deze beschikking treedt in werking op 1 januari 1982 en wordt in de Nederlandse 
 
 's-Gravenhage 23 december 1981
 
-De\
-Minister\
-Landbouw en Visserij
+De Minister van Landbouw en Visserij,
 
 Voor deze,
 
-De\
-secretaris-generaal,\
+De secretaris-generaal,\
 G. J. van Dinter

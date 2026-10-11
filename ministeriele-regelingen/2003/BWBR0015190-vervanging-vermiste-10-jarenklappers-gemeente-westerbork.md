@@ -28,11 +28,9 @@ Besluit:
 
 Almelo 10 juni 2003
 
-De\
-Minister
+DeMinister voornoemd,
 
 namens deze,
 
-de\
-directeur van de Centrale Bewaarplaats\
+de directeur van de Centrale Bewaarplaats,\
 F.P.M.J. Boots

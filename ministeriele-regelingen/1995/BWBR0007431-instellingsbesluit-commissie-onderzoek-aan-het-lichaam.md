@@ -72,7 +72,5 @@ Dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift w
 
 ’s-Gravenhage 7 juni 1995
 
-De\
-Minister\
-Justitie\
-W.Sorgdrager
+De Minister van Justitie,\
+W. Sorgdrager

@@ -162,7 +162,5 @@ Deze regeling wordt aangehaald als: Regeling heroïnebehandeling.
 
 Deze regeling zal met de toelichting in Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-J.F.Hoogervorst
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J.F. Hoogervorst

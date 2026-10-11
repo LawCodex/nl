@@ -36,7 +36,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit zal in de Staatscourant worden geplaatst.
 
 De Directeur van de Directie informatiebeleid,\
-R. Roozendaal\
-Voor akkoord,\
-de Secretaris-Generaal,\
+R. Roozendaal Voor akkoord, de Secretaris-Generaal,\
 E. Gerritsen

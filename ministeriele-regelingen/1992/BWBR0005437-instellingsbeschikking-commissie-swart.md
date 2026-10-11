@@ -50,7 +50,5 @@ In de Commissie hebben zitting:
 
 's-Gravenhage 5 maart 1992
 
-De\
-Minister\
-Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

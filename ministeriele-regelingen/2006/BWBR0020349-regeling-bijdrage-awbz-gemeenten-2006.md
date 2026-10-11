@@ -39,7 +39,5 @@ Deze regeling wordt aangehaald als: Regeling bijdrage AWBZ-gemeenten 2006.
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Volksgezondheid, Welzijn en Sport\
-C.I.J.M.Ross-van Dorp
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport,\
+C.I.J.M. Ross-van Dorp

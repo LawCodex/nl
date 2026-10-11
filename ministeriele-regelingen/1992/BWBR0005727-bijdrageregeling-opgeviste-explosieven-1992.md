@@ -82,7 +82,5 @@ Deze regeling kan worden aangehaald als Bijdrageregeling opgeviste explosieven 1
 
 Deze regeling zal worden geplaatst in de Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen

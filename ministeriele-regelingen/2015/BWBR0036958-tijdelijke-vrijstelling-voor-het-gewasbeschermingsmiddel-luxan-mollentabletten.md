@@ -45,10 +45,8 @@ Dit besluit wordt aangehaald als: (Tijdelijke vrijstelling voor het gewasbescher
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma
 
 ## Bijlage — Wettelijk gebruiksvoorschrift en gebruiksaanwijzing Luxan Mollentabletten (8717N)
 

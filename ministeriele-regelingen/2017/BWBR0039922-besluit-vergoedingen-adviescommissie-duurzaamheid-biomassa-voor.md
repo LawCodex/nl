@@ -43,7 +43,5 @@ Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezo
 
 ’s-Gravenhage 20 juli 2017
 
-De Minister van Economische Zaken,\
-namens deze:\
-S. Gaastra,\
-directeur-generaal van Energie, Telecom en Mededinging
+De Minister van Economische Zaken, namens deze:\
+S. Gaastra, directeur-generaal van Energie, Telecom en Mededinging

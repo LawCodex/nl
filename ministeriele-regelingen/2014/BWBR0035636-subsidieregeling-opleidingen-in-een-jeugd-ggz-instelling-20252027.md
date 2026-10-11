@@ -134,10 +134,8 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2025–2027. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers
 
 ## Bijlage 1 — Subsidiebedrag per opleidingsplaats per fte als bedoeld in artikel 2, derde lid:
 

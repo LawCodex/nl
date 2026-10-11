@@ -40,12 +40,9 @@ Dit besluit treedt in werking met ingang van 1 februari 1994 en wordt opgenomen 
 
 Apeldoorn 22 december 1993
 
-De\
-Staatssecretaris\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
 
 Voor deze,
 
-De\
-hoofddirecteur van het Kadaster en de Openbare Registers\
-J. W. J.Besemer
+De hoofddirecteur van het Kadaster en de Openbare Registers,\
+J. W. J. Besemer

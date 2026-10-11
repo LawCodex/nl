@@ -226,12 +226,8 @@ Deze regeling wordt aangehaald als: Regeling intrekking OCW-regelingen op het ge
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker.
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschap,\
-S.Dekker.
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,\
+S. Dekker.

@@ -440,13 +440,13 @@ Gegeven te ’s-Gravenhage 6 december 2006
 
 Beatrix
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit\
-C. P.Veerman
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+C. P. Veerman
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 de *vierentwintigste* mei 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

@@ -45,9 +45,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. De bijl
 
 27 augustus 2018
 
-De Minister van Onderwijs, Cultuur en Wetenschap,\
-namens deze,\
-de directeur-generaal van de Dienst Uitvoering Onderwijs,\
+De Minister van Onderwijs, Cultuur en Wetenschap, namens deze, de directeur-generaal van de Dienst Uitvoering Onderwijs,\
 J.H. Schutte
 
 ## Bijlage

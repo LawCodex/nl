@@ -37,17 +37,12 @@ Deze regeling zal in de Staatscourant worden geplaatst. Afschrift van deze regel
 
 ’s-Gravenhage 23 augustus 1995
 
-De\
-Minister\
-Binnenlandse Zaken\
+De Minister van Binnenlandse Zaken,\
 H. F. Dijkstal
 
-De\
-Staatssecretaris\
-Financiën
+De Staatssecretaris van Financiën,
 
 Namens deze,
 
-De\
-Directeur Financieringen\
-J.Lintjer
+De Directeur Financieringen,\
+J. Lintjer

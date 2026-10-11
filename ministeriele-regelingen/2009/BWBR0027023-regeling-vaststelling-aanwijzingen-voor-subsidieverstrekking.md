@@ -44,11 +44,8 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Den Haag 15 december 2009
 
-De\
-Minister-President\
-Minister\
-Algemene Zaken\
-J.P.Balkenende
+De Minister-President, Minister van Algemene Zaken,\
+J.P. Balkenende
 
 ## Bijlage
 

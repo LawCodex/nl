@@ -25,13 +25,11 @@ Gelet op artikel 40, eerste lid, van verordening (EU) nr. 2016/1011 van het Euro
 
 Besluit:
 
-## artikel Enig
+## Enig artikel
 
 Als bevoegde autoriteit in de zin van verordening (EU) nr. 2016/1011 van het Europees Parlement en de Raad van 8 juni 2016 betreffende indices die worden gebruikt als benchmarks voor financiële instrumenten en financiële overeenkomsten of om de prestatie van beleggingsfondsen te meten en tot wijziging van Richtlijnen 2008/48/EG en 2014/17/EU en Verordening (EU) nr. 596/2014 (PbEU 2016, L 171) en in die hoedanigheid bevoegd om als lid deel te nemen aan colleges als bedoeld in artikel 46 van genoemde verordening, wordt aangewezen de Autoriteit Financiële Markten.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën,\
-J.R.V.A.Dijsselbloem
+De Minister van Financiën,\
+J.R.V.A. Dijsselbloem

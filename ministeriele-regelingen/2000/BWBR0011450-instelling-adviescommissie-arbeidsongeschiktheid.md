@@ -61,17 +61,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ’s-Gravenhage 28 juni 2000
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid\
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
 J.F. Hoogervorst
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
+De Minister van Sociale Zaken en Werkgelegenheid,\
 W.A. Vermeend
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-K.G. deVries
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.G. de Vries

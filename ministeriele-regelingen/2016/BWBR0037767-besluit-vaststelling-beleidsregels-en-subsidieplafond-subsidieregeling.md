@@ -51,12 +51,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal met de bijlage, uitgezonderd annex 3A en 3B, in de Staatscourant worden geplaatst. De annexen 3A en 3B bij de bijlage zullen op internet, http://www.rijksoverheid.nl/onderwerpen/subsidies-voor-ontwikkelingssamenwerking-en-europa/subsidies-maatschappelijke-organisaties, worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de Directeur-Generaal Internationale Samenwerking,\
-A.C.C.Rebergen
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens deze,de Directeur-Generaal Internationale Samenwerking,\
+A.C.C. Rebergen
 
 ## Bijlage
 

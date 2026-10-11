@@ -1029,10 +1029,8 @@ Deze regeling wordt aangehaald als: Vrijstellingsregeling Wft.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
 ## Bijlage A — Informatiedocument voor aanbiedingen van effecten
 

@@ -144,10 +144,8 @@ Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Rotterdam The 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld
 
 ## Bijlage 1 — bedoeld in de artikelen 2, 3 en 7 van de Omzettingsregeling Rotterdam The Hague Airport: ligging van de baan en plaats van de handhavingspunten, grenswaarden in de handhavingspunten
 

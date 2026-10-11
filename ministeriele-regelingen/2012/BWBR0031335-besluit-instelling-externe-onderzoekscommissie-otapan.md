@@ -68,7 +68,5 @@ Dit besluit wordt aangehaald als: Besluit instelling Externe Onderzoekscommissie
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-J.J.Atsma
+De Staatssecretaris van Infrastructuur en Milieu,\
+J.J. Atsma

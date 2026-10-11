@@ -45,7 +45,5 @@ Tot en met de evaluatiestudie van 2011 zal de zorgautoriteit jaarlijks informati
 
 Deze aanwijzing treedt terstond in werking en wordt met toelichting geplaatst in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

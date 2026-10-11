@@ -144,14 +144,12 @@ Deze regeling ligt ter inzage bij:
 
 's-Gravenhage 18 juni 1986
 
-De\
-minister
+De minister voornoemd,
 
 voor deze,
 
-De\
-secretaris-generaal\
-P. C. deMan
+De secretaris-generaal,\
+P. C. de Man
 
 ## Bijlage
 

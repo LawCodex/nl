@@ -107,7 +107,5 @@ Dit besluit wordt aangehaald als: Besluit mandaat en machtiging theorie-examens 
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-S.A.M.Dijksma
+De Staatssecretaris van Infrastructuur en Milieu,\
+S.A.M. Dijksma

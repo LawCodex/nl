@@ -115,7 +115,5 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 12 september 2002
 
-De\
-Minister\
-Defensie\
-A.H.Korthals
+De Minister van Defensie,\
+A.H. Korthals

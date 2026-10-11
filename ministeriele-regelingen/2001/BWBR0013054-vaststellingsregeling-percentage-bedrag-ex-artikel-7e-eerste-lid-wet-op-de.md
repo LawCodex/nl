@@ -43,11 +43,8 @@ Deze beschikking treedt in werking met ingang van 1 januari 2002 en zal worden g
 
 Den Haag 29 november 2001.
 
-De\
-Staatssecretaris\
-Justititie,
+De Staatssecretarisvan Justititie,
 
 namens deze,
 
-M.C.A. Blom, Blom,\
-directeur Sancties, Reclassering en Slachtofferzorg.
+M.C.A. Blom, Blom, directeur Sancties, Reclassering en Slachtofferzorg.

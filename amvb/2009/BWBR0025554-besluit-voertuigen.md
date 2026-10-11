@@ -326,13 +326,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Minister van Verkeer en Waterstaat\
-C. M. P. S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C. M. P. S. Eurlings
 
 de *zesentwintigste* maart 2009
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
 
 ## Bijlage — Tabel met datums vanaf wanneer de APK-plicht geldt voor landbouw- en bosbouwtrekkers met een datum van eerste toelating vóór 1 januari 2021 als bedoeld in artikel 25a, eerste lid
 

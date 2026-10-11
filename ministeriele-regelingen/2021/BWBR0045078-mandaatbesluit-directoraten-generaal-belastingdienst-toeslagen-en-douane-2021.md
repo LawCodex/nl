@@ -236,8 +236,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Directoraten-Generaal Belasting
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-B. van den Dungen\
-secretaris-generaal
+B. van den Dungen secretaris-generaal
 
 ## Bijlage 1
 

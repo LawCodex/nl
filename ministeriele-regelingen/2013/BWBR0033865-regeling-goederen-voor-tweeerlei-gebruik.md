@@ -117,10 +117,8 @@ Deze regeling wordt aangehaald als: Regeling goederen voor tweeërlei gebruik.
 
 Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-E.M.J.Ploumen
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,\
+E.M.J. Ploumen
 
 ## Bijlage I — behorende bij artikel 2 van de Regeling goederen voor tweeërlei gebruik
 

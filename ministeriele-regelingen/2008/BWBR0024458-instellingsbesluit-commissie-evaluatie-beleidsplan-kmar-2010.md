@@ -103,7 +103,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Evaluatie Beleids
 
 Den Haag 1 september 2008
 
-De\
-Minister\
-Defensie\
-E. vanMiddelkoop
+De Minister van Defensie,\
+E. van Middelkoop

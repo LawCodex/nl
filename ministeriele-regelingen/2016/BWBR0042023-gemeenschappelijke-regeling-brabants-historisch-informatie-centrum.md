@@ -367,141 +367,121 @@ Deze regeling kan worden aangehaald als: Gemeenschappelijke Regeling Brabants Hi
 De Minister van Onderwijs, Cultuur en Wetenschap,\
 ......................................................
 
-Het Algemene Bestuur van waterschap Aa en Maas,\
-De dijkgraaf,\
+Het Algemene Bestuur van waterschap Aa en Maas, De dijkgraaf,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Het Dagelijks Bestuur van waterschap Aa en Maas,\
-De dijkgraaf,\
+Het Dagelijks Bestuur van waterschap Aa en Maas, De dijkgraaf,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Het Algemeen Bestuur van waterschap De Dommel,\
-De watergraaf,\
+Het Algemeen Bestuur van waterschap De Dommel, De watergraaf,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Het Dagelijks Bestuur van waterschap De Dommel,\
-De watergraaf,\
+Het Dagelijks Bestuur van waterschap De Dommel, De watergraaf,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Bernheze,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Bernheze, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Boekel,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Boekel, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Boxmeer,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Boxmeer, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Cuijk,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Cuijk, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Grave,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Grave, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Haaren,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Haaren, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Landerd,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Landerd, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Mill en Sint Hubert,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Mill en Sint Hubert, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Oss,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Oss, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Schijndel,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Schijndel, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Sint Anthonis,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Sint Anthonis, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Sint-Michielsgestel,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Sint-Michielsgestel, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Sint Oedenrode,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Sint Oedenrode, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Uden,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Uden, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Veghel,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Veghel, De burgemeester,\
 ......................................................
 
 de secretaris,\
 ......................................................
 
-Burgemeester en wethouders van de gemeente Vught,\
-De burgemeester,\
+Burgemeester en wethouders van de gemeente Vught, De burgemeester,\
 ......................................................
 
 de secretaris,\

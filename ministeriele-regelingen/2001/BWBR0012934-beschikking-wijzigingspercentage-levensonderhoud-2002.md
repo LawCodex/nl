@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingspercentage lev
 
 Den Haag 30 oktober 2001
 
-De\
-Staatssecretaris\
-N.A.Kalsbeek
+De Staatssecretaris voornoemd,\
+N.A. Kalsbeek

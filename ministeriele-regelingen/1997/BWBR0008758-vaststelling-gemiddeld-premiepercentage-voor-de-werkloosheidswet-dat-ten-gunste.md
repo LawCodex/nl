@@ -45,6 +45,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 24 juni 1997
 
-De\
-Staatssecretaris\
-F.H.G. deGrave
+De Staatssecretaris voornoemd,\
+F.H.G. de Grave

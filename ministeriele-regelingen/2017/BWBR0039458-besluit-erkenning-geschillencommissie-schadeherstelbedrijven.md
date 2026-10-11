@@ -43,9 +43,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ’s-Gravenhage 4 april 2017
 
-De\
-Minister\
-Veiligheid en Justitie,\
-namens deze,\
-J.Schipper-Spanninga\
-Directeur Rechtsbestel
+De Minister van Veiligheid en Justitie,namens deze,\
+J. Schipper-SpanningaDirecteur Rechtsbestel

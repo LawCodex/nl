@@ -848,9 +848,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Den Haag 26 juni 2009
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid\
-namens deze:\
-plaatsvervangend Secretaris-Generaal\
-P.Hennephof
+De Minister van Sociale Zaken en Werkgelegenheid, namens deze: de plaatsvervangend Secretaris-Generaal,\
+P. Hennephof

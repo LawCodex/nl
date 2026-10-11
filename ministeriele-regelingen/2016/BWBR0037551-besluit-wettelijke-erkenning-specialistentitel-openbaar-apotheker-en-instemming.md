@@ -34,7 +34,5 @@ Besluit:
 
 Van deze instemming wordt conform artikel 14, twaalfde lid, van de Wet BIG mededeling gedaan in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

@@ -98,7 +98,5 @@ Deze regeling wordt aangehaald als: Regeling behandeling bezwaarschriften OCW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de website www.bezwaarschriftenocw.nl.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-R.H.A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.H.A. Plasterk

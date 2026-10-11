@@ -39,6 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging percentage lev
 
 's-Gravenhage 3 november 1998
 
-De\
-Staatssecretaris\
-M.J.Cohen
+De Staatssecretaris voornoemd,\
+M.J. Cohen

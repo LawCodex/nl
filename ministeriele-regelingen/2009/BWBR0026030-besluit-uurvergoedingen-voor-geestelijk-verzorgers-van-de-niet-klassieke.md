@@ -39,9 +39,5 @@ Besluit:
 
 Den Haag 12 juni 2009
 
-De\
-Minister\
-Justitie\
-namens deze:\
-de wnd. Hoofddirecteur Dienst Justitiële Inrichtingen\
-P.J.M. van derSande
+De Minister van Justitie, namens deze:de wnd. Hoofddirecteur Dienst Justitiële Inrichtingen,\
+P.J.M. van der Sande

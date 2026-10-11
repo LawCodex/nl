@@ -59,13 +59,13 @@ Wijzigt de Wet van 6 november 1997 tot wijziging van de Financiële-verhoudingsw
 
 ## Hoofdstuk 2 — Ministerie van Defensie
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Uitkeringswet financiële compensatie langdurige militaire dienst, de Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen en de Wet gewetensbezwaren militaire dienst.
 
 ## Hoofdstuk 3 — Ministerie van Economische Zaken
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Elektriciteitswet 1998, de Gaswet, de Mededingingswet, de Pandhuiswet 1910, de Wet betreffende afstand van een gedeelte van voor ontginning van Staatswege gereserveerde terreinen, de Wet exploitatie van Staatswege van steenkolenmijnen in Limburg, de Wet financiering van pensioenvoorzieningen van de steenkolenmijnindustrie, de Wet Fonds economische structuurversterking, de Wet inzake het Agentschap der Westeuropese Unie, de Wet tot ontginning van steenzout bij Buurse en de Wet tot uitbreiding van het Staatsmijnveld.
 
@@ -95,19 +95,19 @@ Wijzigt het Burgerlijk Wetboek, Boek 6.
 
 ## Hoofdstuk 6 — Ministerie van Landbouw, Natuurbeheer en Visserij
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Gezondheids- en welzijnswet voor dieren, de Herverkavelingswet Walcheren, de Jachtwet, de Landbouwkwaliteitswet, de Nertsen-Ziektenwet, de Runderhorzelwet, de Uitvoeringswet Visserijverdrag 1967, de Veewet, de Vogelziektenwet, de Wet omtrent dragen der kosten openbare verpachtingen, de Wet op de uitoefening van de diergeneeskunde 1990, de Wet tot wering van besmettelijke dierziekten bij knaagdieren en de Zaaizaad- en plantgoedwet.
 
 ## Hoofdstuk 7 — Ministerie van Onderwijs, Cultuur en Wetenschappen
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Mediawet, de Wet van 4 maart 1999, Stb. 146, houdende wijziging van de Mediawet, de Wet van 22 december 1999, Stb. 573, houdende wijziging van de Mediawet, de Wet op de expertisecentra, de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de Wet op het primair onderwijs, de Wet op het specifiek cultuurbeleid en de Wet op het voortgezet onderwijs.
 
 ## Hoofdstuk 8 — Ministerie van Sociale Zaken en Werkgelegenheid
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Algemene bijstandswet, de Algemene Kinderbijslagwet, de Algemene nabestaandenwet, de Algemene Ouderdomswet, de Arbeidsomstandighedenwet 1998, de Coördinatiewet sociale verzekering, de Mijnwerkersinvaliditeitswet, de Pensioen- en spaarfondsenwet, de Toeslagenwet, de Werkloosheidswet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet betreffende verplichte deelneming in een beroepspensioenregeling, de Wet brutering overhevelingstoeslag lonen, de Wet financiering Abw, IOAW en IOAZ, de Wet financiering volksverzekeringen, de Wet inkomensvoorziening kunstenaars, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet minimumloon en minimumvakantiebijslag, de Wet op de (re)integratie arbeidsgehandicapten, de Wet op de arbeidsongeschiktheidsverzekering, de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, de Wet voorzieningen gehandicapten, de Wijzigingswet Algemene Kinderbijslagwet, enz. en de Ziektewet.
 
@@ -123,7 +123,7 @@ Wijzigt de Wet verontreiniging oppervlaktewateren.
 
 ## Hoofdstuk 10 — Ministerie van Volksgezondheid, Welzijn en Sport
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Infectieziektenwet, de Rompwet Instellingen van weldadigheid, de Toeslagwet buitengewone pensioenen 1966, de Warenwet, de Wet afbreking zwangerschap, de Wet buitengewoon pensioen 1940–1945, de Wet buitengewoon pensioen Indisch verzet, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet geneesmiddelenprijzen, de Wet op de beroepen in de individuele gezondheidszorg, de Wet op de jeugdhulpverlening, de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945, de Wet uitkeringen vervolgingsslachtoffers 1940–1945 en de Ziekenfondswet.
 

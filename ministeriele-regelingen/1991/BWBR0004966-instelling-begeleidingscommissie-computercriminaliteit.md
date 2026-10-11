@@ -69,21 +69,16 @@ Deze beschikking, die zal worden gepubliceerd in de Nederlandse Staatscourant en
 
 's-Gravenhage, 3 januari 1991.
 
-De\
-Minister
+De Minister voornoemd.
 
-Namens de\
-Minister
+Namens de Minister,
 
-Het\
-hoofd van de Directie Politie\
-J. J. H.Suyer
+Het hoofd van de Directie Politie,\
+J. J. H. Suyer
 
-De\
-Minister
+De Minister voornoemd,
 
 voor deze,
 
-De\
-Directeur Politie\
-H. C. J. L.Borghouts
+De Directeur Politie,\
+H. C. J. L. Borghouts

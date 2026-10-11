@@ -45,7 +45,7 @@ dat publicatie van dit reglement in de plaats komt van een dergelijke plaatselij
 
 Besluit:
 
-## Artikel 1
+## Artikel 1 Begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -56,11 +56,11 @@ In dit besluit wordt verstaan onder:
 - e. *persoonsgegevens:* de door middel van verkeersregistratiesystemen verwerkte gegevens op grond waarvan natuurlijke personen geïdentificeerd kunnen worden;
 - f. *IVS90:* het Informatie- en Volgsysteem voor de Scheepvaart zoals beschreven in de bijlage bij dit besluit, met inbegrip van alle aan IVS90 gekoppelde systemen waaronder SITOS, BRIDGE en BICS en de opvolgers van bedoelde systemen.
 
-## Artikel 2
+## Artikel 2 Reikwijdte
 
 Dit besluit regelt de taken en bevoegdheden van de verantwoordelijke met betrekking tot de verwerking van persoonsgegevens, verkregen door het gebruik van verkeersregistratiesystemen die op, in of bij waterstaatswerken zijn geplaatst.
 
-## Artikel 3
+## Artikel 3 Doel
 
 Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistratiesystemen, is het beheer van waterstaatswerken, in het bijzonder:
 
@@ -68,7 +68,7 @@ Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistrat
 - b. de zorg voor de veiligheid van gebruikers van waterstaatswerken, waaronder het snel en doelmatig kunnen handelen bij ongevallen en calamiteiten, en
 - c. het verrichten van noodzakelijke studies en onderzoeken en het verwerken van persoonsgegevens voor statistische en beleidsdoeleinden.
 
-## Artikel 4
+## Artikel 4 Beheer en beveiliging
 
 1\. De beheerder is verantwoordelijk voor het beheer van de persoonsgegevens en treft daartoe passende technische en organisatorische maatregelen, nodig om de persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking.
 
@@ -76,7 +76,7 @@ Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistrat
 
 3\. Slechts de door de beheerder aangewezen ambtenaren hebben rechtstreeks toegang tot de persoonsgegevens.
 
-## Artikel 5
+## Artikel 5 Inzage en correctie betrokkenen
 
 1\. Uitsluitend natuurlijke of rechtspersonen van wie persoonsgegevens zijn verzameld kunnen de beheerder verzoeken inzage te verkrijgen in de omtrent hen opgeslagen gegevens dan wel verzoeken deze gegevens te corrigeren.
 
@@ -91,7 +91,7 @@ Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistrat
 - c. het tijdstip, en
 - d. welke gegevens het betrof.
 
-## Artikel 6
+## Artikel 6 Inzage en verstrekking derden
 
 1\. De beheerder weigert derden inzage en verstrekking van de persoonsgegevens, tenzij het betreft:
 
@@ -122,28 +122,26 @@ Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistrat
 - d. welke gegevens het betrof, en
 - e. naam en adres van de verzoeker.
 
-## Artikel 7
+## Artikel 7 Bewaartermijnen
 
 1\. Persoonsgegevens worden niet langer dan dertig dagen na vastlegging bewaard. Voor het IVS90 geldt de regeling zoals beschreven in de bijlage.
 
 2\. Voor zover dit voortvloeit uit de in artikel 3 omschreven doelen en er sprake is van bijzondere omstandigheden of incidenten kunnen de persoonsgegevens langer dan de termijn bedoeld in het eerste lid worden bewaard. Deze bewaring mag echter niet langer duren dan noodzakelijk is.
 
-## Artikel 8
+## Artikel 8 Verbod koppeling
 
 De persoonsgegevens worden niet gekoppeld aan andere persoonsgegevens behoudens:
 
 - a. indien het betreft persoonsgegevens die gelijktijdig zijn verkregen in het kader van de verkeersregistratie, of
 - b. het bepaalde in de bijlage omtrent het IVS90.
 
-## Artikel 9
+## Artikel 9 Inwerkingtreding; citeertitel
 
 1\. Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 2\. Dit besluit wordt aangehaald als Privacyreglement verkeersregistratiesystemen Rijkswaterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 K.M.H. Peijs
 
 ## Bijlage — Informatie- en Volgsysteem voor de Scheepvaart (IVS90)

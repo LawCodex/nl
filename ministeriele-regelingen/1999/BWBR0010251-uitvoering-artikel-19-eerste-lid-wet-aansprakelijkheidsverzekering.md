@@ -38,10 +38,8 @@ De beschikking van de Minister van Financiën van 29 juni 1984/nr. 384-7188 (Stc
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
 ## Bijlage I — als bedoeld in artikel 1, onder a, van de Regeling van de Minister van Financiën van 1 februari 1999 (Stcrt. 1999, 26)
 

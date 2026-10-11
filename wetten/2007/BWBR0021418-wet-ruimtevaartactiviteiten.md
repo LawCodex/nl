@@ -276,10 +276,10 @@ Gegeven te 's-Gravenhage 24 januari 2007
 
 Beatrix
 
-De Minister van Economische Zaken\
-J. G.Wijn
+De Minister van Economische Zaken,\
+J. G. Wijn
 
 de *zesde* maart 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

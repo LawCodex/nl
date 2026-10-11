@@ -25,13 +25,11 @@ Gelet op artikel 8, eerste lid, van het Kaderbesluit subsidies I en M en artikel
 
 BESLUIT:
 
-## artikel Enig
+## Enig artikel
 
 Het subsidieplafond, bedoeld in artikel 4, tweede lid, van de Subsidieregeling VeiligheidNL wordt voor de periode vanaf 1 juli 2021 tot en met 31 december 2021 vastgesteld op € 89.658,– voor het doen van onderzoek en € 110.087,– voor het geven van voorlichting.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Infrastructuur en Waterstaat,\
-Namens deze,\
-De Directeur-Generaal Milieu en Internationaal,\
+De Staatssecretaris van Infrastructuur en Waterstaat, Namens deze, De Directeur-Generaal Milieu en Internationaal,\
 R.P. Lappere

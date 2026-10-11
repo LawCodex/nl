@@ -25,7 +25,7 @@ Gelet op artikel 41, vierde lid, van de Penitentiaire beginselenwet, artikel 27 
 
 Besluit:
 
-## Artikel 1
+## Artikel 1 Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,11 +38,11 @@ In deze regeling wordt verstaan onder:
 - *portefeuillehouder overige stromingen:* ambtenaar van de Dienst Geestelijke Verzorging verantwoordelijk voor de organisatie van de geestelijk verzorgers overige stromingen;
 - *Bureau Integriteit en Veiligheid:* Bureau Integriteit en Veiligheid van de Dienst Justitiële Inrichtingen.
 
-## Artikel 2
+## Artikel 2 Reikwijdte
 
 Deze regeling is niet van toepassing op de zeer beperkt beveiligde penitentiaire inrichtingen.
 
-## Artikel 3
+## Artikel 3 Kwalificaties en functie-eisen geestelijke verzorgers
 
 1\. Een geestelijk verzorger kan slechts anders dan bij wijze van ambtelijke aanstelling aan de inrichting worden verbonden indien er een antecedentenonderzoek heeft plaatsgevonden op grond waarvan is vastgesteld dat hiertegen geen bezwaar is. Het antecedentenonderzoek wordt gedaan door het Bureau Integriteit en Veiligheid op verzoek van de portefeuillehouder overige stromingen.
 
@@ -68,25 +68,25 @@ Het hoofd van de Dienst Geestelijke Verzorging werft geestelijke verzorgers na o
 
 Vervallen
 
-## Artikel 6
+## Artikel 6 Uurvergoeding en reiskostenvergoeding
 
 1\. De uurvergoeding van de geestelijk verzorger bedraagt een door het hoofd van de Dienst Justitiële Inrichtingen bij besluit vast te stellen bedrag dat verschilt afhankelijk van de opleiding van de geestelijk verzorger.
 
 2\. Door de geestelijk verzorgers worden de uurvergoedingen en reiskostenvergoedingen met gebruikmaking van het in de bijlage opgenomen declaratieformulier gedeclareerd bij het Shared Service Center van de Dienst Justitiële Inrichtingen.
 
-## Artikel 7
+## Artikel 7 Uitzonderingsbepaling
 
 Deze regeling is niet van toepassing op geestelijk verzorgers met een ambtelijke aanstelling en geestelijk verzorgers die op grond van een mantelovereenkomst met de Dienst Justitiële Inrichtingen werkzaamheden verrichten.
 
-## Artikel 8
+## Artikel 8 Registratie geestelijke verzorging
 
 De directeur draagt zorg dat het aantal gevallen waarin een geestelijk verzorger is ingeschakeld alsmede de duur ervan wordt geregistreerd en draagt zorg voor een prestatieverklaring.
 
-## Artikel 9
+## Artikel 9 Intrekking
 
 De circulaire van 14 januari 1997, nr. 591239/96/DJI komt te vervallen.
 
-## Artikel 10
+## Artikel 10 Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2002 en werkt terug tot 1 januari 2002.
 
@@ -96,7 +96,5 @@ Deze regeling wordt aangehaald als: Regeling functie-eisen en vergoeding geestel
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals

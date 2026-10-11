@@ -439,10 +439,8 @@ Vervallen
 
 2\. Deze regeling kan worden aangehaald als Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
 
-De\
-Staatssecretaris\
-Financiën\
-M.J.J. vanAmelsvoort
+De Staatssecretaris van Financiën,\
+M.J.J. van Amelsvoort
 
 ## Bijlage
 

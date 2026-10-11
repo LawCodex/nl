@@ -52,9 +52,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit zal in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Directie Culturele Samenwerking en Voorlichting Buitenland, (1974) 1985–1996 (2001)’.
 
-De\
-Minister\
-Buitenlandse Zaken,\
-namens deze:\
-De directeur van de Directie Bedrijfsvoering\
-M.A.H.Salimans
+De Minister van Buitenlandse Zaken,namens deze:De directeur van de Directie Bedrijfsvoering\
+M.A.H. Salimans

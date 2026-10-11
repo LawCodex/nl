@@ -102,10 +102,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven consulaat Bloemfontein 1940–1947 (1952), consulaat Durban 1916–1950, consulaat-generaal Johannesburg 1938–1954, en het gezantschap/ambassade Pretoria (1910) 1930–1954 (1955) – consulaat Pretoria 1941–1946’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-B.R.Bot
+De Minister van Buitenlandse Zaken,\
+B.R. Bot
 
 ## Bijlage
 

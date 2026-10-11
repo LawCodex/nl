@@ -77,7 +77,5 @@ Dit besluit wordt aangehaald als Instellingsbesluit VWS-matchingscommissie.
 
 Dit besluit zal in de Staatscourant worden geplaatst en worden gepubliceerd op het VWS-intranet.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

@@ -53,9 +53,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Den Haag 5-11-2022
 
-De Staatssecretaris van Cultuur en Media,\
-Namens deze,\
-De algemene rijksarchivaris,\
+De Staatssecretaris van Cultuur en Media, Namens deze, De algemene rijksarchivaris,\
 A.J.M. Doek
 
 ## Bijlage — bij het Besluit tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in de collectie archieven strijdkrachten in Nederlands-Indië (2.13.132) en archieven van het Nederlandse Ambassade in België en Luxemburg (2.05.43)

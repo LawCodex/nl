@@ -45,12 +45,8 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit wordt met de bijlage in de Staatscourant geplaatst.
 
-De\
-Minister\
-Buitenlandse Handel en Ontwikkelingssamenwerking,\
-namens deze,\
-de Directeur-Generaal Buitenlandse Economische Betrekkingen\
-M.C. van denBerg
+De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,namens deze,de Directeur-Generaal Buitenlandse Economische Betrekkingen\
+M.C. van den Berg
 
 ## Bijlage
 

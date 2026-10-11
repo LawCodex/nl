@@ -41,7 +41,5 @@ Dit besluit treedt in werking met ingang van de derde dag na de datum van uitgif
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit Inspectie van het onderwijs.
 
-De\
-minister\
-onderwijs, cultuur en wetenschappen\
-M.J.A. van derHoeven
+De ministervan onderwijs, cultuur en wetenschappen,\
+M.J.A. van der Hoeven

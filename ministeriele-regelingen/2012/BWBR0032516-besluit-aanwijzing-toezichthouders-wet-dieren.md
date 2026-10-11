@@ -91,7 +91,5 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 12 december 2012
 
-De\
-Minister\
-Economische Zaken,\
-H.G.J.Kamp.
+De Minister van Economische Zaken,\
+H.G.J. Kamp.

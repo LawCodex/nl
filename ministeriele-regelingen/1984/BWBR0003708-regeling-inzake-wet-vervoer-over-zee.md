@@ -52,6 +52,5 @@ Deze regeling met de daarbij behorende toelichting wordt geplaatst in de Nederla
 
 's-Gravenhage 31 augustus 1984
 
-De\
-minister\
-N.Smit-Kroes
+De minister voornoemd,\
+N. Smit-Kroes

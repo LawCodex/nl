@@ -163,7 +163,5 @@ Dit reglement treedt in werking met ingang van 15 december 2000.
 
 Dit reglement wordt aangehaald als: Privacyreglement Project Integriteit Bedrijfsleven Rotterdam Rijnmond.
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals

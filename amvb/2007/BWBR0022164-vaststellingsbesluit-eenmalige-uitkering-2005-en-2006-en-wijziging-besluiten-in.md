@@ -171,10 +171,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Beatrix
 
-De Staatssecretaris van Defensie\
-C. van derKnaap
+De Staatssecretaris van Defensie,\
+C. van der Knaap
 
 de *derde* juli 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

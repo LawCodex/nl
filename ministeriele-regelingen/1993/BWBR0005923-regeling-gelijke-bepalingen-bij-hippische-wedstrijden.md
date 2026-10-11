@@ -59,15 +59,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 18 maart 1993
 
-De\
-Staatssecretaris\
-Landbouw, Natuurbeheer en Visserij
+De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,
 
 voor deze:
 
-De\
-secretaris-generaal\
-T. H. J.Joustra
+De secretaris-generaal,\
+T. H. J. Joustra
 
 ## Bijlage
 

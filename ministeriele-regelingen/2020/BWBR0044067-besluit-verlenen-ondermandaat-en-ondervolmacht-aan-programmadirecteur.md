@@ -35,8 +35,5 @@ Dit besluit treedt in werking met ingang van de dag van de datum van uitgifte va
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-Namens de Staat der Nederlanden,\
-de Minister van Volksgezondheid, Welzijn en Sport,\
-namens deze,\
-de Secretaris-Generaal,\
+Namens de Staat der Nederlanden, de Minister van Volksgezondheid, Welzijn en Sport, namens deze, de Secretaris-Generaal,\
 E. Gerritsen

@@ -35,7 +35,5 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 's-Gravenhage 10 februari 2017
 
-De\
-Minister\
-Economische Zaken\
-H.G.J.Kamp
+De Minister van Economische Zaken\
+H.G.J. Kamp

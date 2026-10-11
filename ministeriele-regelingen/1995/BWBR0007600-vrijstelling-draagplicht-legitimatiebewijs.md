@@ -37,9 +37,5 @@ Dit besluit wordt in de Staatscourant geplaatst.
 
 Den Haag 6 oktober 1995
 
-De\
-Minister\
-Justitie\
-J. van Ees\
-hoofd\
-Directie Politie
+De Minister van Justitie, Namens de Minister,\
+J. van Ees,het hoofd van de Directie Politie

@@ -303,9 +303,7 @@ Vervallen.
 
 2\. Zij wordt in de Nederlandse Staatscourant bekend gemaakt en treedt in werking met ingang van 1 januari 1983.
 
-De\
-Staatseacretaris\
-Landbouw en Visserij,\
+De Staatseacretaris van Landbouw en Visserij,\
 A. Ploeg
 
 ## Bijlage — als bedoeld in artikel 1, eerste lid, van de Beschikking grondbankstelsel Standaardbedrijfseenheden (S.B.E.)

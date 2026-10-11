@@ -90,7 +90,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 21 oktober 2007
 
-De\
-Minister\
-Wonen, Wijken en Integratie\
-C.P.Vogelaar
+De Minister voor Wonen, Wijken en Integratie,\
+C.P. Vogelaar

@@ -35,10 +35,8 @@ De regeling van de Minister van Financiën van 21 februari 1990/nr. BGW90-432 (S
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de *Staatscourant* waarin zij wordt geplaatst.
 
-De\
-Minister\
-Financiën\
-G.Zalm
+De Minister van Financiën,\
+G. Zalm
 
 ## Bijlage I — Formulier WAM-A
 

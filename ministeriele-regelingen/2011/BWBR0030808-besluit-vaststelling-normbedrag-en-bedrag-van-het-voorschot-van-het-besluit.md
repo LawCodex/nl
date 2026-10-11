@@ -30,9 +30,5 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 Den Haag 7 december 2011
 
-De\
-Staatssecretaris\
-Veiligheid en Justitie,\
-namens deze:\
-de directeur Rechtsbestel,\
-J.J.Stam
+De Staatssecretaris van Veiligheid en Justitie,namens deze:de directeur Rechtsbestel,\
+J.J. Stam

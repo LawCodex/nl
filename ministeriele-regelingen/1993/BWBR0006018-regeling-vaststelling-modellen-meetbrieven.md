@@ -43,7 +43,5 @@ Deze regeling treedt in werking met ingang van 1 juli 1993.
 
 Deze regeling zal met de toelichting worden geplaatst in de Staatscourant. De bij deze regeling behorende bijlagen liggen voor een ieder ter inzage bij de Scheepsmetingsdienst te Rotterdam en bij de bibliotheek van het Directoraat-Generaal Scheepvaart en Maritieme Zaken te Rijswijk.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-J. R. H.Maij-Weggen
+De Minister van Verkeer en Waterstaat,\
+J. R. H. Maij-Weggen

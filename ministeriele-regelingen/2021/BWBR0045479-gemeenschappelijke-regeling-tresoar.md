@@ -407,15 +407,13 @@ Deze regeling wordt aangehaald als: Gemeenschappelijke regeling Tresoar.
 De Minister voor Basis- en Voortgezet Onderwijs en Media,\
 A. Slob
 
-Gedeputeerde staten van Fryslân,\
-De voorzitter\
+Gedeputeerde staten van Fryslân, De voorzitter\
 A.A.M. Brok
 
 De secretaris\
 R.E. Bouius-Riemersma
 
-Bestuur van de Stichting Frysk Letterkundich Museum en Dokumintaasjesintrum;\
-De voorzitter\
+Bestuur van de Stichting Frysk Letterkundich Museum en Dokumintaasjesintrum; De voorzitter\
 W. Verf
 
 De secretaris\
@@ -751,22 +749,14 @@ P. de Groot
 De Minister foar Basis- en Fuortset Underwiis en Media,\
 A. Slob
 
-Deputearre steaten fan Fryslân,\
-De foarsitter\
-A.A.M. Brok\
-de sekretaris\
+Deputearre steaten fan Fryslân, De foarsitter\
+A.A.M. Brok de sekretaris\
 R.E. Bouius-Riemersma
 
-Bestjoer fan de Stichting Frysk Letterkundich Museum en Dokumintaasjesintrum;\
-De foarsitter\
-W. Verf\
-de sekretaris\
+Bestjoer fan de Stichting Frysk Letterkundich Museum en Dokumintaasjesintrum; De foarsitter\
+W. Verf de sekretaris\
 P. de Groot
 
-Deputearre steaten fan de provinsje Fryslân,\
-De foarsitter\
-De sekretaris
+Deputearre steaten fan de provinsje Fryslân, De foarsitter De sekretaris
 
-De Stichting Frysk Letterkundich Museum en Dokumintaasjesintrum,\
-De foarsitter\
-De sekretaris
+De Stichting Frysk Letterkundich Museum en Dokumintaasjesintrum, De foarsitter De sekretaris

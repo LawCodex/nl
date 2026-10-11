@@ -688,10 +688,8 @@ Deze regeling treedt in werking met ingang van 1 maart 2014. Deze regeling zal m
 
 ’s-Gravenhage 20 februari 2014
 
-De\
-Staatssecretaris\
-Economische Zaken,\
-S.A.M.Dijksma
+De Staatssecretaris van Economische Zaken,\
+S.A.M. Dijksma
 
 ## Bijlage A — Slachthuizen, wildbewerkingsinrichtingen en uitsnijderijen
 

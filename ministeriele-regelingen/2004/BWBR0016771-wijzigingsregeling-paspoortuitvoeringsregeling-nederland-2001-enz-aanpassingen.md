@@ -64,7 +64,5 @@ Deze regeling treedt in werking met ingang 15 juni en werkt terug tot en met:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Bestuurlijke Vernieuwing en Koninkrijksrelaties\
-Th.C. deGraaf
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties\
+Th.C. de Graaf

@@ -99,5 +99,5 @@ G. Zalm
 
 de *drieëntwintigste* november 2006
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

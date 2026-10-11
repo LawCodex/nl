@@ -552,10 +552,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ‘s-Gravenhage 17 juni 2015
 
-De\
-Minister\
-Wonen en Rijksdienst,\
-S.A.Blok
+De Minister voor Wonen en Rijksdienst,\
+S.A. Blok
 
 ## Bijlage 1 — bij de artikelen 11, zesde lid, en 22, tiende lid, van de Regeling toegelaten instellingen volkshuisvesting 2015
 

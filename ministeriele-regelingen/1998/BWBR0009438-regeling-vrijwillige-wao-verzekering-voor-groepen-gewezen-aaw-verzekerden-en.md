@@ -133,6 +133,5 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ’s-Gravenhage 2 maart 1998
 
-De\
-Staatssecretaris\
-F.H.G. deGrave
+De Staatssecretaris voornoemd,\
+F.H.G. de Grave

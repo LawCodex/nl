@@ -54,6 +54,5 @@ Deze beschikking werkt terug tot 1 juli 1967.
 
 's-Gravenhage 20 maart 1968
 
-De\
-Minister\
-B.Roolvink
+De Minister voornoemd,\
+B. Roolvink

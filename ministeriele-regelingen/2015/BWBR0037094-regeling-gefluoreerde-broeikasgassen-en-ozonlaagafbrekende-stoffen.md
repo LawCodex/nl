@@ -207,10 +207,8 @@ Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen en ozon
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Infrastructuur en Milieu,\
-W.J.Mansveld
+De Staatssecretaris van Infrastructuur en Milieu,\
+W.J. Mansveld
 
 ## Bijlage 1 — behorende bij artikel 9, eerste lid, onder a Jaarverslag van de instelling die natuurlijke personen certificeert
 

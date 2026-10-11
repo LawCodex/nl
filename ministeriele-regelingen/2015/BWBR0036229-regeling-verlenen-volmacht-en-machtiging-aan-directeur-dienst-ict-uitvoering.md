@@ -69,9 +69,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Den Haag 28 januari 2015
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-J.A. van denBos,\
-Inspecteur-generaal Sociale Zaken en Werkgelegenheid
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+J.A. van den Bos,Inspecteur-generaal Sociale Zaken en Werkgelegenheid

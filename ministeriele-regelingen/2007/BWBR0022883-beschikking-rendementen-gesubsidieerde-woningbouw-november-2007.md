@@ -41,11 +41,5 @@ Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoning
 
 Den Haag 14 november 2007
 
-De\
-Minister\
-Wonen, Wijken en Integratie\
-voor deze:\
-algemeen directeur van SenterNovem\
-op last:\
-G. den Oude\
-opdrachtmanager
+De Minister voor Wonen, Wijken en Integratie, voor deze: De algemeen directeur van SenterNovem, op last:\
+G. den Oudeopdrachtmanager

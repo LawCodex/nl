@@ -47,12 +47,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 29 augustus 2005
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid
+De Minister van Sociale Zaken en Werkgelegenheid,
 
 namens deze:
 
-de\
-secretaris-generaal\
-M.A.Ruys
+de secretaris-generaal,\
+M.A. Ruys

@@ -35,7 +35,5 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,\
-Namens deze,\
-M.R. Schurink\
-Secretaris-generaal
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, Namens deze,\
+M.R. Schurink Secretaris-generaal

@@ -39,7 +39,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging-percentage lev
 
 's-Gravenhage 10 november 1976
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 Van Agt.

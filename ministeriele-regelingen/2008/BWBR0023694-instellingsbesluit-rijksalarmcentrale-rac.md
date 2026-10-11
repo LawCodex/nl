@@ -95,16 +95,8 @@ Dit besluit wordt aangehaald als Instellingsbesluit Rijksalarmcentrale (RAC).
 
 Den Haag 22 januari 2008
 
-De\
-Minister\
-Justitie\
-namens deze:\
-Nationaal Coördinator Terrorismebestrijding\
-T.H.J.Joustra
+De Minister van Justitie, namens deze:de Nationaal Coördinator Terrorismebestrijding,\
+T.H.J. Joustra
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-namens deze:\
-Directeur-generaal Veiligheid\
-H.W.M.Schoof
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze:de Directeur-generaal Veiligheid,\
+H.W.M. Schoof

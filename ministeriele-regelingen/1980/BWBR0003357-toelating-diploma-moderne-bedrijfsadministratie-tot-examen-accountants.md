@@ -37,7 +37,5 @@ Tot het afleggen van het examen wordt toegelaten dege, die in het bezit is van h
 
 's-Gravenhage 21-11-1980
 
-De\
-Staatssecretaris\
-Economische Zaken\
-Th. M.Hazekamp
+De Staatssecretaris van Economische Zaken,\
+Th. M. Hazekamp

@@ -88,7 +88,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Comité van Toezicht Platte
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Landbouw, Natuurbeheer en Visserij\
-L.J.Brinkhorst
+De Minister van Landbouw, Natuurbeheer en Visserij,\
+L.J. Brinkhorst

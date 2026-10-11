@@ -53,7 +53,6 @@ De aangewezen overheidsinstanties dienen de inrichtingen te voorzien van een ken
 
 's-Gravenhage 22 augustus 1985
 
-De\
-staatssecretaris
+De staatssecretaris voornoemd,
 
 J. F. Scherpenhuizen

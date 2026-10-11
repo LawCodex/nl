@@ -216,15 +216,11 @@ Deze regeling treedt in werking met ingang van 1 november 2009.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 4 die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-J.M.Cramer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+J.M. Cramer
 
 ## Bijlage 1 — behorende bij artikel 4, eerste lid, van de Regeling burgerluchthavens
 

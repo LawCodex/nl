@@ -58,7 +58,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling wordt aangehaald als: Regeling uitzondering kentekenplicht krijgsmacht of civiele dienst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

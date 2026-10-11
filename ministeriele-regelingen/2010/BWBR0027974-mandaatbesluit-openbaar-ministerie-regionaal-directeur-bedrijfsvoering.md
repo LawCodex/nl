@@ -148,23 +148,11 @@ Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie region
 
 Groningen 26 mei 2010
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-De hoofdofficier van Justitie,\
-M.A.A. vanCapelle.
+De Minister van Justitie,namens deze:De hoofdofficier van Justitie,\
+M.A.A. van Capelle.
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-De hoofdofficier van Justitie,\
-L.Ph. denHollander.
+De Minister van Justitie,namens deze:De hoofdofficier van Justitie,\
+L.Ph. den Hollander.
 
-De\
-Minister\
-Justitie,\
-namens deze:\
-De hoofdofficier van Justitie,\
-A.H. vanBronsvoort.
+De Minister van Justitie,namens deze:De hoofdofficier van Justitie,\
+A.H. van Bronsvoort.

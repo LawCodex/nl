@@ -389,10 +389,8 @@ Deze regeling wordt aangehaald als: Mediaregeling 2008.
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap\
-R.H.A.Plasterk
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.H.A. Plasterk
 
 ## Bijlage — behorende bij artikel 17 bijdrage toezichtskosten commerciële mediadiensten
 

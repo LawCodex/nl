@@ -51,9 +51,7 @@ Dit besluit kan worden aangehaald als: Besluit tot routinematige digitale vervan
 
 Dit besluit zal met de bijlage en toelichting in de Staatscourant worden geplaatst.
 
-De Minister van Infrastructuur en Waterstaat,\
-namens deze,\
-De Directeur Human Resources Management,\
+De Minister van Infrastructuur en Waterstaat, namens deze, De Directeur Human Resources Management,\
 M.E.T. van den Broek
 
 ## Bijlage

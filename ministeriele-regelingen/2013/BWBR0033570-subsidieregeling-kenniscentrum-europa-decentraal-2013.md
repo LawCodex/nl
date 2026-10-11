@@ -97,7 +97,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ’s-Gravenhage 10 juni 2013
 
-De\
-minister\
-Binnenlandse Zaken en Koninkrijksrelaties,\
-R.H.A.Plasterk
+De minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk

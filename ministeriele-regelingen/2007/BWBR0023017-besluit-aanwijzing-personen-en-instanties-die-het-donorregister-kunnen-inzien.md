@@ -43,7 +43,5 @@ Dit besluit wordt aangehaald als het Besluit aanwijzing personen en instanties d
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

@@ -91,7 +91,5 @@ Een ieder die betrokken is bij de werkzaamheden van de werkgroep en daarbij de b
 
 ’s-Gravenhage 23 maart 1998
 
-De\
-Staatssecretaris\
-Financiën\
-W.A.Vermeend
+De Staatssecretaris van Financiën,\
+W.A. Vermeend

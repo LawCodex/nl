@@ -58,12 +58,8 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Dit besluit zal met de bijlage en bijbehorende annex in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken\
-namens deze,\
-de directeur-generaal Europese Samenwerking\
-R.E. deGroot
+De Minister van Buitenlandse Zaken, namens deze,de directeur-generaal Europese Samenwerking\
+R.E. de Groot
 
 ## Bijlage
 

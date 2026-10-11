@@ -43,6 +43,5 @@ Dit besluit zal worden geplaatst in de Staatscourant en afschrift zal worden gez
 
 's-Gravenhage 8 januari 1993
 
-De\
-Staatssecretaris\
-A.Kosto
+De Staatssecretaris voornoemd,\
+A. Kosto

@@ -78,7 +78,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Regiegroep Belvedere.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Onderwijs, Cultuur en Wetenschappen\
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen,\
 M.C. van der Laan

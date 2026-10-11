@@ -37,6 +37,5 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-E.Borst-Eilers
+De Minister voornoemd,\
+E. Borst-Eilers

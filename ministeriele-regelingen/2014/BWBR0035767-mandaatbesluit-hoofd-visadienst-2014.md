@@ -62,12 +62,7 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Buitenlandse Zaken,\
-namens deze:\
-De Secretaris-Generaal\
-Ministerie van Buitenlandse Zaken,\
-R.Jones-Bos
+De Minister van Buitenlandse Zaken,namens deze:De Secretaris-Generaal van het Ministerie van Buitenlandse Zaken,\
+R. Jones-Bos
 
 [^n1]: 1 Verordening (EG) nr. 810/2009 van het Europees Parlement en de Raad van 13 juli 2009 tot vaststelling van een gemeenschappelijke visumcode (Visumcode) (PbEU 2009, L 243)

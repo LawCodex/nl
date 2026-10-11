@@ -71,7 +71,5 @@ Wijzigt de Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waa
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-staatssecretaris\
-Financiën\
-J.C. deJager
+De staatssecretaris van Financiën,\
+J.C. de Jager

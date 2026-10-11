@@ -45,6 +45,5 @@ Dit besluit wordt met de bijbehorende toelichting in de Nederlandse Staatscouran
 
 's-Gravenhage 12 juni 1985
 
-De\
-minister\
-J. deKoning
+De minister voornoemd,\
+J. de Koning

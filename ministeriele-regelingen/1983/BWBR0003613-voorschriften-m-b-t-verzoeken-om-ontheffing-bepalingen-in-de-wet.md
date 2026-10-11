@@ -96,9 +96,8 @@ Dit besluit treedt in werking op de twintigste dag na afkondiging in de Nederlan
 
 's-Gravenhage 22 augustus 1983
 
-De\
-Minister\
-N.Smit-Kroes
+De Minister voornoemd,\
+N. Smit-Kroes
 
 ## Bijlage I — Vorm, samenstelling en eigenschappen van stoffen
 

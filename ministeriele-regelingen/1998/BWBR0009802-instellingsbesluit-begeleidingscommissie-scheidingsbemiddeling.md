@@ -88,7 +88,5 @@ Dit besluit zal worden gepubliceerd in de Staatscourant.
 
 ’s-Gravenhage 23 juli 1998
 
-De\
-Staatssecretaris\
-Justitie\
-E.M.A.Schmitz
+De Staatssecretaris van Justitie,\
+E.M.A. Schmitz

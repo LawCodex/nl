@@ -29,13 +29,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## HOOFDSTUK 1 — WIJZIGING VAN DE ALGEMENE WET BESTUURSRECHT
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Algemene wet bestuursrecht.
 
 ## HOOFDSTUK 2 — MINISTERIE VAN ALGEMENE ZAKEN
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Wet openbaarheid van bestuur.
 
@@ -116,7 +116,7 @@ Met ingang van het tijdstip van inwerkingtreding van deze wet:
 
 ## HOOFDSTUK 4 — MINISTERIE VAN BUITENLANDSE ZAKEN
 
-### artikel Enig
+### Enig artikel
 
 Wijzigt de Sanctiewet 1977.
 

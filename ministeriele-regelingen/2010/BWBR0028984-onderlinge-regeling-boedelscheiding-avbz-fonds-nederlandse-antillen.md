@@ -143,18 +143,14 @@ Aldus ondertekend te
 
 Den Haag 7 september 2010
 
-Namens het land Nederlandse Antillen,\
-De minister-president,\
+Namens het land Nederlandse Antillen, De minister-president,\
 E.S. de Jongh-Elhage
 
-Namens Nederland,\
-De Staatssecretaris van BZK,\
+Namens Nederland, De Staatssecretaris van BZK,\
 A.Th.B. Bijleveld-Schouten
 
-Namens Curaçao,\
-De gedeputeerde Constitutionele Zaken,\
+Namens Curaçao, De gedeputeerde Constitutionele Zaken,\
 S. Osepa
 
-Namens Sint Maarten,\
-De gedeputeerde Constitutionele Zaken,\
+Namens Sint Maarten, De gedeputeerde Constitutionele Zaken,\
 W.V. Marlin

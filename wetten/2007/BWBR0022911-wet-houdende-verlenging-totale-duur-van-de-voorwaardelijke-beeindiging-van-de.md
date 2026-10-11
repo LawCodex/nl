@@ -45,10 +45,10 @@ Gegeven te 's-Gravenhage 22 november 2007
 
 Beatrix
 
-De Staatssecretaris van Justitie\
-N.Albayrak
+De Staatssecretaris van Justitie,\
+N. Albayrak
 
 de *negenentwintigste* november 2007
 
-De Minister van Justitie\
-E. M. H.Hirsch Ballin
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

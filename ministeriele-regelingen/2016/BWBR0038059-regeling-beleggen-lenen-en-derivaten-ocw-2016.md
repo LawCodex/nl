@@ -206,10 +206,8 @@ Deze regeling wordt aangehaald als: Regeling beleggen, lenen en derivaten OCW 20
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Onderwijs, Cultuur en Wetenschap,\
-M.Bussemaker
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+M. Bussemaker
 
 ## Bijlage I — behorende bij artikel 5, vierde lid, van de Regeling beleggen, lenen en derivaten OCW 2016
 

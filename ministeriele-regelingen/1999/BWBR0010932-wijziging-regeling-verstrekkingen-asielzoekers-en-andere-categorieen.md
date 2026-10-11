@@ -41,7 +41,5 @@ Dit besluit treedt in werking op 1 januari 2000.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Staatssecretaris\
-Justitie\
-M.J.Cohen
+De Staatssecretaris van Justitie,\
+M.J. Cohen

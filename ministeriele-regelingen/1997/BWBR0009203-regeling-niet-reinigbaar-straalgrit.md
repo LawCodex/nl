@@ -93,10 +93,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 's-Gravenhage 18 december 1997
 
-De\
-Minister\
-Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer\
-Margaretha deBoer
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,\
+Margaretha de Boer
 
 ## Bijlage — bij artikel 3 van de Regeling niet-reinigbaar straalgrit
 

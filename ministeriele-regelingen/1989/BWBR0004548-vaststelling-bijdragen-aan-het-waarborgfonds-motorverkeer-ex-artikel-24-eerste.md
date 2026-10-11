@@ -32,12 +32,9 @@ II Deze regeling wordt in de Nederlandse Staatscourant geplaatst.
 
 's-Gravenhage 19 mei 1989
 
-De\
-minister\
-Financiën
+De minister van Financiën,
 
 namens deze,
 
-De\
-plv. secretaris-generaal\
-V. I.Goedvolk
+De plv. secretaris-generaal,\
+V. I. Goedvolk

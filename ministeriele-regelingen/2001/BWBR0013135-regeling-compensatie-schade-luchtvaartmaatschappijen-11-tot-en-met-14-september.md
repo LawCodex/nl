@@ -81,7 +81,5 @@ Deze regeling wordt aangehaald als: Regeling compensatie schade luchtvaartmaatsc
 
 Deze regeling zal met de toelichting geplaatst worden in de Staatscourant.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-T.Netelenbos
+De Minister van Verkeer en Waterstaat\
+T. Netelenbos

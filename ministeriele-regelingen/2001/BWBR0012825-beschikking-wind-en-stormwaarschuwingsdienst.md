@@ -107,11 +107,7 @@ Deze beschikking treedt in de plaats van de beschikking van de Ministers van Ver
 
 Deze beschikking treedt in werking met ingang van heden en zal worden gepubliceerd in de Nederlandse Staatscourant.
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
+De Staatssecretaris van Verkeer en Waterstaat,\
 J.M. de Vries
 
-De\
-Staatssecretaris\
-Defensie
+De Staatssecretaris van Defensie,

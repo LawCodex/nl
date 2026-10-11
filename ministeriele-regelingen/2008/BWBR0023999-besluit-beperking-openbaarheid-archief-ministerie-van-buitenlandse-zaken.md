@@ -594,12 +594,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant worden geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van het Ministerie van Buitenlandse Zaken 1945–1954’.
 
-De\
-Minister\
-Buitenlandse Zaken\
-namens deze:\
-directeur van de Directie Documentaire Informatievoorziening\
-H.Y.Buijs
+De Minister van Buitenlandse Zaken, namens deze: de directeur van de Directie Documentaire Informatievoorziening,\
+H.Y. Buijs
 
 ## Bijlage 1
 

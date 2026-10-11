@@ -95,9 +95,5 @@ Aan de teamleider van het team secretariaat-SZI wordt volmacht en machtiging ver
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-namens deze,\
-C. van derSpek\
-hoofd Budgetbeheer, Secretariaat en Bedrijfsvoering SZI
+De Minister van Sociale Zaken en Werkgelegenheid,namens deze,\
+C. van der Spekhoofd Budgetbeheer, Secretariaat en Bedrijfsvoering SZI

@@ -141,7 +141,5 @@ Dit besluit zal worden geplaatst in de Staatscourant.
 
 's-Gravenhage 26 augustus 1994
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink

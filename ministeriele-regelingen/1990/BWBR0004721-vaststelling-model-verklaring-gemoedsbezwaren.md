@@ -35,15 +35,12 @@ De beschikking van de Minister van Financiën van 29 juni 1984, nr. 384-7187, St
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 Namens deze,
 
-De\
-Directeur Binnenlands Geldwezen\
-A.J.H.Verkerk-Kooijman
+De Directeur Binnenlands Geldwezen,\
+A.J.H. Verkerk-Kooijman, loco.
 
 ## Bijlage I
 
@@ -79,15 +76,12 @@ Aldus naar waarheid opgemaakt, te...., d.d..... 19.. .
 
 Deze bijlage behoort bij de regeling van 21 februari 1990 (Stcrt. 1990, 41).
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 Namens deze,
 
-De\
-Directeur Binnenlands Geldwezen\
-A.J.H.Verkerk-Kooijman
+De Directeur Binnenlands Geldwezen,\
+A.J.H. Verkerk-Kooijman, loco.
 
 ## Bijlage II
 
@@ -126,15 +120,12 @@ Aldus naar waarheid opgemaakt, te....., d.d. ....., 19..
 
 Deze bijlage behoort bij de regeling van 21 februari 1990 (Stcrt. 1990, 41).
 
-De\
-Minister\
-Financiën
+De Minister van Financiën,
 
 Namens deze,
 
-De\
-Directeur Binnenlands Geldwezen\
-A.J.H.Verkerk-Kooijman
+De Directeur Binnenlands Geldwezen,\
+A.J.H. Verkerk-Kooijman, loco.
 
 [^n1]: 1 Een afschrift van het door de Sociale Verzekeringsbank verstrekte bewijs van vrijstelling, van hem of haar bij of krachtens de sociale verzekeringswetten opgelegde verplichtingen, bijsluiten Te zenden aan Ministerie van Financiën Afdeling Verzekeringswezen Postbus 20201 2500 EE 's-Gravenhage
 

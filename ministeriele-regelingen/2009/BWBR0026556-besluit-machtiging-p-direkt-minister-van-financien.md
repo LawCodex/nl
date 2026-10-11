@@ -83,9 +83,5 @@ De machtiging die is verleend aan het Facilitair SalarisCentrum ten behoeve van 
 
 Den Haag 14 oktober 2009
 
-De\
-Minister\
-Financiën\
-namens deze:\
-plaatsvervangend secretaris-generaal\
-A.S.M.Koeleman
+De Minister van Financiën, namens deze: De plaatsvervangend secretaris-generaal,\
+A.S.M. Koeleman

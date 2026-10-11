@@ -242,9 +242,7 @@ Deze regeling wordt aangehaald als Regeling dienstreizen defensie.
 
 Deze regeling zal in de bundel Rechtspositie militairen (MP 31-300) en de bundel Rechtspositie burgerpersoneel Defensie (MP 33-410) worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in de Staatscourant.
 
-De Staatssecretaris van Defensie\
-voor deze\
-De Directeur Arbeidsvoorwaardenbeleid\
+De Staatssecretaris van Defensie voor deze De Directeur Arbeidsvoorwaardenbeleid\
 B.H.J.J.M. Völkers
 
 ## Bijlage A — bij de Regeling dienstreizen defensie

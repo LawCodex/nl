@@ -173,7 +173,5 @@ Deze instructie treedt in werking met ingang van de tweede dag na dagtekening va
 
 Deze instructie wordt aangehaald als: Geweldsinstructie inrichtingen voor verpleging van ter beschikking gestelden.
 
-De\
-Minister\
-Justitie\
-A.H.Korthals
+De Minister van Justitie,\
+A.H. Korthals

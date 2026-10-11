@@ -43,7 +43,5 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 26 oktober 2011
 
-De\
-De Minister\
-Immigratie en Asiel,\
-G.B.M.Leers
+De De Minister voor Immigratie en Asiel,\
+G.B.M. Leers

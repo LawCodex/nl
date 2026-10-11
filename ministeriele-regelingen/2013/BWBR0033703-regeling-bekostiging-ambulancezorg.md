@@ -52,7 +52,5 @@ De zorgautoriteit stelt een vereffeningbedrag als bedoeld in artikel 56b van de 
 
 Van deze aanwijzing wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport,\
-E.I.Schippers
+De Minister van Volksgezondheid, Welzijn en Sport,\
+E.I. Schippers

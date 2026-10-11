@@ -190,10 +190,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 \`s-Gravenhage 7 december 2001
 
-De\
-Minister\
-Defensie\
-F.H.G. deGrave
+De Minister van Defensie,\
+F.H.G. de Grave
 
 ## Controleprotocol als bedoeld in artikel 8, derde lid, van de Regeling defensiesubsidies
 

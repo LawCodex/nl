@@ -220,10 +220,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ’s-Gravenhage 3 december 1997
 
-De\
-Minister\
-Verkeer en Waterstaat\
-A.Jorritsma-Lebbink
+De Minister van Verkeer en Waterstaat,\
+A. Jorritsma-Lebbink
 
 ## Bijlage — Regeling kentekens en kentekenplaten
 

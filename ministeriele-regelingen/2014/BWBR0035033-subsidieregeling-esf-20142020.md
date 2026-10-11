@@ -378,10 +378,8 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Den Haag 31 maart 2014
 
-De\
-Staatssecretaris\
-Sociale Zaken en Werkgelegenheid,\
-J.Klijnsma.
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+J. Klijnsma.
 
 ## Bijlage 1 — Specifieke bepalingen voor subsidie aanvragen in het kader van investeringsprioriteiten A tot en met C
 

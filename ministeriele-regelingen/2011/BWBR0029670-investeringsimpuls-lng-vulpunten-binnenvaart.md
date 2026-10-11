@@ -37,10 +37,8 @@ Dit besluit wordt aangehaald als Investeringsimpuls LNG-vulpunten binnenvaart.
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Infrastructuur en Milieu,\
-M.H.Schultz van Haegen-Maas Geesteranus
+De Minister van Infrastructuur en Milieu,\
+M.H. Schultz van Haegen-Maas Geesteranus
 
 ## Bijlage — bedoeld in artikel 1
 

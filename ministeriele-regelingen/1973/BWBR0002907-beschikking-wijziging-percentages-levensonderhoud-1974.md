@@ -51,7 +51,5 @@ Deze beschikking kan worden aangehaald als: Beschikking wijziging-percentages le
 
 's-Gravenhage 7 november 1973
 
-De\
-Minister\
-Justitie\
+De Minister van Justitie,\
 Van Agt.

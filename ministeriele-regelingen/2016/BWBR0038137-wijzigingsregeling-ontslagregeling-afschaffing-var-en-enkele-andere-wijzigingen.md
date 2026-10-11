@@ -44,7 +44,5 @@ Deze regeling treedt in werking met ingang van 1 juli 2016.
 
 Den Haag 23 juni 2016
 
-De\
-Minister\
-Sociale Zaken en Werkgelegenheid,\
-L.F.Asscher
+De Minister van Sociale Zaken en Werkgelegenheid,\
+L.F. Asscher

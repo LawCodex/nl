@@ -57,16 +57,13 @@ Gegeven te ’s-Gravenhage 24 mei 2007
 
 Beatrix
 
-De\
-StaatssecretarisvanOnderwijs, Cultuur en Wetenschap\
-J. M. vanBijsterveldt-Vliegenthart
+De StaatssecretarisvanOnderwijs, Cultuur en Wetenschap,\
+J. M. van Bijsterveldt-Vliegenthart
 
-De\
-MinistervanLandbouw, Natuur en Voedselkwaliteit\
-G.Verburg
+De MinistervanLandbouw, Natuur en Voedselkwaliteit,\
+G. Verburg
 
 de *twaalfde* juni 2007
 
-De\
-MinistervanJustitie\
-E. M. H.Hirsch Ballin
+De MinistervanJustitie,\
+E. M. H. Hirsch Ballin

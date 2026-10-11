@@ -39,7 +39,5 @@ Deze beschikking kan worden aangehaald als Beschikking wijzigingpercentage leven
 
 's-Gravenhage 10 november 1987
 
-De\
-Staatssecretaris\
-Justitie\
+De Staatssecretaris van Justitie,\
 V. N. M. Korte-van Hemel

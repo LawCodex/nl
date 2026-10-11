@@ -62,5 +62,4 @@ Dit besluit wordt aangehaald als: Tijdelijk ondermandaatbesluit Commandant Lands
 3 november 2014
 
 De Commandant Landstrijdkrachten\
-M.C. de Kruif\
-Luitenant-generaal
+M.C. de Kruif Luitenant-generaal

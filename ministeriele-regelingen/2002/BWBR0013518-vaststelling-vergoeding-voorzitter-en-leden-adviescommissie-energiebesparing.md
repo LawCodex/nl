@@ -39,5 +39,4 @@ De Minister van Economische Zaken,
 
 namens deze:
 
-N. van Hulst\
-directeur-generaal van Marktordening en Energie
+N. van Hulst , directeur-generaal van Marktordening en Energie.

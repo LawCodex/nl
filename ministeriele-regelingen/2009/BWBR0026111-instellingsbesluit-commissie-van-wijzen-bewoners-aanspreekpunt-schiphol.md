@@ -123,7 +123,5 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Wijzen Bewone
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Verkeer en Waterstaat\
-C.M.P.S.Eurlings
+De Minister van Verkeer en Waterstaat,\
+C.M.P.S. Eurlings

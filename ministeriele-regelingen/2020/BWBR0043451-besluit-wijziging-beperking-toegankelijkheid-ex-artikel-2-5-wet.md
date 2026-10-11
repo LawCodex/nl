@@ -75,10 +75,8 @@ Tevens ligt dit besluit met de toelichting en het bijbehorend kaartmateriaal ged
 
 Dit wijzigingsbesluit zal ook openbaar worden gemaakt op grond van artikel 8 van de Wet openbaarheid van bestuur op https://puc.overheid.nl/natuurvergunningen.
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit,\
-namens deze:\
-C. den Hartog\
-MT-lid Directoraat-Generaal Natuur, Visserij en Landelijk Gebied
+De Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:\
+C. den Hartog MT-lid Directoraat-Generaal Natuur, Visserij en Landelijk Gebied
 
 ## Bijlage 1
 

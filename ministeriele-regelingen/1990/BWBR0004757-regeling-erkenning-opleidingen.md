@@ -166,9 +166,7 @@ De bij deze regeling behorende bijlagen liggen ter inzage bij de divisie Luchtva
 
 's-Gravenhage 18 mei 1990
 
-De\
-minister\
-Verkeer en Waterstaat
+De minister van Verkeer en Waterstaat,
 
 J. R. H. Maij-Weggen
 

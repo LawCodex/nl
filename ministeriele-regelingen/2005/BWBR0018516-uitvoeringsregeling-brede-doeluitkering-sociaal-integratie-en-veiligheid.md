@@ -946,10 +946,8 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling brede doeluitkering soci
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-De\
-Minister\
-Bestuurlijke Vernieuwing en Koninkrijksrelaties\
-A.Pechtold
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties,\
+A. Pechtold
 
 ## Bijlage A — behorende bij artikel 1, onderdelen e en f
 

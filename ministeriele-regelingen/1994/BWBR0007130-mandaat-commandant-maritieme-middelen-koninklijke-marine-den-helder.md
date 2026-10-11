@@ -77,7 +77,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 's-Gravenhage 19 december 1994
 
-De\
-Minister\
-Verkeer en Waterstaat\
+De Minister van Verkeer en Waterstaat,\
 A. Jorritsma-Lebbink

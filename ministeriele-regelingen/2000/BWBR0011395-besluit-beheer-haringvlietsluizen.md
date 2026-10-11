@@ -141,10 +141,8 @@ Dit besluit kan worden aangehaald als Besluit Beheer Haringvlietsluizen.
 
 Den Haag 5 juni 2000
 
-De\
-Staatssecretaris\
-Verkeer en Waterstaat\
-J.M. deVries
+De Staatssecretaris van Verkeer en Waterstaat,\
+J.M. de Vries
 
 ## Bijlage 1 — Sluisbeheer volgens ‘de Kier’
 

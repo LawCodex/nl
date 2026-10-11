@@ -49,7 +49,5 @@ De indexatie van het inkomensbestanddeel van de zorg als bedoeld in artikel 1 wo
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst, te lezen op www.officielebekendmakingen.nl.
 
-De\
-Minister\
-Volksgezondheid, Welzijn en Sport\
-A.Klink
+De Minister van Volksgezondheid, Welzijn en Sport,\
+A. Klink

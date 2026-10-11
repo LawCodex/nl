@@ -37,12 +37,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Den Haag 22 december 2005
 
-De\
-Minister\
-Binnenlandse Zaken en Koninkrijksrelaties\
-namens deze:\
-directeur Bestuurlijke en Financiële Organisatie\
-P.P.L. vanKalmthout
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de directeur Bestuurlijke en Financiële Organisatie,\
+P.P.L. van Kalmthout
 
 ## Bijlage 1 — De bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2004
 
