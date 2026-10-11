@@ -1,0 +1,105 @@
+---
+title: "Uitvoeringswet verordening Europese procedure voor geringe vorderingen"
+identifier: "BWBR0025914"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 2009-05-29
+last_amended: 2017-07-14
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0025914/2017-07-14"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0025914/2017-07-14_0/xml/BWBR0025914_2017-07-14_0.xml"
+authority: "Veiligheid en Justitie"
+rechtsgebied: ["Procesrecht", "Burgerlijk procesrecht"]
+retrieved: 2026-10-11
+---
+
+# Uitvoeringswet verordening Europese procedure voor geringe vorderingen
+
+*Wet van 29 mei 2009 tot uitvoering van verordening (EG) nr. 861/2007 van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199) (Uitvoeringswet verordening Europese procedure voor geringe vorderingen)*
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om wettelijke voorzieningen te treffen ter uitvoering van de verordening (EG) nr. 861/2007 van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199);
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Artikel 1
+
+In deze wet wordt verstaan onder:
+
+- a. *verordening:* verordening (EG) nr. 861/2007 van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199), zoals laatstelijk gewijzigd bij Verordening (EU) 2015/2421 van het Europees Parlement en de Raad van 16 december 2015 (PbEU 2015, L 341/1);
+- b. *Europese geringe vordering:* vordering in grensoverschrijdende burgerlijke zaken en handelszaken met een waarde van ten hoogste € 5.000 als bedoeld in artikel 2, eerste lid, van de verordening.
+
+## Artikel 2
+
+1\. Zaken betreffende Europese geringe vorderingen worden behandeld en beslist door de kantonrechter.
+
+2\. Tegen een beslissing van de kantonrechter in de Europese procedure voor geringe vorderingen staat overeenkomstig de eerste tot en met derde afdeling van de zevende titel van het Eerste Boek van Burgerlijke Rechtsvordering, hoger beroep open, met dien verstande dat het hoger beroep wordt ingesteld binnen dertig dagen te rekenen vanaf de dag van de beslissing.
+
+3\. Artikel 80 van de Wet op de rechterlijke organisatie is van overeenkomstige toepassing.
+
+## Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Artikel 3
+
+Op een geding betreffende een Europese geringe vordering is de Wet griffierechten burgerlijke zaken van overeenkomstige toepassing.
+
+## Artikel 4
+
+1\. Indien de kantonrechter eiser ervan in kennis heeft gesteld dat zijn vordering buiten het in artikel 2 van de verordening genoemde toepassingsgebied valt, kan eiser zijn vordering intrekken. Eiser doet hiervan schriftelijk mededeling aan de kantonrechter binnen 30 dagen na ontvangst van de kennisgeving van de kantonrechter. Het griffierecht wordt in geval van intrekking niet gerestitueerd.
+
+2\. Indien een tegenvordering als bedoeld in artikel 5, zesde lid, van de verordening buiten het in artikel 2 van de verordening genoemde toepassingsgebied valt, is het eerste lid van overeenkomstige toepassing.
+
+3\. Indien eiser of verweerder zijn vordering respectievelijk tegenvordering na de kennisgeving van de kantonrechter niet intrekt, is artikel 69 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.
+
+## Artikel 5
+
+Bij de veroordeling van de in het ongelijk gestelde partij in de proceskosten zijn de artikelen 238, 241, 242 en 244 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.
+
+## Artikel 6
+
+De verweerder kan de kantonrechter die een beslissing over een Europese geringe vordering heeft gegeven verzoeken om heroverweging van die beslissing op de gronden, genoemd in artikel 18, eerste lid, van de verordening.
+
+## Artikel 7
+
+1\. Het afschrift van de door een gerecht van een andere lidstaat gegeven beslissing over een Europese geringe vordering en het in artikel 20, tweede lid, van de verordening bedoelde certificaat kunnen tezamen ten uitvoer worden gelegd op dezelfde wijze als een grosse.
+
+2\. Een door een gerecht van een andere lidstaat verstrekt certificaat als bedoeld in artikel 20, tweede lid, van de verordening wordt voor de toepassing van artikel 21, tweede lid, onder b, van de verordening gesteld of vertaald in de Nederlandse taal.
+
+## Artikel 8
+
+Op verzoeken inzake de tenuitvoerlegging als bedoeld in de artikelen 22 en 23 van de verordening is artikel 438 van het Wetboek van Burgerlijke Rechtsvordering van toepassing.
+
+## Artikel 9
+
+In aanvulling op hetgeen uit de verordening of uit deze wet voortvloeit, zijn op een in Nederland ingediende Europese geringe vordering de regels inzake de verzoekschriftprocedure van overeenkomstige toepassing.
+
+## Artikel 10
+
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+
+## Artikel 11
+
+Deze wet wordt aangehaald als: Uitvoeringswet verordening Europese procedure voor geringe vorderingen.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te
+
+’s-Gravenhage 29 mei 2009
+
+Beatrix
+
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
+
+de *negende* juni 2009
+
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin

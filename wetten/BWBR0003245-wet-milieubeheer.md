@@ -1,0 +1,6839 @@
+---
+title: "Wet milieubeheer"
+identifier: "BWBR0003245"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 1979-06-13
+last_amended: 2026-08-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0003245/2026-08-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003245/2026-08-01_0/xml/BWBR0003245_2026-08-01_0.xml"
+authority: "Infrastructuur en Milieu"
+rechtsgebied: ["Ruimtelijke ordening en milieu", "Milieurecht"]
+retrieved: 2026-10-11
+---
+
+# Wet milieubeheer
+
+*Wet van 13 juni 1979, houdende regelen met betrekking tot een aantal algemene onderwerpen op het gebied van de milieuhygiëne*
+
+Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz. Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is, naast de wettelijke regelingen, geldende voor de onderscheidene onderdelen van het gebied van de milieuhygiëne, regelen te stellen met betrekking tot een aantal algemene onderwerpen op dat gebied;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Hoofdstuk 1 — Algemeen
+
+### Artikel 1.1
+
+1\. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+adviseurs: bestuursorganen die krachtens wettelijk voorschrift in de gelegenheid moeten worden gesteld advies uit te brengen met betrekking tot het geven van een beschikking of het nemen van een ander besluit;
+
+afvalstoffen: alle stoffen, mengsels of voorwerpen, waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen;
+
+afvalstoffenhandelaar: natuurlijke of rechtspersoon die als verantwoordelijke optreedt bij het bedrijfsmatig aankopen en vervolgens verkopen van afvalstoffen, met inbegrip van natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben;
+
+afvalstoffenhouder: afvalstoffenproducent dan wel de natuurlijke of rechtspersoon die de afvalstoffen in zijn bezit heeft;
+
+afvalstoffenmakelaar: natuurlijke of rechtspersoon die ten behoeve van anderen bedrijfsmatig de verwijdering of de nuttige toepassing van afvalstoffen organiseert, met inbegrip van de natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben;
+
+afvalstoffenproducent: natuurlijke of rechtspersoon wiens activiteiten afvalstoffen voortbrengen of die voorbehandelingen, vermengingen of andere bewerkingen verricht die leiden tot een wijziging in de aard of de samenstelling van die afvalstoffen;
+
+afvalstoffenverordening: de verordening, bedoeld in artikel 10.23;
+
+afvalwater: alle water waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen;
+
+bedrijfsafvalstoffen: afvalstoffen, niet zijnde huishoudelijke afvalstoffen of gevaarlijke afvalstoffen;
+
+beheer van afvalstoffen: inzameling, vervoer, nuttige toepassing, met inbegrip van sortering, en verwijdering van afvalstoffen, met inbegrip van het toezicht op die handelingen en de nazorg voor stortplaatsen na sluiting en met inbegrip van de activiteiten van afvalstoffenhandelaars en afvalstoffenmakelaars;
+
+betrokken bestuursorganen: adviseurs en andere bestuursorganen die krachtens wettelijk voorschrift worden betrokken bij de totstandkoming van de in artikel 13.1, eerste lid, bedoelde beschikkingen;
+
+bevoegd gezag: bestuursorgaan dat bevoegd is tot het geven van een beschikking of het nemen van een ander besluit;
+
+bioafval: biologisch afbreekbaar tuin- en plantsoenafval, levensmiddelenafval en keukenafval afkomstig van huishoudens, kantoren, restaurants, groothandels, kantines, cateringfaciliteiten en winkels en vergelijkbare afvalstoffen van de levensmiddelenindustrie;
+
+biochemisch zuurstofverbruik: massaconcentratie aan opgeloste zuurstof die gedurende vijf dagen wordt verbruikt door biochemische oxydatie van organische bestanddelen onder uitsluiting van ammoniumoxydatie onder omstandigheden die zijn gespecificeerd in een door Onze Minister aangewezen norm van het Nederlands Normalisatie Instituut;
+
+broeikasgas: gas, genoemd in bijlage II bij de EG-richtlijn handel in broeikasgasemissierechten;
+
+broeikasgasemissierecht: overeenkomstig het bepaalde bij en krachtens hoofdstuk 16 overdraagbaar recht, uitsluitend teneinde aan het bepaalde bij en krachtens dat hoofdstuk te voldoen, om gedurende een bepaalde periode een emissie van één ton kooldioxide-equivalent te veroorzaken;
+
+circulair materialenplan: circulair materialenplan als bedoeld in artikel 10.3;
+
+Commissie genetische modificatie: de Commissie genetische modificatie, bedoeld in artikel 2.26;
+
+doelmatig beheer van afvalstoffen: zodanig beheer van afvalstoffen dat daarbij rekening wordt gehouden met het geldende circulair materialenplan, dan wel de voor de vaststelling van het plan geldende bepalingen, dan wel de voorkeursvolgorde aangegeven in artikel 10.4, en de criteria, genoemd in artikel 10.5;
+
+één ton kooldioxide-equivalent: een metrische ton kooldioxide of een hoeveelheid van een ander broeikasgas met een gelijkwaardig aardopwarmingsvermogen;
+
+de EG-richtlijn handel in broeikasgasemissierechten: richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU L 275);
+
+EG-verordening EU-milieukeur: verordening (EG) nr. 66/2010 van het Europees parlement en de Raad van 25 november 2009 betreffende de EU-milieukeur (PbEU L 2010, 27);
+
+EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353);
+
+EG-verordening overbrenging van afvalstoffen: verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190);
+
+EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie (PbEU 2007, L 136);
+
+emissie: stoffen, trillingen, warmte, die of geluid dat direct of indirect vanuit een bron in de lucht, het water of de bodem worden, onderscheidenlijk wordt gebracht;
+
+de emissieautoriteit: de Nederlandse emissieautoriteit, genoemd in artikel 2.1;
+
+emissiereductie-eenheid: eenheid, uitgegeven overeenkomstig artikel 6 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (ERU);
+
+EU-richtlijn pyrotechnische artikelen: Richtlijn 2013/29/EU van het Europees Parlement en de Raad van 12 juni 2013 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van pyrotechnische artikelen (herschikking) (PbEU L 178);
+
+EU-verordening markttoezicht: verordening (EU) nr. 2019/1020 van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van Richtlijn 2004/42/EG en Verordeningen (EG) nr. 765/2008 en (EU) nr. 305/2011 (PbEU 2019, L 169);
+
+gecertificeerde emissiereductie: eenheid, uitgegeven overeenkomstig artikel 12 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (CER);
+
+geluid: met het menselijk oor waarneembare luchttrillingen;
+
+geluidhinder: gevaar, schade of hinder, als gevolg van geluid;
+
+gescheiden inzameling: inzameling waarbij een afvalstoffenstroom gescheiden gehouden wordt naar soort en aard van de afvalstoffen om een specifieke behandeling te vergemakkelijken;
+
+gevaarlijke afvalstof: afvalstof die een of meer van de in bijlage III bij de kaderrichtlijn afvalstoffen genoemde gevaarlijke eigenschappen bezit;
+
+hergebruik: elke handeling waarbij producten of componenten die geen afvalstoffen zijn, opnieuw worden gebruikt voor hetzelfde doel als dat waarvoor zij waren bedoeld;
+
+huishoudelijk afvalwater: afvalwater dat overwegend afkomstig is van menselijke stofwisseling en huishoudelijke werkzaamheden;
+
+huishoudelijke afvalstoffen: afvalstoffen afkomstig uit particuliere huishoudens, behoudens voor zover het ingezamelde bestanddelen van die afvalstoffen betreft, die zijn aangewezen als gevaarlijke afvalstoffen;
+
+inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;
+
+inzameling: verzameling van afvalstoffen, met inbegrip van de voorlopige sortering en de voorlopige opslag van afvalstoffen, om deze daarna te vervoeren naar een afvalverwerkingsinstallatie;
+
+kaderrichtlijn afvalstoffen: richtlijn nr. 2008/98/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen (PbEU L 312);
+
+de kaderrichtlijn water: richtlijn nr. 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG L 327), zoals deze is gewijzigd bij beschikking nr. 2455/2001/EG van het Europees Parlement en de Raad van 20 november 2001 tot vaststelling van de lijst van prioritaire stoffen op het gebied van het waterbeleid en tot wijziging van richtlijn 2000/60/EG (PbEG L 331) en met inbegrip van wijzigingen uit hoofde van artikel 20, eerste lid, van de richtlijn, doch voor het overige naar de tekst zoals deze bij de richtlijn is vastgesteld;
+
+luchtvaartbrandstofleverancier: brandstofleverancier als bedoeld in artikel 3, onderdeel 19, van Verordening (EU) 2023/2405;
+
+luchtvaartuigexploitant: luchtvaartuigexploitant als bedoeld in artikel 3, onderdeel 3, van Verordening (EU) 2023/2405;
+
+luchtverontreiniging: aanwezigheid in de buitenlucht van vaste, vloeibare of gasvormige stoffen, niet zijnde splijtstoffen, ertsen of radioactieve stoffen als bedoeld in de Kernenergiewet, die op zichzelf dan wel tezamen of in verbinding met andere stoffen nadelige gevolgen voor het milieu kunnen veroorzaken;
+
+mengsel: een mengsel of een oplossing bestaande uit twee of meer stoffen;
+
+milieubelastende activiteit: milieubelastende activiteit als bedoeld in de Omgevingswet;
+
+nuttige toepassing: elke handeling met als voornaamste resultaat dat afvalstoffen een nuttig doel dienen door hetzij in de betrokken installatie, hetzij in de ruimere economie, andere materialen te vervangen die anders voor een specifieke functie zouden zijn gebruikt, of waardoor de afvalstof voor die functie wordt klaargemaakt, tot welke handelingen in ieder geval behoren de handelingen die zijn genoemd in bijlage II bij de kaderrichtlijn afvalstoffen;
+
+omgevingsvergunning: omgevingsvergunning als bedoeld in de Omgevingswet;
+
+Onze Minister: Onze Minister van Infrastructuur en Milieu;
+
+persoon met gespecialiseerde kennis: persoon met gespecialiseerde kennis als bedoeld in artikel 3, onder 6, van de EU-richtlijn pyrotechnische artikelen;
+
+preventie: maatregelen die worden genomen voordat een stof, materiaal of product afvalstof is geworden, ter vermindering van:
+
+- a. de hoeveelheden afvalstoffen, al dan niet via het hergebruik van producten of de verlenging van de levensduur van producten;
+- b. de negatieve gevolgen van de geproduceerde afvalstoffen voor het milieu en de menselijke gezondheid, of
+- c. het gehalte aan gevaarlijke stoffen in materialen en producten;
+
+Protocol van Kyoto: op 11 december 1997 te Kyoto totstandgekomen Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1998, 170, en 1999, 110);
+
+Raamverdrag van de Verenigde Naties inzake klimaatverandering: op 9 mei 1992 te New York totstandgekomen Raamverdrag van de Verenigde Naties inzake klimaatverandering (Trb. 1992, 189);
+
+recycling: nuttige toepassing waardoor afvalstoffen opnieuw worden bewerkt tot producten, materialen of stoffen, voor het oorspronkelijke doel of voor een ander doel, met inbegrip van het opnieuw bewerken van organische afvalstoffen, en met uitsluiting van energieterugwinning en het opnieuw bewerken tot materialen die bestemd zijn om te worden gebruikt als brandstof of als opvulmateriaal;
+
+regeling voor uitgebreide producentenverantwoordelijkheid: regels die ervoor zorgen of een besluit dat er voor zorgt dat degene die stoffen, mengsels of producten in de handel brengt geheel of gedeeltelijk de financiële of organisatorische verantwoordelijkheid draagt voor het beheer van de van die stoffen, mengsels of producten overgebleven afvalstoffen;
+
+richtlijn beheer winningsafval: richtlijn nr. 2006/21/EG van het Europees Parlement en de Raad van de Europese Unie van 15 maart 2006 betreffende het beheer van afval van de winningsindustrieën en houdende wijziging van Richtlijn nr. 2004/35/EG (PbEU L 102);
+
+stoffen: chemische elementen en de verbindingen ervan, zoals deze voorkomen in natuurlijke toestand of bij de vervaardiging ontstaan, met inbegrip van alle additieven die nodig zijn voor het behoud van de stabiliteit ervan en alle onzuiverheden ten gevolge van het toegepaste procédé, doch met uitzondering van elk oplosmiddel dat kan worden afgescheiden zonder dat de stabiliteit van de stof wordt aangetast of de samenstelling ervan wordt gewijzigd;
+
+storten: op of in de bodem brengen van afvalstoffen om deze daar te laten;
+
+Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau: Uitvoeringsverordening (EU) 2019/1842 van de Commissie van 31 oktober 2019 tot vaststelling van bepalingen ter uitvoering van Richtlijn 2003/87/EG van het Europees Parlement en de Raad wat de verdere regelingen voor de aanpassingen van de kosteloze toewijzing van emissierechten als gevolg van veranderingen in het activiteitsniveau betreft (PbEU 2019, L 282);
+
+Verordening (EU) 2023/1805: Verordening (EU) 2023/1805 van het Europees Parlement en de Raad van 13 september 2023 betreffende het gebruik van hernieuwbare en koolstofarme brandstoffen in het zeevervoer, en tot wijziging van Richtlijn 2009/16/EG (PbEU 2023, L 234);
+
+Verordening (EU) 2023/2405: Verordening (EU) 2023/2405 van het Europees Parlement en de Raad van 18 oktober 2023 inzake het waarborgen van een gelijk speelveld voor duurzaam luchtvervoer (ReFuelEU Luchtvaart) (PbEU 2023, L 2023/2405);
+
+Verordening EU-register handel in emissierechten: Gedelegeerde verordening (EU) 2019/1122 van de Commissie van 12 maart 2019 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad betreffende de werking van het EU-register (PbEU 2019, L 177);
+
+Verordening inzake tijdstippen, beheer en andere aspecten van veiling van broeikasgasemissierechten: Verordening (EU) nr. 1031/2010 van de Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU 2010, L302);
+
+Verordening koolstofcorrectie aan de grens: Verordening (EU) 2023/956 van het Europees Parlement en de Raad van 10 mei 2023 tot instelling van een mechanisme voor koolstofgrenscorrectie (PbEU 2023, L130);
+
+Verordening kosteloze toewijzing van emissierechten: Gedelegeerde verordening (EU) nr. 2019/331 van de Commissie van 19 december 2018 tot vaststelling van een voor de hele Unie geldende overgangsregeling voor de geharmoniseerde kosteloze toewijzing van emissierechten overeenkomstig artikel 10bis van Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2019, L59);
+
+Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer: Verordening (EU) nr. 2015/757 van het Europees Parlement en de Raad van 29 april 2015 betreffende de monitoring, de rapportage en de verificatie van broeikasgasemissies door maritiem vervoer en tot wijziging van Richtlijn 2009/16/EG (PbEU 2015, L123);
+
+Verordening monitoring, rapportage en verificatie van wereldwijde luchtvaartemissies: Gedelegeerde verordening (EU) 2019/1603 van de Commissie van 18 juli 2019 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad wat betreft de door de Internationale Burgerluchtvaartorganisatie aangenomen maatregelen voor de monitoring, rapportage en verificatie van luchtvaartemissies ter uitvoering van een wereldwijde marktgebaseerde maatregel (PbEU 2019, L 250);
+
+Verordening monitoring en rapportage emissiehandel: Uitvoeringsverordening (EU) nr. 2018/2066 van de Commissie van 19 december 2018 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad en tot wijziging van Verordening (EU) nr. 601/2012 van de Commissie (PbEU 2018, L334);
+
+Verordening verificatie en accreditatie emissiehandel: Uitvoeringsverordening (EU) nr. 2018/2067 van de Commissie van 19 december 2018 inzake de verificatie van gegevens en de accreditatie van verificateurs krachtens Richtlijn 2003/87/EG van het Europees Parlement en de Raad (PbEU 2018, L334);
+
+verwerking: nuttige toepassing of verwijdering, met inbegrip van aan toepassing of verwijdering voorafgaande voorbereidende handelingen;
+
+verwijdering: elke handeling met afvalstoffen die geen nuttige toepassing is zelfs indien de handeling er in tweede instantie toe leidt dat stoffen of energie worden teruggewonnen, tot welke handelingen in ieder geval behoren de handelingen die zijn genoemd in bijlage I bij de kaderrichtlijn afvalstoffen;
+
+vliegtuigexploitant: vliegtuigexploitant als bedoeld in artikel 3, onder o, van de EG-richtlijn handel in broeikasgasemissierechten;
+
+voorbereiding voor hergebruik: nuttige toepassing bestaande uit controleren, schoonmaken of repareren, waarbij producten of componenten van producten, die afvalstoffen zijn geworden, worden klaargemaakt zodat ze zullen worden hergebruikt zonder dat verdere voorbehandeling nodig is;
+
+vuurwerk van de categorieën F2 en F3: vuurwerk van de categorieën F2 en F3 als bedoeld in artikel 6, eerste lid, onder a, van de EU-richtlijn pyrotechnische artikelen;
+
+winningsafvalstoffen: afvalstoffen die rechtstreeks afkomstig zijn uit de prospectie, winning, behandeling en opslag van mineralen en de exploitatie van groeven, met uitzondering van afvalstoffen afkomstig van offshore-prospectie, -winning en -behandeling;
+
+winningsafvalvoorziening: afvalvoorziening als bedoeld in artikel 3, onder 15, van de richtlijn beheer winningsafval;
+
+winningsafvalvoorziening categorie A: winningsafvalvoorziening die door het bevoegd gezag is ingedeeld in categorie A, in overeenstemming met de criteria gesteld in bijlage III bij de richtlijn beheer winningsafval en de criteria, bedoeld in de artikelen 1 tot en met 9 van beschikking nr. 2009/337/EG van de Commissie van de Europese Gemeenschappen van 20 april 2009 tot vaststelling van de criteria voor de indeling van afvalvoorzieningen in overeenstemming met bijlage III bij Richtlijn 2006/21/EG van het Europees Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEU 2009, L 102).
+
+2\. In deze wet en de daarop berustende bepalingen:
+
+- a. worden onder gevolgen voor het milieu in ieder geval verstaan gevolgen voor het fysieke milieu, gezien vanuit het belang van de bescherming van mensen, dieren, planten en goederen, van water, bodem en lucht en van landschappelijke, natuurwetenschappelijke en cultuurhistorische waarden en van de beheersing van het klimaat, alsmede van de relaties daartussen;
+- b. worden onder gevolgen voor het milieu mede verstaan gevolgen die verband houden met een doelmatig beheer van afvalstoffen of een doelmatig beheer van afvalwater, gevolgen die verband houden met het verbruik van energie en grondstoffen;
+- c. worden onder bescherming van het milieu mede verstaan de verbetering van het milieu, de zorg voor een doelmatig beheer van afvalstoffen of een doelmatig beheer van afvalwater, de zorg voor een zuinig gebruik van energie en grondstoffen.
+
+3\. In deze wet en de daarop berustende bepalingen wordt:
+
+- a. onder het zich ontdoen van afvalstoffen mede verstaan het nuttig toepassen of verwijderen van afvalstoffen op de locatie waar deze zijn ontstaan;
+- b. onder het zich door afgifte ontdoen van afvalstoffen mede verstaan:
+  - 1°. het voor nuttige toepassing of verwijdering brengen van afvalstoffen van een locatie naar een elders gelegen locatie die aan dezelfde natuurlijke of rechtspersoon behoort;
+  - 2°. het tijdelijk voor nuttige toepassing afgeven van afvalstoffen;
+  - 3°. het voor verwerking afgeven van afvalstoffen aan een afvalstoffenhandelaar.
+
+4\. Stoffen, mengsels of voorwerpen die het resultaat zijn van een productieproces dat niet in de eerste plaats is bedoeld voor de productie van die stoffen, mengsels of voorwerpen worden niet als afvalstoffen maar als bijproducten beschouwd indien wordt voldaan aan de volgende voorwaarden:
+
+- a. het is zeker dat de stoffen, mengsels of voorwerpen zullen worden gebruikt;
+- b. de stoffen, mengsels of voorwerpen kunnen onmiddellijk worden gebruikt zonder enige verdere behandeling anders dan die welke bij normale productie gangbaar is;
+- c. de stoffen, mengsels of voorwerpen worden geproduceerd als een integraal onderdeel van een productieproces; en
+- d. verder gebruik is rechtmatig, inhoudende dat de stoffen, mengsels of voorwerpen voldoen aan alle voorschriften inzake producten, milieu en gezondheidsbescherming voor het specifieke gebruik en dat gebruik niet zal leiden tot over het geheel genomen ongunstige effecten voor het milieu of de menselijke gezondheid.
+
+5\. Bij ministeriële regeling kan Onze Minister bepalen dat een specifieke soort stoffen, mengsels of voorwerpen niet als afvalstoffen maar als bijproducten worden beschouwd, indien wordt voldaan aan criteria voor de toepassing van de voorwaarden, bedoeld in het vierde lid, op die soort stoffen, mengsels of voorwerpen, voor zover voor die soort stoffen, mengsels of voorwerpen geen criteria zijn vastgesteld krachtens artikel 5, tweede lid, van de kaderrichtlijn afvalstoffen.
+
+6\. Afvalstoffen die een behandeling van recycling of andere nuttige toepassing hebben ondergaan, worden niet langer als afvalstoffen beschouwd, indien zij voldoen aan de volgende voorwaarden:
+
+- a. de stoffen, mengsels of voorwerpen zijn bestemd om te worden gebruikt voor specifieke doelen;
+- b. er is een markt voor of vraag naar de stoffen, mengsels of voorwerpen;
+- c. de stoffen, mengsels of voorwerpen voldoen aan de technische voorschriften voor de specifieke doelen en aan de voor producten geldende wetgeving en normen; en
+- d. het gebruik van de stoffen, mengsels of voorwerpen heeft over het geheel genomen geen ongunstige effecten voor het milieu of de menselijke gezondheid.
+
+7\. Bij ministeriële regeling kan Onze Minister, in overeenstemming met de in artikel 6, tweede lid, van de kaderrichtlijn afvalstoffen opgenomen vereisten, bepalen dat een specifieke soort afvalstoffen die een behandeling van recycling of andere nuttige toepassing heeft ondergaan niet langer als afvalstoffen worden beschouwd, indien wordt voldaan aan criteria voor de toepassing van de voorwaarden, bedoeld in het zesde lid, op die soort afvalstoffen, voor zover voor die soort afvalstoffen geen criteria zijn vastgesteld krachtens artikel 6, tweede lid, van de kaderrichtlijn afvalstoffen. Bij het vaststellen van de criteria wordt rekening gehouden met eventuele nadelige effecten voor het milieu en de menselijke gezondheid van de stoffen, mengsels of voorwerpen die het resultaat zijn van de handeling van recycling of andere nuttige toepassing.
+
+8\. Bij ministeriële regeling wordt aangegeven welke stoffen, mengsels of voorwerpen in ieder geval, onverminderd het bepaalde in het zesde en zevende lid, worden aangemerkt als afvalstoffen, indien de houder zich daarvan ontdoet, voornemens is zich daarvan te ontdoen of zich daarvan moet ontdoen.
+
+9\. Een afvalstof wordt in ieder geval aangemerkt als huishoudelijke afvalstof onderscheidenlijk bedrijfsafvalstof, indien die afvalstof bij algemene maatregel van bestuur als zodanig is aangewezen.
+
+10\. Onze Minister kan, indien naar zijn oordeel in het belang van een doelmatig beheer van afvalstoffen een onverwijlde voorziening noodzakelijk is, een regeling vaststellen van de in het negende lid bedoelde strekking. Een zodanige regeling vervalt een jaar nadat zij in werking is getreden of, indien binnen die termijn een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het tijdstip waarop die maatregel in werking treedt. Onze Minister kan de termijn bij ministeriële regeling eenmaal met ten hoogste een jaar verlengen.
+
+11\. Onze Minister kan nadere regels stellen omtrent de aanwijzing van gevaarlijke afvalstoffen, bedoeld in het eerste lid. Tevens kan Onze Minister of een door hem aan te wijzen instantie vaststellen dat een afvalstof, zoals die door de houder ter beoordeling wordt aangeboden:
+
+- a. niet de eigenschappen bezit op grond waarvan deze ingevolge bijlage III bij de kaderrichtlijn afvalstoffen als gevaarlijke afvalstof dient te worden aangemerkt, uitgezonderd de gevallen waarin dat het gevolg is van verdunning of vermenging, bedoeld om de concentratie van gevaarlijke stoffen onder de drempelwaarde voor gevaarlijke stoffen te brengen;
+- b. hoewel deze niet als gevaarlijke afvalstof is aangewezen, toch de eigenschappen bezit op grond waarvan deze ingevolge de in onderdeel a genoemde bijlage als gevaarlijke afvalstof dient te worden aangemerkt.
+
+12\. Bij algemene maatregel van bestuur wordt bepaald wat in deze wet en de daarop berustende bepalingen wordt verstaan onder «genetisch gemodificeerde organismen».
+
+13\. Een wijziging van de bijlagen gaat voor de toepassing van de in het eerste lid gegeven omschrijvingen van «nuttige toepassing» en «verwijdering» en voor de toepassing van het elfde lid gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+14\. Door vernummering vervallen.
+
+15\. Door vernummering vervallen.
+
+16\. Een wijziging uit hoofde van artikel 20, eerste lid, van de kaderrichtlijn water gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant of op andere geschikte wijze wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+17\. Onze Minister kan entiteiten aanwijzen als bedoeld in artikel 2, onderdeel 38, van richtlijn (EU) 2018/2001 van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen (PbEU 2018, L 328).
+
+### Artikel 1.1a
+
+Vervallen
+
+### § 1.1 — Algemeen
+
+### § 1.2 — De provinciale milieuverordening
+
+#### Artikel 1.2
+
+Vervallen
+
+#### Artikel 1.2a
+
+Vervallen
+
+#### Artikel 1.3
+
+Vervallen
+
+#### Artikel 1.3a
+
+Vervallen
+
+#### Artikel 1.3b
+
+Vervallen
+
+#### Artikel 1.3c
+
+Vervallen
+
+#### Artikel 1.4
+
+Vervallen
+
+## Hoofdstuk 2 — Zelfstandige bestuursorganen, bevoegde autoriteiten en adviesorganen
+
+### § 2.1 — De Nederlandse emissieautoriteit
+
+#### Artikel 2.1
+
+Er is een Nederlandse emissieautoriteit, gevestigd te 's-Gravenhage.
+
+#### Artikel 2.2
+
+1\. De emissieautoriteit heeft de in de Verordening monitoring en rapportage emissiehandel, de Verordening verificatie en accreditatie emissiehandel, de Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer, met uitzondering van artikel 20, derde, vierde en vijfde lid, van die verordening, en de in de hoofdstukken 16, 16a, 16b, 16c en 18 en de titels 9.7 en 9.8 opgedragen taken. De emissieautoriteit is voorts de bevoegde autoriteit, bedoeld in artikel 3, onderdeel 13, van de Verordening koolstofcorrectie aan de grens. De emissieautoriteit is daarnaast de bevoegde autoriteit als bedoeld in de artikelen 14, vierde lid, 17, eerste tot en met vijfde en zevende lid, 20, vierde lid, 22, tweede en vijfde lid, 23, tweede, derde, vijfde en zevende lid, en 26, eerste en tweede lid, van Verordening (EU) 2023/1805 en als bedoeld in de artikelen 8, eerste lid en 11, eerste lid, van Verordening (EU) 2023/2405 ten aanzien van luchtvaartuigexploitanten en luchtvaartbrandstofleveranciers.
+
+2\. De emissieautoriteit heeft voorts tot taak:
+
+- a. het bijhouden van gegevens en het opstellen van rapportages met betrekking tot de naleving door Nederland van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, dat de beperking van de emissies van broeikasgassen tot doel heeft;
+- b. het verzamelen van gegevens over technieken ter bepaling van de emissies van broeikasgassen waarop, titel 16.2 en hoofdstuk 16a en hoofdstuk 16b van toepassing is;
+- c. het verzamelen van andere gegevens die met het oog op de uitoefening van haar taken van belang zijn;
+- d. het rapporteren aan Onze Minister van Economische Zaken en Klimaat en aan andere bij algemene maatregel van bestuur aangewezen instanties over de ontwikkeling van de onder a bedoelde emissies in Nederland alsmede over de overige aspecten van duurzaamheid van in Nederland te gebruiken brandstoffen en elektriciteit ten behoeve van vervoer;
+- e. de uitvoering van gedelegeerde handelingen en uitvoeringshandelingen die de Europese Commissie op grond van artikel 10bis, eerste en eenentwintigste lid, onderscheidenlijk artikel 28 quater van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld.
+
+3\. Bij algemene maatregel van bestuur kan de emissieautoriteit, voorzover die taken niet de uitoefening van openbaar gezag inhouden, worden belast met andere taken dan in het eerste of tweede lid bedoeld, in het bijzonder taken betreffende de uitvoering door Nederland van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, dat de beperking van de emissies van broeikasgassen tot doel heeft.
+
+4\. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van de inhoud van de taken van de emissieautoriteit nadere regels worden gesteld.
+
+5\. Bij algemene maatregel van bestuur kunnen, voor zover dat noodzakelijk is voor een effectieve en efficiënte uitvoering van de Verordening koolstofcorrectie aan de grens en in afwijking in zoverre van het bepaalde in het eerste lid, de taken en bevoegdheden van de bevoegde autoriteit die voortvloeien uit artikel 17 van die verordening worden toegewezen aan een andere uitvoeringsorganisatie van het Rijk.
+
+#### Artikel 2.3
+
+1\. Het bestuur van de emissieautoriteit bestaat uit ten hoogste vijf leden.
+
+2\. Onze Minister van Economische Zaken en Klimaat benoemt uit de leden een voorzitter en een plaatsvervangend voorzitter.
+
+3\. De leden worden benoemd voor een periode van vier jaren. Zij zijn aansluitend twee malen herbenoembaar.
+
+#### Artikel 2.4
+
+Vervallen
+
+#### Artikel 2.5
+
+Leden van het bestuur van de emissieautoriteit en medewerkers van de emissieautoriteit zijn direct noch indirect betrokken bij het overdragen van broeikasgasemissierechten, emissiereductie-eenheden, gecertificeerde emissiereducties, toegewezen eenheden en verwijderingseenheden, behoudens voor zover die betrokkenheid noodzakelijk is ter uitvoering van het bepaalde bij of krachtens deze wet.
+
+#### Artikel 2.6
+
+Vervallen
+
+#### Artikel 2.7
+
+1\. Onze Minister van Economische Zaken en Klimaat stelt aan het bestuur van de emissieautoriteit ambtenaren ter beschikking.
+
+2\. Het bestuur van de emissieautoriteit draagt er zorg voor dat de werkzaamheden die voortvloeien uit artikel 18.2f, gescheiden worden uitgevoerd van de overige werkzaamheden.
+
+#### Artikel 2.8
+
+De emissieautoriteit stelt een bestuursreglement vast waarin haar werkwijze wordt vastgelegd.
+
+#### Artikel 2.9
+
+In afwijking van artikel 18, eerste lid, eerste volzin, van de Kaderwet zelfstandige bestuursorganen stelt het bestuur van de emissieautoriteit jaarlijks voor 1 juli een jaarverslag op.
+
+#### Artikel 2.10
+
+Vervallen
+
+#### Artikel 2.11
+
+Vervallen
+
+#### Artikel 2.12
+
+Vervallen
+
+#### Artikel 2.13
+
+Vervallen
+
+#### Artikel 2.14
+
+Vervallen
+
+#### Artikel 2.15
+
+Vervallen
+
+#### Artikel 2.16
+
+1\. Onverminderd artikel 16.8 verstrekken het bestuur van de emissieautoriteit en het bestuursorgaan dat bevoegd is een omgevingsvergunning te verlenen voor een milieubelastende activiteit met betrekking tot een broeikasgasinstallatie als bedoeld in artikel 16.1, tweede lid, elkaar op verzoek of uit eigen beweging tijdig alle redelijkerwijs benodigde gegevens voor de uitoefening van de taken, waarmee zij zijn belast bij of krachtens de hoofdstukken 16 en 18 van deze wet, onderscheidenlijk de afdelingen 4.1, 5.1, 16.1, 16.2, 16.3, 16.5 en 16.8 en hoofdstuk 18 van de Omgevingswet.
+
+2\. Bij het verstrekken van de in het eerste lid bedoelde gegevens wordt waar nodig aangegeven welke gegevens een vertrouwelijk karakter dragen. Dit vertrouwelijk karakter kan voortvloeien uit de aard van de gegevens, dan wel uit het feit dat personen deze aan de bestuursorganen, bedoeld in het eerste lid, hebben verstrekt onder het beding dat zij als vertrouwelijk zullen gelden.
+
+#### Artikel 2.16a
+
+Onverminderd artikel 16.8 stemmen het bestuur van de emissieautoriteit en het bestuursorgaan dat bevoegd is een omgevingsvergunning te verlenen voor een milieubelastende activiteit met betrekking tot een broeikasgasinstallatie als bedoeld in artikel 16.1, tweede lid, onderling de uitoefening van de taken af, waarmee zij zijn belast bij of krachtens de hoofdstukken 16 en 18 van deze wet, onderscheidenlijk de afdelingen 4.1, 5.1, 16.1, 16.2, 16.3, 16.5 en 16.8 en hoofdstuk 18 van de Omgevingswet.
+
+#### Artikel 2.16b
+
+Vervallen
+
+#### Artikel 2.16c
+
+Vervallen
+
+### § 2.2 — De Commissie voor de milieueffectrapportage
+
+#### Artikel 2.17
+
+Vervallen
+
+#### Artikel 2.18
+
+Vervallen
+
+#### Artikel 2.19
+
+Vervallen
+
+#### Artikel 2.20
+
+Vervallen
+
+#### Artikel 2.21
+
+Vervallen
+
+#### Artikel 2.22
+
+Vervallen
+
+#### Artikel 2.23
+
+Vervallen
+
+#### Artikel 2.23a
+
+Vervallen
+
+#### Artikel 2.24
+
+Vervallen
+
+### § 2.3 — De Commissie genetische modificatie
+
+#### Artikel 2.25
+
+Vervallen
+
+#### Artikel 2.26
+
+Er is een Commissie genetische modificatie.
+
+#### Artikel 2.27
+
+1\. De commissie heeft tot taak:
+
+- a. Onze Minister te adviseren over kennisgevingen en aanvragen om vergunning met betrekking tot het vervaardigen van of handelen met genetisch gemodificeerde organismen en over veiligheidsmaatregelen die in het kader daarvan moeten worden getroffen ter bescherming van mens en milieu;
+- b. het bestuursorgaan dat belast is met het toezicht op het vervaardigen van of handelen met genetisch gemodificeerde organismen, te adviseren met betrekking tot dat toezicht.
+
+2\. Op verzoek van Onze Minister of Onze Minister wie het aangaat, of uit eigen beweging informeert de commissie Onze betrokken Minister indien aan het vervaardigen van of aan handelingen met genetisch gemodificeerde organismen ethische of maatschappelijke aspecten zijn verbonden die naar het oordeel van de commissie van belang zijn.
+
+#### Artikel 2.28
+
+Onze Minister en Onze Ministers wie het mede aangaat, dragen er zorg voor dat de commissie op de hoogte wordt gehouden ten aanzien van het beleid op het terrein van het vervaardigen van of van handelingen met genetisch gemodificeerde organismen.
+
+#### Artikel 2.29
+
+Telkens binnen een termijn van vier jaren brengt de commissie een rapport uit aan Onze Minister, waarin ten minste de taak, de samenstelling, de inrichting en werkwijze van de commissie aan een onderzoek worden onderworpen en voorstellen kunnen worden gedaan voor gewenste veranderingen. Onze Minister zendt dit rapport, voorzien van zijn standpunt, aan de beide kamers der Staten-Generaal.
+
+#### Artikel 2.30
+
+1\. De commissie bestaat uit een voorzitter en ten minste vijftien en ten hoogste twintig andere leden.
+
+2\. De voorzitter en de andere leden van de commissie worden benoemd op grond van hun deskundigheid op het gebied van het vervaardigen van of van handelingen met genetisch gemodificeerde organismen en de mogelijke gevolgen daarvan voor mens en milieu, daarbij inbegrepen de ecologische gevolgen en de daarbij te nemen veiligheidsmaatregelen.
+
+#### Artikel 2.31
+
+1\. De voorzitter van de commissie wordt door Onze Minister benoemd. Onze Minister hoort de commissie alvorens hij de voorzitter benoemt.
+
+2\. Onze Minister benoemt de leden van de commissie.
+
+3\. De voorzitter en de leden worden voor de tijd van vier jaren benoemd. Zij zijn terstond weer benoembaar.
+
+4\. De voorzitter en de leden kunnen te allen tijde hun functie neerleggen door een schriftelijke kennisgeving aan Onze Minister.
+
+5\. Onze Minister kan in bijzondere gevallen de voorzitter en de andere leden in hun functie schorsen en uit hun functie ontslaan.
+
+#### Artikel 2.32
+
+1\. De commissie wijst uit haar midden een plaatsvervangend voorzitter aan.
+
+2\. De plaatsvervangend voorzitter kan te allen tijde zijn functie neerleggen door een schriftelijke kennisgeving aan de voorzitter.
+
+3\. In bijzondere gevallen kan de commissie de plaatsvervangend voorzitter in zijn functie schorsen en uit zijn functie ontslaan.
+
+#### Artikel 2.33
+
+1\. De commissie wordt bijgestaan door een secretaris. Aan de secretaris kan een adjunct-secretaris worden toegevoegd.
+
+2\. De secretaris en de adjunct-secretaris worden door Onze Minister benoemd, in hun functie geschorst en uit hun functie ontslagen, de commissie gehoord.
+
+3\. De secretaris is geen lid van de commissie.
+
+4\. De secretaris is voor de uitoefening van zijn taak uitsluitend verantwoording schuldig aan de commissie.
+
+5\. Onze Minister kan voorzien in een bureau voor de commissie, dat onder leiding staat van de secretaris.
+
+#### Artikel 2.34
+
+1\. De commissie kan voor bepaalde onderwerpen subcommissies instellen.
+
+2\. De voorzitter van een subcommissie wordt door de commissie uit haar midden benoemd.
+
+#### Artikel 2.35
+
+1\. De commissie en haar subcommissies kunnen zich bij hun werkzaamheden doen bijstaan door personen die geen lid zijn van de commissie.
+
+2\. Onze Minister en Onze Ministers van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, Welzijn en Sport en van Landbouw, Natuur en Voedselkwaliteit kunnen, ieder voor hun ministerie, ambtenaren aanwijzen, die bevoegd zijn tot het bijwonen van de door de commissie en haar subcommissies te houden vergaderingen, met dien verstande dat in de vergaderingen van de commissie voor ieder van die ministeries ten hoogste één ambtenaar aanwezig is.
+
+#### Artikel 2.36
+
+1\. De vergaderingen van de commissie zijn openbaar. De commissie stelt bij haar in artikel 2.40 bedoelde besluit regels betreffende de openbaarheid van de vergaderingen van de subcommissies.
+
+2\. Een vergadering of een gedeelte daarvan is niet openbaar in gevallen als bedoeld in artikel 5.1, eerste lid, van de Wet open overheid en in gevallen waarin het belang van openbaarheid niet opweegt tegen de in artikel 5.1, tweede lid, van die wet genoemde belangen.
+
+#### Artikel 2.37
+
+1\. De adviezen van de commissie worden uitgebracht overeenkomstig het gevoelen van de meerderheid van de vergadering.
+
+2\. Ter vergadering ingebrachte minderheidsstandpunten worden in of bij de adviezen vermeld.
+
+#### Artikel 2.38
+
+De commissie houdt de op de door haar uitgebrachte adviezen betrekking hebbende voorbereidende stukken ter beschikking van Onze Minister en van de bestuursorganen, bedoeld in artikel 2.27, eerste lid, onder b.
+
+#### Artikel 2.39
+
+1\. De voorzitter van de commissie pleegt ten minste eenmaal per jaar overleg met Onze Minister over de door de commissie voorgenomen werkzaamheden voor de komende twaalf maanden. De commissie stelt vervolgens het programma van haar werkzaamheden vast en zendt dit aan Onze Minister.
+
+2\. Ten behoeve van de voorbereiding van het in het eerste lid bedoelde overleg stelt de commissie een overzicht van de door haar voorgenomen werkzaamheden op en legt dit tijdig aan Onze Minister voor. De commissie voegt bij het overzicht een raming van de met de uitvoering van de werkzaamheden gepaard gaande kosten.
+
+3\. De commissie oefent haar werkzaamheden uit binnen het raam van de middelen welke haar jaarlijks ingevolge de begrotingswet ter beschikking worden gesteld.
+
+#### Artikel 2.40
+
+De commissie stelt nadere regels betreffende haar werkwijze en de werkwijze van haar subcommissies en zendt deze aan Onze Minister.
+
+### § 2.4 — De provinciale milieucommissie
+
+#### Artikel 2.41
+
+Vervallen
+
+### § 2.5 — EU-milieukeur
+
+#### Artikel 2.51
+
+1\. Onze Minister wijst een instantie aan als bedoeld in artikel 4, eerste lid, van de EG-verordening EU-milieukeur.
+
+2\. Aan de aanwijzing kunnen voorschriften worden verbonden.
+
+#### Artikel 2.52
+
+1\. Onze Minister kan subsidie verstrekken aan de instantie voor de taken die voortvloeien uit de EG-verordening EU-milieukeur.
+
+2\. Op deze subsidieverstrekking is afdeling 4.2.8 van de Algemene wet bestuursrecht van toepassing.
+
+#### Artikel 2.53
+
+De instantie, bedoeld in artikel 2.51, eerste lid, voert haar taken uit overeenkomstig het door haar vastgestelde reglement.
+
+#### Artikel 2.54
+
+1\. Het is verboden in strijd te handelen met de volgende bepalingen van EG-verordening EU-milieukeur: de artikelen 9, tweede, zesde, negende en dertiende lid, en 10, eerste lid.
+
+2\. Het is verboden in strijd te handelen met de volgende bepaling van de EU-verordening markttoezicht: artikel 7.
+
+## Hoofdstuk 3 — Internationale zaken
+
+### Artikel 3.1
+
+Vervallen
+
+## Hoofdstuk 4 — Plannen
+
+### § 4.1 — Algemeen
+
+#### Artikel 4.1
+
+Vervallen
+
+#### Artikel 4.1a
+
+Vervallen
+
+#### Artikel 4.1b
+
+Vervallen
+
+#### Artikel 4.2
+
+Vervallen
+
+#### Artikel 4.2a
+
+Vervallen
+
+#### Artikel 4.2b
+
+Vervallen
+
+### § 4.2 — Het nationale milieubeleidsplan
+
+#### Artikel 4.3
+
+Vervallen
+
+#### Artikel 4.4
+
+Vervallen
+
+#### Artikel 4.5
+
+Vervallen
+
+#### Artikel 4.6
+
+Vervallen
+
+### § 4.3 — Het nationale milieuprogramma
+
+#### Artikel 4.7
+
+Vervallen
+
+#### Artikel 4.8
+
+Vervallen
+
+### § 4.4 — Het provinciale milieubeleidsplan
+
+#### Artikel 4.9
+
+Vervallen
+
+#### Artikel 4.10
+
+Vervallen
+
+#### Artikel 4.11
+
+Vervallen
+
+#### Artikel 4.12
+
+Vervallen
+
+#### Artikel 4.13
+
+Vervallen
+
+### § 4.5 — Het provinciale milieuprogramma
+
+#### Artikel 4.14
+
+Vervallen
+
+#### Artikel 4.15
+
+Vervallen
+
+### § 4.5a — Het regionale milieubeleidsplan
+
+#### Artikel 4.15a
+
+Vervallen
+
+### § 4.5b — Het regionale milieuprogramma
+
+#### Artikel 4.15b
+
+Vervallen
+
+### § 4.6 — Het gemeentelijke milieubeleidsplan
+
+#### Artikel 4.16
+
+Vervallen
+
+#### Artikel 4.17
+
+Vervallen
+
+#### Artikel 4.18
+
+Vervallen
+
+#### Artikel 4.19
+
+Vervallen
+
+### § 4.7 — Het gemeentelijke milieuprogramma
+
+#### Artikel 4.20
+
+Vervallen
+
+#### Artikel 4.21
+
+Vervallen
+
+### § 4.8 — Het gemeentelijke rioleringsplan
+
+#### Artikel 4.22
+
+Vervallen
+
+#### Artikel 4.23
+
+Vervallen
+
+#### Artikel 4.24
+
+Vervallen
+
+## Hoofdstuk 5 — Milieukwaliteitseisen
+
+### Titel 5.1 — Algemene bepalingen ten aanzien van milieukwaliteitseisen
+
+#### Artikel 5.1
+
+Vervallen
+
+#### Artikel 5.2
+
+Vervallen
+
+#### Artikel 5.2a
+
+Vervallen
+
+#### Artikel 5.2b
+
+Vervallen
+
+#### Artikel 5.3
+
+Vervallen
+
+#### Artikel 5.4
+
+Vervallen
+
+#### Artikel 5.5
+
+Vervallen
+
+### Titel 5.2 — Luchtkwaliteitseisen
+
+#### § 5.2.1 — Algemene bepalingen
+
+##### Artikel 5.6
+
+Vervallen
+
+##### Artikel 5.7
+
+Vervallen
+
+##### Artikel 5.8
+
+Vervallen
+
+#### § 5.2.2 — Plannen
+
+##### Artikel 5.9
+
+Vervallen
+
+##### Artikel 5.10
+
+Vervallen
+
+##### Artikel 5.11
+
+Vervallen
+
+#### § 5.2.3 — Nationaal programma en overige programma's
+
+##### Artikel 5.12
+
+Vervallen
+
+##### Artikel 5.12a
+
+Vervallen
+
+##### Artikel 5.12b
+
+Vervallen
+
+##### Artikel 5.13
+
+Vervallen
+
+##### Artikel 5.14
+
+Vervallen
+
+##### Artikel 5.15
+
+Vervallen
+
+#### § 5.2.4 — Uitoefening van bevoegdheden of toepassing van wettelijke voorschriften
+
+##### Artikel 5.16
+
+Vervallen
+
+##### Artikel 5.16a
+
+Vervallen
+
+##### Artikel 5.17
+
+Vervallen
+
+##### Artikel 5.18
+
+Vervallen
+
+#### § 5.2.5 — Beoordeling van de luchtkwaliteit
+
+##### Artikel 5.19
+
+Vervallen
+
+##### Artikel 5.20
+
+Vervallen
+
+##### Artikel 5.21
+
+Vervallen
+
+##### Artikel 5.22
+
+Vervallen
+
+#### § 5.2.6 — Handhaving en internationale samenwerking
+
+##### Artikel 5.23
+
+Vervallen
+
+##### Artikel 5.24
+
+Vervallen
+
+## Hoofdstuk 6 — Milieuzonering
+
+### Artikel 6.1
+
+Vervallen
+
+## Hoofdstuk 7 — Milieueffectrapportage
+
+### § 7.1 — Algemeen
+
+#### Artikel 7.1
+
+Vervallen
+
+#### Artikel 7.1a
+
+Vervallen
+
+### § 7.2 — Plannen en besluiten ten aanzien waarvan het maken van een milieueffectrapport verplicht is
+
+#### Artikel 7.2
+
+Vervallen
+
+#### Artikel 7.2a
+
+Vervallen
+
+#### Artikel 7.3
+
+Vervallen
+
+#### Artikel 7.4
+
+Vervallen
+
+#### Artikel 7.5
+
+Vervallen
+
+#### Artikel 7.6
+
+Vervallen
+
+### § 7.3 — Het milieueffectrapport dat betrekking heeft op een plan
+
+#### Artikel 7.7
+
+Vervallen
+
+### § 7.4 — De voorbereiding van een milieueffectrapport dat betrekking heeft op een plan
+
+#### Artikel 7.8
+
+Vervallen
+
+#### Artikel 7.9
+
+Vervallen
+
+#### Artikel 7.10
+
+Vervallen
+
+### § 7.5 — Het plan
+
+#### Artikel 7.11
+
+Vervallen
+
+#### Artikel 7.12
+
+Vervallen
+
+#### Artikel 7.13
+
+Vervallen
+
+#### Artikel 7.14
+
+Vervallen
+
+#### Artikel 7.15
+
+Vervallen
+
+### § 7.6 — Besluiten ten aanzien waarvan moet worden beoordeeld of een milieueffectrapport moet worden gemaakt
+
+#### Artikel 7.16
+
+Vervallen
+
+#### Artikel 7.17
+
+Vervallen
+
+#### Artikel 7.18
+
+Vervallen
+
+#### Artikel 7.19
+
+Vervallen
+
+#### Artikel 7.20
+
+Vervallen
+
+#### Artikel 7.20a
+
+Vervallen
+
+### § 7.7 — Het milieueffectrapport dat betrekking heeft op een besluit
+
+#### Artikel 7.21
+
+Vervallen
+
+#### Artikel 7.22
+
+Vervallen
+
+#### Artikel 7.23
+
+Vervallen
+
+### § 7.8 — De beperkte voorbereiding inzake het milieueffectrapport dat betrekking heeft op een besluit
+
+#### Artikel 7.24
+
+Vervallen
+
+#### Artikel 7.25
+
+Vervallen
+
+#### Artikel 7.26
+
+Vervallen
+
+#### Artikel 7.26a
+
+Vervallen
+
+### § 7.9 — De uitgebreide voorbereiding inzake het milieueffectrapport dat betrekking heeft op een besluit
+
+#### Artikel 7.27
+
+Vervallen
+
+### § 7.10 — Het besluit
+
+#### Artikel 7.28
+
+Vervallen
+
+#### Artikel 7.28a
+
+Vervallen
+
+#### Artikel 7.29
+
+Vervallen
+
+#### Artikel 7.30
+
+Vervallen
+
+#### Artikel 7.31
+
+Vervallen
+
+#### Artikel 7.32
+
+Vervallen
+
+#### Artikel 7.33
+
+Vervallen
+
+#### Artikel 7.34
+
+Vervallen
+
+#### Artikel 7.35
+
+Vervallen
+
+#### Artikel 7.36
+
+Vervallen
+
+#### Artikel 7.36a
+
+Vervallen
+
+#### Artikel 7.37
+
+Vervallen
+
+#### Artikel 7.38
+
+Vervallen
+
+### § 7.11 — Activiteiten met mogelijke grensoverschrijdende milieugevolgen
+
+#### Artikel 7.38a
+
+Vervallen
+
+#### Artikel 7.38b
+
+Vervallen
+
+#### Artikel 7.38c
+
+Vervallen
+
+#### Artikel 7.38d
+
+Vervallen
+
+#### Artikel 7.38e
+
+Vervallen
+
+#### Artikel 7.38f
+
+Vervallen
+
+#### Artikel 7.38g
+
+Vervallen
+
+### § 7.12 — Evaluatie
+
+#### Artikel 7.39
+
+Vervallen
+
+#### Artikel 7.40
+
+Vervallen
+
+#### Artikel 7.41
+
+Vervallen
+
+#### Artikel 7.42
+
+Vervallen
+
+#### Artikel 7.43
+
+Vervallen
+
+## Hoofdstuk 8 — Milieubelastende activiteiten, gesloten stortplaatsen en gesloten afvalvoorzieningen
+
+### Paragraaf 8.1
+
+#### Artikel 8.1
+
+Vervallen
+
+#### Artikel 8.2
+
+Vervallen
+
+#### Artikel 8.2a
+
+Vervallen
+
+#### Artikel 8.2b
+
+Vervallen
+
+#### Artikel 8.3
+
+Vervallen
+
+#### Artikel 8.4
+
+Vervallen
+
+#### Artikel 8.5
+
+Vervallen
+
+#### Artikel 8.6
+
+Vervallen
+
+#### Artikel 8.7
+
+Vervallen
+
+#### Artikel 8.8
+
+Vervallen
+
+#### Artikel 8.9
+
+Vervallen
+
+#### Artikel 8.10
+
+Vervallen
+
+#### Artikel 8.11
+
+Vervallen
+
+#### Artikel 8.12
+
+Vervallen
+
+#### Artikel 8.12a
+
+Vervallen
+
+#### Artikel 8.12b
+
+Vervallen
+
+#### Artikel 8.13
+
+Vervallen
+
+#### Artikel 8.13a
+
+Vervallen
+
+#### Artikel 8.14
+
+Vervallen
+
+#### Artikel 8.15
+
+Vervallen
+
+#### Artikel 8.16
+
+Vervallen
+
+#### Artikel 8.17
+
+Vervallen
+
+#### Artikel 8.18
+
+Vervallen
+
+#### Artikel 8.19
+
+Vervallen
+
+#### Artikel 8.20
+
+Vervallen
+
+#### Artikel 8.21
+
+Vervallen
+
+#### Artikel 8.22
+
+Vervallen
+
+#### Artikel 8.23
+
+Vervallen
+
+#### Artikel 8.24
+
+Vervallen
+
+#### Artikel 8.25
+
+Vervallen
+
+#### Artikel 8.26
+
+Vervallen
+
+#### Artikel 8.26a
+
+Vervallen
+
+#### Artikel 8.27
+
+Vervallen
+
+#### Artikel 8.28
+
+Vervallen
+
+#### Artikel 8.29
+
+Vervallen
+
+#### Artikel 8.30
+
+Vervallen
+
+#### Artikel 8.31
+
+Vervallen
+
+#### Artikel 8.31a
+
+Vervallen
+
+#### Artikel 8.32
+
+Vervallen
+
+#### Artikel 8.33
+
+Vervallen
+
+#### Artikel 8.34
+
+Vervallen
+
+#### Artikel 8.35
+
+Vervallen
+
+#### Artikel 8.36
+
+Vervallen
+
+#### Artikel 8.36a
+
+Vervallen
+
+#### Artikel 8.36b
+
+Vervallen
+
+#### Artikel 8.36c
+
+Vervallen
+
+#### Artikel 8.36d
+
+Vervallen
+
+#### Artikel 8.36e
+
+Vervallen
+
+#### Artikel 8.37
+
+Vervallen
+
+#### Artikel 8.38
+
+Vervallen
+
+#### Artikel 8.39
+
+Vervallen
+
+#### Artikel 8.39a
+
+Vervallen
+
+#### Artikel 8.39b
+
+Vervallen
+
+#### Artikel 8.39c
+
+Vervallen
+
+#### Artikel 8.39d
+
+Vervallen
+
+#### Artikel 8.39e
+
+Vervallen
+
+#### Artikel 8.39f
+
+Vervallen
+
+#### Artikel 8.40
+
+1\. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over milieubelastende activiteiten.
+
+2\. De artikelen 4.4, 4.5 en 4.7 van de Omgevingswet zijn van overeenkomstige toepassing.
+
+3\. Artikel 4.9 van de Omgevingswet is van overeenkomstige toepassing, tenzij bij de maatregel anders is bepaald.
+
+#### Artikel 8.40a
+
+Vervallen
+
+#### Artikel 8.41
+
+Vervallen
+
+#### Artikel 8.41a
+
+Vervallen
+
+#### Artikel 8.42
+
+Vervallen
+
+#### Artikel 8.42a
+
+Het bevoegd gezag kan voorschriften aan een omgevingsvergunning voor een inrichting verbinden die afwijken van de regels, gesteld bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 8.40, indien dat bij of krachtens die maatregel is bepaald. Bij of krachtens de maatregel kan worden bepaald in welke mate de voorschriften kunnen afwijken en kan worden bepaald dat slechts kan worden afgeweken in daarbij aangegeven categorieën van gevallen.
+
+#### Artikel 8.42b
+
+1\. Bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 8.40 kan met betrekking tot daarbij aangegeven onderwerpen worden bepaald dat bij provinciale of gemeentelijke verordening gestelde regels omtrent die onderwerpen van de bij of krachtens de maatregel gestelde regels kunnen afwijken, in welke mate kan worden afgeweken en kan worden bepaald dat slechts kan worden afgeweken in daarbij aangegeven categorieën van gevallen.
+
+2\. Op het stellen van provinciale of gemeentelijke regels als bedoeld in het eerste lid, is artikel 8.40, tweede en derde lid, van overeenkomstige toepassing.
+
+#### Artikel 8.43
+
+1\. Bij het in ontvangst nemen van afvalstoffen wordt een bedrag in rekening gebracht als van anderen afkomstige afvalstoffen worden gestort, waarbij in ieder geval rekening wordt gehouden met de kosten van:
+
+- a. de inrichting en exploitatie van het terrein waar de afvalstoffen worden gestort,
+- b. de voorzieningen die bewerkstelligen dat na buitengebruikstelling van het terrein, geen nadelige gevolgen voor het milieu worden veroorzaakt, daaronder mede begrepen de kosten van de krachtens artikel 15.44, eerste lid, verschuldigde heffing, en
+- c. financiële zekerheid in categorieën van gevallen waarvoor het stellen van financiële zekerheid krachtens artikel 13.5 van de Omgevingswet is voorgeschreven.
+
+2\. Onze Minister kan nadere regels stellen met betrekking tot het eerste lid.
+
+#### Artikel 8.44
+
+Vervallen
+
+#### Artikel 8.45
+
+Vervallen
+
+#### Artikel 8.46
+
+Door vernummering vervallen.
+
+### Paragraaf 8.2
+
+#### Artikel 8.47
+
+1\. In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. stortplaats: terrein waar afvalstoffen worden gestort, dan wel het gedeelte van een terrein, waar afvalstoffen worden gestort, indien op het terrein niet uitsluitend afvalstoffen worden gestort, met uitzondering van afvalvoorzieningen;
+- b. gesloten stortplaats: stortplaats ten aanzien waarvan de in het derde lid bedoelde verklaring is afgegeven;
+- c. bedrijfsgebonden stortplaats: stortplaats waar uitsluitend afvalstoffen worden gestort, die afkomstig zijn van tot de onderneming waartoe de stortplaats behoort, behorende installaties die onderling technische, organisatorische of functionele bindingen hebben en in elkaars onmiddellijke nabijheid zijn gelegen.
+
+2\. Onder stortplaats wordt mede verstaan een gesloten stortplaats. Tot de stortplaats wordt mede gerekend het gedeelte van de stortplaats waar het storten van afvalstoffen is beëindigd.
+
+3\. Het bevoegd gezag verklaart een stortplaats voor gesloten, indien:
+
+- a. het storten van afvalstoffen is beëindigd,
+- b. voor zover een daartoe strekkend voorschrift voor de inrichting geldt, een bovenafdichting is aangebracht, en
+- c. een eindinspectie door het bevoegd gezag is uitgevoerd waaruit is gebleken dat aan alle voorschriften, verbonden aan de omgevingsvergunningen voor de stortplaats, is voldaan en dat ook geen andere maatregelen ingevolge de Wet bodembescherming, zoals die wet luidde tot het tijdstip waarop de Aanvullingswet bodem Omgevingswet in werking is getreden getroffen dienen te worden door degene die de stortplaats drijft, in geval van verontreiniging of aantasting van de bodem onder de stortplaats.
+
+#### Artikel 8.47a
+
+Het bevoegd gezag stelt Onze Minister zo spoedig mogelijk op de hoogte van een verklaring als bedoeld in artikel 8.47, derde lid.
+
+#### Artikel 8.48
+
+1\. Deze paragraaf is van toepassing op stortplaatsen waarvoor met betrekking tot het verrichten van een milieubelastende activiteit een omgevingsvergunning is vereist, waar op of na 1 september 1996 afvalstoffen worden gestort, en
+
+- a. waarvoor met betrekking tot het verrichten van een milieubelastende activiteit een algemene maatregel van bestuur geldt als bedoeld in artikel 5.34, tweede lid, van de Omgevingswet, of
+- b. uitsluitend baggerspecie wordt gestort.
+
+2\. Deze paragraaf is, met uitzondering van het eerste lid van dit artikel, van overeenkomstige toepassing op winningsafvalvoorzieningen.
+
+3\. Het tweede lid is niet van toepassing op bij algemene maatregel van bestuur aangewezen categorieën van winningsafvalvoorzieningen.
+
+#### Artikel 8.49
+
+1\. Met betrekking tot een gesloten stortplaats worden zodanige maatregelen getroffen dat wordt gewaarborgd dat die stortplaats geen nadelige gevolgen voor het milieu veroorzaakt, dan wel, voor zover dat redelijkerwijs niet kan worden gevergd, de grootst mogelijke bescherming wordt geboden tegen die nadelige gevolgen.
+
+2\. Tot de maatregelen, bedoeld in het eerste lid, worden in ieder geval gerekend:
+
+- a. maatregelen strekkende tot het in stand houden en onderhouden, alsmede het herstellen, verbeteren of vervangen van voorzieningen ter bescherming van de bodem;
+- b. het regelmatig inspecteren van voorzieningen ter bescherming van de bodem, en
+- c. het regelmatig onderzoeken van de bodem onder de stortplaats.
+
+3\. Degene die een stortplaats drijft, stelt een nazorgplan op ter uitvoering van de maatregelen, bedoeld in het eerste en tweede lid. Het nazorgplan behoeft de instemming van het bevoegd gezag. Het bevoegd gezag beslist hierover binnen dertien weken na de indiening van het nazorgplan. Indien het bevoegd gezag niet binnen de gestelde termijn heeft beslist, is de instemming van rechtswege gegeven. Het bevoegd gezag maakt de instemming van rechtswege onverwijld nadat de beslistermijn is verstreken, bekend.
+
+4\. Het bevoegd gezag kan degene die een stortplaats drijft, bevelen het nazorgplan waarmee het heeft ingestemd, aan te passen gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu en de ontwikkelingen met betrekking tot de kwaliteit van het milieu, dan wel in verband met een verandering van de stortplaats sedert de datum van instemming met het nazorgplan.
+
+5\. Bij algemene maatregel van bestuur kunnen met betrekking tot de in het eerste en tweede lid bedoelde maatregelen alsmede met betrekking tot het in het derde lid bedoelde nazorgplan nadere regels worden gesteld.
+
+#### Artikel 8.50
+
+1\. Het bevoegd gezag is belast met de maatregelen, bedoeld in artikel 8.49.
+
+2\. Het bevoegd gezag kan de zorg voor de uitvoering van de werkzaamheden die verband houden met de in artikel 8.49 bedoelde maatregelen, opdragen aan een daartoe door hem aangewezen rechtspersoon of instantie.
+
+3\. In afwijking van het eerste lid berust de zorg voor de uitvoering van de werkzaamheden die verband houden met de in artikel 8.49 bedoelde maatregelen met betrekking tot:
+
+- a. gesloten stortplaatsen waar baggerspecie is gestort en die worden gedreven of mede worden gedreven door Onze Minister van Verkeer en Waterstaat, bij die minister;
+- b. gesloten afvalvoorzieningen waarin zich een mijnbouwwerk als bedoeld in artikel 1, onder n, van de Mijnbouwwet bevindt, bij degene die de winningsafvalvoorziening het laatst heeft gedreven.
+
+4\. Op verzoek van degene die een bedrijfsgebonden stortplaats het laatst heeft gedreven, wordt bij het al dan niet toepassen van het tweede lid rekening gehouden met de mogelijkheid die zorg aan die persoon op te dragen.
+
+#### Artikel 8.51
+
+Vervallen
+
+### Paragraaf 8.3
+
+#### Artikel 8.52
+
+Naar aanleiding van de door de provincie uitgevoerde inventarisatie van plaatsen waar afvalstoffen zijn gestort en waar dat storten voor 1 september 1996 is beëindigd, delen gedeputeerde staten van de provincie waar de desbetreffende stortplaatsen liggen, Onze Minister zo spoedig mogelijk mede welke stortplaatsen dit betreft.
+
+#### Artikel 8.53
+
+1\. Onze Minister houdt een lijst bij van gesloten stortplaatsen als bedoeld in artikel 8.47, en van de stortplaatsen, bedoeld in artikel 8.52.
+
+2\. Hij draagt zorgt voor bekendmaking van deze lijst en doet een afschrift van de lijst alsmede de aanvullingen erop toekomen aan de ter zake van de afvalstoffenbelasting bevoegde inspecteur van de Belastingdienst.
+
+## Hoofdstuk 9 — Stoffen en produkten
+
+### Titel 9.1 — Algemeen
+
+#### Artikel 9.1.1
+
+Dit hoofdstuk en de daarop berustende bepalingen zijn mede van toepassing op handelingen verricht binnen de exclusieve economische zone, voor zover dat bij algemene maatregel van bestuur is bepaald.
+
+### Titel 9.2 — Stoffen, mengsels en genetisch gemodificeerde organismen
+
+#### § 9.2.1 — Algemeen
+
+##### Artikel 9.2.1.1
+
+Deze titel en de daarop berustende bepalingen zijn, met uitzondering van de regels die uitsluitend strekken ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, niet van toepassing op voedingsmiddelen, genotmiddelen en diervoeders.
+
+##### Artikel 9.2.1.2
+
+Een ieder die beroepshalve een stof, mengsel of genetisch gemodificeerd organisme vervaardigt, in Nederland invoert, toepast, bewerkt, verwerkt of aan een ander ter beschikking stelt, en die weet of redelijkerwijs had kunnen vermoeden dat door zijn handelingen met die stof of dat mengsel of organisme gevaren kunnen optreden voor de gezondheid van de mens of voor het milieu, is verplicht alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevergd, teneinde die gevaren zoveel mogelijk te voorkomen of te beperken.
+
+##### Artikel 9.2.1.3
+
+1\. Een ieder die beroepshalve een stof, mengsel of genetisch gemodificeerd organisme vervaardigt, in Nederland invoert, toepast, bewerkt, verwerkt of aan een ander ter beschikking stelt, verstrekt desgevraagd aan Onze Minister gegevens over die stof of dat mengsel of organisme waarover hij beschikt of redelijkerwijs kan beschikken.
+
+2\. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de in het eerste lid bedoelde gegevens.
+
+##### Artikel 9.2.1.4
+
+1\. Bij algemene maatregel van bestuur kan worden bepaald dat degene die beroepshalve stoffen, mengsels of genetisch gemodificeerde organismen vervaardigt, in Nederland invoert, toepast, bewerkt of verwerkt, in daarbij aangegeven categorieën van gevallen een administratie bijhoudt van de hoeveelheden die hij daarvan heeft vervaardigd, in Nederland heeft ingevoerd, heeft toegepast, bewerkt of verwerkt of aan een ander ter beschikking heeft gesteld.
+
+2\. Bij of krachtens de maatregel worden regels gesteld met betrekking tot de wijze waarop de administratie wordt bijgehouden en kunnen andere gegevens worden aangewezen die in de administratie dienen te worden opgenomen.
+
+##### Artikel 9.2.1.5
+
+1\. Bij algemene maatregel van bestuur kan in het belang van de landsverdediging vrijstelling worden verleend van de in artikel 9.2.3.3 , 9.3.3 of 9.3a.3 gestelde verplichtingen.
+
+2\. Bij koninklijk besluit kan in het belang van de landsverdediging ontheffing worden verleend van de bij of krachtens artikel 9.2.1.4, 9.2.2.1, 9.2.2.2, 9.2.2.6, 9.2.3.2, 9.2.3.3, 9.2.3.5, tweede lid, 9.3.3 of 9.3a.3 gestelde verboden en verplichtingen.
+
+3\. Aan een vrijstelling of ontheffing worden de voorschriften verbonden die nodig zijn in het belang van de bescherming van de gezondheid van de mens en van het milieu.
+
+4\. De voordracht voor een besluit krachtens het eerste of tweede lid wordt Ons niet gedaan dan op verzoek van Onze Minister van Defensie.
+
+#### § 9.2.2 — Maatregelen
+
+##### Artikel 9.2.2.1
+
+1\. Bij algemene maatregel van bestuur kunnen, indien een redelijk vermoeden is gerezen dat door handelingen met stoffen, mengsels of genetisch gemodificeerde organismen ongewenste effecten voor de gezondheid van de mens of voor het milieu zullen ontstaan, regels worden gesteld met betrekking tot het vervaardigen, in Nederland invoeren, toepassen, bewerken, verwerken, voorhanden hebben, aan een ander ter beschikking stellen, vervoeren, uitvoeren en zich ontdoen van deze stoffen, mengsels of organismen, met inbegrip van het voorbereiden of bevorderen van deze handelingen.
+
+2\. Hiertoe kunnen behoren regels, inhoudende:
+
+- a. een verbod een of meer van de in het eerste lid genoemde handelingen te verrichten met betrekking tot bij de maatregel aangewezen stoffen, mengsels of genetisch gemodificeerde organismen;
+- b. een verbod een zodanige handeling te verrichten op een bij de maatregel aangegeven wijze, voor daarbij aangegeven doeleinden, op daarbij aangegeven plaatsen of onder daarbij aangegeven omstandigheden;
+- c. een verbod een handeling als onder a of b bedoeld te verrichten zonder daartoe verleende vergunning;
+- d. een verbod een zodanige handeling te verrichten indien met betrekking tot de stoffen, mengsels of genetisch gemodificeerde organismen niet aan bij de maatregel gestelde eisen wordt voldaan;
+- e. een verbod een zodanige handeling te verrichten indien bij degene die die handeling verricht, niet de bij de maatregel aangegeven deskundigheid aanwezig is;
+- f. een verbod een zodanige handeling te verrichten met betrekking tot producten, indien deze daarbij aangewezen stoffen, mengsels of genetisch gemodificeerde organismen bevatten, of indien deze zodanige stoffen, mengsels of genetisch gemodificeerde organismen bevatten in grotere dan daarbij aangegeven hoeveelheden;
+- g. een verbod bij de maatregel aangewezen stoffen of mengsels toe te passen in producten die niet behoren tot een type dat bij een keuring, verricht aan de hand van de bij de maatregel daartoe vastgestelde regels, is goedgekeurd;
+- h. een verbod bij de maatregel aangewezen stoffen, mengsels of genetisch gemodificeerde organismen ter beschikking te stellen aan een daarbij aangewezen categorie van personen;
+- i. een verplichting een of meer van de in het eerste lid genoemde handelingen met betrekking tot bij de maatregel aangewezen stoffen, mengsels of genetisch gemodificeerde organismen of daarbij aangewezen categorieën van producten waarin die stoffen, mengsels of organismen voorkomen, of een voornemen tot het verrichten van die handelingen, te melden op een daarbij aangegeven wijze aan een daarbij aangewezen bestuursorgaan, of met betrekking tot die handelingen of het voornemen tot het verrichten van die handelingen op een daarbij aangegeven wijze aan een daarbij aangewezen bestuursorgaan daarbij aangewezen gegevens te verstrekken;
+- j. een verplichting met betrekking tot zodanige handelingen volgens bij de maatregel gestelde regels controleonderzoeken te verrichten en de resultaten van die onderzoeken op de bij de maatregel aangegeven wijze aan Onze Minister over te leggen;
+- k. een verplichting bij de maatregel aangewezen stoffen, mengsels of daarbij aangewezen categorieën van producten waarin die stoffen of mengsels voorkomen, na toepassing terug te zenden aan degene die de stoffen, mengsels of producten ter beschikking heeft gesteld;
+- l. een verplichting bij de maatregel aangewezen stoffen, mengsels of genetisch gemodificeerde organismen of daarbij aangewezen categorieën van producten waarin die stoffen, mengsels of organismen voorkomen, af te geven aan daarbij aangewezen personen of instellingen;
+- m. een verplichting voor degenen die bij de maatregel aangewezen stoffen, mengsels of genetisch gemodificeerde organismen of daarbij aangewezen categorieën van producten waarin die stoffen, mengsels of organismen voorkomen, vervaardigen, in Nederland invoeren of aan een ander ter beschikking stellen, voor daarbij aangewezen personen of instellingen die krachtens hoofdstuk 10 bevoegd zijn tot of vergunning hebben voor het nuttig toepassen of verwijderen van gevaarlijke afvalstoffen, dan wel voor bij de maatregel aangewezen bestuursorganen, om die stoffen, mengsels, organismen of producten in te zamelen.
+
+3\. Onze Minister kan omtrent in een maatregel krachtens het eerste lid geregelde onderwerpen nadere regels stellen.
+
+##### Artikel 9.2.2.1a
+
+1\. Het bezit en het gebruik van vuurwerk van de categorieën F2 en F3 is verboden voor anderen dan personen met gespecialiseerde kennis.
+
+2\. De verkoop van vuurwerk van de categorieën F2 en F3 aan anderen dan personen met gespecialiseerde kennis is verboden.
+
+3\. Bij algemene maatregel van bestuur worden personen met gespecialiseerde kennis aangewezen.
+
+4\. De burgemeester kan ontheffing verlenen van de in het eerste lid gestelde verboden ten behoeve van het tijdens de jaarwisseling tot ontbranding brengen van vuurwerk van categorie F2 dat bij of krachtens algemene maatregel van bestuur is aangewezen.
+
+5\. Bij algemene maatregel van bestuur worden regels gesteld over de voorwaarden waaronder door de burgemeester op aanvraag ontheffing kan worden verleend en de voorschriften die aan die ontheffing kunnen worden verbonden.
+
+6\. Het in het tweede lid gestelde verbod geldt niet op 29, 30 en 31 december indien de koper in het bezit is van een ontheffing als bedoeld in het vierde lid.
+
+7\. Bij algemene maatregel van bestuur worden regels gesteld over de verkoop van vuurwerk van categorie F2 dat bij of krachtens algemene maatregel van bestuur is aangewezen aan de koper die in het bezit is van een ontheffing als bedoeld in het vierde lid.
+
+##### Artikel 9.2.2.1b
+
+De regels, bedoeld in artikel 9.2.2.1, tweede lid, onder i of j, kunnen, in afwijking van de artikelen 2:7, tweede lid, en 2:8 van de Algemene wet bestuursrecht een verplichting inhouden een handeling met betrekking tot asbest of een asbesthoudend product of een voornemen tot het verrichten van die handeling langs elektronische weg te melden dan wel met betrekking tot die handeling of dat voornemen langs elektronische weg gegevens en bescheiden te verstrekken dan wel de resultaten van een controleonderzoek.
+
+##### Artikel 9.2.2.2
+
+Een algemene maatregel van bestuur waarbij toepassing is gegeven aan artikel 9.2.2.1, tweede lid, onder b, d, g, i, j, k, l of m, kan tevens de verplichting inhouden te voldoen aan door bestuursorganen die bij de maatregel zijn aangewezen, omtrent onderwerpen die in de maatregel zijn geregeld, gestelde nadere eisen. Bij het stellen van een zodanige eis wordt tevens het tijdstip bepaald waarop ten aanzien van die eis de verplichting ingaat.
+
+##### Artikel 9.2.2.3
+
+1\. Indien toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder c, worden tevens bij algemene maatregel van bestuur regels gesteld betreffende het ter zake bevoegde gezag, de wijze waarop de aanvraag om een vergunning geschiedt, en de gegevens die van de aanvrager kunnen worden verlangd.
+
+2\. De vergunning kan slechts worden geweigerd:
+
+- a. in het belang van de bescherming van de gezondheid van de mens en van het milieu;
+- b. indien de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt, of
+- c. in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, indien dat bij de maatregel is bepaald.
+
+3\. Voordat toepassing wordt gegeven aan het tweede lid, aanhef en onder c, of het zesde lid, aanhef en onder c, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.
+
+4\. Op de voorbereiding van de beschikking op de aanvraag om een vergunning zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van toepassing. Bij een algemene maatregel van bestuur als bedoeld in het eerste lid kunnen categorieën van gevallen worden aangewezen, waarin afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 geheel of gedeeltelijk buiten toepassing blijven.
+
+5\. Een vergunning kan in het belang van de bescherming van de gezondheid van de mens en van het milieu onder beperkingen worden verleend. Aan een vergunning kunnen in het belang van de bescherming van de gezondheid van de mens en van het milieu voorschriften worden verbonden. Deze kunnen, voorzover bij de maatregel niet anders is bepaald, de verplichting inhouden te voldoen aan door bestuursorganen die bij het voorschrift zijn aangewezen, in het belang van de bescherming van de gezondheid van de mens en van het milieu gestelde nadere eisen. Bij het stellen van een zodanige eis wordt tevens het tijdstip bepaald, waarop ten aanzien van die eis de verplichting ingaat.
+
+6\. Onverminderd artikel 18.10, eerste en vierde lid, van de Omgevingswet kan een vergunning worden ingetrokken:
+
+- a. indien de handeling aanmerkelijk gevaar oplevert voor de gezondheid van de mens of voor het milieu en wijziging of aanvulling van de aan de vergunning verbonden voorschriften redelijkerwijs geen oplossing kan bieden;
+- b. indien de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt, of
+- c. in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, indien dat bij de maatregel is bepaald.
+
+7\. Voor zover bij algemene maatregel van bestuur is bepaald, kan de vergunning in het belang van de bescherming van de gezondheid van de mens en van het milieu worden gewijzigd.
+
+8\. Op de voorbereiding van een intrekking of wijziging als bedoeld in het zesde lid, respectievelijk het zevende lid, zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 niet van toepassing, tenzij uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie daartoe noopt.
+
+##### Artikel 9.2.2.4
+
+1\. Indien toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder g, wijst Onze Minister de instantie aan, die de in die bepaling bedoelde keuring verricht. Bij de maatregel worden regels gesteld ten aanzien van de wijze waarop een zodanige keuring plaatsheeft en de gronden waarop de in de eerste volzin bedoelde aanwijzing kan worden ingetrokken dan wel gewijzigd.
+
+2\. Indien ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder g, en het verdrag of besluit van die volkenrechtelijke organisatie niet verplicht tot aanwijzing van een instantie als bedoeld in het eerste lid, geldt in afwijking van het eerste lid geen verplichting tot aanwijzing van een instantie.
+
+##### Artikel 9.2.2.5
+
+Indien toepassing wordt gegeven aan artikel 9.2.2.1, tweede lid, onder k, l of m, kan tevens worden bepaald dat de schade, geleden door degene die de stoffen, mengsels, genetisch gemodificeerde organismen of producten moet terugzenden of afgeven, of de kosten, gemaakt door degene die is aangewezen om die stoffen, mengsels, organismen of producten in te zamelen, ten laste kunnen worden gebracht van degenen die deze stoffen, mengsels, organismen of producten hebben vervaardigd of in Nederland ingevoerd. Daarbij kunnen tevens regels worden gesteld inzake de berekening van die schade of kosten en de bepaling van degenen ten laste van wie die schade of kosten worden gebracht.
+
+##### Artikel 9.2.2.6
+
+1\. Indien de verwachte of gebleken effecten van stoffen, mengsels of genetisch gemodificeerde organismen op de gezondheid van de mens of op het milieu het stellen van regels als bedoeld in artikel 9.2.2.1, eerste lid, naar het oordeel van Onze Minister dringend noodzakelijk maken en naar zijn oordeel de totstandkoming van een algemene maatregel van bestuur krachtens dat artikel niet kan worden afgewacht, kan hij een besluit nemen van de in dat lid bedoelde strekking. Onze Minister neemt een zodanig besluit in overeenstemming met Onze Ministers wie het mede aangaat, tenzij de vereiste spoed zich daartegen naar zijn oordeel verzet. De artikelen 9.2.2.2 tot en met 9.2.2.5 zijn van overeenkomstige toepassing.
+
+2\. Een ministeriële regeling als bedoeld in het eerste lid vervalt een jaar nadat zij in werking is getreden of indien binnen die termijn een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het tijdstip waarop die maatregel in werking treedt. De termijn kan bij ministeriële regeling eenmaal met ten hoogste een jaar worden verlengd.
+
+##### Artikel 9.2.2.6a
+
+1\. Bij algemene maatregel van bestuur kan worden bepaald dat bij het op de markt brengen van brandstoffen ten behoeve van vervoer in bij de maatregel aangewezen gevallen wordt voldaan aan bij of krachtens de maatregel gestelde eisen van duurzaamheid, waaronder begrepen de uitstoot van broeikasgassen.
+
+2\. De eisen, bedoeld in het eerste lid, kunnen in elk geval betrekking hebben op de voor brandstoffen gebruikte grondstoffen en de omstandigheden waaronder die grondstoffen worden vervaardigd, omgezet en, al dan niet omgezet, worden overgebracht voor eindgebruik in Nederland.
+
+3\. Bij of krachtens de maatregel kunnen tevens regels worden gesteld omtrent de overlegging van gegevens waaruit blijkt dat de brandstoffen voldoen aan de krachtens het eerste lid gestelde eisen van duurzaamheid, alsmede van gegevens, waaruit blijkt in hoeverre de brandstoffen aan andere bij of krachtens algemene maatregel van bestuur aan te wijzen duurzaamheidscriteria voldoen.
+
+4\. Artikel 9.2.2.6 is van overeenkomstige toepassing.
+
+##### Artikel 9.2.2.7
+
+1\. Onze Minister kan in bijzondere gevallen van het krachtens artikel 9.2.1.4, 9.2.2.1, 9.2.2.6 of 9.2.2.6a bepaalde op een daartoe strekkende aanvraag ontheffing verlenen, indien het belang van de bescherming van de gezondheid van de mens en van het milieu zich daartegen niet verzet.
+
+2\. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen de voorschriften worden verbonden, die naar het oordeel van Onze Minister in het belang van de bescherming van de gezondheid van de mens en van het milieu noodzakelijk zijn.
+
+3\. Op de voorbereiding van een beschikking op een aanvraag om een ontheffing als bedoeld eerste lid, zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van toepassing.
+
+4\. Een ontheffing kan door Onze Minister worden gewijzigd of ingetrokken, indien dat in het belang van de bescherming van de gezondheid van de mens en van het milieu noodzakelijk is.
+
+#### Paragraaf 9.2.3 — Verpakking en aanduiding
+
+##### Artikel 9.2.3.1
+
+Vervallen
+
+##### Artikel 9.2.3.2
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de aanduiding van producten waarin bepaalde stoffen of mengsels voorkomen.
+
+##### Artikel 9.2.3.3
+
+1\. De verpakking en sluiting die een genetisch gemodificeerd organisme rechtstreeks omsluiten, zijn:
+
+- a. zodanig dat ongewild verlies van de inhoud niet kan plaatsvinden,
+- b. vervaardigd van materiaal dat niet door het organisme kan worden aangetast, noch hiermee een gevaarlijke reactie kan aangaan of een gevaarlijke verbinding kan vormen, en
+- c. zodanig dat zij niet kunnen losraken en tegen normale behandeling bestand zijn.
+
+2\. Indien de verpakking is voorzien van een sluiting die meermalen kan worden gebruikt, zijn de verpakking en sluiting zodanig dat de verpakking meermalen opnieuw kan worden afgesloten zonder dat ongewild verlies van de inhoud plaatsvindt.
+
+3\. In afwijking van het eerste lid, onder a, mogen aan de verpakking, indien nodig, een of meer ontluchtingsventielen of andersoortige veiligheidsvoorzieningen aangebracht zijn.
+
+4\. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot de verpakking en sluiting regels worden gesteld. Daarbij kan worden bepaald dat die regels slechts gelden voor daarbij aangewezen genetisch gemodificeerde organismen of categorieën daarvan of in daarbij aangewezen gevallen.
+
+##### Artikel 9.2.3.4
+
+Het aanduiden van een genetisch gemodificeerd organisme op een wijze die misleidend is ten aanzien van de effecten daarvan op de gezondheid van de mens of op het milieu of ten aanzien van het krachtens artikel 9.2.2.1 of 9.2.2.6 bepaalde, is verboden.
+
+##### Artikel 9.2.3.5
+
+1\. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat in daarbij aangewezen gevallen de artikelen 9.2.3.3 en 9.2.3.4 geheel of voor een daarbij te bepalen gedeelte niet van toepassing zijn:
+
+- a. ter uitvoering van een krachtens het Verdrag betreffende de oprichting van de Europese Unie tot stand gekomen bindende regeling of
+- b. indien het belang van de bescherming van de gezondheid van de mens en van het milieu zich daartegen niet verzet.
+
+2\. Bij of krachtens een maatregel als bedoeld in het eerste lid kunnen regels worden gesteld met betrekking tot de in de artikelen 9.2.3.3 en 9.2.3.4 geregelde onderwerpen.
+
+### Titel 9.3 — De EG-verordening registratie, evaluatie en autorisatie van chemische stoffen
+
+#### Artikel 9.3.1
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter uitvoering van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen.
+
+#### Artikel 9.3.2
+
+1\. Onze Minister is de bevoegde instantie, bedoeld in de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen.
+
+2\. Voor onderdelen van de verordening die betrekking hebben op beleid dat behoort tot de verantwoordelijkheid van een Onzer andere Ministers, wordt voor die onderdelen die minister als bevoegde instantie aangewezen. De aanwijzing geschiedt bij regeling van Onze Minister in overeenstemming met die minister.
+
+#### Artikel 9.3.3
+
+1\. Het is verboden te handelen in strijd met de volgende bepalingen van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: de artikelen 5, 7, derde lid, 8, tweede lid, 9, vierde en zesde lid, 14, eerste, zesde en zevende lid, 31, eerste, tweede, derde, zevende en negende lid, 32, eerste en derde lid, 33, 34, 35, 37, vierde tot en met zevende lid, 38, eerste, derde en vierde lid, 39, eerste en tweede lid, 40, derde en vierde lid, 50, vierde lid, 55, 56, eerste en tweede lid, 60, tiende lid, 65 en 67, eerste lid.
+
+2\. Het is eveneens verboden te handelen in strijd met de volgende bepalingen van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: de artikelen 6, eerste en derde lid, 7, eerste, tweede en vijfde lid, 9, tweede lid, 11, eerste lid, 13, eerste, derde en vierde lid, 17, eerste lid, 18, eerste lid, 19, eerste lid, 22, eerste, tweede en vierde lid, 24, tweede lid, 25, eerste en tweede lid, 26, eerste en derde lid, 30, eerste, tweede, derde en vierde lid, 31, vijfde en achtste lid, 32, tweede lid, 36, 37, tweede en derde lid, 41, vierde lid, 46, tweede lid, 49, 50, tweede en derde lid, 61, eerste en derde lid, 63, derde lid, 66, eerste lid en 105.
+
+3\. Het is verboden handelingen te verrichten of na te laten in strijd met andere bepalingen van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen dan genoemd in het eerste of tweede lid, voor zover die bepalingen ter uitvoering van artikel 126 van die verordening bij algemene maatregel van bestuur zijn aangewezen.
+
+4\. Een algemene maatregel van bestuur als bedoeld in het derde lid vervalt een jaar nadat hij in werking is getreden, dan wel, indien binnen die termijn een voorstel van wet tot wijziging van het eerste of tweede lid bij de Staten-Generaal is ingediend, op het tijdstip waarop dat voorstel is verworpen of, na tot wet te zijn verheven, in werking is getreden.
+
+5\. Het eerste tot en met vierde lid zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de Warenwet.
+
+#### Artikel 9.3.4
+
+Het is verboden te handelen in strijd met de volgende bepaling van de EU-verordening markttoezicht: artikel 7.
+
+### Titel 9.3a — De EG-verordening indeling, etikettering en verpakking van stoffen en mengsels
+
+#### Artikel 9.3a.1
+
+De Minister van Volksgezondheid, Welzijn en Sport wijst bij ministeriële regeling het orgaan aan dat belast is met de uitvoering van de taak, bedoeld in artikel 45, eerste lid, van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels. In de ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van uitvoeren van die taak.
+
+#### Artikel 9.3a.2
+
+Onze Minister van Volksgezondheid, Welzijn en Sport is de bevoegde instantie, bedoeld in artikel 43 van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels, voor zover het betreft het doen van voorstellen voor een geharmoniseerde indeling en etikettering van stoffen en mengsels.
+
+#### Artikel 9.3a.3
+
+1\. Het is verboden te handelen in strijd met de volgende bepalingen van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: de artikelen 4, eerste tot en met vierde lid, zevende lid, achtste lid en tiende lid, 7, eerste tot en met derde lid, 13, 15, vierde lid, 17, eerste en tweede lid, 18, eerste tot en met derde lid, 19, eerste en tweede lid, 20, eerste en derde lid, 21, eerste en derde lid, 22, eerste en vierde lid, 23, 25, eerste, tweede en vierde tot en met achtste lid, 28, tweede en derde lid, 29, eerste en derde lid, 30, eerste lid, 31, eerste tot en met vijfde lid, 32, eerste tot en met vierde en zesde lid, 33, eerste tot en met derde lid, 35, eerste en tweede lid, en 48, eerste en tweede lid.
+
+2\. Het is eveneens verboden te handelen in strijd met de volgende bepalingen van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: de artikelen 16, eerste lid, 26, eerste en tweede lid, 27, 28, eerste lid, 30, tweede en derde lid, 40, eerste tot en met derde lid, en 49, eerste en tweede lid.
+
+3\. Het is verboden handelingen te verrichten of na te laten in strijd met andere bepalingen van de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels dan genoemd in het eerste of tweede lid, voor zover die bepalingen ter uitvoering van artikel 47 van die verordening bij algemene maatregel van bestuur zijn aangewezen.
+
+4\. Een algemene maatregel van bestuur als bedoeld in het derde lid vervalt een jaar nadat hij in werking is getreden, dan wel, indien binnen die termijn een voorstel van wet tot wijziging van het eerste of tweede lid bij de Staten-Generaal is ingediend, op het tijdstip waarop dat voorstel is verworpen of, na tot wet te zijn verheven, in werking is getreden.
+
+#### Artikel 9.3a.4
+
+Het is verboden te handelen in strijd met de volgende bepaling van de EU-verordening markttoezicht: artikel 7.
+
+### Titel 9.4 — De EG-richtlijn ecologisch ontwerp energiegerelateerde producten
+
+#### Artikel 9.4.1
+
+1\. In deze titel en de daarop berustende bepalingen wordt verstaan onder:
+
+*aanbieder van diensten van de informatiemaatschappij*: aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van Richtlijn (EU) 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+
+*CE-markering*: markering als bedoeld in besluit nr. 93/465/EEG van de Raad van de Europese Unie van 22 juli 1993 betreffende de modules voor de verschillende fasen van de conformiteitbeoordelingsprocedures en de voorschriften inzake het aanbrengen en het gebruik van de CE-markering van overeenstemming (PbEG L 220) en bestaande uit het opschrift «CE» als weergegeven in bijlage III bij de EG-richtlijn ecologisch ontwerp energiegerelateerde producten;
+
+*componenten en subeenheden*: onderdelen die bedoeld zijn om in een ingevolge een algemene maatregel van bestuur of een uitvoeringsmaatregel als bedoeld in artikel 9.4.4, tweede lid, aangewezen energiegerelateerd product te worden ingebouwd en die niet als losse onderdelen ten behoeve van gebruikers op de markt worden geïntroduceerd of in gebruik worden genomen, dan wel waarvan de milieuprestaties niet onafhankelijk van voornoemd product kunnen worden beoordeeld;
+
+*conformiteitsverklaring*: document waarbij de fabrikant overeenkomstig bijlage VI bij de EG-richtlijn ecologisch ontwerp energiegerelateerde producten verklaart dat aan alle voor dat product relevante bepalingen van de toepasselijke uitvoeringsmaatregel wordt voldaan, onder verwijzing naar die uitvoeringsmaatregel;
+
+*EG-richtlijn ecologisch ontwerp energiegerelateerde producten*: richtlijn nr. 2009/125/EG van het Europees Parlement en de Raad van de Europese Unie van 21 oktober 2009 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energiegerelateerde producten (herschikking) (PbEU L 285);
+
+*energiegerelateerd product*: product dat wanneer het op de markt is geïntroduceerd of in gebruik is genomen, een effect heeft op het energieverbruik, met inbegrip van onderdelen die bedoeld zijn om in dat product te worden ingebouwd en die ten behoeve van gebruikers op de markt worden geïntroduceerd of in gebruik worden genomen als losse onderdelen waarvan de milieuprestaties onafhankelijk kunnen worden beoordeeld;
+
+*fabrikant*: degene die een energiegerelateerd product vervaardigt met het oog op het op de markt introduceren onder zijn eigen naam of handelsmerk of voor eigen gebruik;
+
+*importeur*: in de Europese Gemeenschap gevestigde persoon die in het kader van zijn commerciële activiteiten een product uit een land buiten de Europese Unie op de markt introduceert;
+
+*marktdeelnemer:* marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+
+*op de markt introduceren*: op de markt aanbieden, tegen vergoeding of kosteloos, met het oog op de distributie of het gebruik ervan, ongeacht de wijze waarop dat geschiedt;
+
+*uitvoeringsmaatregel*: krachtens de EG-richtlijn ecologisch ontwerp energiegerelateerde producten goedgekeurde maatregel tot vaststelling van voorschriften voor een ecologisch ontwerp voor daarin aangegeven energiegerelateerde producten.
+
+2\. Voor de toepassing van deze titel en de daarop berustende bepalingen wordt onder *ecologisch ontwerp, ecologisch profiel, geharmoniseerde norm, materialen, milieuprestaties, productontwerp* onderscheidenlijk *verbetering van de milieuprestaties* verstaan hetgeen daaronder in artikel 2 van de EG-richtlijn ecologisch ontwerp energiegerelateerde producten wordt verstaan.
+
+3\. Bij het ontbreken van een fabrikant of importeur van een energiegerelateerd product wordt degene die dat energiegerelateerde product op de markt introduceert of in gebruik neemt, voor de toepassing van deze titel en de daarop berustende bepalingen als fabrikant aangemerkt.
+
+4\. Een wijziging van de in het tweede lid genoemde begrippen in de EG-richtlijn ecologisch ontwerp energiegerelateerde producten of van een bijlage bij die richtlijn waarnaar bij of krachtens deze titel wordt verwezen, gaat voor de toepassing van het bij of krachtens deze titel bepaalde gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij een besluit van Onze Minister, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+#### Artikel 9.4.2
+
+Een fabrikant kan een persoon schriftelijk machtigen om namens hem bij of krachtens deze titel geldende verplichtingen na te komen, mits deze gemachtigde binnen de Europese Gemeenschap is gevestigd.
+
+#### Artikel 9.4.3
+
+Deze titel is niet van toepassing op middelen voor het vervoer van personen of goederen.
+
+#### Artikel 9.4.4
+
+1\. Bij of krachtens algemene maatregel van bestuur kunnen in het belang van energie-efficiëntie en bescherming van het milieu met betrekking tot het ecologisch ontwerp van een categorie van energiegerelateerde producten en de verstrekking van daarmee verband houdende informatie over die producten aan de gebruikers regels worden gesteld.
+
+2\. Het is de fabrikant onderscheidenlijk importeur van een energiegerelateerd product dat behoort tot een bij algemene maatregel van bestuur aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, verboden dat product op de markt te introduceren of in gebruik te nemen, indien met betrekking tot dat product niet wordt voldaan aan de bij of krachtens deze titel en in de uitvoeringsmaatregel gestelde eisen.
+
+#### Artikel 9.4.5
+
+1\. De fabrikant onderscheidenlijk importeur draagt er zorg voor dat een energiegerelateerd product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, alvorens dat product op de markt wordt geïntroduceerd of in gebruik wordt genomen, aan een conformiteitsbeoordeling wordt onderworpen, waarbij wordt getoetst of het voldoet aan de bij of krachtens deze titel en in de uitvoeringsmaatregel gestelde eisen. Bij algemene maatregel van bestuur kunnen regels worden gegeven met betrekking tot de wijze waarop de toetsing met betrekking tot dat product plaatsvindt. Onze Minister kan een of meer instanties aanwijzen, die de conformiteitsbeoordeling verrichten.
+
+2\. De fabrikant maakt met betrekking tot een energiegerelateerd product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, een conformiteitsverklaring op en brengt een CE-markering op het product aan. De importeur draagt er zorg voor dat hij met betrekking tot een dergelijk product beschikt over de conformiteitsverklaring en dat op het product een CE-markering is aangebracht.
+
+#### Artikel 9.4.6
+
+1\. De fabrikant onderscheidenlijk importeur van een energiegerelateerd product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, bewaart na het in Nederland op de markt introduceren of in gebruik nemen van dat product de relevante documenten betreffende de conformiteitsbeoordeling, als bedoeld in artikel 9.4.5, eerste lid, en de daaromtrent afgegeven conformiteitsverklaringen gedurende een periode van tien jaar na beëindiging van de vervaardiging van dat product.
+
+2\. De fabrikant onderscheidenlijk importeur stelt de in het eerste lid bedoelde documenten binnen tien dagen na ontvangst van een verzoek van het bevoegd gezag, belast met het toezicht op de naleving van de wet, beschikbaar aan dat bevoegde gezag.
+
+3\. Fabrikanten van componenten en subeenheden kunnen bij of krachtens algemene maatregel van bestuur met betrekking tot een energiegerelateerd product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, worden verplicht aan de fabrikant onderscheidenlijk importeur van dat product daarbij aangegeven relevante informatie te verstrekken over de materiaalsamenstelling en het verbruik van energie, materialen of hulpbronnen van de door hen geproduceerde componenten of subeenheden.
+
+#### Artikel 9.4.7
+
+1\. Het is verboden op een energiegerelateerd product een markering aan te brengen, die de gebruikers van dat product kan misleiden omtrent de betekenis of de vorm van de CE-markering.
+
+2\. Het is verboden een energiegerelateerd product dat behoort tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, dat nog niet op de markt is geïntroduceerd en niet in overeenstemming is met het bij of krachtens deze titel bepaalde en met de toepasselijke uitvoeringsmaatregel, te tonen of te demonstreren op handelsbeurzen, tentoonstellingen of soortgelijke evenementen. Het verbod geldt niet indien duidelijk zichtbaar is aangegeven dat het product nog niet met die uitvoeringsmaatregel in overeenstemming is en niet op de markt zal worden geïntroduceerd, zolang het product nog niet met het bij of krachtens deze titel bepaalde en met de toepasselijke uitvoeringsmaatregel in overeenstemming is.
+
+#### Artikel 9.4.8
+
+1\. Een energiegerelateerd product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, dat van een CE-markering is voorzien, wordt vermoed te voldoen aan de voor dat product bij of krachtens deze titel en in de uitvoeringsmaatregel gestelde eisen.
+
+2\. Een energiegerelateerd product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, waarvoor een geharmoniseerde norm is toegepast waarvan het referentienummer in het Publicatieblad van de Europese Unie is bekendgemaakt, wordt vermoed te voldoen aan de voorschriften van de toepasselijke uitvoeringsmaatregel waarop die norm betrekking heeft.
+
+3\. Een energiegerelateerd product, behorende tot een ingevolge een algemene maatregel van bestuur als bedoeld in artikel 9.4.4, tweede lid, aangewezen categorie of tot een categorie, aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, waarvoor overeenkomstig verordening (EG) nr. 66/2010 van het Europees Parlement en de Raad van de Europese Unie van 25 november 2009 betreffende de EU-milieukeur (PbEU L 27) de communautaire milieukeur is verleend, wordt vermoed te voldoen aan de voorschriften inzake ecologisch ontwerp van de toepasselijke uitvoeringsmaatregel voor zover de milieukeur aan die voorschriften voldoet.
+
+#### Artikel 9.4.9
+
+1\. Het is een marktdeelnemer die betrokken is of betrokken is geweest bij het op de markt aanbieden of in de handel brengen van een energiegerelateerd product dat behoort tot een bij algemene maatregel van bestuur aangewezen categorie of tot een categorie aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, verboden in strijd te handelen met de artikelen 4, eerste, derde en vierde lid, en 7, eerste lid, van de EU-verordening markttoezicht.
+
+2\. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het op de markt aanbieden of in de handel brengen van een energiegerelateerd product dat behoort tot een bij algemene maatregel van bestuur aangewezen categorie of tot een categorie aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, verboden in strijd te handelen met artikel 7, tweede lid, van de EU-verordening markttoezicht.
+
+3\. Het is een gemachtigde als bedoeld in artikel 4, tweede lid, onderdeel c, van de EU-verordening markttoezicht, die betrokken is of betrokken is geweest bij het op de markt aanbieden of in de handel brengen van een energiegerelateerd product dat behoort tot een bij algemene maatregel van bestuur aangewezen categorie of tot een categorie aangewezen in een uitvoeringsmaatregel die in de vorm van een verordening is gesteld, verboden te handelen in strijd met artikel 5, tweede lid, tweede volzin, van de EU-verordening markttoezicht.
+
+### Titel 9.5 — Overige bepalingen met betrekking tot stoffen, preparaten en producten
+
+#### Artikel 9.5.1
+
+1\. Bij algemene maatregel van bestuur kunnen in het belang van het voorkomen of beperken van luchtverontreiniging of geluidhinder regels worden gesteld met betrekking tot het vervaardigen, in Nederland invoeren, voorhanden hebben, aan een ander ter beschikking stellen, vervoeren en gebruiken van bij de maatregel aangewezen producten.
+
+2\. In afwijking van het eerste lid worden in het belang van het voorkomen of beperken van geluidhinder bij een maatregel als bedoeld in het eerste lid geen regels gesteld met betrekking tot luchtvaartuigen.
+
+3\. Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende een verbod met betrekking tot zodanige producten een of meer van de in het eerste lid genoemde handelingen:
+
+- a. te verrichten;
+- b. te verrichten anders dan met inachtneming van de omtrent die handelingen of die producten bij de maatregel gestelde regels;
+- c. te verrichten met producten, behorende tot een bij de maatregel aangewezen categorie, op de bij de maatregel aangegeven plaatsen, op de bij de maatregel aangegeven wijze of onder de bij de maatregel aangegeven omstandigheden;
+- d. te verrichten indien de producten niet voldoen aan de bij de maatregel gestelde eisen;
+- e. te verrichten indien de producten niet behoren tot een type dat bij een keuring, verricht overeenkomstig bij de maatregel gestelde regels is goedgekeurd;
+- f. te verrichten indien de producten niet overeenkomstig bij de maatregel gestelde regels zijn goedgekeurd.
+
+4\. Bij een maatregel als bedoeld in het eerste lid kan worden bepaald dat daarbij gestelde regels slechts gelden in bij de maatregel aangegeven categorieën van gevallen of in de bij de maatregel aangewezen gebieden.
+
+5\. Bij een maatregel als bedoeld in het eerste lid kan in het belang van de landsverdediging vrijstelling worden verleend van de krachtens het eerste lid gestelde verboden en verplichtingen. Aan een vrijstelling kunnen voorschriften worden verbonden die nodig zijn in het belang van het voorkomen of beperken van luchtverontreiniging dan wel van geluidhinder.
+
+6\. Voor zover een maatregel als bedoeld in het eerste lid strekt tot nakoming van verplichtingen op grond van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, kunnen tot de regels, bedoeld in het eerste lid, tevens behoren regels die voorzien in:
+
+- a. een verbod om zonder vergunning, verleend door een bij die maatregel aangewezen bestuursorgaan, handelingen te verrichten met betrekking tot de bij die maatregel aangewezen producten of categorieën daarvan;
+- b. een verplichting om ten aanzien van die producten of categorieën daarvan in bij de maatregel aangegeven gevallen van het gebruik daarvan aangifte te doen bij een bestuursorgaan, dat bij die maatregel is aangewezen, dan wel te voldoen aan meetvoorschriften op een bij de maatregel te bepalen wijze;
+- c. een verplichting te voldoen aan door een bestuursorgaan, dat bij de maatregel is aangewezen, gestelde nadere eisen omtrent de onderwerpen die in die maatregel zijn geregeld, op een door het bestuursorgaan te bepalen tijdstip.
+
+7\. Indien toepassing wordt gegeven aan het derde lid, onder e of f, wijst Onze Minister op grond van de bij of krachtens een maatregel als bedoeld in het eerste lid te stellen eisen de instanties aan die de in die onderdelen bedoelde keuringen verrichten. Bij of krachtens die maatregel wordt in dat geval tevens bepaald op grond waarvan Onze Minister de aanwijzing kan schorsen of intrekken en worden regels gesteld over de wijze waarop de keuringen plaatsvinden.
+
+8\. Onze Minister kan omtrent in een maatregel krachtens het eerste lid geregelde onderwerpen nadere regels stellen.
+
+#### Artikel 9.5.2
+
+1\. Bij algemene maatregel van bestuur kunnen ter stimulering van hergebruik, preventie, recycling en andere nuttige toepassing, van een doelmatig beheer van afvalstoffen of anderszins in het belang van de bescherming van het milieu regels worden gesteld met betrekking tot het vervaardigen, in Nederland invoeren, toepassen, voorhanden hebben, aan een ander ter beschikking stellen, in ontvangst nemen, innemen, nuttig toepassen en verwijderen van bij de maatregel aangewezen stoffen, mengsels of producten of afvalstoffen. Met betrekking tot producten worden zodanige regels niet gesteld in het belang dat artikel 9.5.1 beoogt te beschermen.
+
+2\. Tot de regels, bedoeld in het eerste lid, kunnen behoren regels, inhoudende een verbod met betrekking tot zodanige stoffen, mengsels of producten of afvalstoffen een of meer van de in het eerste lid genoemde handelingen:
+
+- a. te verrichten;
+- b. te verrichten anders dan met inachtneming van de omtrent die handelingen of die stoffen, mengsels of producten of afvalstoffen bij de maatregel gestelde regels;
+- c. te verrichten op een bij de maatregel aangewezen wijze, onder daarbij aangegeven omstandigheden, of voor daarbij aangewezen doeleinden;
+- d. te verrichten indien de stoffen, mengsels of producten of afvalstoffen niet voldoen aan de bij de maatregel gestelde eisen.
+
+3\. Tot de regels, bedoeld in het eerste lid, kunnen tevens behoren regels, inhoudende de verplichting voor degene die bij de maatregel aangewezen stoffen, mengsels of producten op de markt brengt:
+
+- a. die stoffen, mengsels of producten of de verpakking ervan te voorzien van een door Onze Minister aangegeven aanduiding;
+- b. om geheel of gedeeltelijk de financiële of financiële en organisatorische verantwoordelijkheid voor de inname en het beheer van die stoffen, mengsels of producten overgebleven afvalstoffen te dragen, waarbij, in het geval van een regeling voor uitgebreide producentenverantwoordelijkheid, de verplichtingen die daaruit voortvloeien tevens kunnen worden uitgevoerd door een organisatie die namens diegene de regeling voor uitgebreide producentenverantwoordelijkheid nakomt;
+- c. zorg te dragen voor het treffen van voorzieningen die erop gericht zijn om die stoffen, mengsels of producten na inname op een bij de maatregel aangegeven wijze nuttig toe te passen of te verwijderen;
+- d. zorg te dragen voor het, na inname, afgeven van die stoffen, mengsels of producten aan een persoon, behorende tot een bij de maatregel aangewezen categorie;
+- e. openbaar beschikbare informatie te verstrekken over:
+  - 1°. de mate waarin die stoffen, preparaten of producten geschikt zijn voor hergebruik en recycleerbaar zijn;
+  - 2°. voorzieningen die er op gericht zijn om die stoffen, mengsels of producten in te nemen voor hergebruik of nuttig toepassing; en
+  - 3°. afvalpreventiemaatregelen.
+
+4\. Tot de regels, bedoeld in het eerste lid, kunnen verder behoren regels, inhoudende de verplichting:
+
+- a. voor bij de maatregel aangewezen personen bij de maatregel aangewezen afvalstoffen of andere stoffen, mengsels of producten in ontvangst te nemen en vervolgens op een bij de maatregel aangegeven wijze toe te passen;
+- b. voor burgemeester en wethouders er zorg voor te dragen dat er op ten minste één daartoe ter beschikking gestelde plaats binnen de gemeente of binnen de gemeenten waarmee wordt samengewerkt, in voldoende mate gelegenheid wordt geboden om bij de maatregel aangewezen stoffen, mengsels of producten achter te laten die zijn ingenomen krachtens het derde lid, onder b, op een bij de maatregel aangegeven wijze.
+
+5\. Bij een maatregel als bedoeld in het eerste lid kan worden bepaald dat daarbij gestelde regels slechts gelden in bij de maatregel aangegeven categorieën van gevallen of in de bij de maatregel aangewezen gebieden.
+
+6\. Artikel 9.5.1, zesde lid, is van overeenkomstige toepassing, met dien verstande dat de regels, bedoeld in dat lid, tevens kunnen worden gesteld ten aanzien van bij de maatregel, bedoeld in het eerste lid, aangewezen stoffen en mengsels of categorieën daarvan.
+
+7\. Onze Minister kan omtrent in een maatregel krachtens het eerste lid geregelde onderwerpen nadere regels stellen.
+
+#### Artikel 9.5.3
+
+Bij een algemene maatregel van bestuur, vastgesteld krachtens artikel 9.5.1, kan worden bepaald dat het gezag dat bevoegd is een omgevingsvergunning voor een milieubelastende activiteit te verlenen, bij het verlenen of wijzigen van de vergunning met betrekking tot bij de maatregel aangegeven onderwerpen in de beperkingen waaronder de vergunning wordt verleend, of in de daaraan verbonden voorschriften van bij de maatregel of de krachtens artikel 9.5.1, zesde lid, gestelde regels met betrekking tot producten kan afwijken. In dat geval wordt bij de maatregel aangegeven in hoeverre het bevoegd gezag van de regels kan afwijken. Bij de maatregel kan tevens worden bepaald dat de bevoegdheid tot afwijken slechts geldt in daarbij aangegeven categorieën van gevallen.
+
+#### Artikel 9.5.4
+
+Onze Minister kan, indien naar zijn oordeel in het belang van het voorkomen of beperken van luchtverontreiniging of geluidhinder, dan wel in het belang van de stimulering van hergebruik, preventie, recycling of andere nuttige toepassing, van een doelmatig beheer van afvalstoffen of anderszins in het belang van de bescherming van het milieu een onverwijlde voorziening noodzakelijk is, een regeling vaststellen van de in de artikelen 9.5.1 of 9.5.2 bedoelde strekking voor een termijn van ten hoogste twee jaar.
+
+#### Artikel 9.5.5
+
+1\. Bij koninklijk besluit kan in het belang van de landsverdediging op verzoek van Onze Minister van Defensie ontheffing worden verleend van het bepaalde krachtens artikel 9.5.1.
+
+2\. Onze Minister kan voorts op aanvraag ontheffing verlenen van het bepaalde krachtens de artikelen 9.5.1 of 9.5.2 indien het belang dat die artikelen beogen te beschermen, zich daartegen niet verzet.
+
+3\. Bij een algemene maatregel van bestuur als bedoeld in de artikelen 9.5.1 of 9.5.2 kan worden bepaald dat een bij de maatregel aangewezen ander bestuursorgaan in plaats van Onze Minister ontheffing kan verlenen van het bepaalde krachtens deze artikelen, indien het belang dat die artikelen beogen te beschermen, zich daartegen niet verzet.
+
+4\. Aan een ontheffing als bedoeld in het eerste tot en met derde lid kunnen voorschriften en beperkingen worden verbonden in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.
+
+5\. De voorschriften en beperkingen, bedoeld in het vierde lid, kunnen worden gewijzigd, aangevuld of ingetrokken in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.
+
+6\. Een ontheffing als bedoeld in het eerste tot en met derde lid kan geheel of gedeeltelijk worden ingetrokken in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.
+
+7\. Bij algemene maatregel van bestuur krachtens artikel 9.5.2 kan worden bepaald dat in daarbij aangegeven categorieën van gevallen op de voorbereiding van een beschikking op de aanvraag om ontheffing te verlenen, afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is.
+
+#### Artikel 9.5.6
+
+1\. Indien toepassing wordt gegeven aan artikel 9.5.1, zesde lid, onder a, of artikel 9.5.2, zesde lid, in samenhang met artikel 9.5.1, zesde lid, onder a, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing op de voorbereiding van een beschikking op de aanvraag om een vergunning.
+
+2\. Een vergunning kan slechts worden geweigerd in het belang dat de artikelen 9.5.1 of 9.5.2 beogen te beschermen.
+
+3\. Een vergunning kan onder beperkingen worden verleend.
+
+4\. Aan een vergunning kunnen voorschriften worden verbonden. Hiertoe kan behoren het voorschrift, dat met betrekking tot in het voorschrift geregelde onderwerpen moet worden voldaan aan nadere eisen, die door een bij het voorschrift aangewezen bestuursorgaan worden gesteld.
+
+5\. Bij de betrokken algemene maatregel van bestuur kunnen categorieën van gevallen worden aangewezen waarin het eerste lid niet van toepassing is.
+
+6\. Voor zover dat bij de betrokken maatregel is bepaald, kan de vergunning worden gewijzigd of ingetrokken. Op de voorbereiding van een zodanige wijziging of intrekking is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.
+
+#### Artikel 9.5.7
+
+1\. Er is een elektronisch landelijk asbestvolgsysteem, waarin met betrekking tot saneringen van asbest gegevens en bescheiden worden opgenomen die betrekking hebben op handelingen die in de achtereenvolgende fasen van de asbestsanering worden verricht, in het bijzonder de inventarisatie en verwijdering van asbest, de eindbeoordeling van het resultaat van de verwijdering en de afvoer en de verwerking van het asbestafval. Hiertoe kunnen ook persoonsgegevens behoren.
+
+2\. Onze Minister draagt zorg voor de inrichting, instandhouding, werking, toegankelijkheid en beveiliging van het landelijk asbestvolgsysteem en voor het beheer van de daarin opgenomen gegevens en bescheiden en treft de nodige voorzieningen voor de elektronische uitwisseling van gegevens en bescheiden met betrekking tot saneringen van asbest tussen het landelijk asbestvolgsysteem en de landelijke voorziening, bedoeld in artikel 20.21 van de Omgevingswet. Onze Minister wordt tevens aangemerkt als verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens.
+
+3\. De gegevens en bescheiden die in het landelijk asbestvolgsysteem zijn opgenomen, zijn langs elektronische weg toegankelijk voor bij algemene maatregel van bestuur aangewezen bestuursorganen, bedrijven en personen.
+
+4\. Bij algemene maatregel van bestuur worden de gegevens en bescheiden aangewezen die in het landelijk asbestvolgsysteem worden opgenomen en worden regels gesteld met betrekking tot de toegankelijkheid van het systeem en de periode gedurende welke de gegevens en bescheiden worden bewaard. Daarbij kunnen tevens regels worden gesteld met betrekking tot de inrichting, instandhouding, werking en beveiliging van het systeem en het beheer van de gegevens en bescheiden die daarin zijn opgenomen. Bij ministeriële regeling kunnen met het oog op een goede uitvoering nadere regels worden gesteld.
+
+#### Artikel 9.5.8
+
+1\. Er is een pyro-passregister, waarin controledocumenten zijn opgenomen waarmee het bewijs wordt geleverd dat een persoon gemachtigd is bepaalde pyrotechnische artikelen te hanteren of te gebruiken in het bijzonder in een grensoverschrijdende context. In het pyro-passregister kunnen hiertoe persoonsgegevens worden verwerkt.
+
+2\. Onze Minister draagt zorgt voor de inrichting, instandhouding, werking, toegankelijkheid en beveiliging van het pyro-passregister en voor het beheer van de daarin opgenomen gegevens en bescheiden en treft de nodige voorzieningen voor de elektronische uitwisseling van gegevens en bescheiden. Onze Minister wordt aangemerkt als verwerkingsverantwoordelijke voor de verwerking van de persoonsgegevens in het pyro-passregister.
+
+3\. De gegevens en bescheiden die in het pyro-passregister zijn opgenomen, zijn langs elektronische weg toegankelijk voor bij algemene maatregel van bestuur aangewezen bestuursorganen, bedrijven en personen, met dien verstande dat de aangewezen bedrijven en personen slechts toegang hebben voor zover dat noodzakelijk is om te verifiëren of het controledocument in het pyro-passregister geldig is.
+
+4\. Bij algemene maatregel van bestuur worden de gegevens en bescheiden aangewezen die in het pyro-passregister worden opgenomen en worden regels gesteld met betrekking tot de toegankelijkheid van het systeem en de periode gedurende welke de gegevens en bescheiden worden bewaard. Daarbij kunnen tevens regels worden gesteld met betrekking tot de inrichting, instandhouding, werking en beveiliging van het systeem en het beheer van de gegevens en bescheiden die daarin zijn opgenomen. Bij ministeriële regeling kunnen met het oog op een goede uitvoering nadere regels worden gesteld.
+
+5\. Bij ministeriële regeling kan worden bepaald dat voor de aanvraag om opgenomen te worden in het pyro-passregister een vergoeding verschuldigd is. In dat geval worden bij die regeling tevens nadere regels gesteld met betrekking tot de hoogte van de vergoeding en de wijze waarop deze moet worden betaald.
+
+6\. Alvorens pyrotechnische artikelen te verstrekken die uitsluitend op de markt mogen worden aangeboden aan personen met gespecialiseerde kennis, stellen marktdeelnemers voor personen die in België, Nederland of Luxemburg als persoon met gespecialiseerde kennis zijn aangewezen aan de hand van de pyro-pass, raadpleging van het pyro-passregister en een document als bedoeld in artikel 1, eerste lid, van de Wet op de identificatieplicht vast of deze gemachtigd zijn betreffende pyrotechnische artikelen te hanteren of te gebruiken. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld.
+
+### Titel 9.6 — De bijdrage van de vervoerssector aan milieu-, klimaat- en energiebeleid
+
+#### Artikel 9.6.1
+
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld om te verzekeren dat bij die maatregel genoemde aanbestedende diensten en aanbestedende instanties bij een aanbesteding waarbij in die maatregel genoemde wegvoertuigen zijn betrokken, rekening wordt gehouden met de minimumstreefcijfers voor schone wegvoertuigen, bedoeld in artikel 5, van richtlijn 2009/33/EG van het Europees Parlement en de Raad van 23 april 2009 inzake de bevordering van schone wegvoertuigen ter ondersteuning van emissiearme mobiliteit (PbEU 2009, L120).
+
+### Titel 9.7 — **Hernieuwbare energie vervoer**
+
+#### § 9.7.1 — Algemeen
+
+##### Artikel 9.7.1.1
+
+In deze titel en de daarop berustende bepalingen wordt verstaan onder:
+
+- *afboekrekening:* rekening in het register, bedoeld om de naar die rekening overgeboekte emissiereductie-eenheden te onttrekken aan het aantal, voor het voldoen aan de jaarverplichting, beschikbare emissiereductie-eenheden;
+- *benzine:* ongelode lichte olie als bedoeld in artikel 26, tweede lid, van de Wet op de accijns en minerale oliën die op grond van artikel 28, met uitzondering van het tweede en zesde lid, van die wet voor het tarief van ongelode lichte olie aan de accijns onderworpen zijn;
+- *bijproduct:* product dat een hoofddoel vormt van het productieproces, niet zijnde een residu;
+- *binnenschip:* binnenschip als bedoeld in artikel 1, eerste lid, van de Binnenvaartwet;
+- *biobrandstof:* biogas als bedoeld in artikel 2, onderdeel 28, van de richtlijn hernieuwbare energie, vloeibare biomassa als bedoeld in artikel 2, onderdeel 32, van die richtlijn of biobrandstof als bedoeld in artikel 2, onderdeel 33, van die richtlijn;
+- *CO<sub>2</sub>-equivalent-ketenemissiereductie:* de hoeveelheid verminderde broeikasgasuitstoot door de productie, het vervoer, de distributie en het gebruik van hernieuwbare energie, ten opzichte van de fossiele referentiebrandstof, bedoeld in bijlage V van de richtlijn hernieuwbare energie;
+- *diesel:* gasolie als bedoeld in artikel 26, vierde lid, van de Wet op de accijns en minerale oliën die op grond van artikel 28, met uitzondering van het tweede en zesde lid, van die wet voor het tarief van gasolie aan de accijns onderworpen zijn;
+- *distributiesysteembeheerder:* distributiesysteembeheerder voor elektriciteit en de distributiebeheerder voor gas als bedoeld in artikel 1.1 van de Energiewet;
+- *duurzaamheidssysteem:* door de Europese Commissie erkend vrijwillig systeem voor het certificeren dat een biobrandstof voldoet aan de duurzaamheids- en broeikasgasemissiereductiecriteria als bedoeld in artikel 30, vierde lid, van de richtlijn hernieuwbare energie;
+- *emissiereductie-eenheid:* emissiereductie-eenheid als bedoeld in artikel 9.7.3.1;
+- *energie-inhoud:* energie-inhoud als bedoeld in bijlage III bij de richtlijn hernieuwbare energie of, indien niet opgenomen in die bijlage, berekend volgens bij ministeriële regeling te stellen regels;
+- *geaggregeerd inboeken:* het verzameld inboeken door een inboekdienstverlener van meerdere hoeveelheden door ondernemingen geleverde of door natuurlijke personen op hun onroerende zaak geladen elektriciteit;
+- *hernieuwbare brandstof van niet-biologische oorsprong:* vloeibare en gasvormige brandstoffen van niet-biologische oorsprong als bedoeld in artikel 2, onderdeel 36, van de richtlijn hernieuwbare energie;
+- *hernieuwbare energie:* energie uit hernieuwbare bronnen als bedoeld in artikel 2, onderdeel 1, van de richtlijn hernieuwbare energie;
+- *importeur:* onderneming die minerale oliën invoert in Nederland, maar geen houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, van de Wet op de accijns voor minerale oliën of geregistreerde geadresseerde als bedoeld in artikel 1a, eerste lid, van die wet voor minerale oliën is;
+- *inboekdienstverlener:* inboeker die in eigen naam hoeveelheden door een minimum aantal andere ondernemingen geleverde elektriciteit dan wel hoeveelheden door natuurlijke personen op hun onroerende zaak geladen elektriciteit inboekt;
+- *inboeker:* onderneming die ingevolge bij of krachtens artikel 9.7.4.1 bevoegd is om een geleverde hoeveelheid hernieuwbare energie in het register in te voeren;
+- *inboekfaciliteit:* eigenschap van een rekening in het register die de inboeking van hernieuwbare energie overeenkomstig artikel 9.7.4.1 mogelijk maakt;
+- *jaarverplichting:* aantal per soort en sector emissiereductie-eenheden dat de leverancier tot eindverbruik voor zijn levering tot eindverbruik sector land, levering tot eindverbruik sector binnenvaart of zijn levering tot eindverbruik sector zeevaart is verschuldigd op grond van artikel 9.7.2.1, eerste lid;
+- *jaarverplichtingfaciliteit:* eigenschap van een rekening in het register die een leverancier tot eindverbruik ingevolge artikel 9.7.2.2 heeft om aan zijn jaarverplichting te voldoen;
+- *leverancier tot eindverbruik:* houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, van de Wet op de accijns voor minerale oliën, of geregistreerde geadresseerde als bedoeld in artikel 1a, eerste lid, van die wet voor minerale oliën, of importeur, met een levering tot eindverbruik sector land of een levering tot eindverbruik sector binnenvaart of leverancier met een levering tot eindverbruik sector zeevaart;
+- *leveren aan de Nederlandse markt van vervoer:*
+  - a. uitslag tot verbruik als bedoeld in artikel 2 van de Wet op de accijns, dan wel leveren van minerale oliën door een houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, van die wet aan een andere houder van een vergunning voor een accijnsgoederenplaats, beide voor zover de inboeker kan aantonen dat de hoeveelheid ingeboekte brandstof is uitgeslagen tot verbruik als bedoeld in artikel 2 van de Wet op de accijns, geleverd aan de sector land of de sector binnenvaart;
+  - b. leveren van een hoeveelheid brandstof aan de sector zeevaart;
+- *levering tot eindverbruik sector binnenvaart:* uitslag tot verbruik als bedoeld in artikel 2 van de Wet op de accijns van rode gasolie aan de sector binnenvaart;
+- *levering tot eindverbruik sector land:* uitslag tot verbruik als bedoeld in artikel 2 van de Wet op de accijns van benzine, diesel en zware stookolie aan de sector land;
+- *levering tot eindverbruik sector zeevaart:* levering van brandstoffen voor de aandrijving van schepen of scheepsbehoeften aan boord van schepen aan de sector zeevaart;
+- *massabalans van biobrandstoffen:* een boekhouding die een getrouwe weergave geeft van de in- en uitgaande stromen en voorraad van duurzame grondstoffen voor biobrandstoffen en duurzame biobrandstoffen van een onderneming al dan niet op een opslaglocatie, gedurende een bepaalde periode, bedoeld in artikel 30 van de richtlijn hernieuwbare energie en uitgevoerd overeenkomstig artikel 19 van verordening (EU) 2022/996, als onderdeel van een door de inboeker gehanteerd duurzaamheidssysteem;
+- *massabalans van hernieuwbare brandstoffen van niet-biologische oorsprong:* een boekhouding die een getrouwe weergave geeft van de in- en uitgaande stromen en voorraad van hernieuwbare brandstoffen van niet-biologische oorsprong van een onderneming al dan niet op een opslaglocatie gedurende een bepaalde periode, bedoeld in artikel 30 van de richtlijn hernieuwbare energie en uitgevoerd overeenkomstig artikel 19 van verordening (EU) 2022/996, als onderdeel van een door de inboeker gehanteerd vrijwillig systeem;
+- *minerale oliën:* oliën als bedoeld in artikel 25 van de Wet op de accijns;
+- *mobiele machine:* mobiele werktuigen, landbouwtrekkers, bosbouwmachines en pleziervaartuigen;
+- *onderneming:* onderneming als bedoeld in artikel 5 van de Handelsregisterwet 2007, voor zover deze onderneming is ingeschreven in het handelsregister als bedoeld in die wet en rechtspersoonlijkheid bezit als bedoeld in artikel 3 van Boek 2 van het Burgerlijk Wetboek;
+- *opslaglocatie:* een opslagtank op land of op water met een vast adres, als onderdeel van een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, van de Wet op de accijns voor minerale oliën of belasting-entrepot voor minerale oliën;
+- *overboekfaciliteit:* eigenschap van een rekening in het register die de overboeking van een emissiereductie-eenheid mogelijk maakt;
+- *raffinagereductie-eenheid:* raffinagereductie-eenheid als bedoeld in artikel 9.8.2.1;
+- *register:* register hernieuwbare energie als bedoeld in artikel 9.7.5.1, eerste lid;
+- *residu:* een stof als bedoeld in artikel 2, onderdeel 43, van de richtlijn hernieuwbare energie;
+- *richtlijn hernieuwbare energie:* richtlijn (EU) 2018/2001 van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen (PbEU 2018, L 328);
+- *rode gasolie:* diesel voorzien van herkenningsmiddelen, bedoeld in artikel 1a, derde lid, van de Wet op de accijns en minerale oliën die op grond van artikel 28, met uitzondering van het tweede en zesde lid, van die wet voor het tarief van gasolie aan de accijns onderworpen zijn;
+- *sector binnenvaart:* binnenschepen;
+- *sector land:* wegvoertuigen, spoorvoertuigen, mobiele machines en vaste installaties;
+- *sector zeevaart:* zeeschepen;
+- *Uniedatabank:* databank als bedoeld in artikel 31 bis, eerste lid, van de richtlijn hernieuwbare energie;
+- *verordening (EU) 2019/807:* gedelegeerde verordening (EU) 2019/807 van de commissie van 13 maart 2019 tot aanvulling van Richtlijn (EU) 2018/2001 van het Europees Parlement en de Raad wat betreft het bepalen van de grondstoffen met een hoog risico van indirecte veranderingen in landgebruik waarbij een belangrijke uitbreiding van het productiegebied naar land met grote koolstofvoorraden waar te nemen valt, en de certificering van biobrandstoffen, vloeibare biomassa en biomassabrandstoffen met een laag risico op indirecte veranderingen in landgebruik (PbEU 2019, L 133);
+- *verordening (EU) 2022/996:* uitvoeringsverordening (EU) 2022/996 van de commissie van 14 juni 2022 betreffende de voorschriften om de duurzaamheids- en broeikasgasreductiecriteria alsmede de criteria inzake laag risico op indirecte veranderingen in landgebruik te controleren;
+- *vervoer:* wegvoertuigen, spoorvoertuigen, vaartuigen en mobiele machines;
+- *voedsel- en voedergewassen:* voedsel- en voedergewassen als bedoeld in artikel 2, onderdeel 40, van de richtlijn hernieuwbare energie;
+- *vrijwillig systeem:* door de Europese Commissie erkend vrijwillig systeem voor het certificeren dat een hernieuwbare brandstof van niet-biologische oorsprong voldoet aan de broeikasgasemissiereductiecriteria, bedoeld in artikel 30, vierde lid, van de richtlijn hernieuwbare energie;
+- *zeeschip:* zeeschip als bedoeld in artikel 1, eerste lid, van de Binnenvaartwet;
+- *zware stookolie:* zware stookolie als bedoeld in artikel 26, vijfde lid, van de Wet op de accijns en minerale oliën die op grond van artikel 28, met uitzondering van het tweede en zesde lid, van die wet voor het tarief van zware stookolie aan de accijns onderworpen zijn.
+
+##### Artikel 9.7.1.2
+
+1\. Bij of krachtens algemene maatregel van bestuur kunnen categorieën leveranciers tot eindverbruik worden aangewezen waarop de in deze titel opgenomen bepalingen met betrekking tot de leverancier tot eindverbruik niet van toepassing zijn.
+
+2\. Bij algemene maatregel van bestuur worden nadere regels gesteld over de levering tot eindverbruik sector zeevaart en de leverancier met een levering tot eindverbruik sector zeevaart.
+
+##### Artikel 9.7.1.3
+
+Bij ministeriële regeling worden regels gesteld over:
+
+- a. de invoer en het gebruik van gegevens door inboekers en andere marktdeelnemers in de Uniedatabank, bedoeld in artikel 31 bis, tweede lid, van de richtlijn hernieuwbare energie;
+- b. de controle op de ingevoerde gegevens in de Uniedatabank door het certificeringsorgaan van het duurzaamheidsysteem of het vrijwillige systeem, bedoeld in artikel 31 bis, vijfde lid, van de richtlijn hernieuwbare energie, met inbegrip van de controle over de ingevoerde gegevens door luchtvaartbrandstofleveranciers als bedoeld in artikel 10 van Verordening (EU) 2023/2405.
+
+##### Artikel 9.7.1.4
+
+Onze minister, de rijksbelastingdienst en de distributiesysteembeheerder verstrekken op verzoek het bestuur van de emissieautoriteit de bij ministeriële regeling vast te stellen gegevens, voor zover die gegevens voor de uitvoering van deze titel noodzakelijk zijn.
+
+#### § 9.7.2 — Jaarverplichting hernieuwbare energie vervoer
+
+##### Artikel 9.7.2.1
+
+1\. De leverancier tot eindverbruik is in enig kalenderjaar het aantal per soort emissiereductie-eenheden als bedoeld in artikel 9.7.3.2, tweede lid, verschuldigd, dat overeenkomt met het bij algemene maatregel van bestuur vast te stellen percentage CO<sub>2</sub>-equivalent-ketenemissiereductie van zijn levering tot eindverbruik sector land, zijn levering tot eindverbruik sector binnenvaart of zijn levering tot eindverbruik sector zeevaart in het direct aan dat kalenderjaar voorafgaande kalenderjaar.
+
+2\. Bij algemene maatregel van bestuur worden voor de toepassing van het eerste lid per sector eisen gesteld aan het aantal en soort emissiereductie-eenheden als bedoeld in artikel 9.7.3.2, tweede lid.
+
+3\. Bij algemene maatregel van bestuur worden voor het voldoen aan de jaarverplichting regels gesteld over het gebruik van emissiereductie-eenheden uit de verschillende sectoren, bedoeld in artikel 9.7.3.2, eerste lid, en het gebruik van raffinagereductie-eenheden, waaronder regels over het maximum gebruik per sector van deze emissiereductie-eenheden en raffinagereductie-eenheden.
+
+4\. Ten behoeve van de uitvoering van het derde lid kan bij of krachtens algemene maatregel van bestuur worden bepaald dat voor het voldoen aan de jaarverplichting in een sector raffinagereductie-eenheden worden vermenigvuldigd met een bij ministeriële regeling vast te stellen factor kleiner dan één en geldt de vermenigvuldigingsfactor één tot in ieder geval 2030.
+
+##### Artikel 9.7.2.2
+
+De leverancier tot eindverbruik heeft een rekening met jaarverplichtingfaciliteit in het register.
+
+##### Artikel 9.7.2.3
+
+1\. De leverancier tot eindverbruik voert voor 1 maart van enig kalenderjaar zijn levering tot eindverbruik sector land, zijn levering tot eindverbruik sector binnenvaart of zijn levering tot eindverbruik sector zeevaart van het direct aan die datum voorafgaande kalenderjaar op zijn rekening met jaarverplichtingfaciliteit in het register in.
+
+2\. Wijzigingen in de voor enig kalenderjaar op zijn rekening ingevoerde levering tot eindverbruik na de datum, bedoeld in het eerste lid, meldt de leverancier tot eindverbruik aan het bestuur van de emissieautoriteit.
+
+3\. Bij ministeriële regeling worden de bij het invoeren op de rekening te vermelden gegevens bepaald.
+
+4\. De gegevens, bedoeld in het derde lid, en de onderliggende stukken, worden door de leverancier tot eindverbruik bewaard tot ten minste vijf jaar na afloop van het kalenderjaar waarop die gegevens betrekking hebben.
+
+##### Artikel 9.7.2.4
+
+1\. Indien een leverancier tot eindverbruik in enig kalenderjaar zijn levering tot eindverbruik sector land, zijn levering tot eindverbruik sector binnenvaart of zijn levering tot eindverbruik sector zeevaart niet voor 1 maart van het daarop volgende kalenderjaar heeft ingevoerd op zijn rekening met jaarverplichtingfaciliteit, kan het bestuur van de emissieautoriteit haar ambtshalve vaststellen.
+
+2\. Indien een leverancier tot eindverbruik in enig kalenderjaar zijn levering tot eindverbruik sector land, zijn levering tot eindverbruik sector binnenvaart of zijn levering tot eindverbruik sector zeevaart niet juist heeft ingevoerd op zijn rekening met jaarverplichtingfaciliteit, kan het bestuur van de emissieautoriteit haar tot vijf jaar na dat kalenderjaar ambtshalve vaststellen.
+
+3\. Bij algemene maatregel van bestuur worden nadere regels gesteld over de toepassing van het eerste en tweede lid.
+
+##### Artikel 9.7.2.5
+
+1\. Op 1 april van enig kalenderjaar:
+
+- a. heeft de leverancier tot eindverbruik ten minste het aantal emissiereductie-eenheden per soort en sector op zijn rekening, en
+- b. schrijft het bestuur van de emissieautoriteit van de rekening van de leverancier tot eindverbruik het aantal emissiereductie-eenheden per soort en sector af,
+
+dat overeenkomt met de voor die leverancier voor het direct aan die datum voorafgaande kalenderjaar geldende jaarverplichting.
+
+2\. Bij of krachtens algemene maatregel van bestuur worden voor de levering tot eindverbruik sector land, de levering tot eindverbruik sector binnenvaart of de levering tot eindverbruik sector zeevaart, regels gesteld over de afschrijving van het aantal per soort emissiereductie-eenheden, bedoeld in het eerste lid, onderdeel b.
+
+3\. Indien toepassing van artikel 9.7.2.4, tweede lid, leidt tot een verhoging van de jaarverplichting voor het betrokken kalenderjaar, schrijft het bestuur van de emissieautoriteit met inachtneming van het tweede lid het aantal emissiereductie-eenheden per soort en sector dat overeenkomt met die verhoging af van de rekening van de leverancier tot eindverbruik.
+
+4\. Indien toepassing van artikel 9.7.2.4, tweede lid, leidt tot een verlaging van de jaarverplichting voor het betrokken kalenderjaar, schrijft het bestuur van de emissieautoriteit, met inachtneming van het tweede lid, het aantal emissiereductie-eenheden per soort en sector dat overeenkomt met die verlaging bij op de rekening van de leverancier tot eindverbruik. Het bestuur van de emissieautoriteit houdt hierbij rekening met artikel 9.7.5.6.
+
+5\. Indien het aantal emissiereductie-eenheden per soort en sector op de rekening van de leverancier tot eindverbruik als gevolg van de toepassing van het eerste of derde lid leidt tot een negatief saldo aan emissiereductie-eenheden, vult hij het tekort binnen drie kalendermaanden aan.
+
+##### Artikel 9.7.2.6
+
+1\. De leverancier tot eindverbruik overlegt voor 1 mei van het kalenderjaar volgend op het kalenderjaar van zijn levering tot eindverbruik sector binnenvaart of zijn levering tot eindverbruik sector zeevaart aan het bestuur van de emissieautoriteit een verklaring van een verificateur, waaruit blijkt dat deze levering of leveringen volledig is of zijn ingevoerd op zijn rekening met jaarverplichtingfaciliteit.
+
+2\. De verificateur bewaart alle gegevens en documentatie met betrekking tot de verificatie gedurende ten minste vijf jaar na afloop van het kalenderjaar waarop de verificatie betrekking heeft.
+
+3\. Bij of krachtens algemene maatregel van bestuur kunnen nadere eisen worden gesteld aan de verificateur en de verificatie.
+
+#### § 9.7.3 — Emissiereductie-eenheden
+
+##### Artikel 9.7.3.1
+
+1\. Een emissiereductie-eenheid vertegenwoordigt een bijdrage aan de jaarverplichting van één kg CO<sub>2</sub>-equivalent-ketenemissiereductie, berekend overeenkomstig een bij ministeriële regeling vast te stellen rekenregel.
+
+2\. Een emissiereductie-eenheid wordt uitsluitend in het register gehouden.
+
+##### Artikel 9.7.3.2
+
+1\. Een emissiereductie-eenheid wordt onderscheiden naar gelang de hernieuwbare energie is geleverd aan de volgende sectoren:
+
+- a. sector land;
+- b. sector binnenvaart;
+- c. sector zeevaart.
+
+2\. Een emissiereductie-eenheid wordt voorts onderscheiden in de volgende soorten:
+
+- a. emissiereductie-eenheid conventioneel;
+- b. emissiereductie-eenheid geavanceerd;
+- c. emissiereductie-eenheid bijlage IX-B;
+- d. emissiereductie-eenheid hernieuwbare brandstof van niet-biologische oorsprong;
+- e. emissiereductie-eenheid elektriciteit;
+- f. emissiereductie-eenheid overig.
+
+##### Artikel 9.7.3.3
+
+Een emissiereductie-eenheid is vatbaar voor overdracht indien de overdragende partij en de ontvangende partij ieder op hun naam een rekening hebben in het register.
+
+##### Artikel 9.7.3.4
+
+1\. Overdracht van een of meer emissiereductie-eenheden mag niet leiden tot een negatief saldo aan emissiereductie-eenheden per soort op de rekening.
+
+2\. Overdracht van een of meer emissiereductie-eenheden is niet toegestaan bij een negatief saldo aan emissiereductie-eenheden per soort op de rekening.
+
+##### Artikel 9.7.3.5
+
+1\. De voor overdracht van een emissiereductie-eenheid vereiste levering geschiedt door:
+
+- a. afschrijving van de emissiereductie-eenheid van de rekening die in het register op naam staat van de partij die de emissiereductie-eenheid overdraagt, en
+- b. bijschrijving op de rekening die in het register op naam staat van de partij die de emissiereductie-eenheid verkrijgt.
+
+2\. Het eerste lid is van overeenkomstige toepassing op elke overgang anders dan overdracht.
+
+3\. Elke overgang anders dan overdracht werkt tegenover derden eerst nadat de overgang in het register is geregistreerd.
+
+##### Artikel 9.7.3.6
+
+1\. Nietigheid of vernietiging van de overeenkomst die tot de overdracht heeft geleid, of onbevoegdheid van degene die overdraagt, heeft, nadat de overdracht is voltooid, geen gevolgen voor de geldigheid van de overdracht.
+
+2\. Elk voorbehoud met betrekking tot de overdracht is uitgewerkt op het moment dat de overdracht tot stand is gekomen.
+
+##### Artikel 9.7.3.7
+
+1\. In afwijking van artikel 228 van Boek 3 van het Burgerlijk Wetboek kan op een emissiereductie-eenheid geen recht van pand worden gevestigd.
+
+2\. Op een emissiereductie-eenheid kan geen recht van vruchtgebruik worden gevestigd.
+
+3\. Een emissiereductie-eenheid is niet vatbaar voor beslag.
+
+##### Artikel 9.7.3.8
+
+Indien het saldo van het aantal per soort emissiereductie-eenheden op een rekening in het register negatief is, worden de bijgeschreven emissiereductie-eenheden per soort volgens bij algemene maatregel van bestuur vast te stellen regels afgeschreven.
+
+##### Artikel 9.7.3.9
+
+Het bestuur van de emissieautoriteit stelt voor de sector land en de sector binnenvaart jaarlijks, per soort emissiereductie-eenheid die de leverancier tot eindverbruik voor het voldoen aan zijn jaarverplichting mag gebruiken, de energiebijdrage van de emissiereductie-eenheid vast. Bij ministeriële regeling worden regels gesteld met betrekking tot de jaarlijkse vaststelling.
+
+#### § 9.7.4 — Inboeken hernieuwbare energie vervoer
+
+##### Artikel 9.7.4.1
+
+1\. Een inboeker kan tot 1 maart van enig kalenderjaar inboeken in het register de in het direct aan die datum voorafgaande kalenderjaar:
+
+- a. door hem aan de Nederlandse markt voor vervoer geleverde vloeibare biobrandstof die voldoet aan artikel 9.7.4.2;
+- b. door hem aan vervoer in Nederland geleverde gasvormige biobrandstof die voldoet aan artikel 9.7.4.3;
+- c. door hem aan de Nederlandse markt voor vervoer geleverde vloeibare hernieuwbare brandstof van niet-biologische oorsprong die voldoet aan artikel 9.7.4.4;
+- d. door hem aan vervoer in Nederland geleverde gasvormige hernieuwbare brandstof van niet-biologische oorsprong die voldoet aan artikel 9.7.4.4, of
+- e. door hem of als inboekdienstverlener aan vervoer in Nederland geleverde elektriciteit, die voldoet aan bij of krachtens algemene maatregel van bestuur gestelde eisen, met uitzondering van elektriciteit geleverd aan bij algemene maatregel van bestuur te bepalen bestemmingen of laadinfrastructuur.
+
+2\. Bij de inboeking, bedoeld in het eerste lid, wordt een onderscheid gemaakt naar gelang de hernieuwbare energie is geleverd aan de:
+
+- a. sector land;
+- b. sector binnenvaart;
+- c. sector zeevaart.
+
+3\. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
+
+- a. de inboeker, bedoeld in het eerste lid;
+- b. de inboekdienstverlener, bedoeld in het eerste lid, onderdeel e;
+- c. de minimale hoeveelheden in te boeken elektriciteit door een inboeker;
+- d. het geaggregeerd inboeken van elektriciteit door de inboekdienstverlener.
+
+##### Artikel 9.7.4.2
+
+1\. De in te boeken vloeibare biobrandstof:
+
+- a. voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde duurzaamheids- en broeikasgasemissiereductiecriteria;
+- b. bevond zich direct voorafgaand aan de levering aan de Nederlandse markt voor vervoer op een opslaglocatie van de inboeker die door het door hem gehanteerde duurzaamheidsysteem is gecertificeerd, dan wel op een andere locatie voor zover die certificering zich over die opslaglocatie uitstrekt en voert over die opslaglocatie de massabalans van biobrandstoffen,
+- c. voldoet aan de overig bij of krachtens algemene maatregel van bestuur gestelde eisen, waaronder eisen ten aanzien van het aantonen dat de hoeveelheid ingeboekte biobrandstof is geleverd aan de Nederlandse markt voor vervoer,
+- d. wordt niet geproduceerd uit olie uit sojabonen of palmolie, met uitzondering van olie uit sojabonen of palmolie met een gecertificeerd laag risico op indirecte veranderingen in landgebruik als bedoeld in verordening (EU) 2019/807, en
+- e. dit onderdeel is nog niet in werking getreden.
+
+2\. Bij algemene maatregel van bestuur kunnen leveringen van bepaalde vloeibare biobrandstoffen afkomstig van landen buiten Nederland worden uitgezonderd van het eerste lid, onderdeel b, ten aanzien van de verplichting om de massabalans van biobrandstoffen te voeren over de opslaglocatie waar de vloeibare biobrandstof zich direct voorafgaand aan de levering aan de Nederlandse markt voor vervoer bevond.
+
+##### Artikel 9.7.4.3
+
+De in te boeken gasvormige biobrandstof voldoet aan:
+
+- a. de bij of krachtens algemene maatregel van bestuur gestelde duurzaamheids- en broeikasgasemissiereductiecriteria;
+- b. de overige eisen, gesteld bij of krachtens algemene maatregel van bestuur.
+
+##### Artikel 9.7.4.4
+
+De in te boeken vloeibare of gasvormige hernieuwbare brandstof van niet-biologische oorsprong:
+
+- a. voldoet aan bij of krachtens algemene maatregel van bestuur gestelde broeikasgasemissiereductiedrempels;
+- b. bevond zich direct voorafgaand aan de levering aan de Nederlandse markt voor vervoer op een opslaglocatie van de inboeker die door het door hem gehanteerde vrijwillige systeem is gecertificeerd, dan wel op een opslaglocatie van een ander voor zover die certificering zich over die opslaglocatie uitstrekt en voert over die opslaglocatie de massabalans van hernieuwbare brandstoffen van niet-biologische oorsprong, en
+- c. voldoet aan de overige eisen, gesteld bij of krachtens algemene maatregel van bestuur.
+
+##### Artikel 9.7.4.5
+
+1\. Bij ministeriële regeling:
+
+- a. worden regels gesteld over de bepaling van de ingeboekte hoeveelheid hernieuwbare energie;
+- b. wordt bepaald op welke wijze de inboeker aantoont dat is voldaan aan de artikelen 9.7.4.2, 9.7.4.3 en 9.7.4.4;
+- c. worden de bij het inboeken te vermelden gegevens bepaald;
+- d. kunnen regels worden gesteld voor de administratieve organisatie van de inboeker met maatregelen van interne beheersing en controle voor het inboeken van geleverde hernieuwbare energie.
+
+2\. De gegevens, bedoeld in het eerste lid, onderdeel c, worden door de inboeker bewaard gedurende ten minste vijf jaar na het kalenderjaar waarin de inboeking plaatsvond.
+
+##### Artikel 9.7.4.6
+
+1\. Het bestuur van de emissieautoriteit schrijft voor één kg CO<sub>2</sub>-equivalent-ketenemissiereductie die is ingeboekt in het register op de rekening van de inboeker:
+
+- a. één emissiereductie-eenheid conventioneel bij, indien de geleverde biobrandstof is geproduceerd uit:
+  - 1°. voedsel- en voedergewassen, met een laag risico of gecertificeerd laag risico op indirecte veranderingen in landgebruik als bedoeld in verordening (EU) 2019/807; of
+  - 2°. een bijproduct van de productie of verwerking van voedsel- en voedergewassen, niet zijnde de grondstoffen, bedoeld in bijlage IX van de richtlijn hernieuwbare energie of verordening (EU) 2022/996;
+- b. één emissiereductie-eenheid geavanceerd bij, indien de geleverde biobrandstof is geproduceerd uit:
+  - 1°. grondstoffen als bedoeld in bijlage IX, deel A, van de richtlijn hernieuwbare energie of als zodanig aangemerkt in verordening (EU) 2022/996; of
+  - 2°. een grondstof die voorkomt op een bij ministeriële regeling vast te stellen lijst van materialen;
+- c. één emissiereductie-eenheid bijlage IX-B bij, indien de geleverde biobrandstof is geproduceerd uit grondstoffen als bedoeld in bijlage IX, deel B, van de richtlijn hernieuwbare energie of als zodanig aangemerkt in verordening (EU) 2022/996;
+- d. één emissiereductie-eenheid hernieuwbare brandstof van niet-biologische oorsprong bij voor een geleverde vloeibare of gasvormige hernieuwbare brandstof van niet-biologische oorsprong;
+- e. één emissiereductie-eenheid elektriciteit bij voor het gedeelte van de geleverde of door natuurlijke personen op hun onroerende zaak geladen elektriciteit afkomstig uit hernieuwbare bronnen;
+- f. één emissiereductie-eenheid overig bij:
+  - 1°. indien de geleverde biobrandstof is geproduceerd uit een residu van de productie of verwerking van voedsel- en voedergewassen, niet zijnde de grondstoffen, bedoeld in bijlage IX van de richtlijn hernieuwbare energie of verordening (EU) 2022/996; of
+  - 2°. indien de geleverde biobrandstof is geproduceerd uit grondstoffen, niet zijnde de grondstoffen, bedoeld in de onderdelen a tot en met d en f, onder 1°.
+
+2\. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de berekening van de CO<sub>2</sub>-equivalent-ketenemissiereductie.
+
+3\. De hoeveelheid ingeboekte CO<sub>2</sub>-equivalent-ketenemissiereductie wordt per soort emissiereductie-eenheid naar beneden afgerond op één kilogram.
+
+4\. In afwijking van het eerste lid schrijft het bestuur van de emissieautoriteit voor een door een importeur ingeboekte hoeveelheid hernieuwbare energie emissiereductie-eenheden bij op de rekening van die importeur, nadat die importeur volgens bij ministeriële regeling gestelde regels heeft aangetoond dat die hoeveelheid hernieuwbare energie aan de Nederlandse markt is geleverd.
+
+5\. In afwijking van het eerste lid, onderdeel f, kan het bestuur van de emissieautoriteit een aantal emissiereductie-eenheden overig bijschrijven ter grootte van de CO<sub>2</sub>-equivalent-ketenemissiereductie, vermenigvuldigd met een bij ministeriële regeling vast te stellen factor kleiner dan één, voor de grondstoffen van het eerste lid, onderdeel f, waarbij een onderscheid per grondstof gemaakt kan worden.
+
+6\. Een geleverde biobrandstof die geproduceerd is uit voedsel- en voedergewassen wordt geacht niet als tussenteelt op landbouwgrond te zijn geteeld en te hebben geleid tot de vraag naar meer land, tenzij de inboeker het tegendeel aantoont.
+
+7\. In afwijking van het eerste lid schrijft het bestuur van de emissieautoriteit een aantal emissiereductie-eenheden bij ter grootte van een bij ministeriële regeling vastgesteld gedeelte van de CO<sub>2</sub>-equivalent-ketenemissiereductie van de hoeveelheid ingeboekte elektriciteit.
+
+##### Artikel 9.7.4.7
+
+1\. Het bestuur van de emissieautoriteit maakt ieder jaar op bij ministeriële regeling te bepalen momenten een overzicht per sector als bedoeld in artikel 9.7.3.2, eerste lid, van het aantal per soort beschikbare emissiereductie-eenheden openbaar.
+
+2\. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het openbaar maken, bedoeld in het eerste lid.
+
+##### Artikel 9.7.4.8
+
+1\. De inboeker die een vloeibare biobrandstof levert die is uitgezonderd van het vereiste van artikel 9.7.4.2, eerste lid, onderdeel b, overlegt voor 1 mei van het kalenderjaar volgend op het kalenderjaar waarin hij de vloeibare biobrandstof heeft geleverd aan het bestuur van de emissieautoriteit een verklaring van een verificateur waaruit blijkt dat de geleverde brandstof vervaardigd is uit biomassa.
+
+2\. De inboeker die een hoeveelheid biobrandstof als bedoeld in het eerste lid inboekt, beschikt over een verklaring van een verificateur dat die biobrandstof voldoet aan de voorwaarden, bedoeld in dat lid.
+
+3\. De verificateur geeft geen verklaring af indien niet is voldaan aan de eisen, bedoeld in het eerste lid.
+
+4\. De verificateur bewaart alle gegevens en documentatie met betrekking tot de verificatie gedurende ten minste vijf jaar na afloop van het kalenderjaar waarop de verificatie betrekking heeft.
+
+5\. Bij of krachtens algemene maatregel van bestuur kunnen nadere eisen worden gesteld aan de verificateur en de verificatie.
+
+##### Artikel 9.7.4.9
+
+Voor hernieuwbare energie die tussen 1 januari en 1 april van enig kalenderjaar wordt geleverd en ingeboekt in het register, schrijft het bestuur van de emissieautoriteit na 1 mei van dat kalenderjaar de emissiereductie-eenheden bij op de rekening van de inboeker.
+
+##### Artikel 9.7.4.10
+
+Een hoeveelheid hernieuwbare energie die wordt ingeboekt in het register is niet als duurzaam overgedragen en wordt niet nog een keer ingeboekt in het register.
+
+##### Artikel 9.7.4.11
+
+1\. Het bestuur van de emissieautoriteit kan het bijschrijven van emissiereductie-eenheden opschorten of weigeren indien het misbruik of fraude vermoedt dan wel andere redenen heeft om aan te nemen dat niet wordt voldaan aan de bij of krachtens deze paragraaf gestelde eisen.
+
+2\. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het opschorten of weigeren, bedoeld in het eerste lid.
+
+##### Artikel 9.7.4.12
+
+1\. De inboeker overlegt voor 1 mei van het kalenderjaar volgend op het kalenderjaar waarin hij de hernieuwbare energie heeft geleverd aan het bestuur van de emissieautoriteit een verklaring van een verificateur waaruit blijkt dat, voor zover van toepassing, is voldaan aan de bij of krachtens de artikelen 9.7.4.1 tot en met 9.7.4.5, eerste lid, 9.7.4.8 en 9.7.4.10 gestelde eisen.
+
+2\. De verificateur geeft geen verklaring af indien niet is voldaan aan de eisen, bedoeld in het eerste lid.
+
+3\. De verificateur bewaart alle gegevens en documentatie met betrekking tot de verificatie gedurende ten minste vijf jaar na afloop van het kalenderjaar waarop de verificatie betrekking heeft.
+
+4\. Bij of krachtens algemene maatregel van bestuur kunnen nadere eisen worden gesteld aan de verificateur en de verificatie.
+
+##### Artikel 9.7.4.13
+
+1\. Indien naar het oordeel van het bestuur van de emissieautoriteit niet is voldaan aan de bij of krachtens deze paragraaf gestelde eisen voor het inboeken in het register van een hoeveelheid hernieuwbare energie of de verificatie, bedoeld in artikel 9.7.4.12, kan het bestuur die hoeveelheid en de kenmerken van die hoeveelheid, tot vijf jaar na het kalenderjaar van inboeken ambtshalve vaststellen.
+
+2\. Indien uit de vaststelling, bedoeld in het eerste lid, volgt dat de inboeker te veel emissiereductie-eenheden heeft ontvangen voor de geleverde hoeveelheid hernieuwbare energie, wordt per sector als bedoeld in artikel 9.7.3.2, eerste lid, het aantal per soort emissiereductie-eenheden dat die inboeker te veel heeft ontvangen, afgeschreven van de rekening van die inboeker.
+
+3\. Indien uit de vaststelling, bedoeld in het eerste lid, volgt dat de inboeker te weinig emissiereductie-eenheden heeft ontvangen voor de geleverde hoeveelheid hernieuwbare energie, wordt per sector als bedoeld in artikel 9.7.3.2, eerste lid, het aantal per soort emissiereductie-eenheden dat die inboeker te weinig heeft ontvangen, bijgeschreven op de rekening van die inboeker. Het bestuur van de emissieautoriteit houdt hierbij rekening met artikel 9.7.5.6.
+
+4\. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van het eerste, tweede en derde lid.
+
+5\. Indien per sector als bedoeld in artikel 9.7.3.2, eerste lid, het aantal per soort emissiereductie-eenheden op de rekening van de inboeker als gevolg van de toepassing van het tweede lid leidt tot een negatief saldo aan emissiereductie-eenheden, vult hij het tekort aan binnen drie kalendermaanden.
+
+##### Artikel 9.7.4.14
+
+1\. De emissieautoriteit maakt ieder jaar een overzicht openbaar, waarin per inboeker van biobrandstof de aard, herkomst en de CO<sub>2</sub>-equivalent-ketenemissiereductie van de door die inboeker ingeboekte biobrandstoffen alsmede het door die inboeker gehanteerde duurzaamheidssysteem zijn opgenomen. Artikel 5.1, eerste en tweede lid, van de Wet open overheid is van overeenkomstige toepassing.
+
+2\. Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de inhoud en de wijze van openbaarmaking van het overzicht, bedoeld in het eerste lid.
+
+#### § 9.7.5 — Register hernieuwbare energie vervoer
+
+##### Artikel 9.7.5.1
+
+1\. Er is een elektronisch register hernieuwbare energie.
+
+2\. Het register wordt beheerd door de emissieautoriteit.
+
+3\. Het register bestaat uit de rekeningen, bedoeld in artikel 9.7.5.3, met een onderscheid naar sectoren als bedoeld in artikel 9.7.3.2, eerste lid.
+
+##### Artikel 9.7.5.2
+
+1\. Bij ministeriële regeling worden regels gesteld over de werking, organisatie, beschikbaarheid en beveiliging van het register.
+
+2\. Het bestuur van de emissieautoriteit kan voorwaarden voor het gebruik van het register vaststellen.
+
+##### Artikel 9.7.5.3
+
+1\. Het bestuur van de emissieautoriteit opent op verzoek van de leverancier tot eindverbruik op diens naam een rekening in het register met jaarverplichtingfaciliteit en met overboekfaciliteit.
+
+2\. Het bestuur van de emissieautoriteit opent op verzoek van een inboeker op diens naam een rekening in het register met inboekfaciliteit en met overboekfaciliteit.
+
+3\. Het bestuur van de emissieautoriteit opent op verzoek van een andere onderneming dan die bedoeld in het eerste of tweede lid, die behoort tot een bij algemene maatregel van bestuur aangewezen categorie, op diens naam een rekening in het register met overboekfaciliteit.
+
+4\. Het bestuur van de emissieautoriteit opent op naam van een onderneming niet meer dan één rekening. Een rekening kan alle in het eerste en tweede lid genoemde faciliteiten omvatten.
+
+5\. Het bestuur van de emissieautoriteit opent in het register een afboekrekening.
+
+6\. Bij ministeriële regeling worden regels gesteld over het openen, bijhouden en beheer van de rekeningen in het register.
+
+##### Artikel 9.7.5.4
+
+1\. Het bestuur van de emissieautoriteit kan indien het redenen heeft om aan te nemen dat er sprake is van fraude of misbruik of dat niet wordt voldaan aan de bij of krachtens deze titel gestelde eisen voor het hebben van een rekening in het register of voor het gebruik van die rekening:
+
+- a. weigeren een rekening te openen;
+- b. een rekening of een faciliteit van die rekening blokkeren;
+- c. een rekening opheffen.
+
+2\. Het bestuur van de emissieautoriteit kan op verzoek van de rekeninghouder een rekening opheffen.
+
+3\. Bij algemene maatregel van bestuur worden nadere regels gesteld over de toepassing van het eerste lid en kunnen regels worden gesteld over de toepassing van het tweede lid.
+
+4\. De emissiereductie-eenheden op een opgeheven rekening vervallen van rechtswege.
+
+##### Artikel 9.7.5.5
+
+1\. Bij ministeriële regeling kan worden bepaald dat voor het openen en bijhouden van een rekening met overboekfaciliteit, inboekfaciliteit of jaarverplichtingfaciliteit een vergoeding verschuldigd is overeenkomstig de bij die regeling te stellen regels.
+
+2\. Bij de regeling, bedoeld in het eerste lid:
+
+- a. wordt de hoogte van de vergoeding vastgesteld, welke niet hoger is dan noodzakelijk is ter dekking van de ten laste van de emissieautoriteit komende kosten van het verrichten van werkzaamheden waarvoor de vergoeding is verschuldigd, en
+- b. worden regels gesteld omtrent de wijze waarop de vergoeding wordt betaald.
+
+##### Artikel 9.7.5.6
+
+1\. Van het aantal per soort per sector emissiereductie-eenheden op 1 april van enig kalenderjaar op de rekening in het register van een leverancier tot eindverbruik, nadat het bestuur van de emissieautoriteit toepassing heeft gegeven aan artikel 9.7.2.5, eerste lid, onderdeel b, op de rekening in het register van een inboeker of op de rekening in het register van een onderneming als bedoeld in artikel 9.7.5.3. derde lid, wordt een gedeelte gespaard ten behoeve van het direct daaropvolgende kalenderjaar.
+
+2\. Van de rekening in het register van de leverancier tot eindverbruik en van de rekening in het register van de inboeker worden uitsluitend emissiereductie-eenheden per soort gespaard van de sector waarin ze leverancier tot eindverbruik onderscheidenlijk inboeker zijn.
+
+3\. Bij algemene maatregel van bestuur worden regels gesteld omtrent het gedeelte, bedoeld in het eerste lid, en de volgorde waarin per sector als bedoeld in artikel 9.7.3.2, eerste lid, de soort emissiereductie-eenheden gespaard worden. Voor de leverancier tot eindverbruik, de inboeker of de onderneming, bedoeld in artikel 9.7.5.3, derde lid, kunnen verschillende regels worden vastgesteld omtrent het gedeelte, bedoeld in het eerste lid.
+
+4\. De emissiereductie-eenheden die niet worden gespaard, vervallen van rechtswege.
+
+#### § 9.7.6 — Naleving van de duurzaamheids- en broeikasgasemissiereductiecriteria en broeikasgasemissiereductiedrempels
+
+##### Artikel 9.7.6.1
+
+1\. De producent van biobrandstoffen bepaalt en controleert:
+
+- a. de aard en hoeveelheid van de door hem ontvangen duurzame grondstof voor de vervaardiging van de biobrandstof;
+- b. de juiste verhouding tussen de aard en hoeveelheid gebruikte duurzame grondstof en de soort en hoeveelheid door hem vervaardigde duurzame biobrandstof;
+- c. de hoeveelheid per afnemer van de door hem geleverde duurzame biobrandstof;
+- d. de broeikasgasemissiegegevens;
+
+en voert hierover een goede boekhouding.
+
+2\. De producent van waterstof uit elektriciteit uit hernieuwbare bronnen, niet zijnde biomassa, controleert:
+
+- a. de aard en hoeveelheid van de door hem gebruikte elektriciteit uit hernieuwbare bronnen, niet zijnde biomassa, voor de vervaardiging van de hernieuwbare waterstof;
+- b. de juiste verhouding tussen de hoeveelheid gebruikte elektriciteit uit hernieuwbare bronnen, niet zijnde biomassa, en de hoeveelheid door hem vervaardigde hernieuwbare waterstof;
+- c. de hoeveelheid per afnemer van de door hem geleverde hernieuwbare waterstof;
+- d. de broeikasgasemissiegegevens;
+
+en voert hierover een goede boekhouding.
+
+3\. De producent van een hernieuwbare brandstof van niet-biologische oorsprong controleert:
+
+- a. de aard en hoeveelheid van de door hem gebruikte hernieuwbare waterstof voor de vervaardiging van de hernieuwbare brandstof van niet-biologische oorsprong;
+- b. de juiste verhouding tussen de hoeveelheid gebruikte hernieuwbare waterstof en de soort en hoeveelheid door hem vervaardigde hernieuwbare brandstof van niet-biologische oorsprong;
+- c. de hoeveelheid per afnemer van de door hem geleverde hernieuwbare brandstof van niet-biologische oorsprong;
+- d. de broeikasgasemissiegegevens;
+
+en voert hierover een goede boekhouding.
+
+4\. Bij ministeriële regeling worden nadere regels gesteld over het eerste tot en met derde lid.
+
+##### Artikel 9.7.6.2
+
+1\. Een onderneming of een partij die gecertificeerd is volgens een duurzaamheidssysteem voert een massabalans van biobrandstoffen over duurzame grondstof voor biobrandstof en duurzame biobrandstof en controleert de broeikasgasemissiegegevens.
+
+2\. Een onderneming of een partij die gecertificeerd is volgens een vrijwillig systeem voert een massabalans van hernieuwbare brandstoffen van niet-biologische oorsprong.
+
+3\. Bij ministeriële regeling worden nadere regels gesteld over de massabalans.
+
+##### Artikel 9.7.6.3
+
+1\. Het bestuur van de emissieautoriteit houdt toezicht op een certificeringsorgaan:
+
+- a. dat namens het duurzaamheidsysteem in het kader van de naleving van duurzaamheids- of broeikasgasemissiereductiecriteria voor grondstoffen voor biobrandstof en biobrandstof onafhankelijke audits uitvoert;
+- b. dat namens het vrijwillige systeem in het kader van de naleving van broeikasgasemissiereductiecriteria voor hernieuwbare brandstoffen van niet-biologische oorsprong onafhankelijke audits uitvoert;
+- c. dat namens het duurzaamheidsysteem of het vrijwillige systeem de nauwkeurigheid en volledigheid van de door marktdeelnemers in de Uniedatabank ingevoerde gegevens controleert.
+
+2\. Het bestuur van de emissieautoriteit brengt het duurzaamheidsysteem of het vrijwillige systeem onverwijld op de hoogte van een vastgestelde non-conformiteit.
+
+### Titel 9.8 — Raffinagereductie vervoersbrandstoffen
+
+#### § 9.8.1 — Algemeen
+
+##### Artikel 9.8.1.1
+
+In deze titel en de daarop berustende bepalingen wordt verstaan onder:
+
+- *afboekrekening:* rekening in het register, bedoeld om de naar die rekening overgeboekte raffinagereductie-eenheden te onttrekken aan het aantal beschikbare raffinagereductie-eenheden;
+- *biobrandstof:* biobrandstof als bedoeld in artikel 2, onderdeel 33, van de richtlijn hernieuwbare energie;
+- *CO<sub>2</sub>-equivalent-ketenemissiereductie:* de hoeveelheid verminderde broeikasgasuitstoot door de productie, het vervoer, de distributie en het gebruik van hernieuwbare energie, ten opzichte van de fossiele referentiebrandstof, bedoeld in bijlage V van de richtlijn hernieuwbare energie;
+- *energie-inhoud:* energie-inhoud als bedoeld in bijlage III bij de richtlijn hernieuwbare energie;
+- *hernieuwbare brandstof van niet-biologische oorsprong:* hernieuwbare brandstof van niet-biologische oorsprong als bedoeld in artikel 9.7.1.1;
+- *inboeker:* onderneming die ingevolge artikel 9.8.3.1 bevoegd is om een gebruikte hoeveelheid in zijn raffinaderij gebruikte hernieuwbare brandstof van niet-biologische oorsprong in het register in te voeren;
+- *inboekfaciliteit:* eigenschap van een rekening in het register die de inboeking van gebruikte hernieuwbare brandstof van niet-biologische oorsprong overeenkomstig artikel 9.8.3.1 mogelijk maakt;
+- *massabalans:* een boekhouding die een getrouwe weergave geeft van de in- en uitgaande stromen en voorraad van hernieuwbare brandstof van niet-biologische oorsprong van een onderneming op een locatie gedurende een bepaalde periode, als onderdeel van een door de raffinaderijhouder gehanteerd vrijwillig systeem;
+- *overboekfaciliteit:* eigenschap van een rekening in het register die de overboeking van een raffinagereductie-eenheid mogelijk maakt;
+- *raffinaderij:* een technische installatie in Nederland waarin een hernieuwbare brandstof van niet-biologische oorsprong gebruikt wordt als tussenproduct voor de productie van een conventionele vervoersbrandstof of een biobrandstof;
+- *raffinagereductie-eenheid:* raffinagereductie-eenheid als bedoeld in artikel 9.8.2.1;
+- *raffinaderijhouder:* houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, van de Wet op de accijns voor minerale oliën voor een raffinaderij;
+- *register:* register als bedoeld in artikel 9.8.4.1, eerste lid;
+- *richtlijn hernieuwbare energie:* richtlijn (EU) 2018/2001 van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen (PbEU 2018, L 328);
+- *vrijwillig systeem:* door de Europese Commissie erkend vrijwillig systeem voor het certificeren dat een hernieuwbare brandstof van niet-biologische oorsprong voldoet aan de broeikasgasemissiereductiecriteria als bedoeld in artikel 30, vierde lid, van de richtlijn hernieuwbare energie.
+
+#### § 9.8.2 — Raffinagereductie-eenheden
+
+##### Artikel 9.8.2.1
+
+1\. Een raffinagereductie-eenheid vertegenwoordigt één kg CO<sub>2</sub>-equivalent-ketenemissiereductie.
+
+2\. Een raffinagereductie-eenheid kan uitsluitend in het register gehouden worden.
+
+##### Artikel 9.8.2.2
+
+De artikelen 9.7.3.3 tot en met 9.7.3.7 zijn van overeenkomstige toepassing, met dien verstande dat telkens voor «emissiereductie-eenheid» wordt gelezen «raffinagereductie-eenheid».
+
+#### § 9.8.3 — Inboeken hernieuwbare brandstof van niet-biologische oorsprong
+
+##### Artikel 9.8.3.1
+
+1\. Een raffinaderijhouder kan tot 1 maart van enig kalenderjaar inboeken in het register de in het direct aan die datum voorafgaande kalenderjaar door hem in zijn raffinaderij gebruikte hoeveelheid hernieuwbare brandstof van niet-biologische oorsprong, gebruikt als tussenproduct voor de productie van een conventionele vervoersbrandstof of van een biobrandstof.
+
+2\. De in te boeken hernieuwbare brandstof van niet-biologische oorsprong voldoet aan:
+
+- a. de bij of krachtens algemene maatregel van bestuur gestelde broeikasgasemissiereductiedrempels;
+- b. de overige eisen, gesteld bij of krachtens algemene maatregel van bestuur.
+
+##### Artikel 9.8.3.2
+
+1\. Bij ministeriële regeling:
+
+- a. worden regels gesteld over de bepaling van de ingeboekte hoeveelheid gebruikte hernieuwbare brandstof van niet-biologische oorsprong;
+- b. wordt bepaald op welke wijze de inboeker aantoont dat is voldaan aan artikel 9.8.3.1;
+- c. worden de bij het inboeken te vermelden gegevens bepaald.
+
+2\. De gegevens, bedoeld in het eerste lid, onderdeel c, worden door de raffinaderijhouder bewaard gedurende ten minste vijf jaar na het kalenderjaar waarin de inboeking plaatsvond.
+
+##### Artikel 9.8.3.3
+
+1\. Het bestuur van de emissieautoriteit schrijft voor één kg CO<sub>2</sub>-equivalent-ketenemissiereductie die is ingeboekt in het register één raffinagereductie-eenheid bij op de rekening van de raffinaderijhouder.
+
+2\. De hoeveelheid ingeboekte hernieuwbare brandstof van niet-biologische oorsprong wordt naar beneden afgerond op één kg CO<sub>2</sub>-equivalent-ketenemissiereductie.
+
+3\. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de berekening van de CO<sub>2</sub>-equivalent-ketenemissiereductie.
+
+##### Artikel 9.8.3.4
+
+1\. Het bestuur van de emissieautoriteit maakt ieder jaar op bij ministeriële regeling te bepalen tijdstippen een overzicht van het aantal raffinagereductie-eenheden openbaar.
+
+2\. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het openbaar maken, bedoeld in het eerste lid.
+
+##### Artikel 9.8.3.5
+
+De artikelen 9.7.4.9 en 9.7.4.11 zijn van overeenkomstige toepassing, met dien verstande dat telkens voor «hernieuwbare energie» wordt gelezen «hernieuwbare brandstof van niet-biologische oorsprong» en voor «emissiereductie-eenheid» wordt gelezen «raffinagereductie-eenheid».
+
+##### Artikel 9.8.3.6
+
+1\. De raffinaderijhouder overlegt voor 1 mei van het kalenderjaar volgend op het kalenderjaar waarin hij de hernieuwbare brandstof van niet-biologische oorsprong in zijn raffinaderij heeft gebruikt aan het bestuur van de emissieautoriteit een verklaring van een verificateur waaruit blijkt dat is voldaan aan de bij of krachtens de artikelen 9.8.3.1 en 9.8.3.2 gestelde eisen.
+
+2\. De verificateur geeft geen verklaring af indien niet is voldaan aan de eisen, bedoeld in het eerste lid.
+
+3\. De verificateur bewaart alle gegevens en documentatie met betrekking tot de verificatie gedurende ten minste vijf jaar na afloop van het kalenderjaar waarop de verificatie betrekking heeft.
+
+4\. Bij of krachtens algemene maatregel van bestuur kunnen nadere eisen worden gesteld aan de verificateur en de verificatie.
+
+##### Artikel 9.8.3.7
+
+1\. Indien naar het oordeel van het bestuur van de emissieautoriteit niet is voldaan aan de bij of krachtens deze paragraaf gestelde eisen voor het inboeken in het register door de raffinaderijhouder van een gebruikte hoeveelheid hernieuwbare brandstof van niet-biologische oorsprong of de verificatie, bedoeld in artikel 9.8.3.6, kan het bestuur die hoeveelheid tot vijf jaar na het kalenderjaar van inboeken ambtshalve vaststellen.
+
+2\. Indien uit de vaststelling, bedoeld in het eerste lid, volgt dat de raffinaderijhouder te veel raffinagereductie-eenheden heeft ontvangen voor de gebruikte hoeveelheid hernieuwbare brandstof van niet-biologische oorsprong, wordt het aantal raffinagereductie-eenheden dat die raffinaderijhouder te veel heeft ontvangen, afgeschreven van zijn rekening in het register.
+
+3\. Indien uit de vaststelling, bedoeld in het eerste lid, volgt dat de raffinaderijhouder te weinig raffinagereductie-eenheden heeft ontvangen voor de gebruikte hoeveelheid hernieuwbare brandstof van niet-biologische oorsprong, wordt het aantal raffinagereductie-eenheden dat de raffinaderijhouder te weinig heeft ontvangen, bijgeschreven op zijn rekening. Het bestuur van de emissieautoriteit houdt hierbij rekening met artikel 9.8.4.5.
+
+4\. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van het eerste, tweede en derde lid.
+
+5\. Indien het aantal raffinagereductie-eenheden op de rekening van de raffinaderijhouder als gevolg van de toepassing van het tweede lid leidt tot een negatief saldo aan raffinagereductie-eenheden, vult hij het tekort binnen drie kalendermaanden aan.
+
+#### § 9.8.4 — Register raffinagereductie-eenheden
+
+##### Artikel 9.8.4.1
+
+1\. Er is een elektronisch register raffinagereductie-eenheden.
+
+2\. Het register wordt beheerd door de emissieautoriteit.
+
+3\. Het register bestaat uit de rekeningen, bedoeld in artikel 9.8.4.3.
+
+##### Artikel 9.8.4.2
+
+1\. Bij ministeriële regeling worden regels gesteld over de werking, organisatie, beschikbaarheid en beveiliging van het register.
+
+2\. Het bestuur van de emissieautoriteit kan voorwaarden voor het gebruik van het register vaststellen.
+
+##### Artikel 9.8.4.3
+
+\[1\] Het bestuur van de emissieautoriteit opent op verzoek van de raffinaderijhouder op diens naam in het register een rekening met inboekfaciliteit en overboekfaciliteit.
+
+\[2\] Het bestuur van de emissieautoriteit opent op verzoek van de leverancier tot eindverbruik, bedoeld in artikel 9.7.1.1, of de onderneming, bedoeld in artikel 9.7.5.3, derde lid, op diens naam in het register een rekening met overboekfaciliteit.
+
+3\. Het bestuur van de emissieautoriteit opent op naam van de partijen, bedoeld in het eerste en tweede lid, niet meer dan één rekening.
+
+4\. Het bestuur van de emissieautoriteit opent in het register een afboekrekening.
+
+5\. Bij ministeriële regeling worden regels gesteld over het openen, bijhouden en beheer van de rekeningen in het register.
+
+##### Artikel 9.8.4.4
+
+1\. Het bestuur van de emissieautoriteit kan bij een vermoeden van fraude of misbruik of dat niet wordt voldaan aan de bij of krachtens deze titel gestelde eisen voor het hebben van een rekening in het register of voor het gebruik van die rekening:
+
+- a. weigeren een rekening te openen;
+- b. een rekening blokkeren;
+- c. een rekening opheffen.
+
+2\. Bij algemene maatregel van bestuur worden nadere regels gesteld over de toepassing van het eerste lid.
+
+3\. De raffinagereductie-eenheden op een opgeheven rekening vervallen van rechtswege.
+
+##### Artikel 9.8.4.5
+
+1\. Van het aantal raffinagereductie-eenheden op 1 mei van enig kalenderjaar op de rekening van de partijen, bedoeld in artikel 9.8.4.3, eerste en tweede lid, wordt een gedeelte gespaard ten behoeve van het direct daaropvolgende kalenderjaar.
+
+2\. Bij of krachtens algemene maatregel van bestuur regels worden gesteld over het gedeelte dat gespaard kan worden.
+
+3\. De raffinagereductie-eenheden die niet worden gespaard, vervallen van rechtswege.
+
+#### § 9.8.5 — Naleving van de broeikasgasemissiereductiecriteria en broeikasgasemissiereductiedrempels
+
+##### Artikel 9.8.5.1
+
+1\. De raffinaderijhouder is gecertificeerd volgens een vrijwillig systeem en voert een massabalans over de hoeveelheid hernieuwbare brandstof van niet-biologische oorsprong op zijn raffinaderij.
+
+2\. Bij ministeriële regeling worden nadere regels gesteld over de massabalans.
+
+##### Artikel 9.8.5.2
+
+1\. Het bestuur van de emissieautoriteit houdt toezicht op een certificeringsorgaan dat namens het vrijwillige systeem in het kader van de naleving van broeikasgasemissiereductiecriteria onafhankelijke audits uitvoert.
+
+2\. Het bestuur van de emissieautoriteit brengt bij vastgestelde non-conformiteit met de broeikasgasemissiereductiecriteria onverwijld het vrijwillige systeem hiervan op de hoogte.
+
+## Hoofdstuk 10 — Afvalstoffen
+
+### Titel 10.1 — Algemeen
+
+#### Artikel 10.1
+
+1\. Een ieder die handelingen met betrekking tot afvalstoffen verricht of nalaat en die weet of redelijkerwijs had kunnen weten dat daardoor nadelige gevolgen voor het milieu ontstaan of kunnen ontstaan, is verplicht alle maatregelen te nemen of na te laten die redelijkerwijs van hem kunnen worden gevergd, teneinde die gevolgen zoveel mogelijk te voorkomen of te beperken.
+
+2\. Het is een ieder bij wie afvalstoffen ontstaan, verboden handelingen met betrekking tot die afvalstoffen te verrichten of na te laten, waarvan hij weet of redelijkerwijs had kunnen weten dat daardoor nadelige gevolgen voor het milieu ontstaan of kunnen ontstaan.
+
+3\. Het is een ieder verboden bedrijfsmatig of in een omvang of op een wijze alsof deze bedrijfsmatig was, handelingen met betrekking tot afvalstoffen te verrichten, indien daardoor, naar hij weet of redelijkerwijs had kunnen weten, nadelige gevolgen voor het milieu ontstaan of kunnen ontstaan.
+
+4\. Onder handelingen als bedoeld in het derde lid wordt in ieder geval verstaan: inzamelen of anderszins in ontvangst nemen, bewaren, nuttig toepassen, verwijderen, vervoeren of verhandelen van afvalstoffen of bemiddelen bij het beheer van afvalstoffen.
+
+5\. De verboden, bedoeld in het tweede en derde lid, gelden niet voor zover deze handelingen betreffen, die degene die deze verricht, uitdrukkelijk zijn toegestaan bij of krachtens deze wet, een in artikel 13.1, tweede lid, genoemde wet, de Omgevingswet of de EG-verordening overbrenging van afvalstoffen.
+
+#### Artikel 10.1a
+
+1\. Dit hoofdstuk is, met uitzondering van de artikelen 10.1, 10.2 en 10.54 en titel 10.2, niet van toepassing op de volgende stoffen, preparaten en voorwerpen:
+
+- a. gasvormige effluenten die in de atmosfeer worden uitgestoten, alsmede kooldioxide dat wordt afgevangen en getransporteerd met het oog op geologische opslag en dat geologisch is opgeslagen overeenkomstig het bepaalde in richtlijn nr. 2009/31/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende de geologische opslag van kooldioxide en tot wijziging van Richtlijn 85/337/EEG van de Raad, de Richtlijnen 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG en 2008/1/EG en Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad (PbEU L 140), dan wel op grond van artikel 2, tweede lid, van die richtlijn buiten de werkingssfeer van die richtlijn valt;
+- b. bodem met inbegrip van niet-uitgegraven verontreinigde grond en duurzaam met de bodem verbonden gebouwen;
+- c. niet-verontreinigde grond en ander van nature voorkomend materiaal, afgegraven bij bouwactiviteiten, indien vaststaat dat het materiaal in natuurlijke staat zal worden gebruikt voor bouwdoeleinden op de locatie waar het werd afgegraven;
+- d. radioactieve afvalstoffen;
+- e. afgedankte explosieven;
+- f. uitwerpselen, voor zover niet vallend onder onderdeel h, onder 1°, stro en ander natuurlijk, niet-gevaarlijk landbouw- of bosbouwmateriaal dat wordt gebruikt in de landbouw, de bosbouw of voor de productie van energie uit die biomassa door middel van processen of methoden die onschadelijk zijn voor het milieu en die de menselijke gezondheid niet in gevaar brengen;
+- g. sediment dat binnen oppervlaktewater wordt verplaatst met het oog op het beheer van water en waterwegen of om overstromingen te voorkomen of de gevolgen van overstromingen en droogte te verminderen, of met het oog op landwinning, indien is aangetoond dat het sediment ongevaarlijk is;
+- h. voor zover daarover bij of krachtens communautaire regelgeving regels zijn gesteld:
+  - 1°. dierlijke bijproducten, met inbegrip van verwerkte producten, in de zin van verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (verordening dierlijke bijproducten)(PbEU 2009, L 300), behalve die welke bestemd zijn om te worden verbrand of gestort of voor gebruik in een biogas- of composteerinstallatie;
+  - 2°. kadavers van niet door slachting gestorven dieren, met inbegrip van dieren die worden gedood om een epizoötie uit te roeien en overeenkomstig de onder 1° genoemde verordening nr. 1069/2009 worden verwijderd;
+  - 3°. stoffen die bestemd zijn voor gebruik als voedermiddelen als omschreven in artikel 3, tweede lid, onderdeel g, van Verordening (EG) nr. 767/2009 van het Europees Parlement en de Raad van 13 juli 2009 betreffende het in de handel brengen en het gebruik van diervoeders, tot wijziging van Verordening (EG) nr. 1831/2003 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 79/373/EEG van de Raad, Richtlijn 80/511/EEG van de Commissie, Richtlijnen 82/471/EEG, 83/228/EEG, 93/74/EEG, 93/113/EG en 96/25/EG van de Raad en Beschikking 2004/217/EG van de Commissie (PbEU L 229) en die geen dierlijke bijproducten bevatten of daaruit bestaan.
+
+2\. Op de in het eerste lid bedoelde stoffen, preparaten en voorwerpen is, voor zover het afvalstoffen betreft, het bepaalde bij of krachtens de artikelen 15.33, 15.35 en 15.36, alsmede de artikelen 5.8 tot en met 5.16, 5.34, tweede lid, en 5.36, vierde lid, van de Omgevingswet, evenmin van toepassing.
+
+#### Artikel 10.1b
+
+Vervallen
+
+#### Artikel 10.2
+
+1\. Het is verboden huishoudelijke afvalstoffen te storten, anderszins op of in de bodem te brengen of te verbranden.
+
+2\. Bij of krachtens algemene maatregel van bestuur kan, indien het belang van de bescherming van het milieu zich daartegen niet verzet, voor daarbij aangegeven categorieën van gevallen vrijstelling worden verleend van het verbod, bedoeld in het eerste lid.
+
+3\. Indien toepassing is gegeven aan het tweede lid, kunnen bij of krachtens algemene maatregel van bestuur in het belang van de bescherming van het milieu regels worden gesteld met betrekking tot handelingen als bedoeld in het eerste lid.
+
+4\. Dit artikel is niet van toepassing op afgegeven of ingezamelde huishoudelijke afvalstoffen.
+
+### Titel 10.2 — Het circulair materialenplan
+
+#### Artikel 10.3
+
+Onze Minister stelt ten minste eenmaal in de zes jaar een circulair materialenplan vast.
+
+#### Artikel 10.4
+
+1\. Bij de vaststelling van het circulair materialenplan en bij het nemen van andere maatregelen voor de preventie en het beheer van afvalstoffen hanteert Onze Minister als prioriteitsvolgorde de volgende afvalhiërarchie:
+
+- a. preventie;
+- b. voorbereiding voor hergebruik;
+- c. recycling;
+- d. andere nuttige toepassing, waaronder energieterugwinning;
+- e. veilige verwijdering.
+
+2\. Het eerste lid is van overeenkomstige toepassing met betrekking tot het nemen van maatregelen als bedoeld in dat lid door gedeputeerde staten en burgemeester en wethouders.
+
+#### Artikel 10.5
+
+Bij de vaststelling van het circulair materialenplan en bij het nemen van andere maatregelen voor de preventie en het beheer van afvalstoffen:
+
+- a. kan zonodig voor bepaalde specifieke afvalstromen van de afvalhiërarchie, bedoeld in artikel 10.4, worden afgeweken, indien dit, de gehele levenscyclus in beschouwing nemende, met betrekking tot de algemene effecten van het produceren en beheren van dergelijke afvalstoffen gerechtvaardigd is;
+- b. houdt Onze Minister er rekening mee dat het belang van een doelmatig beheer van afvalstoffen vereist dat het beheer op effectieve en efficiënte wijze geschiedt en effectief toezicht dan wel douanecontrole op het beheer mogelijk is.
+
+#### Artikel 10.5a
+
+Vervallen
+
+#### Artikel 10.6
+
+Vervallen
+
+#### Artikel 10.7
+
+1\. Het circulair materialenplan bevat de onderwerpen die ingevolge voor Nederland bindende besluiten van de instellingen van de Europese Unie moeten worden opgenomen in afvalbeheerplannen. Het circulair materialenplan voldoet aan hetgeen bij of krachtens de kaderrichtlijn afvalstoffen bepaald is over afvalbeheerplannen, met inbegrip van hetgeen bij of krachtens die richtlijn is bepaald met betrekking tot afvalpreventieprogramma’s.
+
+2\. Het circulair materialenplan bevat mede de afvalpreventieprogramma’s als bedoeld in artikel 29 van de kaderrichtlijn afvalstoffen, met inbegrip van de doelstellingen en maatregelen, gericht op het loskoppelen van economische groei van de milieueffecten die samenhangen met de productie van afvalstoffen. Voor de bewaking en evaluatie van de in de afvalpreventieprogramma’s vastgestelde doelstellingen van de daarin opgenomen afvalpreventiemaatregelen kan Onze Minister indicatoren vaststellen.
+
+3\. Het circulair materialenplan bevat voorts in ieder geval:
+
+- a. de hoofdlijnen van het beleid ter uitvoering van deze wet met betrekking tot het voorkomen of beperken van het ontstaan van afvalstoffen en het beheer van afvalstoffen in de betrokken periode van zes jaar en, voor zover mogelijk, in de daarop volgende zes jaar;
+- b. een uitwerking van deze hoofdlijnen met betrekking tot daarbij aangewezen categorieën van afvalstoffen of wijzen van beheer van afvalstoffen;
+- c. de capaciteit die benodigd is voor de daarbij aangewezen wijzen van beheer van afvalstoffen in de betrokken periode van zes jaar en, voor zover mogelijk, in de daaropvolgende zes jaar;
+- d. een beschrijving van het beleid ter uitvoering van de EG-verordening overbrenging van afvalstoffen in de betrokken periode van zes jaar.
+
+#### Artikel 10.8
+
+1\. Onze Minister stelt het onderdeel van het circulair materialenplan, bedoeld in artikel 10.7, derde lid, onder a, op na overleg met een instantie die representatief kan worden geacht voor de provinciebesturen en met een instantie die representatief kan worden geacht voor de gemeentebesturen.
+
+2\. Onze Minister stelt de onderdelen van het circulair materialenplan, bedoeld in artikel 10.7, derde lid, onder b en c, op in gezamenlijk overleg met een instantie die representatief kan worden geacht voor de provinciebesturen en met een instantie die representatief kan worden geacht voor de gemeentebesturen.
+
+3\. Onze Minister betrekt voorts bij de voorbereiding van het circulair materialenplan de naar zijn oordeel bij de te behandelen onderwerpen meest belanghebbende andere bestuursorganen, instellingen en organisaties.
+
+4\. Onze Minister kan nadere regels stellen met betrekking tot de wijze waarop uitvoering wordt gegeven aan het bepaalde in het eerste tot en met derde lid.
+
+#### Artikel 10.9
+
+1\. Met betrekking tot de voorbereiding van het circulair materialenplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
+
+2\. Het ontwerp van het circulair materialenplan wordt, gelijktijdig met de terinzagelegging ervan, overgelegd aan de beide kamers der Staten-Generaal.
+
+#### Artikel 10.10
+
+Ten behoeve van het opstellen van het circulair materialenplan verschaffen de bestuursorganen aan Onze Minister op zijn verzoek alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor dat opstellen redelijkerwijs noodzakelijk zijn.
+
+#### Artikel 10.11
+
+1\. Zodra het circulair materialenplan is vastgesteld, doet Onze Minister hiervan mededeling door overlegging van het circulair materialenplan aan de beide kamers der Staten-Generaal en door toezending ervan aan gedeputeerde staten van de provincies en burgemeester en wethouders van de gemeenten.
+
+2\. Onze Minister zendt het circulair materialenplan tevens toe aan de bestuursorganen, instellingen en organisaties, die overeenkomstig artikel 10.8, derde lid, waren betrokken bij de voorbereiding ervan.
+
+#### Artikel 10.12
+
+1\. Het circulair materialenplan geldt met ingang van de dag waarop vier weken zijn verstreken na de dag waarop de vaststelling van het circulair materialenplan is bekendgemaakt in de Staatscourant. Onze Minister kan bepalen dat het circulair materialenplan, of onderdelen daarvan, eerst op een later tijdstip gaan gelden.
+
+2\. Het circulair materialenplan geldt, behoudens indien eerder een nieuw circulair materialenplan is vastgesteld, voor een tijdvak van zes jaar. Onze Minister kan de geldingsduur van het circulair materialenplan eenmaal met ten hoogste twee jaar verlengen.
+
+#### Artikel 10.12a
+
+Vervallen
+
+#### Artikel 10.12b
+
+Vervallen
+
+#### Artikel 10.13
+
+1\. Het circulair materialenplan kan worden gewijzigd.
+
+2\. Met betrekking tot een wijziging van het circulair materialenplan zijn de artikelen 10.4 tot en met 10.11 en 10.12, eerste lid, van overeenkomstige toepassing.
+
+#### Artikel 10.14
+
+1\. Ieder bestuursorgaan houdt rekening met het geldende circulair materialenplan bij het uitoefenen van een bevoegdheid krachtens deze wet of bij het uitoefenen van een taak of bevoegdheid krachtens artikel 4.1 van de Omgevingswet, voor zover de taak of bevoegdheid wordt uitgeoefend met betrekking tot afvalstoffen.
+
+2\. Voor zover het circulair materialenplan niet voorziet in het onderwerp met betrekking waartoe de taak of bevoegdheid wordt uitgeoefend, houdt het bestuursorgaan rekening met de voorkeursvolgorde, aangegeven in artikel 10.4, en de criteria, genoemd in artikel 10.5, eerste lid.
+
+3\. Het eerste lid is van overeenkomstige toepassing bij het uitoefenen van een taak of bevoegdheid krachtens de EG-verordening overbrenging van afvalstoffen.
+
+4\. Indien een bestuursorgaan bij de toepassing van het eerste lid in een ontwerpbesluit of besluit afwijkt van het geldende circulair materialenplan, verstrekt het bestuursorgaan aan Onze Minister afschrift van dat ontwerpbesluit of besluit binnen een week na de dag waarop:
+
+- a. het ontwerpbesluit op grond van artikel 3:11, eerste lid, van de Algemene wet bestuursrecht ter inzage is gelegd;
+- b. het besluit is bekendgemaakt.
+
+### Titel 10.3 — Hergebruik, preventie en recycling en andere nuttige toepassing
+
+#### Artikel 10.15
+
+Vervallen
+
+#### Artikel 10.16
+
+Vervallen
+
+#### Artikel 10.16a
+
+Vervallen
+
+#### Artikel 10.16b
+
+Vervallen
+
+#### Artikel 10.16c
+
+Vervallen
+
+#### Artikel 10.16d
+
+Vervallen
+
+#### Artikel 10.17
+
+Vervallen
+
+#### Artikel 10.18
+
+Vervallen
+
+#### Artikel 10.19
+
+Vervallen
+
+#### Artikel 10.20
+
+Vervallen
+
+### Titel 10.4 — Het beheer van huishoudelijke en andere afvalstoffen
+
+#### Artikel 10.21
+
+1\. De gemeenteraad en burgemeester en wethouders dragen, al dan niet in samenwerking met de gemeenteraad en burgemeester en wethouders van andere gemeenten, ervoor zorg dat ten minste eenmaal per week de huishoudelijke afvalstoffen met uitzondering van grove huishoudelijke afvalstoffen worden ingezameld bij elk binnen haar grondgebied gelegen perceel waar zodanige afvalstoffen geregeld kunnen ontstaan.
+
+2\. In aanvulling op het eerste lid kunnen, in het belang van een doelmatig beheer van afvalstoffen, bij algemene maatregel van bestuur regels worden gesteld over het zorgdragen door de gemeenteraad en burgemeesters en wethouders voor de inzameling van daarbij aan te wijzen afvalstoffen die in aard en samenstelling vergelijkbaar zijn met huishoudelijke afvalstoffen en afkomstig zijn van daarbij aan te wijzen bronnen.
+
+3\. Indien toepassing is gegeven aan het tweede lid, worden die afvalstoffen aangemerkt als huishoudelijke afvalstoffen.
+
+4\. De gemeenteraad kan besluiten tot het afzonderlijk inzamelen van andere bestanddelen van huishoudelijke afvalstoffen.
+
+#### Artikel 10.22
+
+1\. Elke gemeente draagt er zorg voor:
+
+- a. dat grove huishoudelijke afvalstoffen worden ingezameld bij elk binnen haar grondgebied gelegen perceel waar zodanige afvalstoffen ontstaan, en
+- b. dat er op ten minste één daartoe ter beschikking gestelde plaats binnen de gemeente of binnen de gemeenten waarmee wordt samengewerkt, in voldoende mate gelegenheid wordt geboden om grove huishoudelijke afvalstoffen achter te laten.
+
+2\. In het belang van een doelmatig beheer van grove huishoudelijke afvalstoffen kan bij algemene maatregel van bestuur worden bepaald dat het eerste lid geheel of gedeeltelijk buiten toepassing blijft met betrekking tot bij de maatregel aangewezen categorieën van grove huishoudelijke afvalstoffen, al dan niet voor zover deze vrijkomen in een hoeveelheid of een omvang die, of een gewicht dat groter is dan bij de maatregel is aangegeven.
+
+#### Artikel 10.22a
+
+Vervallen
+
+#### Artikel 10.23
+
+1\. De gemeenteraad stelt in het belang van de bescherming van het milieu een afvalstoffenverordening vast, tenzij de op grond van artikel 10.24, eerste lid, te stellen regels zijn opgenomen in het omgevingsplan.
+
+2\. De afvalstoffenverordening of het omgevingsplan bevat geen regels als bedoeld in artikel 10.48.
+
+#### Artikel 10.24
+
+1\. De afvalstoffenverordening of het omgevingsplan bevat ten minste regels omtrent:
+
+- a. het overdragen of het ter inzameling aanbieden van huishoudelijke afvalstoffen aan een bij of krachtens de verordening of bij omgevingsplan aangewezen inzameldienst;
+- b. het overdragen van zodanige afvalstoffen aan een ander;
+- c. het achterlaten van zodanige afvalstoffen op een daartoe ter beschikking gestelde plaats.
+
+2\. Bij de afvalstoffenverordening of bij omgevingsplan kunnen voorts regels worden gesteld omtrent het inzamelen van huishoudelijke afvalstoffen.
+
+#### Artikel 10.25
+
+Bij de afvalstoffenverordening of bij omgevingsplan kunnen in ieder geval regels worden gesteld:
+
+- a. ten einde te voorkomen dat afvalstoffen als zwerfafval in het milieu terechtkomen dan wel teneinde te bereiken dat zulks zo min mogelijk gebeurt;
+- b. omtrent het opruimen van afvalstoffen die als zwerfafval in het milieu terecht zijn gekomen;
+- c. omtrent het op een voor het publiek zichtbare plaats aanwezig hebben van afvalstoffen.
+
+#### Artikel 10.26
+
+1\. De gemeenteraad kan, in afwijking van artikel 10.21, in het belang van een doelmatig beheer van huishoudelijke afvalstoffen bij de afvalstoffenverordening of bij omgevingsplan bepalen dat:
+
+- a. huishoudelijke afvalstoffen worden ingezameld nabij elk perceel;
+- b. huishoudelijke afvalstoffen worden ingezameld met een daarbij aangegeven regelmaat;
+- c. in een gedeelte van het grondgebied van de gemeente geen huishoudelijke afvalstoffen worden ingezameld.
+
+2\. De gemeenteraad betrekt bij de voorbereiding van een afvalstoffenverordening waarin regels als bedoeld in het eerste lid zijn opgenomen de ingezetenen en belanghebbenden, op de wijze voorzien in de krachtens artikel 150 van de Gemeentewet vastgestelde verordening.
+
+#### Artikel 10.27
+
+In gevallen als bedoeld in artikel 10.26, eerste lid, onder b en c, dragen de gemeenteraad en burgemeester en wethouders er zorg voor dat op ten minste één daartoe ter beschikking gestelde plaats binnen de gemeente of binnen de gemeenten waarmee wordt samengewerkt, in voldoende mate gelegenheid wordt geboden om huishoudelijke afvalstoffen achter te laten.
+
+#### Artikel 10.28
+
+1\. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het opnemen in de verordening of het omgevingsplan van een verplichting bestanddelen van huishoudelijke afvalstoffen te brengen naar een daartoe beschikbaar gestelde plaats.
+
+2\. Bij de maatregel kan worden aangegeven op welke wijze de gemeenteraad en burgemeester en wethouders er zorg voor dragen dat plaatsen als bedoeld in het eerste lid, binnen de gemeente in voldoende mate beschikbaar zijn.
+
+3\. Bij de maatregel kan worden bepaald dat de artikelen 10.21, eerste lid, en 10.24, eerste lid, onder a, niet van toepassing zijn met betrekking tot de inzameling van de bestanddelen van huishoudelijke afvalstoffen, die zijn aangewezen krachtens het eerste lid.
+
+#### Artikel 10.29
+
+1\. Bij algemene maatregel van bestuur kunnen, voor zover het betreft gevallen waarin een doelmatig beheer van huishoudelijke afvalstoffen van meer dan gemeentelijk belang is, regels worden gesteld omtrent de inzameling van die afvalstoffen.
+
+2\. Hiertoe kunnen in ieder geval behoren regels die inhouden dat burgemeester en wethouders maatregelen treffen voor de inzameling van die afvalstoffen of daartoe voorzieningen tot stand brengen en in stand houden. Indien zulks noodzakelijk is om de nuttige toepassing van afvalstoffen te faciliteren of te verbeteren wordt bij algemene maatregel van bestuur de verplichting opgenomen om daarbij aangegeven huishoudelijke afvalstoffen gescheiden en niet gemengd met afvalstoffen of materialen die niet dezelfde eigenschappen bezitten, in te zamelen, waarbij tevens kan worden bepaald onder welke voorwaarden afwijking van die verplichting mogelijk is.
+
+### Titel 10.5 — Het zich ontdoen, de inzameling en het transport van afvalwater
+
+#### Artikel 10.29a
+
+Een bestuursorgaan houdt er bij het uitoefenen van een bevoegdheid krachtens deze wet of bij het uitoefenen van een taak of bevoegdheid krachtens artikel 4.1 van de Omgevingswet, voor zover die taak of bevoegdheid wordt uitgeoefend met betrekking tot afvalwater, rekening mee dat het belang van de bescherming van het milieu vereist dat in de navolgende voorkeursvolgorde:
+
+- a. het ontstaan van afvalwater wordt voorkomen of beperkt;
+- b. verontreiniging van afvalwater wordt voorkomen of beperkt;
+- c. afvalwaterstromen gescheiden worden gehouden, tenzij het niet gescheiden houden geen nadelige gevolgen heeft voor een doelmatig beheer van afvalwater;
+- d. huishoudelijk afvalwater en, voor zover doelmatig en kostenefficiënt, afvalwater dat daarmee wat biologische afbreekbaarheid betreft overeenkomt worden ingezameld en naar een zuiveringtechnisch werk als bedoeld in de Omgevingswet getransporteerd;
+- e. ander afvalwater dan bedoeld in onderdeel d zo nodig na retentie of zuivering bij de bron, opnieuw wordt gebruikt;
+- f. ander afvalwater dan bedoeld in onderdeel d lokaal, zo nodig na retentie of zuivering bij de bron, in het milieu wordt gebracht en
+- g. ander afvalwater dan bedoeld in onderdeel d naar een zuiveringtechnisch werk als bedoeld in de Omgevingswet wordt getransporteerd.
+
+#### Artikel 10.30
+
+Vervallen
+
+#### Artikel 10.31
+
+De artikelen 10.21 tot en met 10.29 en titel 10.6 zijn niet van toepassing op het brengen van afvalwater en andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater, het inzamelen en transporteren van afvalwater in een zodanige voorziening en het vanuit een zodanige voorziening afgeven van afvalwater aan een persoon die een zuiveringstechnisch werk beheert.
+
+#### Artikel 10.32
+
+Vervallen
+
+#### Artikel 10.32a
+
+Vervallen
+
+#### Artikel 10.33
+
+Vervallen
+
+#### Artikel 10.34
+
+Vervallen
+
+#### Artikel 10.35
+
+Vervallen
+
+### Titel 10.6 — Het beheer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+
+#### § 10.6.1 — De afgifte en ontvangst van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+
+##### Artikel 10.36
+
+Voor de toepassing van deze titel worden ingezamelde of afgegeven huishoudelijke afvalstoffen gelijkgesteld met bedrijfsafvalstoffen.
+
+##### Artikel 10.36a
+
+Vervallen
+
+##### Artikel 10.36b
+
+Vervallen
+
+##### Artikel 10.37
+
+1\. Het is verboden zich door afgifte aan een ander van bedrijfsafvalstoffen of gevaarlijke afvalstoffen te ontdoen.
+
+2\. Het verbod geldt niet indien bedrijfsafvalstoffen of gevaarlijke afvalstoffen worden afgegeven aan een persoon:
+
+- a. die krachtens artikel 10.45 of 10.48 bevoegd is de betrokken afvalstoffen in te zamelen;
+- b. die bevoegd is de betrokken afvalstoffen nuttig toe te passen of te verwijderen:
+  - 1°. krachtens hoofdstuk 8 van deze wet of artikel 4.3 van de Omgevingswet of op grond van een omgevingsvergunning;
+  - 2°. op grond van een krachtens artikel 10.2, tweede lid, verleende vrijstelling of een ontheffing krachtens artikel 10.63, eerste of tweede lid, van het verbod, bedoeld in artikel 10.2, eerste lid;
+  - 3°. krachtens artikel 10.52;
+  - 4°. op grond van een krachtens artikel 10.54, derde lid, verleende vrijstelling of een ontheffing krachtens artikel 10.63, tweede lid, van het verbod, bedoeld in artikel 10.54, eerste lid;
+- c. die krachtens artikel 10.50 is vrijgesteld van de verplichtingen, gesteld bij of krachtens de artikelen 10.38 tot en met 10.40, 10.45, 10.46 en 10.48;
+- d. die op grond van een omgevingsvergunning bevoegd is afvalstoffen aan boord van een vaartuig of luchtvaartuig te nemen met het oogmerk ze te lozen;
+- e. die in een ander land dan Nederland is gevestigd, en die overeenkomstig de EG-verordening overbrenging van afvalstoffen en titel 10.7 die afvalstoffen naar dat land brengt;
+- f. die krachtens artikel 10.55 bevoegd is de betrokken afvalstoffen te vervoeren of te verhandelen.
+
+##### Artikel 10.38
+
+1\. Degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door deze af te geven aan een persoon als bedoeld in artikel 10.37, tweede lid, onder a tot en met e, registreert met betrekking tot zodanige afgifte:
+
+- a. de datum van afgifte;
+- b. de naam en het adres van degene aan wie de afvalstoffen worden afgegeven;
+- c. de gebruikelijke benaming en de hoeveelheid van die afvalstoffen;
+- d. de plaats waar en de wijze waarop de afvalstoffen worden afgegeven;
+- e. de voorgenomen wijze van beheer van de afvalstoffen;
+- f. ingeval de afgifte geschiedt door tussenkomst van een ander die opdracht heeft de afvalstoffen te vervoeren naar degene voor wie deze zijn bestemd: diens naam en adres en de naam en het adres van degene in wiens opdracht het vervoer geschiedt.
+
+2\. De geregistreerde gegevens worden ten minste vijf jaar bewaard en gedurende die periode door de afvalstoffenhouder ter beschikking gehouden van degenen die zijn belast met het toezicht of de douanecontrole op de naleving van de wet en van voorgaande afvalstoffenhouders.
+
+3\. Een persoon als bedoeld in artikel 10.37, tweede lid, onder a of b, die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door deze af te geven aan een andere zodanige persoon, meldt met betrekking tot een zodanige afgifte de in het eerste lid bedoelde gegevens aan een door Onze Minister aan te wijzen instantie.
+
+##### Artikel 10.39
+
+1\. Degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door afgifte aan een persoon als bedoeld in artikel 10.37, tweede lid, onder a tot en met d, verstrekt:
+
+- a. aan deze persoon een omschrijving van aard, eigenschappen en samenstelling van die afvalstoffen;
+- b. aan degene die opdracht heeft de afvalstoffen naar die persoon te vervoeren, een begeleidingsbrief.
+
+2\. De begeleidingsbrief bevat ten minste de in het eerste lid, onder a, en de in artikel 10.38, eerste lid, bedoelde gegevens.
+
+##### Artikel 10.40
+
+1\. Een persoon als bedoeld in artikel 10.37, tweede lid, onder a of b, aan wie bedrijfsafvalstoffen of gevaarlijke afvalstoffen worden afgegeven, meldt met betrekking tot een zodanige afgifte, aan een door Onze Minister aan te wijzen instantie:
+
+- a. de datum van afgifte;
+- b. de naam en het adres van degene van wie de afvalstoffen afkomstig zijn;
+- c. de gebruikelijke benaming en de hoeveelheid van de afvalstoffen;
+- d. de plaats waar en de wijze waarop de afvalstoffen worden afgegeven;
+- e. de wijze waarop de afvalstoffen nuttig worden toegepast of worden verwijderd;
+- f. ingeval de afgifte geschiedt door tussenkomst van een ander die opdracht had de afvalstoffen naar hem te vervoeren: diens naam en adres en de naam en het adres van degene in wiens opdracht het vervoer geschiedt.
+
+2\. Het is een persoon als bedoeld in het eerste lid verboden bedrijfsafvalstoffen of gevaarlijke afvalstoffen in ontvangst te nemen zonder dat hem daarbij een omschrijving en een begeleidingsbrief als bedoeld in artikel 10.39, eerste lid, onder a en b, worden verstrekt.
+
+3\. Op verzoek van gedeputeerde staten van een provincie of burgemeester en wethouders van een gemeente die terzake bevoegd gezag zijn, worden de gegevens, als bedoeld in het eerste lid, aan gedeputeerde staten of burgemeester en wethouders gezonden.
+
+##### Artikel 10.40a
+
+1\. De in artikel 10.38 gestelde verplichting de afgifte van afvalstoffen te registreren of te melden, geldt niet voor degene die zich ontdoet van bij algemene maatregel van bestuur aangewezen afvalstoffen afkomstig van schepen.
+
+2\. Degene die bij algemene maatregel van bestuur aangewezen afvalstoffen afkomstig van schepen in ontvangst neemt, bevestigt deze ontvangst op een bij algemene maatregel van bestuur aan te geven wijze op een formulier.
+
+##### Artikel 10.41
+
+1\. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop aan de artikelen 10.38 tot en met 10.40 uitvoering wordt gegeven.
+
+2\. Bij of krachtens algemene maatregel van bestuur wordt bepaald of de melding, bedoeld in de artikelen 10.38, derde lid, en 10.40, voorafgaand aan de afgifte, onderscheidenlijk de ontvangst van afvalstoffen plaatsvindt of erna. Daarbij kan een onderscheid worden gemaakt naar categorie van afvalstoffen.
+
+##### Artikel 10.42
+
+1\. Bij of krachtens algemene maatregel van bestuur kan aan in artikel 10.38, eerste lid, bedoelde personen de verplichting worden opgelegd de in dat artikel bedoelde gegevens te melden aan een door Onze Minister aan te wijzen instantie.
+
+2\. De artikelen 10.40, derde lid, en 10.41 zijn van overeenkomstige toepassing.
+
+##### Artikel 10.43
+
+1\. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot bedrijfsafvalstoffen en gevaarlijke afvalstoffen categorieën van gevallen worden aangewezen waarvoor verplichtingen als bedoeld in de artikelen 10.38 tot en met 10.40 niet gelden.
+
+2\. Indien toepassing wordt gegeven aan het eerste lid, wordt bij of krachtens de algemene maatregel van bestuur aan personen als bedoeld in artikel 10.40, eerste lid, de verplichting opgelegd de in de betrokken bepalingen bedoelde gegevens te registreren op een daarbij aan te geven wijze.
+
+##### Artikel 10.43a
+
+Vervallen
+
+#### § 10.6.2 — Het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+
+##### Artikel 10.44
+
+1\. Degene die bedrijfsafvalstoffen of gevaarlijke afvalstoffen vervoert, is verplicht zolang hij die afvalstoffen onder zich heeft, een begeleidingsbrief als bedoeld in artikel 10.39 bij die afvalstoffen aanwezig te hebben.
+
+2\. Hij geeft, indien een ander de afvalstoffen in ontvangst neemt, de begeleidingsbrief aan die ander af, bij dat in ontvangst nemen.
+
+3\. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop aan de verplichtingen, bedoeld in het eerste en tweede lid, uitvoering wordt gegeven. Tevens kunnen daarbij categorieën van gevallen worden aangewezen waarvoor zodanige verplichtingen niet gelden.
+
+##### Artikel 10.44a
+
+Vervallen
+
+##### Artikel 10.44b
+
+Vervallen
+
+##### Artikel 10.44c
+
+Vervallen
+
+##### Artikel 10.44d
+
+Vervallen
+
+##### Artikel 10.44e
+
+Vervallen
+
+#### § 10.6.3 — De inzameling van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+
+##### Artikel 10.45
+
+1\. Het is verboden bedrijfsafvalstoffen of gevaarlijke afvalstoffen in te zamelen:
+
+- a. zonder vermelding op een lijst van inzamelaars, of
+- b. ingeval de afvalstoffen tot de krachtens artikel 10.48 aangewezen categorieën behoren, zonder vergunning van Onze Minister.
+
+2\. Bij of krachtens algemene maatregel van bestuur kan, indien het belang van de bescherming van het milieu zich daartegen niet verzet, voor daarbij aangegeven categorieën van gevallen vrijstelling worden verleend van het verbod, bedoeld in het eerste lid.
+
+3\. Onze Minister wijst een instantie aan die namens hem zorg draagt voor de vermelding van inzamelaars op de in het eerste lid bedoelde lijst van inzamelaars.
+
+4\. Op aanwijzing van Onze Minister wordt de vermelding van een inzamelaar op de lijst beëindigd.
+
+5\. Onze Minister stelt regels met betrekking tot de criteria voor vermelding op de lijst en beëindiging daarvan.
+
+##### Artikel 10.46
+
+1\. Bij of krachtens algemene maatregel van bestuur worden in het belang van een doelmatig beheer van bedrijfsafvalstoffen of gevaarlijke afvalstoffen regels gesteld omtrent het inzamelen van die afvalstoffen, al dan niet afkomstig van personen, behorende tot een bij of krachtens die maatregel aangewezen categorie.
+
+2\. Tot de regels behoren:
+
+- a. regels omtrent de wijze waarop een inzamelaar zich bij de krachtens artikel 10.45, derde lid, aangewezen instantie meldt en de gegevens die daarbij worden overgelegd;
+- b. regels inhoudende de verplichting een wijziging te melden in de gegevens welke bij de melding zijn overgelegd;
+- c. regels omtrent het aan een ieder inzage geven van de gegevens, overgelegd bij de melding alsmede van een wijziging als bedoeld onder b;
+- d. regels inhoudende de verplichting dat de inzamelaar tijdens het inzamelen daarbij aan te geven bescheiden aanwezig heeft, waaruit blijkt dat hij staat vermeld op de lijst van inzamelaars.
+
+3\. Bij de regels kan worden bepaald dat de vermelding op de lijst van inzamelaars slechts geldt voor een daarbij aangegeven termijn.
+
+##### Artikel 10.47
+
+1\. Bij algemene maatregel van bestuur kunnen in het belang van een doelmatig beheer van bedrijfsafvalstoffen of gevaarlijke afvalstoffen regels worden gesteld omtrent de inzameling van die afvalstoffen.
+
+2\. Hiertoe kunnen in ieder geval behoren regels die inhouden dat:
+
+- a. burgemeester en wethouders of gedeputeerde staten voor de inzameling van die afvalstoffen maatregelen treffen of daartoe voorzieningen tot stand brengen en in stand houden;
+- b. daarbij aangewezen categorieën van bedrijfsafvalstoffen of gevaarlijke afvalstoffen die gescheiden worden afgegeven, afzonderlijk worden ingezameld.
+
+3\. Indien zulks noodzakelijk is om de nuttige toepassing van afvalstoffen te faciliteren of te verbeteren wordt bij algemene maatregel van bestuur de verplichting opgenomen om daarbij aangegeven bedrijfsafvalstoffen gescheiden en niet gemengd met afvalstoffen of materialen die niet dezelfde eigenschappen bezitten, in te zamelen, waarbij tevens kan worden bepaald onder welke voorwaarden afwijking van die verplichting mogelijk is.
+
+4\. Bij de maatregel wordt aangegeven binnen welke termijn de regels door de daarbij aangewezen bestuursorganen moeten worden uitgevoerd.
+
+##### Artikel 10.48
+
+1\. Bij algemene maatregel van bestuur kan in het belang van een doelmatig beheer van bedrijfsafvalstoffen of gevaarlijke afvalstoffen worden bepaald dat voor het inzamelen van daarbij aangewezen categorieën van zodanige afvalstoffen een vergunning van Onze Minister is vereist.
+
+2\. Het voor milieubelastende activiteiten bij of krachtens de artikelen 4.5, tweede lid, 5.18. 5.19, 5.26, 5.31, 5.34, eerste en vierde lid, 5.37, 5.38, 5.39, aanhef en onder a, 5.40, eerste lid, onder a, en tweede lid, onder a tot en met e, 5.41, 5.42, tweede lid, 13.5, 16.15, 16.16, 16.55, eerste, derde en vierde lid, 16.65 tot en met 16.68 en 16.139 van de Omgevingswet bepaalde is van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een vergunning als bedoeld in het eerste lid, met dien verstande dat voor de toepassing van genoemde artikelen het belang van de bescherming van het milieu beperkt wordt tot het belang van een doelmatig beheer van afvalstoffen.
+
+3\. Onze Minister kan in het belang van een doelmatig beheer van afvalstoffen de tarieven vaststellen, die ten minste dan wel ten hoogste in rekening worden gebracht bij het in ontvangst nemen van afvalstoffen door de houder van een vergunning als bedoeld in het eerste lid.
+
+##### Artikel 10.49
+
+1\. De aan de vergunning, bedoeld in artikel 10.48, eerste lid, te verbinden voorschriften kunnen in ieder geval inhouden:
+
+- a. dat in daarbij aangewezen categorieën van gevallen afvalstoffen niet mogen worden ingezameld zonder afzonderlijke toestemming van Onze Minister;
+- b. de verplichting, daarbij aangewezen afvalstoffen, wanneer zij aan de inzamelaar worden aangeboden, in ontvangst te nemen;
+- c. de verplichting, daarbij aangewezen categorieën van afvalstoffen die gescheiden worden afgegeven, afzonderlijk in te zamelen;
+- d. de verplichting, daarbij aangewezen afvalstoffen, wanneer zij aan de inzamelaar worden aangeboden, op te halen;
+- e. de verplichting afvalstoffen af te geven aan daarbij aangewezen personen.
+
+2\. Een vergunning geldt slechts voor degene aan wie zij is verleend. Deze draagt ervoor zorg dat de aan de vergunning verbonden voorschriften worden nageleefd.
+
+#### § 10.6.4 — Verdere bepalingen omtrent het beheer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen
+
+##### Artikel 10.50
+
+1\. Onze Minister kan, indien voor het beheer van de betrokken stoffen, mengsels of voorwerpen een verplichting deze in te nemen als bedoeld in artikel 9.5.2 of een daaraan gelijkwaardige vrijwillige inname bestaat, bij ministeriële regeling categorieën van gevallen aangeven waarin de verplichtingen, gesteld bij of krachtens de artikelen 10.38 tot en met 10.40, 10.45, 10.46 en 10.48 niet gelden.
+
+2\. Een ministeriële regeling als bedoeld in het eerste lid omvat de verplichting tot het registreren van daarbij aan te geven gegevens op een daarbij aan te geven wijze.
+
+##### Artikel 10.51
+
+Vervallen
+
+##### Artikel 10.52
+
+Vervallen
+
+##### Artikel 10.53
+
+Vervallen
+
+##### Artikel 10.54
+
+1\. Het is verboden gevaarlijke afvalstoffen tijdens het inzamelen of vervoeren daarvan:
+
+- a. anders dan handmatig te scheiden, of
+- b. te mengen, daaronder mede begrepen verdunnen, met andere bij algemene maatregel van bestuur aangewezen categorieën van afvalstoffen of met andere stoffen dan afvalstoffen.
+
+2\. Het verbod geldt niet voor handelingen die aan degene die gevaarlijke afvalstoffen inzamelt, uitdrukkelijk zijn toegestaan krachtens artikel 10.47 of 10.48.
+
+3\. Artikel 10.2, tweede lid, is van overeenkomstige toepassing.
+
+##### Artikel 10.54a
+
+Vervallen
+
+##### Artikel 10.55
+
+1\. Het is verboden:
+
+- a. bedrijfsafvalstoffen of gevaarlijke afvalstoffen voor anderen tegen vergoeding te vervoeren,
+- b. bedrijfsafvalstoffen of gevaarlijke afvalstoffen te verhandelen,
+- c. ten behoeve van anderen te bemiddelen bij het beheer van bedrijfsafvalstoffen of gevaarlijke afvalstoffen,
+
+zonder vermelding als respectievelijk vervoerder, handelaar of bemiddelaar op de lijst van vervoerders, handelaars en bemiddelaars.
+
+2\. Het verbod, bedoeld in het eerste lid, onder a, geldt niet voor degene die krachtens artikel 10.45 bevoegd is tot het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen.
+
+3\. Onze Minister wijst een instantie aan die namens hem zorg draagt voor de vermelding van vervoerders, handelaars en bemiddelaars op de lijst, bedoeld in het eerste lid.
+
+4\. Onze Minister stelt nadere regels omtrent de vermelding van vervoerders, handelaars en bemiddelaars op de lijst, bedoeld in het eerste lid. Deze regels bevatten in ieder geval criteria voor vermelding op de lijst en voor beëindiging daarvan.
+
+5\. Een vervoerder, handelaar of bemiddelaar als bedoeld in het eerste lid registreert met betrekking tot de activiteiten, bedoeld in het eerste lid, de volgende gegevens:
+
+- a. de naam en het adres van degene:
+  - 1° van wie de afvalstoffen afkomstig zijn,
+  - 2° aan wie de afvalstoffen worden afgegeven;
+- b. de gebruikelijke benaming en de hoeveelheid van de afvalstoffen.
+
+6\. Artikel 10.38, tweede lid, is van overeenkomstige toepassing.
+
+7\. Onze Minister stelt regels inhoudende de verplichting dat een vervoerder als bedoeld in het eerste lid tijdens het vervoeren daarbij aan te geven bescheiden aanwezig heeft, waaruit blijkt dat hij staat vermeld op de lijst van vervoerders.
+
+### Titel 10.7 — Het overbrengen van afvalstoffen binnen, naar en uit de Europese Gemeenschap
+
+#### Artikel 10.56
+
+1\. Onze Minister stelt regels ter uitvoering van artikel 6 van de EG-verordening overbrenging van afvalstoffen.
+
+2\. Ter uitvoering van andere artikelen dan het in het eerste lid genoemde artikel van de EG-verordening overbrenging van afvalstoffen kan Onze Minister regels stellen.
+
+#### Artikel 10.57
+
+Bij algemene maatregel van bestuur kan worden bepaald dat de titels II en VII van de EG-verordening overbrenging van afvalstoffen van overeenkomstige toepassing zijn met betrekking tot de overbrenging van afvalstoffen binnen Nederland.
+
+#### Artikel 10.58
+
+Onze Minister is de bevoegde autoriteit, bedoeld in artikel 53 van de EG-verordening overbrenging van afvalstoffen.
+
+#### Artikel 10.59
+
+Op een kennisgeving als bedoeld in de EG-verordening overbrenging van afvalstoffen is artikel 4:15 van de Algemene wet bestuursrecht niet van toepassing.
+
+#### Artikel 10.60
+
+1\. Het is verboden afvalstoffen waarop de EG-verordening overbrenging van afvalstoffen van toepassing is, binnen of buiten Nederlands grondgebied te brengen, indien de voorgenomen overbrenging, nuttige toepassing of verwijdering, naar het oordeel van Onze Minister in strijd zou zijn met het belang van de bescherming van het milieu.
+
+2\. Het is verboden handelingen te verrichten als bedoeld in artikel 2, onder 35, van de EG-verordening overbrenging van afvalstoffen.
+
+3\. Het is verboden te handelen in strijd met artikel 49, eerste lid, van de EG-verordening overbrenging van afvalstoffen.
+
+4\. Het is verboden te handelen in strijd met de voorschriften als bedoeld in de artikelen 35, vijfde lid, 37, vierde lid, of 38, zesde lid, van de EG-verordening overbrenging van afvalstoffen.
+
+5\. Het is verboden afvalstoffen over te brengen indien gehandeld wordt in strijd met een voorschrift gesteld bij:
+
+- a. artikel 13, tweede lid, 15, onder c, 16, onder a, b, c, eerste of tweede volzin, of d, 18, eerste of tweede lid, of 19 van de EG-verordening overbrenging van afvalstoffen;
+- b. artikel 35, eerste lid, 38, eerste lid, 42, eerste lid, 44, eerste lid, 45 in verbinding met 42, eerste lid, 46, eerste lid, 47 in verbinding met 42, eerste lid, of 48, eerste lid, in verbinding met 47 en 42, eerste lid, van de EG-verordening overbrenging van afvalstoffen, telkens in verbinding met één of meer van de onder a genoemde bepalingen;
+- c. artikel 55, laatste volzin, van de EG-verordening overbrenging van afvalstoffen.
+
+6\. Het is verboden afvalstoffen over te brengen indien gehandeld wordt in strijd met een voorwaarde gesteld krachtens:
+
+- a. artikel 10, eerste of tweede lid, of 13, derde lid, van de EG-verordening overbrenging van afvalstoffen;
+- b. artikel 35, eerste lid, 38, eerste lid, 42, eerste lid, 44, eerste lid, 45 in verbinding met 42, eerste lid, 46, eerste lid, 47 in verbinding met 42, eerste lid, of 48, eerste lid, in verbinding met 47 en 42, eerste lid, van de EG-verordening overbrenging van afvalstoffen, telkens in verbinding met één of meer van de onder a genoemde bepalingen.
+
+7\. Het is verboden afvalstoffen over te brengen indien gehandeld wordt in strijd met een voorschrift gesteld bij:
+
+- a. artikel 15, onder d of e, laatste volzin, 16, onder c, laatste volzin, of onder e, of 20 van de EG-verordening overbrenging van afvalstoffen;
+- b. artikel 35, eerste lid, 38, eerste lid, 42, eerste lid, 44, eerste lid, 45 in verbinding met 42, eerste lid, 46, eerste lid, 47 in verbinding met 42, eerste lid, of 48, eerste lid, in verbinding met 47 en 42, eerste lid, van de EG-verordening overbrenging van afvalstoffen, telkens in verbinding met één of meer van de onder a genoemde bepalingen;
+- c. artikel 35, derde lid, onder c, 38, derde lid, onder b, 42, derde lid, onder c, 44, derde lid, in verbinding met 42, derde lid, onder c, 45 in verbinding met artikel 42, derde lid, onder c, 47 in verbinding met 42, derde lid, onder c, 48, eerste lid, in verbinding met 47 en 42, derde lid, onder c, of 48, tweede lid, aanhef, in verbinding met 44, derde lid, en 42, derde lid, onder c, van de EG-verordening overbrenging van afvalstoffen.
+
+### Titel 10.8 — Verdere bepalingen
+
+#### Artikel 10.61
+
+1\. Bij algemene maatregel van bestuur kunnen, voor zover dat in het belang van een doelmatig beheer van afvalstoffen noodzakelijk is, regels worden gesteld met betrekking tot het opnemen in de afvalstoffenverordening of het omgevingsplan van regels als bedoeld in de artikelen 10.21, 10.24, 10.25 en 10.26.
+
+2\. Bij een maatregel als bedoeld in het eerste lid wordt aangegeven binnen welke termijn en, indien nodig, op welke wijze die regels moeten zijn opgenomen in de verordening.
+
+#### Artikel 10.62
+
+Vervallen
+
+#### Artikel 10.63
+
+1\. Burgemeester en wethouders kunnen, indien het belang van de bescherming van het milieu zich daartegen niet verzet, ontheffing verlenen van het in artikel 10.2, eerste lid, gestelde verbod om huishoudelijke afvalstoffen te verbranden, voorzover het geen gevaarlijke afvalstoffen betreft. Op de ontheffing, bedoeld in de vorige volzin, is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht van toepassing.
+
+2\. Gedeputeerde staten kunnen, indien het belang van de bescherming van het milieu zich daartegen niet verzet, ontheffing verlenen van het in artikel 10.2, eerste lid, gestelde verbod om huishoudelijke afvalstoffen te storten of anderszins op of in de bodem te brengen, voorzover het geen gevaarlijke afvalstoffen betreft, en, indien het belang van een doelmatig beheer van afvalstoffen zich daartegen niet verzet, ontheffing verlenen van de in de artikelen 10.37 en 10.54 gestelde verboden.
+
+3\. Onze Minister kan, indien het belang van een doelmatig beheer van afvalstoffen zich daartegen niet verzet, ontheffing verlenen van het bepaalde in een algemene maatregel van bestuur krachtens de artikelen 10.28, 10.29, 10.47 en, indien het belang van de bescherming van het milieu zich daartegen niet verzet, van het bepaalde bij of krachtens een algemene maatregel van bestuur op grond van de artikelen 10.41, eerste en tweede lid, 10.42, eerste lid, 10.43, eerste lid, 10.44, derde lid, en 10.46, eerste lid, alsmede van het bepaalde in de artikelen 10.23, derde lid, en 10.48.
+
+#### Artikel 10.64
+
+1\. Het voor milieubelastende activiteiten bij of krachtens de artikelen 4.5, tweede lid, 5.18, 5.19, 5.26, 5.31, 5.34, eerste en vierde lid, 5.37, 5.38, 5.39, aanhef en onder a, 5.40, eerste lid, onder a, en tweede lid, onder a tot en met e, 5.41, 5.42, tweede lid, 13.5, 16.15, 16.55, eerste, derde en vierde lid, 16.65 tot en met 16.68 en 16.139 van de Omgevingswet bepaalde is van overeenkomstige toepassing met betrekking tot het verlenen, weigeren, wijzigen en intrekken van een ontheffing als bedoeld in artikel 10.63, met dien verstande dat – behalve ten aanzien van een ontheffing van de in artikel 10.2, eerste lid, en artikel 10.54, eerste lid, gestelde verboden –, voor die toepassing het belang van de bescherming van het milieu wordt beperkt tot het belang van een doelmatig beheer van de betrokken categorie van afvalstoffen.
+
+2\. In afwijking van het eerste lid is afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing op een ontheffing als bedoeld in artikel 10.63, eerste lid.
+
+## Hoofdstuk 11 — Geluid
+
+### Titel 11.1 — Algemeen
+
+#### Artikel 11.1
+
+Vervallen
+
+#### Artikel 11.2
+
+Vervallen
+
+#### Artikel 11.3
+
+Vervallen
+
+### Titel 11.2 — Geluidsbelastingkaarten en actieplannen
+
+#### § 11.2.1 — Algemeen
+
+##### Artikel 11.4
+
+Vervallen
+
+##### Artikel 11.5
+
+Vervallen
+
+#### § 11.2.2 — Geluidsbelastingkaarten
+
+##### Artikel 11.6
+
+Vervallen
+
+##### Artikel 11.7
+
+Vervallen
+
+##### Artikel 11.8
+
+Vervallen
+
+##### Artikel 11.9
+
+Vervallen
+
+##### Artikel 11.10
+
+Vervallen
+
+#### § 11.2.3 — Actieplannen
+
+##### Artikel 11.11
+
+Vervallen
+
+##### Artikel 11.12
+
+Vervallen
+
+##### Artikel 11.13
+
+Vervallen
+
+##### Artikel 11.14
+
+Vervallen
+
+##### Artikel 11.15
+
+Vervallen
+
+#### § 11.2.4 — Inlichtingen aan een andere lidstaat van de Europese Unie
+
+##### Artikel 11.16
+
+Vervallen
+
+### Titel 11.3 — Wegen en spoorwegen met geluidproductieplafonds
+
+#### Afdeling 11.3.1 — Algemeen
+
+##### Artikel 11.17
+
+Vervallen
+
+##### Artikel 11.18
+
+Vervallen
+
+##### Artikel 11.19
+
+Vervallen
+
+#### Afdeling 11.3.2 — Naleving en registratie van geluidproductieplafonds
+
+##### § 11.3.2.1 — Naleving van de geluidproductieplafonds
+
+###### Artikel 11.20
+
+Vervallen
+
+###### Artikel 11.21
+
+Vervallen
+
+###### Artikel 11.22
+
+Vervallen
+
+###### Artikel 11.23
+
+Vervallen
+
+###### Artikel 11.24
+
+Vervallen
+
+##### § 11.3.2.2 — Het geluidregister
+
+###### Artikel 11.25
+
+Vervallen
+
+#### Afdeling 11.3.3 — Vaststelling of wijziging van geluidproductieplafonds
+
+##### § 11.3.3.1 — Algemeen
+
+###### Artikel 11.26
+
+Vervallen
+
+###### Artikel 11.27
+
+Vervallen
+
+###### Artikel 11.28
+
+Vervallen
+
+###### Artikel 11.29
+
+Vervallen
+
+###### Artikel 11.30
+
+Vervallen
+
+##### § 11.3.3.2 — Procedures voor vaststelling of wijziging van geluidproductieplafonds
+
+###### Artikel 11.31
+
+Vervallen
+
+###### Artikel 11.32
+
+Vervallen
+
+###### Artikel 11.33
+
+Vervallen
+
+###### Artikel 11.34
+
+Vervallen
+
+###### Artikel 11.35
+
+Vervallen
+
+###### Artikel 11.36
+
+Vervallen
+
+###### Artikel 11.37
+
+Vervallen
+
+##### § 11.3.3.3 — De binnenwaarde
+
+###### Artikel 11.38
+
+Vervallen
+
+###### Artikel 11.39
+
+Vervallen
+
+##### § 11.3.3.4 — Verdere bepalingen omtrent vaststelling en wijziging van geluidproductieplafonds
+
+###### Artikel 11.40
+
+Vervallen
+
+###### Artikel 11.41
+
+Vervallen
+
+###### Artikel 11.42
+
+Vervallen
+
+###### Artikel 11.43
+
+Vervallen
+
+#### Afdeling 11.3.4 — Geluidproductieplafonds voor op 1 juli 2012 bestaande of geprojecteerde wegen en spoorwegen
+
+##### § 11.3.4.1 — Het tot stand komen van de geluidproductieplafonds
+
+###### Artikel 11.44
+
+Vervallen
+
+###### Artikel 11.45
+
+Vervallen
+
+###### Artikel 11.46
+
+Vervallen
+
+##### § 11.3.4.2 — Bijzondere bepalingen met betrekking tot het wijzigen van geluidproductieplafonds die tot stand zijn gekomen met toepassing van artikel 11.45
+
+###### Artikel 11.47
+
+Vervallen
+
+###### Artikel 11.48
+
+Vervallen
+
+#### Afdeling 11.3.5 — Overschrijding van de maximale waarde
+
+##### Artikel 11.49
+
+Vervallen
+
+##### Artikel 11.50
+
+Vervallen
+
+##### Artikel 11.51
+
+Vervallen
+
+##### Artikel 11.52
+
+Vervallen
+
+##### Artikel 11.53
+
+Vervallen
+
+##### Artikel 11.54
+
+Vervallen
+
+##### Artikel 11.55
+
+Vervallen
+
+#### Afdeling 11.3.6 — Sanering
+
+##### Artikel 11.56
+
+Vervallen
+
+##### Artikel 11.57
+
+Vervallen
+
+##### Artikel 11.58
+
+Vervallen
+
+##### Artikel 11.59
+
+Vervallen
+
+##### Artikel 11.60
+
+Vervallen
+
+##### Artikel 11.61
+
+Vervallen
+
+##### Artikel 11.62
+
+Vervallen
+
+##### Artikel 11.63
+
+Vervallen
+
+##### Artikel 11.64
+
+Vervallen
+
+##### Artikel 11.65
+
+Vervallen
+
+#### Afdeling 11.3.7 — Overige bepalingen
+
+##### Artikel 11.66
+
+Vervallen
+
+## Hoofdstuk 11a — Andere handelingen
+
+### Titel 11a.1 — Kwaliteit van werkzaamheden en integriteit van degenen die deze werkzaamheden uitvoeren
+
+#### Artikel 11a.1
+
+Vervallen
+
+#### Artikel 11a.2
+
+1\. Bij of krachtens algemene maatregel van bestuur kunnen ter bevordering van de kwaliteit van bij of krachtens de maatregel aangewezen werkzaamheden als bedoeld in het tweede lid, en ter bevordering van de integriteit van degenen die deze werkzaamheden uitvoeren, regels worden gesteld, die nodig zijn in verband met de bescherming van het milieu.
+
+2\. Werkzaamheden als bedoeld in het eerste lid zijn:
+
+- a. het verrichten van berekeningen, metingen of tellingen;
+- b. het nemen of analyseren van monsters of het anderszins verrichten van onderzoek naar de aard of mate van verontreinigingen in stoffen, producten, afvalstoffen, afvalwater, lucht, oppervlaktewater, grond, organismen of bodem;
+- c. het beperken, ongedaan maken of anderszins saneren van een verontreiniging in stoffen, producten, afvalstoffen, afvalwater, lucht, oppervlaktewater, grond of bodem;
+- d. het beoordelen of inspecteren van stoffen, producten, voorzieningen of installaties;
+- e. het toepassen of geschikt maken voor toepassing, van stoffen, producten of afvalstoffen in een werk of het uitvoeren van een werk op of in de bodem;
+- f. het houden van toezicht op of het voorbereiden of begeleiden van werkzaamheden als bedoeld in de onderdelen a tot en met e;
+- g. bemiddelen bij, beoordelen van of adviseren of rapporteren over werkzaamheden als bedoeld in de onderdelen a tot en met f;
+- h. het afgeven, wijzigen, schorsen, intrekken of weigeren van certificaten, of
+- i. werkzaamheden met betrekking tot een bodemenergiesysteem.
+
+3\. Tot de bij een maatregel krachtens het eerste lid te stellen regels kunnen behoren regels, inhoudende een verbod een aangewezen werkzaamheid uit te voeren zonder dat voor die werkzaamheid wordt beschikt over:
+
+- a. een erkenning waarmee Onze Minister, in overeenstemming met Onze betrokken Minister, of een bij de maatregel aangewezen instantie, heeft vastgesteld dat degene die een werkzaamheid als bedoeld in het eerste lid uitvoert voldoet aan bij of krachtens de maatregel gestelde eisen met betrekking tot onafhankelijkheid, deskundigheid, bekwaamheid, betrouwbaarheid, financiële draagkracht of andere eisen waarmee de kwaliteit van de werkzaamheden en de integriteit van degene die een werkzaamheid uitvoert kan worden bevorderd;
+- b. een certificaat waarmee een krachtens onderdeel a erkende certificeringsinstelling kenbaar heeft gemaakt dat er gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat een natuurlijk persoon of rechtspersoon voldoet aan de voor de certificering geldende normen met betrekking tot deskundigheid, bekwaamheid, het kwaliteitssysteem, de interne kwaliteitsbewaking, werkinstructies, klachtbehandeling of andere normen waarmee de kwaliteit van de werkzaamheden kan worden bevorderd;
+- c. een accreditatie waarmee de Stichting Raad voor Accreditatie te Utrecht kenbaar heeft gemaakt dat er gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat een certificeringsinstelling, een inspectie-instelling, een laboratorium of een andere instelling competent is voor het uitvoeren van de desbetreffende werkzaamheid en dat wordt voldaan aan eisen omtrent de onafhankelijkheid, onpartijdigheid, continuïteit of andere eisen waarmee de kwaliteit van de werkzaamheden kan worden bevorderd.
+
+4\. Tot de bij een maatregel krachtens het eerste lid te stellen regels kunnen tevens behoren regels, inhoudende de verplichting:
+
+- a. te handelen overeenkomstig de aan de erkenning verbonden voorschriften;
+- b. te handelen overeenkomstig het voor de desbetreffende werkzaamheid bij of krachtens de maatregel aangewezen document;
+- c. te handelen overeenkomstig bij of krachtens de maatregel gestelde eisen omtrent de onafhankelijkheid, deskundigheid, bekwaamheid, betrouwbaarheid, financiële draagkracht of andere eisen waarmee de kwaliteit van de werkzaamheden en de integriteit van degene die een werkzaamheid uitvoert kan worden bevorderd;
+- d. van een intrekking of een schorsing van een certificaat of een accreditatie een kennisgeving te doen aan Onze Minister of een bij de maatregel aangewezen instantie.
+
+5\. Indien toepassing wordt gegeven aan het derde lid, aanhef en onderdeel a, worden bij de maatregel regels gesteld met betrekking tot:
+
+- a. de wijze waarop de aanvraag voor een erkenning moet geschieden en de gegevens die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag;
+- b. de gronden waarop en de voorwaarden waaronder Onze Minister, in overeenstemming met Onze betrokken Minister, of een bij de maatregel aangewezen instantie, een erkenning kan verlenen, wijzigen, weigeren, schorsen of intrekken, en
+- c. de termijn waarvoor een erkenning kan worden verleend of geschorst.
+
+6\. Indien op grond van het vijfde lid, onderdeel b, bij de maatregel is bepaald dat Onze Minister, in overeenstemming met Onze betrokken Minister of een bij de maatregel aangewezen instantie, een erkenning kan weigeren dan wel intrekken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, kan bij die maatregel worden bepaald dat voorafgaand aan de weigering of intrekking het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van die wet om een advies als bedoeld in artikel 9 van die wet kan worden gevraagd.
+
+7\. Onze Minister kan, in overeenstemming met Onze betrokken Minister, voor daarbij aangegeven categorieën van werkzaamheden of categorieën van natuurlijke personen, rechtspersonen of instellingen die werkzaamheden verrichten, vrijstelling verlenen van krachtens het derde tot en met vijfde lid gestelde regels, voor zover het belang van de bescherming van het milieu zich daartegen niet verzet.
+
+#### Artikel 11a.3
+
+Voor zover uitvoering is gegeven aan artikel 11A.2, eerste en derde lid, kan bij de maatregel worden bepaald dat in bij de maatregel aangegeven gevallen:
+
+- a. het bevoegd gezag een aanvraag om een beschikking die bij of krachtens deze wet, dan wel bij of krachtens de in artikel 13.1, tweede lid, genoemde wetten wordt gegeven, niet in behandeling neemt indien daarbij gegevens zijn gevoegd die afkomstig zijn van een natuurlijk persoon, rechtspersoon of instelling die in strijd heeft gehandeld met artikel 11A.2, derde lid;
+- b. ter voldoening aan een bij of krachtens deze wet, dan wel bij of krachtens de in artikel 13.1, tweede lid, genoemde wetten geldende verplichting geen gegevens worden verstrekt die afkomstig zijn van een natuurlijk persoon, rechtspersoon of instelling die in strijd heeft gehandeld met artikel 11A.2, derde lid.
+
+## Hoofdstuk 12 — Verslag-, registratie- en meetverplichtingen
+
+### Titel 12.1 — Registers beschermde gebieden
+
+#### Artikel 12.1
+
+Vervallen
+
+#### Artikel 12.2
+
+Vervallen
+
+#### Artikel 12.3
+
+Vervallen
+
+#### Artikel 12.4
+
+Vervallen
+
+#### Artikel 12.5
+
+Vervallen
+
+#### Artikel 12.6
+
+Vervallen
+
+#### Artikel 12.7
+
+Vervallen
+
+#### Artikel 12.8
+
+Vervallen
+
+#### Artikel 12.9
+
+Vervallen
+
+#### Artikel 12.10
+
+Vervallen
+
+### Titel 12.2 — Registratie gegevens externe veiligheid inrichtingen, transportroutes en buisleidingen
+
+#### Artikel 12.11
+
+Vervallen
+
+#### Artikel 12.12
+
+Vervallen
+
+#### Artikel 12.13
+
+Vervallen
+
+#### Artikel 12.14
+
+Vervallen
+
+#### Artikel 12.15
+
+Vervallen
+
+#### Artikel 12.16
+
+Vervallen
+
+#### Artikel 12.17
+
+Vervallen
+
+### Titel 12.3 — De EG-verordening PRTR en het PRTR-protocol
+
+#### § 12.3.1 — Algemeen
+
+##### Artikel 12.18
+
+Vervallen
+
+#### § 12.3.2 — Rapportage door inrichtingen
+
+##### Artikel 12.19
+
+Vervallen
+
+##### Artikel 12.20
+
+Vervallen
+
+##### Artikel 12.20a
+
+Vervallen
+
+##### Artikel 12.20b
+
+Vervallen
+
+##### Artikel 12.21
+
+Vervallen
+
+##### Artikel 12.22
+
+Vervallen
+
+##### Artikel 12.23
+
+Vervallen
+
+##### Artikel 12.24
+
+Vervallen
+
+#### § 12.3.3 — PRTR
+
+##### Artikel 12.25
+
+Vervallen
+
+##### Artikel 12.26
+
+Vervallen
+
+##### Artikel 12.27
+
+Vervallen
+
+##### Artikel 12.28
+
+Vervallen
+
+#### § 12.3.4 — Aanvullende rapportageverplichtingen
+
+##### Artikel 12.28a
+
+Vervallen
+
+#### § 12.3.5 — Slotbepalingen
+
+##### Artikel 12.29
+
+Vervallen
+
+##### Artikel 12.30
+
+Vervallen
+
+### Titel 12.4 — **Registratie gegevens brandstoffen en elektriciteit uit hernieuwbare bronnen ten behoeve van vervoer**
+
+#### Artikel 12.31
+
+Vervallen
+
+#### Artikel 12.32
+
+Vervallen
+
+#### Artikel 12.33
+
+Vervallen
+
+## Hoofdstuk 13 — Procedures voor vergunningen en ontheffingen
+
+### Afdeling 13.1 — Algemeen
+
+#### Artikel 13.1
+
+1\. Bij de toepassing van afdeling 3.4 van de Algemene wet bestuursrecht op de voorbereiding van beschikkingen krachtens deze wet en van beschikkingen krachtens de in het tweede lid genoemde wetten, wordt afdeling 13.2 in acht genomen, voor zover dat bij of krachtens de betrokken wet is bepaald.
+
+2\. De in het eerste lid bedoelde wetten zijn de Kernenergiewet, en de Wet bescherming Antarctica.
+
+### Afdeling 13.2 — Bijzondere bepalingen
+
+#### Artikel 13.2
+
+Vervallen
+
+#### Artikel 13.3
+
+Zienswijzen als bedoeld in artikel 3:15 van de Algemene wet bestuursrecht, kunnen naar voren worden gebracht door een ieder.
+
+#### Artikel 13.4
+
+Vervallen
+
+#### Artikel 13.5
+
+1\. Bij het geven van een beschikking als bedoeld in artikel 13.1 kan het bevoegd gezag zich in ieder geval baseren op gegevens en onderzoeken die niet ouder zijn dan twee jaar.
+
+2\. Het eerste lid is niet van toepassing op een beschikking die krachtens de Wet bescherming Antarctica wordt genomen.
+
+#### Artikel 13.6
+
+Indien de aanvrager daarom heeft verzocht, stelt het bevoegd gezag hem, voordat het stukken ter inzage legt die niet van zijn kant zijn ingebracht, in de gelegenheid die stukken in te zien met het oog op de toepassing van de artikelen 19.3 tot en met 19.5. Tot de in de eerste volzin bedoelde stukken behoren niet de verslagen, gemaakt overeenkomstig artikel 3:17, tweede lid, van de Algemene wet bestuursrecht, en afschriften van zienswijzen, door anderen dan betrokken bestuursorganen ingebracht overeenkomstig artikel 3:15 van die wet.
+
+#### Artikel 13.7
+
+Vervallen
+
+#### Artikel 13.8
+
+1\. Indien op de voorbereiding van de beschikking op een of meerdere van de aanvragen die gecoördineerd worden behandeld met andere aanvragen artikel 31, vierde lid, van de Dienstenwet van toepassing is, is dat lid van toepassing op de voorbereiding van alle beschikkingen op die aanvragen.
+
+2\. Indien de termijn voor het geven van een beschikking op een aanvraag wordt verlengd overeenkomstig artikel 31, vierde lid, van de Dienstenwet of artikel 3:18, tweede lid, van de Algemene wet bestuursrecht, geldt die termijn tevens voor de beschikking op de andere aanvragen waarmee de aanvraag gecoördineerd wordt behandeld.
+
+#### Artikel 13.9
+
+Indien een beslissing op een aanvraag om een vergunning of ontheffing of een beschikking tot wijziging daarvan niet kan worden gegeven dan nadat is voldaan aan een uit een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie voortvloeiende verplichting, wordt de termijn voor het geven van die beschikking opgeschort tot de ten aanzien van die verplichting geldende procedure is afgerond.
+
+#### Artikel 13.10
+
+In gevallen waarin Onze Minister bevoegd is een vergunning of ontheffing te verlenen, kan hij in overeenstemming met Onze betrokken Minister in het belang van de veiligheid van de Staat de toepassing van afdeling 3.4 en artikel 3:44 van de Algemene wet bestuursrecht geheel of gedeeltelijk achterwege laten, voor zover dat belang zulks vereist.
+
+#### Artikel 13.11
+
+Het bevoegd gezag kan bepalen dat afdeling 3.4 van de Algemene wet bestuursrecht buiten toepassing blijft bij de voorbereiding van de beschikking op een aanvraag om een vergunning of ontheffing of van een beschikking tot wijziging daarvan, indien die beschikking:
+
+- a. betrekking heeft op het beheer van gevaarlijke afvalstoffen waarvan het beheer door een ongewone omstandigheid op korte termijn nodig is;
+- b. betrekking heeft op het beheer van andere dan gevaarlijke afvalstoffen waarvan het beheer door een ongewone omstandigheid en in verband met de hoeveelheid waarin die afvalstoffen vrijkomen, op korte termijn nodig is;
+- c. strekt tot uitvoering van een verplichting, opgelegd krachtens artikel 17.4
+
+### Afdeling 13.3 — Winningsafvalvoorzieningen categorie A met mogelijke grensoverschrijdende milieugevolgen
+
+#### Artikel 13.12
+
+Vervallen
+
+#### Artikel 13.13
+
+1\. Indien de aanvraag om een vergunning betrekking heeft op een winningsafvalvoorziening categorie A, die is gelegen in een ander land en die belangrijke nadelige gevolgen voor het milieu in Nederland kan hebben, wordt de aanvraag met de daarop betrekking hebbende stukken door gedeputeerde staten van de provincie waarbinnen bedoelde gevolgen zich kunnen voordoen, ter inzage gelegd.
+
+2\. Artikel 3:12, derde lid, onderdelen a, b en c, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.
+
+## Hoofdstuk 14 — Coördinatie
+
+### § 14.1 — Coördinatie bij aanvragen om een beschikking
+
+#### Artikel 14.1
+
+Vervallen
+
+#### Artikel 14.2
+
+Vervallen
+
+#### Artikel 14.3
+
+Vervallen
+
+#### Artikel 14.4
+
+Vervallen
+
+### § 14.2 — Coördinatie bij het maken van een milieueffectrapport
+
+#### Artikel 14.4a
+
+Vervallen
+
+#### Artikel 14.4b
+
+Vervallen
+
+#### Artikel 14.4c
+
+Vervallen
+
+#### Artikel 14.4d
+
+Vervallen
+
+#### Artikel 14.5
+
+Vervallen
+
+#### Artikel 14.6
+
+Vervallen
+
+#### Artikel 14.7
+
+Vervallen
+
+#### Artikel 14.8
+
+Vervallen
+
+#### Artikel 14.9
+
+Vervallen
+
+#### Artikel 14.10
+
+Vervallen
+
+#### Artikel 14.11
+
+Vervallen
+
+#### Artikel 14.12
+
+Vervallen
+
+#### Artikel 14.13
+
+Vervallen
+
+#### Artikel 14.14
+
+Vervallen
+
+#### Artikel 14.15
+
+Vervallen
+
+#### Artikel 14.16
+
+Vervallen
+
+## Hoofdstuk 15 — Financiële bepalingen
+
+### Titel 15.1
+
+#### Artikel 15.1
+
+Vervallen
+
+#### Artikel 15.2
+
+Vervallen
+
+### Titel 15.2 — Verbruiksbelastingen van brandstoffen
+
+#### § 15.2.1 — Grondslag en maatstaf
+
+##### Artikel 15.3
+
+Vervallen
+
+##### Artikel 15.4
+
+Vervallen
+
+#### § 15.2.2 — Belastingplichtigen
+
+##### Artikel 15.5
+
+Vervallen
+
+##### Artikel 15.6
+
+Vervallen
+
+#### § 15.2.3 — Vrijstelling
+
+##### Artikel 15.7
+
+Vervallen
+
+#### § 15.2.4 — Teruggaafregeling
+
+##### Artikel 15.8
+
+Vervallen
+
+#### § 15.2.5 — Tarief
+
+##### Artikel 15.9
+
+Vervallen
+
+#### § 15.2.6 — Heffing en invordering
+
+##### Artikel 15.10
+
+Vervallen
+
+##### Artikel 15.11
+
+Vervallen
+
+### Titel 15.3 — Voorschriften omtrent het verstrekken van subsidies
+
+#### Artikel 15.12
+
+Vervallen
+
+#### Artikel 15.13
+
+Vervallen
+
+#### Artikel 15.14
+
+Vervallen
+
+#### Artikel 15.15
+
+Vervallen
+
+#### Artikel 15.16
+
+Vervallen
+
+#### Artikel 15.17
+
+Vervallen
+
+#### Artikel 15.18
+
+Vervallen
+
+#### Artikel 15.19
+
+Vervallen
+
+### Titel 15.4 — Vergoeding van kosten en schade
+
+#### Artikel 15.20
+
+1\. Indien degene tot wie een beschikking is gericht krachtens:
+
+- a. artikel 9.2.2.1, eerste lid, juncto artikel 9.2.2.3, zevende lid,
+- b. artikel 10.48 juncto één of meer der onder *a* genoemde bepalingen,
+
+zich ten gevolge daarvan voor kosten ziet gesteld dan wel schade lijdt, welke redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven, kent het gezag dat de beschikking in eerste aanleg heeft gegeven, hem, voor zover op andere wijze in een redelijke vergoeding niet is of kan worden voorzien, op zijn verzoek dan wel uit eigen beweging een naar billijkheid te bepalen vergoeding toe.
+
+2\. Het eerste lid is van overeenkomstige toepassing ten aanzien van degene die tengevolge van een maatregel als bedoeld in artikel 17.19 zich voor kosten ziet gesteld dan wel daardoor schade lijdt, als in het eerste lid bedoeld.
+
+3\. Indien een beschikking als bedoeld in het eerste lid op aanvraag wordt gegeven, kan een verzoek om vergoeding worden ingediend na de toezending van een exemplaar van het ontwerp van die beschikking aan de aanvrager.
+
+4\. Indien het in het eerste lid bedoelde gezag een advies van deskundigen heeft ingewonnen omtrent een verzoek om vergoeding of omtrent het voornemen tot een toekenning daarvan uit eigen beweging zendt het een exemplaar van het advies aan de belanghebbende. Het vermeldt daarbij de termijn waarbinnen de belanghebbende zijn opvattingen omtrent het advies kenbaar kan maken.
+
+5\. Een beschikking op een verzoek om schadevergoeding wordt zo spoedig mogelijk gegeven, doch uiterlijk vier maanden na de datum waarop het verzoek is ontvangen, of, in gevallen als bedoeld in het vierde lid, uiterlijk zeven maanden na die datum.
+
+6\. Het in het eerste lid bedoelde gezag kan de beslissing, bedoeld in het vijfde lid, eenmaal voor ten hoogste twee maanden verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.
+
+#### Artikel 15.21
+
+1\. Artikel 15.20 is van overeenkomstige toepassing ten aanzien van degene op wie bepalingen van een algemene maatregel van bestuur, onderscheidenlijk een ministeriële regeling of een verordening als bedoeld in
+
+- a. de artikelen 9.2.2.1 en 9.2.2.6,
+- b. artikel 9.5.2, eerste lid,
+
+van toepassing worden en die zich daardoor voor kosten ziet gesteld dan wel schade lijdt, die redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven.
+
+2\. In gevallen als bedoeld in het eerste lid beslist Onze Minister over het toekennen van de vergoeding.
+
+#### Artikel 15.22
+
+Voor zover de toekenning van de vergoeding niet is geschied met instemming van Onze Minister, komen de kosten daarvan ten laste van het bevoegd gezag.
+
+#### Artikel 15.23
+
+1\. Bij koninklijk besluit kan, naar aanleiding van een daartoe strekkend verzoek van het bevoegd gezag, worden bepaald dat de kosten van een toegekende vergoeding alsnog geheel of gedeeltelijk ten laste van het Rijk komen.
+
+2\. Artikel 20 van de Wet op de Raad van State is van overeenkomstige toepassing.
+
+### Titel 15.5 — Fonds Luchtverontreiniging
+
+#### Artikel 15.24
+
+Vervallen
+
+#### Artikel 15.25
+
+Vervallen
+
+#### Artikel 15.26
+
+Vervallen
+
+#### Artikel 15.27
+
+Vervallen
+
+#### Artikel 15.28
+
+Vervallen
+
+### Titel 15.6 — Regulerende verbruiksbelastingen
+
+#### Artikel 15.29
+
+Vervallen
+
+#### Artikel 15.30
+
+Vervallen
+
+### Titel 15.7 — Keuringen
+
+#### Artikel 15.31
+
+Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld ten aanzien van vergoedingen voor keuringen als bedoeld in
+
+- a. artikel 9.2.2.4;
+- b. artikel 9.5.1, derde lid, onder e en f.
+
+### Titel 15.8 — Statiegeld, retourpremies
+
+#### Artikel 15.32
+
+1\. Bij een algemene maatregel van bestuur als bedoeld in artikel 9.5.2, eerste lid, kunnen regels worden gesteld,
+
+- a. inhoudende een verplichting voor bij de maatregel aangewezen categorieën van personen die stoffen, mengsels of produkten in Nederland op de markt brengen in bij de maatregel aangewezen verpakkingen, voor zodanige verpakkingen een bij of krachtens de maatregel te bepalen statiegeld in rekening te brengen en zodanige verpakkingen na gebruik met terugbetaling van het statiegeld in te nemen;
+- b. inhoudende een verplichting voor bij de maatregel aangewezen categorieën van personen die daarbij aangewezen stoffen, mengsels of produkten in Nederland op de markt brengen, voor zodanige stoffen, mengsels of produkten een bij of krachtens de maatregel te bepalen statiegeld in rekening te brengen en zodanige stoffen, mengsels of produkten na gebruik met terugbetaling van het statiegeld in te nemen.
+
+2\. Bij een algemene maatregel van bestuur als bedoeld in artikel 9.5.2, eerste lid, kunnen regels worden gesteld,
+
+- a. inhoudende een verplichting voor bij de maatregel aangewezen categorieën van personen die stoffen, mengsels of produkten in Nederland op de markt brengen in bij de maatregel aangewezen verpakkingen, zodanige verpakkingen na gebruik tegen betaling van een bij of krachtens de maatregel te bepalen premie in te nemen;
+- b. inhoudende een verplichting voor bij de maatregel aangewezen categorieën van personen die daarbij aangewezen stoffen, mengsels of produkten in Nederland op de markt brengen, deze na gebruik tegen betaling van een bij of krachtens de maatregel te bepalen premie in te nemen.
+
+3\. Indien toepassing wordt gegeven aan het eerste of tweede lid, kan worden bepaald dat daarbij aangegeven handelingen door andere dan de in het eerste en tweede lid bedoelde, bij die maatregel aangewezen categorieën van personen moeten worden verricht. In deze gevallen kan tevens worden bepaald dat eveneens bij de maatregel aangewezen categorieën van personen het statiegeld, bedoeld in het eerste lid, of de premie, bedoeld in het tweede lid, geheel of gedeeltelijk op een daarbij aangegeven wijze dienen af te dragen aan een of meer daarbij aangewezen andere personen.
+
+4\. Indien toepassing wordt gegeven aan het eerste of tweede lid, wordt een termijn bepaald, eerst bij het verstrijken waarvan die regels ten aanzien van stoffen, mengsels of produkten die bij het in werking treden van de maatregel reeds vervaardigd en in Nederland aanwezig waren, gaan gelden.
+
+### Titel 15.9 — Heffingen op gemeentelijk en provinciaal niveau
+
+#### Artikel 15.33
+
+1\. De gemeenteraad kan ter bestrijding van de kosten die voor haar verbonden zijn aan het beheer van huishoudelijke afvalstoffen een heffing instellen, waaraan kunnen worden onderworpen degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, gebruik maken van een perceel ten aanzien waarvan krachtens de artikelen 10.21 en 10.22 een verplichting tot het inzamelen van huishoudelijke afvalstoffen geldt.
+
+2\. Voor de toepassing van het eerste lid, wordt:
+
+- a. gebruikmaken van een perceel door de leden van een huishouden aangemerkt als gebruikmaken door het door de in artikel 231, tweede lid, onderdeel b, van de Gemeentewet bedoelde gemeenteambtenaar aangewezen lid van dat huishouden;
+- b. gebruikmaken door degene aan wie een deel van een perceel in gebruik is gegeven, aangemerkt als gebruikmaken door degene die dat deel in gebruik heeft gegeven, met dien verstande dat degene die het deel in gebruik heeft gegeven, bevoegd is de heffing als zodanig te verhalen op degene aan wie dat deel in gebruik is gegeven;
+- c. het ter beschikking stellen van een perceel voor volgtijdig gebruik aangemerkt als gebruikmaken door degene die dat perceel ter beschikking heeft gesteld, met dien verstande dat degene die het perceel ter beschikking heeft gesteld, bevoegd is de heffing als zodanig te verhalen op degene aan wie het perceel ter beschikking is gesteld.
+
+3\. Onder de in het eerste lid bedoelde kosten wordt mede verstaan de omzetbelasting die ingevolge de Wet op het BTW-compensatiefonds recht geeft op een bijdrage uit het fonds.
+
+4\. Met betrekking tot deze heffingen zijn de artikelen 216 tot en met 219 en 230 tot en met 257 van de Gemeentewet van overeenkomstige toepassing.
+
+#### Artikel 15.34
+
+Vervallen
+
+### Titel 15.9A — Rechten
+
+#### Artikel 15.34a
+
+Met betrekking tot beschikkingen tot verlening, wijziging of intrekking van een vergunning of ontheffing krachtens deze wet worden geen rechten geheven.
+
+### Titel 15.10 — Afvalbeheerbijdragen
+
+#### Artikel 15.35
+
+Voor de toepassing van deze titel en de daarop berustende bepalingen wordt verstaan onder:
+
+afvalbeheerbijdrage: bijdrage in de kosten van het beheer van een afvalstof;
+
+overeenkomst over een afvalbeheerbijdrage: schriftelijke overeenkomst tussen degenen die een stof, mengsels of product in Nederland invoeren of op de markt brengen, tot het afdragen van een afvalbeheerbijdrage.
+
+#### Artikel 15.36
+
+1\. Onze Minister kan, indien dat in het belang is van een doelmatig beheer van afvalstoffen en in overeenstemming is met artikel 8bis van de kaderrichtlijn afvalstoffen, op een met redenen omkleed verzoek een overeenkomst over een afvalbeheerbijdrage algemeen verbindend verklaren voor een ieder die die stof, dat mengsels of dat produkt in Nederland invoert of op de markt brengt.
+
+2\. Onze Minister stelt regels met betrekking tot de onderwerpen die in ieder geval in een overeenkomst over een afvalbeheerbijdrage, waarvoor een algemeen verbindend verklaring wordt gevraagd, aan de orde dienen te komen, alsmede met betrekking tot de bij een verzoek als bedoeld in het eerste lid over te leggen gegevens. Tot die gegevens behoren in ieder geval gegevens, waaruit duidelijk wordt dat redelijkerwijs is getracht te voorkomen, dat gebruikers van die stof, dat mengsels of dat produkt in de praktijk meer dan eenmaal een bijdrage voor het beheer daarvan verschuldigd zullen zijn.
+
+3\. Artikel 9.5.2, eerste lid, is van overeenkomstige toepassing, met dien verstande dat de regels, bedoeld in dat lid, tevens kunnen worden gesteld ten aanzien van de uitvoering van een regeling voor uitgebreide producentenverantwoordelijkheid die is opgelegd middels een algemeen verbindend verklaarde overeenkomst.
+
+#### Artikel 15.37
+
+1\. Een verzoek als bedoeld in artikel 15.36 kan slechts worden ingediend door degenen die, onderscheidenlijk organisaties van degenen die wat betreft de gezamenlijke omzet van de betrokken stoffen, mengsels of produkten een naar het oordeel van Onze Minister belangrijke meerderheid vormen van degenen die deze stoffen, mengsels of produkten in Nederland invoeren of op de markt brengen. Onze Minister betrekt bij zijn oordeel met betrekking tot de vraag of degenen die, onderscheidenlijk de organisaties van degenen die het verzoek hebben ingediend, een belangrijke meerderheid vormen, in ieder geval het aantal van hen in verhouding met het totale aantal van degenen die deze stoffen, mengsels of produkten in Nederland invoeren of op de markt brengen.
+
+2\. Op de voorbereiding van een besluit op het verzoek is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
+
+3\. Indien een besluit niet kan worden genomen dan nadat is voldaan aan een uit een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie voortvloeiende verplichting, wordt de termijn voor het nemen van dat besluit opgeschort tot de ten aanzien van die verplichting geldende procedure is afgerond. Van de opschorting wordt mededeling gedaan aan de verzoeker.
+
+4\. Indien bij het besluit een overeenkomst over een afvalbeheerbijdrage algemeen verbindend wordt verklaard, wordt van de overeenkomst in de *Staatscourant* mededeling gedaan.
+
+#### Artikel 15.38
+
+1\. Onze Minister kan van een algemeen verbindend verklaarde overeenkomst over een afvalbeheerbijdrage op een daartoe strekkend verzoek ontheffing verlenen, indien de verzoeker zorg draagt voor een zodanig beheer van de betrokken afvalstoffen dat deze naar het oordeel van Onze Minister ten minste gelijkwaardig is aan het beheer overeenkomstig de betrokken algemeen verbindend verklaarde overeenkomst over een afvalbeheerbijdrage.
+
+2\. Een ontheffing kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.
+
+3\. Een krachtens het eerste lid verleende ontheffing kan ambtshalve of op een daartoe strekkend verzoek worden gewijzigd of ingetrokken. Artikel 15.39, tweede lid, is van overeenkomstige toepassing, met dien verstande dat voor het in onderdeel *b* van dat lid genoemde belang in de plaats treedt: het niet langer voldoen aan het in het eerste lid van dit artikel genoemde vereiste.
+
+4\. Op de voorbereiding van een besluit als bedoeld in het eerste en derde lid, is artikel 15.37, tweede tot en met vierde lid, van overeenkomstige toepassing. Onze Minister stelt de houder van de ontheffing, behoudens in gevallen waarin deze om wijziging of intrekking verzoekt, van zijn voornemen tot wijziging of intrekking in kennis, alvorens een besluit te nemen.
+
+5\. Onze Minister kan regels stellen met betrekking tot de gegevens die een verzoeker bij een verzoek als bedoeld in het eerste lid dient te overleggen.
+
+#### Artikel 15.39
+
+1\. Een besluit krachtens artikel 15.36, eerste lid, geldt voor een daarbij aangegeven termijn van ten hoogste vijf jaar.
+
+2\. Onze Minister kan een besluit krachtens artikel 15.36, eerste lid, intrekken, indien:
+
+- a. de ter zake verstrekte gegevens zodanig onjuist zijn of onvolledig blijken, dat op het verzoek een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste gegevens bekend waren geweest;
+- b. op grond van een verandering van de omstandigheden of inzichten opgetreden na het nemen van het besluit, moet worden aangenomen dat het van kracht blijven van het besluit het belang van een doelmatig beheer van afvalstoffen op onaanvaardbare wijze zou schaden;
+- c. een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, dan wel regels ter uitvoering daarvan, hiertoe verplichten.
+
+3\. Alvorens een besluit krachtens artikel 15.36, eerste lid, op grond van het tweede lid, onder *a*, in te trekken, stelt Onze Minister degenen die het verzoek tot algemeen verbindend verklaring hebben gedaan, in de gelegenheid hun zienswijze naar voren te brengen.
+
+4\. Op de voorbereiding van een besluit tot intrekking van een besluit krachtens artikel 15.36, eerste lid, op grond van het tweede lid, onder b of c, is artikel 15.37, tweede tot en met vierde lid, van overeenkomstige toepassing.
+
+#### Artikel 15.40
+
+Een ieder is tot naleving van een voor hem geldende algemeen verbindend verklaarde overeenkomst over een afvalbeheerbijdrage gehouden tegenover ieder ander, die bij de naleving een redelijk belang heeft.
+
+#### Artikel 15.41
+
+Indien een of meer van degenen die een stof, mengsels of product in Nederland invoeren of op de markt brengen, waarvoor een overeenkomst over een afvalbeheerbijdrage algemeen verbindend is verklaard, het vermoeden gegrond achten dat door een of meer anderen een of meer van de algemeen verbindend verklaarde bepalingen uit die overeenkomst niet worden nageleefd, kunnen zij met het oog op het instellen van een rechtsvordering op grond van artikel 15.40 Onze Minister verzoeken een onderzoek daarnaar te doen instellen. De inspecteur stelt het onderzoek in en brengt aan Onze Minister verslag uit van hetgeen bij het onderzoek is gebleken. Onze Minister stelt het verslag ter beschikking van degene of degenen, die om het onderzoek hebben gevraagd.
+
+### Titel 15.11 — Financiering van de zorg voor gesloten stortplaatsen
+
+#### Artikel 15.42
+
+In deze titel en de daarop berustende bepalingen wordt onder «stortplaats», «gesloten stortplaats» en «bedrijfsgebonden stortplaats» verstaan hetgeen daaronder wordt verstaan in paragraaf 8.2.
+
+#### Artikel 15.43
+
+Deze titel is niet van toepassing op stortplaatsen waar baggerspecie is gestort en die worden gedreven of mede worden gedreven door Onze Minister van Verkeer en Waterstaat.
+
+#### Artikel 15.44
+
+1\. Provinciale staten stellen een heffing in ter bestrijding van de kosten die gemoeid zullen zijn met:
+
+- a. de in artikel 8.49 bedoelde zorg voor de in de betrokken provincie gelegen stortplaatsen;
+- b. een voor de betrokken provincie geldende verplichting tot afdracht aan een fonds als bedoeld in artikel 15.48;
+- c. de door de provincie uitgevoerde inventarisatie van plaatsen waar afvalstoffen zijn gestort en waar dat storten vóór 1 september 1996 is beëindigd, en het onderzoek naar en systematische controle van aanwezigheid, aard en omvang van eventuele verontreiniging aldaar.
+
+2\. De in het eerste lid bedoelde heffing kan mede betrekking hebben op de kosten die gemoeid zullen zijn met de dekking van de aansprakelijkheid, bedoeld in artikel 176 van Boek 6 van het Burgerlijk Wetboek.
+
+3\. Met betrekking tot de heffing en invordering zijn de artikelen 227 tot en met 232h van de Provinciewet van overeenkomstige toepassing.
+
+#### Artikel 15.45
+
+1\. De heffing wordt geheven van degene die een stortplaats drijft.
+
+2\. Het bedrag van de heffing wordt zodanig vastgesteld dat uit de opbrengst van de heffing en de daarover verkregen rentebaten en beleggingsopbrengsten de kosten kunnen worden bestreden, die naar verwachting gemoeid zullen zijn met de uitvoering van het in artikel 8.49, derde en vierde lid, bedoelde nazorgplan waarmee gedeputeerde staten hebben ingestemd, of, indien geen nazorgplan geldt, de in artikel 8.49, eerste lid, bedoelde zorg voor die stortplaats. Indien na de vaststelling blijkt dat de opbrengst van de heffing hoger dan wel lager is dan het bedrag dat nodig is om de kosten te bestrijden die naar verwachting met die zorg van die stortplaats gemoeid zullen zijn, kan het bedrag van de heffing opnieuw worden vastgesteld. Het reeds betaalde bedrag van de heffing wordt hierop in mindering gebracht.
+
+3\. In afwijking van het tweede lid kan de heffing terzake van de niet-bedrijfsgebonden stortplaatsen in de betrokken provincie worden vastgesteld aan de hand van de hoeveelheid en de aard van de afvalstoffen die op de stortplaats zijn afgegeven. Het bedrag wordt zodanig vastgesteld dat uit het totaal van de opbrengsten van de heffing en de daarover verkregen rentebaten en beleggingsopbrengsten voor de niet-bedrijfsgebonden stortplaatsen in die provincie de kosten kunnen worden bestreden die naar verwachting gemoeid zullen zijn met de zorg voor die stortplaatsen. De kosten, bedoeld in de tweede volzin, worden berekend met inachtneming van de voor die stortplaatsen geldende nazorgplannen waarmee gedeputeerde staten hebben ingestemd.
+
+4\. Het derde lid is niet van toepassing op stortplaatsen waar baggerspecie is gestort.
+
+#### Artikel 15.46
+
+1\. Gedeputeerde staten kunnen bepalen dat degenen die een stortplaats drijven, waarop artikel 15.45, derde lid, niet van toepassing is, financiële zekerheid stellen voor het nakomen van de krachtens de artikelen 15.44, eerste lid, onder a, en 15.45 voor hen geldende verplichting. Daarbij wordt in ieder geval aangegeven het bedrag waarvoor de zekerheid ten hoogste in stand moet worden gehouden.
+
+2\. De verplichting financiële zekerheid in stand te houden vervalt op het tijdstip waarop een bedrag aan heffing, als bedoeld in artikel 15.45, tweede lid, is betaald, voor zover het betreft het gedeelte dat overeenkomt met het bedrag dat is betaald.
+
+3\. Gedeputeerde staten kunnen verhaal nemen op de gestelde zekerheid, voor zover degene die de zekerheid heeft gesteld, het bedrag van de heffing, zoals dat is vastgesteld ingevolge artikel 15.45, tweede lid, niet tijdig heeft betaald.
+
+4\. Gedeputeerde staten kunnen het ingevolge het derde lid te verhalen bedrag invorderen bij dwangbevel.
+
+5\. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze waarop financiële zekerheid wordt gesteld.
+
+#### Artikel 15.47
+
+1\. Gedeputeerde staten van een provincie richten voor hun provincie een fonds op, bestemd voor de in artikel 8.49 bedoelde zorg voor gesloten stortplaatsen.
+
+2\. In afwijking van het eerste lid kunnen gedeputeerde staten van verschillende provincies gezamenlijk voor hun provincies een fonds als bedoeld in het eerste lid oprichten.
+
+3\. Een fonds is rechtspersoon.
+
+4\. Gedeputeerde staten van de betrokken provincie, onderscheidenlijk provincies zijn belast met het beheer van het in hun provincie, onderscheidenlijk provincies werkzame fonds.
+
+5\. Een fonds ontvangt jaarlijks:
+
+- a. de opbrengst van de in artikel 15.44 bedoelde heffing, verminderd met het bedrag ter bestrijding van de kosten in verband met de in artikel 15.44, eerste lid, onder c, bedoelde handelingen en met het gedeelte van de heffingen, bedoeld in artikel 15.48, tweede lid;
+- b. de bedragen die ingevolge artikel 15.46, derde lid, worden verhaald;
+- c. rentebaten en beleggingsopbrengsten die via het fonds zijn verkregen;
+- d. het batig saldo van de laatstelijk afgesloten rekening van het fonds.
+
+6\. Een fonds is gerechtigd ook andere bedragen, bestemd voor de in artikel 8.49 bedoelde zorg, dan die, bedoeld in het vijfde lid, in ontvangst te nemen.
+
+7\. Uit het fonds worden uitsluitend bestreden de kosten die:
+
+- a. worden gemaakt in verband met de uitvoering van de in artikel 8.49 bedoelde zorg met betrekking tot gesloten stortplaatsen in de betrokken provincie of provincies;
+- b. zijn verbonden aan de werkzaamheden van het fonds dat in de betrokken provincie, onderscheidenlijk provincies werkzaam is;
+- c. worden gemaakt ter dekking van de aansprakelijkheid, bedoeld in artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek, doch slechts voor zover de in artikel 15.44 bedoelde heffing mede op deze kosten betrekking heeft.
+
+8\. Onder de kosten, bedoeld in het zevende lid, worden niet begrepen de kosten die in verband met de in artikel 8.49 bedoelde zorg voor gesloten stortplaatsen door de betrokken provincie, onderscheidenlijk provincies worden gemaakt ten behoeve van haar bestuurlijk apparaat.
+
+#### Artikel 15.48
+
+1\. Gedeputeerde staten van provincies kunnen gezamenlijk een fonds oprichten ter dekking van grote financiële risico's in verband met de in artikel 8.49 bedoelde zorg voor gesloten stortplaatsen.
+
+2\. Het in het eerste lid bedoelde fonds ontvangt jaarlijks van die provincies een door het bestuur van dat fonds te bepalen gedeelte van de aan die provincies afgedragen heffingen als bedoeld in artikel 15.45.
+
+3\. Van artikel 15.47 zijn het derde en vierde lid, alsmede het achtste lid, in verbinding met het zevende lid, onder b, van overeenkomstige toepassing.
+
+#### Artikel 15.49
+
+1\. Ter zake van door een stortplaats veroorzaakte schade, die bekend is geworden na het tijdstip waarop een verklaring als bedoeld in artikel 8.47, derde lid, met betrekking tot die stortplaats is afgegeven, doet noch een provincie, noch het in deze titel bedoelde fonds een beroep op de aansprakelijkheid van degene die als laatste de stortplaats heeft gedreven op grond van artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek.
+
+2\. Indien degene die als laatste een stortplaats heeft gedreven, waarvoor een verklaring als bedoeld in artikel 8.47, derde lid, is afgegeven, aansprakelijk is voor de door die stortplaats veroorzaakte schade op grond van artikel 176, vierde lid, van Boek 6 van het Burgerlijk Wetboek, kan degene jegens wie deze aansprakelijkheid bestaat, zijn recht op schadevergoeding geldend maken tegen het in deze titel bedoelde fonds dat in de betrokken provincie werkzaam is.
+
+### Titel 15.12 — Financiële tegemoetkomingen
+
+#### Artikel 15.50
+
+1\. Onze Minister kan uitkeringen verlenen aan personen bij wie ten gevolge van blootstelling aan asbest maligne mesothelioom of asbestose is vastgesteld en die niet in aanmerking kunnen komen voor een daarmee verband houdende uitkering op grond van de Kaderwet SZW-subsidies.
+
+2\. Onze Minister stelt nadere regels ter uitvoering van het eerste lid.
+
+### Titel 15.13 — Kostenverevening reductie CO<sub>2</sub>-emissies glastuinbouw
+
+#### Artikel 15.51
+
+Vervallen
+
+#### Artikel 15.51a
+
+Vervallen
+
+#### Artikel 15.51b
+
+Vervallen
+
+#### Artikel 15.52
+
+Vervallen
+
+#### Artikel 15.53
+
+Vervallen
+
+## Hoofdstuk 16 — Handel in emissierechten
+
+### Titel 16.1 — Algemeen
+
+#### Artikel 16.1
+
+1\. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+aanloophaven: de haven waar een schip stopt om vracht te laden of te lossen of om passagiers te laten in- of ontschepen, of de haven waar een offshoreschip stopt om de bemanning af te lossen, met uitzondering van:
+
+- 1°. stops die uitsluitend bedoeld zijn voor het tanken, het inslaan van voorraden, het aflossen van de bemanning van een ander schip dan een offshoreschip, het indokken of het verrichten van herstellingen aan het schip of de uitrusting ervan;
+- 2°. stops in een haven omdat het schip bijstand nodig heeft of in nood is;
+- 3°. buiten een haven verrichte schip-tot-schiptransfers;
+- 4°. stops die uitsluitend bedoeld zijn voor het schuilen bij noodweer of die noodzakelijk zijn voor opsporings- en reddingsactiviteiten; en
+- 5°. stops van containerschepen in een naburige containeroverslaghaven die is opgenomen in de lijst van de uit hoofde van artikel 3 octies bis, tweede lid, van de EG-richtlijn handel in broeikasgasemissierechten, vastgestelde uitvoeringshandeling;
+
+brandstof: gasvormige, vloeibare of vaste stof, met inbegrip van alle daaraan toegevoegde stoffen, dienende voor verbranding;
+
+CORSIA: mondiale regeling voor koolstofcompensatie en -reductie voor de internationale luchtvaart;
+
+EU-register voor de handel in emissierechten: register als bedoeld in artikel 4 van de Verordening EU-register handel in emissierechten;
+
+gereglementeerde entiteit: elke natuurlijke of rechtspersoon, waarvan op grond van de Wet op de accijns accijns wordt geheven voor minerale oliën dan wel op grond van de Wet belasting op milieugrondslag belastingplichtig is voor kolen of gas, met uitzondering van de eindverbruiker van die brandstoffen, en die een bij algemene maatregel van bestuur aangewezen gereglementeerde activiteit verricht;
+
+ICAO: de International Civil Aviation Organisation van de Verenigde Naties;
+
+ICAO-raad: permanent orgaan en dagelijks bestuur van de ICAO;
+
+jaarvracht: totale hoeveelheid van een emissie gedurende een kalenderjaar;
+
+nationaal toewijzingsbesluit: besluit als bedoeld in artikel 16.24, eerste lid;
+
+niet-CO<sub>2</sub>-effecten van de luchtvaart: de effecten op het klimaat van het vrijkomen, bij de verbranding van brandstof, van stikstofoxiden (NO<sub>x</sub>), roetdeeltjes, geoxideerde zwavelsoorten en effecten van waterdamp, met inbegrip van contrails (het toevoegen of vervangen met condensstrepen), uit een vliegtuig dat een in bijlage I van de EG-richtlijn handel in broeikasgasemissierechten opgenomen luchtvaartactiviteit uitvoert;
+
+scheepvaartmaatschappij: de scheepseigenaar of een andere organisatie of persoon die de verantwoordelijkheid voor de exploitatie van het schip van de scheepseigenaar heeft overgenomen en die er, bij het aangaan van die verantwoordelijkheid, mee heeft ingestemd alle door de Internationale Veiligheidsmanagementcode voor de veilige exploitatie van schepen en voor verontreinigingspreventie voorgeschreven taken en verantwoordelijkheden die zijn vastgesteld in bijlage I bij Verordening (EG) nr. 336/2006 van het Europees Parlement en de Raad van 15 februari 2006 inzake de implementatie van de Internationale veiligheidsmanagementcode in de Gemeenschap en tot intrekking van Verordening (EG) nr. 3051/95 van de Raad (PbEU 2006, L64), over te nemen;
+
+toegewezen eenheid: eenheid als bedoeld in artikel 3, van de Verordening EU-register handel in broeikasgasemissierechten (AAU);
+
+tot verbruik uitslaan van brandstoffen: het uitslaan van kolen, bedoeld in artikel 36 van de Wet belastingen op milieugrondslag, het leveren van aardgas, bedoeld in artikel 50, eerste lid en derde lid, onderdeel a, van de Wet belastingen op milieugrondslag, het verbruik van aardgas, bedoeld in artikel 50, derde lid, onderdelen b tot en met d, van de Wet belastingen op milieugrondslag, en het uitslaan tot verbruik van minerale oliën, bedoeld in artikel 2 van de Wet op de accijns;
+
+verwijderingseenheid: eenheid als bedoeld in artikel 3, van de Verordening EU-register handel in emissierechten (RMU).
+
+2\. Voor de toepassing van titel 16.2 en de daarop berustende bepalingen wordt verstaan onder:
+
+broeikasgasinstallatie: vaste technische eenheid, waarin een of meer activiteiten worden verricht, die een emissie van een broeikasgas veroorzaken en die behoren tot een categorie die met betrekking tot het betrokken broeikasgas bij algemene maatregel van bestuur is aangewezen, alsmede andere activiteiten die met eerstbedoelde activiteiten rechtstreeks samenhangen en daarmee technisch in verband staan en die gevolgen kunnen hebben voor de emissie van het betrokken broeikasgas.
+
+3\. Voor de toepassing van afdeling 16.2.1 onderscheidenlijk afdeling 16.2.2 wordt verstaan onder:
+
+- *emissieverslag:* verslag betreffende de emissies in een kalenderjaar als bedoeld in artikel 67 en bijlage X van de Verordening monitoring en rapportage emissiehandel en artikel 11 en 11bis van de Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer;
+- *handelsperiode:* handelsperiode als bedoeld in artikel 3, onder 2, van de Verordening monitoring en rapportage emissiehandel;
+- *monitoringsplan:* plan als bedoeld in artikel 12 en bijlage I van de Verordening monitoring en rapportage emissiehandel en artikel 6 van de Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer;
+- *verificateur:* verificateur als bedoeld in artikel 3, onder 3, van de Verordening verificatie en accreditatie emissiehandel en artikel 3, onder f, van de Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer;
+- *verificatie:* door een verificateur uitgevoerde activiteiten om een verificatierapport of verificatieverslag uit te brengen overeenkomstig de Verordening verificatie en accreditatie emissiehandel en de Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer.
+
+#### Artikel 16.1a
+
+1\. De rijksbelastingdienst, een transmissiesysteembeheerder voor gas als bedoeld in artikel 1.1 van de Energiewet, een distributiesysteembeheerder voor gas als bedoeld in artikel 1.1 van de Energiewet, een beheerder van een gesloten systeem voor gas als bedoeld in artikel 1.1 van de Energiewet, en een meetverantwoordelijke partij als bedoeld in artikel 1.1 van de Energiewet, verstrekt het bestuur van de emissieautoriteit op verzoek de bij ministeriële regeling te bepalen gegevens die noodzakelijk zijn voor de uitvoering van dit hoofdstuk.
+
+2\. Onze Minister van Klimaat en Groene Groei verstrekt het bestuur van de emissieautoriteit op verzoek de bij ministeriële regeling te bepalen gegevens over garanties van oorsprong van gas uit hernieuwbare bronnen, bedoeld in artikel 1.1 van de Energiewet, die noodzakelijk zijn voor de uitvoering van dit hoofdstuk.
+
+### Titel 16.2 — Broeikasgassen en broeikasgasemissierechten
+
+#### Afdeling 16.2.1 — Broeikasgasinstallaties
+
+##### Paragraaf 16.2.1.1 — Algemeen
+
+###### Artikel 16.2
+
+1\. Een emissie van een broeikasgas wordt uitgedrukt in tonnen kooldioxide-equivalent.
+
+###### Artikel 16.2a
+
+1\. Deze afdeling is, met uitzondering van paragraaf 16.2.1.3, mede van toepassing op het transport van CO<sub>2</sub> (CCS).
+
+2\. Voor de toepassing van deze afdeling op het transport van CO<sub>2</sub> (CCS) wordt onder «de exploitant van de broeikasgasinstallatie» verstaan: de natuurlijke persoon of de rechtspersoon die de transportactiviteit verricht of aan wie een doorslaggevende economische zeggenschap over het technisch functioneren van die activiteit is overgedragen.
+
+###### Artikel 16.2b
+
+1\. De artikelen 16.24 tot en met 16.30a zijn van overeenkomstige toepassing op broeikasgasinstallaties die op grond van artikel 27, eerste lid of artikel 27bis, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten zijn uitgesloten van het systeem van handel in broeikasgasemissierechten.
+
+2\. Het eerste lid geldt met ingang van 1 januari van het eerste kalenderjaar van de betrokken handelsperiode.
+
+3\. Indien een broeikasgasinstallatie op grond van artikel 27, derde lid of artikel 27bis, tweede lid, van de EG-richtlijn handel in broeikasgasemissierechten weer is opgenomen in het systeem van handel in broeikasgasemissierechten omdat de door die broeikasgasinstallatie veroorzaakte emissies de in artikel 27, eerste lid, van die richtlijn opgenomen hoeveelheid overschrijden, is het eerste lid niet langer van toepassing en is deze afdeling, met uitzondering van artikel 16.37, op die broeikasgasinstallatie van toepassing met ingang van 1 januari van het kalenderjaar volgend op het kalenderjaar waarin de broeikasgasinstallatie niet meer voldoet aan de voorwaarden voor uitsluiting. Artikel 16.37 is van toepassing met ingang van 1 januari van het tweede kalenderjaar volgend op het kalenderjaar waarin de broeikasgasinstallatie niet meer aan bedoelde voorwaarden voldoet.
+
+4\. Indien een broeikasgasinstallatie op grond van artikel 27, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten weer is opgenomen in het systeem van handel in broeikasgasemissierechten omdat de maatregelen die een gelijkwaardige bijdrage leveren tot emissiereductie, niet langer van toepassing zijn, is het eerste lid niet langer van toepassing en is deze afdeling, met uitzondering van artikel 16.37, op die broeikasgasinstallatie van toepassing met ingang van de dag volgend op de dag waarop bedoelde maatregelen zijn vervallen. Artikel 16.37 is van toepassing met ingang van 1 januari van het kalenderjaar volgend op het kalenderjaar waarin bedoelde maatregelen zijn vervallen.
+
+5\. Indien een broeikasgasinstallatie op grond van artikel 27, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten weer is opgenomen in het systeem van handel in broeikasgasemissierechten blijft de broeikasgasinstallatie in het systeem van handel in broeikasgasemissierechten gedurende de rest van de in artikel 11, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde periode waarin ze werd ingevoerd.
+
+###### Artikel 16.3
+
+Onder broeikasgasinstallaties worden mede begrepen broeikasgasinstallaties binnen de Nederlandse exclusieve economische zone.
+
+###### Artikel 16.4
+
+Een wijziging van de EG-richtlijn handel in broeikasgasemissierechten of van een bijlage bij die richtlijn gaat voor de toepassing van deze titel gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij een besluit van Onze Minister van Economische Zaken en Klimaat, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+###### Artikel 16.4a
+
+1\. Het bestuur van de emissieautoriteit draagt er zorg voor dat alle besluiten en verslagen die verband houden met de hoeveelheid emissierechten en de toewijzing daarvan en met de bewaking, rapportage en verificatie van emissies onverwijld op passende wijze openbaar worden gemaakt.
+
+2\. Artikel 5.1, eerste en tweede lid, van de Wet open overheid is van overeenkomstige toepassing.
+
+##### Paragraaf 16.2.1.2 — Vergunning
+
+###### Artikel 16.5
+
+1\. Het is verboden zonder vergunning van het bestuur van de emissieautoriteit een broeikasgasinstallatie te exploiteren.
+
+2\. Een aanvraag om een vergunning kan naar keuze van de aanvrager betrekking hebben op één of meer broeikasgasinstallaties die worden geëxploiteerd op dezelfde locatie.
+
+###### Artikel 16.6
+
+1\. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een vergunning moet geschieden, de gegevens en de bescheiden die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen.
+
+2\. Bij of krachtens de maatregel wordt in ieder geval bepaald dat de aanvrager een monitoringsplan, alsmede de in artikel 12, eerste lid, van de Verordening monitoring en rapportage emissiehandel bedoelde ondersteunende documenten bij de aanvraagt indient.
+
+3\. Onze Minister van Economische Zaken en Klimaat kan nadere regels stellen ter uitvoering van het bepaalde krachtens het eerste of tweede lid.
+
+###### Artikel 16.7
+
+Het bestuur van de emissieautoriteit beslist binnen vier maanden op de aanvraag om een vergunning.
+
+###### Artikel 16.8
+
+1\. Het bestuur van de emissieautoriteit zendt het monitoringsplan dat is ingediend bij de aanvraag om een vergunning krachtens artikel 16.5, aan het bestuursorgaan dat voor de broeikasgasinstallatie waarop de aanvraag betrekking heeft, bevoegd is een omgevingsvergunning te verlenen.
+
+2\. Het bestuur van de emissieautoriteit stelt het betrokken andere bestuursorgaan, bedoeld in het eerste lid, gedurende vier weken in de gelegenheid advies uit te brengen over het monitoringsplan met het oog op de samenhang tussen dit plan en de betrokken omgevingsvergunning, dan wel de betrokken aanvraag om een omgevingsvergunning.
+
+###### Artikel 16.9
+
+Het bestuur van de emissieautoriteit draagt er bij de beslissing op de aanvraag zorg voor dat geen strijd ontstaat met regels die met betrekking tot de broeikasgasinstallatie gelden, gesteld bij de Verordening monitoring en rapportage emissiehandel of bij of krachtens dit hoofdstuk, hoofdstuk 8 van deze wet of afdeling 2.2, hoofdstuk 4, afdeling 5.1 of hoofdstuk 16 van de Omgevingswet.
+
+###### Artikel 16.10
+
+De vergunning wordt geweigerd indien het monitoringsplan niet voldoet aan de eisen die daaraan bij of krachtens de Verordening monitoring en rapportage emissiehandel, dit hoofdstuk of, voor zover van toepassing, artikel 24, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde verordening zijn gesteld dan wel indien door verlening anderszins strijd zou ontstaan met regels die met betrekking tot de broeikasgasinstallatie gelden, gesteld bij de Verordening monitoring en rapportage emissiehandel of bij of krachtens dit hoofdstuk, of indien het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de aanvrager in staat is het monitoringsplan naar behoren uit te voeren.
+
+###### Artikel 16.11
+
+1\. In een vergunning wordt duidelijk aangegeven waarop zij betrekking heeft. De vergunning vermeldt de naam en het adres van de exploitant van de broeikasgasinstallatie, waarop de vergunning betrekking heeft.
+
+2\. Het monitoringsplan maakt in ieder geval deel uit van de vergunning. De overige onderdelen van de aanvraag om de vergunning maken deel uit van de vergunning, voorzover dat in de vergunning is aangegeven.
+
+###### Artikel 16.11a
+
+Vervallen
+
+###### Artikel 16.12
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van de Verordening monitoring en rapportage emissiehandel en met betrekking tot:
+
+- a. de monitoring van emissies;
+- b. het emissieverslag;
+- c. andere personen dan de vergunninghouder krachtens artikel 16.5, die bij de uitvoering van het monitoringsplan zijn betrokken.
+
+###### Artikel 16.13
+
+1\. De vergunninghouder wijzigt het monitoringsplan zo spoedig mogelijk, indien:
+
+- a. wijziging van de Verordening monitoring en rapportage emissiehandel daartoe aanleiding geeft;
+- b. de krachtens de artikelen 16.6 of 16.12 gestelde regels daartoe aanleiding geven;
+- c. het bestuur van de emissieautoriteit daarom verzoekt.
+
+2\. De vergunninghouder legt op verzoek van het bestuur van de emissieautoriteit de meest actuele versie van het monitoringsplan over.
+
+###### Artikel 16.13a
+
+1\. Bij ministeriële regeling kunnen ter uitvoering van deze paragraaf regels gesteld met betrekking tot het melden aan het bestuur van de emissieautoriteit van:
+
+- a. het beëindigen van de werking van een broeikasgasinstallatie;
+- b. het niveau van in bedrijf zijn van een broeikasgasinstallatie.
+
+2\. Bij ministeriële regeling kan ter uitvoering van deze paragraaf worden bepaald dat ook andere handelingen of omstandigheden aan het bestuur van de emissieautoriteit moeten worden gemeld.
+
+3\. Bij ministeriële regeling kunnen tevens regels worden gesteld met betrekking tot het goedkeuren van veranderingen van het monitoringsplan.
+
+###### Artikel 16.14
+
+Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van de Verordening verificatie en accreditatie emissiehandel.
+
+###### Artikel 16.15
+
+Het bestuur van de emissieautoriteit zendt op verzoek het betrokken andere bestuursorgaan, bedoeld in artikel 16.8, eerste lid, een exemplaar van het voor de betrokken broeikasgasinstallatie opgestelde emissieverslag en het bijbehorende verificatierapport.
+
+###### Artikel 16.16
+
+1\. Het bestuur van de emissieautoriteit kan uiterlijk op 30 september van het kalenderjaar waarin het emissieverslag overeenkomstig artikel 68 van de Verordening monitoring en rapportage emissiehandel moet worden ingediend, vaststellen dat dit verslag niet voldoet aan de eisen die daaraan bij genoemde verordening of bij of krachtens dit hoofdstuk zijn gesteld. Het bestuur van de emissieautoriteit kan de beslissing voor ten hoogste drie maanden verdagen. Van de verdaging wordt voor het in de eerste volzin genoemde tijdstip schriftelijk mededeling gedaan aan degene die het emissieverslag heeft ingediend. De mededeling omvat de reden voor de verdaging.
+
+2\. Het bestuur van de emissieautoriteit kan na het tijdstip, genoemd in het eerste lid, onderscheidenlijk, indien toepassing is gegeven aan de tweede volzin van dat lid, na het tijdstip dat met toepassing van die volzin is vastgesteld alsnog vaststellen dat het emissieverslag niet voldoet aan de eisen die daaraan bij de Verordening monitoring en rapportage emissiehandel of bij of krachtens dit hoofdstuk zijn gesteld, indien:
+
+- a. degene die overeenkomstig artikel 68 van de genoemde verordening bij het bestuur van de emissieautoriteit een emissieverslag heeft ingediend, in dat verslag onjuiste of onvolledige gegevens heeft verstrekt en verstrekking van juiste of volledige gegevens zou hebben geleid tot de vaststelling van een andere jaarvracht,
+- b. het betrokken emissieverslag anderszins onjuist was en de betrokken persoon dit wist of behoorde te weten.
+
+3\. De bevoegdheid, bedoeld in het tweede lid, vervalt tien jaren na afloop van het kalenderjaar, bedoeld in het eerste lid.
+
+###### Artikel 16.17
+
+Voordat het bestuur van de emissieautoriteit toepassing geeft aan artikel 70, eerste lid, van de Verordening monitoring en rapportage emissiehandel, stelt het degene, die ingevolge artikel 68 van genoemde verordening het emissieverslag heeft ingediend of had moeten indienen, in de gelegenheid zijn zienswijze naar voren te brengen, tenzij de ambtshalve vaststelling plaatsvindt conform de door de exploitant van de broeikasgasinstallatie aangeleverde gegevens.
+
+###### Artikel 16.18
+
+1\. Het bestuur van de emissieautoriteit geeft desgevraagd aan een ieder kosteloos inzage in en verstrekt tegen vergoeding van ten hoogste de kosten een exemplaar van een emissieverslag dat bij hem is ingediend.
+
+2\. Het bestuur van de emissieautoriteit geeft vooraf kennis van de mogelijkheid tot inzage in en van de verkrijgbaarheid van het emissieverslag. De kennisgeving wordt gedaan op zodanige wijze dat het daarmee beoogde doel zo goed mogelijk wordt bereikt.
+
+###### Artikel 16.19
+
+1\. Een voor een broeikasgasinstallatie verleende vergunning geldt voor een ieder die de broeikasgasinstallatie exploiteert. Deze draagt ervoor zorg dat het monitoringsplan wordt nageleefd.
+
+2\. De vergunninghouder meldt aan het bestuur van de emissieautoriteit een verandering van exploitant van de broeikasgasinstallatie en een verandering van naam of adres van de vergunninghouder of, indien dit een ander is, van de exploitant van de broeikasgasinstallatie.
+
+###### Artikel 16.20
+
+1\. Het bestuur van de emissieautoriteit kan de vergunning wijzigen of aanvullen, de daaraan verbonden voorschriften wijzigen, aanvullen of intrekken of voorschriften aan de vergunning verbinden, indien dit naar zijn oordeel nodig is in het belang van de goede werking van het systeem van handel in emissierechten.
+
+2\. Met betrekking tot de beslissing ter zake zijn de artikelen 16.7, 16.8, 16.9 en 16.11 van overeenkomstige toepassing.
+
+3\. In een geval als bedoeld in artikel 16.19, tweede lid, wijzigt het bestuur van de emissieautoriteit de vergunning overeenkomstig de melding.
+
+###### Artikel 16.20a
+
+1\. Op aanvraag van de vergunninghouder kan het bestuur van de emissieautoriteit de vergunning en de daaraan verbonden voorschriften wijzigen, aanvullen of intrekken of voorschriften aan de vergunning verbinden.
+
+2\. Met betrekking tot de beslissing ter zake, met uitzondering van het besluit tot intrekking van de emissievergunning, zijn de artikelen 16.6 tot en met 16.12 van overeenkomstige toepassing. Op het besluit tot intrekking van de emissievergunning zijn de artikelen 16.6, 16.7 en 16.9 tot en met 16.12 van overeenkomstige toepassing.
+
+3\. De verplichting tot het indienen van een emissieverslag als bedoeld in artikel 68, eerste lid, van de Verordening monitoring en rapportage emissiehandel blijft, voor wat betreft het kalenderjaar waarin de beschikking tot intrekking van de vergunning van kracht is geworden, na intrekking van de vergunning op de laatste houder daarvan rusten, totdat aan die verplichting is voldaan, tenzij in het gehele jaar van intrekking geen broeikasgasinstallatie aanwezig is.
+
+###### Artikel 16.20b
+
+Vervallen
+
+###### Artikel 16.20c
+
+1\. Het bestuur van de emissieautoriteit kan een vergunning intrekken, indien:
+
+- a. met betrekking tot de broeikasgasinstallaties de omgevingsvergunning voor de milieubelastende activiteit is ingetrokken;
+- b. deze afdeling niet meer op de broeikasgasinstallatie van toepassing is.
+
+2\. Met betrekking tot de beslissing ter zake is artikel 16.20a, derde lid, van overeenkomstige toepassing.
+
+###### Artikel 16.21
+
+1\. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot broeikasgasinstallaties waarvoor het in artikel 16.5, vervatte verbod geldt en die behoren tot een bij onderscheidenlijk krachtens de maatregel aangewezen categorie, regels worden gesteld, die nodig zijn in het belang van de goede werking van het systeem van handel in emissierechten. Bij onderscheidenlijk krachtens de maatregel kan worden bepaald dat bij onderscheidenlijk krachtens de maatregel gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.
+
+2\. Bij of krachtens de maatregel kan met betrekking tot daarbij aangegeven onderwerpen worden bepaald dat het bestuur van de emissieautoriteit bij het verlenen of wijzigen van de vergunning daaraan voorschriften kan verbinden. Bij of krachtens de maatregel kan worden bepaald dat de voorschriften van de bij onderscheidenlijk krachtens de maatregel gestelde regels kunnen afwijken. Bij of krachtens de maatregel kan tevens worden bepaald in welke mate de voorschriften van die regels kunnen afwijken en kan worden bepaald dat slechts kan worden afgeweken in daarbij aangegeven categorieën van gevallen.
+
+###### Artikel 16.22
+
+Vervallen
+
+##### Paragraaf 16.2.1.3 — Het toewijzen en verlenen van broeikasgasemissierechten
+
+###### Subparagraaf 16.2.1.3.1 — Het veilen en kosteloos toewijzen van broeikasgasemissierechten
+
+**Artikel 16.23**
+
+1\. Overeenkomstig artikel 10 en, in voorkomend geval, artikel 29bis van de EG-richtlijn handel in broeikasgasemissierechten worden broeikasgasemissierechten die niet overeenkomstig deze paragraaf kosteloos worden toegewezen, geveild.
+
+2\. Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van de Verordening inzake tijdstippen, beheer en andere aspecten van veiling van broeikasgasemissierechten.
+
+**Artikel 16.24**
+
+1\. Onverminderd artikel 16.31 beslist het bestuur van de emissieautoriteit per handelsperiode over de kosteloze toewijzing van broeikasgasemissierechten.
+
+2\. De kosteloze toewijzing geschiedt overeenkomstig de uitvoeringsmaatregelen die de Europese Commissie op grond van artikel 10bis, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld.
+
+3\. Bij of krachtens algemene maatregel van bestuur kunnen, ter implementatie van de EG-richtlijn handel in broeikasgasemissierechten, nadere regels worden gesteld met betrekking tot de inhoud en de totstandkoming van het nationale toewijzingsbesluit.
+
+**Artikel 16.25**
+
+De berekening van de aantallen broeikasgasemissierechten met het oog op kosteloze toewijzing geschiedt overeenkomstig de uitvoeringsmaatregelen die de Europese Commissie op grond van artikel 10bis, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld.
+
+**Artikel 16.26**
+
+Bij de in artikel 16.25 bedoelde berekening wordt de in artikel 9 van de EG-richtlijn handel in broeikasgasemissierechten bedoelde lineaire factor toegepast, voor zover de in artikel 16.25 bedoelde uitvoeringsmaatregelen daartoe nopen.
+
+**Artikel 16.27**
+
+1\. In geval een bedrijfstak of een deeltak die overeenkomstig artikel 10ter, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten geacht wordt te zijn blootgesteld aan een significant weglekrisico wordt voor de handelsperiode die aanvangt op 1 januari 2021 van de voor dat geval berekende aantallen broeikasgasemissierechten 100% kosteloos toegewezen.
+
+2\. In afwijking van het eerste lid wordt van de aantallen broeikasgasemissierechten die voor een handelsperiode zijn berekend voor broeikasgasinstallaties als bedoeld in artikel 16.2b, eerste lid, 0% kosteloos toegewezen.
+
+3\. Andere bedrijfstakken en deeltakken krijgen tot 2026 kosteloze emissierechten toegewezen ten belope van 30% van de hoeveelheid die op grond van artikel 10bis van de EG-richtlijn handel in broeikasgasemissierechten is bepaald. Na 2026 worden kosteloze toewijzingen met gelijke hoeveelheden verminderd om in 2030 een hoeveelheid kosteloze toewijzing van 0% te bereiken.
+
+**Artikel 16.28**
+
+1\. Geen kosteloze toewijzing van broeikasgasemissierechten vindt plaats voor:
+
+- a. het opwekken van elektriciteit, tenzij de elektriciteit met restgassen wordt geproduceerd;
+- b. broeikasgasinstallaties in bedrijfstakken en deeltakken voor zover deze onder andere maatregelen vallen die het risico op koolstoflekkage aanpakken;
+- c. de verbranding van brandstoffen in broeikasgasinstallaties voor de verbranding van stedelijk afval.
+
+2\. De kosteloos toegewezen rechten worden met 20 procent verminderd in de volgende gevallen:
+
+- a. indien voor een installatie de verplichting geldt om een energie-audit uit te voeren op grond van artikel 18, eerste lid, van de Wet uitvoering EU-handelingen energie-efficiëntie en de aanbevelingen van het verslag van de energie-audit of van het energiebeheersysteem, bedoeld in artikel 18, vierde lid, van de Wet uitvoering EU-handelingen energie-efficiëntie, niet worden uitgevoerd, tenzij de terugverdientijd voor de betrokken investeringen meer dan drie jaar bedraagt of de kosten van die investeringen onevenredig zijn; of
+- b. exploitanten van broeikasgasinstallaties waarvan de broeikasgasemissieniveaus hoger zijn dan 80 procent van de emissieniveaus voor de relevante productbenchmarks, die uiterlijk op 1 mei 2024 geen klimaatneutraliteitsplan voor elk van die installaties hebben opgesteld of de intermediaire streefdoelen en mijlpalen als bedoeld in het vierde lid, onderdeel b, niet zijn geverifieerd of verwezenlijkt.
+
+3\. De hoeveelheid kosteloos toegewezen emissierechten als bedoeld in het tweede lid, onderdeel a, wordt niet verminderd als een exploitant aantoont dat hij andere maatregelen heeft uitgevoerd die resulteren in broeikasgasemissiereducties die gelijkwaardig zijn aan de in het verslag van de energie-audit of door het energiebeheersysteem voor de betrokken installatie aanbevolen emissiereducties.
+
+4\. Het klimaatneutraliteitsplan, bedoeld in het tweede lid, onderdeel b, bevat in ieder geval:
+
+- a. maatregelen en investeringen om uiterlijk in 2050 klimaatneutraliteit te bereiken op installatie- of bedrijfsniveau, met uitzondering van het gebruik van koolstofcompensatiekredieten;
+- b. intermediaire streefdoelen en mijlpalen om uiterlijk op 31 december 2025 en vervolgens uiterlijk op 31 december van elke volgende vijf jaar de vooruitgang te meten die is geboekt bij het bereiken van klimaatneutraliteit als bedoeld in onderdeel a;
+- c. een raming van het effect van elk van de in onderdeel a bedoelde maatregelen en investeringen met betrekking tot de vermindering van de uitstoot van broeikasgassen.
+
+5\. In afwijking van het eerste lid, onderdeel b, wordt bij ministeriële regeling de hoeveelheid kosteloze emissierechten voor de productie van producten in Annex I van de Verordening koolstofcorrectie aan de grens vastgesteld overeenkomstig de percentages genoemd in artikel 10bis, lid 1a, tweede paragraaf, van de EG-richtlijn handel in broeikasgasemissierechten.
+
+**Artikel 16.29**
+
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
+
+- a. de kosteloze toewijzing van broeikasgasemissierechten;
+- b. het aanleveren van gegevens met het oog op die toewijzing;
+- c. de verificatie van de aan te leveren gegevens;
+- d. de berekening van de aantal broeikasgasemissierechten met het oog op die toewijzing;
+- e. de uitvoering van gedelegeerde handelingen en uitvoeringshandelingen die de Europese Commissie op grond van artikel 10bis, eerste en eenentwintigste lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld.
+
+**Artikel 16.30**
+
+1\. Op de voorbereiding van het nationale toewijzingsbesluit is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.
+
+2\. Zienswijzen kunnen naar voren worden gebracht door een ieder.
+
+3\. In afwijking van artikel 3:18 van de Algemene wet bestuursrecht wordt het nationale toewijzingsbesluit uiterlijk 9 maanden na de dag waarop de aanvraag uiterlijk moet worden ingediend vastgesteld.
+
+4\. In afwijking van artikel 3:41, eerste lid, van de Algemene wet bestuursrecht wordt het vastgestelde nationale toewijzingsbesluit bekendgemaakt in de Staatscourant. Het nationale toewijzingsbesluit wordt tevens toegezonden aan de Europese Commissie.
+
+**Artikel 16.30a**
+
+1\. Indien het nationale toewijzingsbesluit naar aanleiding van de beoordeling door de Europese Commissie overeenkomstig de artikelen 10bis, vijfde lid, 11, derde lid, 27, eerste en tweede lid, en 27 bis, van de EG-richtlijn handel in broeikasgasemissierechten niet behoeft te worden gewijzigd, wordt daarvan mededeling gedaan in de Staatscourant.
+
+2\. Indien het nationale toewijzingsbesluit naar aanleiding van de in het eerste lid bedoelde beoordeling, dan wel op basis van overige aanwijzingen of aanvullingen van de Europese Commissie, geheel of gedeeltelijk moet worden gewijzigd, stelt het bestuur van de emissieautoriteit het nationale toewijzingsbesluit opnieuw vast.
+
+3\. Artikel 16.30, eerste tot en met derde lid, is niet van toepassing. Artikel 16.30, vierde lid, eerste volzin, is van overeenkomstige toepassing.
+
+**Artikel 16.31**
+
+1\. Indien de Afdeling bestuursrechtspraak van de Raad van State met toepassing van artikel 20.5a een tussenuitspraak heeft gedaan, wijzigt het bestuur van de emissieautoriteit het nationale toewijzingsbesluit met inachtneming van die uitspraak. Op de voorbereiding van het besluit tot wijziging van het nationale toewijzingsbesluit is afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing.
+
+2\. Het besluit tot wijziging van het nationale toewijzingsbesluit wordt genomen binnen tien weken na de dag waarop de tussenuitspraak, bedoeld in artikel 20.5a, in het openbaar is uitgesproken.
+
+3\. Voor de toepassing van dit hoofdstuk vervangt een met toepassing van het eerste lid gewijzigd nationaal toewijzingsbesluit het oorspronkelijke nationale toewijzingsbesluit.
+
+**Artikel 16.32**
+
+1\. De exploitant van de broeikasgasinstallatie, die kan worden aangemerkt als nieuwkomer als bedoeld in artikel 3, onder h, van de EG-richtlijn handel in broeikasgasemissierechten, kan het bestuur van de emissieautoriteit verzoeken om kosteloze toewijzing van broeikasgasemissierechten. De toewijzing geschiedt overeenkomstig artikel 10bis, zevende lid, en de op grond van artikel 10bis, eerste lid, door de Europese Commissie gestelde regels en, indien het betreft een activiteit die op grond van artikel 24 van genoemde richtlijn in het systeem van handel in broeikasgasemissierechten is opgenomen, overeenkomstig artikel 24, tweede lid, van genoemde richtlijn.
+
+2\. De artikelen 16.24, tweede lid, en 16.25 tot en met 16.29 zijn van overeenkomstige toepassing.
+
+3\. Een op grond van het eerste lid genomen besluit houdende kosteloze toewijzing van broeikasgasemissierechten wordt toegezonden aan de Europese Commissie.
+
+4\. Bij ministeriële regeling kunnen regels worden gesteld omtrent de wijze waarop een verzoek als bedoeld in het eerste lid wordt gedaan en kunnen nadere regels worden gesteld omtrent de procedure met betrekking tot de behandeling van een dergelijk verzoek.
+
+**Artikel 16.33**
+
+Vervallen
+
+**Artikel 16.33a**
+
+Indien de Europese Commissie op grond van artikel 24bis van de EG-richtlijn handel in broeikasgasemissierechten uitvoeringsmaatregelen heeft vastgesteld, kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de kosteloze toewijzing en verlening van broeikasgasemissierechten voor projecten die de emissie van broeikasgassen verlagen maar waarop deze titel niet van toepassing is. Deze regels voldoen aan genoemde uitvoeringsmaatregelen.
+
+**Artikel 16.34**
+
+Vervallen
+
+###### Subparagraaf 16.2.1.3.2 — Wijziging van toewijzingsbesluiten
+
+**Artikel 16.34a**
+
+Indien de Europese Commissie op grond van artikel 10ter van de EG-richtlijn handel in broeikasgasemissierechten de groep bedrijfstakken en deeltakken die geacht worden een koolstofweglekrisico te lopen, aanpast, en het bedrijfstakken of deeltakken betreft die in Nederland zijn gevestigd, wijzigt het bestuur van de emissieautoriteit een overeenkomstig deze afdeling genomen besluit houdende kosteloze toewijzing van broeikasgasemissierechten overeenkomstig de uitvoeringsmaatregelen die de Europese Commissie op grond van artikel 10ter van die richtlijn heeft vastgesteld. De artikelen 16.24, tweede lid, en 16.25 tot en met 16.29 zijn van overeenkomstige toepassing.
+
+**Artikel 16.34b**
+
+1\. Een overeenkomstig deze afdeling genomen besluit houdende kosteloze toewijzing van broeikasgasemissierechten kan overeenkomstig de gedelegeerde handelingen en uitvoeringshandelingen die de Europese Commissie op grond van artikel 10bis, eerste en eenentwintigste lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld, worden gewijzigd of ingetrokken:
+
+- a. indien de werking van een broeikasgasinstallatie wordt beëindigd, of
+- b. indien het niveau van in bedrijf zijn van de broeikasgasinstallatie wordt verminderd of verhoogd in de zin van artikel 10bis, twintigste lid, van de EG-richtlijn handel in broeikasgasemissierechten.
+
+2\. Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van dit artikel.
+
+3\. De artikelen 16.25 tot en met 16.29 zijn van overeenkomstige toepassing.
+
+**Artikel 16.34c**
+
+1\. Een overeenkomstig deze afdeling genomen besluit houdende kosteloze toewijzing van broeikasgasemissierechten kan tevens worden gewijzigd of ingetrokken, indien:
+
+- a. degene die de broeikasgasinstallatie exploiteert, onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een ander besluit zou hebben geleid, of
+- b. het besluit anderszins onjuist was en degene die de broeikasgasinstallatie exploiteert, dit wist of behoorde te weten.
+
+2\. De artikelen 16.25 tot en met 16.29 zijn van overeenkomstige toepassing.
+
+**Artikel 16.34d**
+
+Bij intrekking of wijziging op grond van artikel 16.34b of artikel 16.34c kan worden bepaald dat de intrekking of wijziging terugwerkt tot en met een bij dat besluit te bepalen tijdstip.
+
+**Artikel 16.34e**
+
+Op de voorbereiding van een krachtens artikel 16.34a, 16.34b of 16.34c genomen besluit, voor zover een dergelijk besluit strekt tot wijziging van het nationale toewijzingsbesluit, zijn artikel 16.30, vierde lid, van deze wet en afdeling 3.4 van de Algemene wet bestuursrecht niet van toepassing.
+
+###### Subparagraaf 16.2.1.3.3 — Het verlenen van broeikasgasemissierechten
+
+**Artikel 16.35**
+
+1\. Broeikasgasemissierechten worden overeenkomstig de Verordening EU-register handel in emissierechten verleend aan de exploitant van de broeikasgasinstallatie. Verlening van broeikasgasemissierechten vindt slechts plaats, indien voor de betrokken broeikasgasinstallatie een vergunning als bedoeld in artikel 16.5, is verleend.
+
+2\. Het bestuur van de emissieautoriteit verleent voor een broeikasgasinstallatie als bedoeld in artikel 16.32, eerste lid, het aantal broeikasgasemissierechten dat overeenkomstig dat lid aan die broeikasgasinstallatie is toegewezen. Het eerste lid, tweede volzin, is van overeenkomstige toepassing.
+
+**Artikel 16.35a**
+
+Vervallen
+
+**Artikel 16.35b**
+
+Vervallen
+
+**Artikel 16.35c**
+
+1\. Het bestuur van de emissieautoriteit kan broeikasgasemissierechten die, gelet op de wijziging van het daaraan ten grondslag liggende toewijzingsbesluit, onverschuldigd zijn verleend, terugvorderen van de exploitant van de broeikasgasinstallatie. Indien de exploitant van de broeikasgasinstallatie, onvoldoende broeikasgasemissierechten bezit, kan een met de waarde van die rechten corresponderend bedrag worden teruggevorderd.
+
+2\. Het bestuur van de emissieautoriteit kan het terug te vorderen bedrag dat met de waarde van de onverschuldigd verleende broeikasgasemissierechten correspondeert, bij dwangbevel invorderen.
+
+3\. Het bestuur van de emissieautoriteit kan broeikasgasemissierechten die, gelet op de wijziging van het daaraan ten grondslag liggende toewijzingsbesluit, onverschuldigd zijn verleend, verrekenen met de hoeveelheid voor de exploitant van de broeikasgasinstallatie, te verlenen broeikasgasemissierechten voor de daarop volgende handelsperiode.
+
+4\. Bij het bepalen van de waarde van een broeikasgasemissierecht, bedoeld in het eerste lid, tweede volzin, wordt uitgegaan van de gemiddelde marktprijs van een dergelijk recht op het moment van terugvordering. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de wijze waarop de gemiddelde marktprijs van een broeikasgasemissierecht wordt bepaald.
+
+##### Paragraaf 16.2.1.4 — De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+
+###### Artikel 16.36
+
+1\. Een broeikasgasemissierecht dat met ingang van 1 januari 2013 is verleend, is voor onbepaalde tijd geldig.
+
+2\. Een broeikasgasemissierecht dat met ingang van 1 januari 2021 is verleend, bevat een aanduiding waaruit blijkt in welke periode van tien jaar te rekenen vanaf 1 januari 2021 het is verstrekt en is geldig voor emissies met ingang van het eerste jaar van die periode.
+
+3\. Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van dit artikel.
+
+###### Artikel 16.37
+
+1\. Onverminderd artikel 30, tiende lid, van de Verordening EU-register handel in emissierechten, levert de exploitant van de broeikasgasinstallatie, niet zijnde een broeikasgasinstallatie voor de verbranding van stedelijk afval, met betrekking tot ieder kalenderjaar voor 1 oktober van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten, niet zijnde broeikasgasemissierechten die zijn verleend krachtens afdeling 16.2.2, in, dat overeenkomt met de hoeveelheid van de emissie, die de broeikasgasinstallatie in het eerstbedoelde kalenderjaar heeft veroorzaakt.
+
+2\. Ter bepaling van de hoeveelheid van de emissie, bedoeld in het eerste lid, worden de gegevens in acht genomen, die overeenkomstig de Verordening EU-register handel in emissierechten in het EU-register voor de handel in emissierechten zijn opgenomen.
+
+3\. Voor emissies van broeikasgassen die geacht worden te zijn afgevangen en gebruikt op zo een manier dat ze permanent chemisch in een product worden gebonden en bij normaal gebruik, waaronder normale activiteiten die plaatsvinden na het einde van de levensduur van het product, niet in de atmosfeer terecht komen, ontstaat geen verplichting om broeikasgasemissierechten in te leveren.
+
+4\. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de voorschriften om te beoordelen of broeikasgassen permanent chemisch in een product zijn gebonden.
+
+###### Artikel 16.37a
+
+Vervallen
+
+###### Artikel 16.37b
+
+Vervallen
+
+###### Artikel 16.38
+
+Vervallen
+
+###### Artikel 16.39
+
+Indien de exploitant van de broeikasgasinstallatie, ter voldoening aan artikel 16.37, eerste lid, met betrekking tot een kalenderjaar minder broeikasgasemissierechten heeft ingeleverd dan overeenkomt met de hoeveelheid van de emissie, die de broeikasgasinstallatie gedurende dat kalenderjaar heeft veroorzaakt, wordt het aantal broeikasgasemissierechten dat hij in het daarop volgende kalenderjaar ter uitvoering van dat artikel dient in te leveren, van rechtswege verhoogd met het aantal broeikasgasemissierechten dat hij te weinig had ingeleverd.
+
+#### Afdeling 16.2.2 — Luchtvaartactiviteiten en maritiem vervoer
+
+##### Paragraaf 16.2.2.1 — Algemeen
+
+###### Artikel 16.39a
+
+1\. Deze afdeling is van toepassing op:
+
+- a. vliegtuigexploitanten ten aanzien waarvan Nederland verantwoordelijk is voor de administratie van de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en die luchtvaartactiviteiten als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten uitvoeren;
+- b. niet-CO<sub>2</sub>-effecten van de luchtvaart;
+- c. scheepvaartmaatschappijen waarvoor Nederland verantwoordelijk is voor het beheer van het EU-ETS en die maritieme vervoersactiviteiten uitvoeren als bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten;
+- d. emissies van bij algemene maatregel van bestuur aangewezen broeikasgassen veroorzaakt door luchtvaartactiviteiten als bedoeld onder a of maritiem vervoer als bedoeld onder c.
+
+2\. Nederland is ten aanzien van een vliegtuigexploitant administrerende lidstaat als bedoeld in het eerste lid, onder a:
+
+- a. indien de vliegtuigexploitant beschikt over een geldige vergunning als bedoeld in artikel 16 van de Luchtvaartwet die valt onder verordening (EG) nr. 1008/2008 van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU L 293);
+- b. in gevallen waarin de vliegtuigexploitant niet beschikt over een geldige, door een lidstaat overeenkomstig de verordening, genoemd onder a, verleende exploitatievergunning: indien aan Nederland het grootste deel van de geschatte luchtvaartemissies van door de betrokken vliegtuigexploitant in het basisjaar uitgevoerde vluchten kan worden toegeschreven als bedoeld in artikel 18bis, eerste lid, onder b, van de EG-richtlijn handel in broeikasgasemissierechten.
+
+3\. Door vernummering vervallen.
+
+4\. Nederland is administrerende autoriteit voor een scheepvaartmaatschappij die wordt vermeld op de door de Europese Commissie gepubliceerde lijst van scheepvaartmaatschappijen die een in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten vermelde maritieme vervoersactiviteit uitoefenen.
+
+5\. De toewijzing van emissierechten aan scheepvaartmaatschappijen en de inleveringsverplichting van emissierechten door scheepvaartmaatschappijen is van toepassing op:
+
+- a. 50% van de emissies van schepen die reizen uitvoeren vanuit een Nederlandse haven naar een buiten de Europese Unie gelegen aanloophaven;
+- b. 50% van de emissies van schepen die reizen uitvoeren vanuit een buiten de Europese Unie gelegen aanloophaven naar een Nederlandse haven;
+- c. 100% van de emissies van schepen die reizen uitvoeren van een Nederlandse haven naar een binnen de Europese Unie gelegen aanloophaven en vice versa;
+- d. 100% van de emissies van schepen in een Nederlandse aanloophaven
+
+5\. Voor de toepasselijkheid van het tweede lid, aanhef en onder b, wordt uitgegaan van de meest actuele uitgave van de door de Commissie van de Europese Gemeenschappen op grond van artikel 18bis, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten gepubliceerde lijst.
+
+6\. Bij de administratie van vliegtuigexploitanten neemt het bestuur van de emissieautoriteit de richtsnoeren in acht die de Commissie van de Europese Gemeenschappen overeenkomstig artikel 18bis, vierde lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld.
+
+###### Artikel 16.39b
+
+Bij ministeriële regeling worden regels gesteld met betrekking tot de interpretatie van de luchtvaartactiviteiten, bedoeld in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten. Deze regels voldoen in elk geval aan de richtsnoeren die de Commissie van de Europese Gemeenschappen op grond van artikel 3 ter van genoemde richtlijn heeft vastgesteld.
+
+##### Paragraaf 16.2.2.2 — Monitoring en verslaglegging
+
+###### Artikel 16.39c
+
+Vervallen
+
+###### Artikel 16.39d
+
+1\. De ingevolge artikel 12, eerste lid, van de Verordening monitoring en rapportage emissiehandel of artikel 6, achtste lid, van de Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer vereiste goedkeuring wordt door het bestuur van de emissieautoriteit geweigerd, indien:
+
+- a. het monitoringsplan niet voldoet aan de eisen die daaraan gesteld zijn bij bij of krachtens de genoemde verordeningen of bij of krachtens dit hoofdstuk;
+- b. het bestuur van oordeel is dat onvoldoende is gewaarborgd dat de vliegtuigexploitant of scheepvaartmaatschappij in staat is het monitoringsplan naar behoren uit te voeren.
+
+2\. Het eerste lid is niet van toepassing op vluchten vermeld in artikel 16.39sb, eerste lid.
+
+###### Artikel 16.39e
+
+Vervallen
+
+###### Artikel 16.39f
+
+Vervallen
+
+###### Artikel 16.39g
+
+Vervallen
+
+###### Artikel 16.39h
+
+1\. De artikelen 16.12, 16.13, 16.14, 16.16, 16.17, 16.18 en 16.21 zijn van overeenkomstige toepassing op luchtvaartactiviteiten, met dien verstande dat in artikel 16.13, eerste lid, onder b, in plaats van «de artikelen 16.6 of 16.12» wordt gelezen: artikel 16.12.
+
+2\. De artikelen 16.13, met uitzondering van het eerste lid, onderdeel b, 16.14 en 16.16 zijn van overeenkomstige toepassing op maritiem vervoer, met dien verstande dat:
+
+- a. voor «Verordening monitoring en rapportage emissiehandel» en «Verordening verificatie en accreditatie emissiehandel» wordt gelezen «Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer»;
+- b. in artikel 16.13 voor «vergunninghouder» wordt gelezen «scheepvaartmaatschappij»; en
+- c. in artikel 16.16 voor «artikel 68» wordt gelezen «artikel 11bis».
+
+###### Artikel 16.39i
+
+1\. Vliegtuigexploitanten brengen eenmaal per jaar en overeenkomstig het door de Europese Commissie op grond van artikel 14, vijfde lid, van de EG-richtlijn handel in broeikasgasemissierechten vastgestelde monitorings-, rapportage- en verificatiekader bij het bestuur van de emissieautoriteit verslag uit over de niet-CO<sub>2</sub>-effecten die zich vanaf 1 januari 2025 voordoen.
+
+2\. Het bestuur van de emissieautoriteit legt een aanvraag van een vliegtuigexploitant die voldoet aan de in artikel 14, zesde lid, laatste alinea, van de EG-richtlijn handel in broeikasgasemissierechten vermelde vereisten om een ontheffing van de publicatie van de op grond van artikel 14, zesde lid, onderdelen a en b, van de genoemde richtlijn geaggregeerde jaarlijkse emissie gerelateerde gegevens voor aan de Europese Commissie.
+
+##### Paragraaf 16.2.2.3 — Het toewijzen en verlenen van broeikasgasemissierechten
+
+###### Artikel 16.39j
+
+1\. Een vliegtuigexploitant kan het bestuur van de emissieautoriteit verzoeken om kosteloze toewijzing van:
+
+- a. broeikasgasemissierechten voor de periode van 1 januari 2024 tot en met 31 december 2025. Het bestuur van de emissieautoriteit verleent uiterlijk op 30 juni van elk kalenderjaar binnen die periode aan een vliegtuigexploitant het aantal emissierechten dat hem krachtens dit onderdeel is toegewezen en maakt hier melding van in de Staatscourant.
+- b. broeikasgasemissierechten met betrekking tot de in artikel 3 quater, zesde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde brandstoffen voor de periode van 1 januari 2024 tot en met 31 december 2030.
+
+2\. Bij de aanvraag als bedoeld in het eerste lid, onderdeel a worden geverifieerde emissies overgelegd over de in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten opgenomen luchtvaartactiviteiten die de vliegtuigexploitant in het referentiejaar heeft uitgevoerd.
+
+3\. De overgelegde geverifieerde emissies zijn bepaald en geregistreerd:
+
+- a. overeenkomstig een plan dat een beschrijving bevat van de wijze waarop de geverifieerde emissies worden bepaald, geregistreerd en bewaard;
+- b. met inachtneming van de krachtens het zevende lid, aanhef en onder a en b, gestelde regels.
+
+4\. Het plan, bedoeld in het derde lid, onder a, is goedgekeurd door het bestuur van de emissieautoriteit. Artikel 16.39d is van overeenkomstige toepassing.
+
+5\. Bij de aanvraag als bedoeld in het eerste lid, onderdeel b, berekent het bestuur van de emissieautoriteit het kostenverschil met toepassing van de door de Europese Commissie op grond van artikel 3 quater, zesde lid, van de EG-richtlijn handel in broeikasgasemissierechten vastgestelde regels voor de jaarlijkse berekening van genoemd kostenverschil en verleent aan een vliegtuigexploitant het aantal emissierechten dat hem krachtens genoemd onderdeel is toegewezen en maakt hier melding van in de Staatscourant.
+
+6\. De aanvraag wordt ten aanzien van de in het eerste lid, onderdeel a, bedoelde periode ingediend op uiterlijk 31 maart van elk kalenderjaar.
+
+7\. Bij ministeriële regeling kunnen ter uitvoering van dit artikel regels worden gesteld met betrekking tot:
+
+- a. de wijze waarop een tonkilometer wordt berekend;
+- b. het bepalen en registreren van geverifieerde emissies;
+- c. het indienen van een ontwerp van een plan als bedoeld in het derde lid, onder a;
+- d. het goedkeuren van een plan als bedoeld in het derde lid, onder a;
+- e. het actualiseren van een plan als bedoeld in het derde lid, onder a;
+- f. het melden van veranderingen en afwijkingen van een plan als bedoeld in het derde lid, onder a;
+- g. de wijze waarop een aanvraag om toewijzing van emissierechten dient te worden gedaan en de gegevens die door de aanvrager dienen te worden verstrekt.
+
+###### Artikel 16.39k
+
+Het bestuur van de emissieautoriteit legt aanvragen die tijdig zijn ingediend en voldoen aan artikel 16.39j, derde lid voor wat betreft de eisen waaraan de onafhankelijke deskundige moet voldoen, voor aan de Commissie van de Europese Gemeenschappen.
+
+###### Artikel 16.39l
+
+Vervallen
+
+###### Artikel 16.39m
+
+Voor de jaren 2024 en 2025 wordt van het totale aantal broeikasgasemissierechten voor de luchtvaart, bedoeld in artikel 3 quater, vijfde en zevende lid, van de EG-richtlijn handel in broeikasgasemissierechten, een gedeelte geveild. Het te veilen gedeelte wordt vastgesteld met toepassing van de in artikel 3 quinquies, eerste lid, van de genoemde richtlijn vermelde methode.
+
+###### Artikel 16.39n
+
+Vervallen
+
+###### Artikel 16.39o
+
+Vervallen
+
+###### Artikel 16.39p
+
+Vervallen
+
+###### Artikel 16.39q
+
+Vervallen
+
+###### Artikel 16.39r
+
+Vervallen
+
+###### Artikel 16.39s
+
+Vervallen
+
+##### Paragraaf 16.2.2.3a — Compensatievereisten CORSIA eenheden
+
+###### Artikel 16.39sa
+
+1\. Het is vliegtuigexploitanten die over een door Nederland afgegeven bewijs luchtvaartexploitant beschikken of in Nederland geregistreerd zijn toegestaan om overeenkomstig artikel 11 bis, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten de door de ICAO-raad aanvaarde eenheden te annuleren met betrekking tot de door het bestuur van de emissieautoriteit overeenkomstig artikel 12, zesde lid, van de genoemde richtlijn vastgestelde compensatievereisten.
+
+2\. Vliegtuigexploitanten annuleren de in het eerste lid vermelde eenheden met betrekking tot de door het bestuur van de emissieautoriteit vastgestelde compensatievereisten:
+
+- a. uiterlijk op 31 januari 2025 voor emissies in de periode van 1 januari 2021 tot en met 31 december 2023;
+- b. uiterlijk op 31 januari 2028 voor emissies in de periode van 1 januari 2024 tot en met 31 december 2026.
+
+###### Artikel 16.39sb
+
+1\. De in deze wet overeenkomstig de EG-richtlijn handel in broeikasgasemissierechten vastgestelde vereisten aangaande het inleveren van monitoringsplannen en het monitoren en rapporteren van emissies zijn vervuld:
+
+- a. voor ieder kalenderjaar in de periode van 1 januari 2021 tot en met 31 december 2026 met betrekking tot vluchten tussen een luchthaven in Nederland en een luchthaven in een land buiten de gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is en waarmee overeenkomstig artikel 25 of 25 bis van de genoemde richtlijn een overeenkomst gesloten is met uitzondering van vluchten tussen een luchthaven in Nederland en een luchthaven in het Verenigd Koninkrijk en Zwitserland;
+- b. voor ieder kalenderjaar in de periode van 1 januari 2013 tot en met 31 december 2023 met betrekking tot vluchten tussen een luchthaven in Nederland en een luchthaven in een ultraperifeer gebied van een andere lidstaat als vermeld in artikel 349 van het Verdrag betreffende de werking van de Europese Unie.
+
+2\. Bij de toepassing van het eerste lid, onderdelen a en b, wordt de door de Europese Commissie overeenkomstig artikel 28 ter van de EG-richtlijn handel in broeikasgasemissierechten gepleegde evaluatie in acht genomen.
+
+3\. Vliegtuigexploitanten zijn vrijgesteld van het inleveren van door de ICAO-raad aanvaarde eenheden voor vluchten tussen Nederland en de minst ontwikkelde landen en kleine eilandstaten in ontwikkeling zoals gedefinieerd door de Verenigde Naties met uitzondering van landen met een bruto binnenlands product per hoofd van de bevolking dat gelijk is aan of groter is dan het gemiddelde van de Europese Unie.
+
+4\. Voor de periode tot en met 31 december 2026 zijn vliegtuigexploitanten vrijgesteld van het inleveren van door de ICAO-raad aanvaarde eenheden voor vluchten:
+
+- a. tussen Nederland en landen en kleine eilandstaten in ontwikkeling die zijn opgenomen in de door de Europese Commissie overeenkomstig artikel 25 bis, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten vastgestelde uitvoeringshandeling;
+- b. tussen Nederland en landen buiten de gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is en die niet zijn opgenomen in de in onderdeel a genoemde uitvoeringshandeling met uitzondering van het Verenigd Koninkrijk en Zwitserland.
+
+5\. Bij de toepassing van afdeling 16.2.4 van deze wet en de bepalingen aangaande het monitoren en rapporteren van emissies en het inleveren en annuleren van door de ICAO-raad aanvaarde eenheden worden de emissies van vluchten anders dan de vluchten vermeld in het eerste lid, onderdelen a en b, beschouwd als geverifieerde emissies van de vliegtuigexploitant.
+
+6\. Voor de periode van 1 januari 2013 tot en met 31 december 2026 wordt het totale aantal emissierechten dat geveild wordt verminderd met de toegewezen emissierechten voor vluchten vermeld in het eerste lid, onderdelen a en b.
+
+###### Artikel 16.39sc
+
+Bij ministeriële regeling worden overeenkomstig artikel 11 bis, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten regels gesteld met betrekking tot het gebruik van de door de ICAO-raad aanvaarde eenheden.
+
+###### Artikel 16.39sd
+
+1\. Het bestuur van de emissieautoriteit stelt de CORSIA-nalevingsperiodes vast.
+
+2\. Met toepassing van de door de Europese Commissie overeenkomstig artikel 12, achtste lid, van de EG-richtlijn handel in broeikasgasemissierechten vastgestelde methode berekent het bestuur van de emissieautoriteit:
+
+- a. jaarlijks de voorlopige compensatievereisten; en
+- b. de definitieve compensatievereisten aan het einde van de in het eerste lid genoemde nalevingsperiodes.
+
+3\. Het bestuur van de emissieautoriteit maakt uiterlijk op 30 november:
+
+- a. van elk kalenderjaar melding van de in het tweede lid, onderdeel a, genoemde voorlopige compensatievereisten aan vliegtuigexploitanten die aan de in artikel 12, zesde lid, onderdelen a en b, van de genoemde richtlijn vermelde voorwaarden voldoen;
+- b. van het jaar volgend op het laatste jaar van de in het eerste lid genoemde nalevingsperiodes melding van de in het tweede lid, onderdeel b, genoemde definitieve compensatievereisten aan vliegtuigexploitanten die aan de in artikel 12, zesde lid, onderdelen a en b, van de genoemde richtlijn vermelde voorwaarden voldoen.
+
+##### Paragraaf 16.2.2.4 — De geldigheid van broeikasgasemissierechten, het inleveren van broeikasgasemissierechten, het annuleren van broeikasgasemissierechten en het compenseren van emissies in een ander kalenderjaar
+
+###### Artikel 16.39t
+
+1\. Een vliegtuigexploitant levert met betrekking tot ieder kalenderjaar voor 1 oktober van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten in, dat overeenkomt met de hoeveelheid van de emissie gedurende het eerstbedoelde kalenderjaar van in bijlage I bij de EG-richtlijn handel in broeikasgasemissierechten opgenomen luchtvaartactiviteiten waarvoor die vliegtuigexploitant verantwoordelijk is en die op of na 1 januari 2012 hebben plaatsgevonden.
+
+2\. Een scheepvaartmaatschappij levert met betrekking tot ieder kalenderjaar voor 1 oktober van het daarop volgende kalenderjaar ten minste een aantal broeikasgasemissierechten in dat overeenkomt met de hoeveelheid van de totale emissie gedurende het eerstbedoelde kalenderjaar, zoals geverifieerd overeenkomstig de Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer en zoals berekend volgens het door de Commissie vastgestelde model-emissieverslag.
+
+3\. Ter bepaling van de hoeveelheid van de emissie, bedoeld in het tweede lid, worden de gegevens in acht genomen, die overeenkomstig de Verordening EU-register handel in emissierechten in het EU-register voor de handel in emissierechten zijn opgenomen.
+
+4\. De in het eerste lid vermelde verplichting is vervuld voor ieder kalenderjaar in de periode tot en met 31 december 2030 met betrekking tot een vliegtuigexploitant waarvan Nederland overeenkomstig artikel 16.39a, tweede lid, onderdeel a, de administrerende lidstaat is, voor de vluchten die deze vliegtuigexploitant uitvoert tussen een luchthaven in een ultraperifeer gebied van een lidstaat als vermeld in artikel 349 van het Verdrag betreffende de werking van de Europese Unie en:
+
+- a. een luchthaven in dezelfde lidstaat;
+- b. een andere luchthaven in hetzelfde ultraperifeer gebied van de lidstaat; of
+- c. een luchthaven in een ander ultraperifeer gebied van dezelfde lidstaat.
+
+5\. De in het tweede lid vermelde verplichting is vervuld voor ieder kalenderjaar in de periode tot en met 31 december 2030 met betrekking tot een scheepvaartmaatschappij waarvan Nederland overeenkomstig artikel 16.39a, vierde lid, de administrerende lidstaat is, voor de reizen en in verband met deze reizen uitgevoerde activiteiten in een haven die deze scheepvaartmaatschappij uitvoert tussen en in een haven in een ultraperifeer gebied van een lidstaat als vermeld in artikel 349 van het Verdrag betreffende de werking van de Europese Unie en:
+
+- a. een haven in dezelfde lidstaat;
+- b. een andere haven in hetzelfde ultraperifeer gebied van de lidstaat; of
+- c. een haven in een ander ultraperifeer gebied van dezelfde lidstaat.
+
+6\. De in het tweede lid bedoelde emissierechten worden overeenkomstig het volgende schema ingeleverd:
+
+- a. 40% van de voor 2024 gerapporteerde geverifieerde emissies;
+- b. 70% van de voor 2025 gerapporteerde geverifieerde emissies;
+- c. 100% van de geverifieerde emissies die zijn gerapporteerd voor 2026 en elk daaropvolgend jaar.
+
+7\. In afwijking van het tweede en zesde lid mag een scheepvaartmaatschappij tot 31 december 2030 5% minder emissierechten inleveren dan de geverifieerde emissies voor schepen met ijsklasse 1A of 1A super of een gelijkwaardige ijsklasse, zoals vastgesteld op basis van aanbeveling 25/7 van de Commissie ter bescherming van het mariene milieu van het Oostzeegebied.
+
+8\. Een scheepvaartmaatschappij voldoet tot 31 december 2030 aan de eisen bedoeld in het tweede lid indien een uitvoeringshandeling van de Europese Commissie als bedoeld in artikel 12, derde lid quinqies, derde lid quater en derde lid ter, van de EG-richtlijn handel in broeikasgasemissierechten dat bepaalt.
+
+9\. Indien de eindverantwoordelijkheid voor de aankoop van de brandstof of de exploitatie van een schip op grond van een contractuele regeling berust bij een ander dan de emissiegerechtigde scheepvaartmaatschappij, heeft die scheepvaartmaatschappij recht op terugbetaling door die ander van de kosten die voortvloeien uit het inleveren van de in het tweede en zesde lid bedoelde emissierechten door de emissiegerechtigde scheepvaartmaatschappij.
+
+10\. Artikel 16.37, tweede lid, is van overeenkomstige toepassing.
+
+###### Artikel 16.39u
+
+Vervallen
+
+###### Artikel 16.39v
+
+Artikel 16.36 is van overeenkomstige toepassing.
+
+###### Artikel 16.39w
+
+Indien een vliegtuigexploitant ter voldoening aan artikel 16.39t, eerste lid of een scheepvaartmaatschappij ter voldoening aan artikel 16.39t, tweede lid, minder broeikasgasemissierechten heeft ingeleverd dan overeenkomt met de hoeveelheid van de emissie, die hij gedurende het betrokken kalenderjaar heeft veroorzaakt, wordt het aantal broeikasgasemissierechten dat hij in het daarop volgende kalenderjaar ter uitvoering van dat artikellid dient in te leveren, van rechtswege verhoogd met het aantal broeikasgasemissierechten dat hij te weinig had ingeleverd.
+
+#### Afdeling 16.2.2A — Levering van brandstoffen aan de gebouwensector, de wegvervoerssector en overige sectoren
+
+##### Paragraaf 16.2.2a.1 — Algemeen
+
+###### Artikel 16.39x
+
+1\. Deze afdeling is van toepassing op gereglementeerde entiteiten.
+
+2\. Voor de toepassing van deze afdeling wordt onder «brandstof» verstaan: elk energieproduct, bedoeld in artikel 2, eerste lid, van Richtlijn 2003/96 van de Raad van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEU 2003, L283), met inbegrip van de brandstoffen die zijn vermeld in tabel A en tabel C van bijlage I bij die richtlijn, alsmede elk ander product dat voor gebruik bedoeld is, als motor-of verwarmingsbrandstof te koop wordt aangeboden of wordt gebruikt als bedoeld in artikel 2, derde lid, van die richtlijn, ook voor de productie van elektriciteit.
+
+###### Artikel 16.39y
+
+Vervallen
+
+##### Paragraaf 16.2.2a.2 — Vergunning
+
+###### Artikel 16.39z
+
+Het is vanaf 1 januari 2025 verboden om zonder vergunning van het bestuur van de emissieautoriteit de bij algemene maatregel van bestuur aangewezen activiteiten uit te oefenen.
+
+###### Artikel 16.39aa
+
+1\. Bij ministeriële regeling worden regels gesteld met betrekking tot inhoud van de vergunning, de wijze waarop de aanvraag om een vergunning moet geschieden, de gegevens die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen.
+
+2\. Op de vergunningverlening zijn de artikelen 16.7, 16.9, 16.10 en 16.11 van overeenkomstige toepassing met dien verstande dat telkens voor «broeikasgasinstallatie» en «exploitant van de broeikasgasinstallatie» wordt gelezen «gereglementeerde entiteit».
+
+###### Artikel 16.39ab
+
+1\. Het bestuur van de emissieautoriteit kan de vergunning wijzigen of aanvullen, de daaraan verbonden voorschriften wijzigen, aanvullen of intrekken of voorschriften aan de vergunning verbinden, indien dit naar zijn oordeel nodig is in het belang van de goede werking van het systeem van handel in emissierechten.
+
+2\. Op aanvraag van de vergunninghouder kan het bestuur van de emissieautoriteit de vergunning en de daaraan verbonden voorschriften wijzigen, aanvullen of intrekken of voorschriften aan de vergunning verbinden.
+
+3\. De verplichting tot het indienen van een emissieverslag blijft voor wat betreft het kalenderjaar waarin de beschikking tot intrekking van de vergunning van kracht is geworden, na intrekking van de vergunning op de laatste houder daarvan rusten, totdat aan die verplichting is voldaan, tenzij in het gehele jaar van intrekking de gereglementeerde entiteit geen activiteiten verricht.
+
+4\. Met betrekking tot de beslissing op grond van het eerste lid zijn de artikelen 16.7, 16.9 en 16.11 en met betrekking tot de beslissing op grond van het tweede lid de artikelen 16.39aa, 16.7, 16.9 tot en met 16.12 van overeenkomstige toepassing met dien verstande dat telkens:
+
+- a. voor «broeikasgasinstallatie» en «exploitant van de broeikasgasinstallatie» wordt gelezen «gereglementeerde entiteit»;
+- b. voor «artikel 16.5» wordt gelezen «artikel 16.39z».
+
+###### Artikel 16.39ac
+
+1\. Het bestuur van de emissieautoriteit kan de vergunning intrekken indien deze afdeling niet meer van toepassing is op de gereglementeerde entiteit.
+
+2\. Met betrekking tot de beslissing ter zake is artikel 16.39ab, derde lid, van overeenkomstige toepassing.
+
+###### Artikel 16.39ad
+
+1\. De vergunninghouder meldt aan het bestuur van de emissieautoriteit een verandering van naam of adres van de gereglementeerde entiteit.
+
+2\. Bij ministeriële regeling kunnen ter uitvoering van deze paragraaf regels worden gesteld met betrekking tot:
+
+- a. het melden door de gereglementeerde entiteit aan het bestuur van de emissieautoriteit van alle geplande wijzigingen in de aard van haar activiteiten of in de brandstoffen die zij tot verbruik uitslaat, waarvoor een aanpassing van de broeikasgasemissievergunning nodig zou zijn;
+- b. het melden door de gereglementeerde entiteit aan het bestuur van de emissieautoriteit van andere handelingen of omstandigheden;
+- c. het goedkeuren van veranderingen van het monitoringsplan.
+
+##### Paragraaf 16.2.2a.3 — Monitoring van emissies
+
+###### Artikel 16.39ae
+
+1\. De gereglementeerde entiteit monitort vanaf 2025 de emissies die overeenstemmen met de hoeveelheden brandstof die tot verbruik zijn uitgeslagen en brengt hierover vanaf 2026 een emissieverslag uit.
+
+2\. De gereglementeerde entiteit die op 1 januari 2025 over een vergunning beschikt rapporteert haar historische emissies voor het jaar 2024 uiterlijk op 30 april 2025.
+
+3\. Op de monitoring, rapportage en verificatie van emissies zijn de artikelen 16.4a, 16.12, 16.13, 16.14, 16.15, 16.16, 16.17, 16.18 van overeenkomstige toepassing, met dien verstande dat telkens:
+
+- a. voor «broeikasgasinstallatie» en «exploitant van de broeikasgasinstallatie» wordt gelezen «gereglementeerde entiteit»;
+- b. voor «artikel 16.5» wordt gelezen «artikel 16.39z»;
+- c. voor «artikel 16.6» wordt gelezen «artikel 16.39aa».
+
+###### Artikel 16.39af
+
+1\. De gereglementeerde entiteit brengt vanaf 1 januari 2028 tot en met 2030 jaarlijks voor 1 mei verslag uit over het gemiddelde aandeel van de kosten in verband met de inlevering van emissierechten die zij het voorgaande jaar aan eindverbruikers heeft doorberekend.
+
+2\. Indien artikel 30 duodecies van de EG-richtlijn handel in broeikasgasemissierechten van toepassing is brengt de gereglementeerde entiteit het in het eerste lid bedoelde verslag vanaf 1 januari 2029 uit.
+
+3\. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop het verslag moet worden ingediend en de gegevens die door de gereglementeerde entiteit moeten worden verstrekt.
+
+###### Artikel 16.39ag
+
+Bij ministeriële regeling kunnen regels worden gesteld:
+
+- a. ten behoeve van het betrouwbaar en nauwkeurig identificeren en documenteren van de precieze volumes van de tot verbruik uitgeslagen brandstoffen;
+- b. ter uitvoering van de uitvoeringhandeling die de Europese Commissie op grond van artikel 30 septies, vijfde lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld;
+- c. ter voorkoming van dubbeltelling van emissies.
+
+##### Paragraaf 16.2.2a.4 — Het veilen, verlenen en inleveren van broeikasgasemissierechten
+
+###### Artikel 16.39ah
+
+1\. Broeikasgasemissierechten worden overeenkomstig artikel 30 quinquies van de EG-richtlijn handel in broeikasgasemissierechten geveild.
+
+2\. Artikel 16.23, tweede lid, is van overeenkomstige toepassing.
+
+###### Artikel 16.39ai
+
+1\. Broeikasgasemissierechten worden overeenkomstig de Verordening EU-register handel in emissierechten verleend aan de gereglementeerde entiteit.
+
+2\. Verlening van broeikasgasemissierechten vindt slechts plaats, indien aan de betreffende gereglementeerde entiteit een vergunning als bedoeld in artikel 16.39z is verleend.
+
+3\. Artikel 16.36 is van overeenkomstige toepassing.
+
+###### Artikel 16.39aj
+
+1\. Met ingang van 1 januari 2028 levert de gereglementeerde entiteit voor 1 juni een hoeveelheid emissierechten in dat gelijk is aan de totale emissies van de gereglementeerde entiteit, die overeenstemmen met de hoeveelheid brandstoffen die zij in het voorgaande kalenderjaar tot verbruik heeft uitgeslagen, voor zover het de gereglementeerde activiteit betreft die bij algemene maatregel van bestuur is aanwezen.
+
+2\. Ter bepaling van de hoeveelheid van de emissie, bedoeld in het eerste lid, worden de gegevens in acht genomen, die overeenkomstig de Verordening EU-register handel in emissierechten in het EU-register voor de handel in emissierechten zijn opgenomen.
+
+3\. Indien artikel 30 duodecies van de EG-richtlijn handel in broeikasgasemissierechten van toepassing is, levert de gereglementeerde entiteit, in afwijking van het eerste lid, emissierechten in met ingang van 1 januari 2029.
+
+4\. Indien de gereglementeerde entiteit met betrekking tot een kalenderjaar minder emissierechten heeft ingeleverd dan noodzakelijk op grond van het eerste lid, wordt het aantal emissierechten dat hij in het daaropvolgende kalenderjaar dient in te leveren van rechtswege verhoogd met het aantal emissierechten dat hij te weinig had ingeleverd.
+
+###### Artikel 16.39ak
+
+Artikel 16.21, eerste lid, is van overeenkomstige toepassing, met dien verstande dat voor «broeikasgasinstallaties» wordt gelezen «gereglementeerde entiteiten» en voor «artikel 16.5» wordt gelezen «16.39z».
+
+#### Afdeling 16.2.3 — De overgang van broeikasgasemissierechten en andere eenheden
+
+##### Artikel 16.40
+
+1\. Een broeikasgasemissierecht dat overeenkomstig de Verordening EU-register handel in emissierechten is verleend, is vatbaar voor overdracht indien alle bij de overdracht betrokken personen op hun naam een rekening hebben in het EU-register voor de handel in emissierechten. De eerste volzin is van overeenkomstige toepassing op broeikasgasemissierechten die overeenkomstig de Verordening EU-register handel in emissierechten in een andere lidstaat van de Europese Unie zijn verleend.
+
+2\. Bij algemene maatregel van bestuur kunnen broeikasgasemissierechten die zijn ontstaan in andere landen dan de lidstaten van de Europese Unie worden aangewezen als broeikasgasemissierechten die kunnen worden overgedragen of verkregen door een persoon op wiens naam in het EU-register voor de handel in emissierechten een rekening staat.
+
+3\. Een broeikasgasemissierecht is ook vatbaar voor andere overgang. Het eerste en tweede lid zijn van overeenkomstige toepassing.
+
+##### Artikel 16.41
+
+1\. De voor overdracht van een broeikasgasemissierecht vereiste levering geschiedt door:
+
+- a. afschrijving van het broeikasgasemissierecht van de rekening die in het EU-register voor de handel in emissierechten op naam staat van de persoon die het broeikasgasemissierecht overdraagt, en
+- b. bijschrijving op een rekening in een register als bedoeld onder a, die op naam staat van de persoon die het broeikasgasemissierecht verkrijgt.
+
+2\. Het eerste lid is van overeenkomstige toepassing op elke overgang anders dan overdracht.
+
+3\. Elke overgang anders dan overdracht werkt tegenover derden eerst nadat het bestuur van de emissieautoriteit de overgang heeft geregistreerd.
+
+##### Artikel 16.42
+
+1\. Nietigheid of vernietiging van de overeenkomst die tot de overdracht heeft geleid, of onbevoegdheid van degene die overdraagt, heeft, nadat de overdracht is voltooid, geen gevolgen voor de geldigheid van de overdracht.
+
+2\. Elk voorbehoud met betrekking tot de overdracht is uitgewerkt op het moment dat de overdracht tot stand is gekomen.
+
+3\. In afwijking van artikel 228 van Boek 3 van het Burgerlijk Wetboek kan op een broeikasgasemissierecht geen recht van pand worden gevestigd.
+
+4\. Op een broeikasgasemissierecht kan geen recht van vruchtgebruik worden gevestigd.
+
+5\. Een broeikasgasemissierecht is niet vatbaar voor beslag.
+
+##### Artikel 16.42a
+
+1\. De artikelen 16.40, eerste en vierde lid, 16.41 en 16.42 zijn van overeenkomstige toepassing op de overgang van emissiereductie-eenheden, gecertificeerde emissiereducties, toegewezen eenheden en verwijderingseenheden.
+
+2\. Voorzover het betreft de overgang van emissiereductie-eenheden, gecertificeerde emissiereducties, toegewezen eenheden en verwijderingseenheden, wordt voor de toepassing van de artikelen 16.40, eerste lid, en 16.41, eerste lid, onder «een register dat door de betrokken lidstaat van de Europese Unie overeenkomstig de Verordening EU-register handel in emissierechten is ingesteld» mede verstaan: een register dat overeenkomstig artikel 7, vierde lid, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten is ingesteld door een in bijlage I bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering opgenomen Partij die het Protocol van Kyoto heeft bekrachtigd, zoals gespecificeerd in artikel 1, punt 7, van dat protocol.
+
+#### Afdeling 16.2.4 — Registratie van broeikasgasemissierechten en andere eenheden
+
+##### Artikel 16.43
+
+1\. Het bestuur van de emissieautoriteit wordt aangewezen als bevoegde autoriteit als bedoeld in de Verordening EU-register handel in emissierechten.
+
+2\. Het bestuur van de emissieautoriteit voert de taken die het heeft als bevoegde autoriteit voor het EU-register voor de handel in emissierechten uit in overeenstemming met de Verordening EU-register handel in emissierechten en draagt er zorg voor dat het register voldoet aan de vereisten die daaraan ingevolge de Verordening EU-register handel in emissierechten worden gesteld.
+
+3\. Als nationale administrateur als bedoeld in artikel 3, onder 2, van de Verordening EU-register handel in emissierechten wordt aangewezen een bij besluit van het bestuur van de emissieautoriteit aangewezen medewerker van de emissieautoriteit. Van een besluit als bedoeld in de eerste volzin wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+4\. Onze Minister van Economische Zaken en Klimaat wordt aangewezen als betrokken instantie en desbetreffende instantie als bedoeld in de Verordening EU-register handel in emissierechten.
+
+5\. In het EU-register voor de handel in emissierechten kunnen naast broeikasgasemissierechten tevens emissiereductie-eenheden, gecertificeerde emissiereducties, toegewezen eenheden en verwijderingseenheden worden geregistreerd.
+
+##### Artikel 16.44
+
+1\. Een ieder kan broeikasgasemissierechten, emissiereductie-eenheden, gecertificeerde emissiereducties, toegewezen eenheden en verwijderingseenheden bezitten.
+
+2\. In afwijking van het eerste lid is niet toegestaan het bezit van:
+
+- a. lange-termijn gecertificeerde emissiereducties als bedoeld in artikel 3, onder 9, van de Verordening EU-register handel in emissierechten (lCER);
+- b. voorlopige gecertificeerde emissiereducties als bedoeld in artikel 3, onder 11, van de Verordening EU-register handel in emissierechten (tCER).
+
+##### Artikel 16.45
+
+Onze Minister van Economische Zaken en Klimaat kan regels stellen ter uitvoering van de Verordening EU-register handel in emissierechten.
+
+##### Artikel 16.46
+
+Emissiereductie-eenheden, gecertificeerde emissiereducties en verwijderingseenheden die aan het einde van de aanvullende periode voor het voldoen aan verplichtingen, bedoeld in het overeenkomstig het Protocol van Kyoto genomen besluit 13/CMP.1, op een rekening in het register voor handel in emissierechten zijn geregistreerd, worden geannuleerd.
+
+#### Afdeling 16.2.5 — Instemming met deelname aan projectactiviteiten
+
+##### Artikel 16.46a
+
+Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt verstaan onder projectdeelnemer: persoon die een verzoek om instemming als bedoeld in artikel 16.46b, derde lid indient.
+
+##### Artikel 16.46b
+
+1\. Dit artikel is van toepassing op projectactiviteiten in het kader van:
+
+- a. het mechanisme van gemeenschappelijke uitvoering, bedoeld in artikel 6 van het Protocol van Kyoto (JI), die buiten Nederland of buiten de Nederlandse exclusieve economische zone worden uitgevoerd;
+- b. het mechanisme voor schone ontwikkeling, bedoeld in artikel 12 van het Protocol van Kyoto (CDM).
+
+2\. Onze Minister van Economische Zaken en Klimaat kan op verzoek van de projectdeelnemer instemming verlenen met deelname aan projectactiviteiten als bedoeld in het eerste lid en de met betrekking tot die activiteiten overeenkomstig het Protocol van Kyoto genomen besluiten.
+
+3\. De instemming wordt in ieder geval geweigerd, indien:
+
+- a. de deelname door de projectdeelnemer aan de projectactiviteit niet voldoet aan de eisen die in het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten aan die deelname zijn gesteld;
+- b. de projectdeelnemer zijn hoofdvestiging niet heeft in een staat die de internationale overeenkomst, bedoeld in artikel 11ter, eerste lid, van de EG-richtlijn handel in broeikasgasemissierechten, heeft bekrachtigd, of in een staat of een subfederale of regionale entiteit die overeenkomstig artikel 25 van genoemde richtlijn aan het systeem van handel in broeikasgasemissierechten is gekoppeld, en
+- c. voor zover het gaat om projectactiviteiten voor het opwekken van elektriciteit door waterkracht met een opwekkingsvermogen van meer dan 20 MW: bij de projectactiviteit en de uitvoering daarvan de in artikel 11ter, zesde lid, van de EG-richtlijn handel in broeikasgasemissierechten bedoelde internationale normen en richtsnoeren, waaronder de richtlijnen van de Wereldcommissie Stuwdammen, niet in acht worden genomen.
+
+4\. Instemming kan worden geweigerd, indien:
+
+- a. van een andere projectactiviteit waarbij de projectdeelnemer is of was betrokken en waarvoor Onze Minister van Economische Zaken en Klimaat instemming heeft verleend, is gebleken dat niet is voldaan aan de eisen die in het derde lid met betrekking tot die uitvoering zijn gesteld;
+- b. niet wordt voldaan aan de regels, bedoeld in het vijfde lid.
+
+5\. Bij regeling van Onze Minister van Economische Zaken en Klimaat kunnen nadere regels worden gesteld met betrekking tot de instemming, bedoeld in het tweede lid, met deelname aan projectactiviteiten.
+
+6\. Een verleende instemming omvat mede de machtiging van de betrokken projectdeelnemer, voorzover een dergelijke machtiging op grond van de artikelen 6, derde lid, en 12, negende lid, van het Protocol van Kyoto en de overeenkomstig dat protocol genomen besluiten is vereist. Indien de eerste volzin van toepassing is, wordt in de beslissing op het verzoek aangegeven dat de instemming mede de machtiging omvat.
+
+7\. Een verleende instemming kan worden ingetrokken, indien niet meer wordt voldaan aan de eisen, gesteld in het derde lid, onder a of b, of, voor zover van toepassing, onder c, of de nadere regels, bedoeld in het vijfde lid.
+
+8\. Bij regeling van Onze Minister van Economische Zaken en Klimaat kan worden bepaald dat voor het verlenen van instemming een vergoeding is verschuldigd. In dat geval worden bij die regeling tevens nadere regels gesteld met betrekking tot de hoogte van de vergoeding en de wijze waarop deze moet worden betaald.
+
+9\. Onze Minister van Economische Zaken en Klimaat stelt bij hem berustende informatie over projectactiviteiten waarvoor hij instemming heeft verleend, voor het publiek beschikbaar. Artikel 5.1, eerste en tweede lid, van de Wet open overheid is van overeenkomstige toepassing.
+
+##### Artikel 16.46c
+
+Vervallen
+
+### Titel 16.3 — Stikstofoxiden en NO<sub>x</sub>-emissierechten
+
+#### Afdeling 16.3.1 — Algemeen
+
+##### Artikel 16.47
+
+Vervallen
+
+##### Artikel 16.47a
+
+Vervallen
+
+##### Artikel 16.48
+
+Vervallen
+
+#### Afdeling 16.3.2 — Vergunning
+
+##### Artikel 16.49
+
+Vervallen
+
+#### Afdeling 16.3.3 — Het ontstaan van NO<sub>x</sub>-emissierechten
+
+##### Artikel 16.50
+
+Vervallen
+
+#### Afdeling 16.3.4 — De inlevering van NO<sub>x</sub>-emissierechten, het compenseren van emissies in een ander kalenderjaar en de geldigheid van NO<sub>x</sub>-emissierechten
+
+##### Artikel 16.51
+
+Vervallen
+
+##### Artikel 16.52
+
+Vervallen
+
+##### Artikel 16.53
+
+Vervallen
+
+##### Artikel 16.54
+
+Vervallen
+
+##### Artikel 16.55
+
+Vervallen
+
+#### Afdeling 16.3.5 — De overgang van NO<sub>x</sub>-emissierechten
+
+##### Artikel 16.56
+
+Vervallen
+
+##### Artikel 16.57
+
+Vervallen
+
+#### Afdeling 16.3.6 — Registratie van NO<sub>x</sub>-emissierechten
+
+##### Artikel 16.58
+
+Vervallen
+
+##### Artikel 16.59
+
+Vervallen
+
+##### Artikel 16.60
+
+Vervallen
+
+##### Artikel 16.61
+
+Vervallen
+
+#### Afdeling 16.3.7 — Overige bepalingen
+
+##### Artikel 16.62
+
+Vervallen
+
+## Hoofdstuk 16a — De emissie van broeikasgas bij elektriciteitsopwekking
+
+### Artikel 16a.1
+
+1\. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+- *elektriciteitsemissieverslag:* verslag betreffende de emissies in een kalenderjaar als gevolg van elektriciteitsopwekking;
+
+- *elektriciteitsmonitoringsplan:* plan betreffende de bepaling en registratie van de emissies als gevolg van elektriciteitsopwekking;
+
+- *elektriciteitsjaarvracht:* het aantal ton kooldioxide-equivalent dat is veroorzaakt als gevolg van het opwekken van elektriciteit in de betreffende broeikasgasinstallatie in het betreffende kalenderjaar, waarbij een gedeelte van een ton rekenkundig wordt afgerond op een hele ton;
+
+- *noodstroomaggregaat:t* echnische eenheid die uitsluitend wordt gebruikt om elektriciteit op te wekken indien de gebruikelijke primaire elektriciteitsvoorziening uitvalt en niet meer dan 50 uren per jaar in werking is;
+
+- *Restgassen:* afgas als bedoeld in artikel 2, elfde lid, van de Verordening kosteloze toewijzing van emissierechten;
+
+- *warmtekrachtkoppeling:* gelijktijdige opwekking in een proces van thermische energie en elektrische of mechanische energie.
+
+2\. Artikel 16.1, tweede lid, is van overeenkomstige toepassing.
+
+### Artikel 16a.2
+
+1\. Dit hoofdstuk is van toepassing op broeikasgasinstallaties als bedoeld in de artikelen 16.2, eerste lid, en 16.3, waarin door brandstofverbruik of grondstofgebruik elektriciteit wordt opgewekt, met uitzondering van broeikasgasinstallaties waarin uitsluitend elektriciteit wordt opgewekt door middel van een noodstroomaggregaat.
+
+2\. Artikel 16.2, tweede lid, is van overeenkomstige toepassing.
+
+### Artikel 16a.3
+
+1\. De exploitant van een broeikasgasinstallatie, monitort de emissie van broeikasgas als gevolg van de opwekking van elektriciteit op basis van een elektriciteitsmonitoringsplan, tenzij het tarief, bedoeld in artikel 71f, eerste lid, van de Wet belastingen op milieugrondslag, nihil is.
+
+2\. Het elektriciteitsmonitoringsplan of een wijziging daarvan behoeft goedkeuring van het bestuur van de emissieautoriteit.
+
+3\. De artikelen 16.6, eerste en derde lid, 16.7, 16.9, 16.11, 16.12, 16.18 en 16.19, eerste lid zijn van overeenkomstige toepassing met dien verstande dat telkens:
+
+- a. voor «vergunning» wordt gelezen «goedkeuring van een elektriciteitsmonitoringsplan»;
+- b. voor «vergunninghouder» wordt gelezen «de exploitant van een broeikasgasinstallatie»;
+- c. voor «monitoringsplan» wordt gelezen «elektriciteitsmonitoringsplan»;
+- d. voor «emissieverslag» wordt gelezen «elektriciteitsemissieverslag»;
+- e. voor «Verordening monitoring en rapportage emissiehandel» wordt gelezen «de regels gesteld bij of krachtens hoofdstuk 16a».
+
+4\. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
+
+- a. het melden van een wijziging of een tijdelijke afwijking van het elektriciteitsmonitoringsplan aan het bestuur van de emissieautoriteit;
+- b. het goedkeuren van een wijziging van het elektriciteitsmonitoringsplan.
+
+### Artikel 16a.4
+
+Het bestuur van de emissieautoriteit weigert de goedkeuring van een elektriciteitsmonitoringsplan indien het elektriciteitsmonitoringsplan niet voldoet aan de eisen die daaraan gesteld zijn bij of krachtens dit hoofdstuk of het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de aanvrager in staat is het elektriciteitsmonitoringsplan naar behoren uit te voeren.
+
+### Artikel 16a.5
+
+1\. De exploitant van een broeikasgasinstallatie wijzigt het elektriciteitsmonitoringsplan zo spoedig mogelijk, indien:
+
+- a. de regels gesteld bij of krachtens hoofdstuk 16a daartoe aanleiding geven;
+- b. het bestuur van de emissieautoriteit daarom verzoekt.
+
+2\. De exploitant van een broeikasgasinstallatie legt op verzoek van het bestuur van de emissieautoriteit de meest actuele versie van het elektriciteitsmonitoringsplan over.
+
+### Artikel 16a.6
+
+1\. De exploitant van een broeikasgasinstallatie dient elk jaar een elektriciteitsemissieverslag in bij de emissieautoriteit gelijktijdig met het emissieverslag, bedoeld in artikel 16.1, derde lid, tenzij het tarief, bedoeld in artikel 71f, eerste lid, van de Wet belastingen op milieugrondslag, nihil is.
+
+2\. Het elektriciteitsemissieverslag bevat de elektriciteitsjaarvracht.
+
+### Artikel 16a.7
+
+1\. Het bestuur van de emissieautoriteit kan uiterlijk op 30 september van het kalenderjaar waarin het elektriciteitsemissieverslag moet worden ingediend, vaststellen dat dit verslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld. Het bestuur van de emissieautoriteit kan de beslissing voor ten hoogste drie maanden verdagen. Van de verdaging wordt voor het in de eerste volzin genoemde tijdstip schriftelijk mededeling gedaan aan degene die het elektriciteitsemissieverslag heeft ingediend. De mededeling omvat de reden voor de verdaging.
+
+2\. Het bestuur van de emissieautoriteit kan na het tijdstip, genoemd in het eerste lid, onderscheidenlijk, indien toepassing is gegeven aan de tweede volzin van dat lid, na het tijdstip dat met toepassing van die volzin is vastgesteld alsnog vaststellen dat het elektriciteitsemissieverslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld, indien:
+
+- a. degene bij het bestuur van de emissieautoriteit een elektriciteitsemissieverslag heeft ingediend, in dat verslag onjuiste of onvolledige gegevens heeft verstrekt en verstrekking van juiste of volledige gegevens zou hebben geleid tot de vaststelling van een andere elektriciteitsjaarvracht;
+- b. het betrokken elektriciteitsemissieverslag anderszins onjuist was en de betrokken persoon dit wist of behoorde te weten.
+
+3\. De bevoegdheid, bedoeld in het tweede lid, vervalt tien jaren na afloop van het kalenderjaar, bedoeld in het eerste lid.
+
+### Artikel 16a.8
+
+1\. Bij de opwekking van elektriciteit zonder een warmtekrachtkoppeling, bepaalt en registreert de exploitant van een broeikasgasinstallatie zijn elektriciteitsjaarvracht op basis van het brandstofverbruik en het grondstofverbruik overeenkomstig het goedgekeurde elektriciteitsmonitoringsplan.
+
+2\. Bij de opwekking van elektriciteit met een warmtekrachtkoppeling, bepaalt en registreert de exploitant van een broeikasgasinstallatie zijn elektriciteitsjaarvracht op basis van het brandstofverbruik, de elektriciteitsopwekking en de warmteopwekking overeenkomstig het goedgekeurde elektriciteitsmonitoringsplan.
+
+3\. Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden met betrekking tot:
+
+- a. de bepaling en registratie van de elektriciteitsjaarvracht, bedoeld in het eerste en tweede lid;
+- b. de bepaling en registratie van de elektriciteitsjaarvracht bij de opwekking van elektriciteit door middel van restgassen.
+
+4\. Het bestuur van de emissieautoriteit kan de elektriciteitsjaarvracht van een inrichting op basis van een conservatieve schatting ambtshalve vaststellen indien:
+
+- a. het elektriciteitsemissieverslag niet of niet tijdig bij de emissieautoriteit is ingediend;
+- b. het bestuur van de emissieautoriteit ingevolge artikel 16a.7, eerste of tweede lid, heeft verklaard dat het elektriciteitsemissieverslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld.
+
+### Artikel 16a.9
+
+1\. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot broeikasgasinstallaties als bedoeld in artikel 16a.2, eerste lid, regels worden gesteld die nodig zijn in het belang van de goede werking van het monitoren van emissie als gevolg van elektriciteitsopwekking. Bij onderscheidenlijk krachtens de maatregel kan worden bepaald dat bij onderscheidenlijk krachtens de maatregel gestelde regels slechts gelden in daarbij aangegeven categorieën van gevallen.
+
+2\. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de verificatie van het elektriciteitsemissieverslag.
+
+## Hoofdstuk 16b — Emissie van broeikasgas door de industrie
+
+### Titel 16b.1 — Algemeen
+
+#### Artikel 16b.1
+
+1\. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+- *broeikasgasinstallatie:* broeikasgasinstallatie als bedoeld in de artikelen 16.1, tweede lid, en 16.3;
+
+- *dispensatierecht:* dispensatierecht als bedoeld in artikel 71h, onderdeel d, van de Wet belasting op milieugrondslag;
+
+- *historisch industrieel emissieverslag:* verslag ten behoeve van het vaststellen van het historisch activiteitenniveau van afvalverbrandingsinstallaties en lachgasinstallaties;
+
+- *industrieel emissieverslag:* verslag betreffende de industriële jaarvracht in een kalenderjaar als bedoeld in artikel 16b.3;
+
+- *industriële jaarvracht:* industriële jaarvracht als bedoeld in artikel 71h, onderdeel h, van de Wet belastingen op milieugrondslag;
+
+- *industrieel monitoringsplan:* plan betreffende de bepaling en registratie van de industriële jaarvracht;
+
+- *restgassen:* afgas als bedoeld in artikel 2, elfde lid, van de Verordening kosteloze toewijzing van emissierechten.
+
+2\. Artikel 16.1, derde lid, is van toepassing.
+
+#### Artikel 16b.2
+
+Dit hoofdstuk is van toepassing op de exploitant van een industriële installatie als bedoeld in artikel 71h, onderdeel g, in samenhang met de artikelen 71i en 71k, tweede lid, van de Wet belastingen op milieugrondslag.
+
+### Titel 16b.2 — Industriële jaarvracht
+
+#### Afdeling 16b.2.1 — Industrieel emissieverslag
+
+##### Artikel 16b.3
+
+1\. De exploitant van een industriële installatie dient na afloop van elk jaar op uiterlijk 31 maart een industrieel emissieverslag in bij het bestuur van de emissieautoriteit.
+
+2\. Het industrieel emissieverslag bevat de industriële jaarvracht.
+
+3\. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de bepaling en registratie van de industriële jaarvracht, het industrieel emissieverslag, het historisch industrieel emissieverslag en de verificatie van deze emissieverslagen.
+
+##### Artikel 16b.4
+
+De exploitant van een industriële installatie bepaalt de industriële jaarvracht op basis van:
+
+- a. de gegevens uit het emissieverslag dan wel de schatting hiervan door het bestuur van de emissieautoriteit als bedoeld in de artikel 70 van de Verordening monitoring en rapportage emissiehandel;
+- b. de gegevens uit het verslag over het activiteitsniveau, bedoeld in artikel 3, eerste lid, van de Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau dan wel de schatting hiervan door het bestuur van de emissieautoriteit, bedoeld in de artikel 3, vierde lid, van de Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau; of
+- c. de monitoring op basis van een industrieel monitoringsplan als bedoeld in afdeling 16b.2.2.
+
+##### Artikel 16b.5
+
+1\. Bij een warmtekrachtkoppeling wordt de industriële jaarvracht bepaald en geregistreerd op basis van het brandstofverbruik, de elektriciteitsopwekking en de warmteopwekking.
+
+2\. Bij ministeriële regeling worden regels gesteld met betrekking tot de bepaling en registratie van de industriële jaarvracht. Deze regels kunnen betrekking hebben op warmtekrachtkoppelingen, bij het gebruik van restgassen en de overdracht van warmte naar een andere industriële installatie.
+
+##### Artikel 16b.6
+
+1\. Het bestuur van de emissieautoriteit kan uiterlijk op 30 september van het kalenderjaar waarin het industrieel emissieverslag moet worden ingediend, vaststellen dat dit verslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld. Het bestuur van de emissieautoriteit kan de beslissing voor ten hoogste drie maanden verdagen. Van de verdaging wordt voor het in de eerste volzin genoemde tijdstip schriftelijk mededeling gedaan aan degene die het industrieel emissieverslag heeft ingediend. De mededeling omvat de reden voor de verdaging.
+
+2\. Het bestuur van de emissieautoriteit kan na het tijdstip, genoemd in het eerste lid, onderscheidenlijk, indien toepassing is gegeven tweede volzin van dat lid, na het tijdstip dat met toepassing van die volzin is vastgesteld alsnog vaststellen dat het industrieel emissieverslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld, indien:
+
+- a. degene die bij het bestuur van de emissieautoriteit een industrieel emissieverslag heeft ingediend, in dat verslag onjuiste of onvolledige gegevens heeft verstrekt en verstrekking van juiste of volledige gegevens zou hebben geleid tot de vaststelling van een andere industriële jaarvracht;
+- b. het betrokken industrieel emissieverslag anderszins onjuist was en de betrokken persoon dit wist of behoorde te weten.
+
+3\. De bevoegdheid, bedoeld in het tweede lid, vervalt tien jaren na afloop van het kalenderjaar, bedoeld in het eerste lid.
+
+4\. Het bestuur van de emissieautoriteit kan de industriële jaarvracht van een industriële installatie op basis van een conservatieve schatting ambtshalve vaststellen indien:
+
+- a. het industrieel emissieverslag niet of niet tijdig bij de emissieautoriteit is ingediend;
+- b. het bestuur van de emissieautoriteit heeft verklaard dat het industrieel emissieverslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld.
+
+#### Afdeling 16b.2.2 — Industrieel monitoringsplan
+
+##### Artikel 16b.7
+
+1\. De exploitant stelt, voor zover dat noodzakelijk is, voor een industriële installatie een industrieel monitoringsplan op dat hij indient bij het bestuur van de emissieautoriteit.
+
+2\. Een industrieel monitoringsplan of een wijziging daarvan behoeft goedkeuring van het bestuur van de emissieautoriteit.
+
+3\. De artikelen 16.7, 16.9, 16.11, 16.18 en 16.19 zijn van overeenkomstige toepassing met dien verstande dat telkens:
+
+- a. voor «broeikasgasinstallatie» wordt gelezen «industriële installatie»;
+- b. voor «emissieverslag» wordt gelezen «industrieel emissieverslag»;
+- c. voor «monitoringsplan» wordt gelezen «industrieel monitoringsplan»;
+- d. voor «vergunning» wordt gelezen «goedkeuring van een industrieel monitoringsplan»;
+- e. voor «vergunninghouder» wordt gelezen «de exploitant»;
+- f. voor «bij de Verordening monitoring en rapportage emissiehandel of bij of krachtens dit hoofdstuk, hoofdstuk 8 van deze wet» wordt gelezen «bij of krachtens dit hoofdstuk, de hoofdstukken 8, 16 of 16a van deze wet».
+
+4\. Bij ministeriële regeling worden regels gesteld die nodig zijn in het belang van de goede werking van het monitoren van emissie van de industriële jaarvracht of in welke gevallen een monitoringsplan in elk geval noodzakelijk is.
+
+5\. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een goedkeuring van een industrieel monitoringsplan moet geschieden, de gegevens en de bescheiden die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen.
+
+##### Artikel 16b.8
+
+1\. Het industrieel monitoringplan bestaat uit een gedetailleerde, volledige en transparante documentatie over de monitoringmethode voor een industriële installatie.
+
+2\. Bij ministeriële regeling worden regels gesteld aan de inhoud van het industrieel monitoringplan. De regels zijn voor zover mogelijk in overeenstemming met de Verordening monitoring en rapportage emissiehandel.
+
+##### Artikel 16b.9
+
+Het bestuur van de emissieautoriteit weigert de goedkeuring van een industrieel monitoringsplan indien het industrieel monitoringsplan niet voldoet aan de eisen die daaraan gesteld zijn bij of krachtens dit hoofdstuk of indien het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de aanvrager in staat is het industrieel monitoringsplan naar behoren uit te voeren.
+
+##### Artikel 16b.10
+
+1\. De exploitant wijzigt het industrieel monitoringsplan zo spoedig mogelijk, indien:
+
+- a. de regels gesteld bij of krachtens dit hoofdstuk daartoe aanleiding geven;
+- b. het bestuur van de emissieautoriteit daarom verzoekt.
+
+2\. De exploitant legt op verzoek van het bestuur van de emissieautoriteit de meest actuele versie van het industrieel monitoringsplan over.
+
+3\. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
+
+- a. het melden van een wijziging of een tijdelijke afwijking van het industrieel monitoringsplan aan het bestuur van de emissieautoriteit, en
+- b. het goedkeuren van een wijziging van een industrieel monitoringsplan.
+
+### Titel 16b.3 — De dispensatierechten
+
+#### Afdeling 16b.3.1 — Het register dispensatierechten industrie
+
+##### Artikel 16b.11
+
+1\. Er is een elektronisch register dispensatierechten industrie.
+
+2\. Het register wordt beheerd door het bestuur van de emissieautoriteit.
+
+3\. Het register bestaat uit rekeningen als bedoeld in artikel 16b.13, eerste lid.
+
+4\. Het bestuur van de emissieautoriteit draagt er zorg voor dat alle besluiten en verslagen die verband houden met de hoeveelheid dispensatierechten onverwijld op passende wijze openbaar worden gemaakt. Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing.
+
+##### Artikel 16b.12
+
+1\. Het bestuur van de emissieautoriteit kan voorwaarden aan het gebruik van het register vaststellen.
+
+2\. Bij ministeriële regeling kunnen regels worden gesteld over de werking, organisatie, beschikbaarheid en beveiliging van het register.
+
+##### Artikel 16b.13
+
+1\. Het bestuur van de emissieautoriteit opent ambtshalve voor iedere industriële installatie met een goedgekeurd monitoringsplan of industrieel monitoringsplan één rekening op naam van de exploitant.
+
+2\. Bij ministeriële regeling worden regels gesteld over het openen, bijhouden en beheer van de rekening.
+
+##### Artikel 16b.14
+
+1\. Het bestuur van de emissieautoriteit kan bij een vermoeden van fraude of misbruik of indien niet wordt voldaan aan de bij of krachtens deze titel gestelde eisen voor het hebben van een rekening in het register of voor het gebruik van die rekening:
+
+- a. een rekening blokkeren;
+- b. een rekening opheffen; of
+- c. het aantal dispensatierechten voor een of meer rekeningen terugzetten op het aantal dispensatierechten voor die rekeningen op een eerder tijdstip waarin de fraude of misbruik zich niet voordeed.
+
+2\. Bij ministeriele regeling kunnen regels worden gesteld over de toepassing van het eerste lid.
+
+##### Artikel 16b.15
+
+1\. Bij ministeriële regeling kan worden bepaald dat voor het openen en bijhouden van een rekening een vergoeding verschuldigd is overeenkomstig de bij die regeling te stellen regels.
+
+2\. Bij de regeling, bedoeld in het eerste lid:
+
+- a. wordt de hoogte van de vergoeding vastgesteld, welke niet hoger is dan noodzakelijk is ter dekking van de ten laste van de emissieautoriteit komende kosten van het verrichten van werkzaamheden waarvoor de vergoeding is verschuldigd, en
+- b. worden regels gesteld omtrent de wijze waarop de vergoeding wordt betaald.
+
+#### Afdeling 16b.3.2 — Het ontstaan van dispensatierechten
+
+##### Artikel 16b.16
+
+1\. De rekening van een exploitant voor een industriële installatie onderscheidt per kalenderjaar het aantal dispensatierechten dat voor ieder kalenderjaar voor die industriële installatie is opgebouwd.
+
+2\. Bij aanvang van ieder kalenderjaar bedraagt het aantal dispensatierechten voor dat kalenderjaar nul.
+
+3\. Het bestuur van de emissieautoriteit stort na afloop van het kalenderjaar op uiterlijk 30 april het aantal dispensatierechten op de rekening in het register dispensatierechten industrie voor dat kalenderjaar. De storting is overeenkomstig het verslag over het aantal dispensatierechten van de exploitant, bedoeld in artikel 16b.17, eerste lid.
+
+4\. Het bestuur van de emissieautoriteit stort dispensatierechten op of boekt dispensatierechten af van een rekening op basis van een ambtshalve vaststelling van de dispensatierechten als bedoeld in artikel 16b.24, eerste lid, nadat die vaststelling is onherroepelijk geworden.
+
+5\. De exploitant kan na afloop van het kalenderjaar in de periode van 1 mei tot en met 31 augustus dispensatierechten verhandelen overeenkomstig afdeling 16b.3.3.
+
+##### Artikel 16b.17
+
+1\. De exploitant dient uiterlijk 31 maart bij het bestuur van de emissieautoriteit een verslag in over het aantal dispensatierechten dat hij heeft berekend. Bij ministeriële regeling kunnen hierover nadere regels worden gesteld. De nadere regels kunnen betrekking hebben op de verificatie van het verslag.
+
+2\. Bij ministeriële regeling worden regels gesteld over de berekening van het aantal dispensatierechten op basis van onder andere de reductiefactor, de correctiefactor voor broeikasgasinstallaties voor de verbranding van stedelijk afval en de gegevens die zijn opgenomen in:
+
+- a. het verslag over het activiteitsniveau, bedoeld in artikel 3, eerste lid, van de Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau dan wel de schatting hiervan door het bestuur van de emissieautoriteit als bedoeld in de artikel 3, vierde lid, van de Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau;
+- b. het verslag met referentiegegevens, bedoeld in artikel 4, tweede lid, onderdeel a, in samenhang met artikel 15, eerste en tweede lid, van de Verordening kosteloze toewijzing van emissierechten;
+- c. het industriële emissieverslag of de ambtshalve vaststelling van de industriële jaarvracht als bedoeld in artikel 16b.6, vierde lid; of
+- d. het verslag over het industriële activiteitsniveau dat is gemonitord op basis van een industrieel monitoringsmethodiekplan.
+
+3\. De reductiefactor bedraagt 1,023.
+
+4\. De correctiefactor voor broeikasgasinstallaties voor de verbranding van stedelijk afval bedraagt voor het jaar 2026 0,85, voor het jaar 2027 0,70, voor het jaar 2028 0,55, voor het jaar 2029 0,40, voor het jaar 2030 0,25, voor het jaar 2031 0,17, voor het jaar 2032 0,09 en voor het jaar 2033 en de daaropvolgende jaren 0.
+
+5\. De regels zijn voor zover mogelijk in overeenstemming met het vaststellen van de voorlopige kosteloze toewijzing van broeikasgasemissierechten in de Verordening kosteloze toewijzing van emissierechten en de Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau, in ieder geval met dien verstande dat:
+
+- a. geen dispensatierechten worden berekend voor de export van meetbare warmte voor stadsverwarming;
+- b. bij een product gerelateerd activiteitsniveau in aanmerking wordt genomen het actuele activiteitsniveau betreffende het kalenderjaar in plaats van het historische activiteitsniveau;
+- c. bij een product gerelateerd activiteitsniveau met uitwisselbaarheid van elektriciteit en brandstof voor een installatie gebruik wordt gemaakt van de voor die installatie beschikbare historische correctiefactor in de periode 2014–2018;
+- d. het warmte gerelateerd activiteitsniveau ook meetbare warmte kan omvatten die is geproduceerd op basis van elektriciteit;
+- e. bij een activiteitsniveau, anders dan onder b, in aanmerking wordt genomen:
+  - 1. het jaarlijks activiteitsniveau in plaats van het historisch activiteitsniveau; dan wel
+  - 2. het historisch activiteitsniveau indien het jaarlijks activiteitsniveau minder dan 15% lager of hoger is dan het historisch activiteitsniveau; dan wel
+  - 3. het historisch activiteitsniveau als het jaarlijks activiteitsniveau meer dan 15% lager is als het historisch activiteitsniveau als gevolg van een toename van de energie efficiëntie of reductiemaatregelen, dan wel 15% hoger is als het historische activiteitsniveau als gevolg van een afname van de energie efficiëntie of reductiemaatregelen.
+- f. generiek de benchmarks die volgen uit deze verordeningen met een voor alle benchmarks gelijk jaarlijks verminderingspercentage kunnen worden bijgewerkt;
+- g. van de regels in deze verordeningen in elk geval kan worden afgeweken indien dat wenselijk is ter voorkoming van onnodige administratieve lasten, onnodige uitvoeringshandelingen of manipulatie of misbruik van het activiteitsniveau.
+
+##### Artikel 16b.18
+
+Indien een exploitant voor een industriële installatie het verslag over het aantal dispensatierechten niet of niet tijdig heeft ingediend bedraagt het aantal dispensatierechten nihil.
+
+##### Artikel 16b.19
+
+1\. De exploitant stelt, voor zover dat noodzakelijk is om het aantal dispensatierechten te berekenen, voor een industriële installatie een industrieel monitoringsmethodiekplan op dat hij indient bij het bestuur van de emissieautoriteit.
+
+2\. Het industrieel monitoringsmethodiekplan of een wijziging daarvan behoeft goedkeuring van het bestuur van de emissieautoriteit.
+
+3\. De artikelen 16.7, 16.9, 16.11 en 16.19 zijn van overeenkomstige toepassing met dien verstande dat telkens:
+
+- a. voor «broeikasgasinstallatie» wordt gelezen «industriële installatie»;
+- b. voor «emissieverslag» wordt gelezen «verslag over het industriële activiteitsniveau»;
+- c. voor «monitoringsplan» wordt gelezen «industrieel monitoringsmethodiekplan»;
+- d. voor «vergunning» wordt gelezen «goedkeuring van een industrieel monitoringsmethodiekplan»;
+- e. voor «vergunninghouder» wordt gelezen «de exploitant»;
+- f. voor «bij de Verordening monitoring en rapportage emissiehandel of bij of krachtens dit hoofdstuk, hoofdstuk 8 van deze wet» wordt gelezen «bij of krachtens dit hoofdstuk, de hoofdstukken 8, 16 of 16a van deze wet».
+
+4\. Bij ministeriële regeling worden regels gesteld over de wijze waarop de aanvraag om een goedkeuring van een industrieel monitoringsmethodiekplan moet geschieden, de gegevens en de bescheiden die door de aanvrager moeten worden verstrekt met het oog op de beslissing op de aanvraag, en de wijze waarop die gegevens moeten worden verkregen. Deze regels zijn, voor zover mogelijk, in overeenstemming met de artikelen 4, tweede lid, onderdeel b, 5, tweede lid, 8, 9 en 10 van de Verordening kosteloze toewijzing van emissierechten.
+
+##### Artikel 16b.20
+
+1\. Het industrieel monitoringsmethodiekplan bestaat uit een gedetailleerde, volledige en transparante documentatie over de monitoringmethodiek voor een industriële installatie.
+
+2\. Bij ministeriële regeling kunnen nadere regels worden gesteld over de inhoud van het industrieel monitoringsmethodiekplan. De regels zijn voor zover mogelijk in overeenstemming met het vaststellen van de voorlopige kosteloze toewijzing van broeikasgasemissierechten in de Verordening kosteloze toewijzing van emissierechten en de Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau, met dien verstande dat van de regels in deze Verordeningen kan worden afgeweken indien dat wenselijk is ter voorkoming van onnodige administratieve lasten, onnodige uitvoeringshandelingen of manipulatie of misbruik van het industrieel monitoringsmethodiekplan.
+
+##### Artikel 16b.21
+
+Het bestuur van de emissieautoriteit weigert de goedkeuring van een industrieel monitoringsmethodiekplan indien het industrieel monitoringsmethodiekplan niet voldoet aan de eisen die daaraan gesteld zijn bij of krachtens dit hoofdstuk of het bestuur van de emissieautoriteit van oordeel is dat onvoldoende is gewaarborgd dat de aanvrager in staat is het industrieel monitoringsmethodiekplan naar behoren uit te voeren.
+
+##### Artikel 16b.22
+
+1\. De exploitant wijzigt het industrieel monitoringsmethodiekplan zo spoedig mogelijk, indien:
+
+- a. de regels gesteld bij of krachtens hoofdstuk 16b daartoe aanleiding geven; of
+- b. het bestuur van de emissieautoriteit daarom verzoekt.
+
+2\. De exploitant legt op verzoek van het bestuur van de emissieautoriteit de meest actuele versie van het industrieel monitoringsmethodiekplan over.
+
+3\. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
+
+- a. het melden van een wijziging of een tijdelijke afwijking van het industrieel monitoringsmethodiekplan aan het bestuur van de emissieautoriteit; en
+- b. het goedkeuren van een wijziging van een industrieel monitoringsmethodiekplan.
+
+4\. Deze regels zijn, voor zover mogelijk, in overeenstemming met artikel 9 van de Verordening kosteloze toewijzing van emissierechten.
+
+##### Artikel 16b.23
+
+1\. Het verslag over het industriële activiteitsniveau bevat het industriële activiteitsniveau van de industriële installatie. Het maakt onderdeel uit van het verslag over het aantal dispensatierechten, bedoeld in artikel 16b.17.
+
+2\. Bij ministeriele regeling worden regels gesteld over de inhoud van het verslag over het industriële activiteitsniveau. Deze regels zijn, voor zover mogelijk, in overeenstemming met artikel 4, tweede lid, onderdeel a, van de Verordening kosteloze toewijzing van emissierechten. De regels kunnen betrekking hebben op de verificatie van het verslag over het industriële activiteitsniveau.
+
+##### Artikel 16b.24
+
+1\. Het bestuur van de emissieautoriteit kan uiterlijk op 30 september van het kalenderjaar waarin het verslag over het aantal dispensatierechten moet worden ingediend, vaststellen dat dit verslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld. Het bestuur van de emissieautoriteit kan de beslissing voor ten hoogste drie maanden verdagen. Van de verdaging wordt voor het in de eerste volzin genoemde tijdstip schriftelijk mededeling gedaan aan degene die het verslag heeft ingediend. De mededeling omvat de reden voor de verdaging.
+
+2\. Het bestuur van de emissieautoriteit kan na het tijdstip, genoemd in het eerste lid, onderscheidenlijk, indien toepassing is gegeven tweede volzin van dat lid, na het tijdstip dat met toepassing van die volzin is vastgesteld alsnog vaststellen dat het verslag niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld, indien:
+
+- a. degene bij het bestuur van de emissieautoriteit een verslag heeft ingediend, in dat verslag onjuiste of onvolledige gegevens heeft verwerkt en de verwerking van juiste of volledige gegevens zou hebben geleid tot de storting van een ander aantal dispensatierechten; of
+- b. het betrokken verslag anderszins onjuist was en de betrokken persoon dit wist of behoorde te weten.
+
+3\. De bevoegdheid, bedoeld in het tweede lid, vervalt tien jaren na afloop van het kalenderjaar, bedoeld in het eerste lid.
+
+4\. Het bestuur van de emissieautoriteit kan het aantal dispensatierechten van een industriële installatie op basis van een conservatieve schatting ambtshalve vaststellen indien het bestuur van de emissieautoriteit heeft verklaard dat het verslag over het aantal dispensatierechten niet voldoet aan de eisen die daaraan bij of krachtens dit hoofdstuk zijn gesteld.
+
+#### Afdeling 16b.3.3 — Overdracht van dispensatierechten
+
+##### Artikel 16b.25
+
+Een dispensatierecht kan uitsluitend in het register dispensatierechten industrie worden gehouden.
+
+##### Artikel 16b.26
+
+1\. Een dispensatierecht is vatbaar voor overdracht indien de overdragende exploitant en de ontvangende exploitant ieder op hun naam een rekening hebben in het register.
+
+2\. De overdracht vindt uitsluitend plaats in de periode van 1 mei tot en met 31 augustus van het jaar volgend op het kalenderjaar waarover de dispensatierechten zijn ontstaan.
+
+3\. Een dispensatierecht is ook vatbaar voor andere overgang. Het eerste lid is van overeenkomstige toepassing.
+
+##### Artikel 16b.27
+
+1\. Overdracht van een of meer dispensatierechten kan niet leiden tot een aantal dispensatierechten dat minder is dan de industriële jaarvracht van dat kalenderjaar.
+
+2\. Overdracht van een of meer dispensatierechten is niet toegestaan, indien het aantal dispensatierechten op een rekening minder is dan de industriële jaarvracht van dat kalenderjaar.
+
+3\. Exploitanten van broeikasgasinstallaties voor de verbranding van stedelijk afval kunnen uitsluitend dispensatierechten leveren aan en ontvangen van andere exploitanten van broeikasgasinstallaties voor de verbranding van stedelijk afval.
+
+##### Artikel 16b.28
+
+1\. De voor overdracht van een dispensatierecht vereiste levering geschiedt door:
+
+- a. afschrijving van het dispensatierecht van de rekening die in het register op naam staat van de exploitant die de dispensatierechten overdraagt; en
+- b. bijschrijving op de rekening die in het register op naam staat van de exploitant die de dispensatierechten verkrijgt.
+
+2\. Het eerste lid is van overeenkomstige toepassing op elke overgang anders dan overdracht.
+
+3\. Elke overgang anders dan overdracht werkt tegenover derden eerst nadat de overgang in het register is geregistreerd.
+
+##### Artikel 16b.29
+
+1\. Nietigheid of vernietiging van de overeenkomst die tot de overdracht heeft geleid, of onbevoegdheid van degene die overdraagt, heeft, nadat de overdracht is voltooid, geen gevolgen voor de af- en bijschrijvingen van de dispensatierechten in het register dispensatierechten.
+
+2\. Elk voorbehoud met betrekking tot de overdracht is uitgewerkt op het moment dat de af- en bijschrijving van de dispensatierechten in het register dispensatierechten tot stand is gekomen.
+
+3\. Indien het bestuur van de emissieautoriteit ambtshalve het aantal dispensatierechten heeft vastgesteld als bedoeld in artikel 16b.24, vierde lid, heeft dat geen gevolgen voor de af- en bijschrijving van dispensatierechten die in het register dispensatierechten tot stand zijn gekomen. Deze ambtshalve vaststelling kan leiden tot een aantal dispensatierechten in het register dispensatierechten dat lager is dan de industriële jaarvracht van dat kalenderjaar.
+
+##### Artikel 16b.30
+
+1\. In afwijking van artikel 288 van Boek 3 van het Burgerlijk Wetboek kan op een dispensatierecht geen recht van pand worden gevestigd.
+
+2\. Op een dispensatierecht kan geen recht van vruchtgebruik worden gevestigd.
+
+3\. Een dispensatierecht is niet vatbaar voor beslag.
+
+## Hoofdstuk 16c — Mechanisme voor koolstofcorrectie aan de grens
+
+### Titel 16c.1 — Overgangsperiode
+
+#### Artikel 16c.1
+
+Een importeur als bedoeld in artikel 3, onderdeel 15, van de Verordening koolstofcorrectie aan de grens, of in de situaties die onder artikel 32 van die verordening vallen, een overeenkomstig artikel 18 van de Verordening (EU) nr. 952/2013 aangewezen indirecte douanevertegenwoordiger, voldoet tijdig en volledig aan de rapportageverplichting, bedoeld in artikel 35, eerste lid, van die verordening.
+
+### Titel 16c.2 — Nadere operationalisering
+
+#### Artikel 16c.2
+
+Het bestuur van de emissieautoriteit wisselt alle informatie uit als bedoeld in artikel 11, tweede lid, van de Verordening koolstofcorrectie aan de grens.
+
+#### Artikel 16c.3
+
+1\. Het is verboden in strijd te handelen met de volgende bepalingen van de Verordening koolstofcorrectie aan de grens: de artikelen 5, zevende lid, 6, eerste tot en met vijfde lid, 7, vijfde en zesde lid, 8, eerste lid, 9, tweede en derde lid, en 22, tweede lid.
+
+2\. Het is eveneens verboden in strijd te handelen met de artikelen 4 en 22, eerste lid, van de Verordening koolstofcorrectie aan de grens.
+
+3\. Het is voorts verboden in strijd te handelen met bij ministeriële regeling aan te wijzen voorschriften, gesteld bij of krachtens de Verordening koolstofcorrectie aan de grens.
+
+#### Artikel 16c.4
+
+1\. Het bestuur van de emissieautoriteit, de inspecteur of ontvanger, bedoeld in artikel 1:3, eerste lid, onderdeel c, van de Algemene Douanewet, en Onze Minister van Financiën verstrekken elkaar op verzoek de gegevens die nodig zijn voor de uitvoering van de Verordening koolstofcorrectie aan de grens.
+
+2\. Het bestuur van de emissieautoriteit kan informatie als bedoeld in artikel 13, eerste lid, van de Verordening koolstofcorrectie aan de grens verstrekken aan een andere persoon, voor zover dat noodzakelijk is voor de uitvoering van de Verordening koolstofcorrectie aan de grens en de vertrouwelijke omgang met deze informatie door deze andere persoon is geborgd.
+
+#### Artikel 16c.5
+
+Bij ministeriële regeling kunnen regels worden gesteld voor de uitvoering van een bindend onderdeel van:
+
+- a. de Verordening koolstofcorrectie aan de grens;
+- b. EU-rechtshandelingen die krachtens de Verordening koolstofcorrectie aan de grens zijn vastgesteld.
+
+### Titel 16c.3 — Verkoop en terugkoop van CBAM-certificaten
+
+#### Artikel 16c.6
+
+1\. Onze Minister van Financiën is belast met de verkoop en terugkoop van CBAM-certificaten, bedoeld in de artikelen 20 en 23 van de Verordening koolstofcorrectie aan de grens.
+
+2\. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van de verkoop en terugkoop van CBAM-certificaten.
+
+## Hoofdstuk 17 — Maatregelen in bijzondere omstandigheden
+
+### Titel 17.1 — Maatregelen bij een ongewoon voorval
+
+#### Artikel 17.1
+
+Vervallen
+
+#### Artikel 17.2
+
+Vervallen
+
+#### Artikel 17.3
+
+Vervallen
+
+#### Artikel 17.4
+
+1\. Indien dat door een ongewoon voorval nodig is, wordt in het belang van de bescherming van het milieu een of meer van de volgende verplichtingen of het volgende verbod opgelegd aan degene bij wie afvalstoffen ontstaan of aanwezig zijn, die zijn aangewezen in de daartoe strekkende beschikking:
+
+- a. een verplichting die afvalstoffen te scheiden en – mede van andere stoffen en afvalstoffen – gescheiden te houden;
+- b. een verplichting die afvalstoffen gescheiden af te geven, wanneer zij zich daarvan ontdoen;
+- c. een verplichting die afvalstoffen ter plaatse waar zij zijn ontstaan, op een bij de beschikking aangegeven wijze nuttig toe te passen of te verwijderen;
+- d. een verbod die afvalstoffen langer onder zich te houden dan gedurende een bij de beschikking aangegeven termijn;
+- e. een verplichting die afvalstoffen af te geven aan een persoon behorende tot een bij de beschikking aangewezen categorie, of te brengen naar een daartoe aangewezen plaats.
+
+2\. Een verplichting of verbod als bedoeld in het eerste lid, wordt opgelegd:
+
+- a. voor zover de verplichting of het verbod betrekking heeft op een milieubelastende activiteit: door het bevoegd gezag voor de omgevingsvergunning voor de milieubelastende activiteit, of, indien voor de milieubelastende activiteit regels gelden als bedoeld in paragraaf 4.1.1 van de Omgevingswet, door het bestuursorgaan waaraan een melding als bedoeld in artikel 4.4, eerste lid, van de Omgevingswet met betrekking tot die milieubelastende activiteit zou moeten worden gedaan of, in andere gevallen, door burgemeester en wethouders;
+- b. in andere gevallen: door gedeputeerde staten.
+
+3\. Het bestuursorgaan, bedoeld in het tweede lid, geeft bij zijn beschikking aan binnen welke termijn de verplichting moet worden uitgevoerd en kan aangeven op welke wijze de verplichting moet worden uitgevoerd.
+
+#### Artikel 17.5
+
+Vervallen
+
+### Titel 17.1A — Maatregelen betreffende winningsafvalvoorzieningen
+
+#### Artikel 17.5a
+
+1\. Indien zich een gebeurtenis voordoet, die gevolgen kan hebben voor de stabiliteit van een afvalvoorziening, of indien bij controle- en monitoringsprocedures met betrekking tot die voorziening blijkt dat nadelige gevolgen voor het milieu zijn ontstaan of dreigen te ontstaan, meldt de exploitant van de winningsafvalvoorziening, dit zo spoedig mogelijk, in elk geval binnen 48 uur, aan het bestuursorgaan dat bevoegd is een omgevingsvergunning voor de milieubelastende activiteit met betrekking tot de winningsafvalvoorziening te verlenen.
+
+2\. De exploitant van de winningsafvalvoorziening verstrekt het bestuursorgaan, bedoeld in het eerste lid, tevens, zodra zij bekend zijn, de gegevens met betrekking tot:
+
+- a. de oorzaken van het voorval en de omstandigheden waaronder het voorval zich heeft voorgedaan;
+- b. de door het voorval vrijgekomen stoffen, alsmede hun eigenschappen;
+- c. andere gegevens die van belang zijn om de aard en de ernst van de gevolgen voor het milieu van het voorval te kunnen beoordelen;
+- d. de maatregelen die zijn genomen of worden overwogen om de gevolgen van het voorval te voorkomen, te beperken of ongedaan te maken;
+- e. de maatregelen die zijn genomen of worden overwogen om te voorkomen dat een zodanig voorval zich nogmaals kan voordoen.
+
+3\. Artikel 19.3 van de Omgevingswet is van overeenkomstige toepassing.
+
+4\. Bij of krachtens algemene maatregel van bestuur worden categorieën van winningsafvalvoorzieningen aangewezen.
+
+#### Artikel 17.5b
+
+Indien de situatie, bedoeld in artikel 17.5a, eerste lid, betrekking heeft op een winningsafvalvoorziening categorie A, voert de exploitant van de winningsafvalvoorziening, onmiddellijk het voor die winningsafvalvoorziening voorgeschreven interne noodplan uit
+
+#### Artikel 17.5c
+
+1\. Het bevoegd gezag kan instructies geven met betrekking tot het treffen van de nodige preventieve of herstelmaatregelen.
+
+2\. De exploitant van de winningsafvalvoorziening volgt de in het eerste lid bedoelde instructies op en draagt de kosten voor de getroffen preventieve of herstelmaatregelen.
+
+3\. Het bevoegd gezag kan zelf elke nodige preventieve of herstelmaatregel treffen of de uitvoering daarvan opdragen aan derden.
+
+4\. Een beslissing als bedoeld in het derde lid wordt op schrift gesteld. De schriftelijke beslissing is een beschikking.
+
+5\. In het geval het bevoegd gezag zelf maatregelen treft of de uitvoering daarvan opdraagt aan derden, verhaalt het de kosten op degene die de activiteiten verricht.
+
+Het bevoegd gezag stelt de hoogte van de verschuldigde kosten bij beschikking vast. Het bevoegd gezag kan de kosten invorderen bij dwangbevel.
+
+6\. Artikel 17.4 is van overeenkomstige toepassing.
+
+#### Artikel 17.5d
+
+Deze titel is van overeenkomstige toepassing op gesloten winningsafvalvoorzieningen, met uitzonderingen van die gesloten winningsafvalvoorzieningen ten aanzien waarvan het bevoegd gezag is belast met de nazorg, bedoeld in artikel 8.49.
+
+### Titel 17.1B — Maatregelen in geval van niet-naleving
+
+#### Artikel 17.5e
+
+Vervallen
+
+### Titel 17.2 — Maatregelen bij milieuschade of een onmiddellijke dreiging daarvan
+
+#### Artikel 17.6
+
+1\. In deze titel en de daarop berustende bepalingen wordt verstaan onder:
+
+*activiteit:* beroepshalve of bedrijfsmatig verrichte activiteit, ongeacht het openbare of particuliere, winstgevende of niet-winstgevende karakter daarvan;
+
+*beschermde soorten:* soorten als bedoeld in artikel 2, derde lid, onder a, van EG-richtlijn milieuaansprakelijkheid;
+
+*degene die de activiteit verricht:* de natuurlijke persoon of de privaatrechtelijke of publiekrechtelijke rechtspersoon die de activiteit verricht of heeft verricht, regelt of heeft geregeld, of aan wie een doorslaggevende economische zeggenschap over het technisch functioneren van de activiteit is overgedragen, met inbegrip van de houder van een vergunning of toelating voor het verrichten van de activiteit en de persoon die de activiteit laat of heeft laten registreren of er kennisgeving van doet of heeft gedaan;
+
+*ecosysteemfuncties:* functies die natuurlijke rijkdommen vervullen ten behoeve van andere natuurlijke rijkdommen of het publiek;
+
+*EG-richtlijn milieuaansprakelijkheid:* richtlijn nr. 2004/35/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende milieuaansprakelijkheid met betrekking tot het voorkomen en herstellen van milieuschade (PbEU L 143);
+
+*herstelmaatregelen:* maatregelen of combinatie van maatregelen, met inbegrip van inperkende of tussentijdse maatregelen, gericht op herstel, rehabilitatie of vervanging van de aangetaste natuurlijke rijkdommen of ecosysteemfuncties, of op het verschaffen van een gelijkwaardig alternatief voor rijkdommen of functies als bedoeld in bijlage II bij EG-richtlijn milieuaansprakelijkheid;
+
+*kosten:* kosten verbonden aan de toepassing van preventieve maatregelen of herstelmaatregelen, met inbegrip van ramingskosten van milieuschade, onmiddellijke dreiging van zulke schade en alternatieve maatregelen, alsook de administratieve, juridische en handhavingskosten, de kosten van het vergaren van gegevens en andere algemene kosten, en de kosten in verband met monitoring en toezicht;
+
+*milieuschade:*
+
+- 1°. elke vorm van schade aan beschermde soorten of natuurlijke habitats die, gelet op de referentietoestand en de criteria van bijlage I bij EG-richtlijn milieuaansprakelijkheid, aanmerkelijke negatieve effecten heeft op het bereiken of handhaven van de gunstige staat van instandhouding van deze soorten of habitats;
+- 2°. elke vorm van schade aan wateren die een aanmerkelijke negatieve invloed heeft op de ecologische, chemische of kwantitatieve toestand of het ecologisch potentieel, als omschreven in de kaderrichtlijn water, van de betrokken wateren, met uitzondering van de negatieve effecten waarop artikel 4, zevende lid, van die richtlijn van toepassing is;
+- 3°. elke vorm van schade die een aanmerkelijke negatieve invloed heeft op de milieutoestand van de betrokken maritieme wateren, als omschreven in richtlijn 2008/56/EG van het Europees parlement en de Raad van 17 juni 2008 tot vaststelling van een kader voor communautaire maatregelen betreffende het beleid ten aanzien van het mariene milieu (Kaderrichtlijn mariene strategie) (PbEU 2008, L 164), voor zover bijzondere aspecten van de milieutoestand van het mariene milieu al niet in de kaderrichtlijn water worden behandeld;
+- 4°. elke vorm van bodemverontreiniging die een aanmerkelijk risico inhoudt voor negatieve effecten op de menselijke gezondheid, waarbij direct of indirect op, in of onder de bodem, stoffen, preparaten, organismen of micro-organismen gebracht zijn;
+
+*milieuschade of een onmiddellijke dreiging daarvan:* milieuschade of een voldoende waarschijnlijkheid dat zich in de nabije toekomst milieuschade zal voordoen;
+
+*natuurlijke habitats:* habitats van de soorten, natuurlijke habitats en voortplantings- of rustplaatsen als bedoeld in artikel 2, derde lid, onder b, van EG-richtlijn milieuaansprakelijkheid;
+
+*natuurlijke regeneratie:*
+
+- 1°. in het geval van schade aan wateren, beschermde soorten of natuurlijke habitats: de terugkeer van aangetaste natuurlijke rijkdommen en ecosysteemfuncties tot de referentietoestand;
+- 2°. in geval van bodemverontreiniging: het verdwijnen van een aanmerkelijk gevaar van een nadelig effect op de menselijke gezondheid;
+
+*natuurlijke rijkdommen:* beschermde soorten, natuurlijke habitats, wateren of bodem;
+
+*preventieve maatregelen:* maatregelen naar aanleiding van een gebeurtenis, handeling of nalatigheid waardoor een onmiddellijke dreiging van milieuschade is ontstaan, teneinde die schade te voorkomen of tot een minimum te beperken;
+
+*referentietoestand:* de toestand waarin de natuurlijke rijkdommen of ecosysteemfuncties zich ten tijde van de schade zouden hebben bevonden indien zich geen milieuschade had voorgedaan, gereconstrueerd aan de hand van de beste beschikbare informatie;
+
+*schade:* meetbare negatieve verandering in de natuurlijke rijkdommen of aantasting van een ecosysteemfunctie, die direct of indirect optreedt;
+
+*staat van instandhouding:* staat van instandhouding als bedoeld in artikel 2, vierde lid, van EG-richtlijn milieuaansprakelijkheid;
+
+*wateren:* wateren waarop de kaderrichtlijn water van toepassing is.
+
+2\. In afwijking van het bepaalde in artikel 1.1 wordt in deze titel en de daarop berustende bepalingen onder *emissie* verstaan: het als gevolg van menselijke activiteiten in het milieu brengen van stoffen, preparaten, organismen of micro-organismen.
+
+3\. Een wijziging van een van de bijlagen bij EG-richtlijn milieuaansprakelijkheid gaat voor de toepassing van deze titel en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+
+4\. Onder schade aan beschermde soorten en natuurlijke habitats wordt voor de toepassing van deze titel mede begrepen schade aan deze soorten en habitats binnen de exclusieve economische zone.
+
+#### Artikel 17.7
+
+Deze titel is van toepassing op:
+
+- a. milieuschade of een onmiddellijke dreiging daarvan die wordt veroorzaakt door activiteiten als bedoeld in bijlage III bij de EG-richtlijn milieuaansprakelijkheid;
+- b. milieuschade aan beschermde soorten of natuurlijke habitats of een onmiddellijke dreiging daarvan die wordt veroorzaakt door een andere activiteit dan bedoeld onder a, indien degene die de activiteit verricht schuld of nalatigheid kan worden verweten.
+
+#### Artikel 17.8
+
+In afwijking van artikel 17.7 is deze titel niet van toepassing op:
+
+- a. milieuschade of een onmiddellijke dreiging daarvan ten gevolge van:
+  - 1°. een oorlogshandeling, vijandelijkheden, burgeroorlog of oproer;
+  - 2°. een natuurverschijnsel dat uitzonderlijk, onontkoombaar en onafwendbaar is;
+  - 3°. een gebeurtenis waarvoor de aansprakelijkheid of schadevergoeding binnen de werkingssfeer valt van een van de in bijlage IV bij EG-richtlijn milieuaansprakelijkheid genoemde verdragen, waaraan Nederland gebonden is;
+  - 4°. nucleaire risico’s of een activiteit waarop het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie van toepassing is;
+  - 5°. een activiteit of gebeurtenis waarvoor de aansprakelijkheid of schadevergoeding binnen de werkingssfeer valt van een van de in bijlage V bij EG-richtlijn milieuaansprakelijkheid genoemde verdragen;
+  - 6°. een activiteit die hoofdzakelijk de landsverdediging of de internationale veiligheid dient, of
+  - 7°. een activiteit die uitsluitend tot doel heeft bescherming te bieden tegen natuurrampen;
+- b. milieuschade aan beschermde soorten of natuurlijke habitats bestaande uit de vooraf vastgestelde negatieve effecten van activiteiten waarvoor door het bevoegd gezag vergunning is verleend:
+  - 1°. in overeenstemming met bepalingen ter uitvoering van artikel 6, derde en vierde lid, of artikel 16 van richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna, artikel 9 van richtlijn nr. 2009/147/EG van het Europees Parlement en de Raad van de Europese Unie van 30 november 2009 inzake het behoud van de vogelstand, of,
+  - 2°. in het geval van niet onder het Gemeenschapsrecht vallende soorten, in overeenstemming met het bepaalde krachtens artikel 5.1, tweede lid, aanhef en onder g, van de Omgevingswet;
+- c. milieuschade of een onmiddellijke dreiging daarvan veroorzaakt door een emissie of gebeurtenis:
+  - 1°. die voor 30 april 2007 heeft plaatsgevonden,
+  - 2°. die na 30 april 2007 heeft plaatsgevonden, indien de schade het gevolg is van een specifieke activiteit die heeft plaatsgevonden en is beëindigd voor die datum, of
+  - 3°. die meer dan 30 jaar geleden heeft plaatsgevonden.
+
+#### Artikel 17.9
+
+1\. Het bevoegd gezag is het bestuursorgaan waarbij op grond van artikel 18.2 van de Omgevingswet de bestuursrechtelijke handhavingstaak berust voor de activiteit waardoor de milieuschade of onmiddellijke dreiging daarvan wordt veroorzaakt.
+
+2\. In afwijking van het eerste lid is het bevoegd gezag, indien de milieuschade of een onmiddellijke dreiging daarvan geheel of in hoofdzaak betrekking heeft op wateren, het bestuursorgaan waarbij de betrokken wateren in beheer zijn.
+
+3\. Indien de activiteit waardoor de milieuschade of een onmiddellijke dreiging daarvan wordt veroorzaakt, wordt verricht buiten een inrichting is het bevoegd gezag voor zover de milieuschade of een onmiddellijke dreiging daarvan betrekking heeft op:
+
+- a. de bodem: het bestuursorgaan, bedoeld in artikel 18.2 van de Omgevingswet;
+- b. beschermde soorten: het bevoegd gezag, bedoeld in artikel 18.2, van de Omgevingswet;
+- c. natuurlijke habitats: het bevoegd gezag, bedoeld in artikel 18.2, van de Omgevingswet;
+- d. wateren: het bestuursorgaan, waarbij de betrokken wateren in beheer zijn.
+
+4\. In afwijking van het eerste tot en met het derde lid is Onze Minister het bevoegd gezag, indien de activiteit waardoor de milieuschade of een onmiddellijke dreiging daarvan wordt veroorzaakt, betrekking heeft op genetisch gemodificeerde organismen.
+
+5\. Indien in geval van milieuschade of een onmiddellijke dreiging daarvan meer dan een bestuursorgaan als bevoegd gezag is aangewezen, of bij of krachtens deze of een andere wet aan een ander bestuursorgaan bevoegdheden zijn toegekend, wordt tussen deze bestuursorganen tijdig overleg gevoerd, teneinde een zo goed mogelijke afstemming tussen de te nemen besluiten of de te treffen maatregelen te bevorderen. De bestuursorganen stemmen onderling af welk orgaan zich met de coördinatie belast.
+
+6\. Indien in geval van milieuschade of een onmiddellijke dreiging daarvan meer dan een bestuursorgaan als bevoegd gezag is aangewezen, wordt een verzoek als bedoeld in artikel 17.13, zesde lid, of artikel 17.15, eerste lid, gecoördineerd behandeld. Bij de beslissing op een dergelijk verzoek wordt rekening gehouden met de onderlinge samenhang tussen de beschikkingen die op dit verzoek worden gegeven.
+
+7\. Indien in geval van milieuschade of een onmiddellijke dreiging daarvan bij of krachtens deze of een andere wet aan het bevoegd gezag bevoegdheden zijn toegekend, geeft het bevoegd gezag onverminderd die bevoegdheden toepassing aan deze titel en draagt het er zorg voor dat, voor zover het ook uitvoering geeft aan bedoelde bevoegdheden, er geen strijd ontstaat met het bepaalde bij of krachtens deze titel.
+
+#### Artikel 17.10
+
+1\. Het bevoegd gezag kan degene die een activiteit verricht, waardoor zich milieuschade of een onmiddellijke dreiging daarvan voordoet:
+
+- a. verplichten informatie te verstrekken over een onmiddellijke dreiging van milieuschade of in gevallen waarin een dergelijke dreiging vermoed wordt;
+- b. verplichten aanvullende gegevens te verstrekken over elke milieuschade die zich heeft voorgedaan;
+- c. verplichten de nodige preventieve of herstelmaatregelen te treffen;
+- d. instructies geven met betrekking tot de maatregelen, bedoeld onder c.
+
+2\. Het bevoegd gezag kan zelf elke maatregel als bedoeld in artikel 17.13, eerste lid, alsmede de nodige preventieve of herstelmaatregelen treffen of de uitvoering daarvan opdragen aan derden.
+
+3\. Een beslissing als bedoeld in het eerste lid, onder c, of tweede lid, wordt op schrift gesteld. De schriftelijke beslissing is een beschikking. Van de beschikking wordt mededeling gedaan aan de bestuursorganen of overheidsdiensten, bedoeld in artikel 19.3, eerste lid, van de Omgevingswet.
+
+#### Artikel 17.11
+
+Vervallen
+
+#### Artikel 17.12
+
+1\. Indien door een activiteit een onmiddellijke dreiging van milieuschade ontstaat, treft degene die de activiteit verricht onmiddellijk de nodige preventieve maatregelen.
+
+2\. Hij informeert zo spoedig mogelijk het bevoegd gezag over alle relevante aspecten van de situatie. Artikel 17.2, tweede lid, is van overeenkomstige toepassing.
+
+3\. Het bevoegd gezag informeert onverwijld de bestuursorganen of overheidsdiensten, bedoeld in artikel 19.3, eerste lid, van de Omgevingswet.
+
+4\. Het bevoegd gezag verplicht degene die de activiteit verricht onmiddellijk de nodige maatregelen te treffen.
+
+5\. Het bevoegd gezag stelt belanghebbenden, respectievelijk de bestuursorganen of overheidsdiensten, bedoeld in artikel 19.3, eerste lid, van de Omgevingswet, in de gelegenheid hun zienswijze naar voren te brengen, respectievelijk advies uit te brengen over het ontwerp van het te nemen besluit, bedoeld in het vierde lid, tenzij de situatie zo spoedeisend is dat een zienswijze of advies niet kan worden afgewacht.
+
+6\. Het bevoegd gezag betrekt bij de beslissing, bedoeld in het vierde lid, de naar voren gebrachte zienswijzen en houdt bij die beslissing rekening met de uitgebrachte adviezen. Van de beschikking wordt mededeling gedaan aan de bestuursorganen of overheidsdiensten, bedoeld in artikel 19.3, eerste lid, van de Omgevingswet.
+
+#### Artikel 17.13
+
+1\. Indien door een activiteit milieuschade ontstaat, treft degene die de activiteit verricht elke haalbare maatregel om de betrokken verontreinigende stoffen of andere schadefactoren onmiddellijk onder controle te houden, in te perken, te verwijderen of anderszins te beheersen, teneinde verdere milieuschade en negatieve effecten op de menselijke gezondheid of verdere aantasting van functies te voorkomen of te beperken.
+
+2\. Hij informeert zo spoedig mogelijk het bevoegd gezag over alle relevante aspecten van de situatie.
+
+3\. Het bevoegd gezag informeert onverwijld de bestuursorganen of overheidsdiensten, bedoeld in artikel 19.3, eerste lid, van de Omgevingswet, alsmede in het geval de milieuschade zich voordoet of kan voordoen buiten de grenzen van Nederland Onze Minister.
+
+4\. Onze Minister informeert na ontvangst van de informatie als bedoeld in het derde lid de regering van het betrokken land of een door die regering aan te wijzen autoriteit of instantie.
+
+5\. Het bevoegd gezag verplicht degene die de activiteit verricht onmiddellijk de nodige maatregelen te treffen. Artikel 17.12, vijfde en zesde lid, is van overeenkomstige toepassing.
+
+6\. Degene die de activiteit verricht, stelt in overeenstemming met bijlage II bij EG-richtlijn milieuaansprakelijkheid potentiële herstelmaatregelen vast en legt die aan het bevoegd gezag ter instemming voor.
+
+#### Artikel 17.14
+
+1\. Het bevoegd gezag stelt vast wie de activiteit verricht waardoor milieuschade of de onmiddellijke dreiging daarvan wordt veroorzaakt, alsmede de omvang van de milieuschade. Artikel 17.13, derde en vierde lid, is van overeenkomstige toepassing.
+
+2\. Indien niet kan worden vastgesteld wie de activiteit verricht waardoor de milieuschade of de onmiddellijke dreiging daarvan wordt veroorzaakt, beslist het bevoegd gezag of het krachtens het bepaalde in deze titel maatregelen treft. Artikel 17.10, derde lid, is van overeenkomstige toepassing.
+
+3\. Het bevoegd gezag beslist op een verzoek tot instemming als bedoeld in artikel 17.13, zesde lid, welke herstelmaatregelen in overeenstemming met bijlage II bij EG-richtlijn milieuaansprakelijkheid door degene die de activiteit verricht worden getroffen. Het bevoegd gezag kan verlangen dat bij of ter aanvulling op dit verzoek een beoordeling van de omvang van de schade wordt verstrekt.
+
+4\. Indien zich meerdere gevallen van milieuschade voordoen en de nodige herstelmaatregelen niet gelijktijdig kunnen worden getroffen, beslist het bevoegd gezag welke schade het eerst wordt hersteld.
+
+5\. Het bevoegd gezag houdt bij het besluit, bedoeld in het tweede, derde en vierde lid, in ieder geval rekening met de aard, de omvang en de ernst van de milieuschade, en met de mogelijkheid van gevaar voor de menselijke gezondheid en van natuurlijke regeneratie. Op dit besluit is artikel 17.12, vijfde en zesde lid, van overeenkomstige toepassing.
+
+#### Artikel 17.15
+
+1\. Belanghebbenden, alsmede degenen die milieuschade dreigen te lijden, kunnen in geval van milieuschade of een onmiddellijke dreiging daarvan, het bevoegd gezag verzoeken een beschikking te geven tot het treffen van maatregelen als bedoeld in artikel 17.10, derde lid, artikel 17.12, vierde lid, of artikel 17.13, vijfde lid.
+
+2\. Onze Minister kan, indien dat in het belang van de bescherming van het milieu geboden is en indien ter zake van een geval van milieuschade of een onmiddellijke dreiging daarvan het dagelijks bestuur van een waterschap het bevoegd gezag is, vorderen dat dit bestuursorgaan binnen een door hem te stellen termijn toepassing geeft aan artikel 17.12, vierde lid, artikel 17.13, vijfde lid, of artikel 17.14, eerste, tweede en derde lid. De artikelen 121 tot en met 121f van de Provinciewet zijn van overeenkomstige toepassing.
+
+#### Artikel 17.16
+
+1\. Degene die de activiteit verricht waardoor milieuschade of een onmiddellijke dreiging daarvan wordt veroorzaakt, draagt de kosten voor de getroffen preventieve of herstelmaatregelen, tenzij hij bewijst dat de milieuschade of de onmiddellijke dreiging daarvan:
+
+- a. ondanks door hem getroffen passende veiligheidsmaatregelen door een derde is veroorzaakt, of
+- b. het gevolg is van de opvolging van een dwingende opdracht of instructie van een bestuursorgaan, niet zijnde een opdracht of instructie naar aanleiding van een emissie of gebeurtenis die door hemzelf is veroorzaakt.
+
+2\. In het geval het bevoegd gezag zelf maatregelen treft of de uitvoering daarvan opdraagt aan derden, verhaalt het de kosten op degene die de activiteit verricht. Het bevoegd gezag stelt de hoogte van de verschuldigde kosten bij beschikking vast. Het bevoegd gezag kan de kosten invorderen bij dwangbevel.
+
+3\. Het bevoegd gezag kan afzien van kostenverhaal indien:
+
+- a. de verhaalkosten groter zijn dan het terug te vorderen bedrag, of
+- b. niet kan worden vastgesteld wie de activiteit verricht.
+
+4\. Terzake van herstelmaatregelen die uit hoofde van deze titel zijn genomen, kan het bevoegd gezag geheel of gedeeltelijk afzien van kostenverhaal, voor zover deze kosten redelijkerwijs niet of niet geheel ten laste van degene die de activiteit verricht behoren te komen, indien degene die de activiteit verricht, bewijst dat
+
+- a. hij niet in gebreke of nalatig is geweest, en
+- b. de schade is veroorzaakt door een activiteit, emissie of gebeurtenis, die op het tijdstip dat deze plaatsvond:
+  - 1°. uitdrukkelijk was toegestaan op grond van en geheel in overeenstemming was met de aan een vergunning verbonden voorschriften, of
+  - 2°. op grond van de stand van de wetenschappelijke en technologische kennis niet als schadelijk werd beschouwd.
+
+#### Artikel 17.17
+
+De bevoegdheid tot kostenverhaal met betrekking tot de uit hoofde van deze titel genomen maatregelen vervalt vijf jaren na de dag waarop die maatregelen geheel zijn voltooid of na de dag waarop degene die de milieuschade of de onmiddellijke dreiging daarvan veroorzaakt is geïdentificeerd, indien deze dag later valt.
+
+#### Artikel 17.18
+
+Het bevoegd gezag verstrekt Onze Minister de informatie over de tenuitvoerlegging nodig ter uitvoering van artikel 18 van de EG-richtlijn milieuaansprakelijkheid. Bij ministeriële regeling kunnen daaromtrent nadere regels worden gesteld.
+
+### Titel 17.3 — Maatregelen bij gevaar door stoffen, mengsels of genetisch gemodificeerde organismen
+
+#### Artikel 17.19
+
+1\. Indien stoffen, mengsels of genetisch gemodificeerde organismen, dan wel handelingen daarmee, naar het oordeel van Onze Minister onduldbaar gevaar opleveren voor de gezondheid van de mens of voor het milieu, kan hij, zo nodig met behulp van de sterke arm, alle maatregelen nemen die hij in het belang van de bescherming van de gezondheid van de mens en van het milieu noodzakelijk acht.
+
+2\. Tot de in het eerste lid bedoelde maatregelen kunnen behoren:
+
+- a. het geheel of gedeeltelijk stopzetten van het vervaardigen of in Nederland invoeren van stoffen, mengsels of genetisch gemodificeerde organismen of producten die deze bevatten;
+- b. het in beslag nemen en, zo nodig, vernietigen van stoffen, mengsels of genetisch gemodificeerde organismen of producten die deze bevatten;
+- c. het beletten dat bepaalde gebieden zonder toestemming van Onze Minister worden betreden of dat dieren, planten of goederen zonder zodanige toestemming daarbinnen of daarbuiten worden gebracht;
+- d. het verwijderen van personen, dieren, planten of goederen uit bepaalde gebieden.
+
+3\. Onze Minister neemt een maatregel krachtens het eerste lid in overeenstemming met Onze Ministers wie het mede aangaat, tenzij de vereiste spoed zich naar zijn oordeel daartegen verzet. In laatstgenoemd geval onderwerpt Onze Minister de maatregel zo spoedig mogelijk aan het oordeel van de Raad van Ministers. Indien deze met de maatregel niet instemt, trekt Onze Minister hem terstond in.
+
+4\. Onze Minister maakt een maatregel krachtens het eerste lid en de intrekking daarvan bekend in de Staatscourant. Daarnaast bevordert hij dat de maatregel, onderscheidenlijk de intrekking daarvan, zo spoedig mogelijk ter kennis van de betrokkenen komt.
+
+5\. Een gedraging in strijd met een krachtens het eerste lid genomen maatregel is verboden.
+
+## Hoofdstuk 18 — Handhaving
+
+### Artikel 18.1
+
+Vervallen
+
+### Artikel 18.1a
+
+1\. De artikelen 18.2, vijfde lid, 18.4, 18.4a, 18.6, 18.6a, eerste en tweede lid, 18.7, 18.10, de paragrafen 18.3.2 tot en met 18.3.4 en artikel 19.4, vierde lid, van de Omgevingswet zijn van overeenkomstige toepassing met betrekking tot de handhaving van het bepaalde bij of krachtens:
+
+- a. deze wet;
+- b. de EG-verordening overbrenging van afvalstoffen;
+- c. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen;
+- d. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels;
+- e. de EG-verordening EU-milieukeur.
+
+2\. In afwijking van het eerste lid is artikel 18.4 van de Omgevingswet niet van toepassing voor zover het betreft de handhaving van het bij of krachtens hoofdstuk 16 bepaalde.
+
+3\. Tot de bevoegdheid tot oplegging van een last onder bestuursdwang krachtens artikel 18.3 of 18.4 van de Omgevingswet behoort het in Nederland door of vanwege het bevoegde bestuursorgaan beheren van afvalstoffen in gevallen waarin die afvalstoffen in strijd met het bij of krachtens de EG-verordening overbrenging van afvalstoffen of titel 10.7 bepaalde, binnen of buiten Nederlands grondgebied worden gebracht.
+
+### Artikel 18.1b
+
+Vervallen
+
+### Artikel 18.2
+
+Het bevoegd gezag waarbij op grond van artikel 18.2 van de Omgevingswet de bestuursrechtelijke handhavingstaak berust, heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de voorschriften die voor degene die de activiteit verricht, gelden op grond van:
+
+- 1°. het bepaalde bij of krachtens deze wet;
+- 2°. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen;
+- 3°. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels.
+
+### Artikel 18.2a
+
+1\. Voor zover artikel 18.2 van de Omgevingswet niet van toepassing is, hebben Onze betrokken Minister, gedeputeerde staten, burgemeester en wethouders en het dagelijks bestuur van het waterschap tot taak zorg te dragen voor de bestuursrechtelijke handhaving van artikel 10.1.
+
+2\. Gedeputeerde staten, burgemeester en wethouders en het dagelijks bestuur van het waterschap hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de artikelen 10.2 en 10.54.
+
+3\. Onze betrokken Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de artikelen 11a.2 en 11a.3.
+
+### Artikel 18.2b
+
+1\. Onze Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens:
+
+- a. de titels 9.2 tot en met 9.5 en de artikelen 17.19 en 18.21, derde lid;
+- b. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen;
+- c. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels;
+- d. de EG-verordening overbrenging van afvalstoffen;
+- e. de EG-verordening EU-milieukeur.
+
+2\. Onverminderd het eerste lid hebben Onze Minister van Klimaat en Groene Groei, Onze Minister van Sociale Zaken en Werkgelegenheid of Onze Minister van Volksgezondheid, Welzijn en Sport tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de titels 9.2, 9.3 en 9.3a, de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen en de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels voor zover het bepaalde bij of krachtens genoemde titels of verordeningen betrekking heeft op beleid dat tot hun verantwoordelijkheid behoort.
+
+3\. In afwijking van het eerste lid kan bij een maatregel als bedoeld in artikel 9.2.2.1, eerste lid, worden bepaald dat gedeputeerde staten of burgemeester en wethouders in plaats van Onze Minister of Onze betrokken Minister tot taak hebben zorg te dragen voor de bestuursrechtelijke handhaving van bij de maatregel gestelde regels of van daaromtrent gestelde nadere regels.
+
+4\. Onze Minister heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens hoofdstuk 10 gestelde verplichtingen, voor zover zij betrekking hebben op:
+
+- a. overbrengen van afvalstoffen als bedoeld in titel 10.7;
+- b. het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in artikel 10.45;
+- c. verhandelen, bemiddelen of vervoeren als bedoeld in artikel 10.55.
+
+### Artikel 18.2c
+
+1\. Gedeputeerde staten hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens hoofdstuk 10 gestelde verplichtingen, voorzover zij betrekking hebben op het aanwezig hebben van een begeleidingsbrief bij het vervoer van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in artikel 10.44.
+
+2\. Gedeputeerde staten hebben tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de krachtens artikel 17.4 opgelegde verplichtingen.
+
+### Artikel 18.2d
+
+1\. Voor zover artikel 18.1, aanhef en onder a, van de Omgevingswet niet van toepassing is, hebben burgemeester en wethouders tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de verplichtingen, gesteld bij of krachtens:
+
+- a. de afvalstoffenverordening of het omgevingsplan voor zover het verplichtingen krachtens de artikelen 10.24 tot en met 10.28 betreft;
+- b. artikel 10.29.
+
+2\. Burgemeester en wethouders hebben tevens tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de bij of krachtens hoofdstuk 10 gestelde verplichtingen, voor zover zij betrekking hebben op het zich ontdoen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen als bedoeld in artikel 10.37.
+
+### Artikel 18.2e
+
+Vervallen
+
+### Artikel 18.2f
+
+1\. De emissieautoriteit draagt zorg voor de handhaving van de bij of krachtens hoofdstukken 16, 16a, 16b en 16c, titels 16c.1 en 16c.2, gestelde verplichtingen.
+
+2\. Onverminderd artikel 18.2b, eerste lid, draagt de emissieautoriteit zorg voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens titels 9.7 en 9.8.
+
+### Artikel 18.2g
+
+Vervallen
+
+### Artikel 18.2h
+
+Vervallen
+
+### Artikel 18.2i
+
+Het bevoegd gezag, bedoeld in artikel 17.9, eerste, tweede, derde of vierde lid, draagt zorg voor de bestuursrechtelijke handhaving van de bij of krachtens titel 17.2 gestelde verplichtingen.
+
+### Artikel 18.2j
+
+Vervallen
+
+### Artikel 18.3
+
+Vervallen
+
+### Artikel 18.3a
+
+Vervallen
+
+### Artikel 18.3b
+
+Vervallen
+
+### Artikel 18.3c
+
+Vervallen
+
+### Artikel 18.3d
+
+Vervallen
+
+### Artikel 18.3e
+
+Vervallen
+
+### Artikel 18.3f
+
+Vervallen
+
+### Artikel 18.4
+
+1\. Met het toezicht op de naleving van het bij of krachtens de hoofdstukken 16, 16a, 16b en 16c, titels 16c.1 en 16c.2, bepaalde, alsmede de naleving van de in artikel 18.5 genoemde bepalingen van de Verordening monitoring en rapportage emissiehandel, de naleving van de in artikel 18.5a genoemde bepalingen van de Verordening kosteloze toewijzing van emissierechten, de naleving van de in artikel 18.5b genoemde bepalingen van de Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau, de naleving van de in artikel 18.5c genoemde bepalingen van de Verordening monitoring, rapportage en verificatie van wereldwijde luchtvaartemissies, de naleving van de in artikel 18.5d genoemde bepalingen van de Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer en van de in artikel 18.6 genoemde bepalingen van de Verordening verificatie en accreditatie emissiehandel de naleving van de in artikel 18.6c genoemde bepalingen van Verordening (EU) 2023/1805 en de in artikel 18.6d genoemde bepalingen van Verordening (EU) 2023/2405, zijn belast de bij besluit van Onze Minister of Onze Minister wie het aangaat aangewezen ambtenaren.
+
+2\. Met het onderzoek met betrekking tot overtredingen als bedoeld in artikelen 18.6c, tweede en derde lid, 18.6d, tweede, derde en vierde lid, en 18.16a, eerste en tweede lid, zijn belast de krachtens het eerste lid aangewezen ambtenaren.
+
+3\. Ten dienste van het onderzoek beschikken zij over de bevoegdheden, bedoeld in de artikelen 5:15 tot en met 5:20, eerste lid, van de Algemene wet bestuursrecht.
+
+### Artikel 18.5
+
+1\. Het is verboden te handelen in strijd met de volgende bepalingen van de Verordening monitoring en rapportage emissiehandel: artikel 4 in verbinding met de artikelen 5 tot en met 9, en de artikelen 11, 12, 51, 52, 53, 57 en 68.
+
+2\. Het is voorts verboden te handelen in strijd met de volgende bepalingen van de Verordening monitoring en rapportage emissiehandel: de artikelen 14, 15, 16, 19 tot en met 54, 55, 56, 58 tot en met 67, 69, 72 en 73.
+
+### Artikel 18.5a
+
+1\. Het is verboden te handelen in strijd met de volgende bepalingen van de Verordening kosteloze toewijzing van emissierechten: de artikelen 4, tweede lid, onderdeel a, 5, tweede lid, en 6 tot en met 9.
+
+2\. Het is voorts verboden te handelen in strijd met de volgende bepalingen van de Verordening kosteloze toewijzing van emissierechten: artikelen 10, 11, 12, 23 en 25.
+
+### Artikel 18.5b
+
+Het is verboden te handelen in strijd met artikel 3, eerste, tweede en derde lid, van de Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau.
+
+### Artikel 18.5c
+
+Het is verboden te handelen in strijd met de artikelen 2, 3, 4 en 5 van de Verordening monitoring, rapportage en verificatie van wereldwijde luchtvaartemissies.
+
+### Artikel 18.5d
+
+Het is verboden te handelen in strijd met de artikelen 4, 5, 6, eerste tot en met derde lid en vijfde tot en met zevende lid, 7, eerste tot en met vierde lid, 8, 9, 10, 11, eerste, tweede en derde lid, 11 bis, eerste en tweede lid, 12, eerste lid, 13, 14, 15, eerste, tweede, derde en zesde lid, 16, eerste en tweede lid en 17, eerste, tweede en vierde lid, van de Verordening monitoring, rapportage en verificatie van broeikasgasemissies door maritiem vervoer.
+
+### Artikel 18.6
+
+1\. Het is verboden te handelen in strijd met artikel 7 in verbinding met hoofdstuk II en met de artikelen 35 en 44 van de Verordening verificatie en accreditatie emissiehandel.
+
+2\. Het is voorts verboden te handelen in strijd met de artikelen 26, 27 en 31, eerste lid, van de Verordening verificatie en accreditatie emissiehandel.
+
+### Artikel 18.6a
+
+1\. In geval van overtreding van het bepaalde bij of krachtens de artikelen 16.5, 16.6, 16.12, 16.12 in verbinding met 16.39h, 16.12 in verbinding met 16.39ab, vierde lid, 16.12 in verbinding met 16.39ae, 16.13, 16.13 in verbinding met 16.39h, 16.13a, 16.14, 16.14 in verbinding met 16.39h, 16.14 in verbinding met 16.39ae, derde lid, 16.19, 16.20c, tweede lid, 16.21, 16.21 in verbinding met 16.39h, 16.21, eerste lid, in verbinding met 16.39ak, 16.23, tweede lid, in verbinding met 16.39ai, 16.29, onderdelen b en c, 16.39z, 16.39aa, 16.39ab, derde lid, 16.39ad, 16.39ae, eerste en tweede lid, derde lid, 16.39af, 16.39ag, of van de artikelen 18.5, 18.5a, 18.5b, 18.5c, 18.5d en 18.6 of van 18.18 voor zover het een voorschrift betreft dat is verbonden aan een vergunning krachtens hoofdstuk 16, of van artikel 56, eerste lid, van de Verordening EU-register handel in emissierechten, kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen.
+
+2\. In geval van overtreding van het bepaalde bij of krachtens artikel 16a.3, eerste of tweede lid, dan wel het derde lid in verbinding met de artikelen 16.6, eerste en derde lid, 16.12, of 16.19, of de artikelen 16a.5, 16a.6 of 16a.9, kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen.
+
+3\. In geval van het niet tijdig terug leveren van teruggevorderde emissierechten als bedoeld in artikel 16.35c, eerste lid, eerste volzin, kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen.
+
+4\. In geval van overtreding van het bepaalde bij of krachtens de artikelen 16b.3, 16b.5, tweede lid, 16b.7, 16b.8, 16b.10, 16b.17, eerste en tweede lid, 16b.19, 16b.20, 16b.22, 16b.23, 16c.1 of artikel 16c.3 kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen.
+
+### Artikel 18.6b
+
+In geval van overtreding van het bepaalde bij of krachtens 9.7.1.3, 9.7.2.3, 9.7.2.5, 9.7.2.6, 9.7.4.12, 9.7.4.13, 9.7.6.1, 9.7.6.2, 9.8.3.6 of 9.8.5.1, kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen.
+
+### Artikel 18.6c
+
+1\. Het is verboden te handelen in strijd met artikelen 4, 5, 6, 7, 8, eerste en tweede lid, 9, 10, derde, vierde en vijfde lid, 13, vierde lid,15, 20, eerste, tweede en derde lid en 21 van de Verordening (EU) 2023/1805.
+
+2\. In het geval van overtreding van de in het eerste lid genoemde artikelen van Verordening (EU) 2023/1805, kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen, voor zover dit ziet op een overtreding door een scheepvaartmaatschappij als bedoeld in artikel 16.1, eerste lid, van deze wet.
+
+3\. In het geval van overtreding van de artikelen 4, eerste lid, 5, derde lid, en 6, eerste en tweede lid, 7, 8, eerste en tweede lid, 9, 10, derde, vierde en vijfde lid, 13, vierde lid, 15, 20, eerste, tweede en derde lid en 21, van Verordening (EU) 2023/1805, kan het bestuur van de emissieautoriteit aan de scheepvaartmaatschappij als bedoeld in artikel 16.1, eerste lid, van deze wet, een bestuurlijke boete opleggen. Een last onder dwangsom en een bestuurlijke boete kunnen tezamen worden opgelegd.
+
+4\. Een bestuurlijke boete als bedoeld in het derde lid, bedraagt:
+
+- a. ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, in het geval van overtreding van artikel 4, eerste lid, artikel 5, derde lid of artikel 20, eerste, tweede en derde lid, van Verordening (EU) 2023/1805, of indien dat meer is, ten hoogste het bedrag dat het resultaat is van de berekening van het nalevingstekort voor de broeikasgasintensiteit van het schip of van de berekening van het nalevingstekort van het schip voor het deelstreefcijfer voor hernieuwbare brandstoffen van niet-biologische oorsprong conform de in deel B van bijlage IV van Verordening (EU) 2023/1805 vervatte formule. Indien een schip een nalevingstekort heeft voor twee of meer opeenvolgende verslagperioden, wordt voor de berekening van de bestuurlijke boete tevens de vermenigvuldiging van artikel 23, tweede lid, laatste volzin van Verordening (EU) 2023/1805 toegepast.
+- b. ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, in het geval van overtreding van artikel 6, eerste en tweede lid, of indien dat meer is, ten hoogste het bedrag dat het resultaat is van de vermenigvuldiging van 1,5 EUR met de vastgestelde totale stroombehoefte van het schip op zijn ligplaats en met het totale aantal uren, naar boven afgerond tot het dichtstbijzijnde hele uur, dat in strijd met de voorschriften van artikel 6 door het schip op de ligplaats is doorgebracht.
+
+5\. Een bestuurlijke boete als bedoeld in het derde lid, bedraagt ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, in het geval van overtreding van artikel 7, artikel 8, eerste en tweede lid, artikel 9, artikel 10, derde, vierde en vijfde lid, artikel 13, vierde lid, artikel 15 of artikel 21, van Verordening (EU) 2023/1805.
+
+### Artikel 18.6d
+
+1\. Het is verboden in strijd te handelen met de artikelen 4, 5, 8, 9, eerste en tweede lid, en 10 van Verordening (EU) 2023/2405.
+
+2\. In het geval van overtreding de in het eerste lid genoemde artikelen van Verordening (EU) 2023/2405, kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen, voor zover dit ziet op een overtreding door een luchtvaartuigexploitant of luchtvaartbrandstofleverancier.
+
+3\. In het geval van overtreding van de artikelen 4, eerste lid, en 5, eerste lid, 8, 9, eerste en tweede lid, en 10 van Verordening (EU) 2023/2405, kan het bestuur van de emissieautoriteit een bestuurlijke boete opleggen, voor zover dit ziet op een overtreding door een luchtvaartuigexploitant of luchtvaartbrandstofleverancier. Een last onder dwangsom en een bestuurlijke boete kunnen tezamen worden opgelegd.
+
+4\. Indien een luchtvaartbrandstofleverancier misleidende of onjuiste informatie heeft verstrekt over de kenmerken of oorsprong van de duurzame luchtvaartbrandstof, in de zin van artikel 12, zesde lid, van Verordening (EU) 2023/2405, kan het bestuur van de emissieautoriteit een bestuurlijke boete opleggen. Een last onder dwangsom en een bestuurlijke boete kunnen tezamen worden opgelegd.
+
+5\. Een bestuurlijke boete als bedoeld in het derde lid bedraagt:
+
+- a. ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, in het geval van overtreding van artikel 4, eerste lid van Verordening (EU) 2023/2405, of indien dat meer is, ten hoogste het dubbele van het bedrag dat het resultaat is van de vermenigvuldiging van het verschil tussen de gemiddelde jaarlijkse prijs per ton van conventionele luchtvaartbrandstof en duurzame luchtvaartbrandstoffen of synthetische brandstof met de hoeveelheid luchtvaartbrandstoffen die niet voldoet aan de verplichtingen van artikel 4, eerste lid, en bijlage I van Verordening (EU) 2023/2405 met betrekking tot de minimumpercentages.
+- b. ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, in het geval van overtreding van artikel 5, eerste lid, van Verordening (EU) 2023/2405, of indien dat meer is, ten hoogste het dubbele van het bedrag dat het resultaat is van de vermenigvuldiging van de gemiddelde jaarlijkse prijs van luchtvaartbrandstof per ton met de totale jaarlijkse niet-getankte hoeveelheid brandstof.
+- c. ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, in het geval van overtreding van artikelen 8, 9 en 10 van Verordening (EU) 2023/2405.
+
+6\. Een bestuurlijke boete als bedoeld in het vierde lid bedraagt ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, of, of indien dat meer is, ten hoogste het dubbele van het bedrag dat het resultaat is van de vermenigvuldiging van het verschil tussen de gemiddelde jaarlijkse prijs per ton van conventionele luchtvaartbrandstof en duurzame luchtvaartbrandstof met de hoeveelheid luchtvaartbrandstof waarover de misleidende of onjuiste informatie is verstrekt.
+
+### Artikel 18.7
+
+Vervallen
+
+### Artikel 18.7a
+
+Vervallen
+
+### Artikel 18.8
+
+Tot de bevoegdheid tot oplegging van een last onder bestuursdwang krachtens artikel 18.4 van de Omgevingswet behoort het in Nederland door of vanwege het bevoegde bestuursorgaan beheren van afvalstoffen in gevallen waarin die afvalstoffen in strijd met het bij of krachtens de EG-verordening overbrenging van afvalstoffen of titel 10.7 bepaalde, binnen of buiten Nederlands grondgebied worden gebracht.
+
+### Artikel 18.8a
+
+Vervallen
+
+### Artikel 18.8b
+
+Vervallen
+
+### Artikel 18.9
+
+Vervallen
+
+### Artikel 18.10
+
+Vervallen
+
+### Artikel 18.11
+
+Vervallen
+
+### Artikel 18.12
+
+Vervallen
+
+### Artikel 18.13
+
+Vervallen
+
+### Artikel 18.14
+
+Vervallen
+
+### Artikel 18.14a
+
+Vervallen
+
+### Artikel 18.15
+
+Vervallen
+
+### Artikel 18.16
+
+Vervallen
+
+### Artikel 18.16a
+
+1\. In geval van overtreding van het bepaalde bij of krachtens de artikelen 16.5, 16.6, 16.12, 16.12 in verbinding met 16.39h, 16.12 in verbinding met 16.39ab, vierde lid, 16.12 in verbinding met 16.39af, derde lid, 16.13, 16.13 in verbinding met 16.39h, 16.13a, 16.14, 16.14 in verbinding met 16.39h, 16.14 in verbinding met 16.39af, derde lid, 16.19, 16.20a, derde lid en 16.20a, derde lid in verbinding met 16.20c, tweede lid, 16.21, 16.21 in verbinding met 16.39h, 16.21, eerste lid, in verbinding met 16.39ak, 16.23, tweede lid, in verbinding met 16.39ai, 16.29, onderdelen b en c, 16.39z, 16.39aa, 16.39ab, derde lid, 16.39ad, 16.39ae, eerste en tweede lid, 16.39af, 16.39ag, 16.39aj of van de artikelen 18.5, 18.5a, 18.5b, 18.5c, 18.5d en 18.6 of van artikel 18.18, voor zover het een voorschrift betreft dat is verbonden aan een vergunning krachtens hoofdstuk 16, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen.
+
+2\. Het bestuur van de emissieautoriteit legt een bestuurlijke boete op in geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste, tweede en derde lid. Artikel 5:41 van de Algemene wet bestuursrecht is niet van toepassing.
+
+3\. In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, wordt een bestuurlijke boete als bedoeld in het tweede lid, onderscheidenlijk kan een bestuurlijke boete als bedoeld in het eerste lid worden opgelegd naast een verhoging van het aantal broeikasgasemissierechten dat degene die de betrokken inrichting drijft, met betrekking tot een kalenderjaar overeenkomstig artikel 16.39 dient in te leveren. In geval van overtreding van het bepaalde bij artikel 16.39t, eerste lid, wordt een bestuurlijke boete als bedoeld in het tweede lid en kan een bestuurlijke boete als bedoeld in het eerste lid worden opgelegd naast een verhoging van het aantal broeikasgasemissierechten dat de vliegtuigexploitant met betrekking tot een kalenderjaar overeenkomstig artikel 16.39w dient in te leveren.
+
+4\. Door vernummering vervallen.
+
+5\. In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste lid, neemt het bestuur van de emissieautoriteit, naast het opleggen van een bestuurlijke boete, de overtreder op in het overzicht, bedoeld in artikel 18.16p, eerste lid.
+
+### Artikel 18.16b
+
+1\. In geval van overtreding van het bepaalde bij of krachtens artikel 16a.3, eerste of tweede lid, dan wel het derde lid in verbinding met de artikelen 16.6, eerste en derde lid, 16.12, of 16.19, of de artikelen 16a.5, 16a.6, 16a.8, eerste en tweede lid, of 16a.9, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen.
+
+2\. In geval van overtreding van het bepaalde bij of krachtens artikel 16a.9, voor zover het een voorschrift betreft dat is verbonden aan de goedkeuring van een elektriciteitsmonitoringsplan krachtens hoofdstuk 16a, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete en een last onder dwangsom tezamen opleggen.
+
+### Artikel 18.16c
+
+1\. In geval van overtreding van het bepaalde bij of krachtens de artikelen 16b.3, 16b.4, 16b.5, 16b.7, 16b.8, 16b.10, 16b.17, eerste en tweede lid, 16b.19, 16b.20, 16b.22, 16b.23, 16c.1 of artikel 16c.3, eerste of derde lid, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen.
+
+2\. In geval van overtreding van het bepaalde in artikel 16c.3, tweede lid, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen.
+
+### Artikel 18.16d
+
+Indien de gedraging tevens een strafbaar feit is en de ernst van de overtreding of de omstandigheden waaronder zij is begaan daartoe aanleiding geven, legt het bestuur van de emissieautoriteit haar aan het openbaar ministerie voor.
+
+### Artikel 18.16e
+
+1\. Een bestuurlijke boete als bedoeld in de artikelen 18.16a, eerste lid, 18.16b, eerste lid en 18.16c, eerste lid, bedraagt ten hoogste € 450 000 per overtreding of, indien de omzet van de betrokken onderneming in het boekjaar voorafgaand aan het jaar waarin de beschikking tot oplegging van de bestuurlijke boete is gegeven, meer dan € 4 500 000 bedraagt, ten hoogste 10% van die omzet.
+
+2\. In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste, tweede en derde lid, bedraagt een bestuurlijke boete als bedoeld in artikel 18.16a, tweede lid, het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag per ton emissie van een kooldioxide-equivalent, die meer is veroorzaakt dan overeenkomt met het aantal broeikasgasemissierechten, emissiereductie-eenheden of gecertificeerde emissiereducties dat overeenkomstig artikel 16.37, eerste lid, onderscheidenlijk artikel 16.39t, eerste lid, is ingeleverd. Artikel 5:46, derde lid, van de Algemene wet bestuursrecht is niet van toepassing.
+
+3\. In afwijking van het tweede lid bedraagt de bestuurlijke boete, bedoeld in dat lid, met betrekking tot het kalenderjaar 2013 en daarop volgende kalenderjaren per ton emissie van een kooldioxide-equivalent het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten genoemde bedrag, jaarlijks verhoogd overeenkomstig de Europese consumentenprijsindex.
+
+4\. Artikel 16.4 is van overeenkomstige toepassing.
+
+5\. De berekening van de omzet, bedoeld in het eerste lid, geschiedt op de voet van het bepaalde in artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek voor de netto-omzet.
+
+### Artikel 18.16f
+
+1\. Een bestuurlijke boete als bedoeld in artikel 18.16c, tweede lid, bedraagt bij overtreding van het bepaalde in artikel 16c.3, tweede lid, in overeenstemming met artikel 26, eerste lid, van de Verordening koolstofcorrectie aan de grens, voor elk CBAM-certificaat dat de toegelaten CBAM-aangever niet heeft ingeleverd: het bedrag dat gelijk is aan het in artikel 16, derde lid, van de EG-richtlijn handel in broeikasgasemissierechten bepaalde bedrag, inclusief de verhoging zoals bepaald in artikel 16, vierde lid, van die richtlijn.
+
+2\. Een bestuurlijke boete als bedoeld in artikel 18.16c, tweede lid, bedraagt bij overtreding van het bepaalde in artikel 16c.3, tweede lid, voor iemand anders dan een toegelaten CBAM-aangever, in overeenstemming met artikel 26, tweede lid, van de Verordening koolstofcorrectie aan de grens, drie- tot maximaal vijfmaal de bestuurlijke boete, bedoeld in het eerste lid.
+
+### Artikel 18.16g
+
+1\. Artikel 5:53 van de Algemene wet bestuursrecht is van toepassing bij overtreding van het bepaalde bij of krachtens de in de artikelen 18.6c, derde lid, 18.16a, eerste en tweede lid, eerste volzin en 18.16b, eerste lid en 18.16c genoemde artikelen.
+
+2\. In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste, tweede en derde lid, vermeldt het rapport, bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht, naast de in het tweede lid van dat artikel bedoelde gegevens, tevens het voornemen de naam van de overtreder op te nemen in het overzicht, bedoeld in artikel 18.16p, eerste lid.
+
+3\. Indien de gedraging aan het openbaar ministerie wordt voorgelegd op grond van artikel 18.16d, wordt een afschrift van het rapport aan het openbaar ministerie toegezonden.
+
+### Artikel 18.16h
+
+Vervallen
+
+### Artikel 18.16i
+
+In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste, tweede en derde lid, hebben de artikelen 5:49, 5:50, 5:51 en 5:53, derde lid, van de Algemene wet bestuursrecht mede betrekking op het opnemen van de naam van de overtreder in het overzicht, bedoeld in artikel 18.16p, eerste lid.
+
+### Artikel 18.16j
+
+Vervallen
+
+### Artikel 18.16k
+
+In geval van overtreding van het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste, tweede en derde lid vermeldt de beschikking tot oplegging van de bestuurlijke boete tevens dat de naam van de overtreder wordt opgenomen in het overzicht, bedoeld in artikel 18.16p, eerste lid.
+
+### Artikel 18.16l
+
+In afwijking van artikel 5:45, eerste lid, van de Algemene wet bestuursrecht vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van de artikelen 18.16a, eerste en tweede lid, en 18.16b, eerste lid en 18.16c, eerste lid, tien jaren nadat de overtreding heeft plaatsgevonden.
+
+### Artikel 18.16m
+
+Vervallen
+
+### Artikel 18.16n
+
+Vervallen
+
+### Artikel 18.16o
+
+Vervallen
+
+### Artikel 18.16p
+
+1\. Het bestuur van de emissieautoriteit stelt elk jaar voor 1 oktober een overzicht op van personen die het bepaalde bij artikel 16.37, eerste lid, of artikel 16.39t, eerste, tweede en derde lid, hebben overtreden en ten aanzien van wie de beschikking tot oplegging van de bestuurlijke boete, bedoeld in artikel 18.16k, onherroepelijk is geworden. Het overzicht wordt gepubliceerd in de Staatscourant.
+
+2\. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het overzicht, bedoeld in het eerste lid.
+
+### Artikel 18.16q
+
+1\. Het bestuur van de emissieautoriteit kan degene die jegens de in artikel 18.4, eerste of tweede lid, bedoelde personen in strijd handelt met artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, een bestuurlijke boete opleggen van ten hoogste € 4 500 of een last onder bestuursdwang als bedoeld in artikel 5.20, derde lid, van de Algemene wet bestuursrecht.
+
+2\. Artikel 184 van het Wetboek van Strafrecht is niet van toepassing op de in het eerste lid bedoelde overtreding.
+
+### Artikel 18.16r
+
+1\. Het bestuur van de emissieautoriteit kan de Commissie van Europese Gemeenschappen verzoeken een exploitatieverbod als bedoeld in artikel 16, tiende lid, van de EG-richtlijn handel in broeikasgasemissierechten op te leggen aan een vliegtuigexploitant die niet voldoet aan het bepaalde bij of krachtens afdeling 16.2.2, indien zulks niet met andere handhavingsmaatregelen kon worden gewaarborgd. Het verzoek voldoet in elk geval aan de in artikel 16, zesde lid, van genoemde richtlijn opgenomen eisen.
+
+2\. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter uitvoering van het eerste lid. Indien regels worden gesteld, worden in de maatregel in elk geval geregeld:
+
+- a. de gevallen waarin een verzoek kan worden ingediend;
+- b. de procedure die voorafgaand aan het indienen van het verzoek moet worden gevolgd.
+
+3\. Onze Minister kan, in overeenstemming met Onze Minister van Verkeer en Waterstaat, regels stellen met betrekking tot de eisen waaraan een verzoek overigens moet voldoen.
+
+4\. Krachtens het tweede en derde lid gestelde regels voldoen in elk geval aan de eisen die de Commissie van de Europese Gemeenschappen op grond van artikel 16, twaalfde lid, van de EG-richtlijn handel in broeikasgasemissierechten heeft vastgesteld.
+
+5\. Het bestuur van de emissieautoriteit zendt een afschrift van een verzoek als bedoeld in het eerste lid aan Onze Minister en aan Onze Minister van Verkeer en Waterstaat. Het afschrift wordt verzonden gelijktijdig met het indienen van het verzoek bij de Commissie van de Europese Gemeenschappen.
+
+### Artikel 18.16s
+
+1\. In geval van overtreding van het bepaalde bij of krachtens de artikelen 9.7.1.3, 9.7.2.1, 9.7.2.3, 9.7.2.5, 9.7.2.6, 9.7.4.1 tot en met 9.7.4.5, 9.7.4.8, 9.7.4.10, 9.7.4.12, 9.7.4.13, 9.7.6.1, 9.7.6.2, 9.8.5.1 kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen.
+
+2\. De op grond van de artikelen, bedoeld in het eerste lid, op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, of, indien dat meer is, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
+
+3\. Artikel 18.16e, vijfde lid, is van overeenkomstige toepassing.
+
+4\. Het bestuur van de emissieautoriteit kan, indien een inboeker drie of meer overtredingen van de artikelen 9.7.4.1 tot en met 9.7.4.5, 9.7.4.8, 9.7.4.10, 9.7.4.12, 9.7.4.13, 9.7.6.1 en 9.7.6.2 heeft begaan, bepalen dat die inboeker gedurende een door het bestuur te bepalen termijn geen hernieuwbare energie kan inboeken op grond van artikel 9.7.4.1.
+
+5\. Het bestuur van de emissieautoriteit kan, indien een raffinaderijhouder drie of meer overtredingen van de artikelen 9.8.3.1, 9.8.3.2 of 9.8.3.6 heeft begaan, bepalen dat die raffinaderijhouder gedurende een door het bestuur te bepalen termijn geen door hem in zijn raffinaderij gebruikte hoeveelheid hernieuwbare brandstof van niet-biologische oorsprong kan inboeken op grond van artikel 9.8.3.1.
+
+### Artikel 18.16t
+
+Vervallen
+
+### Artikel 18.17
+
+Indien binnen een periode van vier jaar aan een persoon tweemaal voor eenzelfde feit een bestuurlijke boete als bedoeld in artikel 18.16a is opgelegd en de betrokken boeten binnen die periode onherroepelijk zijn geworden, kan het bestuur van de emissieautoriteit de vergunning, bedoeld in artikel 16.5, die de betrokken persoon houdt, intrekken.
+
+### Artikel 18.18
+
+Een gedraging in strijd met een voorschrift dat is verbonden aan een krachtens deze wet of een verordening als bedoeld in artikel 18.1a, eerste lid verleende vergunning of ontheffing, is verboden.
+
+### Artikel 18.19
+
+1\. Een overheidslichaam kan – behoudens matiging door de rechter – de voor zijn rekening komende kosten van het beheer van afvalstoffen waarbij in strijd is gehandeld met het bij of krachtens deze wet bepaalde, verhalen op degene door wiens onrechtmatige daad die kosten zijn veroorzaakt, of op degene die anderszins krachtens burgerlijk recht buiten overeenkomst aansprakelijk is voor de gevolgen daarvan.
+
+2\. Een overheidslichaam kan in een geval als bedoeld in het eerste lid, overeenkomstig de regels betreffende ongerechtvaardigde verrijking, de daar bedoelde kosten verhalen op degene die door het beheer van de betrokken afvalstoffen ongerechtvaardigd wordt verrijkt.
+
+3\. Voor de toepassing van dit artikel is niet vereist dat op het tijdstip waarop de in het eerste lid bedoelde handeling met de in dat lid bedoelde afvalstoffen zich heeft voorgedaan, als tegenover de overheid onrechtmatig werd gehandeld.
+
+### Artikel 18.20
+
+1\. De artikelen 18.20 tot en met 18.22 hebben, in verband met de uitvoering van de EU-verordening markttoezicht, betrekking op de handhaving van het bepaalde bij of krachtens:
+
+- a. de titels 9.3, 9.3a en 9.4,
+- b. de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen,
+- c. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels,
+- d. de EG-verordening EU-milieukeur of
+- e. de titels 2.5, 9.2 en 9.5, voor zover daarbij uitvoering wordt gegeven aan een internationale verplichting.
+
+2\. In verband met de uitvoering van het eerste lid, zijn bevoegd om, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, stoffen, mengsels of producten te verkrijgen ten behoeve van het controleren van de kenmerken van deze stoffen, mengsels of producten en de verificatie van de betreffende documenten en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is:
+
+- i. krachtens artikel 18.6 van de Omgevingswet juncto artikel 18.1a, eerste lid, aangewezen toezichthouders,
+- ii. Onze Minister voor zover de op grond van artikel 18.2b, eerste lid, bedoelde zorg voor de bestuursrechtelijke handhaving bij hem berust, en
+- iii. Onze Minister van Economische Zaken en Klimaat, Onze Minister van Sociale Zaken en Werkgelegenheid of Onze Minister van Volksgezondheid, Welzijn en Sport, voor zover deze de zorg voor de bestuursrechtelijke handhaving ingevolge artikel 18.2b, tweede lid, tot taak heeft. Artikel 5.12, tweede lid, van de Algemene wet bestuursrecht is niet van toepassing.
+
+3\. Degene die gebruik heeft gemaakt van de bevoegdheid, bedoeld in het tweede lid, maakt daarvan een schriftelijk verslag op, waarin vermeld wordt:
+
+- a. zijn naam of nummer en hoedanigheid;
+- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
+- c. de voorschriften op de naleving waarvan wordt toegezien;
+- d. het adres, waaronder indien van toepassing, het elektronische adres waar de stof, het mengsel of het product, is verkregen en, voor zover bekend, de omschrijving van de betrokken marktdeelnemer, bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+- e. de onjuiste of onvolledige gegevens die zijn verstrekt bij de verkrijging van de stof, het mengsel of het product;
+- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
+- g. wat de uitkomst is van het onderzoek van de verkregen stof, het verkregen mengsel of het verkregen product.
+
+### Artikel 18.21
+
+1\. In verband met de uitvoering van artikel 18.20, eerste lid, kan Onze ingevolge artikel 18.20, tweede lid, onderdelen ii en iii, bevoegde Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van de EU-verordening markttoezicht, gevormd door een stof, mengsel of product, weg te nemen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van de EU-verordening markttoezicht of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers, bedoeld in artikel 3, onderdeel 21, van de EU-verordening markttoezicht, wanneer zij zich toegang verschaffen tot een online interface.
+
+2\. Indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld in het eerste lid is voldaan, kan Onze Minister een zelfstandige last opleggen aan een aanbieder van diensten van de informatiemaatschappij, als bedoeld in artikel 3, onderdeel 14, van de EU-verordening markttoezicht om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.
+
+3\. Degene tot wie een zelfstandige last als bedoeld in het eerste of het tweede lid is gericht, handelt overeenkomstig die last.
+
+4\. Op grond van het eerste of tweede lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
+
+5\. Voor een zelfstandige last als bedoeld in het eerste of tweede lid is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. Artikel 171 van het Wetboek van Strafvordering is van overeenkomstige toepassing.
+
+6\. Tegen de beslissing van de rechter-commissaris, bedoeld in het vijfde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister, binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+7\. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
+
+### Artikel 18.22
+
+Titel 5.2 van de Algemene wet bestuursrecht is van overeenkomstige toepassing voor zover de krachtens artikel 18.6 van de Omgevingswet juncto artikel 18.1a, eerste lid, aangewezen toezichthouders, bijstand verlenen aan een markttoezichtautoriteit als bedoeld in artikel 3, onderdeel 4, van de EU-verordening markttoezicht, uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
+
+## Hoofdstuk 19 — Openbaarheid van milieu-informatie
+
+### Artikel 19.1a
+
+1\. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder milieu-informatie: alle informatie, neergelegd in documenten, over:
+
+- a. de toestand van elementen van het milieu, zoals lucht en atmosfeer, water, bodem, land, landschap en natuurgebieden met inbegrip van vochtige biotopen, kust- en zeegebieden, biologische diversiteit en haar componenten, met inbegrip van genetisch gemodificeerde organismen, en de interactie tussen deze elementen;
+- b. factoren, zoals stoffen, energie, geluid, straling of afval, met inbegrip van radioactief afval, emissies, lozingen en ander vrijkomen van stoffen in het milieu die de onder a bedoelde elementen van het milieu aantasten of waarschijnlijk aantasten;
+- c. maatregelen, met inbegrip van bestuurlijke maatregelen, zoals beleidsmaatregelen, wetgeving, plannen, programma’s, milieuakkoorden en activiteiten die op de onder a en b bedoelde elementen en factoren van het milieu een uitwerking hebben of kunnen hebben, alsmede maatregelen of activiteiten ter bescherming van die elementen;
+- d. verslagen over de toepassing van de milieuwetgeving;
+- e. kosten-baten- en andere economische analyses en veronderstellingen die worden gebruikt in het kader van de onder c bedoelde maatregelen en activiteiten;
+- f. de toestand van de gezondheid en veiligheid van de mens, met inbegrip van de verontreiniging van de voedselketen, indien van toepassing, de levensomstandigheden van de mens, waardevolle cultuurgebieden en bouwwerken, voorzover zij worden of kunnen worden aangetast door de onder a bedoelde toestand van elementen van het milieu of, via deze elementen, door de onder b en c bedoelde factoren, maatregelen of activiteiten.
+
+2\. De definitie van «document» in artikel 2.1 van de Wet open overheid is van overeenkomstige toepassing.
+
+### Artikel 19.1b
+
+1\. Na het einde van de termijn waarbinnen beroep kan worden ingesteld tegen een beschikking op grond van deze wet, de Kernenergiewet, de Mijnbouwwet, de Omgevingswet, de Wet bescherming Antarctica, de Wet bodembescherming, de Wet geluidhinder of de Wet dieren voor zover deze betrekking heeft op dierlijke bijproducten op de voorbereiding waarvan afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is, wordt, zolang zij niet is tenietgegaan, door het bevoegd gezag aan een ieder desgevraagd kosteloos inzage gegeven in en tegen vergoeding van ten hoogste de kosten een exemplaar verstrekt van de beschikking en voor zover mogelijk van de stukken die in verband met de totstandkoming daarvan overeenkomstig deze wet dan wel afdeling 3.4 of artikel 3:44 van de Algemene wet bestuursrecht ter inzage dienden te worden gelegd.
+
+2\. Nadat een beschikking krachtens een in het eerste lid genoemde wet tot verlening of wijziging van een vergunning die betrekking heeft op een installatie als bedoeld in Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) (PbEU 2010, L 334) onherroepelijk is geworden, doet het bevoegd gezag daarvan in afwijking van het eerste lid mededeling in het publicatieblad van het openbaar lichaam waartoe het behoort.
+
+### Artikel 19.1c
+
+Onverminderd de artikelen 3.1 en 3.3 van de Wet open overheid verstrekt een bestuursorgaan uit eigen beweging informatie over de openbare verantwoordelijkheden en functies die het heeft alsmede de openbare diensten die het verleent met betrekking tot het milieu.
+
+### Artikel 19.2
+
+1\. In het geval van een gebeurtenis waardoor een onmiddellijke bedreiging van het leven of de gezondheid van personen, van het milieu of van grote materiële belangen is ontstaan, verstrekt de burgemeester voor zover deze informatie niet reeds ingevolge artikel 7 van de Wet veiligheidsregio’s of een ander wettelijk voorschrift moet worden verstrekt, aan de personen die getroffen kunnen worden, terstond op passende wijze alle informatie over de maatregelen die zijn getroffen ter voorkoming en beperking van de bedreiging en de daaruit voortvloeiende nadelige gevolgen en de daartoe door die personen te volgen gedragslijn. In geval van een situatie als bedoeld in artikel 39 van de Wet veiligheidsregio’s wordt de informatie verstrekt door de voorzitter van de veiligheidsregio.
+
+2\. Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven over de gevallen waarin ingevolge het eerste lid informatie wordt verstrekt, over de inhoud van de te verstrekken informatie en over de wijze waarop de informatie wordt verstrekt.
+
+### Artikel 19.3
+
+1\. Indien in een stuk ten aanzien waarvan bij of krachtens deze wet of door afdeling 3.4 of 3.6 van de Algemene wet bestuursrecht openbaarmaking wordt voorgeschreven, milieu-informatie voorkomt of uit zodanig stuk milieu-informatie kan worden afgeleid, waarvan de geheimhouding op grond van artikel 5.1, eerste en tweede lid, van de Wet open overheid gerechtvaardigd is, kan het bevoegd gezag op een daartoe strekkend schriftelijk verzoek van de belanghebbende toestaan dat deze ten behoeve van de openbaarmaking een, door het bevoegd gezag goedgekeurde, tweede tekst overlegt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid. Het bevoegd gezag maakt van deze bevoegdheid slechts gebruik met betrekking tot bedrijfsgeheimen en beveiligingsgegevens. Bij een algemene maatregel van bestuur krachtens deze wet kunnen ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie gegevens worden aangewezen waarvoor de in de eerste volzin bedoelde bevoegdheid eveneens geldt.
+
+2\. Indien in een stuk ten aanzien waarvan bij of krachtens deze wet of door afdeling 3.4 of 3.6 van de Algemene wet bestuursrecht openbaarmaking wordt voorgeschreven, milieu-informatie voorkomt of uit zodanig stuk milieu-informatie kan worden afgeleid, waarvan de openbaarmaking achterwege dient te blijven, onderscheidenlijk achterwege mag blijven, op grond van artikel 5.1, eerste lid, aanhef en onder b, onderscheidenlijk tweede lid, aanhef en onder a, van de Wet open overheid, wordt op aanwijzing van Onze betrokken Minister ten behoeve van de openbaarmaking een tweede tekst overgelegd, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid.
+
+### Artikel 19.4
+
+1\. In gevallen waarin toepassing is gegeven aan artikel 19.3, eerste lid, vult de verzoeker, indien een tweede tekst naar het oordeel van het bevoegd gezag niet voldoende gegevens zou verschaffen voor een goede beoordeling van het stuk waarop het verzoek betrekking heeft, een ander stuk in samenhang waarmee het stuk wordt ingediend, het ontwerp van het besluit of het besluit, de stukken binnen een door het bevoegd gezag te stellen termijn zoveel mogelijk aan met andere gegevens die voor die beoordeling bevorderlijk kunnen zijn.
+
+2\. In gevallen waarin toepassing is gegeven aan artikel 19.3, tweede lid, vult Onze betrokken Minister, indien een tweede tekst naar zijn oordeel niet voldoende gegevens zou verschaffen voor een goede beoordeling van het stuk waarop het verzoek betrekking heeft, een ander stuk in samenhang waarmee het stuk wordt ingediend, het ontwerp van het besluit of het besluit, de stukken zoveel mogelijk aan met andere gegevens die voor die beoordeling bevorderlijk kunnen zijn.
+
+3\. Op de tweede tekst stelt het bevoegd gezag een aantekening waaruit blijkt dat die tekst dient ter vervanging van de oorspronkelijke tekst waarin gegevens voorkomen, waarvan de geheimhouding gerechtvaardigd onderscheidenlijk geboden is. Indien het eerste of tweede lid toepassing heeft gevonden, vermeldt de aantekening tevens dat de stukken zijn aangevuld met gegevens als in die leden bedoeld.
+
+### Artikel 19.5
+
+1\. Op een verzoek tot geheimhouding beslist het bevoegd gezag binnen vier weken na ontvangst. Van de beslissing wordt mededeling gedaan aan de betrokken bestuursorganen. Indien het verzoek in het kader van de toepassing van afdeling 16.4 van de Omgevingswet is gedaan en betrekking heeft op een plan of programma onderscheidenlijk besluit waarover de Commissie voor de milieueffectrapportage op grond van artikel 16.39 van die wet onderscheidenlijk 16.47 van die wet, in de gelegenheid wordt gesteld advies uit te brengen, wordt van de beslissing tevens mededeling gedaan aan die commissie.
+
+2\. Indien een verzoek tot geheimhouding in het kader van de toepassing van afdeling 3.4 of 3.6 van de Algemene wet bestuursrecht indien het een besluit op aanvraag betreft, schort het bevoegd gezag de verdere behandeling van de aanvraag op totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in artikel 19.4, eerste lid, bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden. De krachtens de artikelen 3:18 en 4:5 van de Algemene wet bestuursrecht, artikel 31 van de Dienstenwet, artikel 16.64 van de Omgevingswet en artikel 13.8 geldende termijnen lopen niet zolang de behandeling is opgeschort.
+
+3\. Indien een verzoek tot geheimhouding in het kader van de toepassing van afdeling 3.4 of 3.6 van de Algemene wet bestuursrecht indien het geen besluit op aanvraag betreft, laat het bevoegd gezag de openbaarmaking van het stuk waarop het verzoek betrekking heeft, achterwege totdat, indien het verzoek wordt toegestaan, de tweede tekst is overgelegd en de stukken zijn aangevuld met de in artikel 19.4, eerste lid, bedoelde gegevens, dan wel, indien het verzoek geheel of gedeeltelijk wordt afgewezen, de beslissing op het verzoek onherroepelijk is geworden.
+
+### Artikel 19.6
+
+Vervallen
+
+### Artikel 19.6a
+
+De artikelen 19.3 tot en met 19.5 zijn van overeenkomstige toepassing op gegevens die voorkomen in een stuk ten aanzien waarvan openbaarmaking wordt voorgeschreven of die uit zodanig stuk kunnen worden afgeleid en die niet als milieu-informatie zijn te beschouwen.
+
+### Artikel 19.6b
+
+Indien bij de voorbereiding van een besluit als bedoeld in artikel 16.43, eerste lid, van de Omgevingswet bij de voorbereiding waarvan een milieueffectrapport moet worden gemaakt, dan wel van een besluit inzake een omgevingsvergunning voor een milieubelastende activiteit, ingevolge een wettelijk voorschrift of een besluit van het bevoegd gezag informatie openbaar wordt gemaakt, en dat wettelijk voorschrift of besluit zich op andere gronden dan voorzien in artikel 5.1, eerste en tweede lid, van de Wet open overheid tegen de openbaarmaking verzet, is artikel 5.1, eerste en tweede lid, van de Wet open overheid van overeenkomstige toepassing en blijft het wettelijk voorschrift of besluit dat zich tegen de openbaarmaking verzet, buiten toepassing. Indien milieu-informatie niet ter inzage wordt gelegd, wordt daarvan mededeling gedaan.
+
+### Artikel 19.7
+
+1\. Indien in een emissieverslag als bedoeld in artikel 16.1 of een elektriciteitsemissieverslag als bedoeld in artikel 16a.1 of een industrieel emissieverslag als bedoeld in artikel 16b.1 milieu-informatie voorkomt of milieu-informatie daaruit kan worden afgeleid, waarvan de geheimhouding op grond van artikel 5.1, eerste en tweede lid, van de Wet open overheid gerechtvaardigd is, kan het bestuur van de emissieautoriteit op een daartoe strekkend verzoek van degene die de inrichting drijft, toestaan dat een door het bestuur van de emissieautoriteit goedgekeurde, tweede tekst openbaar wordt gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit die informatie niet kan worden afgeleid. Het bestuur van de emissieautoriteit maakt van deze bevoegdheid slechts gebruik met betrekking tot bedrijfsgeheimen en beveiligingsgegevens. Het in de eerste volzin bedoelde verzoek wordt gedaan uiterlijk drie maanden na afloop van het verslagjaar. Bij het verzoek wordt een tweede tekst overgelegd.
+
+2\. Indien in een emissieverslag als bedoeld in artikel 16.1 of een elektriciteitsemissieverslag als bedoeld in artikel 16a.1 of een industrieel emissieverslag als bedoeld in artikel 16b.1 milieu-informatie voorkomt of daaruit milieu-informatie kan worden afgeleid, waarvan de openbaarmaking achterwege dient te blijven, onderscheidenlijk achterwege mag blijven, op grond van artikel 5.1, eerste lid, aanhef en onder b, onderscheidenlijk tweede lid, aanhef en onder a, van de Wet open overheid, wordt een door degene die de inrichting drijft, op aanwijzing van het bestuur van de emissieautoriteit opgestelde tweede tekst openbaar gemaakt, waarin die informatie niet voorkomt, onderscheidenlijk waaruit deze niet kan worden afgeleid.
+
+3\. De artikelen 19.4 en 19.5, eerste lid, zijn van overeenkomstige toepassing, met dien verstande dat het bestuursorgaan, bedoeld in het eerste lid, wordt aangemerkt als het bevoegd gezag.
+
+4\. Indien een verzoek als bedoeld in het eerste lid is gedaan, kan openbaarmaking van het betrokken emissieverslag of elektriciteitsemissieverslag of industrieel emissieverslag achterwege blijven tot uiterlijk vier weken nadat op dat verzoek onherroepelijk is beslist.
+
+### Artikel 19.8
+
+Vervallen
+
+## Hoofdstuk 20 — Inwerkingtreding en rechtsbescherming
+
+### Artikel 20.1
+
+1\. De Afdeling bestuursrechtspraak van de Raad van State beslist op een beroep tegen een besluit op grond van deze wet of tegen besluiten als bedoeld in artikel 20.3, eerste lid, binnen twaalf maanden na afloop van de beroepstermijn. In afwijking van de eerste volzin beslist de Afdeling op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, of een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, binnen veertig weken na afloop van de termijn voor het indienen van een beroepschrift tegen eerstbedoeld besluit.
+
+2\. Het beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, kan uitsluitend worden ingesteld door een belanghebbende die rechtstreeks in zijn belang is getroffen door de wijzigingen die ten opzichte van het oorspronkelijke nationale toewijzingsbesluit zijn aangebracht. Artikel 6:13 van de Algemene wet bestuursrecht is van overeenkomstige toepassing.
+
+3\. In afwijking van artikel 6:8 van de Algemene wet bestuursrecht vangt de termijn voor het instellen van beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, aan met ingang van de dag na die waarop in de Staatscourant een mededeling is gedaan als bedoeld in artikel 16.30a, eerste lid, dan wel met ingang van de dag na die waarop het gewijzigde nationale toewijzingsbesluit overeenkomstig artikel 16.30a, derde lid, tweede volzin, in verbinding met artikel 16.30, vierde lid, in de Staatscourant is bekendgemaakt. In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het instellen van beroep tegen een gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, vier weken.
+
+4\. In afwijking van artikel 6:19, eerste lid, van de Algemene wet bestuursrecht wordt het beroep tegen het nationale toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, geacht mede gericht te zijn tegen het gewijzigde nationale toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid.
+
+### Artikel 20.2
+
+Het beroep tegen een beschikking omtrent het nemen van maatregelen als bedoeld in artikel 17.10, derde lid, artikel 17.12, vierde lid, of artikel 17.13, vijfde lid, kan ook worden ingesteld door degenen die milieuschade dreigen te lijden.
+
+### Artikel 20.2a
+
+Vervallen
+
+### Artikel 20.3
+
+1\. Een besluit op grond van:
+
+- deze wet;
+- de artikelen 34, 39, eerste lid, van de Mijnbouwwet, met uitzondering van een besluit omtrent een mijnbouwmilieuvergunning voor een mijnbouwwerk te plaatsen of geplaatst aan de zeezijde van de in de bijlage bij de Mijnbouwwet vastgelegde lijn en een besluit omtrent instemming met een winningsplan of opslagplan, voor zover het winnen van delfstoffen of aardwarmte dan wel het opslaan van stoffen geschiedt vanuit of in een voorkomen dat is gelegen aan de zeezijde van de in de bijlage bij de Mijnbouwwet vastgelegde lijn;
+- de Kernenergiewet;
+- de Wet bescherming Antarctica;
+- de EG-verordening overbrenging van afvalstoffen;
+
+waartegen ingevolge artikel 2 van de bij de Algemene wet bestuursrecht behorende Bevoegdheidsregeling bestuursrechtspraak beroep bij de Afdeling bestuursrechtspraak van de Raad van State kan worden ingesteld, treedt in werking met ingang van de dag na de dag waarop de termijn voor het indienen van een bezwaarschrift afloopt, dan wel, indien ingevolge artikel 7:1, eerste lid, onderdeel d of e, van de Algemene wet bestuursrecht geen bezwaar kan worden gemaakt, met ingang van de dag na de dag waarop de termijn voor het indienen van een beroepschrift afloopt.
+
+Indien gedurende die termijn bij de bevoegde rechter een verzoek om voorlopige voorziening is gedaan, treedt het besluit niet in werking voordat op dat verzoek is beslist.
+
+2\. In afwijking van het eerste lid, eerste volzin, treedt een besluit op een aanvraag om een vergunning voor het oprichten, in werking brengen, in werking houden, buiten gebruik stellen, wijzigen of ontmantelen van een inrichting als bedoeld in artikel 15, onder b, van de Kernenergiewet dat tevens is aan te merken als het bouwen van een bouwwerk waarvoor een omgevingsvergunning voor een omgevingsplanactiviteit als bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet, bestaande uit een bouwactiviteit of het in stand houden van een bouwwerk, of een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 5.1, tweede lid, aanhef en onder a, van de Omgevingswet is vereist, niet eerder in werking dan nadat de betrokken omgevingsvergunning is verleend.
+
+3\. Indien het gebruik maken van een besluit als bedoeld in het eerste lid, eerste volzin, voordat op een beroep is beslist, wegens de daaraan verbonden kosten, dan wel wegens de daardoor veroorzaakte wijziging in feitelijke omstandigheden die bij de beslissing op het beroep een rol kunnen spelen, aanmerkelijke invloed kan hebben op die beslissing, wordt een zodanige voorlopige voorziening getroffen dat die invloed zich niet kan voordoen.
+
+### Artikel 20.4
+
+Artikel 20.3 is niet van toepassing op besluiten op een aanvraag om een vergunning of op bezwaren krachtens de EG-verordening overbrenging van afvalstoffen.
+
+### Artikel 20.5
+
+1\. In gevallen waarin het onverwijld in werking treden van een besluit als bedoeld in artikel 20.3, eerste lid, eerste volzin, naar het oordeel van het bevoegd gezag noodzakelijk is, kan het in afwijking van dat lid in het besluit bepalen dat het terstond in werking treedt.
+
+2\. Het eerste lid is niet van toepassing op besluiten op de voorbereiding waarvan afdeling 3.4 van de Algemene wet bestuursrecht van toepassing is.
+
+### Artikel 20.5a
+
+1\. De Afdeling bestuursrechtspraak van de Raad van State voegt de behandeling van bij haar aanhangige zaken over een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, die op dezelfde handelsperiode betrekking hebben. De eerste volzin is niet van toepassing op latere wijzigingen van een nationaal toewijzingsbesluit overeenkomstig subparagraaf 16.2.1.3.2.
+
+2\. Alvorens te beslissen op een beroep tegen een nationaal toewijzingsbesluit als bedoeld in artikel 16.24, eerste lid, geeft de Afdeling, in gevallen waarin het beroep naar haar oordeel gegrond is, toepassing aan artikel 8:51d van de Algemene wet bestuursrecht, met dien verstande dat de tussenuitspraak, bedoeld in artikel 8:80a, eerste lid, van de Algemene wet bestuursrecht, wordt gedaan binnen achttien weken na afloop van de voor dat besluit geldende beroepstermijn.
+
+3\. De Afdeling voegt bij haar aanhangig gemaakte zaken met betrekking tot een naar aanleiding van haar tussenuitspraak gewijzigd nationaal toewijzingsbesluit als bedoeld in artikel 16.31, eerste lid, ter behandeling met zaken over het oorspronkelijke nationale toewijzingsbesluit die reeds bij haar aanhangig zijn.
+
+### § 20.1 — Algemeen
+
+#### Artikel 20.2
+
+Vervallen
+
+### § 20.2 — Advisering inzake beroepen milieubeheer
+
+#### Artikel 20.6
+
+Vervallen
+
+#### Artikel 20.7
+
+Vervallen
+
+#### Artikel 20.8
+
+Vervallen
+
+#### Artikel 20.9
+
+Vervallen
+
+#### Artikel 20.10
+
+Vervallen
+
+#### Artikel 20.11
+
+Vervallen
+
+#### Artikel 20.12
+
+Vervallen
+
+#### Artikel 20.13
+
+Vervallen
+
+#### Artikel 20.14
+
+Vervallen
+
+#### Artikel 20.15
+
+Vervallen
+
+#### Artikel 20.16
+
+Vervallen
+
+#### Artikel 20.17
+
+Vervallen
+
+#### Artikel 20.18
+
+Vervallen
+
+#### Artikel 20.19
+
+Vervallen
+
+#### Artikel 20.20
+
+Vervallen
+
+#### Artikel 20.21
+
+Vervallen
+
+## Hoofdstuk 21 — Verdere bepalingen
+
+### Artikel 21.1
+
+1\. Burgemeester en wethouders, gedeputeerde staten en ieder Onzer betrokken Ministers doen jaarlijks verslag aan onderscheidenlijk de gemeenteraad, provinciale staten en de Staten-Generaal over hun beleid met betrekking tot de uitvoering van de hoofdstukken 8, 13 en 18. Burgemeester en wethouders en gedeputeerde staten zenden het verslag gelijktijdig met de aanbieding aan de gemeenteraad, onderscheidenlijk provinciale staten, aan de inspecteur.
+
+2\. Zij vermelden in hun verslag in ieder geval:
+
+- a. het aantal malen dat in de periode waarop het verslag betrekking heeft, de termijnen zijn overschreden, die ingevolge artikel 3:18 van de Algemene wet bestuursrecht gelden voor het geven van de beschikking, de oorzaken daarvan en de maatregelen die zij hebben getroffen of zullen treffen om het overschrijden van die termijnen zo veel mogelijk te voorkomen;
+- b. afzonderlijk de wijze waarop zij de in het eerste lid genoemde hoofdstukken van deze wet hebben uitgevoerd ten aanzien van inrichtingen die geheel of gedeeltelijk gedreven worden door onderscheidenlijk de betrokken gemeente, de betrokken provincie of het rijk.
+
+3\. Gevallen ten aanzien waarvan artikel 13.10 is toegepast, worden in het verslag van Onze Minister niet vermeld.
+
+### Artikel 21.2
+
+1\. Onze Minister zendt - voor zover het betreft het ambtsterrein van één of meer Onzer andere Ministers, in overeenstemming met die Ministers - binnen drie jaar na het in werking treden van deze wet, en vervolgens telkens om de vijf jaar, aan de Staten-Generaal een verslag over de wijze waarop zij is toegepast.
+
+2\. Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gesteld met betrekking tot de toepassing van het eerste lid. Deze regelen kunnen voor daarbij aangewezen bestuursorganen de verplichting inhouden jaarlijks op de daarbij aangegeven wijze de gegevens te verstrekken, die voor de opstelling van het in het eerste lid bedoelde verslag nodig zijn.
+
+### Artikel 21.2a
+
+Een bestuursorgaan verstrekt Onze Minister de gegevens die hij nodig heeft ter uitvoering van de in de artikelen 51, 55, 59 en 72 van richtlijn nr. 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (PbEU L 334) opgelegde verplichtingen tot informatieverstrekking. Bij ministeriële regeling kunnen daaromtrent nadere regels worden gesteld.
+
+### Artikel 21.3
+
+Vervallen
+
+### Artikel 21.4
+
+Bij algemene maatregel van bestuur kunnen bepalingen van deze wet die betrekking hebben op stoffen, van toepassing worden verklaard op micro-organismen, niet zijnde genetisch gemodificeerde organismen.
+
+### Artikel 21.5
+
+Voor de uitvoering van deze wet ten aanzien van gebieden die niet deel uitmaken van een gemeente of provincie, worden, voor zover nodig, bij algemene maatregel van bestuur regels gesteld ten aanzien van de bestuursorganen die de in deze wet vervatte bevoegdheden uitoefenen en ten aanzien van de bestuursorganen die bij die uitvoering dienen te worden betrokken.
+
+### Artikel 21.6
+
+1\. De voordracht voor een algemene maatregel van bestuur krachtens artikel 9.2.3.2 wordt Ons gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport, mede namens Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid.
+
+2\. Het ontwerp van een algemene maatregel van bestuur krachtens artikel 1.1, eerste, derde, zesde, zevende of achtste lid, 2.2, derde lid, 8.40, 8.49, vijfde lid, 9.2.1.3, tweede lid, 9.2.1.4, 9.2.2.1, eerste lid, 9.2.2.1a, 9.2.3.2, 9.2.3.3, vierde lid, 9.5.2, 10.2, tweede lid, 10.22, tweede lid, 10.28, eerste lid, 10.29, eerste lid, 10.41, eerste en tweede lid, 10.42, eerste lid, 10.43, eerste lid, 10.44, derde lid, 10.46, eerste lid, 10.47, eerste lid, 10.48, eerste lid, 10.54, derde lid, 10.61, eerste lid, 11.11, tweede lid, 15.13, eerste lid, 15.32, eerste of tweede lid, 15.46, vijfde lid, 17.7 of 21.4 wordt overgelegd aan de beide kamers der Staten-Generaal en in de Staatscourant bekendgemaakt. Aan een ieder wordt de gelegenheid geboden binnen een bij die bekendmaking vast te stellen termijn van ten minste vier weken opmerkingen over het ontwerp schriftelijk ter kennis van Onze Minister te brengen.
+
+3\. Een algemene maatregel van bestuur als bedoeld in het tweede lid wordt, nadat hij is vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Hij treedt niet eerder in werking dan vier weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst.
+
+4\. Hetgeen ingevolge deze wet bij algemene maatregel van bestuur kan worden geregeld, wordt in afwijking daarvan bij ministeriële regeling geregeld, indien de regels uitsluitend strekken ter uitvoering van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, tenzij voor een juiste uitvoering wijziging van een algemene maatregel van bestuur of de wet noodzakelijk is. Indien wijziging van een algemene maatregel van bestuur noodzakelijk is, wordt daarvan, gelijktijdig met de voordracht aan Ons, gemotiveerd kennis gegeven aan de beide kamers der Staten-Generaal, onder korte vermelding van de inhoud van de voorgenomen algemene maatregel van bestuur. Het ontwerp van een ministeriële regeling als bedoeld in de eerste volzin wordt ten minste vier weken voordat de regeling wordt vastgesteld, toegezonden aan de beide kamers der Staten-Generaal. Op de vaststelling van een ministeriële regeling is het eerste lid van overeenkomstige toepassing.
+
+### Artikel 21.7
+
+De bevoegdheid van gemeenteraden en waterschappen tot het maken van verordeningen blijft ten aanzien van het onderwerp waarin hoofdstuk 10 voorziet, gehandhaafd, voor zover deze verordeningen niet met het bij of krachtens deze wet bepaalde in strijd zijn.
+
+### Artikel 21.8
+
+Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van deze wet nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.
+
+## Hoofdstuk 22 — Slotbepalingen
+
+### Artikel 22.1
+
+1\. De hoofdstukken 8 en 17 van deze wet zijn niet van toepassing op inrichtingen waarvoor een vergunning is vereist krachtens artikel 15, onder b, van de Kernenergiewet, behoudens voor zover uit de bepalingen van die wet anders blijkt. Die hoofdstukken en die titel zijn evenmin van toepassing op inrichtingen, voor zover daarvoor bij of krachtens andere dan in de eerste volzin genoemde bepalingen van die wet vergunning is vereist of algemene voorschriften gelden, behoudens voor zover uit de bij of krachtens die wet gestelde bepalingen anders blijkt.
+
+2\. Artikel 8.40 is niet van toepassing op activiteiten voor zover daaromtrent regels zijn gesteld op grond van artikel 4.3 van de Omgevingswet.
+
+3\. De titels 9.2, 9.3 en 9.3a zijn niet van toepassing op gedragingen, voorzover daaromtrent regels zijn gesteld bij of krachtens de Geneesmiddelenwet, de Wet gewasbeschermingsmiddelen en biociden of de hoofdstuk 2, paragraaf 3, van de Wet dieren.
+
+4\. Titel 9.2 laat het met betrekking tot stoffen of mengsels bij of krachtens de Kernenergiewet bepaalde onverlet.
+
+5\. Titel 9.2 is niet van toepassing op het vervoeren, het ten vervoer aanbieden en het ten vervoer aannemen, het laden en het lossen en het nederleggen tijdens het vervoer van stoffen, mengsels of micro-organismen, alsmede op het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich zodanige stoffen, mengsels of micro-organismen of resten daarvan bevinden, voorzover daaromtrent regels zijn gesteld bij of krachtens de Wet luchtvaart, dan wel op de handelingen, genoemd in artikel 2, eerste lid, van de Wet vervoer gevaarlijke stoffen ten aanzien van stoffen, mengsels of micro-organismen, voorzover daaromtrent regels zijn gesteld bij of krachtens die wet. In afwijking van de eerste volzin is titel 9.2 van toepassing met betrekking tot de verpakking van micro-organismen, zijnde genetisch gemodificeerde organismen, indien die organismen zich bij de handelingen, bedoeld in de eerste volzin, niet bevinden in een verpakking die voldoet aan de regels die terzake zijn gesteld bij of krachtens de Wet vervoer gevaarlijke stoffen of de Wet luchtvaart.
+
+6\. Krachtens titel 9.2 worden geen regels gesteld met betrekking tot het zich ontdoen van stoffen en mengsels door het brengen daarvan in oppervlaktewateren, voor zover in het stellen van zodanige regels is voorzien in op grond van artikel 4.3 van de Omgevingswet gestelde regels.
+
+7\. Titel 9.5 is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens de Wet vervoer gevaarlijke stoffen.
+
+8\. Artikel 9.5.2 en hoofdstuk 10 zijn niet van toepassing op gedragingen, voor zover daaromtrent voorschriften gelden, die zijn gesteld bij of krachtens:
+
+de Wet gewasbeschermingsmiddelen en biociden,
+
+de Wet voorkoming verontreiniging door schepen,
+
+de Meststoffenwet,
+
+de Scheepvaartverkeerswet,
+
+de artikelen 3.1, 3.3 tot en met 3.6, 6.4 en 7.1 van de Wet dieren met betrekking tot dierlijke bijproducten,
+
+de Kernenergiewet,
+
+behoudens voor zover uit de bepalingen van die wetten of van deze wet anders blijkt.
+
+9\. Artikel 9.5.2 is niet van toepassing op gedragingen, voor zover daaromtrent voorschriften met betrekking tot diervoeders gelden, die zijn gesteld bij of krachtens de Wet dieren.
+
+### Artikel 22.1a
+
+De artikelen 16.24, eerste lid, 16.30a, tweede lid, 16.31, eerste lid, 16.32, eerste lid, 16.34a en 16.34b, eerste lid, onderdeel a, zoals deze luidden voor het tijdstip van inwerkingtreding van de Wet van 15 december 2021 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen op het terrein van het Ministerie van Economische Zaken en Klimaat (Verzamelwet EZK 2022) (Stb. 2022, 23) blijven van toepassing op besluiten op grond van die artikelen waartegen bezwaar is gemaakt of beroep is ingesteld voor dat tijdstip.
+
+### Artikel 22.2
+
+Deze wet kan worden aangehaald als: Wet milieubeheer.
+
+### Artikel 22.2a
+
+Vervallen
+
+### Artikel 22.3
+
+Deze wet treedt in werking op een door Ons te bepalen tijdstip.
+
+Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven ten Paleize Soestdijk 13 juni 1979
+
+Juliana
+
+De Minister van Volksgezondheid en Milieuhygiëne,\
+L. Ginjaar
+
+de eenentwintigste augustus 1979
+
+De Minister van Justitie,\
+J. de Ruiter
+
+## Bijlage 1 — bij de Wet milieubeheer
+
+Vervallen
+
+## Bijlage 2 — bij de Wet milieubeheer Bijlage behorend bij de artikelen 4.9, 8.40 en titel 5.2 van de Wet milieubeheer
+
+Vervallen

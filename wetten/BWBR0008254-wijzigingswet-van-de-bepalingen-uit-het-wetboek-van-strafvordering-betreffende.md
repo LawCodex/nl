@@ -1,0 +1,54 @@
+---
+title: "Wijzigingswet van de bepalingen uit het Wetboek van strafvordering betreffende het proces-verbaal van de terechtzitting en het vonnis"
+identifier: "BWBR0008254"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 1996-09-26
+last_amended: 1998-05-15
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0008254/1998-05-15"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0008254/1998-05-15_0/xml/BWBR0008254_1998-05-15_0.xml"
+authority: "Veiligheid en Justitie"
+rechtsgebied: ["Procesrecht", "Strafprocesrecht"]
+retrieved: 2026-10-11
+---
+
+# Wijzigingswet van de bepalingen uit het Wetboek van strafvordering betreffende het proces-verbaal van de terechtzitting en het vonnis
+
+*Wet van 26 september 1996 tot wijziging van de bepalingen uit het Wetboek van Strafvordering betreffende het proces-verbaal van de terechtzitting en het vonnis*
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Allen, die dezen zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de bepalingen uit het Wetboek van Strafvordering betreffende het proces-verbaal van de terechtzitting en het vonnis op enkele punten te wijzigen;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## ARTIKEL I
+
+WIjzigt het Wetboek van Strafvordering.
+
+## ARTIKEL II
+
+Artikel I heeft geen gevolgen voor strafzaken die voor het tijdstip van inwerkingtreding van deze wet reeds ter terechtzitting aanhangig zijn gemaakt.
+
+## ARTIKEL III
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Dit tijdstip kan voor de onderdelen van artikel I verschillend worden vastgesteld.
+
+Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te 's-Gravenhage 26 september 1996
+
+Beatrix
+
+De Minister van Justitie,\
+W. Sorgdrager
+
+de *achtste* oktober 1996
+
+De Minister van Justitie,\
+W. Sorgdrager

@@ -1,0 +1,89 @@
+---
+title: "Wet vergoedingen adviescolleges en commissies"
+identifier: "BWBR0024775"
+type: act
+bwb_type: "wet"
+jurisdiction: nl
+language: nl
+date: 2008-11-13
+last_amended: 2020-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0024775/2020-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0024775/2020-01-01_0/xml/BWBR0024775_2020-01-01_0.xml"
+authority: "Binnenlandse Zaken en Koninkrijksrelaties"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Ambtenarenrecht"]
+retrieved: 2026-10-11
+---
+
+# Wet vergoedingen adviescolleges en commissies
+
+*Wet van 13 november 2008, houdende regeling van de vergoedingen voor adviescolleges en commissies (Wet vergoedingen adviescolleges en commissies)*
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de regels met betrekking tot de vergoeding van de leden van adviescolleges en bij of krachtens wet, bij koninklijk besluit of bij ministerieel besluit ingestelde commissies te harmoniseren;
+
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+## Artikel 1
+
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. *een adviescollege:* een adviescollege als bedoeld in de Kaderwet adviescolleges, met uitzondering van adviescolleges waarvan de adviestaak, bedoeld in artikel 1, onderdeel a, van de Kaderwet adviescolleges niet de hoofdtaak is;
+- b. *een commissie:* een bij of krachtens wet, bij koninklijk besluit of bij ministerieel besluit ingestelde commissie, niet zijnde een adviescollege of een zelfstandig bestuursorgaan als bedoeld in de Kaderwet zelfstandige bestuursorganen;
+- c. *Onze Minister:* Onze Minister wie het aangaat.
+
+## Artikel 2
+
+1\. Bij besluit van Onze Minister kan een vergoeding per vergadering of een vaste vergoeding per maand worden toegekend aan:
+
+- a. de leden, met inbegrip van de voorzitter, van een adviescollege onderscheidenlijk een commissie;
+- b. de secretaris en adjunct-secretaris van een commissie;
+- c. personen die aan de werkzaamheden van een adviescollege onderscheidenlijk een commissie deelnemen.
+
+2\. De in het eerste lid genoemde personen ontvangen een vergoeding van reis- en verblijfkosten op de voet van de regeling voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn.
+
+3\. Van de toekenning van vergoedingen als bedoeld in het eerste en tweede lid zijn uitgesloten:
+
+- a. personen die een functie vervullen bij instellingen of organisaties als bedoeld in de artikelen 1.2 tot en met 1.5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector, indien hun benoeming of deelname aan de werkzaamheden haar oorzaak vindt in de functie die zij vervullen;
+- b. vertegenwoordigers van organisaties die gelegenheid hebben op te komen voor groepen of individuele personen wier belangen bij de arbeid van de commissie zijn betrokken, tenzij door Onze Minister in bijzondere gevallen anders wordt beslist.
+
+4\. Bij of krachtens algemene maatregel van bestuur worden nadere regels vastgesteld met betrekking tot de vergoedingen, bedoeld in het eerste lid.
+
+5\. Een besluit als bedoeld in het eerste lid wordt in de Staatscourant geplaatst.
+
+## Artikel 3
+
+1\. Wijzigt de Kaderwet adviescolleges.
+
+2\. Na de inwerkingtreding van deze wet berusten de ministeriële regelingen die krachtens artikel 14 van de Kaderwet adviescolleges zijn vastgesteld op deze wet.
+
+## Artikel 4
+
+Beschikkingen als bedoeld in artikel 1, tweede lid, van het Vacatiegeldenbesluit 1988 en koninklijke besluiten als bedoeld in artikel 3, eerste lid, van dat besluit die van kracht waren op de dag voor de datum van inwerkingtreding van deze wet, blijven na de inwerkingtreding van deze wet van kracht.
+
+## Artikel 5
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+## Artikel 6
+
+Deze wet wordt aangehaald als: Wet vergoedingen adviescolleges en commissies.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+Gegeven te
+
+’s-Gravenhage 13 november 2008
+
+Beatrix
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+G. ter Horst
+
+de *vierde* december 2008
+
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
