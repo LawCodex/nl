@@ -1,0 +1,45 @@
+---
+title: "Afgifte verklaringen vakbekwaamheid verzekeringstussenpersonen"
+identifier: "BWBR0003328"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 1980-07-07
+last_amended: 1991-04-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0003328/1991-04-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003328/1991-04-01_0/xml/BWBR0003328_1991-04-01_0.xml"
+authority: "Financiën"
+rechtsgebied: ["Contracten, schade en aansprakelijkheid", "Verzekeringsrecht"]
+retrieved: 2026-10-11
+---
+
+# Afgifte verklaringen vakbekwaamheid verzekeringstussenpersonen
+
+De Staatssecretaris van Financiën,
+
+Gelet op de artikelen 9 en 10 vierde lid, laatste zin, van de Richtlijn van de Raad van de Europese Gemeenschappen van 13 december 1976, houdende maatregelen ter bevordering van de daadwerkelijke uitoefening van het recht van vestiging en het vrij verrichten van diensten voor de werkzaamheden van verzekeringsagent en assurantiemakelaar (ex groep 630 CITI) en houdende met name overgangsmaatregelen voor deze werkzaamheden (nr. 77/92/EEG, Publikatieblad van de Europese Gemeenschappen 1977, nr. L 26, blz. 14, van 31 januari 1977);
+
+Gezien het advies van de Commissie van Advies, bedoeld in artikel 2 van de Wet Assurantiebemiddeling;
+
+Besluit:
+
+## Artikel 1
+
+In deze beschikking wordt onder ‘Richtlijn’ verstaan: de Richtlijn van de Raad van de Europese Gemeenschappen van 13 december 1976 houdende maatregelen ter bevordering van de daadwerkelijke uitoefening van het recht van vestiging en het vrij verrichten van diensten voor de werkzaamheden van verzekeringsagent en assurantiemakelaar (ex groep 630 CITI) en houdende met name overgangsmaatregelen voor deze werkzaamheden (nr. 77/92/EEG, Publikatieblad van de Europese Gemeenschappen 1977, nr. L 26/14, van 31 januari 1977).
+
+## Artikel 2
+
+Het verzoek, bedoeld in artikel 9, eerste lid, van de Richtlijn, om in Nederland de in artikel 2 van de Richtlijn bedoelde werkzaamheden te mogen uitoefenen en de documenten tot staving van dit verzoek, waaronder de documenten, bedoeld in artikel 10, eerste en tweede lid, van de Richtlijn, moeten worden ingediend bij de Sociaal-Economische Raad.
+
+## Artikel 3
+
+Deze beschikking treedt in werking met ingang van 15 juli 1980 en wordt in de Nederlandse Staatscourant bekendgemaakt.
+
+'s-Gravenhage 7 juli 1980
+
+De\
+Staatssecretaris\
+Financiën\
+M. J. J. vanAmelsvoort

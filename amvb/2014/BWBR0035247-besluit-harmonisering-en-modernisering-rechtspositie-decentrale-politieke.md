@@ -1,0 +1,86 @@
+---
+title: "Besluit harmonisering en modernisering rechtspositie decentrale politieke ambtsdragers"
+identifier: "BWBR0035247"
+type: decree
+bwb_type: "AMvB"
+jurisdiction: nl
+language: nl
+date: 2014-06-20
+last_amended: 2014-10-15
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0035247/2014-10-15"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035247/2014-10-15_0/xml/BWBR0035247_2014-10-15_0.xml"
+authority: "Binnenlandse Zaken en Koninkrijksrelaties"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Ambtenarenrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit harmonisering en modernisering rechtspositie decentrale politieke ambtsdragers
+
+*Besluit van 20 juni 2014 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met de harmonisering en modernisering van deze besluiten (Besluit harmonisering en modernisering rechtspositie decentrale politieke ambtsdragers)*
+
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.
+
+Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 12 mei 2014, nr. 2014-0000245127;
+
+Gelet op de artikelen 44, tweede lid, en 66, tweede lid, 79 en 95, vierde lid, van de Gemeentewet, de artikelen 43, tweede lid, en 65, tweede lid, 77 en 93, vierde lid, van de Provinciewet en de artikelen 32a, eerste lid, en 44, eerste lid, van de Waterschapswet en artikel 193, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+De Afdeling advisering van de Raad van State gehoord (advies van 18 juni 2014, no. W04.141/I);
+
+Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 juni 2014, nr. 2014-0000303123;
+
+Hebben goedgevonden en verstaan:
+
+## Artikel I
+
+Wijzigt het Rechtspositiebesluit commissarissen van de Koning.
+
+## Artikel II
+
+Wijzigt het Rechtspositiebesluit burgemeesters.
+
+## Artikel III
+
+Wijzigt het Rechtspositiebesluit gedeputeerden.
+
+## Artikel IV
+
+Wijzigt het Rechtspositiebesluit wethouders.
+
+## Artikel V
+
+Wijzigt het Rechtspositiebesluit staten- en commissieleden.
+
+## Artikel VI
+
+Wijzigt het Rechtspositiebesluit raads- en commissieleden.
+
+## Artikel VII
+
+Wijzigt het Waterschapsbesluit.
+
+## Artikel VIII
+
+Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
+
+## Artikel IX
+
+Dit besluit treedt in werking met ingang van 1 juli 2014 met dien verstande dat artikel I, onderdeel C, terugwerkt tot en met 15 september 2013 en de artikelen II, onderdeel H, IV, onderdeel G, en VI, onderdeel G, terugwerken tot en met 27 maart 2014 en met dien verstande dat artikel VIII in werking treedt met ingang van 15 oktober 2014.
+
+## Artikel X
+
+Dit besluit wordt aangehaald als: Besluit harmonisering en modernisering rechtspositie decentrale politieke ambtsdragers.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+Wassenaar 20 juni 2014
+
+Willem-Alexander
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk
+
+de *zevenentwintigste* juni 2014
+
+De Minister van Veiligheid en Justitie,\
+I.W. Opstelten

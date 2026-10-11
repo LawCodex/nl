@@ -1,0 +1,80 @@
+---
+title: "Besluit veiligheid en integriteit telecommunicatie"
+identifier: "BWBR0042843"
+type: decree
+bwb_type: "AMvB"
+jurisdiction: nl
+language: nl
+date: 2019-11-28
+last_amended: 2026-08-15
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0042843/2026-08-15"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042843/2026-08-15_0/xml/BWBR0042843_2026-08-15_0.xml"
+authority: "Economische Zaken en Klimaat"
+rechtsgebied: ["Informatierecht", "Telecomrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit veiligheid en integriteit telecommunicatie
+
+*Besluit van 28 november 2019, houdende nadere regels betreffende de veiligheid en integriteit van openbare elektronische communicatienetwerken en -diensten (Besluit veiligheid en integriteit telecommunicatie)*
+
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.
+
+Op de voordracht van de Staatssecretaris van Economische Zaken en Klimaat van 14 oktober 2019, nr. WJZ / 19232889;
+
+Gelet op artikel 11a.1, vierde lid, en 18.12 van de Telecommunicatiewet;
+
+De Afdeling advisering van de Raad van State gehoord (advies van 30 oktober 2019, nr. W18.19.0320/IV);
+
+Gezien het nader rapport van de Staatssecretaris van Economische Zaken en Klimaat van 28 november 2019, nr. WJZ / 19271909;
+
+Hebben goedgevonden en verstaan:
+
+## Artikel 1
+
+In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
+
+- – *beheer:* onderhoud of aansturing van apparatuur of programmatuur van een aanbieder van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst,
+- – *producten of diensten:* apparatuur, programmatuur, beheer en aanverwante dienstverlening.
+
+## Artikel 2
+
+1\. Bij ministeriële regeling kunnen nadere regels worden gegeven met betrekking tot de in artikel 11a.1 van de wet bedoelde technische en organisatorische maatregelen en kunnen technische en organisatorische eisen worden gesteld aan aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten.
+
+2\. Indien dat naar het oordeel van Onze Minister noodzakelijk is om risico’s voor de veiligheid en integriteit van diens netwerk of dienst die de nationale veiligheid of de openbare orde raken te beheersen, legt Onze Minister, in overleg met Onze Minister van Justitie en Veiligheid, een aanbieder van een openbaar elektronisch communicatienetwerk of -dienst een verplichting op om in de daarbij aangewezen onderdelen van diens netwerk of bijbehorende faciliteiten, uitsluitend gebruik te maken van producten of diensten van anderen dan de daarbij door Onze Minister genoemde partij die:
+
+- a. een staat, entiteit of persoon is waarvan bekend is of waarvoor gronden zijn te vermoeden dat deze de intentie heeft een in Nederland aangeboden elektronisch communicatienetwerk of -dienst te misbruiken of uit te laten vallen, of
+- b. nauwe banden heeft met of onder invloed staat van een staat, entiteit of persoon als bedoeld onder a, of een entiteit of persoon is ten aanzien van wie er gronden zijn om dergelijke banden of invloed te vermoeden.
+
+3\. Indien een verplichting op grond van het tweede lid betrekking heeft op reeds in gebruik zijnde producten en diensten ten behoeve van de daarbij aangewezen onderdelen, stelt Onze Minister in het belang van de continuïteit van dienstverlening een termijn vast voor het vervangen respectievelijk beëindigen van de betreffende producten en diensten.
+
+## Artikel 2a
+
+Dit besluit berust op artikel 11a.1, tweede lid, van de Telecommunicatiewet.
+
+## Artikel 3
+
+Wijzigt het Frequentiebesluit 2013.
+
+## Artikel 4
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van artikel 3 dat in werking treedt op het tijdstip waarop de wet van 14 maart 2018, tot wijziging van de Telecommunicatiewet en van de Mediawet 2008 (gebruiksbeperking frequentieruimte en digitale radio-omroep) (Stb. 2018, 87) in werking treedt.
+
+## Artikel 5
+
+Dit besluit wordt aangehaald als: Besluit veiligheid en integriteit telecommunicatie.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+’s-Gravenhage 28 november 2019
+
+Willem-Alexander
+
+De Staatssecretaris van Economische Zaken en Klimaat,\
+M.C.G. Keijzer
+
+de *vijfde* december 2019
+
+De Minister van Justitie en Veiligheid,\
+F.B.J. Grapperhaus

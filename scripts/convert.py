@@ -15,6 +15,8 @@ from lxml import etree
 
 from common import CONSTITUTION, RAW, REPO, TYPES
 
+YEAR_SPLIT = {"wetten", "amvb", "ministeriele-regelingen"}
+
 SKIP = {
     "meta-data", "bwb-inputbestand", "bwb-wijzigingen", "redactionele-correcties", "jcis",
     "brondata", "officiele-inhoudsopgave", "colspec", "spanspec", "kop", "lidnr", "li.nr",
@@ -462,6 +464,12 @@ def convert(item, retrieved):
     text = re.sub(r"[ \t]+\n", "\n", text)
     text = re.sub(r"(?<=\S) {2,}", " ", text)
     fname = f"{bwb}-{slugify(title)}.md"
+    if outdir in YEAR_SPLIT:
+        # GitHub lists max 1,000 entries per directory: split by year of the original act
+        yr = (date or "")[:4]
+        if not (yr.isdigit() and yr > "1000"):
+            yr = (intit.get("inwerking") or "")[:4] if intit is not None else ""
+        outdir = f"{outdir}/{yr if yr.isdigit() else 'onbekend'}"
     dest = REPO / outdir / fname
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(text, encoding="utf-8")

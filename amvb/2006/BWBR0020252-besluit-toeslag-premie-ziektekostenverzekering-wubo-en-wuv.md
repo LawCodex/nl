@@ -1,0 +1,73 @@
+---
+title: "Besluit toeslag premie ziektekostenverzekering Wubo en Wuv"
+identifier: "BWBR0020252"
+type: decree
+bwb_type: "AMvB"
+jurisdiction: nl
+language: nl
+date: 2006-08-31
+last_amended: 2026-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0020252/2026-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0020252/2026-01-01_0/xml/BWBR0020252_2026-01-01_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Sociaal zekerheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit toeslag premie ziektekostenverzekering Wubo en Wuv
+
+*Besluit van 31 augustus 2006, houdende vaststelling van de toeslag en het maximumbedrag van de toeslag voor de premie van verzekering tegen ziektekosten voor gerechtigden op basis van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de Wet uitkeringen vervolgingsslachtoffers 1940–1945 (Besluit toeslag premie ziektekostenverzekering Wubo en Wuv)*
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juli 2006, kenmerk OHW-U-2693908;
+
+Gelet op artikel 20, eerste en tweede lid, en artikel 21, eerste en tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en artikel 14, tweede en derde lid, en artikel 15, eerste en tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945;
+
+De Raad van State gehoord (advies van 2 augustus 2006, nummer W13.06.0304/III);
+
+Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 25 augustus 2006, kenmerk OHW-U-2707908;
+
+Hebben goedgevonden en verstaan:
+
+## Artikel 1
+
+De toeslag, bedoeld in de artikelen 20, eerste lid, en 21, eerste lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de artikelen 14, tweede lid, en 15, eerste lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945, wordt vastgesteld op:
+
+- a. € 114 per 1 januari 2026: € 238,00 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt;
+- b. € 114 per 1 januari 2026: € 238,00 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
+- c. € 184 per 1 januari 2026: € 384,16 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt;
+- d. € 118 per 1 januari 2026: € 246,34 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt;
+- e. € 118 per 1 januari 2026: € 246,34 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;
+- f. € 236 per 1 januari 2026: € 492,72 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt.
+
+## Artikel 2
+
+Het bedrag, bedoeld in de artikelen 20, tweede lid, en 21, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de artikelen 14, derde lid, en 15, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945, wordt vastgesteld op € 186,50 per 1 januari 2026: € 389,67 per verzekerde per maand.
+
+## Artikel 3
+
+Het besluit van 21 april 2006 houdende vaststelling van het maximumbedrag van de toeslag voor de premie van verzekering tegen ziektekosten voor gerechtigden op basis van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de Wet uitkeringen vervolgingsslachtoffers 1940–1945 (Stb. 241) wordt ingetrokken.
+
+## Artikel 4
+
+Dit besluit treedt in werking op het tijdstip waarop het bij koninklijke boodschap van 10 februari 2006 ingediende voorstel van wet houdende wijziging van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de Wet uitkeringen vervolgingsslachtoffers 1940–1945 in verband met de vereenvoudiging van de systematiek van de toeslag premie ziektekostenverzekering, alsmede tot het aanbrengen van wijzigingen van andere en onderschikte aard, Kamerstukken II 2005-06, 30 454, nr. 2, nadat het tot wet is verheven, in werking treedt. Indien deze wet in werking treedt voor de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, treedt dit besluit in werking met ingang van de dag na de datum van uitgifte van dat Staatsblad en werkt terug tot en met het tijdstip waarop die wet in werking is getreden.
+
+## Artikel 5
+
+Dit besluit wordt aangehaald als: Besluit toeslag premie ziektekostenverzekering Wubo en Wuv.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+’s-Gravenhage 31 augustus 2006
+
+Beatrix
+
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport ,\
+C. I. J. M. Ross-van Dorp
+
+de *negentiende* september 2006
+
+De Minister van Justitie ,\
+J. P. H. Donner

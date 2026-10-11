@@ -14,21 +14,21 @@ Part of [LawCodex](https://github.com/LawCodex) — the laws of every country as
 | | **Total** | **{{TOTAL}}** |
 
 Each file is named `<BWB-ID>-<slug-of-title>.md`, e.g.
-[`grondwet/BWBR0001840-grondwet.md`](grondwet/BWBR0001840-grondwet.md). The BWB-ID is the
+{{LINK:BWBR0001840}}. The BWB-ID is the
 stable official identifier (`BWBR…`); the same text is at `https://wetten.overheid.nl/<BWB-ID>`.
 
 Key codes, for orientation:
 
 | Regeling | File |
 |---|---|
-| Grondwet | [`grondwet/BWBR0001840-grondwet.md`](grondwet/BWBR0001840-grondwet.md) |
-| Statuut voor het Koninkrijk | [`grondwet/BWBR0002154-statuut-voor-het-koninkrijk-der-nederlanden.md`](grondwet/BWBR0002154-statuut-voor-het-koninkrijk-der-nederlanden.md) |
-| Burgerlijk Wetboek | `wetten/`: Boek 1 `BWBR0002656`, 2 `BWBR0003045`, 3 `BWBR0005291`, 4 `BWBR0002761`, 5 `BWBR0005288`, 6 `BWBR0005289`, 7 `BWBR0005290`, 7A `BWBR0006000`, 8 `BWBR0005034`, 10 `BWBR0030068` |
-| Wetboek van Strafrecht | [`wetten/BWBR0001854-wetboek-van-strafrecht.md`](wetten/BWBR0001854-wetboek-van-strafrecht.md) |
-| Wetboek van Strafvordering | [`wetten/BWBR0001903-wetboek-van-strafvordering.md`](wetten/BWBR0001903-wetboek-van-strafvordering.md) |
-| Wetboek van Burgerlijke Rechtsvordering | [`wetten/BWBR0001827-wetboek-van-burgerlijke-rechtsvordering.md`](wetten/BWBR0001827-wetboek-van-burgerlijke-rechtsvordering.md) |
-| Wetboek van Koophandel | [`wetten/BWBR0001838-wetboek-van-koophandel.md`](wetten/BWBR0001838-wetboek-van-koophandel.md) |
-| Algemene wet bestuursrecht | [`wetten/BWBR0005537-algemene-wet-bestuursrecht.md`](wetten/BWBR0005537-algemene-wet-bestuursrecht.md) |
+| Grondwet | {{LINK:BWBR0001840}} |
+| Statuut voor het Koninkrijk | {{LINK:BWBR0002154}} |
+| Burgerlijk Wetboek | Boek 1 {{SHORT:BWBR0002656}}, 2 {{SHORT:BWBR0003045}}, 3 {{SHORT:BWBR0005291}}, 4 {{SHORT:BWBR0002761}}, 5 {{SHORT:BWBR0005288}}, 6 {{SHORT:BWBR0005289}}, 7 {{SHORT:BWBR0005290}}, 7A {{SHORT:BWBR0006000}}, 8 {{SHORT:BWBR0005034}}, 10 {{SHORT:BWBR0030068}} |
+| Wetboek van Strafrecht | {{LINK:BWBR0001854}} |
+| Wetboek van Strafvordering | {{LINK:BWBR0001903}} |
+| Wetboek van Burgerlijke Rechtsvordering | {{LINK:BWBR0001827}} |
+| Wetboek van Koophandel | {{LINK:BWBR0001838}} |
+| Algemene wet bestuursrecht | {{LINK:BWBR0005537}} |
 
 ## File format
 

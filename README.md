@@ -12,12 +12,12 @@ Part of [LawCodex](https://github.com/LawCodex) — the laws of every country as
 |---|---|---:|
 | `grondwet/` | Grondwet and Statuut voor het Koninkrijk der Nederlanden | 2 |
 | `wetten/` | Wetten (formele wetten, incl. rijkswetten) | 2,641 |
-| `amvb/` | Algemene maatregelen van bestuur (AMvB's, incl. rijks-AMvB's) | 17 |
-| `ministeriele-regelingen/` | Ministeriële regelingen | 15 |
+| `amvb/` | Algemene maatregelen van bestuur (AMvB's, incl. rijks-AMvB's) | 1,786 |
+| `ministeriele-regelingen/` | Ministeriële regelingen | 387 |
 | `caribisch-nederland/wetten/` | Caribisch Nederland (BES): wetten | 15 |
 | `caribisch-nederland/amvb/` | Caribisch Nederland (BES): AMvB's | 15 |
 | `caribisch-nederland/ministeriele-regelingen/` | Caribisch Nederland (BES): ministeriële regelingen | 15 |
-| | **Total** | **2,720** |
+| | **Total** | **4,861** |
 
 Each file is named `<BWB-ID>-<slug-of-title>.md`, e.g.
 [`grondwet/BWBR0001840-grondwet.md`](grondwet/BWBR0001840-grondwet.md). The BWB-ID is the
@@ -29,12 +29,12 @@ Key codes, for orientation:
 |---|---|
 | Grondwet | [`grondwet/BWBR0001840-grondwet.md`](grondwet/BWBR0001840-grondwet.md) |
 | Statuut voor het Koninkrijk | [`grondwet/BWBR0002154-statuut-voor-het-koninkrijk-der-nederlanden.md`](grondwet/BWBR0002154-statuut-voor-het-koninkrijk-der-nederlanden.md) |
-| Burgerlijk Wetboek | `wetten/`: Boek 1 `BWBR0002656`, 2 `BWBR0003045`, 3 `BWBR0005291`, 4 `BWBR0002761`, 5 `BWBR0005288`, 6 `BWBR0005289`, 7 `BWBR0005290`, 7A `BWBR0006000`, 8 `BWBR0005034`, 10 `BWBR0030068` |
-| Wetboek van Strafrecht | [`wetten/BWBR0001854-wetboek-van-strafrecht.md`](wetten/BWBR0001854-wetboek-van-strafrecht.md) |
-| Wetboek van Strafvordering | [`wetten/BWBR0001903-wetboek-van-strafvordering.md`](wetten/BWBR0001903-wetboek-van-strafvordering.md) |
-| Wetboek van Burgerlijke Rechtsvordering | [`wetten/BWBR0001827-wetboek-van-burgerlijke-rechtsvordering.md`](wetten/BWBR0001827-wetboek-van-burgerlijke-rechtsvordering.md) |
-| Wetboek van Koophandel | [`wetten/BWBR0001838-wetboek-van-koophandel.md`](wetten/BWBR0001838-wetboek-van-koophandel.md) |
-| Algemene wet bestuursrecht | [`wetten/BWBR0005537-algemene-wet-bestuursrecht.md`](wetten/BWBR0005537-algemene-wet-bestuursrecht.md) |
+| Burgerlijk Wetboek | Boek 1 [`BWBR0002656`](wetten/1969/BWBR0002656-burgerlijk-wetboek-boek-1.md), 2 [`BWBR0003045`](wetten/1976/BWBR0003045-burgerlijk-wetboek-boek-2.md), 3 [`BWBR0005291`](wetten/1991/BWBR0005291-burgerlijk-wetboek-boek-3.md), 4 [`BWBR0002761`](wetten/1971/BWBR0002761-burgerlijk-wetboek-boek-4.md), 5 [`BWBR0005288`](wetten/1991/BWBR0005288-burgerlijk-wetboek-boek-5.md), 6 [`BWBR0005289`](wetten/1991/BWBR0005289-burgerlijk-wetboek-boek-6.md), 7 [`BWBR0005290`](wetten/1991/BWBR0005290-burgerlijk-wetboek-boek-7.md), 7A [`BWBR0006000`](wetten/1993/BWBR0006000-burgerlijk-wetboek-boek-7a.md), 8 [`BWBR0005034`](wetten/1991/BWBR0005034-burgerlijk-wetboek-boek-8.md), 10 [`BWBR0030068`](wetten/2011/BWBR0030068-burgerlijk-wetboek-boek-10.md) |
+| Wetboek van Strafrecht | [`wetten/1881/BWBR0001854-wetboek-van-strafrecht.md`](wetten/1881/BWBR0001854-wetboek-van-strafrecht.md) |
+| Wetboek van Strafvordering | [`wetten/1921/BWBR0001903-wetboek-van-strafvordering.md`](wetten/1921/BWBR0001903-wetboek-van-strafvordering.md) |
+| Wetboek van Burgerlijke Rechtsvordering | [`wetten/1828/BWBR0001827-wetboek-van-burgerlijke-rechtsvordering.md`](wetten/1828/BWBR0001827-wetboek-van-burgerlijke-rechtsvordering.md) |
+| Wetboek van Koophandel | [`wetten/1838/BWBR0001838-wetboek-van-koophandel.md`](wetten/1838/BWBR0001838-wetboek-van-koophandel.md) |
+| Algemene wet bestuursrecht | [`wetten/1992/BWBR0005537-algemene-wet-bestuursrecht.md`](wetten/1992/BWBR0005537-algemene-wet-bestuursrecht.md) |
 
 ## File format
 

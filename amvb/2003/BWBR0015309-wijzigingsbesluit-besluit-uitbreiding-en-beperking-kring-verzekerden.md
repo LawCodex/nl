@@ -1,0 +1,70 @@
+---
+title: "Wijzigingsbesluit Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999"
+identifier: "BWBR0015309"
+type: decree
+bwb_type: "AMvB"
+jurisdiction: nl
+language: nl
+date: 2003-07-01
+last_amended: 2003-08-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0015309/2003-08-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0015309/2003-08-01_0/xml/BWBR0015309_2003-08-01_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Pensioenrecht", "Arbeidsrecht en sociaal-zekerheidsrecht", "Sociaal zekerheidsrecht", "Gezondheidsrecht en farmaceutisch recht"]
+retrieved: 2026-10-11
+---
+
+# Wijzigingsbesluit Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999
+
+*Besluit van 1 juli 2003 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999*
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte, van 25 maart 2003, Directie Sociale Verzekeringen, nr. SV/V&V/03/22945, gedaan mede namens Onze Minister van Volksgezondheid, Welzijn en Sport;
+
+Gelet op artikel 3, vierde en vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering, artikel 3, vierde en vijfde lid, van de Ziektewet, artikel 3, vierde en vijfde lid, van de Werkloosheidswet, artikel 6, derde lid, van de Algemene Ouderdomswet, artikel 13, derde lid, van de Algemene nabestaandenwet, artikel 6, derde lid, van de Algemene Kinderbijslagwet en artikel 5, derde lid, van de Algemene Wet Bijzondere Ziektekosten;
+
+De Raad van State gehoord (advies van 9 mei 2003, nr. W12.03.0113/IV);
+
+Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 juni 2003, nr. SV/V&V/03/38462, uitgebracht mede namens Onze Minister van Volksgezondheid, Welzijn en Sport;
+
+Hebben goedgevonden en verstaan:
+
+## Artikel I — Wijziging Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990
+
+Wijzigt het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990.
+
+## Artikel II — Wijziging Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999
+
+Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.
+
+## Artikel III — Inwerkingtreding
+
+1\. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+2\. Artikel II, onderdeel B, werkt terug tot en met 1 januari 2003 met dien verstande dat in afwijking van artikel 22, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999:
+
+- a. de vrijstelling ingaat op 1 januari 2003 indien:
+  - 1°. betrokkene op 1 januari 2003 voldoet aan de voorwaarden, bedoeld in artikel 22, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, zoals dit artikellid luidt na inwerkingtreding van dit besluit, en
+  - 2°. de aanvraag voor de vrijstelling is ingediend vóór 1 januari 2004;
+- b. de vrijstelling ingaat op de dag van inwerkingtreding van dit besluit indien:
+  - 1°. betrokkene op 1 januari 2003 voldoet aan de voorwaarden, bedoeld in artikel 22, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, zoals dit artikellid luidt na inwerkingtreding van dit besluit, en
+  - 2°. de aanvraag voor de vrijstelling is ingediend in de periode gelegen tussen 31 december 2003 en een jaar na de datum waarop dit besluit in werking treedt.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
+
+'s-Gravenhage 1 juli 2003
+
+Beatrix
+
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,\
+M. Rutte
+
+De Minister van Volksgezondheid, Welzijn en Sport a.i.,\
+G. Zalm
+
+de eenendertigste juli 2003
+
+De Minister van Justitie a.i.,\
+G. Zalm

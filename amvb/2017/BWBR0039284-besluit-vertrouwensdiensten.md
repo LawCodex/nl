@@ -1,0 +1,174 @@
+---
+title: "Besluit vertrouwensdiensten"
+identifier: "BWBR0039284"
+type: decree
+bwb_type: "AMvB"
+jurisdiction: nl
+language: nl
+date: 2017-02-22
+last_amended: 2023-11-09
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0039284/2023-11-09"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039284/2023-11-09_0/xml/BWBR0039284_2023-11-09_0.xml"
+authority: "Economische Zaken"
+rechtsgebied: ["Openbare orde en veiligheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit vertrouwensdiensten
+
+*Besluit van 22 februari 2017, houdende vaststelling van eisen inzake verlening van vertrouwensdiensten, tot intrekking van het Besluit elektronische handtekeningen en tot aanpassing van enige andere besluiten (Besluit vertrouwensdiensten)*
+
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.
+
+Op de voordracht van Onze Minister van Economische Zaken, in overeenstemming met de Staatssecretaris van Veiligheid en Justitie en Onze Minister van Infrastructuur en Milieu, van 15 december 2016, nr. WJZ 16081159;
+
+Gelet op de artikelen 16, eerste lid, 18.15a en 18.17a, tweede en zesde lid van de Telecommunicatiewet, artikel 6a, vierde en zesde lid, van de Instellingswet Autoriteit Consument en Markt, artikel 4.12, eerste lid, van de Aanbestedingswet 2012, artikel 3.1, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied, artikel 18, vijfde lid, van Boek 1 van het Burgerlijk Wetboek, artikel 8:40a, tweede lid, van de Algemene wet bestuursrecht, artikel 17, eerste lid, aanhef en onder a, van de Handelsregisterwet 2007 en artikel 5, tweede en derde lid, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken;
+
+De Afdeling advisering van de Raad van State gehoord (advies van 25 januari 2017, nr. W15.16.0420/IV);
+
+Gezien het nader rapport van Onze Minister van Economische Zaken van 20 februari 2017, nr. WJZ/17017060, uitgebracht in overeenstemming met de Staatssecretaris van Veiligheid en Justitie en Onze Minister van Infrastructuur en Milieu;
+
+Hebben goedgevonden en verstaan:
+
+## Hoofdstuk 1 — Begripsbepalingen
+
+### Artikel 1
+
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+- *eidas-verordening:* verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn (PbEU 2014, L 257);
+- *elektronische handtekening:* elektronische handtekening als bedoeld in artikel 3, onderdeel 10, van de eidas-verordening;
+- *elektronisch zegel:* elektronisch zegel als bedoeld in artikel 3, onderdeel 25, van de eidas-verordening;
+- *gekwalificeerde elektronische handtekening:* gekwalificeerde elektronische handtekening als bedoeld in artikel 3, onderdeel 12, van de eidas-verordening;
+- *verlener van een vertrouwensdienst:* verlener van vertrouwensdiensten als bedoeld in artikel 3, onderdeel 19, van de eidas-verordening;
+- *wet:* Telecommunicatiewet.
+
+## Hoofdstuk 2 — Inhoudelijke bepalingen inzake vertrouwensdiensten
+
+### Artikel 2 — Kennisgeving inbreuk veiligheid of verlies integriteit
+
+1\. Dit artikel is van toepassing op een verlener van een vertrouwensdienst die op grond van artikel 19, tweede lid, van de eidas-verordening een kennisgeving doet van een inbreuk op de veiligheid of het verlies van integriteit.
+
+2\. Bij een kennisgeving meldt de verlener van een vertrouwensdienst aan Onze Minister, aan Onze Minister van Veiligheid en Justitie en, voor zover het persoonsgegevens betreft, aan het College bescherming persoonsgegevens in ieder geval:
+
+- a. de aard en omvang van de veiligheidsinbreuk of het integriteitsverlies;
+- b. het vermoedelijke tijdstip van de aanvang van de inbreuk of het verlies;
+- c. het tijdstip, of een benadering daarvan, waarop de verlener van de vertrouwensdienst de inbreuk of het verlies heeft ontdekt;
+- d. de gevolgen of mogelijke gevolgen van de inbreuk of het verlies;
+- e. een prognose van de tijd nodig om de inbreuk of het verlies te onderzoeken en van de benodigde hersteltijd;
+- f. zo mogelijk de door de verlener van vertrouwensdiensten genomen of te nemen maatregelen om de gevolgen van de inbreuk of het verlies te beperken of herhaling hiervan te voorkomen;
+- g. de contactgegevens van de verlener van de vertrouwensdiensten en van de functionaris die verantwoordelijk is voor het doen van de kennisgeving;
+- h. welke andere lidstaten van de Europese Unie dan Nederland door het verlies of de inbreuk zijn of kunnen worden getroffen, voor zover van toepassing, en
+- i. de inhoud van de kennisgeving die, in overeenstemming met het derde lid, aan degene aan wie de betrokken vertrouwensdienst is verleend, is of zal worden gedaan.
+
+3\. De kennisgeving aan degene aan wie de betrokken vertrouwensdienst is verleend wordt op zodanige wijze gedaan dat, rekening houdend met de aard van de inbreuk, de gevolgen daarvan en de kring van betrokkenen, een behoorlijke en zorgvuldige informatievoorziening is gewaarborgd.
+
+4\. De kennisgeving aan Onze Minister, aan Onze Minister van Veiligheid en Justitie en, voor zover het persoonsgegevens betreft, aan het College bescherming persoonsgegevens wordt gedaan met gebruik making van een door Onze Minister, Onze Minister van Veiligheid en Justitie respectievelijk het College bescherming persoonsgegevens ter beschikking gesteld middel.
+
+### Artikel 3 — Aanwijzing certificerende instellingen gekwalificeerde middelen aanmaken elektronische handtekeningen
+
+1\. Een instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in artikel 18.17a, eerste lid, van de wet dient daartoe een aanvraag in en voldoet aan de volgende eisen:
+
+- a. zij hanteert een toetsingskader dat waarborgt dat de beoordeelde gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels voldoen aan de daaraan in of op grond van de eidas-verordening gestelde eisen;
+- b. zij is op basis van de norm ISO/IEC 17065:2012 geaccrediteerd, welke accreditatie het vakgebied gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels als bedoeld in de eidas-verordening omvat, door de Raad voor Accreditatie of een andere accreditatie-instantie in de zin van artikel 4 van verordening (EG) nr. 765/2008;
+- c. zij maakt gebruik van testlaboratoria, die geaccrediteerd zijn volgens de norm NEN-EN-ISO 17025, voor het testen van gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels volgens de norm ISO/IEC 15408, bestaande uit ISO/IEC 15408-1:2009, ISO/IEC 15408-2:2008 en ISO/IEC 15408-3:2008, en volgens de norm ISO/IEC 18045:2008.
+
+2\. De instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in artikel 18.17a, eerste lid, van de wet voldoet, onverminderd het eerste lid, aan de volgende eisen:
+
+- a. zij houdt zich niet bezig met activiteiten die een bedreiging kunnen vormen voor de onafhankelijkheid van haar oordeel en de integriteit bij de uitoefening van haar taak;
+- b. zij voldoet aan de volgende onafhankelijkheidseisen:
+  - 1°. zij is onafhankelijk van organisaties die betrokken zijn bij het ontwerpen, de fabricage, de verkoop en de levering, de installatie, het onderhoud of het beheer van gekwalificeerde middelen, alsmede van verleners van vertrouwensdiensten en de gebruikers voor zover zij zich bedienen van gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels;
+  - 2°. zij is financieel onafhankelijk van de betrokken partijen;
+  - 3°. de directeur en het personeel dat met de beoordeling van de overeenstemming is belast, zijn geen ontwerper, fabrikant, leverancier of installateur van gekwalificeerde middelen, noch verlener van een vertrouwensdienst, noch gemachtigden van een van die partijen;
+  - 4°. zij wordt niet rechtstreeks betrokken bij het ontwerp, de fabricage, de verkoop of het onderhoud van gekwalificeerde middelen, noch treedt zij op als gemachtigde van de hierbij betrokken partijen.
+- c. zij heeft personeel in dienst dat:
+  - 1°. voldoende bekwaamheid bezit om met een hoge mate van beroepsintegriteit de overeenstemming vast te stellen van de gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels met de bij de eidas-verordening gestelde eisen voor deze gekwalificeerde middelen, en
+  - 2°. betrouwbare procedures hanteert;
+- d. zij beoordeelt de overeenstemming op transparante wijze, stelt alle relevante informatie op schrift, zorgt ervoor dat alle geïnteresseerde partijen gebruik kunnen maken van haar diensten en past haar procedures zonder enige vorm van discriminatie toe;
+- e. zij beschikt over voldoende personeel en de nodige voorzieningen om de technische en administratieve werkzaamheden die uit haar taken voortvloeien, naar behoren en snel te kunnen verrichten;
+- f. het personeel dat belast is met de beoordeling van de overeenstemming van de gekwalificeerde middelen met de eisen:
+  - 1°. heeft een adequate opleiding genoten, met name op het gebied van technologieën voor elektronische handtekeningen of elektronische zegels en de daaraan verbonden aspecten van de veiligheid van het gebruik van computers;
+  - 2°. bezit een behoorlijke kennis van voorschriften inzake de te verrichten overeenstemmingsbeoordelingen en heeft voldoende ervaring met dergelijke beoordelingen;
+- g. zij waarborgt de onpartijdigheid van het personeel, onder meer door de bezoldiging niet afhankelijk te stellen van het aantal uitgevoerde overeenstemmingbeoordelingen of van de resultaten van deze beoordelingen;
+- h. zij houdt voldoende financiële middelen ter beschikking om in overeenstemming met de eisen van de wet en de bij of op grond van de eidas-verordening gestelde eisen te kunnen functioneren;
+- i. zij behandelt de gegevens die haar ter kennis komen vertrouwelijk, en
+- j. zij staat in voor de overeengekomen activiteiten van de instellingen door welke zij een deel van de overeenstemmingbeoordeling laat uitvoeren en kan aantonen dat deze instelling in staat is de betrokken dienst te verlenen.
+
+3\. De instelling die deel uitmaakt van een organisatie die zich bezighoudt met andere activiteiten dan de beoordeling van de overeenstemming van gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels met de eisen, bedoeld in bijlage II van de eidas-verordening, is binnen die organisatie herkenbaar als aangewezen instelling als bedoeld in artikel 18.17a, eerste lid, van de wet, en scheidt haar werkzaamheden zodanig van de andere activiteiten, dat daardoor de correcte beoordeling van overeenstemming van gekwalificeerde middelen is gewaarborgd.
+
+4\. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze waarop en bij wie een aanvraag tot aanwijzing als instelling als bedoeld in artikel 18.17a, eerste lid, van de wet geschiedt, de informatie die daarbij wordt overgelegd en het verlenen van medewerking terzake van een ingediende aanvraag.
+
+5\. Aan een aanwijzing kunnen voorschriften worden verbonden die betrekking hebben op de duur van de aanwijzing, de kwaliteit van de organisatie en het verstrekken van informatie.
+
+### Artikel 3a — Nadere regeling elektronische handtekening of zegel
+
+Onder het in artikel 18.18, eerste lid, van de wet opgenomen verbod wordt mede verstaan de situatie waarin een elektronische handtekening of zegel wordt aangeboden als geavanceerde elektronische handtekening of geavanceerd elektronisch zegel, terwijl niet wordt voldaan aan de voor die handtekening onderscheidenlijk dat zegel in de eidas-verordening opgenomen eisen.
+
+## Hoofdstuk 3 — Intrekking en wijziging andere besluiten
+
+### Artikel 4 — Intrekking Besluit elektronische handtekeningen
+
+Het Besluit elektronische handtekeningen wordt ingetrokken.
+
+### Artikel 5 — Wijziging Aanbestedingsbesluit
+
+Wijzigt het Aanbestedingsbesluit.
+
+### Artikel 6 — Wijziging Aanbestedingsbesluit op defensie- en veiligheidsgebied
+
+Wijzigt het Aanbestedingsbesluit op defensie- en veiligheidsgebied.
+
+### Artikel 7 — Wijziging Besluit doorberekening kosten ACM
+
+Wijzigt het Besluit doorberekening kosten ACM.
+
+### Artikel 8 — Wijziging Besluit elektronische dienstverlening burgerlijke stand
+
+Wijzigt het Besluit elektronische dienstverlening burgerlijke stand.
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Artikel 9 — Wijziging Besluit elektronisch verkeer met de bestuursrechter
+
+Wijzigt het Besluit elektronisch verkeer met de bestuursrechter.
+
+### Artikel 10 — Wijziging Besluit vergoedingen Telecommunicatiewet
+
+Wijzigt het Besluit vergoedingen Telecommunicatiewet.
+
+### Artikel 11 — Wijziging Handelsregisterbesluit 2008
+
+Wijzigt het Handelsregisterbesluit 2008.
+
+### Artikel 12 — Wijziging Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken
+
+Wijzigt het Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
+
+## Hoofdstuk 4 — Slotbepalingen
+
+### Artikel 13 — Inwerkingtreding
+
+1\. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. Het besluit kan of de verschillende artikelen of onderdelen daarvan kunnen terugwerken tot en met een in dat koninklijk besluit te bepalen tijdstip.
+
+2\. Indien de Europese Commissie uitvoeringshandelingen inzake het definiëren van de formaten en procedures, met inbegrip van termijnen, vaststelt op grond van artikel 19, vierde lid, aanhef en onder b, van de eidas-verordening, vervalt artikel 2, of onderdelen daarvan, op een bij koninklijk besluit te bepalen tijdstip.
+
+3\. Indien de Europese Commissie uitvoeringshandelingen inzake de criteria waaraan de certificeringsinstellingen voor gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen moeten voldoen, vaststelt op grond van artikel 30, vierde lid, van de eidas-verordening, vervalt artikel 3, of vervallen onderdelen daarvan, op een bij koninklijk besluit te bepalen tijdstip.
+
+### Artikel 14 — Citeertitel
+
+Dit Besluit wordt aangehaald als: Besluit vertrouwensdiensten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+Wassenaar 22 februari 2017
+
+Willem-Alexander
+
+De Minister van Economische Zaken,\
+H.G.J. Kamp
+
+de *achtste* maart 2017
+
+De Minister van Veiligheid en Justitie,\
+S.A. Blok

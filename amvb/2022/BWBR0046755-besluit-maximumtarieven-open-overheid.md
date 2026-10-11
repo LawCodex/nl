@@ -1,0 +1,77 @@
+---
+title: "Besluit maximumtarieven open overheid"
+identifier: "BWBR0046755"
+type: decree
+bwb_type: "AMvB"
+jurisdiction: nl
+language: nl
+date: 2022-06-01
+last_amended: 2022-06-15
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0046755/2022-06-15"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0046755/2022-06-15_0/xml/BWBR0046755_2022-06-15_0.xml"
+authority: "Binnenlandse Zaken en Koninkrijksrelaties"
+rechtsgebied: ["Staats- en bestuursrecht", "Bestuursrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit maximumtarieven open overheid
+
+*Besluit van 1 juni 2022, houdende tarieven voor het vervaardigen van kopieën op verzoek op grond van de Wet open overheid (Besluit maximumtarieven open overheid)*
+
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.
+
+Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 maart 2022, nr. 2022-0000126631;
+
+Gelet op artikel 8.6, derde lid, van de Wet open overheid;
+
+De Afdeling advisering van de Raad van State gehoord (advies van 4 mei 2022, nr. W04.22.00032/I);
+
+Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 mei 2022, nr. 2022-0000256833;
+
+Hebben goedgevonden en verstaan:
+
+## Artikel 1
+
+Dit besluit is van toepassing op het verstrekken van informatie op verzoek op grond van de Wet open overheid, door een orgaan, persoon of college als bedoeld in artikel 2.2, eerste lid, van die wet.
+
+## Artikel 2
+
+1\. Indien op grond van artikel 8.6, tweede lid, van de Wet open overheid een vergoeding in rekening wordt gebracht voor de vervaardiging van kopieën van documenten op A4- of A3-formaat, bedraagt deze per afdruk op papier maximaal het bedrag zoals opgenomen in de tarieventabel in de bijlage.
+
+2\. De bedragen in de tarieventabel kunnen bij ministeriële regeling worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.
+
+## Artikel 3
+
+Indien een vergoeding in rekening wordt gebracht, wordt de aanvrager hiervan voorafgaand aan het vervaardigen van de kopieën op de hoogte gesteld en wordt een schatting gegeven van de kosten.
+
+## Artikel 4
+
+Dit besluit treedt in werking op het tijdstip waarop hoofdstuk 4 van de Wet open overheid in werking treedt. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na dat tijdstip, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+## Artikel 5
+
+Dit besluit wordt aangehaald als: Besluit maximumtarieven open overheid.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+’s-Gravenhage 1 juni 2022
+
+Willem-Alexander
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+H.G.J. Bruins Slot
+
+de *veertiende* juni 2022
+
+De Minister van Justitie en Veiligheid,\
+D. Yeşilgöz-Zegerius
+
+## Bijlage — bij artikel 2, eerste lid, van het Besluit tarieven open overheid (Tarieventabel)
+
+| | A4-formaat | A3-formaat |
+| --- | --- | --- |
+| Zwart-wit, enkelzijdig | € 0,05 | € 0,10 |
+| Zwart-wit, dubbelzijdig | € 0,10 | € 0,20 |
+| Kleur, enkelzijdig | € 0,20 | € 0,40 |
+| Kleur, dubbelzijdig | € 0,40 | € 0,80 |

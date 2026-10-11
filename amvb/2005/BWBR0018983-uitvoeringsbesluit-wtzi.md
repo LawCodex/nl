@@ -1,0 +1,273 @@
+---
+title: "Uitvoeringsbesluit WTZi"
+identifier: "BWBR0018983"
+type: decree
+bwb_type: "AMvB"
+jurisdiction: nl
+language: nl
+date: 2005-11-03
+last_amended: 2022-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0018983/2022-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0018983/2022-01-01_0/xml/BWBR0018983_2022-01-01_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Gezondheidsrecht en farmaceutisch recht"]
+retrieved: 2026-10-11
+---
+
+# Uitvoeringsbesluit WTZi
+
+*Besluit van 3 november 2005, houdende uitvoering van enige bepalingen van de Wet toelating zorginstellingen (Uitvoeringsbesluit WTZi)*
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 27 september 2004, kenmerk Z/PB-2519449;
+
+Gelet op de artikelen 1, tweede en derde lid, 5, eerste, tweede en derde lid, 6, 7, derde lid, onder c, 9, eerste lid, onder b, 16 en 17, vierde lid, van de Wet toelating zorginstellingen;
+
+De Raad van State gehoord (advies van 23 november 2004, nr. W13.04.0473/III);
+
+Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2005, kenmerk MC/MO-2625487;
+
+Hebben goedgevonden en verstaan:
+
+## Hoofdstuk I — Begripsomschrijvingen
+
+### Artikel 1.1
+
+In dit besluit wordt, tenzij anders bepaald, verstaan onder:
+
+- a. de wet: de Wet toelating zorginstellingen;
+- b. Wlz-verblijf: het verblijf, bedoeld in artikel 3.1.1, eerste lid, onderdeel a, van de Wet langdurige zorg;
+- c. Zvw-verblijf: het verblijf, omschreven in artikel 2.12 van het Besluit zorgverzekering;
+- d. kleinschalige woonvoorziening: instelling die:
+  - – bestaat uit een of meerdere zelfstandige woningen, dat wil zeggen woningen die naast één of meer privévertrekken een eigen voordeur, een eigen keuken, een eigen toilet en een eigen badkamer hebben;
+  - – een beperkte omvang heeft, dat wil zeggen dat deze huisvesting biedt aan ten hoogste zes personen; en
+  - – samen met andere in de directe omgeving gelegen zodanige voorzieningen aan niet meer dan 50 personen verblijf biedt.
+
+### Artikel 1.2
+
+Vervallen
+
+## Hoofdstuk II — Uitzonderingen
+
+### Artikel 2.1
+
+Vervallen
+
+### Artikel 2.2
+
+Vervallen
+
+### Artikel 2.3
+
+Vervallen
+
+## Hoofdstuk III — Winstoogmerk
+
+### Artikel 3.1
+
+Als categorieën van instellingen waarvoor winstoogmerk is toegestaan, worden aangewezen instellingen die uitsluitend een of meer van de volgende vormen van zorg verlenen:
+
+- – audiologische zorg;
+- – behandeling van gedragswetenschappelijke aard in verband met een psychiatrische aandoening;
+- – farmaceutische zorg;
+- – huisartsenzorg;
+- – kraamzorg;
+- – medisch specialistische zorg, uitsluitend in verband met een psychiatrische aandoening en niet in combinatie met Zvw-verblijf;
+- – mondzorg;
+- – paramedische zorg;
+- – persoonlijke verzorging, verpleging, begeleiding, schoonmaak van de woning of behandeling, anders dan behandeling van gedragswetenschappelijke aard in verband met een psychiatrische aandoening, indien deze vormen van zorg niet worden verleend in combinatie met Wlz-verblijf;
+- – trombosezorg;
+- – uitleen van verpleegartikelen;
+- – verloskundige zorg;
+- – verstrekken van hulpmiddelen;
+- – vervoer;
+- – zorg in een kleinschalige woonvoorziening.
+
+## Hoofdstuk IV — Aanvraag toelating
+
+### Artikel 4.1
+
+Vervallen
+
+### Artikel 4.2
+
+Vervallen
+
+## Hoofdstuk V — Bouw
+
+### Artikel 5.1
+
+Vervallen
+
+### Artikel 5.2
+
+Vervallen
+
+### Artikel 5.3
+
+Vervallen
+
+### Artikel 5.4
+
+Vervallen
+
+## Hoofdstuk VI — Transparantie-eisen
+
+### § 1 — Bestuursstructuur
+
+#### Artikel 6.1
+
+Vervallen
+
+#### Artikel 6.2
+
+Vervallen
+
+### § 2 — Bedrijfsvoering
+
+#### Artikel 6.3
+
+Vervallen
+
+#### Artikel 6.4
+
+Vervallen
+
+#### Artikel 6.5
+
+Vervallen
+
+## Hoofdstuk VII — Gegevensverstrekking
+
+### Artikel 7.1
+
+Vervallen
+
+### Artikel 7.2
+
+Vervallen
+
+### Artikel 7.3
+
+Vervallen
+
+### Artikel 7.4
+
+Vervallen
+
+### Artikel 7.5
+
+Vervallen
+
+### Artikel 7.6
+
+Vervallen
+
+### Artikel 7.7
+
+Vervallen
+
+### Artikel 7.8
+
+Vervallen
+
+## Hoofdstuk VIII — Sanering
+
+### Artikel 8.1
+
+In dit hoofdstuk wordt verstaan onder sanering: het geheel van de maatregelen die worden genomen op grond van een besluit als bedoeld in artikel 17, eerste lid, van de wet of ter uitvoering van een beslissing als bedoeld in artikel 18 van de wet.
+
+### Artikel 8.2
+
+1\. De financiële gevolgen van sanering, bedoeld in artikel 17, eerste lid, van de wet bestaan uit het verschil tussen de door het College sanering aanvaardbaar geachte lasten terzake van de sanering en de door het College sanering vastgestelde opbrengsten daarvan. Het College sanering stelt het verschil niet vast dan nadat de liquidatiebegroting is geverifieerd door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.
+
+2\. Bij het vaststellen van de lasten terzake van sanering neemt het College sanering in beschouwing:
+
+- a. onderbezettingsverliezen;
+- b. uitkeringen aan werknemers of gewezen werknemers;
+- c. uitkeringen aan personen die krachtens overeenkomst met de instelling voor eigen rekening een medisch beroep uitoefenen of hebben uitgeoefend;
+- d. boekverliezen als gevolg van de vervreemding van zaken;
+- e. andere uitgaven ten behoeve van de sanering.
+
+3\. Voor de toepassing van het tweede lid blijven buiten beschouwing lasten die in aanmerking zijn genomen of kunnen worden genomen bij de vaststelling van een tarief als bedoeld in de Wet marktordening gezondheidszorg.
+
+4\. Bij het vaststellen van de opbrengsten van sanering neemt het College sanering in beschouwing de opbrengsten van vermogensbestanddelen die als gevolg van de sanering niet meer bij de instelling in gebruik zullen zijn, met uitzondering van de vermogensbestanddelen die naar het oordeel van het College sanering, gelet op hun herkomst en bestemming, behoren te worden uitgezonderd, alsmede opbrengsten die in aanmerking zijn genomen of kunnen worden genomen bij de vaststelling van een tarief als bedoeld in de Wet marktordening gezondheidszorg.
+
+5\. Het College sanering kan nadere regels stellen terzake van de lasten en opbrengsten bedoeld in de voorgaande leden.
+
+### Artikel 8.3
+
+1\. Het College sanering kan ten behoeve van de sanering en het toezicht daarop een gemachtigde aanwijzen.
+
+2\. De gemachtigde is onder verantwoordelijkheid van het College sanering belast met het toezicht op de naleving van de bij of krachtens artikel 17 van de wet gestelde regels.
+
+### Artikel 8.4
+
+1\. De instelling is verplicht aan het College sanering de gegevens en bescheiden te verstrekken die het in verband met de sanering nodig acht.
+
+2\. Het College sanering kan nadere regels stellen terzake van het verstrekken van de gegevens en bescheiden bedoeld in het vorige lid.
+
+3\. Het College sanering kan de instelling verplichtingen opleggen als bedoeld in artikel 4:38 van de Algemene wet bestuursrecht.
+
+### Artikel 8.5
+
+1\. Het College sanering kan de instelling aanwijzingen geven ten behoeve van het goede verloop van de sanering.
+
+2\. De instelling is verplicht uitvoering te geven aan aanwijzingen als bedoeld in het eerste lid.
+
+### Artikel 8.6
+
+1\. Artikel 18 van de wet is uitsluitend van toepassing op:
+
+- a. instellingen die medisch specialistische zorg verlenen:
+  - 1° die wordt verleend in combinatie met Zvw-verblijf;
+  - 2° waarvoor op grond van de Wet marktordening gezondheidszorg een tarief is vastgesteld; en
+  - 3° die behoort tot de ingevolge de Zorgverzekeringswet te verzekeren prestaties;
+- b. instellingen die zorg verlenen in combinatie met Wlz-verblijf.
+
+2\. In afwijking van het eerste lid geldt artikel 18 van de wet niet voor:
+
+- a. kleinschalige woonvoorzieningen;
+- b. de militair geneeskundige dienst, bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet ambtenaren defensie;
+- c. rijksinstellingen als bedoeld in artikel 1.1, eerste lid, onderdeel j, van de Wet forensische zorg;
+- d. instellingen als bedoeld in artikel 3.3, eerste lid, van de Wet forensische zorg.
+
+### Artikel 8.7
+
+Vervallen
+
+### Artikel 8.8
+
+1\. Het Besluit sanering instellingen voor gezondheidszorg wordt ingetrokken.
+
+2\. Na de inwerkingtreding van dit artikel berusten de regels ter uitvoering van het Besluit sanering instellingen voor gezondheidszorg op de overeenkomstige bepalingen van dit hoofdstuk.
+
+## Hoofdstuk IX — Slotbepalingen
+
+### Artikel 9.1
+
+Dit besluit treedt in werking op het tijdstip waarop de Wet toelating zorginstellingen in werking treedt.
+
+### Artikel 9.2
+
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit WTZi.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende bijlage en nota van toelichting in het Staatsblad zal worden geplaatst.
+
+’s-Gravenhage 3 november 2005
+
+Beatrix
+
+De Minister van Volksgezondheid, Welzijn en Sport,\
+J. F. Hoogervorst
+
+de *tweeëntwintigste* november 2005
+
+De Minister van Justitie,\
+J. P. H. Donner
+
+## Bijlage
+
+Niet opgenomen.

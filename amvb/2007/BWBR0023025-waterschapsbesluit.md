@@ -1,0 +1,1895 @@
+---
+title: "Waterschapsbesluit"
+identifier: "BWBR0023025"
+type: decree
+bwb_type: "AMvB"
+jurisdiction: nl
+language: nl
+date: 2007-11-29
+last_amended: 2026-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0023025/2026-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0023025/2026-01-01_0/xml/BWBR0023025_2026-01-01_0.xml"
+authority: "Infrastructuur en Milieu"
+rechtsgebied: ["Staats- en bestuursrecht", "Staatsrecht"]
+retrieved: 2026-10-11
+---
+
+# Waterschapsbesluit
+
+*Besluit van 29 november 2007, houdende regels met betrekking tot de waterschappen (Waterschapsbesluit)*
+
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+
+Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 15 augustus 2007, nr. HDJZ/I&O/2007-904, Hoofddirectie Juridische Zaken;
+
+Gelet op de artikelen 18, vierde lid, 19, tweede en derde lid, 20, tweede en vierde lid, 21, eerste en vijfde lid, 24, tweede en derde lid, 25, 29, eerste lid, 32a, 44, eerste lid, 49, eerste en tweede lid, 98a, eerste en tweede lid, 109, zesde lid, 120, vierde lid, 122g, 122k, tweede lid, en 126a van de Waterschapswet;
+
+De Raad van State gehoord (advies van 8 oktober 2007, nr. W09.07.0306/IV);
+
+Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 26 november 2007, nr. HDJZ/WAT/2007-1514, Hoofddirectie Juridische Zaken;
+
+Hebben goedgevonden en verstaan:
+
+## Hoofdstuk 1 — Algemene bepalingen
+
+### Artikel 1.1
+
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+*Onze Minister*: Onze Minister van Infrastructuur en Waterstaat;
+
+*wet*: Waterschapswet.
+
+## Hoofdstuk 2 — De verkiezing van leden van het algemeen bestuur
+
+### § 1 — Het stembureau
+
+#### Artikel 2.1
+
+Vervallen
+
+#### Artikel 2.2
+
+Vervallen
+
+#### Artikel 2.3
+
+Vervallen
+
+#### Artikel 2.4
+
+Vervallen
+
+#### Artikel 2.5
+
+Vervallen
+
+#### Artikel 2.6
+
+Vervallen
+
+#### Artikel 2.7
+
+Vervallen
+
+### § 2 — Het tijdstip van de kandidaatstelling
+
+#### Artikel 2.8
+
+Vervallen
+
+### § 3 — De registratie van de aanduiding van een belangengroepering
+
+#### Artikel 2.9
+
+Vervallen
+
+#### Artikel 2.10
+
+Vervallen
+
+#### Artikel 2.11
+
+Vervallen
+
+#### Artikel 2.12
+
+Vervallen
+
+#### Artikel 2.13
+
+Vervallen
+
+#### Artikel 2.14
+
+Vervallen
+
+#### Artikel 2.15
+
+Vervallen
+
+### § 4 — De inlevering van de kandidatenlijsten
+
+#### Artikel 2.16
+
+Vervallen
+
+#### Artikel 2.17
+
+Vervallen
+
+#### Artikel 2.18
+
+Vervallen
+
+#### Artikel 2.19
+
+Vervallen
+
+#### Artikel 2.20
+
+Vervallen
+
+#### Artikel 2.21
+
+Vervallen
+
+#### Artikel 2.22
+
+Vervallen
+
+#### Artikel 2.23
+
+Vervallen
+
+#### Artikel 2.24
+
+Vervallen
+
+#### Artikel 2.25
+
+Vervallen
+
+#### Artikel 2.26
+
+Vervallen
+
+### § 5 — Het onderzoek van de kandidatenlijsten
+
+#### Artikel 2.27
+
+Vervallen
+
+#### Artikel 2.28
+
+Vervallen
+
+#### Artikel 2.29
+
+Vervallen
+
+#### Artikel 2.30
+
+Vervallen
+
+#### Artikel 2.31
+
+Vervallen
+
+#### Artikel 2.32
+
+Vervallen
+
+#### Artikel 2.33
+
+Vervallen
+
+#### Artikel 2.34
+
+Vervallen
+
+#### Artikel 2.35
+
+Vervallen
+
+#### Artikel 2.36
+
+Vervallen
+
+### § 6 — De verbinding van kandidatenlijsten tot een lijstencombinatie
+
+#### Artikel 2.37
+
+Vervallen
+
+#### Artikel 2.38
+
+Vervallen
+
+### § 7 — De nummering van de kandidatenlijsten
+
+#### Artikel 2.39
+
+Vervallen
+
+#### Artikel 2.40
+
+Vervallen
+
+#### Artikel 2.41
+
+Vervallen
+
+#### Artikel 2.42
+
+Vervallen
+
+### § 8 — De openbaarmaking van de kandidatenlijsten
+
+#### Artikel 2.43
+
+Vervallen
+
+### § 9 — Algemene bepalingen omtrent de stemming
+
+#### Artikel 2.44
+
+Vervallen
+
+#### Artikel 2.45
+
+Vervallen
+
+#### Artikel 2.45a
+
+Vervallen
+
+#### Artikel 2.46
+
+Vervallen
+
+#### Artikel 2.47
+
+Vervallen
+
+#### Artikel 2.48
+
+Vervallen
+
+### § 10 — De oproeping voor de stemming
+
+#### Artikel 2.49
+
+Vervallen
+
+#### Artikel 2.50
+
+Vervallen
+
+#### Artikel 2.51
+
+Vervallen
+
+#### Artikel 2.52
+
+Vervallen
+
+### § 11 — Stemmen per brief
+
+#### Artikel 2.53
+
+Vervallen
+
+#### Artikel 2.54
+
+Vervallen
+
+#### Artikel 2.54a
+
+Vervallen
+
+#### Artikel 2.55
+
+Vervallen
+
+#### Artikel 2.56
+
+Vervallen
+
+### § 12 — Stemmen per internet
+
+#### Artikel 2.57
+
+Vervallen
+
+#### Artikel 2.58
+
+Vervallen
+
+#### Artikel 2.59
+
+Vervallen
+
+#### Artikel 2.60
+
+Vervallen
+
+#### Artikel 2.61
+
+Vervallen
+
+#### Artikel 2.62
+
+Vervallen
+
+#### Artikel 2.63
+
+Vervallen
+
+### § 13 — De stemopneming
+
+#### Artikel 2.64
+
+Vervallen
+
+#### Artikel 2.65
+
+Vervallen
+
+#### Artikel 2.66
+
+Vervallen
+
+#### Artikel 2.66a
+
+Vervallen
+
+#### Artikel 2.67
+
+Vervallen
+
+#### Artikel 2.67a
+
+Vervallen
+
+#### Artikel 2.68
+
+Vervallen
+
+#### Artikel 2.69
+
+Vervallen
+
+#### Artikel 2.70
+
+Vervallen
+
+#### Artikel 2.71
+
+Vervallen
+
+#### Artikel 2.72
+
+Vervallen
+
+#### Artikel 2.73
+
+Vervallen
+
+### § 14 — De vaststelling van de verkiezingsuitslag
+
+#### Artikel 2.74
+
+Vervallen
+
+#### Artikel 2.75
+
+Vervallen
+
+#### Artikel 2.76
+
+Vervallen
+
+#### Artikel 2.77
+
+Vervallen
+
+#### Artikel 2.78
+
+Vervallen
+
+#### Artikel 2.79
+
+Vervallen
+
+#### Artikel 2.80
+
+Vervallen
+
+#### Artikel 2.81
+
+Vervallen
+
+#### Artikel 2.82
+
+Vervallen
+
+#### Artikel 2.83
+
+Vervallen
+
+#### Artikel 2.84
+
+Vervallen
+
+#### Artikel 2.85
+
+Vervallen
+
+### § 15 — De toewijzing van de zetels aan de kandidaten
+
+#### Artikel 2.86
+
+Vervallen
+
+#### Artikel 2.87
+
+Vervallen
+
+#### Artikel 2.88
+
+Vervallen
+
+### § 16 — De bekendmaking van de verkiezingsuitslag
+
+#### Artikel 2.89
+
+Vervallen
+
+#### Artikel 2.90
+
+Vervallen
+
+#### Artikel 2.91
+
+Vervallen
+
+#### Artikel 2.92
+
+Vervallen
+
+#### Artikel 2.93
+
+Vervallen
+
+#### Artikel 2.94
+
+Vervallen
+
+### § 17 — Het lidmaatschap
+
+#### Artikel 2.95
+
+Vervallen
+
+#### Artikel 2.96
+
+Vervallen
+
+#### Artikel 2.97
+
+Vervallen
+
+#### Artikel 2.98
+
+Vervallen
+
+#### Artikel 2.99
+
+Vervallen
+
+#### Artikel 2.100
+
+Vervallen
+
+#### Artikel 2.101
+
+Vervallen
+
+#### Artikel 2.102
+
+Vervallen
+
+#### Artikel 2.103
+
+Vervallen
+
+#### Artikel 2.104
+
+Vervallen
+
+#### Artikel 2.105
+
+Vervallen
+
+#### Artikel 2.106
+
+Vervallen
+
+#### Artikel 2.107
+
+Vervallen
+
+### § 18 — De opvolging
+
+#### Artikel 2.108
+
+Vervallen
+
+#### Artikel 2.109
+
+Vervallen
+
+#### Artikel 2.110
+
+Vervallen
+
+#### Artikel 2.111
+
+Vervallen
+
+#### Artikel 2.112
+
+Vervallen
+
+#### Artikel 2.113
+
+Vervallen
+
+### § 19 — Einde van het lidmaatschap
+
+#### Artikel 2.114
+
+Vervallen
+
+#### Artikel 2.115
+
+Vervallen
+
+#### Artikel 2.116
+
+Vervallen
+
+#### Artikel 2.117
+
+Vervallen
+
+### § 20 — Tijdelijk ontslag en vervanging wegens zwangerschap en bevalling of ziekte
+
+#### Artikel 2.118
+
+Vervallen
+
+#### Artikel 2.119
+
+Vervallen
+
+#### Artikel 2.120
+
+Vervallen
+
+### § 21 — Overige bepalingen
+
+#### Artikel 2.121
+
+Vervallen
+
+#### Artikel 2.122
+
+Vervallen
+
+#### Artikel 2.123
+
+Vervallen
+
+#### Artikel 2.124
+
+Vervallen
+
+## Hoofdstuk 3 — De rechtspositie van de leden van het waterschapsbestuur
+
+### § 1 — Begripsbepalingen
+
+#### Artikel 3.1
+
+Vervallen
+
+### § 2 — Vergoedingen en tegemoetkoming leden algemeen bestuur
+
+#### Artikel 3.2
+
+Vervallen
+
+#### Artikel 3.3
+
+Vervallen
+
+#### Artikel 3.4
+
+Vervallen
+
+#### Artikel 3.5
+
+Vervallen
+
+#### Artikel 3.6
+
+Vervallen
+
+#### Artikel 3.7
+
+Vervallen
+
+#### Artikel 3.8
+
+Vervallen
+
+#### Artikel 3.8aa
+
+Vervallen
+
+#### Artikel 3.8a
+
+Vervallen
+
+#### Artikel 3.9
+
+Vervallen
+
+#### Artikel 3.9a
+
+Vervallen
+
+#### Artikel 3.10
+
+Vervallen
+
+#### Artikel 3.10a
+
+Vervallen
+
+#### Artikel 3.10b
+
+Vervallen
+
+#### Artikel 3.10c
+
+Vervallen
+
+### § 3 — Bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
+
+#### Artikel 3.11
+
+Vervallen
+
+#### Artikel 3.11a
+
+Vervallen
+
+#### Artikel 3.12
+
+Vervallen
+
+#### Artikel 3.12a
+
+Vervallen
+
+#### Artikel 3.13
+
+Vervallen
+
+#### Artikel 3.14
+
+Vervallen
+
+#### Artikel 3.15
+
+Vervallen
+
+#### Artikel 3.16
+
+Vervallen
+
+#### Artikel 3.17
+
+Vervallen
+
+### § 4 — Rechtspositie voorzitters waterschappen
+
+#### Artikel 3.18
+
+Vervallen
+
+#### Artikel 3.19
+
+Vervallen
+
+#### Artikel 3.20
+
+Vervallen
+
+#### Artikel 3.21
+
+Vervallen
+
+#### Artikel 3.22
+
+Vervallen
+
+#### Artikel 3.23
+
+Vervallen
+
+#### Artikel 3.24
+
+Vervallen
+
+#### Artikel 3.25
+
+Vervallen
+
+#### Artikel 3.26
+
+Vervallen
+
+#### Artikel 3.26a
+
+Vervallen
+
+#### Artikel 3.27
+
+Vervallen
+
+#### Artikel 3.28
+
+Vervallen
+
+#### Artikel 3.29
+
+Vervallen
+
+#### Artikel 3.30
+
+Vervallen
+
+#### Artikel 3.31
+
+Vervallen
+
+#### Artikel 3.32
+
+Vervallen
+
+#### Artikel 3.33
+
+Vervallen
+
+#### Artikel 3.34
+
+Vervallen
+
+#### Artikel 3.35
+
+Vervallen
+
+#### Artikel 3.36
+
+Vervallen
+
+#### Artikel 3.37
+
+Vervallen
+
+#### Artikel 3.38
+
+Vervallen
+
+#### Artikel 3.39
+
+Vervallen
+
+#### Artikel 3.40
+
+Vervallen
+
+#### Artikel 3.41
+
+Vervallen
+
+## Hoofdstuk 4 — De beleidsvoorbereiding en de verantwoording
+
+### § 1 — Algemene bepalingen
+
+#### Artikel 4.1
+
+In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+- *begroting na wijziging:* begroting zoals deze luidt na verwerking van alle door het algemeen bestuur lopende het begrotingsjaar vastgestelde begrotingswijzigingen;
+- *CBS:* Centraal Bureau voor de Statistiek;
+- *deelnemingen:* participaties in een besloten of naamloze vennootschap, waarin het waterschap aandelen heeft;
+- *financiële positie:* financiële positie als bedoeld in artikel 4.3, vierde lid;
+- *financiële rechtmatigheid:* rechtmatige totstandkoming van de baten, lasten en balansmutaties in overeenstemming met de begroting en met relevante wettelijke voorschriften, waaronder mede begrepen de waterschapsverordeningen;
+- *EMU-saldo:* geraamde onderscheidenlijk gerealiseerde saldo van de ontvangsten en uitgaven van een waterschap, berekend op transactiebasis en overeenkomstig de voorschriften van het Europese systeem van nationale en regionale rekeningen in de Europese Unie;
+- *kosten- en opbrengstsoorten:* indeling waarmee de lasten en baten naar hun aard worden gerangschikt;
+- *kostendragers:* indeling waarmee de nettokosten worden gerangschikt naar de taken die in het reglement aan het waterschap worden opgedragen of door het algemeen bestuur worden onderscheiden en waarvoor een aparte belasting wordt geheven;
+- *lastendruk:* hoogte lastendruk van een meerpersoonshuishouden met een eigen woning in vergelijking met het landelijk gemiddelde;
+- *nettokosten:* saldo van kosten en opbrengsten niet zijnde dekkingsmiddelen;
+- *nettoschuldquote:* verhouding tussen de omvang van de nettoschuld en de totale belastingopbrengsten;
+- *netto-vlottende schuld:* netto-vlottende schuld als bedoeld in artikel 1, onderdeel d, van de Wet financiering decentrale overheden;
+- *niet-effectieve positie:* situatie waarin de onderliggende waarde en looptijd van een financieel derivaat niet overeenkomt met de financieringsbehoefte waar het derivaat betrekking op heeft;
+- *onduidelijkheid:* oordeel van het dagelijks bestuur waaruit blijkt dat niet met zekerheid is vast te stellen of een bate, last of balansmutatie rechtmatig tot stand is gekomen;
+- *openbare lichamen:* openbare lichamen als bedoeld in artikel 1, onderdeel a, van de Wet financiering decentrale overheden;
+- *programma:* samenhangend geheel van activiteiten;
+- *rechtmatigheidsfout:* bate, last of balansmutatie die niet rechtmatig tot stand is gekomen. Rechtmatigheidsfouten treden op bij financiële transacties, waarbij voor financiële beheershandelingen relevante wettelijke voorschriften niet juist zijn toegepast;
+- *rechtmatigheidsverantwoording:* rechtmatigheidsverantwoording als bedoeld in artikel 4.64, tweede lid;
+- *rentetypische looptijd:* rentetypische looptijd als bedoeld in artikel 1, onderdeel b, van de Wet financiering decentrale overheden;
+- *uitzettingen:* tijdelijk aan derden toevertrouwde liquiditeiten tegen vooraf overeengekomen condities en bedingen;
+- *vaste schuld:* gezamenlijk bedrag als bedoeld in artikel 4.48, onderdeel c;
+- *verantwoordingsgrens:* verantwoordingsgrens als bedoeld in artikel 4.64, derde lid;
+- *verbonden partij:* verbonden partij als bedoeld in artikel 4.5, eerste lid;
+- *weerstandsvermogen:* relatie tussen:
+  - 1°. de weerstandscapaciteit, zijnde de middelen en mogelijkheden waarover het waterschap beschikt of kan beschikken om niet begrote kosten te dekken,
+  - 2°. alle risico's waarvoor geen maatregelen zijn getroffen en die van materiële betekenis kunnen zijn in relatie tot de financiële positie;
+- – *wendbaarheid van de begroting:* verhouding tussen de totale kapitaallasten en de totale bruto-exploitatiekosten.
+
+#### Artikel 4.2
+
+1\. Voor de meerjarenraming, de begroting, de jaarstukken en de uitvoeringsinformatie wordt een stelsel van baten en lasten gehanteerd.
+
+2\. De baten en lasten van het begrotingsjaar worden in de meerjarenraming, de begroting, de jaarstukken en de uitvoeringsinformatie opgenomen, onverschillig of zij tot inkomsten of uitgaven in dat jaar leiden, onderscheidenlijk hebben geleid.
+
+3\. De baten en lasten worden geraamd dan wel verantwoord tot hun brutobedrag met uitzondering van de raming en realisatie van belastingopbrengsten.
+
+4\. Onder de baten en lasten wordt ook begrepen de over het eigen vermogen en de voorzieningen berekende bespaarde rente.
+
+5\. Onder de baten en lasten wordt ook begrepen de heffing van de vennootschapsbelasting. Deze heffing wordt geraamd en verantwoord op basis van de fiscale grondslag.
+
+#### Artikel 4.3
+
+1\. De meerjarenraming, de begroting, de jaarstukken en de uitvoeringsinformatie geven volgens normen die voor het waterschap als aanvaardbaar worden beschouwd een zodanig inzicht dat een verantwoord oordeel kan worden gevormd over de financiële positie en over de ontwikkeling van de belastingopbrengst benodigd voor de taakuitoefening. In het bijzonder het algemeen bestuur moet in staat worden gesteld zich een zodanig oordeel te vormen.
+
+2\. De meerjarenraming, de begroting en de uitvoeringsinformatie daarbij en de toelichtingen geven duidelijk en stelselmatig inzicht in de financiële positie en de financiële rechtmatigheid.
+
+3\. De jaarstukken en de uitvoeringsinformatie daarbij en de toelichtingen geven getrouw, duidelijk en stelselmatig inzicht in de financiële positie aan het einde van het begrotingsjaar.
+
+4\. De financiële positie omvat de grootte en samenstelling van de baten en lasten over het begrotingsjaar, de activa en passiva aan het einde van het begrotingsjaar en de lasten en balansmutaties gedurende het begrotingsjaar.
+
+#### Artikel 4.4
+
+1\. De indeling van de begroting en van de jaarstukken is identiek.
+
+2\. Indien de indeling van de meerjarenraming, de begroting, de jaarstukken en de uitvoeringsinformatie afwijkt van die van het voorafgaande begrotingsjaar worden in de toelichting de verschillen aangegeven en worden de redenen die tot de afwijking hebben geleid uiteengezet.
+
+#### Artikel 4.5
+
+1\. Een verbonden partij is een privaatrechtelijke of publiekrechtelijke organisatie waarin het waterschap zeggenschap heeft, hetzij uit hoofde van vertegenwoordiging in het bestuur hetzij uit hoofde van stemrecht en waarin het waterschap een bedrag ter beschikking heeft gesteld dat niet verhaalbaar is indien de privaatrechtelijke of publiekrechtelijke organisatie failliet gaat onderscheidenlijk het bedrag waarvoor aansprakelijkheid bestaat indien de privaatrechtelijke of publiekrechtelijke organisatie haar verplichtingen niet nakomt.
+
+2\. Verbonden partijen worden niet geconsolideerd in de begroting en jaarstukken.
+
+### § 2 — De meerjarenraming en de toelichting
+
+#### Artikel 4.6
+
+De meerjarenraming bevat voor het komende begrotingsjaar, alsmede voor tenminste de vier jaren volgend op het komende begrotingsjaar:
+
+- a. de uiteenzetting van externe en interne ontwikkelingen, en uitgangspunten en normen, waarbij ten minste wordt ingegaan op:
+  - 1°. de externe en interne ontwikkelingen die relevant zijn voor het beleid van het waterschap,
+  - 2°. gehanteerde kwantitatieve uitgangspunten en normen voor lastenstijgingen, batenstijgingen dan wel lastendalingen of batendalingen die aan de geraamde bedragen ten grondslag liggen;
+- b. het naar programma’s onderscheiden beleid dat door het waterschap zal worden gevoerd en de financiële gevolgen daarvan, waarbij per programma wordt ingegaan op de:
+  - 1°. doelstelling van het beleid, in het bijzonder de beoogde maatschappelijke effecten,
+  - 2°. wijze waarop ernaar gestreefd zal worden die effecten te bereiken en de betrokkenheid hierbij van verbonden partijen,
+  - 3°. geraamde baten en lasten van het bestaande en het nieuwe beleid;
+- c. de raming van de belastingenopbrengsten;
+- d. de uiteenzetting van de financiële positie;
+- e. de lopende en voorgenomen investeringen.
+
+#### Artikel 4.7
+
+1\. In de toelichting op de meerjarenraming wordt ten minste afzonderlijk aandacht besteed aan de:
+
+- a. ontwikkeling van de waterschapsbelastingen in de komende jaren, mede in relatie tot de stand en het verloop van de bestemmingsreserves voor tariefsegalisatie als bedoeld in artikel 4.50, eerste lid, onderdeel b, in het kader van het begrotingsevenwicht in meerjarig perspectief;
+- b. uiteenzetting van de financiële positie, waarbij wordt ingegaan op:
+  - 1°. de financiering,
+  - 2°. het weerstandsvermogen, waarbij wordt ingegaan op aard, stand en verloop van de algemene reserves en de voorzieningen,
+  - 3°. de kengetallen weerstandsvermogen, nettoschuldquote, EMU-saldo, wendbaarheid van de begroting en lastendruk, waarbij een beoordeling van de onderlinge verhouding tussen de kengetallen in relatie tot de financiële positie plaatsvindt,
+  - 4°. een geprognosticeerde balans.
+
+2\. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kengetallen, genoemd in het eerste lid, onderdeel b, onder 3°, door waterschappen worden berekend en in de meerjarenraming worden opgenomen.
+
+### § 3 — De begroting en de toelichting
+
+#### § 3.1 — Algemeen
+
+##### Artikel 4.8
+
+1\. De begroting bestaat ten minste uit de:
+
+- a. beleidsbegroting;
+- b. financiële begroting.
+
+2\. De beleidsbegroting bestaat ten minste uit:
+
+- a. de uiteenzetting van de externe en interne ontwikkelingen;
+- b. het programmaplan;
+- c. de raming van belastingopbrengsten en de toelichting;
+- d. de in artikel 4.13 bedoelde paragrafen.
+
+3\. De financiële begroting bestaat ten minste uit:
+
+- a. de uiteenzetting van de gehanteerde uitgangspunten en normen;
+- b. het overzicht van baten en lasten en de toelichting;
+- c. het overzicht van de voorgenomen investeringen en de toelichting;
+- d. de geprognosticeerde begin- en eindbalans van het begrotingsjaar.
+
+#### § 3.2 — Beleidsbegroting
+
+##### Artikel 4.9
+
+De uiteenzetting van de externe en interne ontwikkelingen, bedoeld in artikel 4.8, tweede lid, onderdeel a, bevat een beschrijving van de ontwikkelingen sinds het vorig begrotingsjaar, waarbij ten minste wordt ingegaan op:
+
+- a. externe en interne ontwikkelingen die zich sinds het vaststellen van de vorige begroting en de behandeling van de meerjarenraming hebben voorgedaan;
+- b. de belangrijkste afwijkingen ten opzichte van de meerjarenraming;
+- c. de belangrijkste uitgangspunten en normen die aan de ramingen ten grondslag liggen;
+- d. afwijkingen van de uitgangspunten en normen zoals deze voor de vorige begroting en de meerjarenraming zijn gehanteerd.
+
+##### Artikel 4.10
+
+1\. Het programmaplan, bedoeld in artikel 4.8, tweede lid, onderdeel b, bestaat ten minste uit:
+
+- a. de te realiseren programma's;
+- b. een overzicht van de dekkingsmiddelen;
+- c. het bedrag van de heffing voor de vennootschapsbelasting;
+- d. het bedrag voor onvoorzien.
+
+2\. Het programmaplan bevat per programma de:
+
+- a. doelstelling van het programma, in het bijzonder de beoogde maatschappelijke effecten daarvan;
+- b. wijze waarop ernaar gestreefd zal worden de beoogde maatschappelijke effecten te bereiken en de betrokkenheid hierbij van verbonden partijen;
+- c. raming van baten en lasten.
+
+3\. Het overzicht van de dekkingsmiddelen bevat ten minste:
+
+- a. de belastingopbrengsten;
+- b. de dividenden;
+- c. het saldo van de financieringsfunctie;
+- d. de overige algemene opbrengsten.
+
+4\. Het bedrag voor onvoorzien wordt geraamd voor de begroting in zijn geheel of per programma.
+
+##### Artikel 4.11
+
+1\. De raming van belastingopbrengsten, bedoeld in artikel 4.8, tweede lid, onderdeel c, bevat de volgende kostendragers, tenzij de betreffende kostendrager bij het waterschap niet aan de orde is:
+
+- a. watersysteembeheer;
+- b. zuiveringsbeheer;
+- c. wegenbeheer.
+
+2\. Een waterschap dat krachtens het provinciaal reglement is belast met een beheertaak die niet in het eerste lid wordt genoemd, kan ook deze taak als kostendrager in de begroting en de jaarstukken opnemen.
+
+3\. De raming van belastingopbrengsten geeft per kostendrager weer:
+
+- a. de kosten die worden toegerekend;
+- b. het bedrag voor onvoorzien;
+- c. de gederfde opbrengst als gevolg van kwijtscheldingen en oninbaarverklaringen;
+- d. de dividenden en de overige algemene opbrengsten;
+- e. de verwachte opbrengsten uit belastingheffing, te bepalen aan de hand van het saldo van de onderdelen a tot en met d;
+- f. de geraamde toevoegingen en onttrekkingen aan reserves.
+
+4\. Van de in het derde lid bedoelde bedragen worden zowel het geraamde bedrag van het begrotingsjaar, het geraamde bedrag van het vorig begrotingsjaar na wijziging, als het gerealiseerde bedrag van het voorvorig begrotingsjaar weergegeven.
+
+5\. De raming van belastingopbrengsten omvat de tarieven van de betreffende waterschapsbelastingen voor het begrotingsjaar, waarbij per tarief wordt vergeleken met het vorig begrotingsjaar en het voorvorig begrotingsjaar.
+
+6\. Bij ministeriële regeling worden nadere regels gesteld omtrent de kostendragers.
+
+##### Artikel 4.12
+
+In de toelichting op de raming van belastingopbrengsten, bedoeld in artikel 4.8, tweede lid, onderdeel c, wordt ten minste ingegaan op:
+
+- a. de objectieve, bedrijfseconomische criteria die zijn gehanteerd bij de toerekening van kosten aan de kostendragers;
+- b. de kwantitatieve grondslagen die als onderdeel van de kostentoerekening zijn gehanteerd;
+- c. een beschrijving van het kwijtscheldingsbeleid;
+- d. de oorzaken indien bij de kostendragers een aanmerkelijk verschil is tussen de raming van het begrotingsjaar en die van het vorig begrotingsjaar na wijziging;
+- e. de mate van kostendekkendheid van de diverse belastingen, waarbij wordt ingegaan op de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de bestemmingsreserves voor tariefsegalisatie, bedoeld in artikel 4.50, eerste lid, onderdeel b;
+- f. de geraamde belastingopbrengsten;
+- g. de ontwikkeling van de tarieven;
+- h. een aanduiding van de lastendruk die het gevolg is van de waterschapsbelastingen.
+
+##### Artikel 4.13
+
+1\. In de begroting worden in afzonderlijke paragrafen de beleidslijnen vastgelegd met betrekking tot relevante beheersmatige aspecten.
+
+2\. De begroting bevat ten minste de volgende paragrafen:
+
+- a. uiteenzetting van de financiële positie;
+- b. assetmanagement;
+- c. bedrijfsvoering;
+- d. openbaarheid.
+
+3\. De begroting bevat voorts een paragraaf verbonden partijen indien dit bij het waterschap aan de orde is.
+
+##### Artikel 4.14
+
+1\. In de paragraaf uiteenzetting van de financiële positie, bedoeld in artikel 4.13, tweede lid, onderdeel a, wordt ten minste afzonderlijke aandacht besteed aan:
+
+- a. de financiering, waarbij wordt ingegaan op in ieder geval de beleidsvoornemens ten aanzien van het risicobeheer van de financieringsportefeuille en wordt inzicht gegeven in de rentelasten, het renteresultaat, de wijze waarop rente aan investeringen wordt toegerekend en de financieringsbehoefte;
+- b. het weerstandsvermogen en de risicobeheersing, waarbij tenminste ingegaan wordt op:
+  - 1°. een inventarisatie van de risico’s,
+  - 2°. een inventarisatie van de weerstandscapaciteit,
+  - 3°. het beleid omtrent de risico’s en de weerstandscapaciteit;
+- c. de stand en het gespecificeerde verloop van de bestemmingsreserves, waarbij wordt ingegaan op het beroep dat op de bestemmingsreserves, bedoeld in artikel 4.50, eerste lid, onderdeel b, wordt gedaan in het kader van het begrotingsevenwicht in meerjarig perspectief;
+- d. de stand en het gespecificeerde verloop van de overige bestemmingsreserves, waarbij wordt ingegaan op het beroep dat op de overige bestemmingsreserves, bedoeld in artikel 4.50, eerste lid, onderdeel c, wordt gedaan;
+- e. de stand en het gespecificeerde verloop van de voorzieningen, waarbij wordt ingegaan op de bedragen die rechtstreeks aan voorzieningen worden onttrokken;
+- f. de volgende kengetallen, waarbij een beoordeling van de onderlinge verhouding tussen de kengetallen in relatie tot de financiële positie plaatsvindt:
+  - 1°. weerstandsvermogen,
+  - 2°. nettoschuldquote,
+  - 3°. EMU-saldo,
+  - 4°. wendbaarheid van de begroting,
+  - 5°. lastendruk.
+
+2\. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kengetallen, genoemd in het eerste lid, onderdeel f, door waterschappen worden berekend en in de begroting worden opgenomen.
+
+##### Artikel 4.15
+
+1\. De paragraaf betreffende assetmanagement, bedoeld in artikel 4.13, tweede lid, onderdeel b, bevat ten minste:
+
+- a. waterkeringen en bijbehorende kunstwerken;
+- b. watergangen, waterkwantiteitskunstwerken en gemalen;
+- c. zuiveringtechnische werken;
+- d. wegen, vaarwegen, havens en bijbehorende kunstwerken.
+
+2\. Met betrekking tot de onderdelen, bedoeld in het eerste lid, wordt aangegeven:
+
+- a. het beleidskader;
+- b. de uit het beleidskader voortvloeiende financiële consequenties;
+- c. de vertaling van de financiële consequenties in de begroting.
+
+##### Artikel 4.16
+
+De paragraaf betreffende de bedrijfsvoering, bedoeld in artikel 4.13, tweede lid, onderdeel c, bevat ten minste:
+
+- a. de stand van zaken van de bedrijfsvoering;
+- b. de beleidsvoornemens ten aanzien van de bedrijfsvoering;
+- c. informatie over de financiële rechtmatigheid;
+- d. de maatregelen die worden ondernomen om rechtmatigheidsfouten en onduidelijkheden met betrekking tot de financiële rechtmatigheid te voorkomen.
+
+##### Artikel 4.17
+
+1\. De paragraaf betreffende de verbonden partijen, bedoeld in artikel 4.13, tweede lid, onderdeel d, bevat ten minste de:
+
+- a. visie op en de beleidsvoornemens omtrent verbonden partijen;
+- b. lijst van verbonden partijen, die wordt onderverdeeld in:
+  - 1°. gemeenschappelijke regelingen,
+  - 2°. vennootschappen en coöperaties,
+  - 3°. stichtingen en verenigingen,
+  - 4°. overige verbonden partijen.
+
+2\. In de lijst van verbonden partijen wordt ten minste de volgende informatie opgenomen:
+
+- a. de wijze waarop het waterschap een belang heeft in de verbonden partij en het openbaar belang dat ermee gediend wordt;
+- b. het belang dat het waterschap in de verbonden partij heeft aan het begin en de verwachte omvang aan het einde van het begrotingsjaar;
+- c. de verwachte omvang van het eigen vermogen en het vreemd vermogen van de verbonden partij aan het begin en aan het einde van het begrotingsjaar;
+- d. de verwachte omvang van het financiële resultaat van de verbonden partij in het begrotingsjaar;
+- e. de eventuele risico’s waarvoor de verbonden partij geen maatregelen heeft getroffen en die van materiële betekenis kunnen zijn voor de financiële positie van de verbonden partij en daardoor van betekenis kunnen zijn voor de financiële positie van het waterschap.
+
+##### Artikel 4.17a
+
+De paragraaf betreffende openbaarheid, bedoeld in artikel 4.13, tweede lid, onderdeel d, geeft ten minste inzicht in de beleidsvoornemens inzake de toepassing van de artikelen 3.1, 3.3, 3.3a en hoofdstuk 4 van de Wet open overheid en de wijze waarop toepassing is gegeven aan deze beleidsvoornemens.
+
+#### § 3.3 — Financiële begroting
+
+##### Artikel 4.18
+
+De uiteenzetting van de gehanteerde uitgangspunten en normen, bedoeld in artikel 4.8, derde lid, onderdeel a, bevat ten minste de:
+
+- a. autonome salarisontwikkeling die is verdisconteerd;
+- b. overige autonome loonkosten waarmee rekening is gehouden;
+- c. overige uitgangspunten en de normen die voor lastenstijgingen en lastendalingen dan wel batenstijgingen en batendalingen zijn gehanteerd en die deels aan de geraamde bedragen ten grondslag liggen.
+
+##### Artikel 4.19
+
+Het overzicht van baten en lasten, bedoeld in artikel 4.8, derde lid, onderdeel b, bevat:
+
+- a. per programma of per programmaonderdeel de raming van de baten en lasten en het saldo daarvan;
+- b. het overzicht van de geraamde dekkingsmiddelen, het geraamde bedrag van de heffing voor de vennootschapsbelasting en het geraamde bedrag voor onvoorzien;
+- c. het geraamde totaal saldo van baten en lasten, volgend uit de onderdelen a en b;
+- d. de beoogde toevoegingen en onttrekkingen aan reserves per programma;
+- e. het geraamde resultaat, volgend uit de onderdelen c en d.
+
+##### Artikel 4.20
+
+In de besluiten tot wijziging van de begroting worden per programma en, indien aanwezig, per programmaonderdeel, de mutatie en het nieuwe geraamde bedrag vastgesteld.
+
+##### Artikel 4.21
+
+De toelichting op het overzicht van baten en lasten, bedoeld in artikel 4.8, derde lid, onderdeel b, bevat ten minste:
+
+- a. het geraamde bedrag van het begrotingsjaar, het geraamde bedrag van het vorig begrotingsjaar na wijziging, en het gerealiseerde bedrag van het voorvorig begrotingsjaar;
+- b. de oorzaken in geval van aanmerkelijk verschil met de raming, respectievelijk de realisatie, van het vorig, respectievelijk voorvorig begrotingsjaar;
+- c. een overzicht van de geraamde incidentele baten en lasten per programma, waarbij per programma ten minste de belangrijkste posten afzonderlijk worden gespecificeerd en de overige posten als een totaalbedrag kunnen worden opgenomen;
+- d. een overzicht van de beoogde structurele toevoegingen en onttrekkingen aan de reserves.
+
+##### Artikel 4.22
+
+1\. Het overzicht van de voorgenomen investeringen, bedoeld in artikel 4.8, derde lid, onderdeel c, geeft de raming van de investeringen in het begrotingsjaar weer.
+
+2\. De toelichting op het overzicht van investeringen, bedoeld in artikel 4.8, derde lid, onderdeel c, bevat een totaaloverzicht van alle werken die aan het begin van het begrotingsjaar onderhanden zijn en die lopende het jaar worden gestart.
+
+##### Artikel 4.23
+
+De geprognosticeerde balans, bedoeld in artikel 4.8, derde lid, onderdeel d, omvat de geprognosticeerde begin- en eindbalans van het begrotingsjaar.
+
+### § 4 — De jaarstukken en de toelichting
+
+#### § 4.1 — Algemeen
+
+##### Artikel 4.24
+
+1\. De jaarstukken bestaan ten minste uit:
+
+- a. het jaarverslag;
+- b. de jaarrekening.
+
+2\. Het jaarverslag bestaat ten minste uit de:
+
+- a. programmaverantwoording;
+- b. realisatie van belastingopbrengsten en de toelichting;
+- c. paragrafen.
+
+3\. De jaarrekening bestaat uit:
+
+- a. het overzicht van baten en lasten in de jaarrekening en de toelichting;
+- b. het overzicht van gerealiseerde investeringen en de toelichting;
+- c. de balans en de toelichting;
+- d. de rechtmatigheidsverantwoording;
+- e. de overige gegevens, waaronder de accountantsverklaring.
+
+#### § 4.2 — Jaarverslag
+
+##### Artikel 4.25
+
+1\. De programmaverantwoording, bedoeld in artikel 4.24, tweede lid, onderdeel a, bestaat ten minste uit:
+
+- a. de verantwoording over de realisatie van de programma’s;
+- b. een overzicht van de gerealiseerde dekkingsmiddelen;
+- c. het bedrag van de heffing voor de vennootschapsbelasting;
+- d. het inzicht in het gebruik van het geraamde bedrag voor onvoorzien.
+
+2\. De programmaverantwoording biedt per programma inzicht in de:
+
+- a. mate waarin de doelstellingen zijn gerealiseerd;
+- b. wijze waarop getracht is de beoogde maatschappelijke effecten te bereiken, en de betrokkenheid hierbij van de verbonden partijen;
+- c. gerealiseerde baten en lasten.
+
+##### Artikel 4.26
+
+1\. De realisatie van belastingopbrengsten, bedoeld in artikel 4.24, tweede lid, onderdeel b, geeft per kostendrager weer:
+
+- a. de gerealiseerde kosten die zijn toegerekend;
+- b. de werkelijk kwijtgescholden en oninbaar verklaarde bedragen;
+- c. de gerealiseerde dividenden en overige algemene opbrengsten;
+- d. de gerealiseerde belastingopbrengsten;
+- e. het gerealiseerde resultaat voor bestemming, volgend uit de onderdelen a tot en met d;
+- f. de bestemming van het resultaat op basis van besluiten die zijn genomen tijdens het begrotingsjaar;
+- g. het nog te bestemmen resultaat, met:
+  - 1°. in geval van een positief saldo, een voorstel voor de bestemming van dat saldo, en
+  - 2°. in geval van een negatief saldo, een voorstel voor de wijze waarop dit tekort zal worden gedekt;
+- h. de werkelijke toevoegingen en onttrekkingen aan reserves.
+
+2\. De realisatie van belastingopbrengsten bevat van de onderdelen, genoemd in het eerste lid, ook de ramingen uit de begroting en de begroting na wijziging.
+
+##### Artikel 4.27
+
+De toelichting op de realisatie van belastingopbrengsten, bedoeld in artikel 4.24, tweede lid, onderdeel b, bevat ten minste:
+
+- a. voor alle onderdelen van artikel 4.26, eerste lid, een analyse van de afwijkingen tussen de realisatie en de begroting.
+- b. de verantwoording met betrekking tot alle onderdelen als bedoeld in artikel 4.12.
+
+##### Artikel 4.28
+
+1\. Het jaarverslag bevat de paragrafen die ingevolge artikel 4.13 in de begroting zijn opgenomen. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
+
+2\. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kengetallen, genoemd in artikel 4.14, eerste lid, onderdeel f, door waterschappen worden berekend en in het jaarverslag worden opgenomen.
+
+#### § 4.3 — Jaarrekening
+
+##### Artikel 4.29
+
+1\. Het overzicht van baten en lasten, bedoeld in artikel 4.24, derde lid, onderdeel a, in de jaarrekening bevat:
+
+- a. per programma of per programmaonderdeel de gerealiseerde baten en lasten en het saldo daarvan;
+- b. het overzicht van de gerealiseerde dekkingsmiddelen en het bedrag van de heffing voor de vennootschapsbelasting;
+- c. het gerealiseerde totaal saldo van baten en lasten, volgend uit de onderdelen a en b; d. de werkelijke toevoegingen en onttrekkingen aan reserves per programma;
+- e. het gerealiseerde resultaat, volgend uit de onderdelen c en d.
+
+2\. Het overzicht van baten en lasten in de jaarrekening bevat van de onderdelen genoemd in het eerste lid ook de ramingen uit de begroting voor en na wijziging.
+
+##### Artikel 4.30
+
+De toelichting op het overzicht van baten en lasten in de jaarrekening, bedoeld in artikel 4.24, derde lid, onderdeel a, bevat ten minste:
+
+- a. voor alle onderdelen als bedoeld in artikel 4.29, eerste lid, een analyse van de afwijkingen tussen de begroting na wijziging en de jaarstukken;
+- b. een overzicht van de aanwending van het bedrag voor onvoorzien;
+- c. een overzicht van de incidentele baten en lasten per programma, waarbij per programma ten minste de belangrijkste posten afzonderlijk worden gespecificeerd en de overige posten als een totaalbedrag kunnen worden opgenomen;
+- d. een overzicht van de structurele toevoegingen en onttrekkingen aan de reserves;
+- e. de informatie, bedoeld in de artikelen 4.1, eerste en tweede lid, en 4.2, eerste tot en met derde lid, van de Wet normering topinkomens.
+
+##### Artikel 4.31
+
+1\. Het overzicht van gerealiseerde investeringen en de toelichting, bedoeld in artikel 4.24, derde lid, onderdeel b, geeft de realisatie van de investeringen in het begrotingsjaar weer.
+
+2\. De toelichting op het overzicht van de investeringen bevat een totaaloverzicht van alle werken die aan het begin van het begrotingsjaar onderhanden waren en die in de loop van het jaar zijn gestart. Voor de werken die aan het einde van het begrotingsjaar nog een restantkrediet hadden, worden de verwachtingen weergegeven over het vervolg van deze werken.
+
+##### Artikel 4.32
+
+De jaarstukken worden vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de verslaggeving en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in artikel 4.3 bedoelde inzicht.
+
+##### Artikel 4.33
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de inrichting van de jaarrekening en de toelichting.
+
+#### § 4.4 — Balans
+
+##### Artikel 4.34
+
+1\. In de balans, bedoeld in artikel 4.24, derde lid, onderdeel c, worden naast de cijfers per balansdatum tevens de cijfers van de balans van het vorig begrotingsjaar opgenomen.
+
+2\. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de balans, de posten en de toelichting.
+
+##### Artikel 4.35
+
+Op de balans worden de activa onderscheiden in vaste en vlottende activa, al naar gelang zij zijn bestemd om de uitoefening van de werkzaamheid van het waterschap al dan niet duurzaam te dienen.
+
+##### Artikel 4.36
+
+Op de balans worden de passiva onderscheiden in vaste en vlottende passiva.
+
+##### § 4.4.1 — Activa
+
+###### Artikel 4.37
+
+Onder de vaste activa worden afzonderlijk opgenomen de immateriële, de materiële en de financiële vaste activa.
+
+###### Artikel 4.38
+
+In de toelichting op de balans worden de immateriële vaste activa gespecificeerd in:
+
+- a. kosten verbonden aan het sluiten van geldleningen en het saldo van agio en disagio; b. kosten van onderzoek en ontwikkeling voor een bepaald actief;
+- c. bijdragen aan activa in eigendom van derden.
+
+###### Artikel 4.39
+
+1\. In de toelichting op de balans worden de materiële vaste activa afzonderlijk gespecificeerd in:
+
+- a. gronden en terreinen;
+- b. woonruimten;
+- c. bedrijfsgebouwen;
+- d. grond-, weg- en waterbouwkundige werken;
+- e. vervoermiddelen;
+- f. machines, apparaten en installaties;
+- g. overige materiële vaste activa.
+
+2\. In de toelichting op de balans wordt van de materiële vaste activa aangegeven welke in erfpacht zijn uitgegeven.
+
+3\. In de toelichting op de balans wordt het verloop van de materiële vaste activa, bedoeld in het eerste lid, gedurende het begrotingsjaar, in een sluitend overzicht weergegeven, met voor zover van toepassing:
+
+- a. de boekwaarde aan het begin van het begrotingsjaar;
+- b. de investeringen of desinvesteringen;
+- c. de afschrijvingen;
+- d. bijdragen van derden direct gerelateerd aan een actief;
+- e. afwaarderingen wegens duurzame waardeverminderingen;
+- f. de boekwaarde aan het einde van het begrotingsjaar.
+
+4\. In het overzicht, bedoeld in het derde lid, worden de werken die aan het einde van het begrotingsjaar nog onderhanden zijn als één post vermeld.
+
+###### Artikel 4.40
+
+In de toelichting op de balans worden de financiële vaste activa gespecificeerd in:
+
+- a. kapitaalverstrekkingen aan:
+  - 1°. deelnemingen,
+  - 2°. gemeenschappelijke regelingen,
+  - 3°. overige verbonden partijen;
+- b. langlopende leningen aan:
+  - 1°. openbare lichamen,
+  - 2°. deelnemingen,
+  - 3°. overige verbonden partijen;
+- c. overige langlopende leningen;
+- d. uitzettingen:
+  - 1°. in ’s Rijks schatkist met een rentetypische looptijd van één jaar of langer,
+  - 2°. in de vorm van Nederlands schuldpapier met een rentetypische looptijd van één jaar of langer,
+  - 3°. overige uitzettingen met een rentetypische looptijd van één jaar of langer.
+
+###### Artikel 4.41
+
+Onder de vlottende activa worden afzonderlijk opgenomen de voorraden, de uitzettingen met een rentetypische looptijd korter dan één jaar, de kortlopende vorderingen, de liquide middelen en de overlopende activa.
+
+###### Artikel 4.42
+
+In de toelichting op de balans worden de voorraden afzonderlijk gespecificeerd in:
+
+- a. grond- en hulpstoffen;
+- b. onderhanden werken voor derden;
+- c. gereed product en handelsgoederen;
+- d. vooruitbetalingen op voorraden.
+
+###### Artikel 4.43
+
+In de toelichting op de balans worden de uitzettingen met een rentetypische looptijd korter dan een jaar gespecificeerd in:
+
+- a. verstrekte kasgeldleningen aan openbare lichamen;
+- b. overige verstrekte kasgeldleningen;
+- c. uitzettingen in ’s Rijks schatkist;
+- d. uitzettingen in de vorm van Nederlands schuldpapier;
+- e. overige uitzettingen;
+- f. de rekening-courantverhouding met het Rijk;
+- g. rekening-courantverhoudingen met niet-financiële instellingen.
+
+###### Artikel 4.44
+
+In de toelichting op de balans worden de kortlopende vorderingen gespecificeerd in:
+
+- a. vorderingen op belastingdebiteuren;
+- b. vorderingen als gevolg van subsidies en bijdragen;
+- c. vorderingen op openbare lichamen;
+- d. overige vorderingen.
+
+###### Artikel 4.45
+
+In de toelichting op de balans worden onder de liquide middelen de kas- en banksaldi opgenomen.
+
+###### Artikel 4.46
+
+1\. In de toelichting op de balans worden onder de overlopende activa afzonderlijk opgenomen:
+
+- a. van Europese en Nederlandse overheidslichamen nog te ontvangen voorschotbedragen die ontstaan door voorfinanciering op uitkeringen met een specifiek bestedingsdoel;
+- b. overige nog te ontvangen bedragen en de vooruitbetaalde bedragen die ten laste van volgende begrotingsjaren komen.
+
+2\. De voorschotten, bedoeld in het eerste lid, onderdeel a, worden uitgesplitst naar de nog te ontvangen bedragen van:
+
+- a. Europese overheidslichamen;
+- b. het Rijk;
+- c. overige Nederlandse overheidslichamen.
+
+3\. In de toelichting op de balans wordt per uitkering met een specifiek bestedingsdoel het verloop gedurende het jaar van de nog te ontvangen voorschotbedragen, bedoeld in het eerste lid, onderdeel a, in een overzicht weergegeven, daaruit blijkt:
+
+- a. het saldo aan het begin van het begrotingsjaar;
+- b. de nog te ontvangen bedragen;
+- c. de ontvangen bedragen;
+- d. het saldo aan het einde van het begrotingsjaar.
+
+###### Artikel 4.47
+
+Aan de actiefzijde van de balans wordt buiten de balanstelling het bedrag opgenomen waarvan het recht bestaat op verliescompensatie krachtens de Wet op de vennootschapsbelasting 1969.
+
+##### § 4.4.2 — Passiva
+
+###### Artikel 4.48
+
+Onder de vaste passiva worden afzonderlijk opgenomen:
+
+- a. het eigen vermogen;
+- b. de voorzieningen;
+- c. het gezamenlijke bedrag van de:
+  - 1°. schuld uit hoofde van geldleningen met een oorspronkelijke rentetypische looptijd van één jaar of langer, en
+  - 2°. voor een termijn van één jaar of langer ontvangen waarborgsommen.
+
+###### Artikel 4.49
+
+1\. Het eigen vermogen bestaat uit de reserves en het gerealiseerde resultaat volgend uit het overzicht van baten en lasten in de jaarrekening.
+
+2\. Het in het eerste lid bedoelde resultaat wordt afzonderlijk opgenomen als onderdeel van het eigen vermogen.
+
+###### Artikel 4.50
+
+1\. In de balans worden de reserves onderscheiden naar:
+
+- a. algemene reserves;
+- b. bestemmingsreserves voor tariefsegalisatie, waaronder wordt verstaan reserves die dienen om ongewenste schommelingen op te vangen in de belastingtarieven;
+- c. overige bestemmingsreserves.
+
+2\. Een bestemmingsreserve is een reserve waaraan het algemeen bestuur van het waterschap een bepaalde bestemming heeft gegeven.
+
+###### Artikel 4.51
+
+Voorzieningen worden gevormd wegens:
+
+- a. verplichtingen en verliezen waarvan de omvang op de balansdatum onzeker is, doch redelijkerwijs te schatten;
+- b. op de balansdatum bestaande risico's ter zake van bepaalde te verwachten verplichtingen of verliezen waarvan de omvang redelijkerwijs is te schatten;
+- c. kosten die in een volgend begrotingsjaar zullen worden gemaakt, mits het maken van die kosten zijn oorsprong mede vindt in het begrotingsjaar of in een voorafgaand begrotingsjaar en de voorziening strekt tot gelijkmatige verdeling van lasten over een aantal begrotingsjaren.
+
+###### Artikel 4.52
+
+Rentetoevoegingen aan voorzieningen zijn niet toegestaan.
+
+###### Artikel 4.53
+
+1\. In de toelichting op de balans worden de vaste schulden afzonderlijk gespecificeerd in:
+
+- a. obligatieleningen;
+- b. onderhandse leningen van:
+  - 1°. binnenlandse pensioenfondsen en verzekeringsinstellingen,
+  - 2°. binnenlandse banken en overige financiële instellingen,
+  - 3°. binnenlandse bedrijven,
+  - 4°. openbare lichamen,
+  - 5°. overige binnenlandse sectoren,
+  - 6°. buitenlandse instellingen, fondsen, banken, bedrijven en overige sectoren;
+- c. door derden belegde gelden;
+- d. financiële derivaten als bedoeld in artikel 1, onderdeel c, van de Wet financiering decentrale overheden, op vaste schulden;
+- e. langlopende financiële leaseverplichtingen;
+- f. waarborgsommen;
+- g. vooruitontvangen bedragen met een rentetypische looptijd van één jaar of langer.
+
+2\. In de toelichting op de balans wordt de rentelast voor het begrotingsjaar vermeld van alle vaste schulden, genoemd in het eerste lid.
+
+3\. Indien een waterschap een financieel derivaat als bedoeld in het eerste lid, onderdeel d, hanteert, wordt in de toelichting op de balans in ieder geval vermeld:
+
+- a. de naam en rating van de financiële onderneming waarbij het derivaat is afgesloten;
+- b. het type en de belangrijkste kenmerken van het derivaat en de hoogte en de looptijd van de financieringsbehoefte waaraan het derivaat kan worden toegerekend;
+- c. in het geval van een niet-effectieve positie: in welk mate sprake is van een niet-effectieve positie, de maatregelen die zijn genomen om de niet-effectieve positie ongedaan te maken en de termijn die naar verwachting nodig is om de niet-effectieve positie ongedaan te maken.
+
+###### Artikel 4.54
+
+Onder de vlottende passiva worden afzonderlijk opgenomen de netto-vlottende schulden en de overlopende passiva.
+
+###### Artikel 4.55
+
+In de toelichting op de balans worden de netto-vlottende schulden afzonderlijk gespecificeerd in:
+
+- a. kasgeldleningen aangegaan bij openbare lichamen;
+- b. overige kasgeldleningen;
+- c. banksaldi;
+- d. overige schulden.
+
+###### Artikel 4.56
+
+1\. In de toelichting op de balans worden de overlopende passiva gespecificeerd in:
+
+- a. verplichtingen die in het begrotingsjaar zijn opgebouwd en die in een volgend begrotingsjaar tot betaling komen;
+- b. de van Europese en Nederlandse overheidslichamen ontvangen voorschotbedragen voor uitkeringen met een specifiek bestedingsdoel die dienen ter dekking van lasten van volgende begrotingsjaren;
+- c. overige vooruit ontvangen bedragen die ten bate van het volgende begrotingsjaar komen.
+
+2\. De voorschotten, bedoeld in het eerste lid, onderdeel b, worden uitgesplitst naar de ontvangen bedragen van:
+
+- a. Europese overheidslichamen;
+- b. het Rijk;
+- c. overige Nederlandse overheidslichamen.
+
+3\. Van de ontvangen voorschotbedragen, bedoeld in het eerste lid, onderdeel b, wordt in de toelichting op de balans per uitkering met een specifiek bestedingsdoel, in een overzicht het verloop gedurende het jaar weergegeven. Uit het overzicht blijkt:
+
+- a. het saldo aan het begin van het begrotingsjaar;
+- b. de ontvangen bedragen;
+- c. de vrijgevallen bedragen of de terugbetalingen;
+- d. het saldo aan het einde van het begrotingsjaar.
+
+###### Artikel 4.57
+
+1\. Aan de passiefzijde van de balans wordt buiten de balanstelling opgenomen het bedrag waartoe aan natuurlijke en rechtspersonen borgstellingen of garantstellingen zijn verstrekt.
+
+2\. In de toelichting op de balans worden de borgstellingen, bedoeld in het eerste lid, gespecificeerd naar de aard van de geldleningen.
+
+3\. Per specificatie wordt vermeld het:
+
+- a. oorspronkelijk bedrag van de gewaarborgde geldlening;
+- b. percentage van het leningbedrag waarvoor borgstelling is verleend;
+- c. restantbedrag van de lening bij aanvang van het begrotingsjaar;
+- d. restantbedrag van de lening aan het eind van het begrotingsjaar.
+
+4\. In de toelichting op de balans wordt een specificatie opgenomen van de garantstellingen, bedoeld in het eerste lid.
+
+5\. In de toelichting op de balans wordt ook opgenomen het totaalbedrag van de betalingen die inzake de borgstellingen en garantstellingen zijn gedaan tot en met het eind van het begrotingsjaar.
+
+##### § 4.4.3 — Toelichting op de balans
+
+###### Artikel 4.58
+
+1\. In de toelichting op de balans, bedoeld in artikel 4.24, derde lid, onderdeel c, wordt van iedere balanspost vermeld welke waarderingsgrondslag is gehanteerd.
+
+2\. Indien in de loop van het begrotingsjaar wijzigingen zijn aangebracht in de methoden en termijnen volgens welke de afschrijvingen worden berekend, wordt in de toelichting vermeld welke wijzigingen het hier betreft en wordt ingegaan op de redenen die tot wijziging hebben geleid.
+
+###### Artikel 4.59
+
+De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in artikel 4.69, zevende lid, van de vaste activa, bedoeld in artikel 4.71, eerste lid, en van de voorraden en deelnemingen, bedoeld in artikel 4.71, tweede lid, worden in de toelichting op de balans opgenomen.
+
+###### Artikel 4.60
+
+In de toelichting op de balans wordt vermeld:
+
+- a. het drempelbedrag voor het begrotingsjaar, zoals opgenomen bij de in artikel 2, vierde lid, van de Wet financiering decentrale overheden bedoelde regeling, waarover verantwoording wordt afgelegd, en
+- b. voor ieder kwartaal van dat jaar, het bedrag aan middelen, dat in het kader van het drempelbedrag door het waterschap buiten ’s Rijks schatkist is aangehouden.
+
+###### Artikel 4.61
+
+In de toelichting op de balans wordt vermeld:
+
+- a. de niet in de balans opgenomen belangrijke financiële verplichtingen waaraan het waterschap voor toekomstige jaren is verbonden,
+- b. indien een waterschap financiële derivaten hanteert anders dan beschreven in artikel 4.53, eerste lid, onderdeel d, per derivaat:
+  - 1°. de naam en rating van de financiële onderneming waarbij het derivaat is afgesloten, 2°. het type en de belangrijkste kenmerken van het derivaat en de hoogte en de looptijd van de financieringsbehoefte waaraan het derivaat kan worden toegerekend,
+  - 3°. in het geval van een niet-effectieve positie: in welk mate sprake is van een niet-effectieve positie, de maatregelen die zijn genomen om de niet-effectieve positie ongedaan te maken en de termijn die naar verwachting nodig is om de niet-effectieve positie ongedaan te maken.
+
+###### Artikel 4.62
+
+1\. In de toelichting op de balans worden de aard en reden van elke reserve als bedoeld in artikel 4.50 en de toevoegingen en onttrekkingen daaraan toegelicht.
+
+2\. Per reserve wordt het verloop gedurende het jaar in een overzicht weergegeven, daaruit blijkt:
+
+- a. het saldo aan het begin van het begrotingsjaar;
+- b. de toevoegingen of onttrekkingen uit hoofde van het voorgaande begrotingsjaar;
+- c. de toevoegingen of onttrekkingen bij het overzicht van baten en lasten in de jaarrekening;
+- d. de verminderingen in verband met afschrijvingen op activa waarvoor een specifieke bestemmingsreserve is gevormd;
+- e. het saldo aan het einde van het begrotingsjaar.
+
+###### Artikel 4.63
+
+1\. In de toelichting op de balans worden de aard en reden van elke voorziening als bedoeld in artikel 4.51 en de wijzigingen daarin toegelicht.
+
+2\. Per voorziening wordt het verloop gedurende het jaar in een overzicht weergegeven, daaruit blijkt:
+
+- a. het saldo aan het begin van het begrotingsjaar;
+- b. de toevoegingen;
+- c. ten gunste van de rekening van baten en lasten vrijgevallen bedragen;
+- d. de aanwendingen;
+- e. het saldo aan het einde van het begrotingsjaar.
+
+##### § 4.4.4 — Rechtmatigheidsverantwoording
+
+###### Artikel 4.64
+
+1\. De jaarrekening bevat een rechtmatigheidsverantwoording.
+
+2\. De rechtmatigheidsverantwoording bevat een overzicht van de rechtmatigheidsfouten en onduidelijkheden in het kader van de financiële rechtmatigheid.
+
+3\. De verantwoordingsgrens is een totaalbedrag voor rechtmatigheidsfouten én onduidelijkheden in het kader van de financiële rechtmatigheid.
+
+4\. Het algemeen bestuur stelt de verantwoordingsgrens vast op ten hoogste 2% van de totale lasten, exclusief de toevoeging aan de reserves.
+
+5\. Voor zover het totaalbedrag aan rechtmatigheidsfouten én onduidelijkheden in het kader van de financiële rechtmatigheid hoger is dan de verantwoordingsgrens, worden deze in het kader van de financiële rechtmatigheid opgenomen in de rechtmatigheidsverantwoording. Bij ministeriële regeling wordt voor de rechtmatigheidsverantwoording een model vastgesteld.
+
+### § 5 — Waardering, activeren en afschrijven
+
+#### Artikel 4.65
+
+1\. Alle investeringen worden geactiveerd.
+
+2\. In afwijking van het eerste lid worden kunstvoorwerpen met een cultuurhistorische waarde niet geactiveerd.
+
+#### Artikel 4.66
+
+Kosten voor onderzoek en ontwikkeling van een bepaald actief kunnen worden geactiveerd indien:
+
+- a. het voornemen bestaat het actief te gebruiken of te verkopen;
+- b. de technische uitvoerbaarheid om het actief te voltooien vaststaat;
+- c. het actief in de toekomst economisch of maatschappelijk nut zal genereren; en
+- d. de uitgaven die aan het actief zijn toe te rekenen betrouwbaar kunnen worden vastgesteld.
+
+#### Artikel 4.67
+
+Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd indien:
+
+- a. er sprake is van een investering door een derde;
+- b. de investering bijdraagt aan de publieke taak;
+- c. de derde zich heeft verplicht tot het daadwerkelijk investeren op een wijze zoals is overeengekomen met het waterschap, en
+- d. de bijdrage kan worden teruggevorderd, indien de derde in gebreke blijft of het waterschap anders recht kan doen gelden op de activa die samenhangen met de investering.
+
+#### Artikel 4.68
+
+1\. Alle vaste activa worden voor het bedrag van de investering geactiveerd.
+
+2\. In afwijking van het eerste lid worden bijdragen van derden die in directe relatie staan met een actief op de waardering daarvan in mindering gebracht.
+
+#### Artikel 4.69
+
+1\. Activa worden gewaardeerd op basis van de verkrijgings- of vervaardigingsprijs.
+
+2\. De verkrijgingsprijs omvat de inkoopprijs en de bijkomende kosten.
+
+3\. De vervaardigingsprijs omvat de aanschaffingskosten van de gebruikte grond- en hulpstoffen en de overige kosten, welke rechtstreeks aan de vervaardiging kunnen worden toegerekend. In de vervaardigingsprijs kunnen voorts worden opgenomen een redelijk deel van de indirecte kosten en de rente over het tijdvak dat aan de vervaardiging van het actief kan worden toegerekend. In dat geval vermeldt de toelichting dat deze rente is geactiveerd.
+
+4\. Voor in erfpacht uitgegeven gronden geldt de uitgifteprijs van eerste uitgifte als verkrijgingsprijs. Gronden in eeuwigdurende erfpacht worden gewaardeerd tegen de registratiewaarde.
+
+5\. Van activa waarvan de bestemming verandert, wordt de actuele waarde van de nieuwe bestemming in de toelichting op de balans opgenomen.
+
+6\. Passiva worden gewaardeerd tegen de nominale waarde, met uitzondering van voorzieningen die tegen contante waarde zijn gewaardeerd.
+
+7\. Eventuele voorzieningen die wegens oninbaarheid worden getroffen, worden met de boekwaarde van leningen en vorderingen verrekend.
+
+#### Artikel 4.70
+
+1\. De afschrijvingen geschieden onafhankelijk van het resultaat van het boekjaar.
+
+2\. Afschrijvingen kunnen slechts om gegronde redenen op andere grondslagen plaatsvinden dan die welke in het voorafgaande begrotingsjaar zijn toegepast. In dat geval wordt:
+
+- a. in de toelichting op de balans uiteengezet waarom de grondslag is gewijzigd; en
+- b. inzicht gegeven in de betekenis voor de financiële positie en voor de baten en de lasten, aan de hand van aangepaste cijfers voor het begrotingsjaar of voor het voorafgaande begrotingsjaar.
+
+3\. Op vaste activa met een beperkte gebruiksduur wordt jaarlijks afgeschreven volgens een stelsel dat is afgestemd op de verwachte toekomstige gebruiksduur.
+
+4\. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in artikel 4.38, onderdeel a, maximaal gelijk aan de looptijd van de lening.
+
+5\. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in artikel 4.38, onderdeel b, ten hoogste vijf jaar.
+
+6\. Voor bijdragen aan de activa in eigendom van derden, bedoeld in artikel 4.38, onderdeel c, is de afschrijvingsduur maximaal gelijk aan die van de activa waarvoor de bijdrage aan derden wordt verstrekt.
+
+#### Artikel 4.71
+
+1\. Naar verwachting duurzame waardeverminderingen van vaste activa worden onafhankelijk van het resultaat van het boekjaar in aanmerking genomen.
+
+2\. Voorraden en deelnemingen worden tegen de marktwaarde gewaardeerd, indien de marktwaarde lager is dan de verkrijgings- of vervaardigingsprijs.
+
+3\. Een actief dat buiten gebruik wordt gesteld wordt afgewaardeerd op het moment van buitengebruikstelling, indien de restwaarde lager is dan de boekwaarde.
+
+### § 6 — Uitvoeringsinformatie
+
+#### Artikel 4.72
+
+1\. De uitvoeringsinformatie wordt door het dagelijks bestuur vastgesteld.
+
+2\. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de uitvoeringsinformatie. Deze kunnen mede regels bevatten in het belang van bedrijfsvergelijking.
+
+#### Artikel 4.73
+
+In de uitvoeringsinformatie met betrekking tot de meerjarenraming wordt opgenomen voor het begrotingsjaar en ten minste de vier daarop volgende jaren het overzicht van investeringsuitgaven per beleidsveld. Dit overzicht wordt ingedeeld naar de:
+
+- a. bruto-investeringen;
+- b. bijdragen van derden aan de investeringen;
+- c. netto-investeringen.
+
+#### Artikel 4.74
+
+1\. De uitvoeringsinformatie met betrekking tot de begroting bestaat uit de:
+
+- a. raming van baten en lasten naar kosten- en opbrengstsoorten;
+- b. raming van nettokosten naar beleidsproducten.
+
+2\. De ramingen van de baten en lasten naar kosten- en opbrengstsoorten en de nettokosten naar beleidsproducten omvatten alle baten en lasten.
+
+3\. De raming van baten en lasten naar kosten- en opbrengstsoorten wordt ingedeeld volgens bij ministeriële regeling vast te stellen groepen van kosten- en opbrengstsoorten.
+
+4\. Van de baten en lasten die in de raming naar kosten- en opbrengstsoorten worden opgenomen worden zowel het geraamde bedrag van het begrotingsjaar, het geraamde bedrag van het vorig begrotingsjaar na wijziging als het gerealiseerde bedrag van het voorvorig begrotingsjaar weergegeven.
+
+5\. In of bij de raming naar de beheerproducten worden de principes waarmee de opbrengsten en kosten aan de beheerproducten zijn toegerekend weergegeven.
+
+6\. De waterschappen kunnen hun geraamde nettokosten eenduidig toerekenen aan beheerproducten.
+
+#### Artikel 4.75
+
+1\. De uitvoeringsinformatie met betrekking tot de jaarstukken bestaat uit de:
+
+- a. realisatie van baten en lasten naar kosten- en opbrengstsoorten;
+- b. realisatie van nettokosten naar beleidsproducten.
+
+2\. De realisaties van de baten en lasten naar kosten- en opbrengstsoorten en van de nettokosten naar beleidsproducten omvatten alle baten en lasten.
+
+3\. Van de baten en lasten die in de realisatie naar kosten- en opbrengstsoorten worden opgenomen, worden ook de ramingen uit de begroting en de begroting na wijziging vermeld.
+
+4\. De indeling naar groepen kosten- en opbrengstensoorten behorende bij de realisatie van de kosten- en opbrengsten en de toerekeningsprincipes van de nettokosten naar beleidsproducten zijn identiek aan die van de raming naar kosten- en opbrengstsoorten respectievelijk de toerekening naar beleidsproducten.
+
+5\. De waterschappen kunnen hun gerealiseerde nettokosten eenduidig toerekenen aan beheerproducten.
+
+### § 7 — Informatie voor derden
+
+#### Artikel 4.76
+
+1\. Bij ministeriële regeling kan worden bepaald dat het waterschap aan derden informatie verstrekt.
+
+2\. In de in het eerste lid bedoelde regeling kan Onze Minister in overeenstemming met Onze Minister van Economische Zaken en Klimaat bepalen dat de informatie wordt verstrekt aan het CBS. Daarbij kan worden bepaald dat het CBS de plausibiliteit van deze informatie beoordeelt en het dagelijks bestuur verslag doet van zijn bevindingen.
+
+### § 8 — Commissie Besluit begroting verantwoording provincies en gemeenten
+
+#### Artikel 4.77
+
+1\. De commissie voor het Besluit begroting en verantwoording provincies en gemeenten, bedoeld in artikel 75 van het Besluit begroting en verantwoording provincies en gemeenten, draagt zorg voor een eenduidige uitvoering en toepassing van hoofdstuk 4.
+
+2\. Artikel 75, tweede lid, aanhef, laatste zin, en de onderdelen a en c, van het Besluit begroting en verantwoording provincies en gemeenten, zijn van overeenkomstige toepassing.
+
+## Hoofdstuk 5 — De accountantscontrole
+
+### Artikel 5.1
+
+Vervallen
+
+### Artikel 5.2
+
+Vervallen
+
+### Artikel 5.3
+
+Vervallen
+
+### Artikel 5.4
+
+Vervallen
+
+### Artikel 5.5
+
+Vervallen
+
+## Hoofdstuk 6 — De waterschapsbelastingen
+
+### § 1 — Kostendelen
+
+#### Artikel 6.1
+
+Vervallen
+
+#### Artikel 6.2
+
+Vervallen
+
+#### Artikel 6.3
+
+Vervallen
+
+#### Artikel 6.4
+
+Vervallen
+
+#### Artikel 6.5
+
+Vervallen
+
+#### Artikel 6.6
+
+Vervallen
+
+#### Artikel 6.7
+
+Vervallen
+
+#### Artikel 6.8
+
+Vervallen
+
+#### Artikel 6.9
+
+Vervallen
+
+#### Artikel 6.10
+
+Vervallen
+
+#### Artikel 6.11
+
+Vervallen
+
+### § 2 — Meting, bemonstering en analyse zuiveringsheffing
+
+#### Artikel 6.12
+
+Vervallen
+
+### § 3 — Administratieve verplichtingen waterschapsbelastingen
+
+#### Artikel 6.13
+
+In deze paragraaf wordt verstaan onder:
+
+*inspecteur*: de in artikel 123, derde lid, onderdeel b, van de wet, bedoelde ambtenaar van het waterschap.
+
+*administratieplichtig*: gehouden om op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat de gegevens die van belang zijn voor de heffing van de waterschapsbelastingen ten aanzien van de belastingplichtige, hieruit duidelijk blijken;
+
+*informatieplichtig*: gehouden om de gegevens en inlichtingen aan de inspecteur te verstrekken welke voor de heffing van waterschapsbelastingen ten aanzien van derden van belang kunnen zijn en gehouden de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks ter keuze van de inspecteur -– die van belang kunnen zijn voor de heffing van waterschapsbelastingen ten aanzien van derden, voor dit doel beschikbaar te stellen.
+
+#### Artikel 6.14
+
+1\. Administratieplichtig voor de toepassing van de zuiveringsheffing, bedoeld in artikel 122d, eerste lid, van de wet en de verontreinigingsheffing, bedoeld in artikel 7.2, tweede lid, van de Waterwet is:
+
+- a. de heffingplichtige op wie artikel 122k van de wet of artikel 7.5, zesde lid, van de Waterwet in samenhang met artikel 122k van de wet van toepassing is.
+- b. de heffingplichtige op wie artikel 122g, tweede lid, van de wet of 7.5, tweede lid, van de Waterwet van toepassing is.
+
+2\. De in het eerste lid bedoelde administratieplichtige is verplicht de gegevensdragers, die op basis van het eerste lid tot zijn administratie dienen te behoren, gedurende zeven jaren te bewaren.
+
+3\. De in het tweede lid bedoelde gegevensdragers dienen zodanig bewaard te worden dat controle daarvan door de inspecteur binnen redelijke termijn mogelijk is. De in het eerste lid bedoelde administratieplichtige verleent daartoe zijn medewerking.
+
+#### Artikel 6.15
+
+De in artikel 6.14, eerste lid, bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in artikel 6.14 bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van artikel 25, zesde lid, en artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen geacht niet volledig te hebben voldaan aan de verplichting ingevolge artikel 52 van die wet, tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht.
+
+#### Artikel 6.16
+
+1\. Informatieplichtig is:
+
+- a. de eigenaar, de bezitter en de beperkt gerechtigde van een woonruimte of een bedrijfsruimte, voor zover dat voor de heffing van de waterschapbelastingen, bedoeld in de artikelen 117, eerste lid, aanhef en onderdeel a,122d, eerste lid, van de wet, of in artikel 7.2, tweede lid, van de Waterwet, van belang kan zijn, ter zake van de naam-, adres- en woonplaatsgegevens van degene die het gebruik heeft van de woonruimte of bedrijfsruimte;
+- b. de eigenaar of beheerder van een energiebedrijf en het administratiekantoor dat voor die persoon werkzaam is voor zover dat voor de heffing van de waterschapsbelasting, bedoeld in de artikelen 117, eerste lid, aanhef en onderdeel a, 122d, eerste lid, van de wet of in artikel 7.2, tweede lid, van de Waterwet, van belang kan zijn, ter zake van de naam-, adres- en woonplaatsgegevens van degene die het gebruik heeft van een woonruimte of een bedrijfsruimte, die is aangesloten op voorzieningen van het energiebedrijf;
+- c. de eigenaar of beheerder van een waterleidingbedrijf en het administratiekantoor dat voor die persoon werkzaam is voor zover dat voor de heffing van de waterschapsbelasting, bedoeld in de artikelen 117, eerste lid, aanhef en onderdeel a, 122d, eerste lid, van de wet of in artikel 7.2, tweede lid, van de Waterwet, van belang kan zijn, ter zake van naam-, adres- en woonplaatsgegevens en van de gegevens met betrekking tot de omvang van de geleverde hoeveelheid water, van degene die het gebruik heeft van een woonruimte of een bedrijfsruimte, die is aangesloten op voorzieningen van het waterleidingbedrijf;
+- d. de aannemer, bedoeld in artikel 750, eerste lid, van Boek 7 van het Burgerlijk Wetboek, die een onroerende zaak tot stand heeft gebracht en heeft opgeleverd, voor zover dat voor de heffing van de waterschapsbelasting, bedoeld in artikel 115, eerste lid, onderdeel c, van de wet, van belang kan zijn, ter zake van de vervaardigingskosten van de tot stand gebrachte onroerende zaak.
+
+2\. Voor zover dit redelijkerwijs van belang is voor de uitvoering van dit besluit, gelden de in het eerste lid bedoelde verplichtingen ook buiten het gebied van het waterschap.
+
+3\. Informatieplichtig zijn slechts degenen die voor de heffing van rijksbelastingen administratieplichtig zijn.
+
+#### Artikel 6.17
+
+1\. Indien een belastingschuldige een aanvraag heeft ingediend tot het verlenen van kwijtschelding van waterschapbelastingen als bedoeld in artikel 144 van de wet zijn de colleges van burgemeester en wethouders, de rijksbelastingdienst en de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, desgevraagd gehouden kosteloos gegevens te verstrekken aan de dagelijkse besturen van de waterschappen in verband met de inkomens- en vermogenspositie van de belastingschuldige, ten behoeve van de beoordeling van deze aanvraag.
+
+2\. De Stichting Inlichtingenbureau is verwerker voor het verwerken van gegevens noodzakelijk voor het verlenen van deze kwijtschelding van waterschapsbelastingen die door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen, of de in het eerste lid bedoelde instanties, op grond van enig wettelijk voorschrift worden verstrekt aan de dagelijkse besturen van de waterschappen.
+
+## Hoofdstuk 7 — Overgangsbepalingen en slotbepalingen
+
+### § 1 — Intrekking van andere regelingen
+
+#### Artikel 7.1
+
+De Comptabiliteitsvoorschriften waterschappen worden ingetrokken met dien verstande dat zij op grond van artikel 98a van de wet, van toepassing blijven op de inrichting van de meerjarenraming, de begroting, de jaarverslaggeving, de uitvoeringsinformatie en de informatieverstrekking aan derden alsmede de daarbij behorende toelichtingen voor het begrotingsjaar 2008.
+
+#### Artikel 7.2
+
+Het Besluit vergoedingen en tegemoetkoming leden algemeen bestuur waterschap wordt ingetrokken.
+
+#### Artikel 7.3
+
+Het Besluit bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap wordt ingetrokken.
+
+#### Artikel 7.4
+
+Het Rechtspositiebesluit voorzitters waterschappen wordt ingetrokken.
+
+#### Artikel 7.5
+
+Het Besluit administratieve verplichtingen waterschapsbelastingen wordt ingetrokken.
+
+### § 2 — Overgangsbepalingen
+
+#### Artikel 7.6
+
+1\. In afwijking van artikel 4.69, eerste lid, met inachtneming van artikel 4.68, tweede lid worden activa, die op 31 december 2008 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven. Gevormde herwaarderingsreserves dienen op de boekwaarde in mindering te worden gebracht.
+
+2\. In afwijking van artikel 4.68, eerste lid, worden alle activa waar voor 1 januari 2009 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2008 aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven.
+
+#### Artikel 7.6a
+
+1\. In afwijking van de artikelen 4.38 en 4.39 mogen de artikelen 4.41 en 4.42 zoals die luidden op de dag voor de datum van inwerkingtreding van artikel I, onderdeel B, van het Besluit van 8 november 2023 houdende wijziging van het Waterschapsbesluit in verband met het actualiseren van de regels over beleidsvoorbereiding en verantwoording en de verdere uitwerking van de rechtmatigheidsverantwoording voor waterschappen (Stb. 2023, 424), worden toegepast gedurende maximaal vijf jaar na inwerkingtreding van voornoemd besluit.
+
+2\. In afwijking van artikel 4.74, vierde lid, mogen de gerealiseerde bedragen van het voorvorig begrotingsjaar, vóór het begrotingsjaar waarop dit besluit voor het eerst van toepassing is, volgens de regels zoals die luiden op de dag voor de datum van inwerkingtreding van het Besluit van 8 november 2023 houdende wijziging van het Waterschapsbesluit in verband met het actualiseren van de regels over beleidsvoorbereiding en verantwoording en de verdere uitwerking van de rechtmatigheidsverantwoording voor waterschappen (Stb. 2023, 424) in de begroting en de jaarrekening worden opgenomen.
+
+#### Artikel 7.6b
+
+1\. De artikelen 3.21, 3.29 en 3.30, zoals deze luidden op de dag voor de datum van inwerkingtreding van artikel VII, onderdelen D en G, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010, blijven van toepassing op de voorzitter die voor de datum van inwerkingtreding van dit besluit ingevolge artikel 3.31 kennis heeft gegeven aan het dagelijks bestuur dat hij wegens ziekte zijn ambt niet kan vervullen.
+
+2\. De artikelen 3.37 en 3.39, zoals deze luidden op de dag voor de datum van inwerkingtreding van artikel VII, onderdeel K, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010, blijven van toepassing op de voormalig voorzitter van wie het ontslag is ingegaan voor 27 februari 2010.
+
+#### Artikel 7.6c
+
+De bepalingen zoals die luidden voor inwerkingtreding van het besluit van 8 november 2023, houdende wijziging van het Waterschapsbesluit in verband met het actualiseren van de regels over beleidsvoorbereiding en verantwoording en de verdere uitwerking van de rechtmatigheidsverantwoording voor waterschappen (Stb. 2023, 424), blijven van toepassing op de meerjarenraming, begroting, de jaarstukken, de uitvoeringsinformatie en de informatie voor derden en de daarbij behorende toelichtingen voor het begrotingsjaar 2024.
+
+### § 3 — Slotbepalingen
+
+#### Artikel 7.7
+
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+#### Artikel 7.8
+
+Dit besluit wordt aangehaald als: Waterschapsbesluit.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+'s-Gravenhage 29 november 2007
+
+Beatrix
+
+De Staatssecretaris van Verkeer en Waterstaat,\
+J. C. Huizinga-Heringa
+
+de *achttiende* december 2007
+
+De Minister van Justitie,\
+E. M. H. Hirsch Ballin
+
+## Bijlage I — model goedkeurende accountantsverklaring, bedoeld in artikel 5.4, eerste lid, van het Waterschapsbesluit
+
+Vervallen
+
+## Bijlage II — goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in artikel 5.4, tweede lid, van het Waterschapsbesluit
+
+Vervallen
