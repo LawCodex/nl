@@ -1,0 +1,87 @@
+---
+title: "Instellingsregeling Commissie knelgevallen fosfaatrechten"
+identifier: "BWBR0039606"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2017-05-20
+last_amended: 2017-06-07
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0039606/2017-06-07"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039606/2017-06-07_0/xml/BWBR0039606_2017-06-07_0.xml"
+authority: "Economische Zaken"
+rechtsgebied: ["Ruimtelijke ordening en milieu", "Milieurecht", "Ruimtelijke ordening en milieu", "Waterrecht", "Staats- en bestuursrecht", "Bestuursrecht"]
+retrieved: 2026-10-11
+---
+
+# Instellingsregeling Commissie knelgevallen fosfaatrechten
+
+*Regeling van de Staatssecretaris van Economische Zaken en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 mei 2017, nr. WJZ/17066875, houdende instelling van de Commissie knelgevallen fosfaatrechten (Instellingsregeling Commissie knelgevallen fosfaatrechten)*
+
+De Staatssecretaris van Economische Zaken en Minister van Binnenlandse Zaken en Koninkrijksrelaties,
+
+Handelende in overeenstemming met het gevoelen van de ministerraad;
+
+Gelet op artikel 6, eerste lid, van de Kaderwet adviescolleges;
+
+Besluit:
+
+## Artikel 1
+
+In deze regeling wordt verstaan onder:
+
+- a. *minister:* Minister van Economische Zaken;
+- b. *commissie:* de commissie, bedoeld in artikel 2, eerste lid.
+
+## Artikel 2
+
+1\. Er is een Commissie knelgevallen fosfaatrechten.
+
+2\. De commissie heeft tot taak om op basis van individuele casussen te adviseren of de knelgevallenvoorziening in het wetsvoorstel tot wijziging van de Meststoffenwet in verband met de invoering van een stelsel van fosfaatrechten moet worden uitgebreid met een bij algemene maatregel van bestuur omschreven categorie van bedrijven.
+
+3\. Bij de advisering betrekt de commissie de gevolgen van uitbreiding van de knelgevallenvoorziening voor de generieke afroming en het fosfaatproductieplafond. De commissie betrekt daarbij ook of de groep melkveehouders die onevenredig wordt geraakt, voldoende is af te bakenen, en wat het risico is op oneigenlijk gebruik en de mogelijkheden om dit risico te beperken.
+
+4\. Als de commissie adviseert om de knelgevallenvoorziening uit te breiden, geeft de commissie in het advies de criteria daarvoor en de mate waarin melkveehouders die aan de criteria voldoen extra fosfaatrechten krijgen.
+
+5\. In het advies maakt de commissie inzichtelijk hoe zij de factoren genoemd in het derde lid bij de advisering heeft betrokken, en op grond van welke afweging zij adviseert om voor een groep melkveehouders de knelgevallenvoorziening niet uit te breiden.
+
+## Artikel 3
+
+De commissie brengt uiterlijk 1 juli 2017 haar schriftelijke advies uit aan de minister. De minister kan deze termijn verlengen. Na het uitbrengen van het advies is de commissie opgeheven.
+
+## Artikel 4
+
+1\. De commissie bestaat uit een voorzitter en drie andere leden.
+
+2\. De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.
+
+## Artikel 5
+
+1\. De minister voorziet in het secretariaat van de commissie.
+
+2\. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van dat ministerie.
+
+## Artikel 6
+
+1\. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984 en de arbeidsduurfactor achteraf wordt vastgesteld en gepubliceerd in de Staatscourant.
+
+2\. Aan de leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984 en de arbeidsduurfactor achteraf wordt vastgesteld en gepubliceerd in de Staatscourant.
+
+## Artikel 7
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 2017.
+
+## Artikel 8
+
+Deze regeling wordt aangehaald als: Instellingsregeling Commissie knelgevallen fosfaatrechten.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+'s-Gravenhage 20 mei 2017
+
+De Staatssecretaris van Economische Zaken,\
+M.H.P. van Dam
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+R.H.A. Plasterk

@@ -1,0 +1,89 @@
+---
+title: "Besluit aanwijzing van C-Mark B.V. als gemachtigde instantie ex art. 31, eerste lid, Verordening 2017/625"
+identifier: "BWBR0042945"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2019-12-13
+last_amended: 2019-12-14
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0042945/2019-12-14"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042945/2019-12-14_0/xml/BWBR0042945_2019-12-14_0.xml"
+authority: "Landbouw, Natuur en Voedselkwaliteit"
+rechtsgebied: ["Agrarisch recht", "Ruimtelijke ordening en milieu", "Milieurecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit aanwijzing van C-Mark B.V. als gemachtigde instantie ex art. 31, eerste lid, Verordening 2017/625
+
+*Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 december 2019, nr. DGA-DAD/19300759, tot aanwijzing van C-Mark B.V. als gemachtigde instantie als bedoeld in artikel 31, eerste lid, Verordening 2017/625*
+
+De Minister van Landbouw, Natuur en Voedselkwaliteit,
+
+Gelet op artikel 31, tweede lid, verordening (EU) nr. 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012. (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de Richtlijnen 98/58/EG, 2007/43/EG, 2008/119/EG en 2008/120/EG van de Raad, en tot intrekking van de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004 van het Europees Parlement en de Raad, de Richtlijnen 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG en 97/78/EG van de Raad en Besluit 92/438/EEG van de Raad (verordening officiële controles) (Pb EU L 95), artikel 6.3 Wet dieren en artikel 3 Besluit uitvoering verordening officiële controles diergezondheid;
+
+Overwegende dat;
+
+C-Mark B.V. in opdracht van het ministerie van Landbouw, Natuur en Voedselkwaliteit monsters neemt in het kader van de officiële monitoring op zoönotische Salmonella bij pluimvee;
+
+Deze monitoring uitvoering is van de Europese Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van 17 november 2003 inzake de bestrĳding van salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers en daarop gebaseerde uitvoeringsverordeningen (PbEU L 325);
+
+De monstername aan de bevoegde autoriteit is opgedragen en het dus een andere officiële activiteit is zoals bedoeld in artikel 2, tweede lid, van verordening (EU) nr. 2017/625;
+
+gemachtigde instanties in plaats van de bevoegde autoriteit andere officiële activiteiten mogen uitvoeren, mits ze daarvoor zijn aangewezen en aan de eisen voor aanwijzing voldoen zoals opgenomen in artikel 31, eerste lid, van verordening (EU) 2017/625;
+
+C-Mark B.V. beschikt over de vereiste deskundigheid, uitrusting, infrastructuur en gekwalificeerd personeel om de in dit besluit omschreven taken uit te kunnen voeren;
+
+geborgd is dat C-Mark B.V. de aangewezen taken onafhankelijk en onpartijdig zal uitvoeren omdat de governance structuur van C-Mark B.V. zodanig is dat C-Mark B.V. een zelfstandige positie heeft binnen de Eurofins group, waarvan C-Mark B.V. deel uit maakt, en omdat C-Mark B.V. door de Raad voor Accreditatie op basis van NEN-EN-ISO/IEC 17025 voor Monsterneming en transport van pluimveemest ten behoeve van Salmonella onderzoek is geaccrediteerd;
+
+C-Mark B.V. hiermee aan de eisen voor het aanwijzen van een gemachtigde instantie voor de uitvoering van andere officiële activiteiten voldoet;
+
+het wenselijk is dat C-Mark B.V. na het van toepassing worden van verordening (EU) nr. 2017/625 deze taak kan blijven uitvoeren en dus aangewezen moet worden als gemachtigde instantie voor het verrichten deze taak.
+
+Besluit:
+
+## Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- *verordening (EU) nr. 2017/625:* verordening (EU) nr. 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012. (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de Richtlijnen 98/58/EG, 2007/43/EG, 2008/119/EG en 2008/120/EG van de Raad, en tot intrekking van de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004 van het Europees Parlement en de Raad, de Richtlijnen 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG en 97/78/EG van de Raad en Besluit 92/438/EEG van de Raad (verordening officiële controles) (Pb EU L 95);
+- *minister:* de minister van Landbouw, Natuur en Voedselkwaliteit.
+
+## Artikel 2 — aanwijzing
+
+C-Mark B.V. wordt aangewezen als gemachtigde instantie als bedoeld in artikel 31, eerste lid, van verordening (EU) nr. 2017/625 voor het verrichten van de officiële monstername op pluimveebedrijven in het kader van monitoring van zoönotische Salmonella als bedoeld in Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van 17 november 2003 inzake de bestrĳding van salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PbEU L 325).
+
+## Artikel 3 — meldplicht
+
+C-Mark B.V. meldt, schriftelijk en onverwijld, aan de minister iedere wijziging van de statuten die betrekking heeft op:
+
+- a. wijzigingen in haar governance.
+- b. wijzingen in de door de Raad voor Accreditatie verleende accreditatie op basis van NEN-EN-ISO/IEC 17025 voor Monsterneming en transport van pluimveemest ten behoeve van Salmonella onderzoek.
+
+## Artikel 4 — inlichtingen
+
+De minister is bevoegd om alle inlichtingen te vorderen die betrekking hebben op de uitvoering van de andere officiële activiteiten waarvoor C-Mark B.V. is aangewezen als bedoeld in artikel 2 voor zover de inlichtingen noodzakelijk zijn om de uitvoering van de in artikel 2 genoemde taken te beoordelen.
+
+## Artikel 5 — administratie
+
+1\. C-Mark B.V. richt haar administratie zodanig in dat daaruit te allen tijde de gemaakte kosten ter uitvoering van de in artikel 2 genoemde taken op eenvoudige en duidelijke wijze is af te lezen.
+
+2\. De gemaakte kosten worden berekend op basis van de aantallen, vermenigvuldigd met het overeengekomen tarief per uur, per taak genoemd in artikel 2, of overeenkomstig de hieromtrent in de betreffende overeenkomst gemaakte afspraken.
+
+## Artikel 6 — intrekken aanwijzing
+
+In aanvulling op artikel 33, onder b, verordening (EU) nr. 2017/625 kan de minister de aanwijzing, bedoeld in artikel 2, geheel of gedeeltelijk intrekken indien er sprake is van een niet-naleving van de in dit besluit gestelde voorwaarden.
+
+## Artikel 7
+
+Dit besluit treedt in werking met ingang van 14 december 2019.
+
+Dit besluit wordt bekend gemaakt door toezending aan C-Mark B.V. en door plaatsing in de Staatscourant.
+
+'s-Gravenhage 13 december 2019
+
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+namens deze:\
+J.C. Goet\
+Secretaris-generaal

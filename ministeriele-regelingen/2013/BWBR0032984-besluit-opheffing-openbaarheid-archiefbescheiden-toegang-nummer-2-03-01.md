@@ -1,0 +1,41 @@
+---
+title: "Besluit opheffing openbaarheid archiefbescheiden toegang nummer 2.03.01"
+identifier: "BWBR0032984"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2013-03-08
+last_amended: 2013-03-13
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0032984/2013-03-13"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0032984/2013-03-13_0/xml/BWBR0032984_2013-03-13_0.xml"
+authority: "Onderwijs, Cultuur en Wetenschap"
+rechtsgebied: ["Cultureel recht"]
+retrieved: 2026-10-11
+---
+
+# Besluit opheffing openbaarheid archiefbescheiden toegang nummer 2.03.01
+
+De minister van Onderwijs, Cultuur en Wetenschap,
+
+Gelet op artikel 15, derde lid Archiefwet,
+
+Gelet op het besluit van de Minister-President van 10 februari 2003 (Stcrt 2003, 42),
+
+Gehoord de Minister-President, Minister van Algemene Zaken,
+
+Besluit:
+
+De beperking aan de openbaarheid van de archiefbescheiden beschreven onder inventarisnummer 12356 uit het archief Ministeries voor Algemeene Oorlogvoering van het Koninkrijk (AOK) en van Algemene Zaken (AZ): Kabinet van de Minister-President (KMP) Kabinet Minister-President, 1924–1979, toegang nummer 2.03.01, wordt opgeheven.
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+
+Den Haag 8 maart 2013
+
+De\
+minister\
+Onderwijs, Cultuur en Wetenschap,\
+Namens deze:\
+De algemene rijksarchivaris\
+M.J.Berendse

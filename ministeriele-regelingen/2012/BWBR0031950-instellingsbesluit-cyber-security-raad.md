@@ -1,0 +1,110 @@
+---
+title: "Instellingsbesluit Cyber Security Raad"
+identifier: "BWBR0031950"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2012-07-09
+last_amended: 2025-10-10
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0031950/2025-10-10"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0031950/2025-10-10_0/xml/BWBR0031950_2025-10-10_0.xml"
+authority: "Veiligheid en Justitie"
+rechtsgebied: ["Openbare orde en veiligheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Instellingsbesluit Cyber Security Raad
+
+*Besluit van de Minister van Veiligheid en Justitie (kenmerk 5727629/12) van 9 juli 2012, houdende instelling van een Cyber Security Raad*
+
+De Minister van Veiligheid en Justitie, handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie,
+
+Besluit:
+
+## Artikel 1 — Begripsbepalingen
+
+In dit besluit wordt verstaan onder
+
+- a. *de Minister:* de Minister van Justitie en Veiligheid;
+- b. *cyber security:* het vrij zijn van gevaar of van schade veroorzaakt door verstoring of uitval van ICT of door misbruik van ICT;
+- c. *gevaar of schade:* beperking van de beschikbaarheid en betrouwbaarheid van de ICT, schending van de vertrouwelijkheid van in ICT opgeslagen informatie of schade aan de integriteit van die informatie;
+- c. *de Raad:* de Cyber Security Raad, bedoeld in artikel 2, eerste lid;
+- d. *Nationale Cyber Security Strategie:* een integraal plan van aanpak voor het versterken van de veiligheid van de digitale samenleving om het vertrouwen in het gebruik van ICT door burger, bedrijfsleven en overheid te verhogen.
+
+## Artikel 2 — Instelling en taak
+
+1\. Er is een Cyber Security Raad.
+
+2\. De Raad heeft als taak het kabinet te adviseren over de uitvoering en uitwerking van de Nationale Cyber Security Strategie.
+
+## Artikel 2a — Samenstelling
+
+1\. De Raad wordt gevormd door:
+
+- a. De Nationaal Coördinator Terrorismebestrijding en Veiligheid, medevoorzitter;
+- b. Mevrouw S. van Es, namens het bedrijfsleven, medevoorzitter;
+- c. Mevrouw drs. C. de Andrade-de Wit, namens CIO-platform, lid;
+- d. De heer mr. Th. J. Henrar, namens FME, lid;
+- e. De heer S.J.A. van Rijswijk, namens de financiële sector, lid;
+- f. De heer mr. J.F.E. Farwerck, namens de overige vitale sectoren, lid;
+- g. De heer R. Bravenboer, namens NLdigital, lid;
+- h. De heer E.F.M. van Nispen tot Sevenaer, namens ECP, lid;
+- i. De directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst, lid;
+- j. Een lid van het College van procureurs-generaal, lid;
+- k. Een lid van de bestuursstaf van het Ministerie van Defensie, lid;
+- l. De Korpschef Landelijke Politiediensten, lid;
+- m. De directeur-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat, lid;
+- n. De directeur-generaal Digitalisering en Overheidsorganisatie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, lid;
+- o. Mevrouw prof. dr. B. van den Berg, lid;
+- p. De heer prof. dr. ir. H.J. Bos, lid;
+- q. De heer prof. dr. ir. C.E.W. Hesselman, lid;
+- r. Mevrouw prof. mr. E.M.L. Moerel, lid.
+
+2\. De medevoorzitter en de leden van de Raad, genoemd in het eerste lid, onderdelen b tot en met h en o tot en met r, worden door de Minister voor de duur van vier jaar benoemd. Zij kunnen tweemaal en telkens voor de duur van ten hoogste vier jaar door de Minister herbenoemd worden.
+
+3\. Bij het vertrek van de medevoorzitter en de leden, genoemd in het eerste lid, onderdelen b tot en met h, benoemt de Minister telkens een lid uit dezelfde sector onderscheidenlijk organisatie als de vertrekkende medevoorzitter of het vertrekkende lid.
+
+4\. Bij het vertrek van de leden, genoemd in het eerste lid, onderdelen o tot en met r, wordt door de Minister een vervanger benoemd.
+
+## Artikel 3 — Werkwijze
+
+1\. De Raad stelt zijn eigen werkwijze vast.
+
+2\. De Minister voorziet in het secretariaat van de Raad.
+
+## Artikel 4 — Vergoeding
+
+1\. De medevoorzitter en de leden, genoemd in artikel 2a, eerste lid, onderdelen b tot en met h en o tot en met r, ontvangen een vergoeding per vergaderdag en ontvangen een vergoeding van reis- en verblijfskosten overeenkomstig de CAO Rijk.
+
+2\. De vergoeding per vergadering, bedoeld in het eerste lid, bedraagt voor de leden een bedrag dat gelijk is aan 3% van het maximum van salarisschaal 18 van de CAO Rijk. De vergoeding voor de medevoorzitter bedraagt 130% van de hoogte van de vergoeding voor de leden.
+
+## Artikel 5 — De kosten van de Raad
+
+De kosten van de Raad komen, voor zover voorafgaande goedkeuring is verleend door de betrokken budgethouder, ten laste van Hoofdstuk VI van de Rijksbegroting.
+
+## Artikel 6 — Verantwoording
+
+De Raad biedt de Minister jaarlijks uiterlijk op 1 juli een verslag aan van zijn werkzaamheden.
+
+## Artikel 7 — Evaluatie
+
+De werkzaamheden van de Raad worden eens in de vijf jaar geëvalueerd. De uitkomsten daarvan worden ter kennis gebracht aan de Minister.
+
+## Artikel 8 — Inwerkingtreding
+
+1\. Dit besluit treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2011.
+
+2\. Wijzigt dit besluit.
+
+## Artikel 9 — Citeertitel
+
+Dit besluit wordt aangehaald als: Instellingsbesluit Cyber Security Raad.
+
+Den Haag 9 juli 2012
+
+De\
+Minister\
+Veiligheid en Justitie\
+I.W.Opstelten

@@ -1,0 +1,47 @@
+---
+title: "Besluit machtiging en volmacht directeur Koninkrijksrelaties"
+identifier: "BWBR0041217"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2018-07-18
+last_amended: 2018-09-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0041217/2018-09-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041217/2018-09-01_0/xml/BWBR0041217_2018-09-01_0.xml"
+authority: "Binnenlandse Zaken en Koninkrijksrelaties"
+rechtsgebied: ["Financieel en economisch recht"]
+retrieved: 2026-10-11
+---
+
+# Besluit machtiging en volmacht directeur Koninkrijksrelaties
+
+Gelet op artikel 4.6 Comptabiliteitswet 2016 juncto artikel 3, eerste lid aanhef en onder a., van de Regeling financieel beheer van het Rijk;
+
+**Overwegende dat:**
+
+- − De Staat der Nederlanden, te dezen vertegenwoordigd door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, (hierna: de Staat) enig aandeelhouder is van de vennootschap Saba Statia Cable System BV (verder te noemen: SSCS) gevestigd op Bonaire. Deze vennootschap heeft ten doel de aanleg, het beheer, het onderhoud, de reparatie en de exploitatie van 'The Saba and Sint Eustatius cable System';
+- − SSCS op dit moment niet beschikt over een raad van commissarissen als gevolg waarvan de algemene vergadering van aandeelhouders op grond van artikel 16, eerste lid, van de statuten de aan deze raad toegekende bevoegdheden uitoefent;
+
+**Besluit:**
+
+- 1. Namens de Staat machtiging en volmacht te verlenen aan de directeur Koninkrijksrelaties om de Staat tijdens de algemene vergadering van aandeelhouders van SSCS te vertegenwoordigen, alsmede voor het uitoefenen van de in de statuten aan de RvC toegekende bevoegdheden voor de duur dat er geen RvC is ontstaan, met inachtneming van het hierna bepaalde.
+- 2. Dat het nemen van principiële of zwaarwegende beslissingen die samenhangen met de onder 1. beschreven vertegenwoordigings-bevoegdheid is onderworpen aan de voorafgaande instemming van de Staat. De Staat, vertegenwoordigd door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, kan de directeur Koninkrijksrelaties ter zake van deze beslissingen een bindende steminstructie geven.
+- 3. Dat als zwaarwegende of principiële beslissingen worden aangemerkt: beslissingen die wezenlijke gevolgen kunnen hebben voor de zeggenschap en het (financiële) risico van de Staat, zoals in ieder geval:
+  - a. de ondertekening van de jaarrekening en het jaarverslag van SSCS;
+  - b. de goedkeuring van besluiten van het bestuur als bedoeld in artikel 13, zesde lid van de statuten van SSCS;
+  - c. décharge van het bestuur.
+- 4. Dat de directeur Koninkrijksrelaties desgevraagd aan de Staat alle voor de uitoefening van diens taak benodigde inlichtingen verstrekt en bij het verstrekken van inlichtingen waar nodig aangeeft welke gegevens een vertrouwelijk karakter dragen.
+- 5. Dat de Staat de directeur Koninkrijksrelaties aanwijzingen kan geven indien dit nodig is om internationale verplichtingen van de Staat na te leven of gevolg te geven aan aanbevelingen van de Algemene Rekenkamer.
+- 6. Dat de directeur Koninkrijksrelaties en de directeur-generaal Koninkrijksrelaties, eens per kwartaal een overleg hebben over de algemene lijnen van het door SSCS te voeren beleid.
+- 7. Dat de bij besluit van 27 juli 2015 verleende dienstopdracht, volmacht en machtiging aan de heer mr. J.S. van Dam, hierbij is ingetrokken.
+
+Van dit besluit wordt mededeling gedaan in de Staatscourant.
+
+'s Gravenhage 19 juli 2018
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+Namens deze,\
+M.R. Schurink\
+Secretaris-generaal

@@ -1,0 +1,63 @@
+---
+title: "Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008"
+identifier: "BWBR0035491"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2014-07-28
+last_amended: 2015-10-03
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0035491/2015-10-03"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0035491/2015-10-03_0/xml/BWBR0035491_2015-10-03_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Gezondheidsrecht en farmaceutisch recht"]
+retrieved: 2026-10-11
+---
+
+# Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008
+
+*Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 juli 2014, kenmerk 642455-123513-MEVA, houdende aanwijzing van apparatuur, geneesmiddelen, medische hulpmiddelen en middelen, behorende tot het deskundigheidsgebied van de verloskundige (Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008)*
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+
+Gelet op artikel 5, tweede lid, onderdeel b, en derde lid, onderdelen b, c, en o, van het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008;
+
+Besluit:
+
+## Artikel 1
+
+In deze regeling wordt verstaan onder ‘besluit’: het Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008.
+
+## Artikel 2
+
+Als apparatuur als bedoeld in artikel 5, tweede lid, onderdeel b, van het besluit worden aangewezen het speculum en de vaginale transducer.
+
+## Artikel 3
+
+1\. Als geneesmiddelen als bedoeld in artikel 5, derde lid, onderdeel b, van het besluit worden aangewezen: ijzerpreparaten, oxytocine, moederkoornalkaloïden en hiervan afgeleide verbindingen, anti-D-rhesus immunoglobuline, hepatitis B immunoglobuline, hepatitis B vaccin, vitamine K, medicinale zuurstof, een inhalatie analgeticum dat een mengsel van 50% distikstofoxide en 50% zuurstof bevat en hormonale anticonceptiva.
+
+2\. Als medisch hulpmiddel als bedoeld in artikel 5, derde lid, onderdeel b, van het besluit wordt aangewezen niet-hormonale IUD’s.
+
+## Artikel 4
+
+Als middelen als bedoeld in artikel 5, derde lid, onderdeel c, van het besluit worden aangewezen: door middel van een injectie met lokale anesthetica, voor zover zij geen epinefrine bevatten.
+
+## Artikel 5
+
+Als geneesmiddelen als bedoeld in artikel 5, derde lid, onderdeel o, van het besluit worden aangewezen: plasma of plasmavervangende middelen, oxytocine alsmede moederkoornalkaloïden en hiervan afgeleide verbindingen.
+
+## Artikel 6
+
+Deze regeling treedt in werking met ingang van 1 september 2014.
+
+## Artikel 7
+
+Deze regeling wordt aangehaald als: Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De\
+Minister\
+Volksgezondheid, Welzijn en Sport,\
+E.I.Schippers

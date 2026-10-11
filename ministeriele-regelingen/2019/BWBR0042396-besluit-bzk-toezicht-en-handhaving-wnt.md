@@ -1,0 +1,63 @@
+---
+title: "Besluit BZK-toezicht en handhaving WNT"
+identifier: "BWBR0042396"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2019-06-06
+last_amended: 2019-07-12
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0042396/2019-07-12"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042396/2019-07-12_0/xml/BWBR0042396_2019-07-12_0.xml"
+authority: "Binnenlandse Zaken en Koninkrijksrelaties"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Arbeidsrecht", "Staats- en bestuursrecht", "Bestuursrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit BZK-toezicht en handhaving WNT
+
+*Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 juni 2019, nr. 2019-0000024213, houdende aanwijzing van toezichthouders op de naleving van de Wet normering topinkomens en het verlenen van mandaat voor de handhaving van die wet op het terrein van Binnenlandse Zaken en Koninkrijksrelaties (Besluit BZK-toezicht en handhaving WNT)*
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,
+
+Gelet op de artikelen 5.1 en 5.3 tot en met 5.6 van de Wet normering topinkomens, alsmede hoofdstuk 5 en afdeling 10.1.1 van de Algemene wet bestuursrecht;
+
+Besluit:
+
+## Artikel 1 — Begripsbepalingen
+
+In dit besluit wordt verstaan onder:
+
+- a. *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *WNT:* de Wet normering topinkomens;
+- c. *Eenheid toezicht WNT:* de met toezicht en handhaving van de WNT belaste medewerkers bij de directie Ambtenaar & Organisatie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, die deel uitmaken van de afdeling Topinkomens en Economische Advisering (hierna: TEA).
+
+## Artikel 2 — Gebundeld toezicht op de naleving en handhaving van de WNT
+
+1\. De ambtenaren werkzaam bij de Eenheid toezicht WNT worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de WNT ten aanzien van rechtspersonen, instellingen en topfunctionarissen waarvoor de minister moet worden aangemerkt als de minister wie het aangaat in de zin van de WNT.
+
+2\. Aan het hoofd TEA, die leiding geeft aan de Eenheid toezicht WNT, wordt mandaat en machtiging verleend voor het vorderen van opgaven en inlichtingen op grond van artikel 5.3 van de WNT alsmede het nemen van besluiten en het verrichten van overige handelingen die verband houden met aan de minister toekomende bevoegdheid tot handhaving, bedoeld in de artikelen 5.4, 5.5 en 5.6 van de WNT ten aanzien van de in het eerste lid bedoelde rechtspersonen, instellingen en topfunctionarissen.
+
+3\. Aan het hoofd TEA, die leiding geeft aan de Eenheid toezicht WNT, wordt volmacht verleend voor het verrichten van rechtshandelingen die verband houden met de invordering van verbeurde dwangsommen en van gemaakte kosten voor bestuursdwang als bedoeld in artikel 5:25 van de Algemene wet bestuursrecht, voor zover deze verband houden met de bevoegdheid, bedoeld in het tweede lid.
+
+## Artikel 3 — Behandelen van bezwaarschriften en (hoger) beroep
+
+1\. Aan de directeur Ambtenaar & Organisatie wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften tegen besluiten als bedoeld in artikel 2, tweede lid, waaronder begrepen het nemen van beslissingen op bezwaarschriften, voor zover het besluit waartegen het bezwaar zich richt, niet door hem krachtens mandaat is genomen.
+
+2\. Aan de directeur Ambtenaar & Organisatie wordt tevens machtiging verleend voor het behandelen van beroepschriften en voor het voeren van verweer in de gevallen waarin (hoger) beroep is ingesteld tegen een beslissing op bezwaar als bedoeld in het eerste lid.
+
+## Artikel 4 — Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 juni 2019.
+
+Tegelijk met inwerkingtreding van het dit besluit, wordt het Besluit BZK-toezicht en handhaving WNT van 6 januari 2014, Nr. 2013-0000762668 en gepubliceerd in de Staatscourant op 27 oktober 2016 met nummer 56841 ingetrokken.
+
+## Artikel 5 — Citeertitel
+
+Dit besluit wordt aangehaald als: Besluit BZK-toezicht en handhaving WNT.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,\
+K.H. Ollongren

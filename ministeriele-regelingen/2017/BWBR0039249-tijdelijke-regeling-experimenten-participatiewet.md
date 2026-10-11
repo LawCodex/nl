@@ -1,0 +1,98 @@
+---
+title: "Tijdelijke regeling experimenten Participatiewet"
+identifier: "BWBR0039249"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2017-02-20
+last_amended: 2017-04-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0039249/2017-04-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039249/2017-04-01_0/xml/BWBR0039249_2017-04-01_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Arbeidsrecht", "Arbeidsrecht en sociaal-zekerheidsrecht", "Sociaal zekerheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Tijdelijke regeling experimenten Participatiewet
+
+*Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 20 februari 2017, 2017-00000197982, tot vaststelling van de Tijdelijke regeling experimenten Participatiewet (Tijdelijke regeling experimenten Participatiewet)*
+
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,
+
+Gelet op artikel 83, derde en vierde lid, van de Participatiewet en artikel 2, tweede lid, van het Tijdelijk besluit experimenten Participatiewet;
+
+besluit vast te stellen:
+
+## Tijdelijke regeling experimenten Participatiewet
+
+### Artikel 1 — Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- – *besluit:* Tijdelijk besluit experimenten Participatiewet;
+- – *initiatiefgemeente:* gemeente Groningen, gemeente Tilburg, gemeente Utrecht en gemeente Wageningen;
+- – *minister:* Minister van Sociale Zaken en Werkgelegenheid.
+
+### Artikel 2 — Indiening verzoek
+
+1\. Het verzoek van een gemeente als bedoeld in artikel 3 van het besluit wordt uitsluitend schriftelijk ingediend bij de minister per e-mail op het volgende e-mailadres: ExperimentenPW@minSZW.nl. Het door de gemeente gebruikte e-mailadres zal in de verdere correspondentie worden gebruikt.
+
+2\. Voor het indienen van een verzoek worden de daartoe beschikbare formulieren gebruikt, die op de website van de Rijksoverheid zijn gepubliceerd.
+
+3\. Een initiatiefgemeente wordt in de gelegenheid gesteld om vanaf 1 april 2017 een verzoek in te dienen.
+
+4\. Overige gemeenten kunnen vanaf maandag 1 mei 2017 om 9.00 uur, een verzoek indienen.
+
+5\. Gemeenten die binnen dezelfde arbeidsmarktregio vallen, of deel uit maken van een bestaand samenwerkingverband in het kader van de wet, die gezamenlijk één experiment willen uitvoeren, wijzen een gemeente aan als penvoerder die het gezamenlijke verzoek per e-mail indient.
+
+### Artikel 3 — Behandeling aanvragen
+
+1\. Verzoeken worden op volgorde van binnenkomst behandeld.
+
+2\. Alleen een volledig verzoek wordt in behandeling genomen.
+
+3\. De minister stelt een gemeente onverwijld op de hoogte indien een verzoek door hem als niet volledig wordt beschouwd en derhalve niet in behandeling wordt genomen.
+
+4\. De minister beslist binnen acht weken na ontvangst van het volledige verzoek. Deze termijn kan met vier weken worden verlengd.
+
+5\. De minister stelt de gemeente schriftelijk in kennis van zijn beslissing.
+
+### Artikel 4 — Toekenning verzoek
+
+1\. Bij de toekenning van het verzoek tot aanwijzing wordt de volgorde van binnenkomst gehanteerd.
+
+2\. De aanwijzing van een gemeente door de minister geschiedt schriftelijk.
+
+### Artikel 5 — Afwijzing verzoek
+
+Onverminderd artikel 4 van het besluit, wordt een verzoek afgewezen indien:
+
+- – naar het oordeel van de minister één of meerdere verplichte voorgeschreven verordeningen in procedurele zin of inhoudelijk niet in overeenstemming zijn met de wet;
+- – meer dan zeven gemeenten het verzoek indienen tot een gezamenlijk experiment.
+
+### Artikel 6 — Verplichting gemeenten
+
+De gemeente verschaft op verzoek van de minister onverwijld gevraagde informatie.
+
+### Artikel 7 — Onvoorziene gevallen
+
+Bij onvoorziene gevallen kan de minister aan alle deelnemende gemeenten of één of enkele deelnemende gemeenten aanwijzingen geven.
+
+### Artikel 8 — Inwerkingtreding
+
+Deze regeling treedt in werking op het moment dat het Tijdelijk besluit experimenten Participatiewet in werking treedt, en vervalt op het moment dat het Tijdelijk besluit experimenten Participatiewet komt te vervallen.
+
+### Artikel 9 — Citeertitel
+
+Deze regeling wordt aangehaald als: Tijdelijke regeling experimenten Participatiewet.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Den Haag 20 februari 2017
+
+De\
+Staatssecretaris\
+Sociale Zaken en Werkgelegenheid,\
+J.Klijnsma

@@ -1,0 +1,121 @@
+---
+title: "Regeling studiesucces mbo"
+identifier: "BWBR0046913"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2022-06-24
+last_amended: 2022-08-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0046913/2022-08-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0046913/2022-08-01_0/xml/BWBR0046913_2022-08-01_0.xml"
+authority: "Onderwijs, Cultuur en Wetenschap"
+rechtsgebied: ["Onderwijsrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling studiesucces mbo
+
+*Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 juni 2022, nr. MBO/30739616, houdende uitwerking maatstaven voor studiesucces in het mbo*
+
+De Minister van Onderwijs, Cultuur en Wetenschap,
+
+Gelet op artikel 4a.3. van het Uitvoeringsbesluit WEB;
+
+Besluit:
+
+## Artikel 1 — Berekening jaarresultaat
+
+1\. Het jaarresultaat, bedoeld in artikel 4a.2, eerste lid, onder a, van het Uitvoeringsbesluit WEB, wordt voor een beroepsopleiding op niveau 2, 3 of 4 als volgt berekend:
+
+(aantal gediplomeerden in het jaartijdvak / (aantal gediplomeerden in het jaartijdvak + aantal ongediplomeerde instellingsverlaters)) x 100%.
+
+2\. Een ongediplomeerde instellingsverlater is een instellingsverlater die geen diploma van een beroepsopleiding op niveau 2, 3 of 4 heeft behaald in het jaartijdvak bij de instelling.
+
+3\. Iedere student wordt maximaal eenmaal per instelling per jaartijdvak meegeteld voor de berekening van het jaarresultaat.
+
+## Artikel 2 — Berekening diplomaresultaat
+
+1\. Het diplomaresultaat, bedoeld in artikel 4a.2, eerste lid, onder b, van het Uitvoeringsbesluit WEB, wordt voor een beroepsopleiding op niveau 2, 3 of 4 als volgt berekend:
+
+(aantal gediplomeerde instellingsverlaters / aantal instellingsverlaters) x 100%.
+
+2\. Het diploma voor een beroepsopleiding op niveau 2, 3 of 4 moet in het jaartijdvak of in de vijf jaar daaraan voorafgaand behaald zijn bij de instelling.
+
+3\. Iedere student wordt maximaal eenmaal per instelling meegeteld voor de berekening van het diplomaresultaat.
+
+## Artikel 3 — Berekening startersresultaat
+
+1\. Het startersresultaat, bedoeld in artikel 4a.2, eerste lid, onder c, van het Uitvoeringsbesluit WEB, wordt voor een beroepsopleiding op niveau 2, 3 of 4 als volgt berekend:
+
+((aantal gediplomeerde instellingsverlaters van de nieuw ingeschreven studenten + aantal in de instelling gebleven nieuw ingeschreven studenten) / aantal nieuw ingeschreven studenten) x 100%.
+
+2\. Als nieuw ingeschreven student wordt beschouwd een student of extraneus die op 1 oktober is ingeschreven bij de beroepsopleiding bij de instelling en op de voorgaande zes peildata van 1 oktober niet ingeschreven was bij de instelling.
+
+3\. Als in de instelling gebleven nieuw ingeschreven student wordt beschouwd een nieuw ingeschreven student als bedoeld in het tweede lid die blijft ingeschreven op een beroepsopleiding op niveau 2, 3 of 4 op 1 oktober van het daarop volgende jaar bij de instelling.
+
+4\. Iedere student of extraneus wordt maximaal eenmaal per instelling meegeteld voor de berekening van het startersresultaat.
+
+## Artikel 4 — Berekening studiesucces
+
+1\. De inspectie gebruikt de noodzakelijke basis- en diplomagegevens uit het register onderwijsdeelnemers, bedoeld in artikel 4 van de Wet register onderwijsdeelnemers, voor de berekening van het studiesucces.
+
+2\. De berekening van het studiesucces gebeurt met een driejaarscijfer waarbij de aantallen uit de formules van de artikelen 1, eerste lid, 2, eerste lid, of 3, eerste lid, van de afgelopen drie jaartijdvakken worden samengenomen voor de berekening van de indicator.
+
+## Artikel 5 — Norm studiesucces bekostigd mbo op niveau 2
+
+1\. De indicatoren voor het studiesucces van een basisberoepsopleiding zijn voldoende wanneer het percentage van het driejaarscijfer van:
+
+- a. het jaarresultaat 67% of hoger is;
+- b. het diplomaresultaat 61% of hoger is;
+- c. het startersresultaat 79% of hoger is.
+
+## Artikel 6 — Norm studiesucces bekostigd mbo op niveau 3
+
+1\. De indicatoren voor het studiesucces van een vakopleiding zijn voldoende wanneer het percentage van het driejaarscijfer van:
+
+- a. het jaarresultaat 68% of hoger is;
+- b. het diplomaresultaat 70% of hoger is;
+- c. het startersresultaat 82% of hoger is.
+
+## Artikel 7 — Norm studiesucces bekostigd mbo op niveau 4
+
+1\. De indicatoren voor het studiesucces van een middenkader- of specialistenopleiding zijn voldoende wanneer het percentage van het driejaarscijfer:
+
+- a. het jaarresultaat 68% of hoger is;
+- b. het diplomaresultaat 70% of hoger is;
+- c. het startersresultaat 82% of hoger is.
+
+## Artikel 8 — Beoordeling studiesucces
+
+1\. Er is sprake van voldoende studiesucces voor een beroepsopleiding wanneer twee of meer indicatoren voldoende zijn.
+
+2\. Er is sprake van onvoldoende studiesucces voor een beroepsopleiding wanneer twee of meer indicatoren onvoldoende zijn.
+
+## Artikel 9 — Maatwerksituaties beoordeling studiesucces
+
+1\. Er vindt geen beoordeling plaats voor studiesucces van een beroepsopleiding op niveau 2, 3 of 4 overeenkomstig artikel 8, indien sprake is van een maatwerksituatie.
+
+2\. Er is sprake van een maatwerksituatie wanneer naar het oordeel van de inspectie:
+
+- a. één indicator geen betrouwbaar beeld geeft van de opleidingswerkelijkheid en één indicator voldoende is en één indicator onvoldoende;
+- b. twee of meer indicatoren geen betrouwbaar beeld geven van de opleidingswerkelijkheid; of
+- c. anderszins onvoldoende gegevens beschikbaar zijn voor een betrouwbaar beeld van de opleidingswerkelijkheid omtrent studiesucces.
+
+## Artikel 10 — Studiesucces na waarschuwing
+
+De inspectie kan afwijken van het gebruik van het driejaarscijfer bij het berekenen van studiesucces tijdens een nader onderzoek als bedoeld in artikel 6.1.5, eerste lid, onder b, van de wet.
+
+## Artikel 11 — Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 augustus 2022.
+
+## Artikel 12 — Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling studiesucces mbo.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister van Onderwijs, Cultuur en Wetenschap,\
+R.H. Dijkgraaf

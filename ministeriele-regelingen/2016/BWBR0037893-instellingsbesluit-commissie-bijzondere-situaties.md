@@ -1,0 +1,95 @@
+---
+title: "Instellingsbesluit Commissie bijzondere situaties"
+identifier: "BWBR0037893"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2016-04-22
+last_amended: 2021-09-14
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0037893/2021-09-14"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037893/2021-09-14_0/xml/BWBR0037893_2021-09-14_0.xml"
+authority: "Economische Zaken"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Ambtenarenrecht"]
+retrieved: 2026-10-11
+---
+
+# Instellingsbesluit Commissie bijzondere situaties
+
+*Besluit van de Minister van Economische Zaken van 22 april 2016, nr. WJZ/16042425, tot instelling van de Commissie bijzondere situaties (Instellingsbesluit Commissie bijzondere situaties)*
+
+De Minister van Economische Zaken,
+
+Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies;
+
+Besluit:
+
+## Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- *commissie:* Commissie bijzondere situaties;
+- *Instituut:* Instituut Mijnbouwschade Groningen, bedoeld in artikel 2 van de Tijdelijke wet Groningen;
+- *minister:* Minister van Economische Zaken en Klimaat;
+- *Onafhankelijke Raadsman:* in opdracht van de minister werkzame Onafhankelijke Raadsman;
+- *Nationale ombudsman:* Nationale ombudsman, bedoeld in artikel 2 van de Wet Nationale ombudsman.
+
+## Artikel 2
+
+1\. Er is een Commissie bijzondere situaties.
+
+2\. De commissie heeft tot taak het geven van adviezen aan het Instituut over hulp in bijzondere situaties als bedoeld in artikel 1 van het Tijdelijk besluit mandaat, volmacht en machtiging IMG voor hulp in bijzondere situaties.
+
+## Artikel 3
+
+Vervallen
+
+## Artikel 4
+
+1\. De commissie bestaat uit een voorzitter en ten minste twee andere leden.
+
+2\. De voorzitter en de andere leden worden door de minister benoemd voor een termijn van drie jaar en zijn herbenoembaar. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.
+
+3\. De voorzitter en de andere leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.
+
+4\. De Nationale ombudsman en de Onafhankelijke Raadsman kunnen de vergaderingen van de commissie bijwonen teneinde de commissie te adviseren.
+
+## Artikel 5
+
+1\. De commissie stelt haar werkwijze schriftelijk vast in afstemming met het Instituut.
+
+2\. Het Instituut voorziet in het secretariaat van de commissie.
+
+3\. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken en Klimaat. De bescheiden worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van dat ministerie.
+
+4\. De commissie verstrekt desgevraagd aan het Instituut de voor de uitoefening van zijn taak benodigde inlichtingen. Het Instituut kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+
+## Artikel 6
+
+Aan de voorzitter en de andere leden van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 17, trede 10 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 en de arbeidsduurfactor op 0,1.
+
+## Artikel 7
+
+Ter gelegenheid van de instelling van de commissie worden voor een periode van drie jaar tot lid van de commissie benoemd:
+
+- a. mw. J.G. Vlietstra, te Winschoten, tevens voorzitter;
+- b. mw. ing. E. ten Brink-de Vries, te Zuidhorn;
+- c. mw. E.I. van Leeuwen-Seelt, te Loon.
+
+## Artikel 8
+
+Dit besluit treedt in werking met ingang van 1 mei 2016.
+
+## Artikel 9
+
+Dit besluit wordt aangehaald als: Instellingsbesluit Commissie bijzondere situaties.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+
+’s-Gravenhage 22 april 2016
+
+De\
+Minister\
+Economische Zaken,\
+H.G.J.Kamp

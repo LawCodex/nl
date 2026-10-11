@@ -1,0 +1,43 @@
+---
+title: "Besluit beperking openbaarheid inventarisnummer 6000 archief Ministerraad over de periode 1823–1990, nummer archiefinventaris 2.02.05.02"
+identifier: "BWBR0038381"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2016-07-19
+last_amended: 2016-08-02
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0038381/2016-08-02"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0038381/2016-08-02_0/xml/BWBR0038381_2016-08-02_0.xml"
+authority: "Onderwijs, Cultuur en Wetenschap"
+rechtsgebied: ["Cultureel recht"]
+retrieved: 2026-10-11
+---
+
+# Besluit beperking openbaarheid inventarisnummer 6000 archief Ministerraad over de periode 1823–1990, nummer archiefinventaris 2.02.05.02
+
+*Besluit van 19 juli 2016, houdende het stellen van een beperking aan de openbaarheid van inventarisnummer 6000 van het archief van de Ministerraad over de periode 1823–1990, nummer archiefinventaris 2.02.05.02*
+
+De Minister van Onderwijs, Cultuur en Wetenschap,
+
+Gelet op artikel 15, eerste en tweede lid van de Archiefwet 1995,
+
+Besluit:
+
+## Artikel 1
+
+Met het oog op het belang van Staat is het inventarisnummer 6000 beperkt openbaar tot 1 januari 2041.
+
+## Artikel 2
+
+Dit besluit treedt in werking met ingang van de dag van plaatsing in de Staatscourant en werkt terug tot en met 1 januari 2016.
+
+Den Haag 19 juli 2016
+
+De\
+Minister\
+Onderwijs, Cultuur en Wetenschap,\
+namens deze,\
+de algemene rijksarchivaris\
+M.L.Engelhard

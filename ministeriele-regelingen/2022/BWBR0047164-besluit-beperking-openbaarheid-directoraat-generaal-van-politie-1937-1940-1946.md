@@ -1,0 +1,75 @@
+---
+title: "Besluit beperking openbaarheid Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)"
+identifier: "BWBR0047164"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2022-09-06
+last_amended: 2022-09-21
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0047164/2022-09-21"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0047164/2022-09-21_0/xml/BWBR0047164_2022-09-21_0.xml"
+authority: "Justitie en Veiligheid"
+rechtsgebied: ["Cultureel recht"]
+retrieved: 2026-10-11
+---
+
+# Besluit beperking openbaarheid Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)
+
+*Besluit van de Minister van Justitie en Veiligheid d.d. 6 september 2022, kenmerk 2701704, houdende beperking van de openbaarheid van de aanvulling op het archief van het Ministerie van Justitie: Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)*
+
+Gelet op artikel 15, lid 1, onder a Archiefwet 1995, artikel 10 van het Archiefbesluit 1995 en het advies van het Nationaal Archief d.d. 7 juli 2022, met kenmerk zaaknummer 1172845.
+
+Besluit: Tot de volgende beperkingen aan de openbaarheid op de aanvulling van het archief van het Ministerie van Justitie: Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)
+
+## Artikel 1
+
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot het jaar, genoemd in de tweede kolom.
+
+| Inventarisnummer: | Beperkt openbaar tot 1 januari: |
+| --- | --- |
+| 675 | 2023 |
+| 677 | 2024 |
+| 680 | 2023 |
+| 682 | 2033 |
+| 683 | 2029 |
+| 685 | 2023 |
+| 687 | 2025 |
+| 690 | 2027 |
+| 697 | 2025 |
+| 698 | 2039 |
+| 703 | 2024 |
+| 705 | 2025 |
+| 713 | 2026 |
+| 714 | 2025 |
+| 716 | 2029 |
+| 804 | 2023 |
+| 833 | 2043 |
+| 834 | 2043 |
+| 835 | 2043 |
+| 836 | 2043 |
+| 837 | 2043 |
+| 838 | 2043 |
+| 839 | 2043 |
+| 840 | 2032 |
+| 841 | 2045 |
+| 842 | 2056 |
+| 843 | 2026 |
+
+## Artikel 2
+
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in artikel 1, is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
+
+## Artikel 3
+
+Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in artikel 1, is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
+
+## Artikel 4
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de aanvulling op het archief van het Ministerie van Justitie: Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)
+
+De Minister van Justitie en Veiligheid,\
+namens deze,\
+M. van Rooij\
+Plaatsvervangend directeur Dienstencentrum

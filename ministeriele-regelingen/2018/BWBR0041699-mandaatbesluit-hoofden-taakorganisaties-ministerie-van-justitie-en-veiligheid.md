@@ -1,0 +1,140 @@
+---
+title: "Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid"
+identifier: "BWBR0041699"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2018-12-10
+last_amended: 2025-11-19
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0041699/2025-11-19"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0041699/2025-11-19_0/xml/BWBR0041699_2025-11-19_0.xml"
+authority: "Justitie en Veiligheid"
+rechtsgebied: ["Staats- en bestuursrecht", "Staatsrecht"]
+retrieved: 2026-10-11
+---
+
+# Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid
+
+*Besluit van de secretaris-generaal van het Ministerie van Justitie en Veiligheid van 10 december 2018, nr. 2410553/18/DP&O, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de hoofden van de taakorganisaties van het Ministerie van Justitie en Veiligheid (Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid)*
+
+De secretaris-generaal van het Ministerie van Justitie en Veiligheid,
+
+Gelet op artikel 3, eerste lid, onder b, van het Mandaatbesluit Ministerie van Justitie en Veiligheid;
+
+Besluit:
+
+## Artikel 1
+
+Van het ingevolge artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen aan:
+
+- a. de algemeen directeur van de Dienst Terugkeer en Vertrek;
+- b. de directeur van de Justitiële informatiedienst;
+- c. de algemeen directeur van de raad voor de kinderbescherming;
+- d. de directeur van het Wetenschappelijk Onderzoek- en Datacentrum (WODC);
+- e. de algemeen directeur van het Centraal Justitieel Incassobureau;
+- f. de algemeen directeur van de Dienst JUSTIS;
+- g. de directeur-generaal van de Dienst Justitiële Inrichtingen;
+- h. de directeur-generaal van de Immigratie- en Naturalisatiedienst;
+- i. de algemeen directeur van het Nederlands Forensisch Instituut;
+- j. de directeur van het Nationaal Cyber Security Centrum (NCSC);
+- k. het hoofd van het secretariaat van het Schadefonds Geweldsmisdrijven;
+- l. de algemeen directeur van de Justitiële ICT Organisatie;
+- m. de directeur van de Nationale Opvang Organisatie (NOO);
+- n. de directeur van de Dienst Identificatie en Screening Asielzoekers (DISA).
+
+## Artikel 2
+
+De hoofden van de dienstonderdelen, genoemd in artikel 1 worden aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun ressorterende ambtenaren.
+
+## Artikel 3
+
+Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving, waaronder ook begrepen de Wet vaststellingsprocedure staatloosheid en van de Rijkswet op het Nederlanderschap, alsmede daaraan gerelateerde besluiten op grond van de Wet open overheid, de Algemene verordening gegevensbescherming en de Uitvoeringswet Algemene verordening gegevensbescherming, verzoeken om schadevergoeding, en de behandeling van klachten, worden aangewezen de functionarissen, genoemd in kolom 1 van de bijlage bij dit besluit, voor zover het betreft de rechtshandelingen, genoemd in de overige kolommen van die bijlage.
+
+## Artikel 4
+
+1\. Aan de secretaris-generaal blijft voorbehouden de bevoegdheid om besluiten te nemen, indien deze:
+
+- a. zijn neergelegd in een document, gericht tot:
+  - 1°. de Nationale ombudsman, behoudens de afdoening van ontvangstbevestigingen, tussenberichten, waaronder uitstelberichten, en stukken naar aanleiding van verzoeken van de Nationale ombudsman om, ter vermijding van een volledig onderzoek, te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies);
+  - 2°. de president van en de procureur-generaal bij de Hoge Raad der Nederlanden;
+- b. worden genomen op grond van:
+  - 1°. het Burgerlijk Wetboek, artikel 46 van de Wet rechtspositie rechterlijke ambtenaren, artikel 69 van het Besluit algemene rechtspositie politie of artikel 22 van het Besluit rechtspositie vrijwillige politie, voor zover de schadeloosstelling betrekking heeft op immateriële schade, of materiële schade boven een bedrag van € 10.000,–;
+  - 2°. artikel 92, tweede lid, van het Besluit algemene rechtspositie politie of artikel 39 van het Besluit rechtspositie vrijwillige politie;
+  - 3°. artikel 36b van het Besluit rechtspositie rechterlijke ambtenaren of artikel 95 van het Besluit algemene rechtspositie politie, indien de meerkosten aangaande de minimale uitkering meer bedragen dan drie bruto maandsalarissen;
+  - 4° een financiële vergoeding in verband met de beëindiging van de arbeidsovereenkomst die de uitkomst van de berekening overeenkomstig een transitievergoeding in de zin van artikel 7:673 van het Burgerlijk Wetboek, vermeerderd met € 10.000, overstijgt;
+- c. het verstrekken van reisopdrachten aan functionarissen naar landen buiten Europa alsmede Turkije betreffen.
+
+2\. Aan de secretaris-generaal blijft tevens voorbehouden de bevoegdheid om besluiten te nemen, indien deze:
+
+- a. zijn neergelegd in een document dat betrekking heeft op een verzoek in de zin van de Wet openbaarheid van bestuur, indien inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben;
+- b. aanstelling, bevordering en ontslag van alsmede het treffen van disciplinaire maatregelen jegens functionarissen op managementfuncties van schaal 14 en hoger direct onder het niveau van de hoofden, genoemd in artikel 1, betreffen;
+- c. betrekking heeft op de beëindiging van de arbeidsovereenkomst van een functionaris die tijdelijk is ontheven van de uitoefening van diens functie bij het ministerie en niet in de uitoefening van de functie kan worden hersteld naar het oordeel van diens leidinggevende met A-mandaat als bedoeld in bijlage 1 van het betreffende ondermandaatbesluit, wanneer de functionaris ophoudt met het bekleden van één van de volgende functies:
+  - 1. Een functie in een publiekrechtelijk college, waarin de functionaris is benoemd of verkozen;
+  - 2. Een functie in een internationale volkenrechtelijke organisatie; of
+  - 3. Het vervullen van een functie substituut-ombudsman.
+
+3\. Voor zover het de verlening van ondermandaat aan de in artikel 1, onderdeel c, genoemde functionaris betreft, blijven beslissingen op verzoeken van cliënten van de raad voor de kinderbescherming om een schadevergoeding, waarbij een bedrag hoger dan € 50.000,– wordt toegekend, voorbehouden aan de secretaris-generaal.
+
+4\. In afwijking van het eerste lid, onderdeel c is het gemaakte voorbehoud inzake het verstrekken van reisopdracht aan ondergeschikte functionarissen naar landen buiten Europa alsmede Turkije niet van toepassing voor de functionarissen genoemd in artikel 1, onderdelen a, h en i. Deze bevoegdheid kan door de functionarissen genoemd in artikel 1, onderdelen a en i niet worden doorgegeven. De functionaris genoemd in artikel 1, onderdeel h, is toegestaan deze bevoegdheid door te geven voor zover het de dienstreizen betreft van de medewerkers die op basis van Verordening (EU) 2019/1240 tijdelijk in het buitenland werkzaam zijn.
+
+## Artikel 5
+
+1\. De in artikel 1 genoemde functionarissen kunnen geen ondermandaat verlenen van de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
+
+2\. De in artikel 1, onderdeel c, genoemde functionaris kan geen ondermandaat verlenen tot het beslissen op verzoeken van cliënten van de raad voor de kinderbescherming om schadevergoeding, indien deze verzoeken het bedrag van € 2.500,– te boven gaan.
+
+## Artikel 5a
+
+De in artikel 1, onderdeel g, genoemde functionaris kan geen ondermandaat verlenen van de bevoegdheid op grond van artikel 40d van de Penitentiaire Beginselenwet.
+
+## Artikel 6
+
+1\. De in artikel 1 genoemde functionarissen wordt toegestaan de bevoegdheid tot het nemen van besluiten inzake financieel beheer en het nemen van rechtspositionele besluiten verder dan één hiërarchisch niveau door te geven.
+
+2\. De in artikel 1, onderdelen a, h en n, genoemde functionarissen worden gemandateerd om de bevoegdheid tot het nemen van besluiten op het terrein van de vreemdelingenwetgeving en van de Rijkswet op het Nederlanderschap verder dan één hiërarchisch niveau door te geven.
+
+## Artikel 7
+
+Ondermandaten, volmachten en machtigingen verleend door of namens de in artikel 1 genoemde functionarissen blijven van kracht.
+
+## Artikel 8
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 19 oktober 2018.
+
+## Artikel 9
+
+Dit besluit wordt aangehaald als: Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+De secretaris-generaal van het Ministerie van Justitie en Veiligheid,\
+S. Riedstra
+
+## Bijlage — behorend bij artikel 3 van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid
+
+Daar waar in de kolommen 2, 3 en 4 geen X staat, is de ambtenaar voor die taken niet aangewezen.
+
+Kolom 2 werkveld:
+
+De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met de Vreemdelingenwet 2000 en de overige regelingen en overeenkomsten in relatie tot de vreemdelingenwetgeving besluiten te nemen, stukken af te doen, uitgaande brieven te tekenen voortvloeiend uit hun taak alsmede de Minister en Staatssecretaris van Veiligheid en Justitie in rechte te vertegenwoordigen en rechtsmiddelen in te stellen ten aanzien van alle aangelegenheden voortvloeiend uit hun taak. Daarbij inbegrepen het nemen van besluiten op grond van de Wet openbaarheid van bestuur.
+
+Kolom 3 werkveld:
+
+De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met de Wet toelating en uitzetting BES en de overige regelingen en overeenkomsten in relatie tot deze wet besluiten te nemen, stukken af te doen, uitgaande brieven te tekenen voortvloeiend uit hun taak alsmede de Minister en Staatssecretaris van Veiligheid en Justitie in rechte te vertegenwoordigen en rechtsmiddelen in te stellen ten aanzien van alle aangelegenheden voortvloeiend uit hun taak. Daarbij inbegrepen het nemen van besluiten op grond van de Wet openbaarheid van bestuur.
+
+Kolom 4 werkveld:
+
+De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met de Rijkswet op het Nederlanderschap en de overige regelingen en overeenkomsten in relatie tot deze wet besluiten te nemen, stukken af te doen, uitgaande brieven te tekenen voortvloeiend uit hun taak alsmede de Minister en de Staatssecretaris van Justitie en Veiligheid in rechte te vertegenwoordigen en rechtsmiddelen in te stellen ten aanzien van alle aangelegenheden voortvloeiend uit hun taak. Daarbij inbegrepen het nemen van besluiten op grond van de Wet openbaarheid van bestuur.
+
+<table>
+<tr><th></th><th></th><th>Kolom 1</th><th>Kolom 2</th><th>Kolom 3</th><th>Kolom 4</th></tr>
+<tr><td></td><td colspan="2"><b>Aangewezen functionarissen</b></td><td></td><td></td><td></td></tr>
+<tr><td>1</td><td colspan="2">secretaris-generaal</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>1.0</td><td></td><td>plaatsvervangend secretaris-generaal</td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td><b>1.1</b></td><td></td><td><b>algemeen directeur van de Dienst Terugkeer en Vertrek</b></td><td>x</td><td>x</td><td></td></tr>
+<tr><td>1.1.0</td><td></td><td>plv. algemeen directeur van de Dienst Terugkeer en Vertrek</td><td>x</td><td>x</td><td></td></tr>
+<tr><td><b>1.2</b></td><td></td><td><b>directeur-generaal van de Immigratie- en Naturalisatiedienst</b></td><td>x</td><td>x</td><td>x</td></tr>
+<tr><td>1.2.0</td><td></td><td>plv. hoofddirecteur van de Immigratie- en Naturalisatiedienst</td><td>x</td><td>x</td><td>x</td></tr>
+</table>

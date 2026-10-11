@@ -1,0 +1,57 @@
+---
+title: "Wijzigingsregeling Regeling stagebox beroepsonderwijs 2006 tot en met 2010, enz. (verlenging werkingsduur, en intrekking Kaderregeling Technocentra 2006 tot en met 2010)"
+identifier: "BWBR0029217"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2010-12-07
+last_amended: 2011-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0029217/2011-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0029217/2011-01-01_0/xml/BWBR0029217_2011-01-01_0.xml"
+authority: "Onderwijs, Cultuur en Wetenschap"
+rechtsgebied: ["Onderwijsrecht"]
+retrieved: 2026-10-11
+---
+
+# Wijzigingsregeling Regeling stagebox beroepsonderwijs 2006 tot en met 2010, enz. (verlenging werkingsduur, en intrekking Kaderregeling Technocentra 2006 tot en met 2010)
+
+*Regeling van de Minister van Onderwijs, Cultuur en wetenschap van 7 december 2010, nr. BVE/257481, tot wijziging van de Regeling stagebox beroepsonderwijs 2006 tot en met 2010, de Regeling innovatiebox beroepsonderwijs 2006 tot en met 2009 en de Kaderregeling technocentra 2006 tot en met 2010 in verband met verlenging van de werkingsduur met een jaar van eerstgenoemde twee regelingen en het intrekken van laatstgenoemde regeling*
+
+De Minister van Onderwijs, Cultuur en Wetenschap,
+
+Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
+
+Gelet op de artikelen 2.2.3, derde lid, 2.4.3, 2.5.4, tweede lid, 2.5.10 juncto 2.5.4, tweede lid, 2.7, 12.3.8, tweede lid en 12.3.9, tweede lid, van de Wet educatie en beroepsonderwijs;
+
+Besluit:
+
+## Artikel I
+
+Wijzigt de Regeling stagebox beroepsonderwijs 2006 tot en met 2010.
+
+## Artikel II
+
+Wijzigt de Regeling innovatiebox beroepsonderwijs 2006 tot en met 2009.
+
+## Artikel III
+
+1\. De Kaderregeling technocentra 2006 tot en met 2010 wordt ingetrokken.
+
+2\. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regeling, genoemd in het eerste lid, plaats.
+
+3\. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regeling, genoemd in het eerste lid, blijven in stand.
+
+## Artikel IV
+
+1\. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van artikel III.
+
+2\. Artikel III treedt in werking met ingang van 1 januari 2011.
+
+Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
+
+De\
+Minister\
+Onderwijs, Cultuur en Wetenschap,\
+J.M. vanBijsterveldt-Vliegenthart

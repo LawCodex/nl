@@ -1,0 +1,103 @@
+---
+title: "Regeling UWV ontslagprocedure"
+identifier: "BWBR0036593"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2015-04-23
+last_amended: 2020-01-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0036593/2020-01-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0036593/2020-01-01_0/xml/BWBR0036593_2020-01-01_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling UWV ontslagprocedure
+
+*Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 april 2015, 2015-0000102296, tot vaststelling van regels met betrekking tot toestemming van het Uitvoeringsinstituut werknemersverzekeringen tot opzegging van de arbeidsovereenkomst (Regeling UWV ontslagprocedure)*
+
+De Minister van Sociale Zaken en Werkgelegenheid,
+
+Gelet op artikel 671a, achtste lid, van Boek 7 van het Burgerlijk Wetboek;
+
+Besluit:
+
+## § 1 — Algemene bepalingen
+
+### Artikel 1 — Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- a. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;
+- b. *werkgever, werknemer en arbeidsovereenkomst:* hetgeen daaronder wordt verstaan in artikel 610 van Boek 7 van het Burgerlijk Wetboek;
+- c. *toestemming:* toestemming om de arbeidsovereenkomst op te zeggen op grond van artikel 669, derde lid, onderdeel a of b, van Boek 7 van het Burgerlijk Wetboek;
+- d. *verzoek:* verzoek als bedoeld in artikel 671a, eerste lid, van Boek 7 van het Burgerlijk Wetboek;
+- e. *ontslagadviescommissie:* vertegenwoordigers van organisaties van werkgevers en werknemers, die de Stichting van de Arbeid als representatieve organisaties heeft aangewezen.
+
+## § 2 — De procedure
+
+### Artikel 2 — Formulieren
+
+1\. Het UWV stelt een formulier beschikbaar voor de indiening van een verzoek om toestemming.
+
+2\. Het UWV stelt een formulier beschikbaar voor de indiening van een verweer.
+
+### Artikel 3 — Aanvullen verzoek
+
+Indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van het verzoek om toestemming heeft de werkgever de gelegenheid het verzoek binnen acht dagen na mededeling hiervan door het UWV, aan te vullen. Deze termijn kan worden verlengd indien bijzondere omstandigheden dit noodzakelijk maken.
+
+### Artikel 4 — Zienswijze en verweer
+
+1\. Na ontvangst van een volledig verzoek om toestemming doet het UWV de werknemer hiervan mededeling onder vermelding van de ontvangstdatum van het verzoek en stelt hij de werknemer in de gelegenheid om binnen veertien dagen na deze mededeling verweer te voeren.
+
+2\. Na ontvangst van het verweer kan het UWV achtereenvolgens de werkgever en de werknemer in de gelegenheid stellen binnen zeven dagen nogmaals hun zienswijze naar voren te brengen.
+
+3\. Indien het UWV advies van een deskundige inwint omtrent de arbeidsmedische mogelijkheden tot het verrichten van de bedongen arbeid, al dan niet in aangepaste vorm, of tot herplaatsing in een passende functie, al dan niet na scholing, stelt het UWV de werkgever en de werknemer in de gelegenheid binnen zeven dagen hun zienswijze op het uitgebrachte advies naar voren te brengen.
+
+4\. De in het eerste, tweede en derde lid voor de werkgever en werknemer gestelde termijnen kunnen worden verlengd indien bijzondere omstandigheden dit noodzakelijk maken.
+
+5\. Indien het in de procedure door partijen gewisselde hiertoe aanleiding geeft, kan het UWV werkgever of werknemer verzoeken aanvullende gegevens of bescheiden te verstrekken binnen een door het UWV te bepalen termijn. Het UWV kan de andere partij binnen een door het UWV te bepalen termijn in de gelegenheid stellen zijn zienswijze naar voren te brengen op de aanvullende gegevens en bescheiden.
+
+6\. Dit artikel is niet van toepassing, indien op grond van de door de werkgever verstrekte gegevens vastgesteld kan worden dat geen toestemming wordt verleend.
+
+### Artikel 5 — Vertaling en samenvatting van verstrekte gegevens
+
+1\. Indien in de procedure door partijen verstrekte gegevens of bescheiden in een vreemde taal zijn gesteld en een vertaling daarvan voor de beoordeling van die gegevens noodzakelijk is, kan het UWV besluiten deze gegevens of bescheiden niet bij de beoordeling van het verzoek te betrekken, mits de partij die deze gegevens of bescheiden heeft ingebracht de gelegenheid heeft gehad deze binnen een door het UWV te bepalen termijn met een vertaling aan te vullen.
+
+2\. Indien in de procedure door partijen verstrekte gegevens of bescheiden omvangrijk of ingewikkeld zijn en een samenvatting voor de beoordeling van die gegevens of bescheiden nodig is, kan het UWV besluiten deze niet bij de beoordeling van het verzoek te betrekken, mits de partij die deze heeft ingebracht de gelegenheid heeft gehad deze binnen een door het UWV te bepalen termijn met een samenvatting aan te vullen.
+
+3\. Indien de werkgever of de werknemer bezwaren heeft tegen het ter kennis brengen van vertrouwelijke gegevens aan de wederpartij, worden deze gegevens niet bij de beoordeling van het verzoek betrokken.
+
+### Artikel 6 — Ontslagadviescommissie
+
+Na ontvangst van het in artikel 4, eerste lid, bedoelde verweer van de werknemer dan wel nadat de werkgever en werknemer hun zienswijze krachtens artikel 4, tweede, derde en vijfde lid, naar voren hebben gebracht, kan het UWV het verzoek om toestemming om de arbeidsovereenkomst op te zeggen op grond van artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek en de daarop betrekking hebbende gegevens en bescheiden voor advies aan de ontslagadviescommissie voorleggen.
+
+### Artikel 7 — Geen toestemming bij opzegverbod
+
+Vervallen
+
+### Artikel 8 — Beoordeling financiële omstandigheden
+
+Vervallen
+
+## § 3 — Slotbepalingen
+
+### Artikel 9 — Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling UWV ontslagprocedure.
+
+### Artikel 10 — Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 juli 2015.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Den Haag 23 april 2015
+
+De\
+Minister\
+Sociale Zaken en Werkgelegenheid,\
+L.F.Asscher

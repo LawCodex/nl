@@ -1,0 +1,128 @@
+---
+title: "Warenwetregeling uitvoering verordening officiële controles en andere officiële activiteiten"
+identifier: "BWBR0042828"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2019-11-21
+last_amended: 2019-12-14
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0042828/2019-12-14"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042828/2019-12-14_0/xml/BWBR0042828_2019-12-14_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Levensmiddelenrecht", "Ondernemingspraktijk"]
+retrieved: 2026-10-11
+---
+
+# Warenwetregeling uitvoering verordening officiële controles en andere officiële activiteiten
+
+*Regeling van de Minister voor Medische Zorg van 21 november 2019, 1609688-198450-VGP, houdende vaststelling van regels in verband met de uitvoering van Verordening (EU) 2017/625 en tot wijziging en intrekking van enkele Warenwetregelingen (Warenwetregeling uitvoering verordening officiële controles en andere officiële activiteiten)*
+
+De Minister voor Medische Zorg,
+
+Gelet op:
+
+Verordening (EU) 2017/625 van het Europees parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de Richtlijnen 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG en 2008/120/EG van de Raad, en tot intrekking van de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004 van het Europees parlement en de Raad, de Richtlijnen 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG en 97/78/EG van de Raad en Besluit 92/438/EEG van de Raad (verordening officiële controles) (PbEU 2017, L 95);
+
+Gedelegeerde verordening (EU) 2019/625 van de Commissie van 4 maart 2019 tot aanvulling van Verordening (EU) 2017/625 van het Europees parlement en de Raad wat betreft voorwaarden voor de binnenkomst in de Unie van zendingen van bepaalde voor menselijke consumptie bestemde dieren en goederen (PbEU 2019, L 131);
+
+Uitvoeringsverordening (EU) 2019/626 van de Commissie van 5 maart 2019 betreffende lijsten van derde landen of regio’s daarvan waaruit de binnenkomst in de Europese Unie van bepaalde voor menselijke consumptie bestemde dieren en goederen is toegestaan en tot wijziging van Uitvoeringsverordening (EU) 2016/759 wat deze lijsten betreft (PbEU 2019, L 131);
+
+Uitvoeringsverordening (EU) 2019/628 van de Commissie van 8 april 2019 betreffende modellen van officiële certificaten voor bepaalde dieren en goederen en tot wijziging van Verordening (EG) nr. 2074/2005 en Uitvoeringsverordening (EU) 2016/759 wat deze modelcertificaten betreft (PbEU 2019, L 131);
+
+Uitvoeringsverordening (EU) 2019/1715 van de Commissie van 30 september 2019 tot vaststelling van regels inzake de werking van het informatiemanagementsysteem voor officiële controles en de systeemcomponenten ervan (‘de Imsoc-verordening’) (PbEU 2019, L 261);
+
+Uitvoeringsverordening (EU) 2019/1793 van de Commissie van 22 oktober 2019 betreffende de tijdelijke verhoging van de officiële controles en noodmaatregelen met betrekking tot de binnenkomst in de Unie van bepaalde goederen uit bepaalde derde landen tot uitvoering van de Verordeningen (EU) 2017/625 en (EG) nr. 178/2002 van het Europees parlement en de Raad, en tot intrekking van de Verordeningen (EG) nr. 669/2009, (EU) nr. 884/2014, (EU) 2015/175, (EU) 2017/186 en (EU) 2018/1660 van de Commissie (PbEU 2019, L 277);
+
+artikel 25, eerste lid, en 25a, eerste en derde lid, van de Warenwet;
+
+artikel 5, van het Warenwetbesluit uitvoering verordening officiële controles en andere officiële activiteiten;
+
+artikel 4, onderdeel b, van het Warenwetbesluit Invoer levensmiddelen uit derde landen;
+
+artikel 3, tweede lid, van het Warenwetbesluit hygiëne van levensmiddelen;
+
+Besluit:
+
+## Artikel 1
+
+1\. Onze Minister kan grensinspectieposten, aangewezen punten of plaatsen van binnenkomst en aangewezen eerste punten van binnenkomst als bedoeld in artikel 61, eerste lid, van verordening (EU) 2017/625 heraanwijzen als grenscontroleposten als bedoeld in artikel 59, eerste lid, van verordening (EU) 2017/625.
+
+2\. Onze Minister wijst de grenscontroleposten, bedoeld in artikel 59, eerste lid, van verordening (EU) 2017/625 aan en kan deze aanwijzing intrekken of schorsen.
+
+3\. Onze Minister kan andere controlepunten dan grenscontroleposten als bedoeld in artikel 53, eerste lid, van verordening (EU) 2017/625 aanwijzen.
+
+4\. De Nederlandse Voedsel- en Warenautoriteit houdt een bijgewerkte lijst van grenscontroleposten en andere controlepunten als bedoeld in het eerste tot en met derde lid bij en maakt deze openbaar op de eigen website.
+
+## Artikel 2
+
+Onze Minister wijst aan:
+
+- a. nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, eerste zin, van verordening (EU) 2017/625; en
+- b. officiële laboratoria als bedoeld in artikel 37, eerste lid, van verordening (EU) 2017/625.
+
+## Artikel 3
+
+Het gemeenschappelijk gezondheidsdocument van binnenkomst, bedoeld in artikel 56, eerste lid, van verordening (EU) 2017/625 mag zijn opgesteld in de Engelse, Duitse of Franse taal.
+
+## Artikel 4
+
+De Regeling aanwijzen NRL’s ter uitvoering van verordening (EU) 2017/625 wordt ingetrokken.
+
+## Artikel 5
+
+De Aanwijzing toezichthoudende ambtenaren artikel 25 Warenwet wordt ingetrokken.
+
+## Artikel 6
+
+De Regeling mandaat aan IG-NVWA inzake het verlenen, schorsen en intrekken van bepaalde erkenningen wordt ingetrokken.
+
+## Artikel 7
+
+Wijzigt de Warenwetregeling aanwijzing en werkwijze toezichthouders COKZ.
+
+## Artikel 8
+
+De Warenwetregeling Gezondheidscontroles levensmiddelen van dierlijke oorsprong (intraverkeer) wordt ingetrokken.
+
+## Artikel 9
+
+De Warenwetregeling invoer levensmiddelen van niet-dierlijke oorsprong (Verordening (EG) 669/2009) wordt ingetrokken.
+
+## Artikel 10
+
+De Warenwetregeling kiemgroenten wordt ingetrokken.
+
+## Artikel 11
+
+Wijzigt de Warenwetregeling levende tweekleppige weekdieren.
+
+## Artikel 12
+
+Wijzigt de Warenwetregeling noodmaatregelen invoer levensmiddelen uit derde landen (verordening (EG) 178/2002).
+
+## Artikel 13
+
+Wijzigt de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven.
+
+## Artikel 14
+
+Wijzigt de Warenwetregeling verpakkingen en gebruiksartikelen.
+
+## Artikel 15
+
+Wijzigt de Warenwetregeling veterinaire controles derde landen 2018.
+
+## Artikel 16
+
+Deze regeling treedt in werking met ingang van 14 december 2019.
+
+## Artikel 17
+
+Deze regeling wordt aangehaald als: Warenwetregeling uitvoering verordening officiële controles en andere officiële activiteiten.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister voor Medische Zorg,\
+B.J. Bruins

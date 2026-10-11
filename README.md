@@ -13,11 +13,11 @@ Part of [LawCodex](https://github.com/LawCodex) — the laws of every country as
 | `grondwet/` | Grondwet and Statuut voor het Koninkrijk der Nederlanden | 2 |
 | `wetten/` | Wetten (formele wetten, incl. rijkswetten) | 2,641 |
 | `amvb/` | Algemene maatregelen van bestuur (AMvB's, incl. rijks-AMvB's) | 1,786 |
-| `ministeriele-regelingen/` | Ministeriële regelingen | 2,751 |
+| `ministeriele-regelingen/` | Ministeriële regelingen | 6,191 |
 | `caribisch-nederland/wetten/` | Caribisch Nederland (BES): wetten | 15 |
 | `caribisch-nederland/amvb/` | Caribisch Nederland (BES): AMvB's | 15 |
 | `caribisch-nederland/ministeriele-regelingen/` | Caribisch Nederland (BES): ministeriële regelingen | 15 |
-| | **Total** | **7,225** |
+| | **Total** | **10,665** |
 
 Each file is named `<BWB-ID>-<slug-of-title>.md`, e.g.
 [`grondwet/BWBR0001840-grondwet.md`](grondwet/BWBR0001840-grondwet.md). The BWB-ID is the

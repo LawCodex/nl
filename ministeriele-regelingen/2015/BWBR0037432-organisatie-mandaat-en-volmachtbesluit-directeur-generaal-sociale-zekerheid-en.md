@@ -1,0 +1,217 @@
+---
+title: "Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015"
+identifier: "BWBR0037432"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2015-12-14
+last_amended: 2026-05-16
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0037432/2026-05-16"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037432/2026-05-16_0/xml/BWBR0037432_2026-05-16_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Staats- en bestuursrecht", "Bestuursrecht", "Staats- en bestuursrecht", "Staatsrecht"]
+retrieved: 2026-10-11
+---
+
+# Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015
+
+*Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 december 2015, 2015-0000304798, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Sociale Zekerheid en Integratie ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015)*
+
+De Minister van Sociale Zaken en Werkgelegenheid,
+
+Gelet op artikelen 8, derde lid, aanhef en onderdeel a, en 23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009;
+
+Besluit:
+
+## § 1 — Begripsbepaling
+
+### Artikel 1
+
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. *directeur-generaal:* de directeur-generaal Sociale Zekerheid en Integratie;
+- b. *directie:* een van de organisatieonderdelen, genoemd in artikel 2, onderdelen a tot en met d;
+- c. *directeur:* een functionaris die leiding geeft aan een directie;
+- d. *hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI:* een functionaris die leiding geeft aan de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI;
+- e. *RCN:* Rijksdienst Caribisch Nederland.
+
+## § 2 — Organisatie
+
+### Artikel 2
+
+Onder de directeur-generaal ressorteren:
+
+- a. de directie Participatie en Decentrale Voorzieningen;
+- b. de directie Werknemersregelingen;
+- c. de directie Stelsel en Volksverzekeringen;
+- d. de directie Samenleving en Integratie;
+- e. de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI.
+
+## § 3 — Verantwoordelijkheden
+
+### Artikel 3
+
+1\. Elk van de directeuren is verantwoordelijk voor:
+
+- a. het leiding geven aan de eigen directie;
+- b. het door tussenkomst van de directeur-generaal adviseren van de bewindspersonen ten aanzien van het werkterrein van de eigen directie en het attenderen van hen op politiek of maatschappelijk gevoelige aspecten;
+- c. het coördineren van de beleidsontwikkeling en -uitvoering van de eigen directie met de beleidsontwikkeling en -uitvoering van de andere onderdelen van het ministerie en van andere ministeries;
+- d. het zorgdragen voor een effectieve en efficiënte bedrijfsvoering, met uitzondering van de vaststelling van de formatie, voor periodieke evaluatie daarvan en voor planning en bewaking van de productie van de eigen directie;
+- e. de personeelsaangelegenheden van de onder elk van hen ressorterende functionarissen, met inbegrip van de uitvoering van het arbeidsomstandigheden- en ziekteverzuimbeleid, voor zover dit niet is voorbehouden aan de secretaris-generaal dan wel de directeur-generaal;
+- f. het zorgdragen voor de administratieve en financiële afhandeling van de uitvoering van de eigen personeelsaangelegenheden, voor zover deze niet is opgedragen aan anderen zoals de directie Organisatie, Bedrijfsvoering en Personeel en de Stichting Pensioenfonds Algemeen Burgerlijk Pensioenfonds;
+- g. het op orde hebben van de administratieve organisatie;
+- h. de implementatie en naleving van vereisten van privacy en informatiebeveiliging conform geldende wet- en regelgeving, voor de eigen directie;
+- i. het formuleren en uitvoeren van jaarplannen voor de eigen directie binnen de door de secretaris-generaal en de directeur-generaal vastgestelde uitgangspunten;
+- j. het rapporteren aan de directeur-generaal over de uitvoering van de jaarplannen betreffende de eigen directie;
+- k. het, na overeenstemming daarover met de directeur-generaal, aanwijzen van een plaatsvervangend directeur;
+- l. het zorgdragen voor de vastlegging van de organisatie van de eigen directie en de daarbinnen geldende mandaten, volmachten en machtigingen in een Organisatie-, mandaat- en volmachtbesluit voor de eigen directie;
+- m. de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen;
+- n. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Organisatie, Bedrijfsvoering en Personeel, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
+- o. het materieel beheer overeenkomstig de Regeling materieelbeheer rijksoverheid 2006 en de Regeling materieelbeheer museale voorwerpen.
+
+2\. Het eerste lid is van overeenkomstige toepassing op het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI.
+
+### Artikel 4
+
+De directie Participatie en Decentrale Voorzieningen is verantwoordelijk voor:
+
+- a. de beleidsvorming, totstandkoming, monitoring en evaluatie van wet- en regelgeving, waaronder de rechten, plichten en financieringssystematiek, op het terrein van de Participatiewet, de Wet Inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet Inkomensvoorziening oudere en arbeidsongeschikte gewezen zelfstandigen en het Besluit bijstandsverlening zelfstandigen 2004;
+- b. de beleidsvorming en totstandkoming van wet- en regelgeving op het terrein van armoede en schuldhulpverlening;
+- c. de beleidsvorming en -ontwikkeling ter verbetering van de aansluiting van het onderwijs op de arbeidsmarkt, gericht op enerzijds een soepele overgang van school naar duurzaam werk voor jongeren tot 27 jaar en anderzijds de inzet van passende scholing voor het aan het werk helpen en houden van werkzoekenden en werkenden met een kwetsbare positie op de arbeidsmarkt;
+- d. de beleidsvorming en -ontwikkeling op het terrein van het bevorderen van de re-integratie van mensen met een uitkering in zelfstandig ondernemerschap;
+- e. de beleidsvorming en -ontwikkeling op het terrein van cliëntparticipatie;
+- f. de beleidsvorming en uitvoering van de programma’s Europese Structuur Fondsen en overige Europese programma’s gericht op het gemeentelijke domein;
+- g. het zorgdragen voor een effectief gemeentelijk re-integratiebeleid, onder meer door een samenhangend pakket re-integratie-instrumenten en een effectieve en efficiënte inzet daarvan door de uitvoering, alsmede de inzet op de regionale aanpak van de arbeidsmarkt;
+- h. het onderhouden van interdepartementale contacten en contacten met gemeenten en gemeentelijke uitvoerders, waaronder de arbeidsmarktregio’s, de werkbedrijven en de Programmaraad, in verband met de decentralisaties in het gemeentelijke domein;
+- i. de beleidsmatige aspecten rondom het Europees Globaliseringsfonds.
+
+### Artikel 5
+
+De directie Werknemersregelingen is verantwoordelijk voor:
+
+- a. het formuleren van het beleid ten aanzien van de rechten en plichten van de sociale verzekeringen en voorzieningen, gericht op preventie, werk en bescherming op het terrein van de werknemersverzekeringen;
+- b. het formuleren van het financieringsbeleid van de sociale verzekeringen en voorzieningen gericht op het stimuleren van werknemers, werkgevers en de uitvoering;
+- c. het vervullen van de rol van opdrachtgever van het Uitvoeringsinstituut werknemersverzekeringen;
+- d. het beleid met betrekking tot grensoverschrijdende sociale zekerheidsposities;
+- e. het coördineren van het door het ministerie te voeren beleid inzake Bonaire, Sint Eustatius en Saba;
+- f. het zorgdragen voor de uitvoeringstaken van de bewindspersoon op Bonaire, Sint Eustatius en Saba, waaronder mede begrepen het nemen van besluiten en het behandelen van bezwaar- en beroepszaken die betrekking hebben op deze besluiten;
+- g. het namens de bewindspersoon optreden als opdrachtgever voor de RCN.
+
+### Artikel 6
+
+De directie Stelsel en Volksverzekeringen is verantwoordelijk voor:
+
+- a. het ondersteunen van de (plaatsvervangend) secretaris-generaal in de rol van eigenaar van het Uitvoeringsinstituut werknemersverzekeringen, van de Sociale verzekeringsbank, van het Bureau InformatieDiensten Nederland, van het Bureau Keteninformatisering Werk en Inkomen en van de Nederlandse Autoriteit Uitleenmarkt het sturen op ICT-brede vraagstukken, het maken van prestatieafspraken met de uitvoeringsorganisaties, het bewaken van de realisatie daarvan en -indien nodig- optreden;
+- b. het vervullen van de rol van opdrachtgever van de Sociale verzekeringsbank, het Bureau Keteninformatisering Werk en Inkomen en het Bureau Informatiediensten Nederland;
+- c. het formuleren van het beleid ten aanzien van de rechten en plichten van de volksverzekeringen AKW, ANW, AOW, en AIO, het kindgebonden budget, Algemene ouderdomsverzekering (AOV) en kindregelingen op de BES-eilanden;
+- d. de coördinatie, visieontwikkeling en het maken van beleid op het gebied van gegevensuitwisseling, privacy en beveiliging binnen de organisaties vallend onder de Wet structuur uitvoeringsorganisatie werk en inkomen;
+- e. het coördineren van vraagstukken in de uitvoering bij UWV, SVB, BIDN en BKWI ten behoeve van verbetering van de dienstverlening. Het signaleren, agenderen en (laten) oplossen van knelpunten en onnodige complexiteit voor burgers in het stelsel van inkomenszekerheid;
+- f. het verbeteren van beleid op het gebied van werk en inkomen aan de hand van onderzoek en periodieke evaluatie van de Wet SUWI;
+- g. het verbeteren en versterken van ketensamenwerking van de ketens en netwerken waar SZW aan deelneemt;
+- h. het ontwikkelen van een brede handhavingsstrategie van het ministerie, met systematische aandacht voor het verbeteren van de effectiviteit van de handhaving;
+- i. het intra- en interdepartementaal coördineren van de regeldrukprogramma’s voor bedrijven, burgers, professionals en medeoverheden.
+
+### Artikel 7
+
+De directie Samenleving en Integratie is verantwoordelijk voor:
+
+- a. het zorgdragen voor het beleid ten behoeve van de inburgering in het binnenland en de uitvoering van het beleid ten behoeve van de inburgering in het buitenland, mede op basis van monitoring en evaluatie;
+- b. het ontwikkelen van beleid gericht op het omgaan met diversiteit in de samenleving, het tegengaan van sociale spanningen en het uitvoering geven aan de preventieve maatregelen in het kader van de aanpak jihadisme;
+- c. het ontwikkelen van beleid tegen rassendiscriminatie (inclusief antisemitisme en islamofobie) in Nederland;
+- d. de visievorming, het vergaren en verspreiden van kennis en het monitoren van het integratieproces, ter ondersteuning van het beleid zoals geformuleerd in de Agenda integratie;
+- e. het versterken van het bereik van regulier beleid voor migrantengroepen op het terrein van de arbeidsmarkt (waaronder jeugdwerkloosheid), het onderwijs, de zorg en criminaliteit, met name daar waar een generieke aanpak onvoldoende effectief is;
+- f. het vorm geven aan vormen van dialoog met maatschappelijke organisaties.
+
+### Artikel 8
+
+Vervallen
+
+### Artikel 9
+
+1\. De afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in artikel 2, onderdelen a tot en met e, verantwoordelijk voor:
+
+- a. alle interne bedrijfsvoeringsprocessen, waaronder de management-, administratieve-, personele- en financiële ondersteuning, automatisering en huisvesting;
+- b. het aanleveren van managementinformatie op het gebied van de bedrijfsvoeringsprocessen;
+- c. het leveren van een bijdrage aan documenten die door de dienstonderdelen van het directoraat-generaal Sociale Zekerheid en Integratie in het kader van de planning- en controlcyclus van het ministerie worden opgesteld;
+- d. een goede afstemming met de tweedelijns bedrijfsvoering die centraal voor het gehele ministerie gevoerd wordt;
+- e. de coördinatie van de bijdragen van het directoraat-generaal Sociale Zekerheid en Integratie voor de begrotingcyclus;
+- f. het financieel beheer van alle onder de directeur-generaal vallende budgetten;
+- g. het beheersmatig en beleidsinhoudelijk ondersteunen van de directeur-generaal bij de aansturing van de onder hem ressorterende directies.
+
+2\. De aansturing van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI berust bij de directeur, die door de directeur-generaal is aangewezen als plaatsvervangend directeur-generaal.
+
+## § 4 — Bevoegdheden directeuren
+
+### Artikel 10
+
+1\. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, dan wel bureau, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal.
+
+2\. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
+
+- a. de in artikel 3, eerste lid, onderdeel e, genoemde personeelsaangelegenheden;
+- b. de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht, voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
+
+3\. De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies, rijksbijdragen en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.
+
+4\. De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.
+
+5\. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde van ten hoogste € 500.000,- per overeenkomst inclusief btw.
+
+### Artikel 11
+
+1\. Artikel 10 is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
+
+2\. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren.
+
+3\. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI volmacht verleend met betrekking tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,- per overeenkomst inclusief btw, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren.
+
+4\. De directeuren blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie dan wel bureau, zelf uit te oefenen.
+
+### Artikel 12
+
+In aanvulling op artikel 10, derde lid, wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Samenleving en Integratie, de directie Werknemersregelingen en de directie Participatie en Decentrale Voorzieningen.
+
+## § 5 — Slotbepalingen
+
+### Artikel 13
+
+1\. De directeuren kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
+
+- a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
+- b. het houden van manager-medewerker gesprekken;
+- c. verlof van medewerkers;
+- d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
+
+2\. Onverminderd het eerste lid kunnen directeuren en het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, na voorafgaande schriftelijke toestemming van de directeur-generaal, hun vertegenwoordigingsbevoegdheden doorverlenen aan functionarissen van een ander organisatieonderdeel, mits de betreffende functionaris daarmee schriftelijk instemt.
+
+3\. De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.
+
+4\. Het eerste lid is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling. In afwijking hiervan kan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI de bevoegdheid tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,- per overeenkomst inclusief btw, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren, doorverlenen aan onder hen ressorterende functionarissen.
+
+### Artikel 14
+
+1\. Het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009 wordt ingetrokken.
+
+2\. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de artikelen 3, eerste lid, aanhef en onderdeel k, en 10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009 op de artikelen 3, eerste lid, aanhef en onderdeel k, en 10 van deze regeling:
+
+- a. het Organisatie-, mandaat- en volmachtbesluit Re-integratie en Participatie 2009;
+- b. het Organisatie-, mandaat- en volmachtbesluit Inkomensverzekeringen en -voorzieningen 2009;
+- c. het Organisatie-, mandaat- en volmachtbesluit UBN 2012;
+- d. het Organisatie-, mandaat- en volmachtbesluit I&S 2014.
+
+3\. Na de inwerkingtreding van deze regeling berust het Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013 dat genomen is krachtens de artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid, en 10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009 op de artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid, en 10 van deze regeling.
+
+4\. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
+
+5\. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De\
+Minister\
+Sociale Zaken en Werkgelegenheid,\
+namens deze,\
+B. terHaar\
+Directeur-generaal Sociale Zekerheid en Integratie

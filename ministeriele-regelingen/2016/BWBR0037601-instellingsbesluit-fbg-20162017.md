@@ -1,0 +1,91 @@
+---
+title: "Instellingsbesluit FBG 2016–2017"
+identifier: "BWBR0037601"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2016-01-29
+last_amended: 2016-02-11
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0037601/2016-02-11"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037601/2016-02-11_0/xml/BWBR0037601_2016-02-11_0.xml"
+authority: "Volksgezondheid, Welzijn en Sport"
+rechtsgebied: ["Gezondheidsrecht en farmaceutisch recht"]
+retrieved: 2026-10-11
+---
+
+# Instellingsbesluit FBG 2016–2017
+
+*Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 29 januari 2016, houdende de instelling van het Forum Biotechnologie en Genetica voor de jaren 2016 en 2017 (Instellingsbesluit FBG 2016–2017)*
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+
+Besluit;
+
+## Artikel 1 — Begrippen
+
+In deze regeling wordt verstaan onder het FBG: het Forum Biotechnologie en Genetica.
+
+## Artikel 2 — Instellingsduur
+
+Het FBG wordt ingesteld voor een periode van twee jaar, te rekenen vanaf de datum van inwerkingtreding van dit besluit.
+
+## Artikel 3 — Doelstelling
+
+Het FBG heeft als doelstelling een bijdrage te leveren aan informatie-uitwisseling, meningsvorming en beleidsontwikkeling op de terreinen van medische biotechnologie en humane genetica.
+
+## Artikel 4 — Taken
+
+Om zijn doelstelling te bereiken organiseert het FBG, in overleg met het ministerie van VWS, thematische bijeenkomsten en doet verslag van de uitkomsten van die bijeenkomsten.
+
+## Artikel 5 — Werkwijze
+
+1\. Het FBG stelt in overleg met het ministerie van VWS de werkwijze in het FBG vast.
+
+2\. Het FBG zorgt per met het ministerie van VWS afgesproken thema en werkwijze voor het samenbrengen van uit te nodigen personen in bijeenkomsten, waarbij informatie-uitwisseling en meningsvorming centraal staan zonder gerichtheid op eensluidende conclusies.
+
+3\. Het FBG zorgt er voor dat op de eigen website ook voor derden de uitkomsten van informatie-uitwisseling en discussie beschikbaar zijn.
+
+## Artikel 6 — Samenstelling
+
+1\. Het FBG heeft een onafhankelijk voorzitter, mevrouw prof. dr. M. de Visser.
+
+2\. Het FBG wijst een eigen secretaris aan.
+
+3\. Deelnemers aan het FBG worden per thema uitgenodigd en kunnen onder meer afkomstig zijn uit de wetenschap, de zorg, de zorgverzekeringen, de belangenbehartiging van patiënten, de relevante industrie, adviesorganen, onderzoeksorganisaties en de overheid.
+
+## Artikel 7 — Voorzitter
+
+1\. De voorzitter is eindverantwoordelijk voor de realisatie van de doelstelling genoemd in artikel 3.
+
+2\. Specifiek valt onder de eindverantwoordelijkheid van de voorzitter te rekenen:
+
+- • het voorzitten van bijeenkomsten en het zorgen voor een adequate begeleiding ervan met inbegrip van de secretariële en logistieke aspecten;
+- • het stimuleren dat de vertegenwoordiging vanuit de betrokken organisaties en de overheid zodanig breed is dat de doelstelling en reikwijdte, zoals per thema en bijeenkomst met het ministerie van VWS afgesproken, verwezenlijkt kunnen worden;
+- • het zorgen voor een adequaat financieel beheer en een ook voor derden tijdig beschikbare verslaglegging.
+
+## Artikel 8 — Beheer
+
+1\. Het FBG draait mee in de rapportagesystematiek van ZonMw; in dat kader zal over 2016 een jaarverslag worden opgesteld.
+
+2\. Het beheer van de bescheiden vindt plaats op overeenkomstige wijze als bij ZonMw gebruikelijk is. Deze bescheiden worden na beëindiging van de werkzaamheden van het FBG opgeborgen in het archief van ZonMw.
+
+## Artikel 9 — Intrekking
+
+De beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 maart 2008, nr. GMT/IB 2832180, houdende Hernieuwde instelling van het Forum Biotechnologie en Genetica, wordt ingetrokken.
+
+## Artikel 10 — Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 januari 2016.
+
+## Artikel 11 — Citeertitel
+
+Dit besluit wordt aangehaald als: Instellingsbesluit FBG 2016–2017.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+De\
+Minister\
+Volksgezondheid, Welzijn en Sport,\
+E.I.Schippers

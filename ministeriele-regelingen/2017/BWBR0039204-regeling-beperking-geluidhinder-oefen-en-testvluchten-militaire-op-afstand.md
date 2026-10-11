@@ -1,0 +1,74 @@
+---
+title: "Regeling beperking geluidhinder oefen- en testvluchten militaire op afstand bestuurde luchtvaartuigen"
+identifier: "BWBR0039204"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2017-01-31
+last_amended: 2017-03-01
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0039204/2017-03-01"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039204/2017-03-01_0/xml/BWBR0039204_2017-03-01_0.xml"
+authority: "Defensie"
+rechtsgebied: ["Ruimtelijke ordening en milieu", "Milieurecht", "Vervoersrecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling beperking geluidhinder oefen- en testvluchten militaire op afstand bestuurde luchtvaartuigen
+
+De Minister van Defensie,
+
+Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
+
+Gelet op artikel 2 van het Besluit houdende vaststelling van enige regels ter beperking van de geluidhinder door luchtvaartuigen (Stb. 1981, 343);
+
+Besluit:
+
+## Artikel 1 — Definitie
+
+In deze regeling wordt verstaan onder RPA: op afstand bestuurd luchtvaartuig (remotely piloted aircraft), onbemand.
+
+## Artikel 2 — Reikwijdte
+
+Deze regeling is van toepassing op oefen- en testvluchten met militaire RPA’s, behorende tot of in gebruik bij de Nederlandse of een bondgenootschappelijke krijgsmacht, die zijn uitgerust met een verbrandingsmotor en die worden gelanceerd met behulp van een mobiele lanceerinstallatie.
+
+## Artikel 3 — Uitvoering van vluchten
+
+Voor het uitvoeren van oefen- en testvluchten met militaire RPA’s gelden de volgende regels ter beperking van geluidhinder:
+
+- a. het uitvoeren van oefen- en testvluchten is niet toegestaan op werkdagen na 00.00 uur plaatselijke tijd tot 07.00 uur plaatselijke tijd of zoveel eerder als de uniforme daglichtperiode aanbreekt, en op vrijdagen na 17.00 uur plaatselijke tijd, zaterdagen, zondagen en algemeen erkende feestdagen;
+- b. het aantal uit te voeren vliegtuigbewegingen op maandag tot en met donderdag na 18.00 uur plaatselijke tijd is beperkt tot maximaal vier vliegtuigbewegingen per dag per oefening dan wel test;
+- c. de locaties waar de lancering en de landing plaatsvinden, liggen op minimaal 350 meter van woonbebouwing;
+- d. de startrichting wordt zodanig gekozen dat tot aan het bereiken van de minimum vlieghoogte, bedoeld in deel 3, hoofdstuk 1, en deel 5 van de bijlage bij Verordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281), niet boven woonbebouwing wordt gevlogen;
+- e. vanaf de start wordt zo snel mogelijk naar de minimum vlieghoogte geklommen, waarna, zo mogelijk met verminderd klimvermogen, indien van toepassing, wordt doorgeklommen naar de voor de militaire RPA vastgestelde operationele vlieghoogte;
+- f. onverminderd de onderdelen c, d en e worden de snelheid en hoogte van de vlucht zodanig gekozen dat het optreden van vermijdbare geluidhinder wordt voorkomen.
+
+## Artikel 4 — Ontheffing
+
+1\. De Minister van Defensie kan ten behoeve van nationale of internationale oefeningen ontheffing verlenen van artikel 3, aanhef en onderdeel a.
+
+2\. Aan de ontheffing kunnen voorschriften worden verbonden.
+
+3\. De ontheffing kan onder beperkingen worden verleend.
+
+## Artikel 5 — Intrekking
+
+De Regeling beperking geluidhinder militaire onbemande luchtvaartuigen wordt ingetrokken.
+
+## Artikel 6 — Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 maart 2017.
+
+## Artikel 7 — Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling beperking geluidhinder oefen- en testvluchten militaire op afstand bestuurde luchtvaartuigen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Den Haag 31 januari 2017
+
+De\
+Minister\
+Defensie,\
+J.A.Hennis-Plasschaert

@@ -1,0 +1,100 @@
+---
+title: "Instellingsbesluit Formule E-Team"
+identifier: "BWBR0037382"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2015-12-03
+last_amended: 2026-05-06
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0037382/2026-05-06"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0037382/2026-05-06_0/xml/BWBR0037382_2026-05-06_0.xml"
+authority: "Economische Zaken"
+rechtsgebied: ["Informatierecht", "ICT-recht"]
+retrieved: 2026-10-11
+---
+
+# Instellingsbesluit Formule E-Team
+
+*Besluit van de Minister van Economische Zaken van 3 december 2015, nr. WJZ/15169828, tot instelling van het Formule E-Team (Instellingsbesluit Formule E-Team)*
+
+De Minister van Economische Zaken,
+
+Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies;
+
+Besluit:
+
+## Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- a. *de Staatssecretaris:* de Staatssecretaris van Infrastructuur en Waterstaat;
+- b. *organisaties:*
+  - 1°. samenwerkingsverbanden van mede-overheden;
+  - 2°. samenwerkingsverbanden van kennisinstellingen;
+  - 3°. brancheorganisaties;
+  - 4°. ondernemersverenigingen;
+  - 5°. koepelorganisaties;
+  - 6°. belangenorganisaties.
+
+## Artikel 2
+
+1\. Er is een Formule E-Team.
+
+2\. Het Formule E-Team heeft tot taak:
+
+- a. de Staatssecretaris te adviseren over de uitvoering van het beleid inzake elektrisch vervoer;
+- b. het bevorderen van elektrisch vervoer, waaronder kennisontwikkeling, kennisdeling, informatieverstrekking, en het bevorderen van de uitrol van elektrisch vervoer, voertuigen, oplaadinfrastructuur en inpassing in het elektriciteitsnet;
+- c. het bevorderen van groene groei en van export van zowel producten als diensten van en voor elektrisch vervoer.
+
+## Artikel 3
+
+1\. Het Formule E-Team bestaat uit een voorzitter en ten hoogste vierentwintig andere leden.
+
+2\. De voorzitter wordt door de Staatssecretaris benoemd voor een termijn van drie jaar en is herbenoembaar. De voorzitter kan door de Staatssecretaris worden geschorst en ontslagen.
+
+3\. De andere leden bestaan uit vertegenwoordigers van de in artikel 1, onderdeel b, genoemde organisaties die door die betrokken organisaties, ieder voor zich, zijn aangewezen.
+
+4\. Een ander lid wordt eerst voorgedragen door de betrokken organisaties aan de Staatssecretaris. Na instemming van de Staatssecretaris wijst de betrokken organisatie het andere lid aan.
+
+5\. De instemming van de Staatssecretaris geldt voor een periode van drie jaar. De Staatssecretaris kan de instemming intrekken na de betreffende organisatie te hebben gehoord.
+
+6\. De Staatssecretaris wijst een medewerker van het Ministerie van Infrastructuur en Waterstaat als waarnemer aan, die het recht heeft de vergaderingen van het Formule E-Team bij te wonen.
+
+7\. Andere ministers kunnen, ieder voor zich, een waarnemer aanwijzen, die het recht heeft de vergaderingen van het Formule E-Team bij te wonen.
+
+## Artikel 4
+
+1\. Het Formule E-Team stelt haar eigen werkwijze schriftelijk vast.
+
+2\. De Staatssecretaris voorziet in het secretariaat van het Formule E-Team.
+
+3\. Het beheer van de bescheiden betreffende de werkzaamheden van het Formule E-Team geschiedt op overeenkomstige wijze als bij het Ministerie van Infrastructuur en Waterstaat. De bescheiden worden na beëindiging van de werkzaamheden van het Formule E-Team bewaard in het archief van dat ministerie.
+
+4\. Het formule E-Team verstrekt desgevraagd aan de Staatssecretaris de voor de uitoefening van zijn taak benodigde inlichtingen. De Staatssecretaris kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+
+## Artikel 5
+
+Met ingang van 1 mei 2026 wordt de heer O.M. van der Gaag, woonachtig te Utrecht, benoemd tot voorzitter van het Formule E-team, voor de periode tot 1 mei 2029 of zoveel eerder als overeengekomen tussen partijen.
+
+## Artikel 6
+
+Aan de voorzitter van het Formule E-Team wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 en de arbeidsduurfactor op 0,5 fte.
+
+## Artikel 7
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2015.
+
+## Artikel 8
+
+Dit besluit wordt aangehaald als: Instellingsbesluit Formule E-Team.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+
+’s-Gravenhage 3 december 2015
+
+De\
+Minister\
+Economische Zaken,\
+H.G.J.Kamp

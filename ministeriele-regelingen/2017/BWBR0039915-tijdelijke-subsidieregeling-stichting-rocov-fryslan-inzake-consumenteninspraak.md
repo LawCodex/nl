@@ -1,0 +1,94 @@
+---
+title: "Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021"
+identifier: "BWBR0039915"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2017-08-23
+last_amended: 2017-08-25
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0039915/2017-08-25"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0039915/2017-08-25_0/xml/BWBR0039915_2017-08-25_0.xml"
+authority: "Infrastructuur en Milieu"
+rechtsgebied: ["Ruimtelijke ordening en milieu", "Milieurecht", "Ruimtelijke ordening en milieu", "Omgevingsrecht"]
+retrieved: 2026-10-11
+---
+
+# Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021
+
+*Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 23 augustus 2017, nr. IENM/BSK-2017/195936, houdende de subsidieverstrekking aan Stichting Rocov Fryslân ten behoeve van consumenteninspraak inzake de uitvoering van de concessies voor de Friese Waddenveren over de jaren 2017 tot en met 2021 (Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021)*
+
+De Staatssecretaris van Infrastructuur en Milieu,
+
+Gelet op de artikelen 3, eerste lid, aanhef en onderdelen e en f, 4, eerste en tweede lid, en 5 van de Kaderwet subsidies I en M en de artikelen 2, eerste lid, 4, 7, derde lid, 8, eerste lid, 10, tweede en vierde lid, 22, tweede lid, en 24, derde lid, van het Kaderbesluit subsidies I en M;
+
+Besluit:
+
+## Artikel 1 — Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- *concessies voor de Friese Waddenveren:* concessie Friese Waddenveren West en concessie Friese Waddenveren Oost;
+- *consumenteninspraak:* het door het Consumentenplatform Friese Waddenveren voeren van overleg met en uitbrengen van advies aan de concessiehouders over het jaarlijks op te stellen vervoerplan en andere veerdienst gerelateerde zaken;
+- *minister:* de Minister van Infrastructuur en Milieu;
+- *Stichting Rocov Fryslân:* Stichting Rocov Fryslân, Aronskelk 1, 8935 RH Leeuwarden, KVK 01102361.
+
+## Artikel 2 — Doel van de subsidie
+
+De minister kan Stichting Rocov Fryslân jaarlijks gedurende het tijdvak van 1 januari 2017 tot en met 31 december 2021 subsidie toekennen ten behoeve van activiteiten die de consumenteninspraak ten aanzien van de concessies voor de Friese Waddenveren faciliteren en bevorderen.
+
+## Artikel 3 — Subsidiabele activiteiten
+
+Subsidiabele activiteiten zijn de activiteiten die nodig zijn om het doel, bedoeld in artikel 2, te bereiken.
+
+## Artikel 4 — Subsidieplafond en subsidiabele kosten
+
+1\. Het subsidieplafond bedraagt € 12.000,– per kalenderjaar.
+
+2\. Subsidiabel zijn uitsluitend de gemaakte kosten die direct verbonden zijn met de uitvoering van activiteiten die op grond van deze regeling voor subsidie in aanmerking komen.
+
+3\. Verschuldigde btw komt uitsluitend voor subsidie in aanmerking ingeval Stichting Rocov Fryslân de btw niet kan verrekenen met de door haar af te dragen omzetbelasting.
+
+4\. De kosten die voor subsidie in aanmerking komen worden door Stichting Rocov Fryslân berekend op basis van een voor de minister controleerbare methode, die is gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd.
+
+## Artikel 5 — Aanvraag tot subsidievaststelling
+
+1\. Stichting Rocov Fryslân dient de aanvraag tot subsidieverlening schriftelijk in bij de minister, uiterlijk dertien weken voor aanvang van het kalenderjaar waarvoor subsidie wordt aangevraagd.
+
+2\. In afwijking van het eerste lid dient Stichting Rocov Fryslân de aanvraag om subsidie in het kalenderjaar 2017 uiterlijk dertien weken na de datum van de uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, in bij de minister.
+
+3\. Een subsidieaanvraag behoeft niet te worden ingediend met gebruikmaking van een daartoe door de minister beschikbaar gesteld middel.
+
+## Artikel 6 — Beschikking tot subsidievaststelling
+
+De minister neemt de beschikking tot subsidievaststelling uiterlijk binnen dertien weken na ontvangst van de aanvraag, bedoeld in artikel 5.
+
+## Artikel 7 — Verplichtingen aanvrager
+
+1\. De activiteiten waarvoor de subsidie is toegekend, moeten uiterlijk voor het einde van het kalenderjaar waarvoor subsidie is toegekend, zijn verricht.
+
+2\. Stichting Rocov Fryslân is verplicht desgevraagd alle medewerking te verlenen aan een steekproef waarin wordt nagegaan of de activiteiten waarvoor subsidie is toegekend, zijn verricht en of aan alle aan de subsidie verbonden verplichtingen is voldaan.
+
+3\. Indien door een ander bestuursorgaan voor dezelfde activiteiten subsidie wordt verstrekt, doet Stichting Rocov Fryslân daarvan onverwijld mededeling aan de minister. Het bedrag dat door deze bestuursorganen is vertrekt wordt in mindering gebracht op de subsidie waarvoor Stichting Rocov Fryslân op grond van deze regeling in aanmerking komt.
+
+## Artikel 8 — Evaluatieverslag
+
+Vóór 1 januari 2022 publiceert de minister een verslag over de doeltreffendheid en de effecten van de verstrekte subsidie.
+
+## Artikel 9 — Inwerkingtreding
+
+1\. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2017.
+
+2\. Deze regeling vervalt met ingang van 1 januari 2022 met dien verstande dat zij van toepassing blijft op voor die datum vastgestelde subsidies.
+
+3\. Indien de bevoegdheid tot concessieverlening voor 1 januari 2022 wordt overgedragen aan een ander bestuursorgaan, vervalt deze regeling, in afwijking van het tweede lid, met ingang van 1 januari volgend op het kalenderjaar waarin die overdracht heeft plaatsgevonden.
+
+## Artikel 10 — Citeertitel
+
+Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling Stichting Rocov Fryslân inzake consumenteninspraak Friese Waddenveren 2017–2021.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Staatssecretaris van Infrastructuur en Milieu,\
+S.A.M. Dijksma

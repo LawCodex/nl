@@ -1,0 +1,135 @@
+---
+title: "Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies"
+identifier: "BWBR0046651"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2022-04-22
+last_amended: 2026-07-17
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0046651/2026-07-17"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0046651/2026-07-17_0/xml/BWBR0046651_2026-07-17_0.xml"
+authority: "Sociale Zaken en Werkgelegenheid"
+rechtsgebied: ["Arbeidsrecht en sociaal-zekerheidsrecht", "Arbeidsrecht en sociaal-zekerheidsrecht", "Ambtenarenrecht"]
+retrieved: 2026-10-11
+---
+
+# Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies
+
+*Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 april 2022, 2022-0000079265, tot instelling van het Adviespanel beoordeling Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies (Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies)*
+
+De Minister van Sociale Zaken en Werkgelegenheid,
+
+Gelet op de artikelen 12 van de Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies en 2 van de Wet vergoedingen adviescolleges en commissies;
+
+Besluit:
+
+## Artikel 1 — Begripsbepalingen
+
+In deze regeling wordt verstaan onder:
+
+- *adviespanel:* Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies, bedoeld in artikel 2, eerste lid;
+- *Minister:* Minister van Sociale Zaken en Werkgelegenheid;
+- *oriënterend adviesgesprek:* adviesgesprek waar vrijblijvend om kan worden verzocht ter bespreking van een beknopt plan van aanpak voor voorgenomen activiteiten, als bedoeld in artikel 11a van de regeling;
+- *regeling:* Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies.
+
+## Artikel 2 — Instelling adviespanel
+
+1\. Er is een Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies.
+
+2\. Het adviespanel wordt ingesteld met ingang van 23 mei 2022 en wordt opgeheven met ingang van 23 mei 2028.
+
+3\. Leden van het adviespanel zijn ook na 23 mei 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in artikel 3 genoemde taken van het adviespanel.
+
+## Artikel 3 — Taken
+
+1\. Het adviespanel is belast met het beoordelen van de subsidieaanvragen, bedoeld in artikel 9 van de regeling, het voeren van de oriënterend adviesgesprekken, bedoeld in artikel 11a van de regeling.
+
+2\. Het adviespanel brengt per aanvraagtijdvak als bedoeld in artikel 6 van de regeling een advies uit aan de Minister over de subsidieaanvragen. Dit advies bevat:
+
+- a. voor iedere aanvraag een beoordeling per criterium, met toekenning van ten minste één en ten hoogste tien punten per criterium;
+- b. een voorstel voor de rangschikking van de voldoende beoordeelde aanvragen, bedoeld in artikel 11, tweede tot en met vijfde lid, van de regeling;
+- c. een overzicht van de aanvragen uit de rangschikking, bedoeld in onderdeel b, waarbij het aangevraagde subsidiebedrag naar het oordeel van het adviespanel voor ten minste 50% ziet op het doel als bedoeld in artikel 3, tweede lid, onderdeel e, van de regeling;
+- d. of er naar het oordeel van het adviespanel sprake is van aanvragen die vergelijkbaar zijn met betrekking tot de beoogde activiteiten en de verwachte kennisbijdrage, als bedoeld in artikel 15, onderdeel e, van de regeling; en
+- e. een deugdelijke motivering per beoordeling.
+
+3\. Het adviespanel voert na het tijdvak, bedoeld in artikel 11a, derde lid, van de regeling een oriënterend adviesgesprek als bedoeld in artikel 11a van de regeling over de voorgenomen activiteiten met een partij als bedoeld in artikel 13, eerste lid, van de regeling die voornemens is deel te nemen aan een samenwerkingsverband en een complete aanvraag voor het voeren van een oriënterend adviesgesprek heeft ingediend. Het oriënterend adviesgesprek wordt gevoerd op basis van:
+
+- a. de informatie, bedoeld in artikel 11a, tweede lid, van de regeling; en
+- b. hetgeen tijdens het oriënterend adviesgesprek naar voren wordt gebracht.
+
+## Artikel 4 — Termijnen
+
+1\. Het adviespanel voert de taken met betrekking tot de subsidieaanvragen, bedoeld in artikel 9 van de regeling, telkens na afloop van een aanvraagtijdvak, binnen vijftien weken uit.
+
+2\. Het adviespanel voert een oriënterend adviesgesprek, bedoeld in artikel 11a van de regeling, binnen twee tot zes weken na afloop van het tijdvak, bedoeld in artikel 11a, derde lid. Het adviespanel nodigt een partij als bedoeld in artikel 13, eerste lid, van de regeling ten minste één week van tevoren voor dat oriënterende adviesgesprek uit.
+
+## Artikel 5 — Samenstelling, benoeming en ontslag
+
+1\. Het adviespanel bestaat uit een voorzitter en ten minste twee en ten hoogste zes andere leden.
+
+2\. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
+
+3\. De voorzitter en de overige leden worden door de Minister benoemd en, in voorkomend geval, geschorst of tussentijds ontslagen.
+
+4\. De voorzitter of een ander lid kan worden geschorst of tussentijds ontslagen indien:
+
+- a. daarom door de betreffende persoon is verzocht;
+- b. het functioneren van de voorzitter of het lid daartoe aanleiding geeft; of
+- c. gebleken is dat de onafhankelijkheid van de voorzitter of het lid niet gewaarborgd is.
+
+5\. Bij tussentijds ontslag van een lid kan de Minister een ander lid benoemen.
+
+## Artikel 6 — Secretariaat
+
+1\. Het adviespanel wordt ondersteund door een secretariaat.
+
+2\. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan het adviespanel.
+
+3\. In het secretariaat wordt voorzien door de Minister.
+
+## Artikel 7 — Werkwijze
+
+1\. Het adviespanel stelt zijn eigen werkwijze vast.
+
+2\. Het adviespanel kan zich, na toestemming van de Minister, door andere personen doen bijstaan, voor zover dat voor de vervulling van zijn taak nodig is.
+
+## Artikel 8 — Informatieplicht
+
+1\. Het adviespanel verstrekt aan de Minister desgevraagd de door hem gewenste inlichtingen.
+
+2\. De Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+
+## Artikel 9 — Vergoeding
+
+Aan de voorzitter en de overige leden van het adviespanel wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van CAO rijk en de arbeidsduurfactor op 0,088.
+
+## Artikel 10 — Wijze van beraadslaging
+
+1\. Het adviespanel kan slechts besluiten nemen of adviezen vaststellen indien ten minste drie leden aanwezig zijn.
+
+2\. Bij het staken van de stemmen is de stem van de voorzitter doorslaggevend.
+
+3\. Een lid neemt niet deel aan de beoordeling van of advisering over een subsidieaanvraag of een oriënterend adviesgesprek, indien het de beoordeling van of het advies over een aanvraag of een oriënterend adviesgesprek betreft, waarbij dat lid een persoonlijk of zakelijk belang heeft. Het adviespanel kan dit lid laten vervangen.
+
+## Artikel 11 — Openbaarmaking
+
+Rapporten, notities, verslagen, adviezen en andere producten die door of namens het adviespanel worden vervaardigd of vergaard, worden niet door het adviespanel openbaar gemaakt, maar uitsluitend aan de Minister uitgebracht of overgedragen.
+
+## Artikel 12 — Archiefbescheiden
+
+Het adviespanel draagt zo spoedig mogelijk na beëindiging van zijn werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Arbeidsverhoudingen van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Artikel 13 — Inwerkingtreding en vervaldatum
+
+Deze regeling treedt in werking met ingang van 23 mei 2022 en vervalt met ingang van 23 mei 2028.
+
+## Artikel 14 — Citeertitel
+
+Dit besluit wordt aangehaald als: Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+De Minister van Sociale Zaken en Werkgelegenheid,\
+C.E.G. van Gennip

@@ -1,0 +1,2045 @@
+---
+title: "Besluit bekendmaking veiling kavels B05, B28, B29 en B34"
+identifier: "BWBR0042430"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2019-07-17
+last_amended: 2019-07-20
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0042430/2019-07-20"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/BWBR0042430_2019-07-20_0.xml"
+authority: "Economische Zaken en Klimaat"
+rechtsgebied: ["Informatierecht", "Telecomrecht"]
+retrieved: 2026-10-11
+---
+
+# Besluit bekendmaking veiling kavels B05, B28, B29 en B34
+
+*Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 17 juli 2019, nr. WJZ/19094095, handelende in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B05, B28, B29 en B34, de vaststelling van die vergunningen, en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep (Besluit bekendmaking veiling kavels B05, B28, B29 en B34)*
+
+Gelet op artikel 3.10, derde lid, van de Telecommunicatiewet, en artikel 17 van het Frequentiebesluit 2013;
+
+Besluit:
+
+## Artikel 1
+
+De vergunningen voor niet-landelijke commerciële radio in de FM-band met de daaraan, voor zover nu reeds mogelijk, te verbinden voorschriften en beperkingen, genoemd in tabel 1, worden verleend met toepassing van een veiling als bedoeld in artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet.
+
+**Tabel 1: te verdelen vergunningen**
+
+| Kavel | Bijlage | Demografisch bereik |
+| --- | --- | --- |
+| **B05** | 1 | 16,77% |
+| **B28** | 2 | 0,19% |
+| **B29** | 3 | 0,23% |
+| **B34** | 4 | 0,13% |
+
+## Artikel 2
+
+De procedure van de veiling vangt aan op 3 september 2019.
+
+## Artikel 3
+
+De vergunningen, bedoeld in artikel 1, zijn nader bestemd voor niet-landelijke commerciële radio-omroep.
+
+## Artikel 4
+
+De voorschriften en beperkingen behorende bij de aan de vergunningen, bedoeld in artikel 1, te koppelen vergunningen voor digitale radio-omroep worden, voor zover dat reeds mogelijk is, vastgesteld in bijlagen 5 en 6.
+
+## Artikel 5
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+
+## Artikel 6
+
+Dit besluit wordt aangehaald als: Besluit bekendmaking veiling kavels B05, B28, B29 en B34.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+’s-Gravenhage 17 juli 2019
+
+De Staatssecretaris van Economische Zaken en Klimaat,\
+M.C.G. Keijzer
+
+## Bijlage 1
+
+### Vergunning Kavel B05, inclusief bijbehorende bijlagen
+
+**DE STAATSSECRETARIS VAN ECONOMISCHE ZAKEN EN KLIMAAT**
+
+Gelezen de aanvraag van \<aanvrager\> te \<woonplaats\> van \<datum aanvraag\>, geregistreerd onder nummer \<registratienummer aanvraag\>;
+
+Gelet op de artikelen 3.13 en 3.14 van de Telecommunicatiewet, artikel 17 van het Frequentiebesluit 2013 en de Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017;
+
+BESLUIT:
+
+#### Artikel 1 — Begripsbepalingen
+
+In deze beschikking wordt verstaan onder:
+
+- a. *Minister:* Minister van Economische Zaken en Klimaat;
+- b. *vergunning:* vergunning als bedoeld in artikel 3.13 van de Telecommunicatiewet voor het gebruik van frequentieruimte in de band van 87,5-104,8 MHz;
+- c. *kavel:* frequentie of samenstel van frequenties, behorend bij een vergunning;
+- d. *digitale radio-omroepvergunning:* de vergunning met dossiernummer \<dossiernummer digitaal\>, allotment 8A;
+- e. *ziekenhuis:* instelling voor medisch-specialistische zorg als bedoeld in artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi;
+- f. *andere instelling:* instelling als bedoeld in artikel 6.24 van de Mediawet 2008 die houder is van een andere vergunning dan deze vergunning, of een instelling als bedoeld in artikel 6.24 van de Mediawet 2008 die geen houder is van een vergunning en die instelling op grond van artikel 22 van het Mediabesluit 2008 tezamen met een instelling die wel beschikt over een andere vergunning dan deze vergunning wordt aangemerkt als één instelling;
+- g. *commerciële radio-omroep:* radio-omroep als bedoeld in artikel 1.1, eerste lid, van de Mediawet 2008 die wordt verzorgd door een commerciële media-instelling als bedoeld in artikel 1.1, eerste lid, van die wet;
+- h. *niet-landelijke commerciële radio-omroep:* commerciële radio-omroep via FM-frequenties waarvoor op grond van artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 gebruiksvoorschriften gelden;
+- i. *Regeling:* Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017.
+
+#### Artikel 2 — Gebruiksrecht
+
+- 1. Aan \<aanvrager\>, ingeschreven in het handelsregister onder nummer \<KvK-nummer\>, hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, ten behoeve van niet-landelijke commerciële radio-omroep (kavel B05).
+- 2. De vergunninghouder neemt de in de bijlagen genoemde frequenties binnen drie maanden na inwerkingtreding van deze vergunning in gebruik en houdt deze in gebruik. Op frequenties die hetzelfde SFN-ID hebben en gemarkeerd zijn als gesynchroniseerd of als netgebonden, zendt de vergunninghouder, behoudens reclame, hetzelfde radioprogramma uit.
+- 3. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
+
+#### Artikel 3 — Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+
+- 1. De vergunninghouder veroorzaakt:
+  - a. geen ontoelaatbare belemmeringen door het gewenste signaal van radioapparaten in andere radioapparaten of in elektrische of elektronische inrichtingen, en
+  - b. in het frequentiegebied van 100 kHz tot en met 2,5 GHz in ziekenhuizen, alsmede op de percelen waar deze ziekenhuizen staan, geen piekwaarde van de elektrische veldsterkte die gelijk is aan of hoger is dan 5,4 volt per meter.
+- 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
+
+#### Artikel 4 — Nederlandse of Friese taal
+
+Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
+
+#### Artikel 5 — Wijzigingen betreffende verbondenheid
+
+- 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
+  - a. wijzigingen in de zeggenschap of feitelijke invloed die andere instellingen direct of indirect op het beleid van de vergunninghouder kunnen uitoefenen;
+  - b. wijzigingen in de zeggenschap of feitelijke invloed die de vergunninghouder direct of indirect kan uitoefenen op het beleid van andere instellingen;
+  - c. wijzigingen in de zeggenschap of feitelijke invloed die natuurlijke personen direct of indirect kunnen uitoefenen op het beleid van de vergunninghouder, indien die natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed hebben dat zij in belangrijke mate het beleid van een andere instelling kunnen bepalen of aanmerkelijke invloed hebben op de inhoud van dat beleid, en
+  - d. wijzigingen in de zeggenschap of feitelijke invloed die natuurlijke personen direct of indirect kunnen uitoefenen op het beleid van een andere instelling, indien die natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed hebben dat zij in belangrijke mate het beleid van de vergunninghouder kunnen bepalen of aanmerkelijke invloed hebben op de inhoud van dat beleid.
+- 2. In afwijking van het eerste lid, is de vergunninghouder niet verplicht informatie te verstrekken voor zover die informatie betrekking heeft op:
+  - a. het kunnen uitoefenen van zeggenschap of feitelijke invloed op of door instellingen ten aanzien waarvan hij aan Agentschap Telecom schriftelijk en zonder enig voorbehoud heeft verklaard dat hij met die instellingen één instelling vormt als bedoeld in artikel 6.24 van de Mediawet 2008, of
+  - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op instellingen als bedoeld in artikel 6.24 van de Mediawet 2008 die onder de verklaring, bedoeld in onderdeel a, vallen.
+
+#### Artikel 6 — Correspondentie
+
+Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
+
+#### Artikel 7 — Duur van de vergunning
+
+Deze vergunning treedt in werking op \<de dag na verzending\> en eindigt:
+
+- a. op de dag waarop de vergunninghouder niet langer tevens houder is van de digitale radio-omroepvergunning;
+- b. 12 maanden na inwerkingtreding van deze vergunning, tenzij dan 60% of meer van de frequenties, bedoeld in de bijlagen, in gebruik zijn genomen op de in de bijlagen van deze vergunning voorgeschreven opstelplaatsen, behalve indien een of meer frequenties niet in gebruik zijn genomen vanwege een stroomstoring van het landelijk hoogspanningsnet of de regionale distributienetten, diefstal, brand of natuurgeweld;
+- c. in elk geval uiterlijk op 31 augustus 2022.
+
+*\<\<Deze beschikking wordt in de Staatscourant geplaatst, met uitzondering van de bijlagen.\>\>*
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+| | |
+| --- | --- |
+| Kavel | B05 |
+| Dossiernummer | |
+| Datum | |
+| Aantal bladen | 1 van 11 |
+
+**Samenstelling Kavel B05**
+
+| Opstelplaats | Frequentie | Vermogen (ERP) |
+| --- | --- | --- |
+| ALKMAAR | 95.4 MHz | 0.501 kW |
+| DEN HAAG | 95.6 MHz | 0.955 kW |
+| AMSTERDAM | 95.7 MHz | 6.31 kW |
+| ZOETERMEER | 95.7 MHz | 0.200 kW |
+| ALPHEN | 95.9 MHz | 4.51 kW |
+| GOUDA | 95.9 MHz | 0.501 kW |
+| ALMERE | 95.9 MHz | 0.398 kW |
+| HILVERSUM | 95.9 MHz | 0.100 kW |
+| NAALDWIJK | 96.0 MHz | 0.316 kW |
+| UTRECHT | 103.4 MHz | 0.050 kW |
+
+**Toelichting bij punt 5:**
+
+Onder punt 5 van de bijlage A zijn restricties opgenomen voor omroepzenders ten behoeve van het voorkomen van storing in de luchtvaartband 108 MHz – 118 MHz. De onderdrukking van ongewenste uitstraling in de luchtvaartband dient minimaal de waarde aangegeven in dBc te bedragen voor de gehele zendinstallatie.
+
+De verticale apertuur van het antennesysteem in golflengtes dient minimaal de waarde aangegeven in λ te zijn. Indien er geen waarde(n) vermeld staan, gelden er geen aanvullende eisen met betrekking tot de bescherming van de luchtvaartband.
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">2 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>ALKMAAR 95.4 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">ALKMAAR</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>004E46 03.4</td><td>/</td><td>52N37 03.6</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">50 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">– 4 meter</td></tr>
+<tr><td><b>2</b></td><td colspan="4">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="3">95.4 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="3">0.501 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="3">0.501 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="3">Niet gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="3">NETGEBONDEN B5</td></tr>
+<tr><td></td><td>System</td><td colspan="2">4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="3">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="3">300KF9E</td></tr>
+<tr><td><b>3</b></td><td colspan="4">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td colspan="3">Ja</td></tr>
+<tr><td><b>4</b></td><td>Gegevens m.b.t. antennesysteem</td><td colspan="3"></td></tr>
+</table>
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>0.0</td><td>180.0</td><td>5.0</td></tr>
+<tr><td>10.0</td><td>0.0</td><td>190.0</td><td>5.0</td></tr>
+<tr><td>20.0</td><td>0.0</td><td>200.0</td><td>2.0</td></tr>
+<tr><td>30.0</td><td>4.0</td><td>210.0</td><td>0.0</td></tr>
+<tr><td>40.0</td><td>4.0</td><td>220.0</td><td>0.0</td></tr>
+<tr><td>50.0</td><td>6.0</td><td>230.0</td><td>0.0</td></tr>
+<tr><td>60.0</td><td>6.0</td><td>240.0</td><td>0.0</td></tr>
+<tr><td>70.0</td><td>6.0</td><td>250.0</td><td>0.0</td></tr>
+<tr><td>80.0</td><td>3.0</td><td>260.0</td><td>2.0</td></tr>
+<tr><td>90.0</td><td>3.0</td><td>270.0</td><td>2.0</td></tr>
+<tr><td>100.0</td><td>5.0</td><td>280.0</td><td>0.0</td></tr>
+<tr><td>110.0</td><td>5.0</td><td>290.0</td><td>0.0</td></tr>
+<tr><td>120.0</td><td>5.0</td><td>300.0</td><td>0.0</td></tr>
+<tr><td>130.0</td><td>3.0</td><td>310.0</td><td>0.0</td></tr>
+<tr><td>140.0</td><td>3.0</td><td>320.0</td><td>0.0</td></tr>
+<tr><td>150.0</td><td>3.0</td><td>330.0</td><td>0.0</td></tr>
+<tr><td>160.0</td><td>4.0</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>5.0</td><td>350.0</td><td>0.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262827.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><td rowspan="2"><b>5</b></td><td colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</td></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>86 dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>Λ</td></tr>
+</table>
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">3 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>DEN HAAG 95.6 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">DEN HAAG</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>004E18 51.0</td><td>/</td><td>52N02 04.4</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">82 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">0 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">95.6 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.955 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="2">0.955 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">B5</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>0.0</td><td>180.0</td><td>10.0</td></tr>
+<tr><td>10.0</td><td>0.0</td><td>190.0</td><td>10.0</td></tr>
+<tr><td>20.0</td><td>0.0</td><td>200.0</td><td>10.0</td></tr>
+<tr><td>30.0</td><td>0.0</td><td>210.0</td><td>10.0</td></tr>
+<tr><td>40.0</td><td>3.0</td><td>220.0</td><td>10.0</td></tr>
+<tr><td>50.0</td><td>6.0</td><td>230.0</td><td>10.0</td></tr>
+<tr><td>60.0</td><td>8.0</td><td>240.0</td><td>10.0</td></tr>
+<tr><td>70.0</td><td>10.0</td><td>250.0</td><td>9.0</td></tr>
+<tr><td>80.0</td><td>10.0</td><td>260.0</td><td>8.0</td></tr>
+<tr><td>90.0</td><td>10.0</td><td>270.0</td><td>7.0</td></tr>
+<tr><td>100.0</td><td>10.0</td><td>280.0</td><td>7.0</td></tr>
+<tr><td>110.0</td><td>10.0</td><td>290.0</td><td>5.0</td></tr>
+<tr><td>120.0</td><td>10.0</td><td>300.0</td><td>2.0</td></tr>
+<tr><td>130.0</td><td>10.0</td><td>310.0</td><td>0.0</td></tr>
+<tr><td>140.0</td><td>10.0</td><td>320.0</td><td>0.0</td></tr>
+<tr><td>150.0</td><td>12.0</td><td>330.0</td><td>0.0</td></tr>
+<tr><td>160.0</td><td>12.0</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>12.0</td><td>350.0</td><td>0.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262828.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><td rowspan="2"><b>5</b></td><td colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</td></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>λ</td></tr>
+</table>
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">4 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>AMSTERDAM 95.7 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">AMSTERDAM</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>004E53 14.5</td><td>/</td><td>52N20 11.0</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">113 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">– 3 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">95.7 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">6.31 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="2">6.31 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">B5</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>0.0</td><td>180.0</td><td>25.0</td></tr>
+<tr><td>10.0</td><td>0.0</td><td>190.0</td><td>25.0</td></tr>
+<tr><td>20.0</td><td>0.0</td><td>200.0</td><td>25.0</td></tr>
+<tr><td>30.0</td><td>3.0</td><td>210.0</td><td>25.0</td></tr>
+<tr><td>40.0</td><td>5.0</td><td>220.0</td><td>25.0</td></tr>
+<tr><td>50.0</td><td>10.0</td><td>230.0</td><td>25.0</td></tr>
+<tr><td>60.0</td><td>20.0</td><td>240.0</td><td>2.0</td></tr>
+<tr><td>70.0</td><td>25.0</td><td>250.0</td><td>0.0</td></tr>
+<tr><td>80.0</td><td>25.0</td><td>260.0</td><td>0.0</td></tr>
+<tr><td>90.0</td><td>25.0</td><td>270.0</td><td>0.0</td></tr>
+<tr><td>100.0</td><td>25.0</td><td>280.0</td><td>0.0</td></tr>
+<tr><td>110.0</td><td>25.0</td><td>290.0</td><td>0.0</td></tr>
+<tr><td>120.0</td><td>25.0</td><td>300.0</td><td>0.0</td></tr>
+<tr><td>130.0</td><td>25.0</td><td>310.0</td><td>0.0</td></tr>
+<tr><td>140.0</td><td>25.0</td><td>320.0</td><td>0.0</td></tr>
+<tr><td>150.0</td><td>25.0</td><td>330.0</td><td>0.0</td></tr>
+<tr><td>160.0</td><td>25.0</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>25.0</td><td>350.0</td><td>0.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262829.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><td rowspan="2"><b>5</b></td><td colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</td></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>80 dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>Λ</td></tr>
+</table>
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossier nummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">5 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>ZOETERMEER 95.7 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">ZOETERMEER</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>004E31 29.6</td><td>/</td><td>52N03 11.2</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">60 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">– 5 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">95.7 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.200 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="2">0.200 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">B5</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>0.9</td><td>180.0</td><td>34.0</td></tr>
+<tr><td>10.0</td><td>1.6</td><td>190.0</td><td>40.0</td></tr>
+<tr><td>20.0</td><td>2.6</td><td>200.0</td><td>40.0</td></tr>
+<tr><td>30.0</td><td>3.9</td><td>210.0</td><td>40.0</td></tr>
+<tr><td>40.0</td><td>5.5</td><td>220.0</td><td>34.0</td></tr>
+<tr><td>50.0</td><td>8.6</td><td>230.0</td><td>26.0</td></tr>
+<tr><td>60.0</td><td>11.7</td><td>240.0</td><td>20.9</td></tr>
+<tr><td>70.0</td><td>15.9</td><td>250.0</td><td>15.9</td></tr>
+<tr><td>80.0</td><td>20.9</td><td>260.0</td><td>11.7</td></tr>
+<tr><td>90.0</td><td>26.0</td><td>270.0</td><td>8.6</td></tr>
+<tr><td>100.0</td><td>34.0</td><td>280.0</td><td>5.5</td></tr>
+<tr><td>110.0</td><td>40.0</td><td>290.0</td><td>3.9</td></tr>
+<tr><td>120.0</td><td>40.0</td><td>300.0</td><td>2.6</td></tr>
+<tr><td>130.0</td><td>40.0</td><td>310.0</td><td>1.6</td></tr>
+<tr><td>140.0</td><td>34.0</td><td>320.0</td><td>0.9</td></tr>
+<tr><td>150.0</td><td>34.0</td><td>330.0</td><td>0.2</td></tr>
+<tr><td>160.0</td><td>34.0</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>34.0</td><td>350.0</td><td>0.2</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262830.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><td rowspan="2"><b>5</b></td><td colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</td></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>80 dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>Λ</td></tr>
+</table>
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">6 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>ALPHEN 95.9 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">ALPHEN</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>004E38 46.9</td><td>/</td><td>52N08 13.4</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">106 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">– 2 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">95.9 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">4.51 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="2">4.51 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">B5</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>2.0</td><td>180.0</td><td>28.0</td></tr>
+<tr><td>10.0</td><td>3.0</td><td>190.0</td><td>29.0</td></tr>
+<tr><td>20.0</td><td>2.0</td><td>200.0</td><td>29.0</td></tr>
+<tr><td>30.0</td><td>4.0</td><td>210.0</td><td>29.0</td></tr>
+<tr><td>40.0</td><td>6.0</td><td>220.0</td><td>27.0</td></tr>
+<tr><td>50.0</td><td>8.0</td><td>230.0</td><td>23.0</td></tr>
+<tr><td>60.0</td><td>10.0</td><td>240.0</td><td>21.0</td></tr>
+<tr><td>70.0</td><td>12.0</td><td>250.0</td><td>20.0</td></tr>
+<tr><td>80.0</td><td>14.0</td><td>260.0</td><td>18.0</td></tr>
+<tr><td>90.0</td><td>16.0</td><td>270.0</td><td>16.0</td></tr>
+<tr><td>100.0</td><td>18.0</td><td>280.0</td><td>14.0</td></tr>
+<tr><td>110.0</td><td>20.0</td><td>290.0</td><td>10.0</td></tr>
+<tr><td>120.0</td><td>22.0</td><td>300.0</td><td>8.0</td></tr>
+<tr><td>130.0</td><td>23.0</td><td>310.0</td><td>4.0</td></tr>
+<tr><td>140.0</td><td>24.0</td><td>320.0</td><td>1.0</td></tr>
+<tr><td>150.0</td><td>25.0</td><td>330.0</td><td>0.0</td></tr>
+<tr><td>160.0</td><td>25.0</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>26.0</td><td>350.0</td><td>0.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262831.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><td rowspan="2"><b>5</b></td><td colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</td></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>λ</td></tr>
+</table>
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">7 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>GOUDA 95.9 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">GOUDA</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>004E45 07.7</td><td>/</td><td>52N00 07.8</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">45 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">0 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">95.9 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.501 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="2">0.501 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">B5</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>0.0</td><td>180.0</td><td>10.0</td></tr>
+<tr><td>10.0</td><td>0.0</td><td>190.0</td><td>10.0</td></tr>
+<tr><td>20.0</td><td>0.0</td><td>200.0</td><td>18.0</td></tr>
+<tr><td>30.0</td><td>0.0</td><td>210.0</td><td>19.0</td></tr>
+<tr><td>40.0</td><td>0.0</td><td>220.0</td><td>19.0</td></tr>
+<tr><td>50.0</td><td>0.0</td><td>230.0</td><td>17.0</td></tr>
+<tr><td>60.0</td><td>0.0</td><td>240.0</td><td>12.0</td></tr>
+<tr><td>70.0</td><td>8.0</td><td>250.0</td><td>9.0</td></tr>
+<tr><td>80.0</td><td>8.0</td><td>260.0</td><td>5.0</td></tr>
+<tr><td>90.0</td><td>4.0</td><td>270.0</td><td>5.0</td></tr>
+<tr><td>100.0</td><td>4.0</td><td>280.0</td><td>0.0</td></tr>
+<tr><td>110.0</td><td>4.0</td><td>290.0</td><td>0.0</td></tr>
+<tr><td>120.0</td><td>3.0</td><td>300.0</td><td>0.0</td></tr>
+<tr><td>130.0</td><td>7.0</td><td>310.0</td><td>0.0</td></tr>
+<tr><td>140.0</td><td>8.0</td><td>320.0</td><td>0.0</td></tr>
+<tr><td>150.0</td><td>10.2</td><td>330.0</td><td>0.0</td></tr>
+<tr><td>160.0</td><td>10.2</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>10.0</td><td>350.0</td><td>0.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262832.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><th rowspan="2"><b>5</b></th><th colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</th></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>80 dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>Λ</td></tr>
+</table>
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">8 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>ALMERE 95.9 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">ALMERE</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>005E13 06.4</td><td>/</td><td>52N22 33.6</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">70 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">– 4 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">95.9 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.398 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="2">0.398 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">B5</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>0.4</td><td>180.0</td><td>17.7</td></tr>
+<tr><td>10.0</td><td>0.8</td><td>190.0</td><td>17.7</td></tr>
+<tr><td>20.0</td><td>1.4</td><td>200.0</td><td>17.1</td></tr>
+<tr><td>30.0</td><td>2.4</td><td>210.0</td><td>16.5</td></tr>
+<tr><td>40.0</td><td>3.5</td><td>220.0</td><td>14.9</td></tr>
+<tr><td>50.0</td><td>5.0</td><td>230.0</td><td>12.8</td></tr>
+<tr><td>60.0</td><td>6.7</td><td>240.0</td><td>10.8</td></tr>
+<tr><td>70.0</td><td>8.6</td><td>250.0</td><td>8.6</td></tr>
+<tr><td>80.0</td><td>10.8</td><td>260.0</td><td>6.7</td></tr>
+<tr><td>90.0</td><td>12.8</td><td>270.0</td><td>5.0</td></tr>
+<tr><td>100.0</td><td>14.9</td><td>280.0</td><td>3.5</td></tr>
+<tr><td>110.0</td><td>16.5</td><td>290.0</td><td>2.4</td></tr>
+<tr><td>120.0</td><td>17.1</td><td>300.0</td><td>1.4</td></tr>
+<tr><td>130.0</td><td>17.7</td><td>310.0</td><td>0.8</td></tr>
+<tr><td>140.0</td><td>17.7</td><td>320.0</td><td>0.4</td></tr>
+<tr><td>150.0</td><td>17.7</td><td>330.0</td><td>0.1</td></tr>
+<tr><td>160.0</td><td>17.7</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>17.7</td><td>350.0</td><td>0.1</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262833.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><th rowspan="2"><b>5</b></th><th colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</th></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>80 dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>Λ</td></tr>
+</table>
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">9 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>HILVERSUM 95.9 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">HILVERSUM</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>005E09 52.2</td><td>/</td><td>52N14 33.6</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">100 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">9 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">95.9 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.100 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="2">0.100 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">B5</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>4.0</td><td>180.0</td><td>8.0</td></tr>
+<tr><td>10.0</td><td>8.0</td><td>190.0</td><td>8.0</td></tr>
+<tr><td>20.0</td><td>7.0</td><td>200.0</td><td>8.0</td></tr>
+<tr><td>30.0</td><td>3.0</td><td>210.0</td><td>8.0</td></tr>
+<tr><td>40.0</td><td>3.0</td><td>220.0</td><td>3.0</td></tr>
+<tr><td>50.0</td><td>3.0</td><td>230.0</td><td>3.0</td></tr>
+<tr><td>60.0</td><td>3.0</td><td>240.0</td><td>3.0</td></tr>
+<tr><td>70.0</td><td>8.0</td><td>250.0</td><td>3.0</td></tr>
+<tr><td>80.0</td><td>8.0</td><td>260.0</td><td>3.0</td></tr>
+<tr><td>90.0</td><td>8.0</td><td>270.0</td><td>0.0</td></tr>
+<tr><td>100.0</td><td>8.0</td><td>280.0</td><td>0.0</td></tr>
+<tr><td>110.0</td><td>8.0</td><td>290.0</td><td>0.0</td></tr>
+<tr><td>120.0</td><td>8.0</td><td>300.0</td><td>0.0</td></tr>
+<tr><td>130.0</td><td>8.0</td><td>310.0</td><td>0.0</td></tr>
+<tr><td>140.0</td><td>8.0</td><td>320.0</td><td>3.0</td></tr>
+<tr><td>150.0</td><td>8.0</td><td>330.0</td><td>3.0</td></tr>
+<tr><td>160.0</td><td>8.0</td><td>340.0</td><td>3.0</td></tr>
+<tr><td>170.0</td><td>8.0</td><td>350.0</td><td>3.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262834.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><th rowspan="2"><b>5</b></th><th colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</th></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>93 dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>Λ</td></tr>
+</table>
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">10 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>NAALDWIJK 96.0 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">NAALDWIJK</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>004E12 38.0</td><td>/</td><td>52N00 05.3</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">50 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">0 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">96.0 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.316 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="2">0.316 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Niet gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">NETGEBONDEN B5</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>8.6</td><td>180.0</td><td>26.0</td></tr>
+<tr><td>10.0</td><td>11.7</td><td>190.0</td><td>20.9</td></tr>
+<tr><td>20.0</td><td>15.9</td><td>200.0</td><td>15.9</td></tr>
+<tr><td>30.0</td><td>20.9</td><td>210.0</td><td>11.7</td></tr>
+<tr><td>40.0</td><td>26.0</td><td>220.0</td><td>8.6</td></tr>
+<tr><td>50.0</td><td>34.0</td><td>230.0</td><td>5.5</td></tr>
+<tr><td>60.0</td><td>40.0</td><td>240.0</td><td>3.9</td></tr>
+<tr><td>70.0</td><td>40.0</td><td>250.0</td><td>2.6</td></tr>
+<tr><td>80.0</td><td>40.0</td><td>260.0</td><td>1.6</td></tr>
+<tr><td>90.0</td><td>34.0</td><td>270.0</td><td>0.9</td></tr>
+<tr><td>100.0</td><td>34.0</td><td>280.0</td><td>0.2</td></tr>
+<tr><td>110.0</td><td>34.0</td><td>290.0</td><td>0.0</td></tr>
+<tr><td>120.0</td><td>34.0</td><td>300.0</td><td>0.2</td></tr>
+<tr><td>130.0</td><td>34.0</td><td>310.0</td><td>0.9</td></tr>
+<tr><td>140.0</td><td>40.0</td><td>320.0</td><td>1.6</td></tr>
+<tr><td>150.0</td><td>40.0</td><td>330.0</td><td>2.6</td></tr>
+<tr><td>160.0</td><td>40.0</td><td>340.0</td><td>3.9</td></tr>
+<tr><td>170.0</td><td>34.0</td><td>350.0</td><td>5.5</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262835.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><th rowspan="2"><b>5</b></th><th colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</th></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>80 dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>Λ</td></tr>
+</table>
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B05</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">11 van 11</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>UTRECHT 103.4 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">UTRECHT</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>005E08 36.0</td><td>/</td><td>52N04 41.0</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">100 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">1 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">103.4 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.050 kW</td></tr>
+<tr><td></td><td>ERPmax vertical</td><td colspan="2">0.050 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Niet gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2"></td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>0.0</td><td>180.0</td><td>11.0</td></tr>
+<tr><td>10.0</td><td>0.0</td><td>190.0</td><td>11.0</td></tr>
+<tr><td>20.0</td><td>1.3</td><td>200.0</td><td>11.0</td></tr>
+<tr><td>30.0</td><td>2.3</td><td>210.0</td><td>10.0</td></tr>
+<tr><td>40.0</td><td>2.3</td><td>220.0</td><td>2.0</td></tr>
+<tr><td>50.0</td><td>11.3</td><td>230.0</td><td>0.0</td></tr>
+<tr><td>60.0</td><td>11.3</td><td>240.0</td><td>0.0</td></tr>
+<tr><td>70.0</td><td>11.3</td><td>250.0</td><td>0.0</td></tr>
+<tr><td>80.0</td><td>11.3</td><td>260.0</td><td>0.0</td></tr>
+<tr><td>90.0</td><td>11.3</td><td>270.0</td><td>0.0</td></tr>
+<tr><td>100.0</td><td>11.3</td><td>280.0</td><td>0.0</td></tr>
+<tr><td>110.0</td><td>11.0</td><td>290.0</td><td>0.0</td></tr>
+<tr><td>120.0</td><td>11.0</td><td>300.0</td><td>0.0</td></tr>
+<tr><td>130.0</td><td>11.0</td><td>310.0</td><td>0.0</td></tr>
+<tr><td>140.0</td><td>11.0</td><td>320.0</td><td>0.0</td></tr>
+<tr><td>150.0</td><td>11.0</td><td>330.0</td><td>0.0</td></tr>
+<tr><td>160.0</td><td>11.0</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>11.0</td><td>350.0</td><td>0.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262836.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><td rowspan="2"><b>5</b></td><td colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</td></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>λ</td></tr>
+</table>
+
+### Bijlage B — Behorend bij artikel 2, derde lid, van de vergunning
+
+De vergunninghouder zendt uit binnen het in figuur 1 bedoelde masker (gemeten volgens de procedure zoals vermeld in Annex 1 van ITU-R SM 1268-4).
+
+In tabel 1 is dit masker in een tabel vorm weergegeven.
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262837.png)
+
+Figuur 1: Spectrummasker voor FM-uitzendingen.
+
+Bron: ITU-R SM 1268-4
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262838.png)
+
+Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.
+
+Bron: ITU-R SM 1268-4
+
+### Bijlage C — Behorend bij artikel 2, derde lid, van de vergunning
+
+De frequentieplanning en de berekening van het theoretische verzorgingsgebied (het zogenaamde groene gebied) van FM-omroepfrequenties van 87,6 MHz tot en met 104,8 MHz geschiedt op basis van onderstaande zerobase norm die is gebruikt bij de uitgifte van deze vergunningen in 2003 en nadien.
+
+<table>
+<tr><th></th><th colspan="2">Parameter</th></tr>
+<tr><td>Propagatiemodel</td><td colspan="2">ITU Recommendation 370 met TCA en morfografie</td></tr>
+<tr><td>Ontvangstantenne</td><td colspan="2">Non-directief</td></tr>
+<tr><td>Hoogte ontvangstantenne</td><td colspan="2">1,5 meter; met een morfografisch afhankelijke correctie om van 10 meter naar 1,5 meter om te rekenen</td></tr>
+<tr><td>Polarisatiediscriminatie</td><td colspan="2">Geen</td></tr>
+<tr><td>Gewenst signaalniveau</td><td colspan="2">50% plaats<br>50% tijd</td></tr>
+<tr><td>Ongewenst signaalniveau</td><td colspan="2">50% plaats<br>10% tijd &amp; 50% tijd (worst case)</td></tr>
+<tr><td>Terrein-oneffenheid</td><td colspan="2">Terrain Clearance Angle (TCA) conform ITU rec. 370-7</td></tr>
+<tr><td>Protectieverhoudingen conventioneel geplande zenders voor respectievelijk continue / troposferische storing</td><td>0 kHz<br>100 kHz<br>200 kHz<br>300 kHz<br>400 kHz</td><td>40 dB / 32 dB<br>30 dB / 22 dB<br>– 2 dB<br>– 15 dB<br>– 25 dB</td></tr>
+<tr><td>Protectieverhoudingen voor SFN en NSF geplande zenders</td><td>0 kHz<br>100 kHz<br>200 kHz<br>300 kHz<br>400 kHz</td><td>2. 25 dB (afhankelijk van looptijd)<br>5 dB<br>– 5 dB<br>– 15 dB<br>– 25 dB</td></tr>
+<tr><td>Berekening interferentie</td><td colspan="2">Methode sterkste stoorder</td></tr>
+<tr><td>Ontvangst</td><td colspan="2">Stereo</td></tr>
+<tr><td>Minimum bruikbare veldsterkte</td><td colspan="2">37 tot 43,5 dBµV/meter op 1,5 meter hoogte; afhankelijk van de morfografie</td></tr>
+</table>
+
+## Bijlage 2
+
+### Vergunning Kavel B28, inclusief bijbehorende bijlagen
+
+**DE STAATSSECRETARIS VAN ECONOMISCHE ZAKEN EN KLIMAAT**
+
+Gelezen de aanvraag van \<aanvrager\> te \<woonplaats\> van \<datum aanvraag\>, geregistreerd onder nummer \<registratienummer aanvraag\>;
+
+Gelet op de artikelen 3.13 en 3.14 van de Telecommunicatiewet, artikel 17 van het Frequentiebesluit 2013 en de Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017;
+
+BESLUIT:
+
+#### Artikel 1 — Begripsbepalingen
+
+In deze beschikking wordt verstaan onder:
+
+- a. *Minister:* Minister van Economische Zaken en Klimaat;
+- b. *vergunning:* vergunning als bedoeld in artikel 3.13 van de Telecommunicatiewet voor het gebruik van frequentieruimte in de band van 87,5-104,8 MHz;
+- c. *kavel:* frequentie of samenstel van frequenties, behorend bij een vergunning;
+- d. *digitale radio-omroepvergunning:* de vergunning met dossiernummer \<dossiernummer digitaal\>, allotment 6B;
+- e. *ziekenhuis:* instelling voor medisch-specialistische zorg als bedoeld in artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi;
+- f. *andere instelling:* instelling als bedoeld in artikel 6.24 van de Mediawet 2008 die houder is van een andere vergunning dan deze vergunning, of een instelling als bedoeld in artikel 6.24 van de Mediawet 2008 die geen houder is van een vergunning en die instelling op grond van artikel 22 van het Mediabesluit 2008 tezamen met een instelling die wel beschikt over een andere vergunning dan deze vergunning wordt aangemerkt als één instelling;
+- g. *commerciële radio-omroep:* radio-omroep als bedoeld in artikel 1.1, eerste lid, van de Mediawet 2008 die wordt verzorgd door een commerciële media-instelling als bedoeld in artikel 1.1, eerste lid, van die wet;
+- h. *niet-landelijke commerciële radio-omroep:* commerciële radio-omroep via FM-frequenties waarvoor op grond van artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 gebruiksvoorschriften gelden;
+- i. *Regeling:* Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017.
+
+#### Artikel 2 — Gebruiksrecht
+
+- 1. Aan \<aanvrager\>, ingeschreven in het handelsregister onder nummer \<KvK-nummer\>, hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, ten behoeve van niet-landelijke commerciële radio-omroep (kavel B28).
+- 2. De vergunninghouder neemt de in de bijlagen genoemde frequenties binnen drie maanden na inwerkingtreding van deze vergunning in gebruik en houdt deze in gebruik. Op frequenties die hetzelfde SFN-ID hebben en gemarkeerd zijn als gesynchroniseerd of als netgebonden, zendt de vergunninghouder, behoudens reclame, hetzelfde radioprogramma uit.
+- 3. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
+
+#### Artikel 3 — Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+
+- 1. De vergunninghouder veroorzaakt:
+  - a. geen ontoelaatbare belemmeringen door het gewenste signaal van radioapparaten in andere radioapparaten of in elektrische of elektronische inrichtingen, en
+  - b. in het frequentiegebied van 100 kHz tot en met 2,5 GHz in ziekenhuizen, alsmede op de percelen waar deze ziekenhuizen staan, geen piekwaarde van de elektrische veldsterkte die gelijk is aan of hoger is dan 5,4 volt per meter.
+- 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
+
+#### Artikel 4 — Nederlandse of Friese taal
+
+Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
+
+#### Artikel 5 — Wijzigingen betreffende verbondenheid
+
+- 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
+  - a. wijzigingen in de zeggenschap of feitelijke invloed die andere instellingen direct of indirect op het beleid van de vergunninghouder kunnen uitoefenen;
+  - b. wijzigingen in de zeggenschap of feitelijke invloed die de vergunninghouder direct of indirect kan uitoefenen op het beleid van andere instellingen;
+  - c. wijzigingen in de zeggenschap of feitelijke invloed die natuurlijke personen direct of indirect kunnen uitoefenen op het beleid van de vergunninghouder, indien die natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed hebben dat zij in belangrijke mate het beleid van een andere instelling kunnen bepalen of aanmerkelijke invloed hebben op de inhoud van dat beleid, en
+  - d. wijzigingen in de zeggenschap of feitelijke invloed die natuurlijke personen direct of indirect kunnen uitoefenen op het beleid van een andere instelling, indien die natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed hebben dat zij in belangrijke mate het beleid van de vergunninghouder kunnen bepalen of aanmerkelijke invloed hebben op de inhoud van dat beleid.
+- 2. In afwijking van het eerste lid, is de vergunninghouder niet verplicht informatie te verstrekken voor zover die informatie betrekking heeft op:
+  - a. het kunnen uitoefenen van zeggenschap of feitelijke invloed op of door instellingen ten aanzien waarvan hij aan Agentschap Telecom schriftelijk en zonder enig voorbehoud heeft verklaard dat hij met die instellingen één instelling vormt als bedoeld in artikel 6.24 van de Mediawet 2008, of
+  - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op instellingen als bedoeld in artikel 6.24 van de Mediawet 2008 die onder de verklaring, bedoeld in onderdeel a, vallen.
+
+#### Artikel 6 — Correspondentie
+
+Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
+
+#### Artikel 7 — Duur van de vergunning
+
+Deze vergunning treedt in werking op \<de dag na verzending\> en eindigt:
+
+- a. op de dag waarop de vergunninghouder niet langer tevens houder is van de digitale radio-omroepvergunning;
+- b. 12 maanden na inwerkingtreding van deze vergunning, tenzij dan 60% of meer van de frequenties, bedoeld in de bijlagen, in gebruik zijn genomen op de in de bijlagen van deze vergunning voorgeschreven opstelplaatsen, behalve indien een of meer frequenties niet in gebruik zijn genomen vanwege een stroomstoring van het landelijk hoogspanningsnet of de regionale distributienetten, diefstal, brand of natuurgeweld;
+- c. in elk geval uiterlijk op 31 augustus 2022.
+
+*\<\<Deze beschikking wordt in de Staatscourant geplaatst, met uitzondering van de bijlagen.\>\>*
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+| | |
+| --- | --- |
+| Kavel | B28 |
+| Dossiernummer | |
+| Datum | |
+| Aantal bladen | 1 van 2 |
+
+**Samenstelling Kavel B28**
+
+| Opstelplaats | Frequentie | Vermogen (ERP) |
+| --- | --- | --- |
+| DEVENTER | 89.9 MHz | 0.631 kW |
+
+**Toelichting bij punt 5:**
+
+Onder punt 5 van de bijlage A zijn restricties opgenomen voor omroepzenders ten behoeve van het voorkomen van storing in de luchtvaartband 108 MHz – 118 MHz. De onderdrukking van ongewenste uitstraling in de luchtvaartband dient minimaal de waarde aangegeven in dBc te bedragen voor de gehele zendinstallatie.
+
+De verticale apertuur van het antennesysteem in golflengtes dient minimaal de waarde aangegeven in λ te zijn. Indien er geen waarde(n) vermeld staan, gelden er geen aanvullende eisen met betrekking tot de bescherming van de luchtvaartband.
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B28</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">2 van 2</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>DEVENTER 89.9 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">DEVENTER</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>006E10 23.0</td><td>/</td><td>52N14 09.0</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">50 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">5 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">89.9 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.631 kW</td></tr>
+<tr><td></td><td>ERPmax verticaal</td><td colspan="2">0.631 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Niet gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">–</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>0.0</td><td>180.0</td><td>0.0</td></tr>
+<tr><td>10.0</td><td>0.0</td><td>190.0</td><td>1.0</td></tr>
+<tr><td>20.0</td><td>7.0</td><td>200.0</td><td>3.0</td></tr>
+<tr><td>30.0</td><td>8.0</td><td>210.0</td><td>3.0</td></tr>
+<tr><td>40.0</td><td>8.0</td><td>220.0</td><td>3.0</td></tr>
+<tr><td>50.0</td><td>6.0</td><td>230.0</td><td>0.0</td></tr>
+<tr><td>60.0</td><td>0.0</td><td>240.0</td><td>0.0</td></tr>
+<tr><td>70.0</td><td>0.0</td><td>250.0</td><td>2.0</td></tr>
+<tr><td>80.0</td><td>0.0</td><td>260.0</td><td>6.0</td></tr>
+<tr><td>90.0</td><td>0.0</td><td>270.0</td><td>6.0</td></tr>
+<tr><td>100.0</td><td>0.0</td><td>280.0</td><td>7.0</td></tr>
+<tr><td>110.0</td><td>0.0</td><td>290.0</td><td>9.0</td></tr>
+<tr><td>120.0</td><td>0.0</td><td>300.0</td><td>9.0</td></tr>
+<tr><td>130.0</td><td>0.0</td><td>310.0</td><td>9.0</td></tr>
+<tr><td>140.0</td><td>0.0</td><td>320.0</td><td>9.0</td></tr>
+<tr><td>150.0</td><td>0.0</td><td>330.0</td><td>8.0</td></tr>
+<tr><td>160.0</td><td>0.0</td><td>340.0</td><td>3.0</td></tr>
+<tr><td>170.0</td><td>0.0</td><td>350.0</td><td>0.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262839.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><td rowspan="2">5</td><td colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</td></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>λ</td></tr>
+</table>
+
+### Bijlage B — Behorend bij artikel 2, derde lid, van de vergunning
+
+De vergunninghouder zendt uit binnen het in figuur 1 bedoelde masker (gemeten volgens de procedure zoals vermeld in Annex 1 van ITU-R SM 1268-4). In tabel 1 is dit masker in een tabel vorm weergegeven.
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262840.png)
+
+Figuur 1: Spectrummasker voor FM-uitzendingen.
+
+Bron: ITU-R SM 1268-4
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262841.png)
+
+Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.
+
+Bron: ITU-R SM 1268-4
+
+### Bijlage C — Behorend bij artikel 2, derde lid, van de vergunning
+
+De frequentieplanning en de berekening van het theoretische verzorgingsgebied (het zogenaamde groene gebied) van FM-omroepfrequenties van 87,6 MHz tot en met 104,8 MHz geschiedt op basis van onderstaande zerobase norm die is gebruikt bij de uitgifte van deze vergunningen in 2003 en nadien.
+
+<table>
+<tr><th></th><th colspan="2">Parameter</th></tr>
+<tr><td>Propagatiemodel</td><td colspan="2">ITU Recommendation 370 met TCA en morfografie</td></tr>
+<tr><td>Ontvangstantenne</td><td colspan="2">Non-directief</td></tr>
+<tr><td>Hoogte ontvangstantenne</td><td colspan="2">1,5 meter; met een morfografisch afhankelijke correctie om van 10 meter naar 1,5 meter om te rekenen</td></tr>
+<tr><td>Polarisatiediscriminatie</td><td colspan="2">Geen</td></tr>
+<tr><td>Gewenst signaalniveau</td><td colspan="2">50% plaats<br>50% tijd</td></tr>
+<tr><td>Ongewenst signaalniveau</td><td colspan="2">50% plaats<br>10% tijd &amp; 50% tijd (worst case)</td></tr>
+<tr><td>Terrein-oneffenheid</td><td colspan="2">Terrain Clearance Angle (TCA) conform ITU rec. 370-7</td></tr>
+<tr><td>Protectieverhoudingen conventioneel geplande zenders voor respectievelijk continue / troposferische storing</td><td>0 kHz<br>100 kHz<br>200 kHz<br>300 kHz<br>400 kHz</td><td>40 dB / 32 dB<br>30 dB / 22 dB<br>– 2 dB<br>– 15 dB<br>– 25 dB</td></tr>
+<tr><td>Protectieverhoudingen voor SFN en NSF geplande zenders</td><td>0 kHz<br>100 kHz<br>200 kHz<br>300 kHz<br>400 kHz</td><td>2. 25 dB (afhankelijk van looptijd)<br>5 dB<br>– 5 dB<br>– 15 dB<br>– 25 dB</td></tr>
+<tr><td>Berekening interferentie</td><td colspan="2">Methode sterkste stoorder</td></tr>
+<tr><td>Ontvangst</td><td colspan="2">Stereo</td></tr>
+<tr><td>Minimum bruikbare veldsterkte</td><td colspan="2">37 tot 43,5 dBµV/meter op 1,5 meter hoogte; afhankelijk van de morfografie</td></tr>
+</table>
+
+## Bijlage 3
+
+### Vergunning Kavel B29, inclusief bijbehorende bijlagen
+
+**DE STAATSSCRETARIS VAN ECONOMISCHE ZAKEN EN KLIMAAT**
+
+Gelezen de aanvraag van \<aanvrager\> te \<woonplaats\> van \<datum aanvraag\>, geregistreerd onder nummer \<registratienummer aanvraag\>;
+
+Gelet op de artikelen 3.13 en 3.14 van de Telecommunicatiewet, artikel 17 van het Frequentiebesluit 2013 en de Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017;
+
+BESLUIT:
+
+#### Artikel 1 — Begripsbepalingen
+
+In deze beschikking wordt verstaan onder:
+
+- a. *Minister:* Minister van Economische Zaken en Klimaat;
+- b. *vergunning:* vergunning als bedoeld in artikel 3.13 van de Telecommunicatiewet voor het gebruik van frequentieruimte in de band van 87,5-104,8 MHz;
+- c. *kavel:* frequentie of samenstel van frequenties, behorend bij een vergunning;
+- d. *digitale radio-omroepvergunning:* de vergunning met dossiernummer \<dossiernummer digitaal\>, allotment 6B;
+- e. *ziekenhuis:* instelling voor medisch-specialistische zorg als bedoeld in artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi;
+- f. *andere instelling:* instelling als bedoeld in artikel 6.24 van de Mediawet 2008 die houder is van een andere vergunning dan deze vergunning, of een instelling als bedoeld in artikel 6.24 van de Mediawet 2008 die geen houder is van een vergunning en die instelling op grond van artikel 22 van het Mediabesluit 2008 tezamen met een instelling die wel beschikt over een andere vergunning dan deze vergunning wordt aangemerkt als één instelling;
+- g. *commerciële radio-omroep:* radio-omroep als bedoeld in artikel 1.1, eerste lid, van de Mediawet 2008 die wordt verzorgd door een commerciële media-instelling als bedoeld in artikel 1.1, eerste lid, van die wet;
+- h. *niet-landelijke commerciële radio-omroep:* commerciële radio-omroep via FM-frequenties waarvoor op grond van artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 gebruiksvoorschriften gelden;
+- i. *Regeling:* Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017.
+
+#### Artikel 2 — Gebruiksrecht
+
+- 1. Aan \<aanvrager\>, ingeschreven in het handelsregister onder nummer\<KvK-nummer\>, hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, ten behoeve van niet-landelijke commerciële radio-omroep (kavel B29).
+- 2. De vergunninghouder neemt de in de bijlagen genoemde frequenties binnen drie maanden na inwerkingtreding van deze vergunning in gebruik en houdt deze in gebruik. Op frequenties die hetzelfde SFN-ID hebben en gemarkeerd zijn als gesynchroniseerd of als netgebonden, zendt de vergunninghouder, behoudens reclame, hetzelfde radioprogramma uit.
+- 3. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
+
+#### Artikel 3 — Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+
+- 1. De vergunninghouder veroorzaakt:
+  - a. geen ontoelaatbare belemmeringen door het gewenste signaal van radioapparaten in andere radioapparaten of in elektrische of elektronische inrichtingen, en
+  - b. in het frequentiegebied van 100 kHz tot en met 2,5 GHz in ziekenhuizen, alsmede op de percelen waar deze ziekenhuizen staan, geen piekwaarde van de elektrische veldsterkte die gelijk is aan of hoger is dan 5,4 volt per meter.
+- 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
+
+#### Artikel 4 — Nederlandse of Friese taal
+
+Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
+
+#### Artikel 5 — Wijzigingen betreffende verbondenheid
+
+- 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
+  - a. wijzigingen in de zeggenschap of feitelijke invloed die andere instellingen direct of indirect op het beleid van de vergunninghouder kunnen uitoefenen;
+  - b. wijzigingen in de zeggenschap of feitelijke invloed die de vergunninghouder direct of indirect kan uitoefenen op het beleid van andere instellingen;
+  - c. wijzigingen in de zeggenschap of feitelijke invloed die natuurlijke personen direct of indirect kunnen uitoefenen op het beleid van de vergunninghouder, indien die natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed hebben dat zij in belangrijke mate het beleid van een andere instelling kunnen bepalen of aanmerkelijke invloed hebben op de inhoud van dat beleid, en
+  - d. wijzigingen in de zeggenschap of feitelijke invloed die natuurlijke personen direct of indirect kunnen uitoefenen op het beleid van een andere instelling, indien die natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed hebben dat zij in belangrijke mate het beleid van de vergunninghouder kunnen bepalen of aanmerkelijke invloed hebben op de inhoud van dat beleid.
+- 2. In afwijking van het eerste lid, is de vergunninghouder niet verplicht informatie te verstrekken voor zover die informatie betrekking heeft op:
+  - a. het kunnen uitoefenen van zeggenschap of feitelijke invloed op of door instellingen ten aanzien waarvan hij aan Agentschap Telecom schriftelijk en zonder enig voorbehoud heeft verklaard dat hij met die instellingen één instelling vormt als bedoeld in artikel 6.24 van de Mediawet 2008, of
+  - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op instellingen als bedoeld in artikel 6.24 van de Mediawet 2008 die onder de verklaring, bedoeld in onderdeel a, vallen.
+
+#### Artikel 6 — Correspondentie
+
+Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
+
+#### Artikel 7 — Duur van de vergunning
+
+Deze vergunning treedt in werking op \<de dag na verzending\> en eindigt:
+
+- a. op de dag waarop de vergunninghouder niet langer tevens houder is van de digitale radio-omroepvergunning;
+- b. 12 maanden na inwerkingtreding van deze vergunning, tenzij dan 60% of meer van de frequenties, bedoeld in de bijlagen, in gebruik zijn genomen op de in de bijlagen van deze vergunning voorgeschreven opstelplaatsen, behalve indien een of meer frequenties niet in gebruik zijn genomen vanwege een stroomstoring van het landelijk hoogspanningsnet of de regionale distributienetten, diefstal, brand of natuurgeweld;
+- c. in elk geval uiterlijk op 31 augustus 2022.
+
+*\<\<Deze beschikking wordt in de Staatscourant geplaatst, met uitzondering van de bijlagen.\>\>*
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+| | |
+| --- | --- |
+| Kavel | B29 |
+| Dossiernummer | |
+| Datum | |
+| Aantal bladen | 1 van 2 |
+
+**Samenstelling Kavel B29**
+
+| Opstelplaats | Frequentie | Vermogen (ERP) |
+| --- | --- | --- |
+| OLDENZAAL | 90.0 MHz | 0.398 kW |
+
+**Toelichting bij punt 5:**
+
+Onder punt 5 van de bijlage A zijn restricties opgenomen voor omroepzenders ten behoeve van het voorkomen van storing in de luchtvaartband 108 MHz – 118 MHz. De onderdrukking van ongewenste uitstraling in de luchtvaartband dient minimaal de waarde aangegeven in dBc te bedragen voor de gehele zendinstallatie.
+
+De verticale apertuur van het antennesysteem in golflengtes dient minimaal de waarde aangegeven in λ te zijn. Indien er geen waarde(n) vermeld staan, gelden er geen aanvullende eisen met betrekking tot de bescherming van de luchtvaartband.
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B29</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">1 van 1</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>OLDENZAAL 90.0 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">OLDENZAAL</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>006E57 56.5</td><td>/</td><td>52N19 11.6</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">53 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">70 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">90.0 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.398 kW</td></tr>
+<tr><td></td><td>ERPmax verticaal</td><td colspan="2">0.398 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Niet gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">–</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>10.5</td><td>180.0</td><td>0.0</td></tr>
+<tr><td>10.0</td><td>11.8</td><td>190.0</td><td>0.0</td></tr>
+<tr><td>20.0</td><td>11.8</td><td>200.0</td><td>0.0</td></tr>
+<tr><td>30.0</td><td>11.8</td><td>210.0</td><td>0.0</td></tr>
+<tr><td>40.0</td><td>11.0</td><td>220.0</td><td>1.0</td></tr>
+<tr><td>50.0</td><td>11.0</td><td>230.0</td><td>1.0</td></tr>
+<tr><td>60.0</td><td>8.0</td><td>240.0</td><td>0.0</td></tr>
+<tr><td>70.0</td><td>10.0</td><td>250.0</td><td>0.0</td></tr>
+<tr><td>80.0</td><td>7.0</td><td>260.0</td><td>0.0</td></tr>
+<tr><td>90.0</td><td>5.0</td><td>270.0</td><td>0.0</td></tr>
+<tr><td>100.0</td><td>5.0</td><td>280.0</td><td>2.0</td></tr>
+<tr><td>110.0</td><td>5.0</td><td>290.0</td><td>3.0</td></tr>
+<tr><td>120.0</td><td>5.0</td><td>300.0</td><td>3.0</td></tr>
+<tr><td>130.0</td><td>0.0</td><td>310.0</td><td>0.0</td></tr>
+<tr><td>140.0</td><td>1.8</td><td>320.0</td><td>0.0</td></tr>
+<tr><td>150.0</td><td>1.8</td><td>330.0</td><td>0.0</td></tr>
+<tr><td>160.0</td><td>4.0</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>4.0</td><td>350.0</td><td>7.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262842.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><th rowspan="2"><b>5</b></th><th colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</th></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>λ</td></tr>
+</table>
+
+### Bijlage B — Behorend bij artikel 2, derde lid, van de vergunning
+
+De vergunninghouder zendt uit binnen het in figuur 1 bedoelde masker (gemeten volgens de procedure zoals vermeld in Annex 1 van ITU-R SM 1268-4).
+
+In tabel 1 is dit masker in een tabel vorm weergegeven.
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262843.png)
+
+Figuur 1: Spectrummasker voor FM-uitzendingen.
+
+Bron: ITU-R SM 1268-4
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262844.png)
+
+Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.
+
+Bron: ITU-R SM 1268-4
+
+### Bijlage C — Behorend bij artikel 2, derde lid, van de vergunning
+
+De frequentieplanning en de berekening van het theoretische verzorgingsgebied (het zogenaamde groene gebied) van FM-omroepfrequenties van 87,6 MHz tot en met 104,8 MHz geschiedt op basis van onderstaande zerobase norm die is gebruikt bij de uitgifte van deze vergunningen in 2003 en nadien.
+
+<table>
+<tr><th></th><th colspan="2">Parameter</th></tr>
+<tr><td>Propagatiemodel</td><td colspan="2">ITU Recommendation 370 met TCA en morfografie</td></tr>
+<tr><td>Ontvangstantenne</td><td colspan="2">Non-directief</td></tr>
+<tr><td>Hoogte ontvangstantenne</td><td colspan="2">1,5 meter; met een morfografisch afhankelijke correctie om van 10 meter naar 1,5 meter om te rekenen</td></tr>
+<tr><td>Polarisatiediscriminatie</td><td colspan="2">Geen</td></tr>
+<tr><td>Gewenst signaalniveau</td><td colspan="2">50% plaats<br>50% tijd</td></tr>
+<tr><td>Ongewenst signaalniveau</td><td colspan="2">50% plaats<br>10% tijd &amp; 50% tijd (worst case)</td></tr>
+<tr><td>Terrein-oneffenheid</td><td colspan="2">Terrain Clearance Angle (TCA) conform ITU rec. 370-7</td></tr>
+<tr><td>Protectieverhoudingen conventioneel geplande zenders voor respectievelijk continue / troposferische storing</td><td>0 kHz<br>100 kHz<br>200 kHz<br>300 kHz<br>400 kHz</td><td>40 dB / 32 dB<br>30 dB / 22 dB<br>– 2 dB<br>– 15 dB<br>– 25 dB</td></tr>
+<tr><td>Protectieverhoudingen voor SFN en NSF geplande zenders</td><td>0 kHz<br>100 kHz<br>200 kHz<br>300 kHz<br>400 kHz</td><td>2. 25 dB (afhankelijk van looptijd)<br>5 dB<br>– 5 dB<br>– 15 dB<br>– 25 dB</td></tr>
+<tr><td>Berekening interferentie</td><td colspan="2">Methode sterkste stoorder</td></tr>
+<tr><td>Ontvangst</td><td colspan="2">Stereo</td></tr>
+<tr><td>Minimum bruikbare veldsterkte</td><td colspan="2">37 tot 43,5 dBµV/meter op 1,5 meter hoogte; afhankelijk van de morfografie</td></tr>
+</table>
+
+## Bijlage 4
+
+### Vergunning Kavel B34, inclusief bijbehorende bijlagen
+
+**DE STAATSSCRETARIS VAN ECONOMISCHE ZAKEN EN KLIMAAT**
+
+Gelezen de aanvraag van \<aanvrager\> te \<woonplaats\> van \<datum aanvraag\>, geregistreerd onder nummer \<registratienummer aanvraag\>;
+
+Gelet op de artikelen 3.13 en 3.14 van de Telecommunicatiewet, artikel 17 van het Frequentiebesluit 2013 en de Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017;
+
+BESLUIT:
+
+#### Artikel 1 — Begripsbepalingen
+
+In deze beschikking wordt verstaan onder:
+
+- a. *Minister:* Minister van Economische Zaken en Klimaat;
+- b. *vergunning:* vergunning als bedoeld in artikel 3.13 van de Telecommunicatiewet voor het gebruik van frequentieruimte in de band van 87,5-104,8 MHz;
+- c. *kavel:* frequentie of samenstel van frequenties, behorend bij een vergunning;
+- d. *digitale radio-omroepvergunning:* de vergunning met dossiernummer \<dossiernummer digitaal\>, allotment 6B;
+- e. *ziekenhuis:* instelling voor medisch-specialistische zorg als bedoeld in artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi;
+- f. *andere instelling:* instelling als bedoeld in artikel 6.24 van de Mediawet 2008 die houder is van een andere vergunning dan deze vergunning, of een instelling als bedoeld in artikel 6.24 van de Mediawet 2008 die geen houder is van een vergunning en die instelling op grond van artikel 22 van het Mediabesluit 2008 tezamen met een instelling die wel beschikt over een andere vergunning dan deze vergunning wordt aangemerkt als één instelling;
+- g. *commerciële radio-omroep:* radio-omroep als bedoeld in artikel 1.1, eerste lid, van de Mediawet 2008 die wordt verzorgd door een commerciële media-instelling als bedoeld in artikel 1.1, eerste lid, van die wet;
+- h. *niet-landelijke commerciële radio-omroep:* commerciële radio-omroep via FM-frequenties waarvoor op grond van artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 gebruiksvoorschriften gelden;
+- i. *Regeling:* Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017.
+
+#### Artikel 2 — Gebruiksrecht
+
+- 1. Aan \<aanvrager\>, ingeschreven in het handelsregister onder nummer \<KvK-nummer\>, hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, ten behoeve van niet-landelijke commerciële radio-omroep (kavel B34).
+- 2. De vergunninghouder neemt de in de bijlagen genoemde frequenties binnen drie maanden na inwerkingtreding van deze vergunning in gebruik en houdt deze in gebruik. Op frequenties die hetzelfde SFN-ID hebben en gemarkeerd zijn als gesynchroniseerd of als netgebonden, zendt de vergunninghouder, behoudens reclame, hetzelfde radioprogramma uit.
+- 3. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
+
+#### Artikel 3 — Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+
+- 1. De vergunninghouder veroorzaakt:
+  - a. geen ontoelaatbare belemmeringen door het gewenste signaal van radioapparaten in andere radioapparaten of in elektrische of elektronische inrichtingen, en
+  - b. in het frequentiegebied van 100 kHz tot en met 2,5 GHz in ziekenhuizen, alsmede op de percelen waar deze ziekenhuizen staan, geen piekwaarde van de elektrische veldsterkte die gelijk is aan of hoger is dan 5,4 volt per meter.
+- 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
+
+#### Artikel 4 — Nederlandse of Friese taal
+
+Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
+
+#### Artikel 5 — Wijzigingen betreffende verbondenheid
+
+- 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
+  - a. wijzigingen in de zeggenschap of feitelijke invloed die andere instellingen direct of indirect op het beleid van de vergunninghouder kunnen uitoefenen;
+  - b. wijzigingen in de zeggenschap of feitelijke invloed die de vergunninghouder direct of indirect kan uitoefenen op het beleid van andere instellingen;
+  - c. wijzigingen in de zeggenschap of feitelijke invloed die natuurlijke personen direct of indirect kunnen uitoefenen op het beleid van de vergunninghouder, indien die natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed hebben dat zij in belangrijke mate het beleid van een andere instelling kunnen bepalen of aanmerkelijke invloed hebben op de inhoud van dat beleid, en
+  - d. wijzigingen in de zeggenschap of feitelijke invloed die natuurlijke personen direct of indirect kunnen uitoefenen op het beleid van een andere instelling, indien die natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed hebben dat zij in belangrijke mate het beleid van de vergunninghouder kunnen bepalen of aanmerkelijke invloed hebben op de inhoud van dat beleid.
+- 2. In afwijking van het eerste lid, is de vergunninghouder niet verplicht informatie te verstrekken voor zover die informatie betrekking heeft op:
+  - a. het kunnen uitoefenen van zeggenschap of feitelijke invloed op of door instellingen ten aanzien waarvan hij aan Agentschap Telecom schriftelijk en zonder enig voorbehoud heeft verklaard dat hij met die instellingen één instelling vormt als bedoeld in artikel 6.24 van de Mediawet 2008, of
+  - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op instellingen als bedoeld in artikel 6.24 van de Mediawet 2008 die onder de verklaring, bedoeld in onderdeel a, vallen.
+
+#### Artikel 6 — Correspondentie
+
+Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
+
+#### Artikel 7 — Duur van de vergunning
+
+Deze vergunning treedt in werking op \<de dag na verzending\> en eindigt:
+
+- a. op de dag waarop de vergunninghouder niet langer tevens houder is van de digitale radio-omroepvergunning;
+- b. 12 maanden na inwerkingtreding van deze vergunning, tenzij dan 60% of meer van de frequenties, bedoeld in de bijlagen, in gebruik zijn genomen op de in de bijlagen van deze vergunning voorgeschreven opstelplaatsen, behalve indien een of meer frequenties niet in gebruik zijn genomen vanwege een stroomstoring van het landelijk hoogspanningsnet of de regionale distributienetten, diefstal, brand of natuurgeweld;
+- c. in elk geval uiterlijk op 31 augustus 2022.
+
+*\<\<Deze beschikking wordt in de Staatscourant geplaatst, met uitzondering van de bijlagen.\>\>*
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+| | |
+| --- | --- |
+| Kavel | B34 |
+| Dossiernummer | |
+| Datum | |
+| Aantal bladen | 1 van 2 |
+
+**Samenstelling Kavel B34**
+
+| Opstelplaats | Frequentie | Vermogen (ERP) |
+| --- | --- | --- |
+| STADSKANAAL | 96.0 MHz | 0.050 kW |
+
+**Toelichting bij punt 5:**
+
+Onder punt 5 van de bijlage A zijn restricties opgenomen voor omroepzenders ten behoeve van het voorkomen van storing in de luchtvaartband 108 MHz – 118 MHz. De onderdrukking van ongewenste uitstraling in de luchtvaartband dient minimaal de waarde aangegeven in dBc te bedragen voor de gehele zendinstallatie.
+
+De verticale apertuur van het antennesysteem in golflengtes dient minimaal de waarde aangegeven in λ te zijn. Indien er geen waarde(n) vermeld staan, gelden er geen aanvullende eisen met betrekking tot de bescherming van de luchtvaartband.
+
+### Bijlage A — Technische parameters behorend bij artikel 2, tweede en derde lid, van de vergunning
+
+<table>
+<tr><td></td><td>Station</td><td colspan="3">NET NLCO B34</td></tr>
+<tr><td></td><td>Dossiernummer</td><td colspan="3"></td></tr>
+<tr><td></td><td>Datum</td><td colspan="3"></td></tr>
+<tr><td></td><td>Aantal bladen</td><td colspan="3">2 van 2</td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="4"><b>STADSKANAAL 96.0 MHz</b></td></tr>
+<tr><td></td><td colspan="4"></td></tr>
+<tr><td><b>1</b></td><td colspan="4">Gegevens locatie</td></tr>
+<tr><td></td><td>Naam</td><td colspan="3">STADSKANAAL</td></tr>
+<tr><td></td><td>Lengte/breedtegraad</td><td>006E56 34.4</td><td>/</td><td>52N59 40.1</td></tr>
+<tr><td></td><td>Hoogte antenne t.o.v. maaiveld</td><td colspan="3">60 meter</td></tr>
+<tr><td></td><td>Hoogte maaiveld t.o.v. NAP</td><td colspan="3">5 meter</td></tr>
+</table>
+
+<table>
+<tr><td><b>2</b></td><td colspan="3">Gegevens t.b.v. zendsysteem</td></tr>
+<tr><td></td><td>Frequentie</td><td colspan="2">96.0 MHz</td></tr>
+<tr><td></td><td>ERP</td><td colspan="2">0.050 kW</td></tr>
+<tr><td></td><td>ERPmax verticaal</td><td colspan="2">0.050 kW</td></tr>
+<tr><td></td><td>Offset type</td><td colspan="2">Niet gesynchroniseerd</td></tr>
+<tr><td></td><td>SFN ID</td><td colspan="2">–</td></tr>
+<tr><td></td><td>System</td><td>4</td><td></td></tr>
+<tr><td></td><td>Polarisatie</td><td colspan="2">Verticaal</td></tr>
+<tr><td></td><td>Klasse van uitzending</td><td colspan="2">300KF9E</td></tr>
+</table>
+
+<table>
+<tr><td><b>3</b></td><td colspan="2">Gegevens internationale coördinatie frequentiegebruiksrecht</td></tr>
+<tr><td></td><td>Internationale coördinatie afgerond</td><td>Ja</td></tr>
+</table>
+
+| | |
+| --- | --- |
+| **4** | Gegevens m.b.t. antennesysteem |
+
+<table>
+<tr><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th><th>Zendhoek AZM<br>(graden)</th><th>Verzwakking<br>(dB)</th></tr>
+<tr><td>0.0</td><td>0.0</td><td>180.0</td><td>0.0</td></tr>
+<tr><td>10.0</td><td>0.0</td><td>190.0</td><td>0.0</td></tr>
+<tr><td>20.0</td><td>0.0</td><td>200.0</td><td>0.0</td></tr>
+<tr><td>30.0</td><td>0.0</td><td>210.0</td><td>0.0</td></tr>
+<tr><td>40.0</td><td>0.0</td><td>220.0</td><td>0.0</td></tr>
+<tr><td>50.0</td><td>0.0</td><td>230.0</td><td>0.0</td></tr>
+<tr><td>60.0</td><td>0.0</td><td>240.0</td><td>0.0</td></tr>
+<tr><td>70.0</td><td>0.0</td><td>250.0</td><td>0.0</td></tr>
+<tr><td>80.0</td><td>0.0</td><td>260.0</td><td>0.0</td></tr>
+<tr><td>90.0</td><td>0.0</td><td>270.0</td><td>7.0</td></tr>
+<tr><td>100.0</td><td>0.0</td><td>280.0</td><td>17.0</td></tr>
+<tr><td>110.0</td><td>0.0</td><td>290.0</td><td>17.0</td></tr>
+<tr><td>120.0</td><td>10.0</td><td>300.0</td><td>8.0</td></tr>
+<tr><td>130.0</td><td>10.0</td><td>310.0</td><td>0.0</td></tr>
+<tr><td>140.0</td><td>11.0</td><td>320.0</td><td>0.0</td></tr>
+<tr><td>150.0</td><td>11.0</td><td>330.0</td><td>0.0</td></tr>
+<tr><td>160.0</td><td>0.0</td><td>340.0</td><td>0.0</td></tr>
+<tr><td>170.0</td><td>0.0</td><td>350.0</td><td>0.0</td></tr>
+</table>
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262845.png)
+
+Grafische weergave antennediagram (0 = geografisch Noorden)
+
+<table>
+<tr><th rowspan="2"><b>5</b></th><th colspan="2">Aanvullende eisen m.b.t. bescherming van de luchtvaart</th></tr>
+<tr><td>Minimale onderdrukking in de luchtvaartband</td><td>dBc</td></tr>
+<tr><td></td><td>Verticale aperture</td><td>λ</td></tr>
+</table>
+
+### Bijlage B — Behorend bij artikel 2, derde lid, van de vergunning
+
+De vergunninghouder zendt uit binnen het in figuur 1 bedoelde masker (gemeten volgens de procedure zoals vermeld in Annex 1 van ITU-R SM 1268-4).
+
+In tabel 1 is dit masker in een tabel vorm weergegeven.
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262846.png)
+
+Figuur 1: Spectrummasker voor FM-uitzendingen.
+
+Bron: ITU-R SM 1268-4
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262847.png)
+
+Tabel 1: Spectrummasker voor FM-uitzendingen in tabelvorm.
+
+Bron: ITU-R SM 1268-4
+
+### Bijlage C — Behorend bij artikel 2, derde lid, van de vergunning
+
+De frequentieplanning en de berekening van het theoretische verzorgingsgebied (het zogenaamde groene gebied) van FM-omroepfrequenties van 87,6 MHz tot en met 104,8 MHz geschiedt op basis van onderstaande zerobase norm die is gebruikt bij de uitgifte van deze vergunningen in 2003 en nadien.
+
+<table>
+<tr><th></th><th colspan="2">Parameter</th></tr>
+<tr><td>Propagatiemodel</td><td colspan="2">ITU Recommendation 370 met TCA en morfografie</td></tr>
+<tr><td>Ontvangstantenne</td><td colspan="2">Non-directief</td></tr>
+<tr><td>Hoogte ontvangstantenne</td><td colspan="2">1,5 meter; met een morfografisch afhankelijke correctie om van 10 meter naar 1,5 meter om te rekenen</td></tr>
+<tr><td>Polarisatiediscriminatie</td><td colspan="2">Geen</td></tr>
+<tr><td>Gewenst signaalniveau</td><td colspan="2">50% plaats<br>50% tijd</td></tr>
+<tr><td>Ongewenst signaalniveau</td><td colspan="2">50% plaats<br>10% tijd &amp; 50% tijd (worst case)</td></tr>
+<tr><td>Terrein-oneffenheid</td><td colspan="2">Terrain Clearance Angle (TCA) conform ITU rec. 370-7</td></tr>
+<tr><td>Protectieverhoudingen conventioneel geplande zenders voor respectievelijk continue / troposferische storing</td><td>0 kHz<br>100 kHz<br>200 kHz<br>300 kHz<br>400 kHz</td><td>40 dB / 32 dB<br>30 dB / 22 dB<br>– 2 dB<br>– 15 dB<br>– 25 dB</td></tr>
+<tr><td>Protectieverhoudingen voor SFN en NSF geplande zenders</td><td>0 kHz<br>100 kHz<br>200 kHz<br>300 kHz<br>400 kHz</td><td>2. 25 dB (afhankelijk van looptijd)<br>5 dB<br>– 5 dB<br>– 15 dB<br>– 25 dB</td></tr>
+<tr><td>Berekening interferentie</td><td colspan="2">Methode sterkste stoorder</td></tr>
+<tr><td>Ontvangst</td><td colspan="2">Stereo</td></tr>
+<tr><td>Minimum bruikbare veldsterkte</td><td colspan="2">37 tot 43,5 dBµV/meter op 1,5 meter hoogte; afhankelijk van de morfografie</td></tr>
+</table>
+
+## Bijlage 5
+
+### Vergunning digitale radio-omroep allotment 8A, gekoppeld aan vergunning kavel B05, inclusief bijbehorende bijlagen
+
+**DE STAATSSECRETARIS VAN ECONOMISCHE ZAKEN EN KLIMAAT**
+
+Gelezen de aanvraag van \<naam aanvrager\> te \<woonplaats\> van \<datum aanvraag\>, geregistreerd onder nummer \<ID-nummer aanvraag\>
+
+Gelet op de artikelen 3.13 en 3.14 van de Telecommunicatiewet, artikel 17 van het Frequentiebesluit 2013 en de Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017;
+
+BESLUIT:
+
+#### Artikel 1 — Begripsbepalingen
+
+- 1. In deze vergunning wordt verstaan onder:
+  - a. *Minister:* Minister van Economische Zaken en Klimaat;
+  - b. *ITU:* Internationale Telecommunicatie Unie;
+  - c. *MIFR:* Master International Frequency Register, zijnde het register waarin radiostations met hun frequentieruimte zijn opgenomen, bedoeld in artikel 4.3 van het Radioreglement van de ITU;
+  - d. *notificatieverzoek:* verzoek van de samenwerkende vergunninghouders aan de Minister tot het doen van een notificatie van een in gebruik genomen dan wel te nemen (gedeelte van de) frequentieruimte op een bepaalde plaats, met als doel (dit gedeelte van) de frequentieruimte op die bepaalde plaats na goedkeuring door het radiocommunicatiebureau van de ITU te registreren in het MIFR teneinde internationale bescherming van (dit gedeelte van) de frequentieruimte op die bepaalde plaats te bewerkstelligen;
+  - e. *GE06:* Final Acts of the Regional Radiocommunication Conference for planning of the digital terrestrial Broadcasting service in parts of Regions 1 and 3, in the frequency bands 174 – 230 MHz and 470 – 862 MHz; Genève 2006;
+  - f. *samenwerkende vergunninghouders:* vergunninghouders die houder zijn van een deel van de capaciteit van de frequentieruimte binnen het in artikel 2, eerste lid, genoemde frequentiebereik;
+  - g. *N:* het aantal houders van een vergunning op een bepaald moment binnen het in artikel 2, eerste lid, genoemde frequentiebereik;
+  - h. *samenwerkingsovereenkomst:* overeenkomst als bedoeld in artikel 3.21 van de Telecommunicatiewet;
+  - i. *allotment:* het gebied dat gelegen is binnen de contouren zoals gevisualiseerd in de bijlage I;
+  - j. *ziekenhuis:* instelling voor medisch-specialistische zorg als bedoeld in artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi;
+  - k. *mobiele ontvangst:* mobile reception, zoals bedoeld in paragraaf 1.3.13 van GE06;
+  - l. *binnenontvangst:* portable reception class B, zoals bedoeld in paragraaf 1.3.12 van GE06.
+- 2. De definities in artikel 1.1, eerste lid, van de Mediawet 2008 zijn van toepassing.
+
+#### Artikel 2 — Gebruiksrecht
+
+- 1. Aan \<naam vergunninghouder\>, ingeschreven in het handelsregister onder nummer \<nummer KvK\>, hierna te noemen: vergunninghouder, wordt, onverminderd het vijfde en zesde lid, een vergunning verleend voor het gebruik van 1/18de deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 195,168 MHz – 196,704 MHz (allotment 8A).
+- 2. De vergunninghouder gebruikt de in het eerste lid bedoelde frequentieruimte binnen drie maanden na inwerkingtreding van deze vergunning en houdt deze in gebruik.
+- 3. De vergunninghouder gebruikt de in het eerste lid genoemde frequentieruimte slechts in overeenstemming met de bestemming in het vigerende Nationaal Frequentieplan (NFP 2014), en onder die bestemming gegeven beperkingen.
+- 4. De vergunninghouder gebruikt de aan hem toegewezen frequentieruimte voor het aanbieden van ten minste één programmakanaal bestaande uit radioprogramma’s, waarbij dat programmakanaal wordt gebruikt voor het gelijktijdig en ongewijzigd uitzenden van radioprogramma’s die door middel van de overeenkomstig het NFP 2014 gekoppelde analoge vergunning voor kavel B05 met dossiernummer \<dossiernummer\> worden uitgezonden in een kwaliteit die ten minste gelijk is aan 192 kb/s (stereo-uitzending), indien gebruikt wordt gemaakt van MPEG 2, 48 kb/s (stereo-uitzending), indien gebruik wordt gemaakt van AAC+, of, indien gebruik wordt gemaakt van een andere techniek, met een geluidskwaliteit die ten minste vergelijkbaar is met de kwaliteit die met stereo kan worden behaald door middel van de twee genoemde technieken.
+- 5. Indien een andere vergunning voor het gebruik van een deel van de capaciteit van de frequentieruimte binnen het in het eerste lid genoemde frequentiebereik niet is verleend dan wel is ingetrokken, is de vergunninghouder tot de dag van inwerkingtreding van het besluit waarmee die vergunning voor het eerst onderscheidenlijk opnieuw wordt verleend, gerechtigd 1/N-de deel van de capaciteit van de ingetrokken vergunning te gebruiken.
+- 6. De vergunninghouder is gerechtigd een deel van de capaciteit te laten gebruiken door een andere samenwerkende vergunninghouder, indien:
+  - a. beide vergunninghouders daarmee schriftelijk hebben ingestemd, en
+  - b. hij blijft voldoen aan de voorschriften en beperkingen in zijn vergunning.
+- 7. De vergunninghouder die een deel van de aan een andere samenwerkende vergunninghouder vergunde capaciteit gebruikt als bedoeld in het zesde lid, neemt het derde lid in acht.
+- 8. De vergunninghouder die een schriftelijke instemming heeft gegeven als bedoeld in het zesde lid, onderdeel a, zendt hiervan onverwijld een afschrift aan de Minister.
+
+#### Artikel 3 — Samenwerking vergunninghouders
+
+- 1. De vergunninghouder gaat de samenwerkingsovereenkomst schriftelijk aan.
+- 2. De vergunninghouder verstrekt een afschrift van de samenwerkingsovereenkomst en aanvullingen of wijzigingen daarvan onverwijld aan de Minister.
+- 3. De vergunninghouder sluit tezamen met de andere samenwerkende vergunninghouders een overeenkomst als bedoeld in artikel 10.15, tweede lid, onderdeel b, van de Telecommunicatiewet met een rechtspersoon die namens hen het elektronische communicatienetwerk zal aanleggen en in stand houden voor het gezamenlijk gebruik van de in artikel 2 genoemde frequentieruimte dan wel treedt tot een reeds bestaande overeenkomst, als voormeld, toe.
+- 4. In het belang van doelmatig gebruik van de frequentieruimte binnen het frequentiebereik genoemd in artikel 2, eerste lid, wordt in de overeenkomst, bedoeld in het derde lid, bepaald dat het in gebreke blijven van een andere samenwerkende vergunninghouder jegens de rechtspersoon, bedoeld in het derde lid, niet tot gevolg heeft dat de aanleg van het elektronische communicatienetwerk als bedoeld in het derde lid en de uitzending van de radioprogramma’s, bedoeld in artikel 2, vierde lid, ten behoeve van de vergunninghouder wordt gestaakt, onderbroken of beperkt.
+- 5. Indien na het tijdstip waarop de samenwerkingsovereenkomst in werking treedt een vergunning wordt verleend voor een deel van het gebruik van de capaciteit van de frequentieruimte binnen het frequentiebereik genoemd in artikel 2, eerste lid, zorgt de vergunninghouder ervoor dat die nieuwe vergunninghouder op non-discriminatoire voorwaarden partij kan worden bij de samenwerkingsovereenkomst.
+
+#### Artikel 4 — Technische beschrijving
+
+Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technische beschrijving zoals deze in bijlagen I en III is opgenomen. De technische beschrijving omvat tevens het spectrummasker 1 voor T-DAB radioapparaten, werkend in niet-kritische omstandigheden.
+
+#### Artikel 5 — Registratie van frequentieruimte
+
+- 1. De vergunninghouder staakt of beperkt het gebruik van de frequentieruimte, bedoeld in artikel 2, voor zover dit leidt tot belemmeringen in het gebruik van in het MIFR door anderen geregistreerde frequentieruimte.
+- 2. Bij het gebruik van de frequentieruimte heeft de vergunninghouder geen aanspraak op enigerlei vorm van bescherming van dat gebruik, indien verstoring van het gebruik plaatsvindt door het gebruik van in het MIFR geregistreerde frequentieruimte.
+- 3. Het bepaalde in het eerste en tweede lid is niet van toepassing voor zover de frequentieruimte, bedoeld in artikel 2, in het MIFR is geregistreerd door de samenwerkende vergunninghouders.
+- 4. Teneinde registratie in het MIFR in gang te zetten, kunnen de samenwerkende vergunninghouders een notificatieverzoek daartoe indienen bij de Minister.
+- 5. Het notificatieverzoek geschiedt met gebruikmaking van het “Formulier kennisgeving ingebruikname en notificatie” bedoeld in bijlage II.
+
+#### Artikel 6 — Ingebruiknameverplichting
+
+- 1. De vergunninghouder biedt de dienst, omschreven in artikel 2, aan met een geografische verzorging van 85% mobiele ontvangst en een demografische verzorging van 65% binnenontvangst.
+- 2. Vanaf 1 januari 2020 biedt de vergunninghouder de dienst, omschreven in artikel 2, aan met een geografische verzorging van 90% mobiele ontvangst en een demografische verzorging van 75% binnenontvangst.
+- 3. De geografische verzorging zoals bedoeld in het eerste en tweede lid is voor mobiele ontvangst vastgesteld op een veldsterkte van 60 dBµV/m en de demografische verzorging voor binnenontvangst op een veldsterkte van 66 dBµV/m op 10 meter hoogte voor 50% van de tijd en plaats en bij een referentiefrequentie van 200 MHz. Indien een andere centrumfrequentie wordt gebruikt, wordt de voorgeschreven veldsterkte aangepast conform annex 3.5 van GE06.
+
+#### Artikel 7 — Wegnemen belemmeringen
+
+- 1. Indien op enige plaats binnenshuis door het gewenste signaal van de in het kader van deze vergunning gebruikte radioapparaten belemmeringen in de ontvangst van kabeltelevisie worden veroorzaakt draagt de natuurlijke persoon of rechtspersoon, bedoeld in het vierde lid, dan wel indien deze verzaakt, de vergunninghouder, er op verzoek van degene die de belemmeringen ondervindt, zorg voor dat deze onverwijld op kosten van de samenwerkende vergunninghouders worden verholpen, voor zover ter plaatse:
+  - a. de hoogfrequentdichtheid van de gebruikte aansluitkabels en de daaraan bevestigde connectoren een waarde hebben van ten minste 70 dB, en
+  - b. het stoorsignaal als gevolg van het krachtens deze vergunning gebruiken van frequentieruimte hoger is dan 23 dBμV.
+- 2. De in het eerste lid, onder b, genoemde waarde dient evenredig verhoogd te worden met de waarde van het signaalniveau op het abonnee-overnamepunt boven de vereiste minimumwaarde van 60 dBμV.
+- 3. Onverminderd het bepaalde in het eerste en tweede lid, is de natuurlijke persoon of rechtspersoon, bedoeld in het vierde lid, danwel de vergunninghouder niet gehouden televisie-ontvangapparaten en aanverwante apparatuur te vervangen die:
+  - a. niet geschikt zijn om een stoorspanning van 23 dBμV vermeerderd met de signaalspanning op het kabeltelevisienet bij het abonnee-overnamepunt te ontvangen, of
+  - b. een hoogfrequentdichtheid van minder dan 70 dB hebben.
+- 4. De samenwerkende vergunninghouders wijzen één natuurlijke persoon of rechtspersoon aan die de belemmeringen en de kosten, bedoeld in het eerste lid, wegneemt respectievelijk vergoedt.
+- 5. De vergunninghouder is verplicht 1/N-de deel van de kosten, bedoeld in het eerste lid, te vergoeden.
+
+#### Artikel 8 — Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+
+- 1. De vergunninghouder veroorzaakt:
+  - a. geen ontoelaatbare belemmeringen door het gewenste signaal van radioapparaten in andere radioapparaten of in elektrische of elektronische inrichtingen, en
+  - b. in het frequentiegebied van 100 kHz tot en met 2,5 GHz in ziekenhuizen, alsmede op de percelen waar deze ziekenhuizen staan, geen piekwaarde van de elektrische veldsterkte die gelijk is aan of hoger is dan 5,4 volt per meter.
+- 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
+- 3. Artikel 7, vierde en vijfde lid, is van overeenkomstige toepassing.
+
+#### Artikel 9 — Kennisgeving ingebruikname
+
+De vergunninghouder stelt de Minister van elke ingebruikname van (onderdelen van) de frequentieruimte uiterlijk vier weken van tevoren schriftelijk in kennis en overlegt daarbij de gegevens bedoeld in bijlage II conform het in die bijlage vermelde format.
+
+#### Artikel 10 — Correspondentie
+
+- 1. Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
+- 2. De verplichting, bedoeld in artikelen 3, tweede lid en 9, geldt niet voor zover een samenwerkende vergunninghouder namens een andere vergunninghouder de verplichte kennisgeving of mededeling doet.
+
+#### Artikel 11 — Overeenkomst gezamenlijk gebruik
+
+De samenwerkingsovereenkomst wordt gesloten binnen een periode van ten hoogste zes weken na inwerkingtreding van deze vergunning.
+
+#### Artikel 12 — Inwerkingtreding en looptijd van de vergunning
+
+Deze vergunning treedt in werking op \<de dag na verzending\> en loopt tot en met 31 augustus 2022.
+
+*\<\<Deze vergunning wordt in de Staatscourant geplaatst, met uitzondering van de bijlagen.\>\>*
+
+### Bijlage I — – Allotment 8a behorend bij de vergunning voor digitale omroep
+
+Het spectrummasker, bedoeld in artikel 4, is als volgt:
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262848.png)
+
+Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non sensitive cases
+
+Bron: GE06 pagina 169
+
+De technische beschrijving, bedoeld in artikel 4, luidt als volgt:
+
+De regionale kavel 2 heeft de omtrek beschreven in figuur 2. De kavel is opgebouwd uit de GE06 DVB-T allotments HOL0901H (K9), HOL0902H (K6), HOL0903H (K8), HOL0904H (K9), HOL0905H (K7), HOL0906H (K9).
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262849.png)
+
+Figuur 2. Geografische indeling van de frequentieruimte
+
+De DVB-T allotments K6, K7, K8, K9 kunnen respectievelijk opgesplitst worden in de T-DAB blokken A, B, C, D. De oorspronkelijke allotmentvorm is hierdoor niet aangetast.
+
+Ten behoeve van deze vergunning wordt het volgende T-DAB blok beschreven:
+
+Blok 8A
+
+De punten waaruit de omtrek van elk allotment is opgebouwd zijn op een USB-stick opgenomen. Deze USB-stick maakt onderdeel uit van bijlage III.
+
+Gedurende de Genève ’06 conferentie is een aantal nadere afspraken gemaakt met de Nederland omringende landen. Deze afspraken bevatten in essentie hetgeen is weergegeven in de onderstaande tabellen. De vergunninghouder respecteert de afspraken die Nederland heeft gemaakt. De volledige afspraken zijn opgenomen in bijlage III. Bij tegenstrijdigheid van de samenvatting in de tabellen en de afspraken, opgenomen in bijlage III, prevaleren de laatstgenoemde.
+
+De bilaterale afspraken zijn een verbijzondering van de algemene planningscriteria van GE06 met als doel incompatibiliteiten tussen de *assignments* of *allotments* in het GE06-plan op te heffen. De implementatie moet zowel voldoen aan GE06 als aan de aanvullende voorwaarden in de onderstaande tabellen.
+
+Indien in tabellen geen aanvullende beschermingseisen zijn gesteld, dan mag een actueel netwerk evenveel interferentie produceren als een referentienetwerk.
+
+#### Frequentieblok 8A (195,168 MHz – 196,704 MHz)
+
+Het gemarkeerde gebied met 8A heeft betrekking op frequentieblok 195,168 MHz – 196,704 MHz en komt uit allotment HOL0903H.
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262850.png)
+
+Figuur 3. Overzicht frequentieblok 8A, allotment HOL0903H
+
+#### Resultaten afspraken Nederland omringende landen
+
+##### Afspraken gemaakt tijdens conferentie
+
+Tabel 1 geeft de afwijkingen weer van de acceptatie van veldsterkten door, en bescherming van, buitenlandse allotments in overeenstemming met de procedure, bedoeld in artikel 5 jo. Section II of Annex 4 ‘Examination of conformity with the digital Plan entry’ GE06.
+
+**Tabel 1 Resultaten van de vastgestelde bilaterale afspraken tijdens GE06**
+
+<table>
+<tr><th>Blok 8A</th><th colspan="2">NEDERLAND (HOL)</th></tr>
+<tr><th>LAND</th><th>Accepteert</th><th>Beschermt</th></tr>
+<tr><td>Verenigd Koninkrijk (G)</td><td>De cumulatieve veldsterkte van de Engelse PMR toepassingen op de Nederlandse kust zal de 31 dB(μV/m) niet overschrijden.</td><td>De cumulatieve veldsterkte van de Nederlandse T-DAB allotment HOL0905H op de Engelse kust zal de 55 dB(μV/m) niet overschrijden.</td></tr>
+<tr><td>Duitsland (D)</td><td>Maximaal 44 dB(μV/m) van de Duitse DVB-T allotments toegestaan op de grens van het Nederlandse T-DAB allotment HOL0903H.</td><td>Maximaal 35 dB(μV/m) van de Nederlandse T-DAB allotment HOL0903H toegestaan op de grens van de respectievelijke Duitse DVB-T allotments.</td></tr>
+<tr><td>België (BEL)</td><td>Geen beperkingen of verruimingen.</td><td>Maximaal 43 dB(μV/m) van de Nederlandse DVB-T allotment HOL0903H toegestaan op de grens van het Belgische T-DAB allotment BELGDABDG300.<br>Voor het individuele T-DAB blok 8A betekent dit 37 dBµV/m.</td></tr>
+<tr><td>Frankrijk (F)</td><td>Actuele netwerken kunnen worden geïmplementeerd zolang op de allotmentgrenzen de maximaal te accepteren cumulatieve interferentie veldsterkte van het uitgewerkte netwerk in agreement HOL-T (annex 1) niet wordt overschreden.</td><td>Actuele netwerken kunnen worden geïmplementeerd zolang op de allotment grenzen de maximaal te accepteren cumulatieve interferentie veldsterkte van het uitgewerkte netwerk in agreement HOL-T (annex 1) niet wordt overschreden.</td></tr>
+<tr><td>Luxemburg (LUX)</td><td>Geen beperkingen of verruimingen.</td><td>Geen beperkingen of verruimingen.</td></tr>
+<tr><td>Denemarken (DNK)</td><td>Geen beperkingen of verruimingen.</td><td>Geen beperkingen of verruimingen.</td></tr>
+</table>
+
+### Bijlage II — Behorend bij de vergunning voor digitale radio-omroep
+
+De kennisgeving van ingebruikname zoals bedoeld in artikel 9 dient conform circulair letter CR262 en in elektronische vorm (GE06 ITU Terrasys format) te worden aangeleverd. Een voorbeeld van dit format en CR262 zijn opgenomen op de USB-stick bedoeld in bijlage III, onderdeel 4.
+
+Indien u tevens het gebruik van uw frequentieruimte wilt (laten) notificeren in het MIFR kunt u dit kenbaar maken.
+
+### Bijlage III — Behorend bij de vergunning voor digitale radio-omroep
+
+**De volledige afspraken gemaakt tijdens GE06 en aanvullend, opgenomen op de USB-stick**
+
+- 1. GE06 final acts
+- 2. GE06 NL allotments
+- 3. GE06 Bilaterale afspraken
+- 4. Notificatieverzoek
+- 5. De interferentie nader in kaart gebracht
+- 6. *AT-DAB field trial using a low-mast infrastructure*, *University of Twente*, paragraaf 4.5.5, november 2006
+- 7. OFCOM-Industry MOU to permit the use of transmission sites, not contained within the Reserved Assignments List, to enhance coverage of licensed T-DAB broadcast networks, Appendix B, v1.0, 14 november 2006
+
+## Bijlage 6
+
+**Vergunning digitale radio-omroep allotment 6B, gekoppeld aan vergunningen kavels B28, B29 en B34, inclusief bijbehorende bijlagen**
+
+**DE STAATSSECRETARIS VAN ECONOMISCHE ZAKEN EN KLIMAAT**
+
+Gelezen de aanvraag van \<naam aanvrager\> te \<woonplaats\> van \<datum aanvraag\>, geregistreerd onder nummer \<ID-nummer aanvraag\>
+
+Gelet op de artikelen 3.13 en 3.14 van de Telecommunicatiewet, artikel 17 van het Frequentiebesluit 2013 en de Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017;
+
+BESLUIT:
+
+### Artikel 1 — Begripsbepalingen
+
+- 1. In deze vergunning wordt verstaan onder:
+  - a. *Minister:* Minister van Economische Zaken en Klimaat;
+  - b. *ITU:* Internationale Telecommunicatie Unie;
+  - c. *MIFR:* Master International Frequency Register, zijnde het register waarin radiostations met hun frequentieruimte zijn opgenomen, bedoeld in artikel 4.3 van het Radioreglement van de ITU;
+  - d. *notificatieverzoek:* verzoek van de samenwerkende vergunninghouders aan de Minister tot het doen van een notificatie van een in gebruik genomen dan wel te nemen (gedeelte van de) frequentieruimte op een bepaalde plaats, met als doel (dit gedeelte van) de frequentieruimte op die bepaalde plaats na goedkeuring door het radiocommunicatiebureau van de ITU te registreren in het MIFR teneinde internationale bescherming van (dit gedeelte van) de frequentieruimte op die bepaalde plaats te bewerkstelligen;
+  - e. *GE06:* Final Acts of the Regional Radiocommunication Conference for planning of the digital terrestrial Broadcasting service in parts of Regions 1 and 3, in the frequency bands 174 – 230 MHz and 470 – 862 MHz; Genève 2006;
+  - f. *samenwerkende vergunninghouders:* vergunninghouders die houder zijn van een deel van de capaciteit van de frequentieruimte binnen het in artikel 2, eerste lid, genoemde frequentiebereik;
+  - g. *N:* het aantal houders van een vergunning op een bepaald moment binnen het in artikel 2, eerste lid, genoemde frequentiebereik;
+  - h. *samenwerkingsovereenkomst:* overeenkomst als bedoeld in artikel 3.21 van de Telecommunicatiewet;
+  - i. *allotment:* het gebied dat gelegen is binnen de contouren zoals gevisualiseerd in de bijlage I;
+  - j. *ziekenhuis:* instelling voor medisch-specialistische zorg als bedoeld in artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi;
+  - k. *mobiele ontvangst:* mobile reception, zoals bedoeld in paragraaf 1.3.13 van GE06;
+  - l. *binnenontvangst:* portable reception class B, zoals bedoeld in paragraaf 1.3.12 van GE06.
+- 2. De definities in artikel 1.1, eerste lid, van de Mediawet 2008 zijn van toepassing.
+
+### Artikel 2 — Gebruiksrecht
+
+- 1. Aan \<naam vergunninghouder\>, ingeschreven in het handelsregister onder nummer \<nummer KvK\>, hierna te noemen: vergunninghouder, wordt, onverminderd het vijfde en zesde lid, een vergunning verleend voor het gebruik van 1/18de deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 182,880 MHz – 184,416 MHz (allotment 6B).
+- 2. De vergunninghouder gebruikt de in het eerste lid bedoelde frequentieruimte binnen drie maanden na inwerkingtreding van deze vergunning en houdt deze in gebruik.
+- 3. De vergunninghouder gebruikt de in het eerste lid genoemde frequentieruimte slechts in overeenstemming met de bestemming in het vigerende Nationaal Frequentieplan (NFP 2014), en onder die bestemming gegeven beperkingen.
+- 4. De vergunninghouder gebruikt de aan hem toegewezen frequentieruimte voor het aanbieden van ten minste één programmakanaal bestaande uit radioprogramma’s, waarbij dat programmakanaal wordt gebruikt voor het gelijktijdig en ongewijzigd uitzenden van radioprogramma’s die door middel van de gekoppelde analoge vergunning overeenkomstig het NFP 2014 voor kavel B\<kavelnummer\> van de vergunning met dossiernummer \<dossiernummer\> worden uitgezonden in een kwaliteit die ten minste gelijk is aan 192 kb/s (stereo-uitzending), indien gebruikt wordt gemaakt van MPEG 2, 48 kb/s (stereo-uitzending), indien gebruik wordt gemaakt van AAC+, of, indien gebruik wordt gemaakt van een andere techniek, met een geluidskwaliteit die ten minste vergelijkbaar is met de kwaliteit die met stereo kan worden behaald door middel van de twee genoemde technieken.
+- 5. Indien een andere vergunning voor het gebruik van een deel van de capaciteit van de frequentieruimte binnen het in het eerste lid genoemde frequentiebereik niet is verleend dan wel is ingetrokken, is de vergunninghouder tot de dag van inwerkingtreding van het besluit waarmee die vergunning voor het eerst onderscheidenlijk opnieuw wordt verleend, gerechtigd 1/N-de deel van de capaciteit van de ingetrokken vergunning te gebruiken.
+- 6. De vergunninghouder is gerechtigd een deel van de capaciteit te laten gebruiken door een andere samenwerkende vergunninghouder, indien:
+  - a. beide vergunninghouders daarmee schriftelijk hebben ingestemd, en
+  - b. hij blijft voldoen aan de voorschriften en beperkingen in zijn vergunning.
+- 7. De vergunninghouder die een deel van de aan een andere samenwerkende vergunninghouder vergunde capaciteit gebruikt als bedoeld in het zesde lid, neemt het derde lid in acht.
+- 8. De vergunninghouder die een schriftelijke instemming heeft gegeven als bedoeld in het zesde lid, onderdeel a, zendt hiervan onverwijld een afschrift aan de Minister.
+
+### Artikel 3 — Samenwerking vergunninghouders
+
+- 1. De vergunninghouder gaat de samenwerkingsovereenkomst schriftelijk aan.
+- 2. De vergunninghouder verstrekt een afschrift van de samenwerkingsovereenkomst en aanvullingen of wijzigingen daarvan onverwijld aan de Minister.
+- 3. De vergunninghouder sluit tezamen met de andere samenwerkende vergunninghouders een overeenkomst als bedoeld in artikel 10.15, tweede lid, onderdeel b, van de Telecommunicatiewet met een rechtspersoon die namens hen het elektronische communicatienetwerk zal aanleggen en in stand houden voor het gezamenlijk gebruik van de in artikel 2 genoemde frequentieruimte dan wel treedt tot een reeds bestaande overeenkomst, als voormeld, toe.
+- 4. In het belang van doelmatig gebruik van de frequentieruimte binnen het frequentiebereik genoemd in artikel 2, eerste lid, wordt in de overeenkomst, bedoeld in het derde lid, bepaald dat het in gebreke blijven van een andere samenwerkende vergunninghouder jegens de rechtspersoon, bedoeld in het derde lid, niet tot gevolg heeft dat de aanleg van het elektronische communicatienetwerk als bedoeld in het derde lid en de uitzending van de radioprogramma’s, bedoeld in artikel 2, vierde lid, ten behoeve van de vergunninghouder wordt gestaakt, onderbroken of beperkt.
+- 5. Indien na het tijdstip waarop de samenwerkingsovereenkomst in werking treedt een vergunning wordt verleend voor een deel van het gebruik van de capaciteit van de frequentieruimte binnen het frequentiebereik genoemd in artikel 2, eerste lid, zorgt de vergunninghouder ervoor dat die nieuwe vergunninghouder op non-discriminatoire voorwaarden partij kan worden bij de samenwerkingsovereenkomst.
+
+### Artikel 4 — Technische beschrijving
+
+Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technische beschrijving zoals deze in bijlagen I en III is opgenomen. De technische beschrijving omvat tevens het spectrummasker 1 voor T-DAB radioapparaten, werkend in niet-kritische omstandigheden.
+
+### Artikel 5 — Registratie van frequentieruimte
+
+- 1. De vergunninghouder staakt of beperkt het gebruik van de frequentieruimte, bedoeld in artikel 2, voor zover dit leidt tot belemmeringen in het gebruik van in het MIFR door anderen geregistreerde frequentieruimte.
+- 2. Bij het gebruik van de frequentieruimte heeft de vergunninghouder geen aanspraak op enigerlei vorm van bescherming van dat gebruik, indien verstoring van het gebruik plaatsvindt door het gebruik van in het MIFR geregistreerde frequentieruimte.
+- 3. Het bepaalde in het eerste en tweede lid is niet van toepassing voor zover de frequentieruimte, bedoeld in artikel 2, in het MIFR is geregistreerd door de samenwerkende vergunninghouders.
+- 4. Teneinde registratie in het MIFR in gang te zetten, kunnen de samenwerkende vergunninghouders een notificatieverzoek daartoe indienen bij de Minister.
+- 5. Het notificatieverzoek geschiedt met gebruikmaking van het “Formulier kennisgeving ingebruikname en notificatie” bedoeld in bijlage II.
+
+### Artikel 6 — Ingebruiknameverplichting
+
+- 1. De vergunninghouder biedt de dienst, omschreven in artikel 2, aan met een geografische verzorging van 85% mobiele ontvangst en een demografische verzorging van 65% binnenontvangst.
+- 2. Vanaf 1 januari 2020 biedt de vergunninghouder de dienst, omschreven in artikel 2, aan met een geografische verzorging van 90% mobiele ontvangst en een demografische verzorging van 75% binnenontvangst.
+- 3. De geografische verzorging zoals bedoeld in het eerste en tweede lid is voor mobiele ontvangst vastgesteld op een veldsterkte van 60 dBµV/m en de demografische verzorging voor binnenontvangst op een veldsterkte van 66 dBµV/m op 10 meter hoogte voor 50% van de tijd en plaats en bij een referentiefrequentie van 200 MHz. Indien een andere centrumfrequentie wordt gebruikt, wordt de voorgeschreven veldsterkte aangepast conform annex 3.5 van GE06.
+
+### Artikel 7 — Wegnemen belemmeringen
+
+- 1. Indien op enige plaats binnenshuis door het gewenste signaal van de in het kader van deze vergunning gebruikte radioapparaten belemmeringen in de ontvangst van kabeltelevisie worden veroorzaakt draagt de natuurlijke of rechtspersoon bedoeld in het vierde lid, dan wel indien deze verzaakt, de vergunninghouder, er op verzoek van degene die de belemmeringen ondervindt, zorg voor dat deze onverwijld op kosten van de samenwerkende vergunninghouders worden verholpen, voor zover ter plaatse:
+  - a. de hoogfrequentdichtheid van de gebruikte aansluitkabels en de daaraan bevestigde connectoren een waarde hebben van ten minste 70 dB, en
+  - b. het stoorsignaal als gevolg van het krachtens deze vergunning gebruiken van frequentieruimte hoger is dan 23 dBμV.
+- 2. De in het eerste lid, onder b, genoemde waarde dient evenredig verhoogd te worden met de waarde van het signaalniveau op het abonnee-overnamepunt boven de vereiste minimumwaarde van 60 dBμV.
+- 3. Onverminderd het bepaalde in het eerste en tweede lid, is de natuurlijke persoon of rechtspersoon bedoeld in het vierde lid, danwel de vergunninghouder niet gehouden televisie-ontvangapparaten en aanverwante apparatuur te vervangen die:
+  - a. niet geschikt zijn om een stoorspanning van 23 dBμV vermeerderd met de signaalspanning op het kabeltelevisienet bij het abonnee-overnamepunt te ontvangen, of
+  - b. een hoogfrequentdichtheid van minder dan 70 dB hebben.
+- 4. De samenwerkende vergunninghouders wijzen één natuurlijke persoon of rechtspersoon aan die de belemmeringen en de kosten, bedoeld in het eerste lid, wegneemt respectievelijk vergoedt.
+- 5. De vergunninghouder is verplicht 1/N-de deel van de kosten, bedoeld in het eerste lid, te vergoeden.
+
+### Artikel 8 — Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+
+- 1. De vergunninghouder veroorzaakt:
+  - a. geen ontoelaatbare belemmeringen door het gewenste signaal van radioapparaten in andere radioapparaten of in elektrische of elektronische inrichtingen, en
+  - b. in het frequentiegebied van 100 kHz tot en met 2,5 GHz in ziekenhuizen, alsmede op de percelen waar deze ziekenhuizen staan, geen piekwaarde van de elektrische veldsterkte die gelijk is aan of hoger is dan 5,4 volt per meter.
+- 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
+- 3. Artikel 7, vierde en vijfde lid, is van overeenkomstige toepassing.
+
+### Artikel 9 — Kennisgeving ingebruikname
+
+De vergunninghouder stelt de Minister van elke ingebruikname van (onderdelen van) de frequentieruimte uiterlijk vier weken van tevoren schriftelijk in kennis en overlegt daarbij de gegevens bedoeld in bijlage II conform het in die bijlage vermelde format.
+
+### Artikel 10 — Correspondentie
+
+- 1. Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
+- 2. De verplichting, bedoeld in artikelen 3, tweede lid en 9, geldt niet voor zover een samenwerkende vergunninghouder namens een andere vergunninghouder de verplichte kennisgeving of mededeling doet.
+
+### Artikel 11 — Overeenkomst gezamenlijk gebruik
+
+De samenwerkingsovereenkomst wordt gesloten binnen een periode van ten hoogste zes weken na inwerkingtreding van deze vergunning.
+
+### Artikel 12 — Inwerkingtreding en looptijd van de vergunning
+
+Deze vergunning treedt in werking op \<de dag na verzending\> en loopt tot en met 31 augustus 2022.
+
+*\<\<Deze vergunning wordt in de Staatscourant geplaatst, met uitzondering van de bijlagen.\>\>*
+
+### Bijlage I — – Allotment 6b behorend bij de vergunning voor digitale omroep
+
+Het spectrummasker, bedoeld in artikel 4, is als volgt:
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262851.png)
+
+Figuur 1. Spectrum mask 1 for T-DAB transmitters operating in non sensitive cases
+
+Bron: GE06 pagina 169
+
+De technische beschrijving, bedoeld in artikel 4, luidt als volgt:
+
+De regionale kavel 2 heeft de omtrek beschreven in figuur 2. Het kavel is opgebouwd uit de GE06 DVB-T allotments HOL0901H (K9), HOL0902H (K6), HOL0903H (K8), HOL0904H (K9), HOL0905H (K7), HOL0906H (K9).
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262852.png)
+
+Figuur 2. Geografische indeling van de frequentieruimte
+
+De DVB-T allotments K6, K7, K8, K9 kunnen respectievelijk opgesplitst worden in de T-DAB blokken A,B,C,D. De oorspronkelijke allotment vorm is hierdoor niet aangetast.
+
+Ten behoeve van deze vergunning wordt het volgende T-DAB blok beschreven:
+
+Blok 6B
+
+De punten waaruit de omtrek van elk allotment is opgebouwd zijn op een USB-stick opgenomen. Deze (USB-stick) maakt onderdeel uit van bijlage III.
+
+Gedurende de Genève ’06 conferentie is een aantal nadere afspraken gemaakt met de Nederland omringende landen. Deze afspraken bevatten in essentie hetgeen is weergeven in de onderstaande tabellen. De vergunninghouder respecteert de afspraken die Nederland heeft gemaakt. De volledige afspraken zijn opgenomen in bijlage III. Bij tegenstrijdigheid van de samenvatting in de tabellen en de afspraken, opgenomen in bijlage III, prevaleren de laatstgenoemde.
+
+De bilaterale afspraken zijn een verbijzondering van de algemene planningscriteria van GE06 met als doel incompatibiliteiten tussen de *assignments* of *allotments* in het GE06-plan op te heffen. De implementatie moet zowel voldoen aan GE06 als aan de aanvullende voorwaarden in de onderstaande tabellen.
+
+Indien in tabellen geen aanvullende beschermingseisen zijn gesteld, dan mag een actueel netwerk evenveel interferentie produceren als een referentienetwerk.
+
+#### Frequentieblok 6B (182,880 MHz – 184,416 MHz)
+
+Het gemarkeerde gebied met 6B heeft betrekking op frequentieblok 182,880 MHz – 184,416 MHz en komt uit allotment HOL0902H.
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0042430/2019-07-20_0/xml/262853.png)
+
+Figuur 3. Overzicht frequentieblok 6B, allotment HOL0902H
+
+#### Resultaten afspraken Nederland omringende landen
+
+##### Afspraken gemaakt tijdens conferentie
+
+Tabel 1 geeft de afwijkingen weer van de acceptatie van veldsterkten door, en bescherming van, buitenlandse allotments in overeenstemming met de procedure, bedoeld in artikel 5 jo. Section II of Annex 4 ‘Examination of conformity with the digital Plan entry’ GE06.
+
+**Tabel 1 Resultaten van de vastgestelde bilaterale afspraken tijdens GE06**
+
+<table>
+<tr><th>Blok 6B</th><th colspan="2">NEDERLAND (HOL)</th></tr>
+<tr><th>LAND</th><th>Accepteert</th><th>Beschermt</th></tr>
+<tr><td>Verenigd Koninkrijk (G)</td><td>De cumulatieve veldsterkte van de Engelse PMR toepassingen op de Nederlandse kust zal de 43 dB(μV/m) niet overschrijden.</td><td>De cumulatieve veldsterkte van de Nederlandse T-DAB allotment HOL0902H op de Engelse kust zal de 37 dB(μV/m) niet overschrijden.</td></tr>
+<tr><td>Duitsland (D)</td><td>Maximaal 38 dB(μV/m) van de Duitse T-DAB allotments toegestaan op de grens van het Nederlandse T-DAB allotment HOL0902H.<br>Maximaal 44 dB(μV/m) van de Duitse DVB-T allotments toegestaan op de grens van het Nederlandse T-DAB allotment HOL0903H.</td><td>Maximaal 38 dB(μV/m) van de Nederlandse T-DAB allotment HOL0902H toegestaan op de grens van de respectievelijke Duitse T-DAB allotments<br>Maximaal 35 dB(μV/m) van de Nederlandse T-DAB allotment HOL0902H toegestaan op de grens van de respectievelijke Duitse DVB-T allotments</td></tr>
+<tr><td>België (BEL)</td><td>De cumulatieve veldsterkte van alle assignments van allotment BELDVBCF001 zal de 41 dBµV/m niet overschrijden op de grens van allotment HOL0902H.</td><td>De cumulatieve veldsterkte van alle assignments van allotment HOL0902H zal de 41 dBµV/m niet overschrijden op de grens van allotment BELDVBCF001. Voor het individuele T-DAB blok 6C betekent dit 35 dBµV/m.</td></tr>
+<tr><td>Frankrijk (F)</td><td>Geen beperkingen of verruimingen</td><td>Geen beperkingen of verruimingen</td></tr>
+<tr><td>Luxemburg (LUX)</td><td>Geen beperkingen of verruimingen</td><td>Geen beperkingen of verruimingen</td></tr>
+<tr><td>Denemarken (DNK)</td><td>Actuele netwerken kunnen worden geïmplementeerd zolang op de allotment grenzen de maximaal te accepteren cumulatieve interferentie veldsterkte E<sub>max int</sub> niet wordt overschreden:<br>– VHF, DVB-T interfering T-DAB (RPC 5) E<sub>max int</sub>= 45 dB(μV/m)<br>– VHF, T-DAB interfering T-DAB (RPC 5) E<sub>max int</sub>= 39 dB(μV/m)</td><td>Actuele netwerken kunnen worden geïmplementeerd zolang op de allotment grenzen de maximaal te accepteren cumulatieve interferentie veldsterkte E<sub>max int</sub> niet wordt overschreden:<br>– VHF, single T-DAB block interfering DVB-T (RPC 2)<br>E<sub>max int</sub>= 39 dB(μV/m)<br>– VHF, T-DAB interfering T-DAB (RPC 5) E<sub>max int</sub>= 39 dB(μV/m)</td></tr>
+</table>
+
+### Bijlage II — Behorend bij de vergunning voor digitale radio-omroep
+
+De kennisgeving van ingebruikname zoals bedoeld in artikel 9 dient conform circulair letter CR262 en in elektronische vorm (GE06 ITU Terrasys format) te worden aangeleverd. Een voorbeeld van dit format en CR262 zijn opgenomen op de USB-stick bedoeld in bijlage III, onderdeel 4.
+
+Indien u tevens het gebruik van uw frequentieruimte wilt (laten) notificeren in het MIFR kunt u dit kenbaar maken.
+
+### Bijlage III — Behorend bij de vergunning voor digitale radio-omroep
+
+**De volledige afspraken gemaakt tijdens GE06 en aanvullend, opgenomen op de USB-stick**
+
+- 1. GE06 final acts
+- 2. GE06 NL allotments
+- 3. GE06 Bilaterale afspraken
+- 4. Notificatieverzoek
+- 5. De interferentie nader in kaart gebracht
+- 6. *AT-DAB field trial using a low-mast infrastructure*, university of Twente, paragraaf 4.5.5, november 2006
+- 7. OFCOM-Industry MOU to permit the use of transmission sites, not contained within the Reserved Assignments List, to enhance coverage of licensed T-DAB broadcast networks, Appendix B, v1.0, 14 november 2006
+
+## Bijlage 7
+
+**Toelichting behorende bij de vergunningen digitale radio-omroep, als opgenomen in bijlagen 5 en 6**
+
+### I — Algemeen
+
+#### 1 — Inleiding
+
+Met de onderhavige vergunning worden de frequentiegebruiksrechten geregeld voor digitale radio. De in de vergunning opgenomen frequentie-indeling volgt hoofdzakelijk uit internationale afspraken, waarvan de afspraken gemaakt tijdens een internationale conferentie in Genève in 2006 (GE06-afspraken) de meest in het oog springende afspraken zijn. De frequentieruimte bestaat uit één of meer frequentieblokken die in vast omlijnde geografische gebieden in Nederland inzetbaar zijn (zogenaamde ‘allotments’). Tijdens en na GE06 zijn nadere internationale afspraken gemaakt, doorgaans bilaterale afspraken tussen lidstaten, die als doel hebben om de inzetbaarheid en beschikbaarheid van de frequentieruimte voor digitale omroep in Nederland te verruimen. Van alle geldende afspraken zijn overzichten met voorwaarden en beperkingen samengesteld, die u in de bijlagen aantreft.
+
+#### 2 — Beschikbaarheid van frequentieruimte
+
+De frequentieruimte bedoeld in de vergunning bevindt zich in Band III binnen één of meer van de volgende frequentiebereiken:
+
+182,880 – 184,416 MHz (frequentieblok 6B);
+
+188,160 – 189,696 MHz (frequentieblok 7A);
+
+195,168 – 196,704 MHz (frequentieblok 8A);
+
+207,296 – 208,832 MHz (frequentieblok 9D-N en 9D-Z).
+
+#### 3 — Voorschriften en beperkingen
+
+##### Algemeen
+
+Aan het gebruik van frequentieruimte is een aantal voorschriften en beperkingen verbonden. Het frequentiegebruik is gebonden aan een spectrummasker. Een spectrummasker is ingesteld om doelmatig ethergebruik te bevorderen en te faciliteren dat aan de technologie verder geen bijzondere eisen worden gesteld. Door toepassing van een spectrummasker wordt eventuele storing op naastliggende frequentieblokken van andere vergunninghouders (zogenoemde nabuurkanaalinterferentie) beperkt.
+
+##### Nabuurkanaalinterferentie
+
+Onderzoeksresultaten tonen aan dat nabuurkanaalinterferentie hinderlijke storing veroorzaakt *indien* op de ontvangstlocatie het vermogensverschil tussen de ontvangstsignalen van de twee (T-DAB) netwerken tussen de eerste nabuurkanalen met meer dan 23 dB wordt overschreden. Voor het schatten van de nabuurkanaalinterferentie kunnen de onderzoeksresultaten voor Band III T-DAB ontvangers van de Universiteit van Twente en van OFCOM (de Engelse administratie) worden gebruikt.[^n1] Op deze onderzoeken zijn de navolgende nabuurkanaalprotectietabellen gebaseerd die door de vergunninghouder kunnen worden gebruikt. De in tabel 1 gebruikte verhouding van 23 dB is gebaseerd op een statistisch gecorrigeerde protectieverhouding bij eerste nabuurkanaalinterferentie.
+
+Tabel 1
+
+**Protectieverhouding exclusief statistische correctiefactor, dB**
+
+| 1e nabuurkanaal | 2e nabuurkanaal | 3e nabuurkanaal |
+| --- | --- | --- |
+| – 35 | – 40 | – 45 |
+
+**Protectieverhouding inclusief statistische correctiefactor, dB**
+
+| 1e nabuurkanaal | 2e nabuurkanaal | 3e nabuurkanaal |
+| --- | --- | --- |
+| – 23 | – 28 | – 33 |
+
+| Buitenomgeving locatie waarschijnlijkheid % | Binnenshuis locatie waarschijnlijkheid % |
+| --- | --- |
+| 99 | 95 |
+| standaarddeviatie 4,3 dB | standaarddeviatie 7,41 dB |
+
+Om verschil van inzicht omtrent de omvang van de nabuurkanaalinterferentie te voorkomen kunnen de nabuurkanaalinterferentieberekeningen volgens de in de GE06 overeenkomst beschreven procedures en het planningsmodel ITU-R P1546 steeds als uitgangspunt worden genomen.
+
+Indien de vergunninghouder zijn netwerken uitrolt volgens het principe van *‘good engineering practice’* kan veel storing bij voorbaat worden voorkomen.
+
+De vergunninghouder van een digitale omroepvergunning mag, binnen de grenzen van de vergunning, zelf bepalen waar hij welke zender in gebruik neemt. Ook mag hij een zender verplaatsen binnen de grenzen van de vergunning. Daarnaast kunnen vergunninghouders problemen van nabuurkanaalinterferentie zelf voorkomen en oplossen. Om die reden is er vooralsnog geen rol weggelegd voor de overheid anders dan het verschaffen van informatie.
+
+##### Oplossingsrichtingen voor nabuurkanaalinterferentie
+
+Er zijn meerdere oplossingsrichtingen, geschikt voor het voorkomen van nabuurkanaalinterferentie, onder andere:
+
+- • het plaatsen van de zender op een gecombineerde zenderlocatie;
+- • het plaatsen van een zogenoemde gap filler, dat is een kleinvermogenszender die in staat is het verzorgingsgat in het naburige kanaal, dat is ontstaan door een nieuwe zender, te dichten;
+- • het aanpassen van de netwerktopologie, zodanig dat rekening wordt gehouden met de opstelpunten van de andere vergunninghouder.
+
+Uiteraard zal in veel gevallen overleg met de andere vergunninghouder(s) van belang zijn bij het kunnen oplossen of voorkomen van nabuurkanaalinterferentie. Door de universiteit Twente (Schiphorst, R., *A T-DAB field trial using a low-mast infrastructure*, university of Twente, paragraaf 4.5.5, november 2006) is onderzoek gedaan naar nabuurkanaalinterferentie. Het spectrummasker in bijlage I van deze vergunning is mede op dit onderzoek gebaseerd. Daarnaast is er rekening gehouden met ervaringen met digitale omroep in Groot Brittannië.[^n2]
+
+#### 4 — Koppeling met FM en samenwerking tussen de verschillende vergunninghouders
+
+Er zijn verschillende frequentieblokken. Per frequentieblok geldt dat wordt vergund aan (maximaal) 18 vergunninghouders, waarbij iedere vergunninghouder 1/18-de deel van de capaciteit krijgt toebedeeld in een gelijk deel van het frequentiespectrum. Technisch gezien dienen de vergunninghouders daarom één gezamenlijk netwerk uit te (doen) rollen. Met het oog hierop is in artikel 3.21 van de Telecommunicatiewet bepaald dat vergunninghouders een samenwerkingsovereenkomst moeten sluiten, zie ook de toelichting bij artikel 11.
+
+De vergunning is, zoals het Nationaal Frequentieplan (NFP 2014) voorschrijft, gekoppeld aan de vergunning voor de FM-band. Uit het NFP 2014 en artikel 2, vierde lid, van de vergunning volgt dat de vergunninghouder zijn radioprogramma gelijktijdig en ongewijzigd dient uit te zenden in ten minste met FM vergelijkbare stereo geluidskwaliteit althans een geluidskwaliteit die ten minste vergelijkbaar is met de geluidskwaliteit die kan worden behaald met een MPEG2 192 kb/s of AAC+ 48 kb/s stereo-uitzending. De laatste toevoeging is gekozen om digitaal ‘handen en voeten’ te geven aan het analoge begrip FM-stereokwaliteit. Uiteraard mag, binnen de grenzen van zijn vergunning, de houder kiezen voor een hoger kwaliteitsniveau. Daarnaast mag de vergunninghouder de eventueel overgebleven ruimte binnen de aan hem toegewezen capaciteit ook gebruiken voor andere omroepdiensten dan radio. Dit volgt ook uit de bestemming digitale omroep in het NFP 2014.
+
+Mocht – om wat voor reden dan ook – een of meer van de vergunningen worden ingetrokken krachtens artikel 3.19 van de Telecommunicatiewet, dan gaat de resterende capaciteit van rechtswege en pro rato tijdelijk over naar de overgebleven vergunninghouders. Dit is geregeld in artikel 2, vijfde lid, van de vergunning. Na de intrekking zal die vergunning in beginsel opnieuw verdeeld worden. Alsdan zal de capaciteit van 1/18-de deel vergund worden aan de nieuwe vergunninghouder.
+
+Verder is relevant dat de gewenste bitrate per type programma kan verschillen. De nuances van klassieke muziek vergen doorgaans een hogere bitrate dan de bitrate die is benodigd voor het overbrengen van spraak. In de onderlinge verschillen in bitrate is voorzien door te regelen dat de vergunninghouders afspraken kunnen maken over het ‘verdelen’ van capaciteit aan elkaar.
+
+Randvoorwaarde is wel dat de vergunninghouder zijn FM-radioprogramma ook digitaal in de minimaal voorgeschreven stereo geluidskwaliteit uitzendt en ook overigens de voorwaarden van NFP 2014 in acht neemt.
+
+Een eventueel op te richten of al opgericht samenwerkingsverband treedt niet in de plaats van de verplichtingen van de vergunninghouder. Deze blijft rechtens aanspreekbaar. Iedere vergunninghouder is verplicht om zijn vergunningvoorschriften na te komen ongeacht een samenwerkingsverband.
+
+#### 5 — Overig
+
+Ten aanzien van de te gebruiken technologie zijn geen bijzondere eisen gesteld. Wel is een spectrummasker voorgeschreven (zie bijlage I).
+
+#### 6 — Consultatie
+
+Een ontwerp van deze vergunning is van (datum) tot en met (datum) geconsulteerd. Hieronder wordt op de ingekomen zienswijzen ingegaan, voor zover zij betrekking hebben op deze ontwerpvergunning.
+
+\<PM\>
+
+### II — Artikelsgewijs
+
+#### Artikel 1
+
+In artikel 1 zijn de begripsomschrijvingen opgenomen.
+
+#### Artikel 2
+
+In artikel 2 wordt omschreven aan welke rechtspersoon de vergunning is toegekend en voor welke frequentieruimte dat is gebeurd. Voorts is de bestemming van de vergunning gekoppeld aan de bestemming in het geldende NFP zodat wijzigingen in het NFP direct doorwerken in de vergunning. De minimale geluidskwaliteit is kwalitatief voorgeschreven. Tevens is geregeld hoe eventueel bitrates kunnen worden uitgeruild.
+
+#### Artikel 3
+
+In artikel 3, eerste en tweede lid, is geregeld dat de overeenkomst, bedoeld in artikel 3.21 van de Telecommunicatiewet, (schriftelijk) dient te worden aangegaan en dat een afschrift hiervan en de wijzigingen daarop onverwijld aan de Minister dienen te worden verstrekt.
+
+De vergunninghouders worden geconfronteerd met de situatie dat zij gezamenlijk een netwerk dienen uit te rollen. Het derde lid bevat voorschriften om de samenwerking te bespoedigen en de kans op conflicten te minimaliseren. Een van de risico’s die zich kan voordoen is dat een van de vergunninghouders niet voldoet aan zijn financiële verplichting waardoor de samenwerking in het gedrang kan komen.
+
+Uit het derde lid volgt verder dat de gezamenlijke vergunninghouders één rechtspersoon dienen aan te wijzen die namens hen de uitrol verzorgt. Er gelden geen beperkingen aan de keuze voor een bepaalde rechtspersoon.
+
+Het toezicht door de Minister is alleen gericht op de naleving van de bij of krachtens de wet gestelde voorschriften inclusief de vergunning. De gezamenlijke vergunninghouders kunnen uiteraard wel civielrechtelijk eventueel geleden schade of sancties verhalen op de partij die in gebreke blijft.
+
+Verder is bepaald dat het contract met de rechtspersoon verplicht dat het niet voldoen van één of meerdere samenwerkende vergunninghouders aan de contractuele verplichtingen geen gevolgen heeft voor de overige vergunninghouders die wel hun afspraken nakomen. Met dit voorschrift wordt beoogd te bereiken dat in de wisselwerking tussen de vergunninghouders en de rechtspersoon die namens hen het netwerk uitrolt, gekozen wordt voor die vorm van samenwerking waarbij de kans op succes zo groot mogelijk is.
+
+De mogelijkheid bestaat om (bijvoorbeeld) een operator te machtigen om voor de vergunninghouder(s) de kennisgeving van de ingebruikname te melden en /of het notificatieverzoek in te dienen bij Agentschap Telecom. De machtigingsbepaling kan indien gewenst worden opgenomen in de samenwerkingsovereenkomst. Wel dient ook de gemachtigde gebruik te maken van het formulier bedoeld in Bijlage II en dienen de gegevens elektronisch te worden aangeleverd bij Agentschap Telecom.
+
+De leden drie tot en met vijf zijn bedoeld om de samenwerking te stimuleren.
+
+Indien een vergunning voor digitale radio-omroep op een later tijdstip wordt uitgegeven, zal de nieuwe vergunninghouder tot het samenwerkingsverband moeten toetreden. Het vijfde lid zorgt ervoor dat die toetreding op basis van non-discriminatoire voorwaarden geschiedt.
+
+#### Artikel 4
+
+Artikel 4 verwijst naar het voorgeschreven “spectrum mask 1” van figuur 1 in bijlage I en naar de overige technische voorwaarden verbonden aan het gebruik van de frequentieruimte. In Figuur 1 van bijlage I worden drie spectrummaskers weergegeven. Het voorgeschreven spectrummasker 1 betreft het masker voor niet-kritische omstandigheden. Het spectrummasker regelt de maximale bandbreedte van het radiosignaal en is van belang om doelmatig ethergebruik te bevorderen. De voorwaarden zijn opgesomd in bijlage I van deze vergunning. Het spectrummasker toont een grafische weergave van een (denkbeeldige) omhullende dempingswaarde in een frequentieblok waarbinnen het frequentie-gebruik kan plaatsvinden. Gezien het toenemend gebruik van frequentieruimte in Band III en daarmee de toenemende kans op nabuurkanaalinterferentie problemen, wordt echter geadviseerd om spectrummasker 2 voor kritische omstandigheden te hanteren.
+
+##### Geografische grenzen van allotments
+
+In bijlage I wordt omschreven in welk geografisch gebied binnen Nederland de allotments kunnen worden gebruikt en onder welke voorwaarden.
+
+Het geografische gebied is geschetst aan de hand van tijdens GE06 afgesproken grenspunten. De kavel bestaat uit een selectie van één of meer allotments uit de reeks: HOL0901H, HOL0902H, HOL0903H, HOL0904H, HOL0905H en HOL0906H. Op de bijgesloten USB-stick staan de geografische grenzen van elk allotment in de bovenregionale kavel nader gespecificeerd en is ook informatie te vinden over de ligging van een allotment ten opzichte van andere allotments elders in Nederland en de andere landen van West-Europa.
+
+De samenwerkende vergunninghouders moeten hun netwerk zo inrichten dat voldaan wordt aan de waarden bedoeld in bijlage I.
+
+#### Artikel 5
+
+Dit artikel beschrijft de procedure om opgenomen te worden in het Master International Frequency Register (MIFR), het frequentieregister van de Internationale Telecommunicatie Unie (ITU). Dit register is ingesteld om in het geval van storing tussen zenders te kunnen bepalen wie (internationaal) welke rechten heeft ten aanzien van het gebruik van de betwiste frequentieruimte. Opname in het register gaat per zenderopstelpunt (assignment) en kan niet voor een geheel frequentieblok (allotment) plaatsvinden.
+
+Omdat deze vergunning frequentiegebruiksrechten in de vorm van allotments bevat, opdat een vergunninghouder zijn eigen netwerk kan plannen, moet – indien de vergunninghouder voor zijn frequentiegebruik internationaal gezien bescherming wenst – elk opstelpunt worden aangemeld bij het MIFR.
+
+De procedure is facultatief, echter internationale bescherming van de frequentie-ruimte is volgens de ITU-regels pas bij inschrijving in het MIFR definitief. Agentschap Telecom adviseert om die reden inschrijving in het MIFR en zal de inschrijving faciliteren.
+
+Voordat tot inschrijving wordt overgegaan worden de gegevens eerst ter inzage gelegd (notificatieprocedure). Inschrijving/notificatie gebeurt op basis van de gegevens bedoeld in bijlage II. Deze gegevens worden elektronisch aangeleverd bij Agentschap Telecom. Het format voor het aanleveren van de gegevens is opgenomen op de USB-stick die bij deze vergunning hoort.
+
+De mogelijkheid bestaat om (bijvoorbeeld) een operator te machtigen om voor de vergunninghouder(s) het notificatieverzoek in te dienen bij Agentschap Telecom. De machtigingsbepaling kan indien gewenst worden opgenomen in de samenwerkingsovereenkomst.
+
+#### Artikel 6
+
+De verzorging op veldsterkteniveau is voor alle vergunninghouders binnen een allotment gelijk. Dit betekent dat op het moment dat u de frequentieruimte in gebruik neemt hetzelfde verzorgingsniveau van toepassing is als voor de overige vergunninghouders binnen het allotment.
+
+Technisch gezien moeten alle vergunninghouders van eenzelfde allotment gebruik maken van hetzelfde netwerk. Er is reeds een bestaand netwerk in gebruik.
+
+De achtergrond van de ingebruiknameverplichting is de garantie dat er door de vergunninghouder geïnvesteerd wordt in een uitzendnetwerk voor digitale radio. Daarbij is gekozen voor een verplichting van een geografische verzorging op ten minste het verzorgingsniveau ‘mobiele ontvangst’ en een demografische verzorging op ten minste het verzorgingsniveau ‘binnenontvangst’.
+
+Onder geografische verzorging binnen een allotment wordt verstaan de verzorging in het allotment inclusief binnen- en buitenwater. Het is aan de vergunninghouder zelf om te beslissen waar hij binnen het allotment zijn geografische en demografische verzorging realiseert, mits er geen afbreuk wordt gedaan aan de in het eerste en tweede lid genoemde verzorging.
+
+Het derde lid legt de minimaal te realiseren veldsterkte vast die de vergunninghouder moet realiseren bij naleving van de ingebruiknameverplichting. De te behalen veldsterkte niveaus zijn afkomstig van de in GE06 vastgelegde afspraken. Met deze veldsterkte waardes, welke voor 50% tijd en plaats waarschijnlijkheid gelden op 10 meter hoogte, is de kans op goede ontvangst op een gegeven locatie 99% voor mobiele ontvangst en 95% voor binnenontvangst op 1,5 meter hoogte. De verrekening van het effect van het verschil in ontvangstantenne hoogte kan bepaald worden middels tabel 3-3 van GE06.
+
+Bij het bepalen van deze norm is rekening gehouden met terrein en morfologische eigenschappen.
+
+De ingebruiknameverplichting is gebaseerd op het uitgangspunt dat digitale etherradio minimaal een volwaardig alternatief zal worden voor analoge FM-ontvangst, zodat de consument zowel in de auto als binnenshuis goede ontvangst ervaart en daadwerkelijk kan profiteren van de voordelen die digitale etherradio biedt.
+
+#### Artikel 7
+
+Artikel 7 regelt het oplossen van storingsproblematiek op binnenhuisbekabeling bij consumenten thuis, voor zover het de ontvangst van kabeltelevisie betreft.
+
+De reden hiervoor is dat de frequentieruimte die zich bevindt in Band III, en daarmee ook de frequentieruimte genoemd in deze vergunning, ook voor de verspreiding van televisiesignalen via kabelnetwerken gebruikt wordt. In beginsel beïnvloeden beide netwerken elkaar niet tenzij bepaalde stoorspannings-grenswaarden worden overschreden.
+
+In het artikel zijn de condities benoemd waaronder de vergunninghouder de kosten dient te dragen voor de oplossing van de storing. De in artikel 7 genoemde signaalniveaus zijn afgeleid uit het rapport ‘De interferentie nader in kaart gebracht’, 2000, van de Rijksdienst voor Radiocommunicatie.[^n3]
+
+#### Artikel 8
+
+Ingevolge artikel 17 van het Frequentiebesluit 2013 is de Minister van Economische Zaken en Klimaat bevoegd om aan een vergunning voor het gebruik van frequentieruimte voorschriften en beperkingen te verbinden ter voorkoming van storingen of belemmeringen door het gewenste signaal van een radioapparaat in andere apparaten. De Minister heeft, onverminderd de bepalingen ten aanzien van interferentie in kabeltelevisienetwerken bedoeld in artikel 7, als vaste beleidslijn in iedere vergunning waarin géén voorschriften over het maximale zendvermogen zijn opgenomen, het voorschrift op te nemen dat de vergunninghouder geen ontoelaatbare belemmeringen door het gewenste signaal mag veroorzaken. Deze beleidslijn is vastgelegd in de Beleidsregel storing door het gewenste signaal van radiozendapparaten.
+
+#### Artikel 9
+
+Als frequentieruimte in gebruik wordt genomen, informeert de vergunninghouder Agentschap Telecom uiterlijk vier weken van tevoren. Dit is van belang om bij eventuele storingen, zoals storing op kabelnetwerken of op buitenlandse allotments, snel maatregelen te kunnen nemen. Vooraf kan storing worden voorkomen door goede voorlichting. Sinds 1 januari 2011 verzorgt het Antennebureau de publieksvoorlichting over interferentie op de ontvangst van kabeltelevisie. Voor meer informatie kan met het Antennebureau contact worden opgenomen. De contactgegevens zijn via http://www.antennebureau.nl te raadplegen.
+
+Voor de melding bedoeld in dit artikel wordt gebruik gemaakt van het formulier bedoeld in bijlage II. Deze gegevens worden elektronisch aangeleverd bij Agentschap Telecom. Het format voor het aanleveren van de gegevens is opgenomen op de USB-stick die bij deze vergunning hoort.
+
+De mogelijkheid bestaat om (bijvoorbeeld) een operator te machtigen om voor de vergunninghouder(s) de kennisgeving van de ingebruikname te melden bij Agentschap Telecom. De machtigingsbepaling kan indien gewenst worden opgenomen in de samenwerkingsovereenkomst. Wel dient ook de gemachtigde gebruik te maken van het formulier bedoeld in Bijlage II en dienen de gegevens elektronisch te worden aangeleverd bij Agentschap Telecom.
+
+#### Artikel 10
+
+In artikel 10 wordt de wijze van correspondentie geregeld van vergunninghouders aan Agentschap Telecom.
+
+#### Artikel 11
+
+De verkrijger van deze vergunning dient voor het gebruik van de frequentieruimte samen te werken met andere vergunninghouders. Artikel 3.21 van de Telecommunicatiewet verplicht in dat geval tot het sluiten van een samenwerkingsovereenkomst en regelt daarvoor ook een periode waarin tot samenwerking moet worden gekomen. Hieraan wordt in artikel 11 van de vergunning uitvoering gegeven. Van de samenwerkingsovereenkomst dient een afschrift aan Agentschap Telecom te worden gestuurd.
+
+#### Artikel 12
+
+Dit artikel regelt de inwerkingtreding en looptijd van de vergunning.
+
+[^n1]: 3 Bronnen: zie bijlage III horend bij de digitale vergunning onder punt 6 en 7.
+
+[^n2]: 4 Bronnen: zie bijlage III horend bij de digitale vergunning onder punt 6 en 7.
+
+[^n3]: 5 Bron: zie bijlage III horend bij de digitale vergunning onder punt 5.

@@ -1,0 +1,534 @@
+---
+title: "Regeling veterinaire maatregelen specifieke dierziekten of zoönosen"
+identifier: "BWBR0045051"
+type: regulation
+bwb_type: "ministeriele-regeling"
+jurisdiction: nl
+language: nl
+date: 2021-04-12
+last_amended: 2026-06-11
+status: in_force
+source: "https://wetten.overheid.nl/BWBR0045051/2026-06-11"
+source_xml: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045051/2026-06-11_0/xml/BWBR0045051_2026-06-11_0.xml"
+authority: "Landbouw, Natuur en Voedselkwaliteit"
+rechtsgebied: ["Ruimtelijke ordening en milieu", "Milieurecht"]
+retrieved: 2026-10-11
+---
+
+# Regeling veterinaire maatregelen specifieke dierziekten of zoönosen
+
+*Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 april 2021, nr. WJZ/21076966 , houdende regels ter voorkoming van specifieke besmettelijke dierziekten of zoönosen (Regeling veterinaire maatregelen specifieke dierziekten of zoönosen)*
+
+De Minister van Landbouw, Natuur en Voedselkwaliteit, handelende in overeenstemming met de de Minister voor Medische Zorg, Welzijn en Sport;
+
+Gelet op artikel 5.1, eerste lid, in samenhang met artikel 5.4 en 5.10, en op artikel 5.7 van de Wet dieren;
+
+Besluit:
+
+## Hoofdstuk 1 — Algemeen
+
+### Artikel 1.1 — Begripsbepalingen
+
+1\. In deze regeling wordt verstaan onder:
+
+- *minister:* Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- *verordening (EU) nr. 2016/429:* verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidswetgeving’) (PbEU 2016, L 84);
+- *wet:* Wet dieren.
+
+2\. De begripsbepalingen van artikel 4 van verordening (EU) nr. 2016/429 zijn van toepassing.
+
+## Hoofdstuk 2 — Preventieve maatregelen afrikaanse varkenspest
+
+### § 2.1 — Algemeen
+
+#### Artikel 2.1 — Grondslag
+
+Dit hoofdstuk berust op verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidswetgeving’) (PbEU 2016, L 84), uitvoeringsverordening (EU) 2023/594 van de Commissie van 16 maart 2023 tot vaststelling van bijzondere maatregelen ter bestrijding Afrikaanse varkenspest en tot intrekking van uitvoeringsverordening (EU) 2021/605 (PbEU 2023, L 79), en op de artikelen 5.1, eerste lid, in samenhang met artikel 5.4, eerste lid, in samenhang met het vierde lid, onderdeel d, en op artikel 5.7 van de Wet dieren.
+
+#### Artikel 2.1a — Begripsbepalingen
+
+1\. In deze paragraaf wordt verstaan onder:
+
+- *beperkingszone I:* gebied, opgenomen in deel I van bijlage I bij verordening 2023/594, of in deel I van bijlage 1a;
+- *beperkingszone II:* gebied, opgenomen in deel II van bijlage I of deel A van bijlage II bij verordening 2023/594, of in deel II van bijlage 1a;
+- *beperkingszone III:* gebied, opgenomen in deel III van bijlage I bij verordening 2023/594, of in deel III van bijlage 1a;
+- *verordening 853/2004:* verordening (EG) 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139);
+- *verordening 2020/687:* gedelegeerde verordening (EU) 2020/687 van de Commissie van 17 december 2019 tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat regels voor de preventie en bestrijding van bepaalde in de lijst opgenomen ziekten betreft (PbEU 2020, L 174);
+- *verordening 2023/594:* uitvoeringsverordening (EU) 2023/594 van de Commissie van 16 maart 2023 tot vaststelling van bijzondere maatregelen ter bestrijding Afrikaanse varkenspest en tot intrekking van uitvoeringsverordening (EU) 2021/605 (PbEU 2023, L 79).
+
+2\. De definities, opgenomen in artikel 2 van verordening 2020/687, in bijlage I bij verordening 853/2004 en in artikel 2 van verordening 2023/594 zijn van toepassing.
+
+### § 2.2 — Beheer wilde varkens
+
+#### Artikel 2.2 — Afwijking verbod drijfmethode bij doden wilde varkens
+
+1\. In afwijking van het verbod op het drijven van dieren in omgevingsvergunningen voor een flora- en fauna-activiteit als bedoeld in artikel 11.54 van het Besluit activiteiten leefomgeving of in voorkomend geval een programma of omgevingsverordening als bedoeld in de artikelen 11.55 en 11.56 van het Besluit activiteiten leefomgeving, is het toegestaan om wilde varkens te vangen en te doden door middel van een methode waarbij tussen zonsopgang en zonsondergang hoogstens zes personen, in aanwezigheid van ten hoogste drie aangelijnde honden, voor wilde varkens hoorbaar in het gebied aanwezig zijn zonder deze opzettelijk te verontrusten, met het oogmerk om deze dieren binnen het schootsveld van hoogstens zes geweerdragers te bewegen, opdat zij deze dieren kunnen doden.
+
+2\. Het eerste lid is alleen van toepassing in het grondgebied van de provincies:
+
+- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in bijlage 1;
+- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in bijlage 1;
+- c. Noord-Brabant; en
+- d. Overijssel.
+
+### § 2.3 — Verplaatsingsverboden varkens ter uitvoering van verordening 2023/594
+
+#### Artikel 2.3 — Verbod verplaatsing in het wild levende varkens
+
+Het is exploitanten verboden in het wild levende varkens te verplaatsen of in of buiten Nederland te brengen.
+
+#### Artikel 2.4 — Verplaatsing gehouden varkens
+
+Het is verboden gehouden varkens te verplaatsen binnen een beperkingszone I, II of III of vanuit de desbetreffende zone naar buiten de desbetreffende zone.
+
+#### Artikel 2.5 — Verplaatsing levende producten van gehouden varkens
+
+Het is verboden levende producten, verkregen van varkens, gehouden in een beperkingszone II of III, te verplaatsen naar buiten de desbetreffende zone.
+
+#### Artikel 2.6 — Verplaatsing dierlijke bijproducten van gehouden varkens
+
+1\. Het is verboden dierlijke bijproducten, verkregen van varkens, gehouden in een beperkingszone II of III, te verplaatsen naar buiten de desbetreffende zone.
+
+2\. Het verbod, bedoeld in het eerste lid, is niet van toepassing op dierlijke bijproducten die zijn verkregen van varkens die zijn gehouden buiten een beperkingszone II en III, en die in slachthuizen in een beperkingszone II of III zijn geslacht, indien die dierlijke bijproducten in inrichtingen en tijdens het vervoer duidelijk worden gescheiden van dierlijke bijproducten die zijn verkregen van varkens, gehouden in een beperkingszone II of III.
+
+#### Artikel 2.7 — Verplaatsing vers vlees, casings en vleesproducten van gehouden varkens
+
+1\. Het is verboden vers vlees, casings en vleesproducten, verkregen van varkens, gehouden in een beperkingszone II of III, te verplaatsen naar buiten de desbetreffende zone.
+
+2\. Het verbod, bedoeld in het eerste lid, is niet van toepassing op vers vlees, casings en vleesproducten die zijn verkregen van varkens, gehouden in een beperkingszone II of III, indien die één van de risicobeperkende behandelingen hebben ondergaan die in de tabel in bijlage VII bij verordening 2020/687 zijn aangegeven voor Afrikaanse varkenspest in een op grond van artikel 44, eerste lid, van verordening 2023/594 aangewezen inrichting.
+
+#### Artikel 2.8 — Verplaatsing producten van in het wild levende varkens
+
+1\. Het is verboden de volgende producten te verplaatsen in een beperkingszone I, II en III of vanuit een beperkingszone I, II of III naar buiten de desbetreffende zone:
+
+- a. van in het wild levende varkens verkregen:
+  - 1°. vers vlees;
+  - 2°. vleesproducten,
+  - 3°. andere producten van dierlijke oorsprong;
+  - 4°. dierlijke bijproducten; en
+  - 5°. afgeleide producten; en
+- b. voor menselijke consumptie bestemde kadavers van in het wild levende varkens.
+
+2\. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van dierlijke bijproducten indien:
+
+- a. de producten worden verplaatst naar een inrichting die is gelegen op Nederlands grondgebied;
+- b. de producten overeenkomstig verordening (EG) nr. 1069/2009 worden verzameld, vervoerd en verwijderd; en
+- c. ingeval van verplaatsing naar een gebied buiten een beperkingszone I, II en III, het vervoermiddel is uitgerust met een satellietnavigatiesysteem om op enig moment de actuele locatie ervan te bepalen, door te geven en te registreren.
+
+3\. De exploitant van het vervoer stelt de Minister in staat om op enig moment toezicht te houden op de verplaatsing van de vervoermiddelen als bedoeld in het tweede lid, onderdeel c, en bewaart de elektronische registratie van de verplaatsing gedurende ten minste twee maanden vanaf het tijdstip van de verplaatsing van de zending
+
+#### Artikel 2.9
+
+Het is verboden gehouden varkens en producten daarvan vanuit een gebied opgenomen in deel A van bijlage II bij verordening 2023/594 buiten Nederland te brengen.
+
+## Hoofdstuk 3 — Preventieve maatregelen aviaire influenza
+
+### § 3.1 — Algemeen
+
+#### Artikel 3.1 — Grondslag
+
+Dit hoofdstuk berust op:
+
+- – verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidswetgeving’) (PbEU 2016, L 84); en
+- – gedelegeerde verordening (EU) 2023/361 tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat betreft regels voor het gebruik van bepaalde diergeneesmiddelen voor de preventie en bestrijding van bepaalde in de lijst opgenomen ziekten (Pb EU 2023, L 52);
+- – de artikelen 5.1, eerste lid, in samenhang met de artikelen 5.4, 5.5 en 5.6 van de wet;
+- – artikel 2.12, derde lid, van de wet.
+
+#### Artikel 3.2 — Begripsbepalingen
+
+1\. In dit hoofdstuk wordt verstaan onder:
+
+- *commercieel gehouden vogels:* pluimvee of in gevangenschap levende vogels die worden gekweekt of gehouden met de bedoeling geld te verdienen;
+- *dierentuin:* dierentuin als bedoeld in artikel 4.1 van het besluit houders van dieren;
+- *eendagskuiken:* kip die nog geen 72 uur oud is;
+- *hygiëneprotocol:* set praktische hygiëneregels ter bevordering van de bioveiligheid in een specifieke situatie, zoals bekendgemaakt op de website van de Nederlandse Voedsel- en Warenautoriteit;
+- *loopvogels:* Struthioniformes (struisvogels), Rheiformes (nandoes), Casuariiformes (kasuarissen en emoes) en Apterygiformes (kiwi's);
+- *risicovogels:* hoenderachtigen, watervogels of loopvogels, in gevangenschap gefokt of gehouden;
+- *sierwatervogels:* watervogels die worden gehouden met een ander doel dan de productie van vlees of eieren;
+- *vervoer:* vervoer over de openbare weg, met of zonder vervoermiddel;
+- *vogelverblijfplaats:* kooi, volière, terrein of gebouw met uitzondering van woonruimte, waar risicovogels aanwezig zijn of gewoonlijk worden gehouden en aanverwante ruimtes waar materiaal ten behoeve van risicovogels is opgeslagen of gewoonlijk wordt opgeslagen;
+- *watervogels:* zwanen, ganzen, eenden, duikers, aalscholvers, reigers, ooievaars, ibissen, flamingo’s, futen, kraanvogels, rallen, steltlopers, meeuwen en sterns.
+
+2\. Onder vervoer wordt mede verstaan: aanvoer en afvoer.
+
+#### Artikel 3.3
+
+De artikelen 3.6, 3.7, 3.8, 3.10 en 3.11 zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
+
+### § 3.2 — Algemene maatregelen
+
+#### Artikel 3.4 — Afscherm- en ophokplicht
+
+Vervallen
+
+#### Artikel 3.5 — Verbod wedstrijden en tentoonstellingen met risicovogels
+
+1\. Jaarbeurzen, markten, wedvluchten, culturele evenementen, tentoonstellingen, keuringen of andere tijdelijke verzamelingen zijn verboden, wanneer daar risicovogels op een plaats worden verzameld.
+
+2\. Het verbod, bedoeld in het eerste lid, is niet van toepassing op wedstrijden en tijdelijke verzamelingen, met uitzondering van markten, onder de volgende voorwaarden:
+
+- a. vogels worden niet verzameld met andere zoogdieren, met uitzondering van gedomesticeerde konijnen of knaagdieren;
+- b. watervogels worden niet verzameld met loopvogels of hoenderachtigen;
+- c. op de plaats van de verzameling zijn vogels van maximaal dertig houders aanwezig;
+- d. de vogels gaan na de verzameling terug naar de inrichting en blijven aldaar voor minimaal zeven dagen.
+
+### § 3.3 — Maatregelen strooisel eenden
+
+#### Artikel 3.6 — Afdekken strooisel eenden
+
+Een exploitant van commercieel gehouden eenden dekt de op zijn inrichting aanwezige voorraad strooisel ten behoeve van de bodembedekking van vogelverblijfplaatsen af.
+
+#### Artikel 3.7 — Aanbrengen strooisel eenden
+
+1\. Het is verboden strooisel in vogelverblijfplaatsen aan te brengen op een inrichting met commercieel gehouden eenden.
+
+2\. Het eerste lid is niet van toepassing indien het aanbrengen van strooisel overeenkomstig een hygiëneprotocol plaatsvindt.
+
+### § 3.4 — Maatregelen bezoek
+
+#### Artikel 3.8 — Bezoekverbod vogelverblijfplaatsen
+
+1\. Het is bezoekers verboden een vogelverblijfplaats die onderdeel is van een inrichting met commercieel gehouden vogels of een niet deugdelijk fysiek van die verblijfplaats afgescheiden woonruimte of een ander deel van een inrichting te betreden.
+
+2\. In afwijking van het eerste lid is het toegestaan een vogelverblijfplaats te betreden, indien:
+
+- a. er geen risicovogels in de vogelverblijfplaats aanwezig zijn;
+- b. sprake is van een acute noodsituatie die het betreden noodzaakt; of
+- c. het bezoek plaatsvindt overeenkomstig een hygiëneprotocol en de bezoeker, indien die geen onderdeel uitmaakt van het personeel van de inrichting waarvan de vogelverblijfplaats onderdeel uitmaakt, zich registreert.
+
+3\. Het is een exploitant van vogels verboden om een bezoeker toe te laten tot de in het eerste lid bedoelde ruimtes, tenzij het bezoek op grond van het tweede lid is toegestaan.
+
+4\. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op het vervoermiddel van een bezoeker.
+
+#### Artikel 3.9 — Afwijking bezoekverbod dierentuinen
+
+In afwijking van artikel 3.8 is het toegestaan een vogelverblijfplaats van een dierentuin te betreden.
+
+#### Artikel 3.10 — Bezoekverbod commerciële inrichting
+
+1\. Onverminderd artikel 3.8 is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
+
+2\. In afwijking van het eerste lid is het toegestaan de inrichting te betreden, indien:
+
+- a. er geen risicovogels in de inrichting aanwezig zijn;
+- b. sprake is van een acute noodsituatie die het betreden noodzaakt; of
+- c. het bezoek plaatsvindt overeenkomstig een hygiëneprotocol en de bezoeker, indien die geen onderdeel uitmaakt van het personeel van de inrichting, zich registreert.
+
+3\. Het eerste en tweede lid zijn van overeenkomstige toepassing op het vervoermiddel van de bezoeker.
+
+4\. Een exploitant van commercieel gehouden vogels brengt duidelijk zichtbare afscheidingen aan langs de grenzen van de inrichting.
+
+5\. Het eerste tot en met het vierde lid zijn niet van toepassing op een dierentuin.
+
+#### Artikel 3.11 — Registratieplicht
+
+1\. Een exploitant van vogels houdt een register bij van bezoeken aan een vogelverblijfplaats die onderdeel is van een inrichting met commercieel gehouden vogels, niet deugdelijk fysiek van die verblijfplaats afgescheiden woonruimte of ander deel van een inrichting, waarin ten minste zijn opgenomen:
+
+- a. de naam, het adres de en woonplaats van de bezoeker;
+- b. wanneer de bezoeker een vervoermiddel heeft gebruikt, de soort en het kenteken van het vervoermiddel;
+- c. de reden van het bezoek; en
+- d. de datum en het tijdstip van aankomst en vertrek van de bezoeker.
+
+2\. Het eerste lid is niet van toepassing op een dierentuin.
+
+3\. De exploitant bewaart het register ten minste drie maanden vanaf het tijdstip van bezoek.
+
+#### Artikel 3.11a — Bezoekersverbod inrichtingen commercieel gehouden vogels Regio 10
+
+Vervallen
+
+### § 3.5 — Maatregelen vervoer
+
+#### Artikel 3.12 — Vervoer van commercieel gehouden hoenderachtigen, ganzen of eenden
+
+1\. Het is verboden hoenderachtigen, ganzen of eenden, met uitzondering van eendagskuikens van die diersoorten, te vervoeren tussen inrichtingen in Nederland waar deze vogels commercieel worden gehouden.
+
+2\. In afwijking van het eerste lid is het vervoer toegestaan indien:
+
+- a. het vervoer rechtstreeks plaatsvindt;
+- b. het vervoer plaatsvindt overeenkomstig een hygiëneprotocol; en
+- c. de vogels vergezeld gaan van een verklaring die minder dan 24 uur oud is van een dierenarts waaruit blijkt dat deze dieren op basis van een klinische inspectie geen ziekteverschijnselen vertonen.
+
+3\. De verklaring, bedoeld in het tweede lid, onderdeel c, bevat in elk geval:
+
+- a. de datum en het tijdstip van de klinische inspectie;
+- b. de contactgegevens en het subregistratienummer, bedoeld in artikel 5a.1, derde lid, van de Regeling houders van dieren, van de inrichting waarvandaan het vervoer plaatsvindt;
+- c. de bevindingen van de klinische inspectie; en
+- d. de naam en de handtekening van de dierenarts.
+
+4\. De exploitant van de inrichting waar de vogels, bedoeld in het eerste lid, onder toepassing van het tweede lid worden afgeleverd, bewaart de in het tweede lid, onderdeel c, bedoelde verklaring gedurende zes maanden.
+
+#### Artikel 3.13 — Vervoer van eenden en kalkoenen naar een slachthuis
+
+1\. Het is verboden eenden of kalkoenen te vervoeren tussen een inrichting waar eenden of kalkoenen commercieel worden gehouden en een slachthuis in Nederland.
+
+2\. In afwijking van het eerste lid is het vervoer toegestaan indien:
+
+- a. het vervoer rechtstreeks plaatsvindt; en
+- b. het vervoer plaatsvindt overeenkomstig een hygiëneprotocol.
+
+#### Artikel 3.13a — Vervoersverbod risicovogels regio 19
+
+Vervallen
+
+### § 3.6 — Maatregel meldingsplicht
+
+#### Artikel 3.14 — Meldingsplicht ziekteverschijnselen aviaire influenza eenden, leghennen, vermeerderingsdieren en vleeskuikens
+
+Als andere aangewezen ziekteverschijnselen als bedoeld in artikel 1.31, eerste lid, onderdeel b, van het Besluit houders van dieren worden aangewezen:
+
+- a. verhoogde sterfte van eenden, vanaf de zevende dag na de dag van opzet, in de volgende gevallen:
+  - 1°. 0,15% of meer uitval per dag gedurende twee opeenvolgende dagen; of;
+  - 2°. 0,5% of meer uitval op een dag en gelijktijdig een voeropnamedaling van 5%;
+- b. verhoogde sterfte van leghennen, vermeerderingsdieren of vleeskuikens, wanneer die dieren ouder zijn dan tien dagen en indien het aantal dieren van de onderscheiden categorieën dat sterft gedurende twee achtereenvolgende dagen groter is dan drie maal het gemiddelde sterftecijfer van het desbetreffende koppel in de week voorafgaand aan de sterfte.
+
+#### Artikel 3.15 — Meldingsplicht verschijnselen aviaire influenza eendenhouderijen
+
+Vervallen
+
+#### Artikel 3.16 — Meldingsplicht verschijnselen aviaire influenza leghennen, vermeerderingsdieren of vleeskuikens
+
+Vervallen
+
+### § 3.7 — Maatregel vroegsignalering eenden
+
+#### Artikel 3.16\* — Verplichting tot zenden kadavers aan Gezondheidsdienst voor Dieren
+
+Vervallen
+
+### § 3.8 — Kanalisatie gevaccineerd pluimvee en producten daarvan
+
+#### Artikel 3.17 — Verbod op verplaatsingen
+
+Het is verboden tegen hoogpathogene aviaire influenza gevaccineerd pluimvee en producten daarvan te verplaatsen vanuit of naar een inrichting of pakstation.
+
+## Hoofdstuk 4 — Preventieve maatregelen Sars-CoV-2 nertsen
+
+### Artikel 4.1 — Grondslag
+
+Dit hoofdstuk berust op:
+
+- – verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van 17 november 2003 inzake de bestrijding van salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PB L 325); en
+- – artikel 5.1, eerste lid, in samenhang met artikel 5.10, eerste lid, onderdeel b, in samenhang met tweede lid, onderdeel d, en derde lid, onderdelen d en e, van de Wet dieren.
+
+### Artikel 4.2 — In Nederland brengen van nertsen
+
+Het is verboden nertsen in Nederland te brengen.
+
+### Artikel 4.3 — In Nederland brengen van kadavers van nertsen of nertsenpelzen
+
+Het is verboden kadavers van nertsen, gepelsde kadavers van nertsen of onbewerkte pelzen van nertsen in Nederland te brengen.
+
+### Artikel 4.4 — Opslag mest en verbod afvoer
+
+Vervallen
+
+## Hoofdstuk 5 — Verplaatsingen van salamanders
+
+### Artikel 5.1 — Grondslag
+
+Vervallen
+
+### Artikel 5.2 — Begripsbepalingen
+
+Vervallen
+
+### Artikel 5.3 — Verboden op binnen en buiten Nederland brengen vanuit en naar een lidstaat
+
+Vervallen
+
+### Artikel 5.4 — Verplichtingen exploitant
+
+Vervallen
+
+## Hoofdstuk 6 — Reiniging en ontsmetting voertuigen uit het buitenland
+
+### Artikel 6.1 — Begripsbepalingen
+
+In dit hoofdstuk wordt verstaan onder:
+
+- *besluit:* Besluit houders van dieren.
+
+### Artikel 6.2 — Grondslag
+
+Dit hoofdstuk berust op artikel 5.1, eerste lid, in samenhang met artikel 5.5, eerste en tweede lid, onder i, van de Wet dieren.
+
+### Artikel 6.3 — Reiniging en ontsmetting van voertuigen uit het buitenland
+
+1\. Een vervoermiddel, afkomstig uit een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in artikel 6.4 is bevestigd, waarmee een of meer dieren van soorten, of dierlijke producten, genoemd in dat artikel bij die ziekte, in Nederland worden gebracht of een vervoermiddel afkomstig uit een derde land, dat wordt gelost op een inrichting die niet beschikt over een ingevolge artikel 2.10c van het besluit erkende reinigings- en ontsmettingsplaats, wordt in voorkomend geval na reiniging en ontsmetting als bedoeld in artikel 2.10b van het besluit onmiddellijk vervoerd naar een ingevolge artikel 2.10c van het besluit erkende reinigings- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij, om aldaar te worden gereinigd en ontsmet.
+
+2\. Een vervoermiddel dat in een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in artikel 6.4 is bevestigd, kennelijk is gebruikt voor het vervoeren van een of meer dieren van soorten, of dierlijke producten, genoemd in dat artikel bij die ziekte, of in derde landen, en dat vanuit deze lidstaat of derde landen, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge artikel 2.10c van het besluit erkende reiniging- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij.
+
+3\. De exploitant van het vervoermiddel, bedoeld in het eerste of tweede lid, overlegt binnen 24 uur na binnenkomst in Nederland aan de Minister een bewijs van de reiniging en ontsmetting als bedoeld in artikel 2.10d, derde lid, van het besluit.
+
+4\. Wanneer het vervoermiddel, bedoeld in het eerste of tweede lid, afkomstig is uit een lidstaat, meldt de exploitant aan de Minister in aanvulling op het derde lid binnen 24 uur na binnenkomst in Nederland het nummer van het gezondheidscertificaat, bedoeld in artikel 143 van verordening (EU) nr. 2016/429, dat het meest recentelijk is afgegeven.
+
+5\. Het eerste, tweede, derde en vierde lid zijn van overeenkomstige toepassing op een vervoermiddel dat afkomstig is uit een lidstaat, of gebied van een lidstaat, waar een besmettelijke dierziekte, genoemd in artikel 6.4, bij een in het wild levend dier is bevestigd, indien die lidstaat, of dat gebied van die lidstaat, is aangewezen in artikel 6.5.
+
+### Artikel 6.4 — Besmettelijke dierziekten reiniging en ontsmetting vervoermiddelen afkomstig uit het buitenland
+
+De besmettelijke dierziekte, bedoeld in artikel 6.3, eerste, tweede en vijfde lid, zijn:
+
+- a. voor evenhoevigen:
+  - – Afrikaanse varkenspest;
+  - – klassieke varkenspest;
+  - – mond- en klauwzeer;
+  - – pest bij kleine herkauwers (« peste des petits ruminants »);
+  - – Rift Valley koorts;
+  - – runderpest;
+  - – schapen- en geitenpokken;
+  - – ziekte van Aujeszky;
+  - – infectie met het nodulaire-dermatosevirus.
+- b. voor pluimvee of broedeieren:
+  - – hoogpathogene aviaire influenza;
+  - – Newcastle Disease.
+
+### Artikel 6.5 — Aanwijzing lidstaten met besmettingen bij wilde dieren waarvoor reiniging en ontsmetting is verplicht
+
+Als lidstaten of gebieden daarvan als bedoeld in artikel 6.3, vijfde lid, zijn aangewezen:
+
+- – geen.
+
+## Hoofdstuk 7 — Blauwtongvirus
+
+### Artikel 7.1 — Grondslag
+
+Dit hoofdstuk berust op:
+
+- – artikel 13 van gedelegeerde verordening (EU) 2020/688 van de Commissie tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat betreft de diergezondheidsvoorschriften voor verplaatsingen binnen de Unie van landdieren en broedeieren (PbEU L 174); en
+- – artikel 4.9 van het Besluit handhaving en overige zaken Wet dieren.
+
+### Artikel 7.2 — Begripsbepalingen
+
+1\. In dit hoofdstuk wordt verstaan onder:
+
+- *verordening 2020/688:* Gedelegeerde verordening (EU) 2020/688 van de Commissie tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat betreft de diergezondheidsvoorschriften voor verplaatsingen binnen de Unie van landdieren en broedeieren (PbEU 2020/L 174);
+- *verordening 2020/689:* Gedelegeerde verordening (EU) 2020/689 van de Commissie tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat betreft regels voor bewaking, uitroeiingsprogramma’s en de ziektevrije status voor bepaalde in de lijst opgenomen ziekten en nieuwe ziekten (PbEU 2020/L 174).
+
+2\. De begripsbepalingen van artikel 2 van verordening 2020/688 zijn van toepassing op dit hoofdstuk.
+
+### Artikel 7.3 — Verplaatsen dieren vanuit een lidstaat met blauwtongvirus serotype 3 naar Nederland
+
+1\. In afwijking van artikel 10, eerste lid, aanhef, onderdeel i, van verordening 2020/688 is het toegestaan gehouden runderen vanuit een lidstaat waar dieren zijn besmet met blauwtongvirus, uitsluitend serotype 3, in Nederland te brengen.
+
+2\. In afwijking van artikel 15, eerste lid, aanhef, onderdeel h, van verordening 2020/688 is het toegestaan gehouden schapen en geiten vanuit een lidstaat waar dieren zijn besmet met blauwtongvirus, uitsluitend serotype 3, in Nederland te brengen.
+
+3\. In afwijking van artikel 23, eerste lid, aanhef, onderdeel j, van verordening 2020/688 is het toegestaan gehouden kameelachtigen vanuit een lidstaat waar dieren zijn besmet met blauwtongvirus, uitsluitend serotype 3, in Nederland te brengen.
+
+4\. In afwijking van artikel 26, eerste lid, aanhef, onderdeel j, van verordening 2020/688 is het toegestaan gehouden hertachtigen vanuit een lidstaat waar dieren zijn besmet met blauwtongvirus, uitsluitend serotype 3, in Nederland te brengen.
+
+5\. In afwijking van artikel 29, eerste lid, aanhef, onderdeel i, van verordening 2020/688 is het toegestaan andere gehouden hoefdieren vanuit een lidstaat waar dieren zijn besmet met blauwtongvirus, uitsluitend serotype 3, binnen Nederland te brengen.
+
+### Artikel 7.4 — Verplaatsen runderen jonger dan negentig dagen vanuit een lidstaat naar Nederland
+
+In afwijking van artikel 10, eerste lid, onderdeel i, van verordening 2020/688 is het toegestaan runderen jonger dan negentig dagen vanuit een lidstaat waar geen dieren besmet zijn met blauwtongvirus, serotype 3, in Nederland te brengen, indien voldaan is aan verordening 2020/689, bijlage V, deel II, hoofdstuk 2, afdeling 1, punt 6.
+
+## Hoofdstuk 8 — Mond- en klauwzeer
+
+### § 8.1 — Algemeen
+
+#### Artikel 8.1 — Grondslag
+
+Vervallen
+
+#### Artikel 8.2 — Begripsbepalingen
+
+Vervallen
+
+### § 8.2 — Maatregelen vleeskalveren
+
+#### Artikel 8.3 — Afvoerverbod
+
+Vervallen
+
+#### Artikel 8.4 — Bezoekverbod
+
+Vervallen
+
+## Hoofdstuk 9
+
+(Gereserveerd)
+
+## Hoofdstuk 10
+
+(Gereserveerd)
+
+## Hoofdstuk 11 — Slotbepalingen
+
+### Artikel 11.1
+
+Deze regeling treedt in werking met ingang van 21 april 2021.
+
+### Artikel 11.2
+
+Deze regeling wordt aangehaald als: Regeling veterinaire maatregelen specifieke dierziekten of zoönosen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+’s-Gravenhage 12 april 2021
+
+De Minister van Landbouw, Natuur en Voedselkwaliteit,\
+C.J. Schouten
+
+## Bijlage 1 — behorende bij artikel 2.2, tweede lid
+
+Gebieden als bedoeld in artikel 2.2, tweede lid
+
+### 1 — Leefgebied Wild zwijn Veluwe
+
+Het leefgebied is in donkergroen aangeduid.
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045051/2026-06-11_0/xml/265353.png)
+
+### 2 — Leefgebied De Meinweg, Leefgebied Meerlebroek
+
+![Afbeelding](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0045051/2026-06-11_0/xml/265355.png)
+
+## Bijlage 1a — Beperkingszones I, II en III als bedoeld in artikel 2.1a
+
+### Enige bepaling
+
+Wanneer een in deze bijlage genoemde beperkingszone ook is opgenomen in bijlage I bij verordening 2023/594, heeft de beschrijving van die zone in die verordening voorrang.
+
+### Deel I
+
+Lijst van gebieden die zijn aangewezen als beperkingszone I (Extra beperkingszones)
+
+(gereserveerd)
+
+### Deel II
+
+Lijst van gebieden die zijn aangewezen als beperkingszone II (Besmette zones)
+
+(gereserveerd)
+
+### Deel III
+
+Lijst van gebieden die zijn aangewezen als beperkingszone III (Beperkingszones)
+
+(gereserveerd)
+
+## Bijlage 1b — Regio’s als bedoeld in artikel 3.5, tweede lid
+
+Vervallen
+
+## Bijlage 1c — Regio’s als bedoeld in artikel 3.4, derde lid
+
+Vervallen
+
+## Bijlage 2 — Regio’s als bedoeld in artikel 3.4, vierde lid
+
+### Regio 7
+
+- 1. Vanaf de kruising van de A27 met het Eemmeer, het Eemmeer volgend in oostelijke richting overgaand in de Nijkerkernauw, overgaand in de Nuldernauw, overgaand in de Wolderwijd, overgaand in het Veluwemeer, overgaand in het Drontermeer overgaand in het Vossemeer tot aan de rivier de IJssel.
+- 2. De rivier de IJssel volgend in zuidelijke richting tot aan de Kruising A1 met de rivier de IJssel bij Deventer (vlakbij de afslag 23 Deventer).
+- 3. De A1 volgend in westelijke richting tot aan de kruising van de A1 met de A27, bij Knooppunt Eemnes.
+- 4. De A27 volgend in noordelijke richting tot aan de kruising van de A27 met het Eemmeer.
+
+### Regio 10
+
+- 1. Vanaf de kruising van de A27 en de A1 (Knooppunt Eemnes), de A1 volgend in oostelijke richting tot aan de Kruising A1 met de rivier de IJssel bij Deventer (vlakbij de afslag 23 Deventer).
+- 2. De rivier de IJssel volgend in zuidelijke richting tot aan de kruising van de rivier de IJssel en de rivier de Rijn.
+- 3. De rivier de Rijn volgend in westelijke richting, overgaand in de rivier de Nederrijn tot aan het Amsterdam Rijn Kanaal.
+- 4. Het Amsterdam Rijn Kanaal volgend in noordwestelijke richting tot aan de Afslag 29 Houten van de A27.
+- 5. Vanaf Afslag 29 Houten de A27 volgend in noordelijke richting tot aan de A1 Knooppunt Eemnes.
